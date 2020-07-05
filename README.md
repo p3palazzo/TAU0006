@@ -11,6 +11,9 @@
 
 ## Livro-texto ##
 
+Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
+*História global da arquitetura*. São Paulo: Senac São Paulo, 2016.
+
 <details>
 
   <summary> Como obter o e-book </summary>
