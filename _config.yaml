@@ -1,0 +1,69 @@
+# Content {{{1
+# General {{{2
+title: História da Arquitetura e da Arte II
+author:
+  name: Pedro Paulo Palazzo
+  email: palazzo@unb.br
+description: >-
+  História das cidades, dos edifícios e da edificação na tradição
+  europeia a partir do início do Renascimento na Itália até o século
+  XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
+  Europa para as colônias americanas de fala inglesa e francesa.
+baseurl: "/tau0006"
+url: "https://p3palazzo.github.io"
+lang: pt-BR
+
+# Build settings {{{1
+# Theme {{{2
+theme: minima
+header_pages:
+  - README.md
+minima:
+  date_format : "%e %B %Y"
+  social_links:
+    twitter   : p3palazzo
+    github    : p3palazzo
+    instagram : arqtrad
+
+# Build parameters {{{2
+#permalink: pretty
+timezone: America/Sao_Paulo
+relative_links:
+  enabled         : true
+  collections     : true
+readme_index:
+  enabled         : true
+  remove_originals: true
+  with_frontmatter: true
+kramdown:
+  header_offset   : 1
+  parse_block_html: true
+  parse_span_html : true
+
+# Plugins {{{2
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  #- kramdown
+    # The following plugins are always used by GH-Pages
+  - jekyll-coffeescript
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  # Plugins incompatible with GitHub Pages
+  #- jekyll-scholar
+
+# Keep and Exclude {{{2
+keep_files:
+  - reveal.js
+exclude:
+  - "[0-9][0-9]-*.md"
+  - downloads
+  - reveal.js
+  - spec
+  - Gemfile*
+  - LICENSE
+  - Makefile
+# vim: set foldmethod=marker :
