@@ -20,7 +20,7 @@ jekyll : $(BUT)
 
 _site/%.html : %.md revealjs.yaml
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		pandoc/core:2.10 -o $@ -d spec/revealjs.yaml $<
+		pandoc/core:2.9.2.1 -o $@ -d spec/revealjs.yaml $<
 
 serve :
 	docker run --rm -p 4000:4000 -h 127.0.0.1 \
