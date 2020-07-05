@@ -1,6 +1,6 @@
 # História da Arquitetura e da Arte II
 
-![Build status](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)
+![Build status](https://github.com/p3palazzo/tau0006/workflows/Build/badge.svg)
 
 > História das cidades, dos edifícios e da edificação na tradição
 > europeia a partir do início do Renascimento na Itália até o século
