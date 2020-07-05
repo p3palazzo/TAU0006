@@ -7,10 +7,10 @@ para as colônias americanas de fala inglesa e francesa.
 
 ## License
 
-Adaptive Strategies in Traditional Building (c) 2020 by Pedro P. Palazzo
+TAU 0006 (c) 2020 by Pedro P. Palazzo
 
-Adaptive Strategies for Traditional Building is licensed under a Creative
-Commons Attribution 4.0 International License.
+TAU 0006 is licensed under a Creative Commons Attribution 4.0
+International License.
 
 You should have received a copy of the license along with this work. If
 not, see http://creativecommons.org/licenses/by/4.0/.
