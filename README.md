@@ -72,12 +72,12 @@ Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
   a capacidade de acesso às plataformas digitais da Universidade é de
   responsabilidade dos alunos.
 
-- Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
+- ~Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
   aula de atraso, exceto nos casos justificados e comprovados previstos
   na legislação e nos regimento aplicáveis. Necessidades especiais na
   realização das atividades da disciplina devem ser apontadas aos
   professores da disciplina o mais cedo possível, e serão analisadas
-  caso a caso.
+  caso a caso.~
 
 - Integridade e reconhecimento são valores éticos fundamentais da
   cidadania e da profissão. Apropriação do trabalho alheio — seja de
@@ -87,25 +87,15 @@ Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
 
 ## Avaliação ##
 
-A aquisição das competências previstas nos objetivos de aprendizagem
-será avaliada por meio do cumprimento de um plano de estudos
-estabelecido pelo aluno. Esse plano de estudos deve ser formulado a
-partir dos módulos indicados a seguir:
+A avaliação de desempenho na disciplina será feita por meio de quatro
+atividades de cunho teórico-prático individuais:
 
-- Módulo comum, obrigatório para todos os planos de estudos:
-  - **Leitura e discussão de textos:** Resenhas críticas dos capítulos
-    do livro-texto.
-- Um dos módulos a seguir, à escolha:
-  - **Teoria e prática da arquitetura tradicional:** Projetos de
-    arquitetura tradicional, em desenho e maquete, evidenciado o
-    conhecimento da construção, composição e ornamentação de edificações
-    e cidades históricas;
-  - **Pesquisa e revisão crítica em história da arquitetura:** Métodos
-    de pesquisa historiográfica, por meio de projetos de documentação
-    de bibliografia e de imagens, e principalmente da produção de textos
-    acadêmicos;
-  - Plano de estudos personalizado, a ser aprovado pelo professor da
-    disciplina, combinando atividades dos dois módulos acima.
+| Unidade | Atividade                     | Peso |
+|--------:|:------------------------------|-----:|
+|         | Resenha e discussão de textos | 20 % |
+|       I | Formas urbanas                | 20 % |
+|      II | Arquitetura clássica          | 30 % |
+|     III | Antiguidade e modernidade     | 30 % |
 
 ## Programa ##
 
