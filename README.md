@@ -90,7 +90,6 @@ Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
 A avaliação de desempenho na disciplina será feita por meio de quatro
 atividades de cunho teórico-prático individuais:
 
-<<<<<<< HEAD
 | Unidade | Atividade                     | Peso |
 |--------:|:------------------------------|-----:|
 |         | Resenha e discussão de textos | 20 % |
