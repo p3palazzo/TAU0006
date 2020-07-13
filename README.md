@@ -1,4 +1,4 @@
-# História da Arquitetura e da Arte II
+# História da Arquitetura e da Arte II #
 
 ![Build status](https://github.com/p3palazzo/tau0006/workflows/Build/badge.svg)
 
@@ -8,6 +8,32 @@
 > Europa para as colônias americanas de fala inglesa e francesa.
 
 ## Apresentação e objetivos de aprendizagem ##
+
+Esta disciplina dá sequência ao conteúdo de história da arquitetura em
+ordem cronológica e numa perspectiva mundial. Com respeito às
+disciplinas que a antecedem e sucedem, História II apresenta um foco
+algo mais específico sobre a tradição clássica ocidental.
+
+### Objetivo geral ###
+
+Adquirir um domínio operativo da arquitetura e do urbanismo da era
+moderna enquanto objeto de pesquisa historiográfica e enquanto tradição
+fundadora do campo profissional, plástico e técnico da
+contemporaneidade.
+
+### Objetivos específicos ###
+
+1. Constituir uma visão global sobre os fundamentos urbanísticos e
+   culturais nos quais se desenvolvem as tradições arquitetônicas da era
+   moderna.
+
+2. Adquirir domínio operativo dos elementos de vocabulário e da
+   gramática das tradições da era moderna, com ênfase na linguagem
+   clássica da arquitetura.
+
+3. Refletir criticamente sobre a tradição historiográfica da
+   arquitetura, apreendendo os debates a respeito das noções de
+   Antiguidade e Modernidade.
 
 ## Livro-texto ##
 
@@ -41,7 +67,7 @@ Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
   ou por meio do sistema de mensagens desse mesmo ambiente.
 
 - A entrega de todas as avaliações da disciplina será feita,
-  preferencialmente, por meio eletrônico, na plataforma
+  exclusivamente, por meio eletrônico, na plataforma
   [Aprender 3](https://aprender3.unb.br) da UnB. O cadastro atualizado e
   a capacidade de acesso às plataformas digitais da Universidade é de
   responsabilidade dos alunos.
