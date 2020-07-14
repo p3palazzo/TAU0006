@@ -1,6 +1,7 @@
 ---
 title   : "História da Arquitetura e da Arte II"
 subtitle: "Plano de Ensino"
+author  : "Turma C"
 layout  : default
 lang    : pt-BR
 ---
@@ -44,7 +45,7 @@ contemporaneidade.
    arquitetura, apreendendo os debates a respeito das noções de
    Antiguidade e Modernidade.
 
-## Livro-texto ##
+### Livro-texto ###
 
 Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
 *História global da arquitetura*. São Paulo: Senac São Paulo, 2016.
@@ -111,80 +112,80 @@ atividades de cunho teórico-prático individuais:
 ### Unidade I. Redes urbanas na fundação do mundo moderno ###
 
 1. **Rotas comerciais e paradigmas urbanísticos.** Primeira
-   globalização. Cidades mercantes das rotas da Seda e das Monções.
-   Majapahit, Malacca, Delhi, Kilwa, İstanbul, Moscou, Veneza.
+   globalização – Cidades mercantes das rotas da Seda e das Monções –
+   Majapahit, Malacca, Delhi, Kilwa, İstanbul, Moscou, Veneza –
 
 2. **Cidades ideais e cidades possíveis.** Conceito de cidade ideal na
-   China e na Europa. Macrocosmo e microcosmo. Tratadística italiana.
-   Forma geométrica e fortificação de Filarete a Vauban. Plaza Mayor,
-   place Royale, Square. Do boma banto às cidades da Guiné
+   China e na Europa – Macrocosmo e microcosmo – Tratadística italiana –
+   Forma geométrica e fortificação de Filarete a Vauban – Plaza Mayor,
+   place Royale, Square – Do boma banto às cidades da Guiné
 
 3. **Historicidade da construção tradicional.** Debate sobre a relação
    entre transformação construtiva e historicidade da arquitetura:
-   Fletcher e Choisy. Inovações tecnológicas do século XV: a cúpula de
+   Fletcher e Choisy – Inovações tecnológicas do século XV: a cúpula de
    Brunelleschi e a estereotomia de De L'Orme
 
-4. **Arte clássica.** Classicismo como método e atitude. Teorização das
-   três projeções ortográficas. Ideia e desenho como produtos do
-   trabalho intelectual do arquiteto. Bramante e Rafael. Projetos para a
+4. **Arte clássica.** Classicismo como método e atitude – Teorização das
+   três projeções ortográficas – Ideia e desenho como produtos do
+   trabalho intelectual do arquiteto – Bramante e Rafael – Projetos para a
    basílica de São Pedro
 
 5. **Arquitetura universal.** Tratadística da arquitetura na Itália e na
-   China. Classicismo como cânone e variações possíveis. Serlio e
+   China – Classicismo como cânone e variações possíveis – Serlio e
    Vignola: adaptabilidade do sistema clássico a diferentes culturas
-   construtivas e espaciais. Scamozzi e o "dogmatismo"
+   construtivas e espaciais – Scamozzi e o "dogmatismo"
 
 ### Unidade II. Linguagens clássicas da arquitetura ###
 
-6. **Clássico anticlássico.** Michelangelo. Vignola e Palladio no
-   original e em tradução. Igrejas centralizadas e basilicais.
+6. **Clássico anticlássico.** Michelangelo – Vignola e Palladio no
+   original e em tradução – Igrejas centralizadas e basilicais –
    Classicismo como composição de formas abstratas e como arranjo de
    elementos figurativos
 
 7. **Barroco e classicismo.** Elementos de arquitetura e elementos de
-   composição. Academias. Barroco romano versus classicismo francês?
-   Bernini e Borromini. Mansart, Le Vau e os Blondel
+   composição – Academias – Barroco romano versus classicismo francês?
+   Bernini e Borromini – Mansart, Le Vau e os Blondel
 
 8. **Arquitetura acadêmica.** Definição do campo profissional do
-   arquiteto. Academias europeias e os primórdios do ensino formal.
-   Construtores, artistas e letrados no domínio da arquitetura. O debate
+   arquiteto – Academias europeias e os primórdios do ensino formal –
+   Construtores, artistas e letrados no domínio da arquitetura – O debate
    francês sobre o gosto
 
 9. **Urbanismo como arquitetura.** Traçados viários enquanto projetos
-   arquitetônicos. Reformas urbanas monumentais: Roma, Versalhes,
+   arquitetônicos – Reformas urbanas monumentais: Roma, Versalhes,
    Karlsruhe, Isfahan, Jaipur, Pequim
 
 10. **Hidráulica ornamental e funcional.** Jardins de água corrente:
-    Itália, França e Mogol. Char-bagh. Jardins chineses. Chinampas
-    astecas. Terraços incaicos. Aterramento e canalização de águas
+    Itália, França e Mogol – Char-bagh – Jardins chineses – Chinampas
+    astecas – Terraços incaicos – Aterramento e canalização de águas
     urbanas
 
 ### Unidade III. Estilo e território: inquietações da modernidade ###
 
 11. **Barroco internacional.** Teorias do barroco: d'Ors, Tapié,
-    Hautecoeur. Virtuosismo construtivo: estereotomia francesa, Sinan,
-    Guarini, carpintaria do Tōdaiji. Sincretismo na América hispânica.
+    Hautecoeur – Virtuosismo construtivo: estereotomia francesa, Sinan,
+    Guarini, carpintaria do Tōdaiji – Sincretismo na América hispânica –
     Europa central, Rússia, império Otomano e Pérsia
 
 12. **Universo em expansão.** Universalidade da arquitetura (clássica?):
-    Fischer von Erlach, Winckelmann, Chambers. Do Grand Tour ao
-    pitoresco e ao exótico. Arquitetura anglo-indiana. Jesuítas na
-    China. Neogótico
+    Fischer von Erlach, Winckelmann, Chambers – Do Grand Tour ao
+    pitoresco e ao exótico – Arquitetura anglo-indiana – Jesuítas na
+    China – Neogótico
 
 13. **Reação clássica.** Tradição, correção e inovação como problemas da
-    crítica. Teoria neoclássica e elogio da simplicidade formal. Lodoli,
-    Milizia e Laugier. Kokugaku e Yamato-e: debates sobre caráter
+    crítica – Teoria neoclássica e elogio da simplicidade formal – Lodoli,
+    Milizia e Laugier – Kokugaku e Yamato-e: debates sobre caráter
     nacional no Japão
 
-14. **Territórios e viação.** Território como escala de intervenção.
-    Reorganização espacial no mundo hispânico. École des Ponts et
-    Chaussées e a viação como estratégia econômico-militar. Tōkaidō:
+14. **Territórios e viação.** Território como escala de intervenção –
+    Reorganização espacial no mundo hispânico – École des Ponts et
+    Chaussées e a viação como estratégia econômico-militar – Tōkaidō:
     todos os caminhos levam a Tóquio
 
 15. **Primeiros modernos.** Escola Politécnica: cisão entre arquitetura
-    e engenharia. Arquitetos da Revolução na França e a modernidade
-    retrospectiva. Declínio da estereotomia e criação do cálculo
-    estrutural. Racionalismo estrutural: stick framing e ferro
+    e engenharia – Arquitetos da Revolução na França e a modernidade
+    retrospectiva – Declínio da estereotomia e criação do cálculo
+    estrutural – Racionalismo estrutural: stick framing e ferro
 
 ## Bibliografia básica ##
 
