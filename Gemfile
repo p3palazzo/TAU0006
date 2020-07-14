@@ -1,10 +1,10 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.1"
+gem "jekyll", "~> 4.1.0"
 gem "minima"
 #gem "minima-scholar", "~> 2.5.3"
 #gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
-  gem "jekyll-feed"#, "~> 0.11"
+  gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   # Sassc is preferred to the legacy ruby-sass

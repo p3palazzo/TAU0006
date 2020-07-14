@@ -93,7 +93,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.1)
+  jekyll (~> 4.1.0)
   jekyll-coffeescript
   jekyll-feed
   jekyll-optional-front-matter

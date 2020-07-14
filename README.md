@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # História da Arquitetura e da Arte II #
 
 ![Build status](https://github.com/p3palazzo/tau0006/workflows/Build/badge.svg)
@@ -13,6 +17,12 @@ Esta disciplina dá sequência ao conteúdo de história da arquitetura em
 ordem cronológica e numa perspectiva mundial. Com respeito às
 disciplinas que a antecedem e sucedem, História II apresenta um foco
 algo mais específico sobre a tradição clássica ocidental.
+
+### Equipe ###
+
+- **Professor:** Pedro P. Palazzo
+- **Estagiário docente:** Sylvio Farias
+- **Monitores:**
 
 ### Objetivo geral ###
 

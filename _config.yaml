@@ -16,8 +16,8 @@ lang: pt-BR
 # Build settings {{{1
 # Theme {{{2
 theme: minima
-header_pages:
-  - README.md
+#header_pages:
+  #- README.md
 minima:
   date_format : "%e %B %Y"
   social_links:
@@ -36,7 +36,7 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 kramdown:
-  header_offset   : 1
+  #header_offset   : 1
   parse_block_html: true
   parse_span_html : true
 
@@ -56,14 +56,10 @@ plugins:
   #- jekyll-scholar
 
 # Keep and Exclude {{{2
-keep_files:
-  - reveal.js
 exclude:
   - "[0-9][0-9]-*.md"
   - downloads
-  - reveal.js
   - spec
-  - Gemfile*
   - LICENSE
   - Makefile
 # vim: set foldmethod=marker :
