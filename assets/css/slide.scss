@@ -4,13 +4,13 @@
 // Jekyll ---------------------------------------------
 @import "{{ site.theme }}";
 // Reveal.js ------------------------------------------
-@import "../reveal.js/css/theme/template/mixins";
-@import "../reveal.js/css/theme/template/settings";
+@import url(../../reveal.js/css/theme/template/mixins);
+@import url(../../reveal.js/css/theme/template/settings);
 @import url(../../reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
 // Customization
 @import "fonts";
-@import "tau0005";
-@import "../reveal.js/css/theme/template/theme";
+@import "tau0006";
+@import url(../../reveal.js/css/theme/template/theme);
 
 .reveal {
   background-color: darken( $backgroundColor, 15% );
