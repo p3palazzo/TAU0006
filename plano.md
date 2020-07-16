@@ -9,12 +9,14 @@ fontsize: 12pt
 nocite  : "@*"
 bibliography: 'biblio.bib'
 bibliography-title: " "
-abstract: |
-  História das cidades, dos edifícios e da edificação na tradição
-  europeia a partir do início do Renascimento na Itália até o século
-  XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
-  Europa para as colônias americanas de fala inglesa e francesa.
 ---
+
+#### Ementa ####
+
+História das cidades, dos edifícios e da edificação na tradição
+europeia a partir do início do Renascimento na Itália até o século
+XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
+Europa para as colônias americanas de fala inglesa e francesa.
 
 Apresentação
 ============
