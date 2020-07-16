@@ -5,6 +5,7 @@ author  : "Fau--UnB"
 date    : "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
 layout  : default
 lang    : pt-BR
+fontsize: 12pt
 nocite  : "@*"
 bibliography: 'biblio.bib'
 bibliography-title: " "

@@ -15,7 +15,6 @@ metadata:
   documentclass: article
   papersize: a4
   indent: true
-  fontsize: 12pt
   mainfont: "Garamond Premier Pro"
   mainfontoptions:
     - Numbers=Proportional
