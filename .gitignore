@@ -2,6 +2,9 @@
 ## Linked files must have a copy stored locally
 downloads
 
+# Pandoc creates a UUID file in local volume mounts
+.uuid
+
 # Reveal.js
 node_modules
 package-lock.json
