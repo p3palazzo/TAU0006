@@ -10,12 +10,30 @@ layout: default
 > XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
 > Europa para as colônias americanas de fala inglesa e francesa.
 
+## Livro-texto ##
+
+Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
+*História global da arquitetura*. São Paulo: Senac São Paulo, 2016.
+
+<details>
+
+  <summary> Como obter o livro-texto eletrônico </summary>
+
+  Acessar o site da [Biblioteca Central](https://bce.unb.br). Pesquisar
+  pelo livro usando a `🔍 Busca integrada` (função de busca padrão da
+  BCE). Na visualização do resultado, clicar no link `View record at
+  Minha Biblioteca`. Fazer login no serviço de leitura online usando as
+  credenciais da BCE (CPF e senha usada no balcão de empréstimo).
+
+</details>
+
+
 ## Sumário ##
 
 - [Plano de ensino](plano.md)
 - [Cronograma](cronograma.md)
 
-## License
+## License ##
 
 TAU 0006 (c) 2020 by Pedro P. Palazzo
 
