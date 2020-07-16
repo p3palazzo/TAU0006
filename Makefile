@@ -12,7 +12,7 @@ PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
 
 deploy : jekyll slides
 
-plano.pdf : pdf.yaml latex.yaml plano.md
+%.pdf : pdf.yaml %.md
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" \
 		pandoc/latex:2.9.2.1 -o $@ -d $^
