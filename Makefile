@@ -5,12 +5,17 @@ vpath %.xml _site
 vpath %.yaml spec
 
 ANYTHING  = $(filter-out _site,$(wildcard *))
-MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
+PANDOC    = $(filter-out README.md,$(wildcard *.md))
 REVEALJS  = $(wildcard [0-9][0-9]-*.md)
 SLIDES   := $(patsubst %.md,_site/%.html,$(REVEALJS))
 PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
 
 deploy : jekyll slides
+
+plano.pdf : pdf.yaml latex.yaml plano.md
+	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		-v "`pwd`/assets/fonts:/usr/share/fonts" \
+		pandoc/latex:2.9.2.1 -o $@ -d $^
 
 slides : $(SLIDES)
 

@@ -1,0 +1,8 @@
+from: markdown
+to: latex
+standalone: true
+cite-method: citeproc
+filters:
+- pandoc-citeproc
+pdf-engine: xelatex
+fail-if-warnings: true
