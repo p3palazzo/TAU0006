@@ -18,7 +18,7 @@ fontsize: 10pt
 |    i | *Rotas comerciais e paradigmas urbanísticos*         | Resenha: 469--473, 519, 537--538    | 31/08         |
 +------+------------------------------------------------------+-------------------------------------+---------------+
 |    1 | A primeira globalização -- Cidades mercantes das     |                                     |               |
-|      | rotasd a Seda e das Monções: Majapahit, Malacca,     |                                     |               |
+|      | rotas da Seda e das Monções: Majapahit, Malacca,     |                                     |               |
 |      | Delhi, Kilwa                                         |                                     |               |
 +------+------------------------------------------------------+-------------------------------------+---------------+
 |    2 | Cidades de cúpulas: Veneza, İstanbul e Moscou --     |                                     |               |
