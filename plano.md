@@ -123,7 +123,7 @@ Unidade I. Redes urbanas na fundação do mundo moderno
    Forma geométrica e fortificação de Filarete a Vauban -- Plaza Mayor,
    place Royale, Square -- Do *boma* banto às cidades da Guiné.
 
-3. **Historicidade da construção tradicional.** Debate sobre a relação
+3. **Renascimento e historiografia.** Debate sobre a relação
    entre transformação construtiva e historicidade da arquitetura:
    Fletcher e Choisy -- Inovações tecnológicas do século XV: a cúpula de
    Brunelleschi e a estereotomia de De L'Orme.
@@ -161,8 +161,8 @@ Unidade II. Linguagens clássicas da arquitetura
 
 10. **Hidráulica ornamental e funcional.** Jardins de água corrente:
     Itália, França e Mogol -- *Char-bagh* -- Jardins chineses --
-    *Chinampas* astecas -- Terraços incaicos -- Aterramento e
-    canalização de águas urbanas.
+    *Chinampas* astecas -- *Andenes*, *waru waru* e *cochas* incaicos --
+    Aterramento e canalização de águas urbanas.
 
 Unidade III. Estilo e território: inquietações da modernidade
 -------------------------------------------------------------

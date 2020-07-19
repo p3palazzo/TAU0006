@@ -23,7 +23,7 @@ fontsize: 10pt
 |    2 | Cidades de cúpulas: Veneza, İstanbul e Moscou --      |                                       |               |
 |      | Do *boma* banto às cidades da Guiné                   |                                       |               |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
-|   ii | *Historicidade da construção tradicional*             | Resenha: 474--490                     | 08/09         |
+|   ii | *Renascimento e historiografia*                       | Resenha: 474--490                     | 08/09         |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |    3 | Relação entre transformação                           |                                       |               |
 |      | construtiva e historicidade da arquitetura:           |                                       |               |
@@ -31,13 +31,13 @@ fontsize: 10pt
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |    4 | Inovações tecnológicas do século XV: a cúpula de      |                                       |               |
 |      | Brunelleschi e a estereotomia de De L'Orme --         |                                       |               |
-|      | Cúpulas asiáticas                                     |                                       |               |
+|      | Explorações da espacialidade: Cúpulas asiáticas       |                                       |               |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |  iii | *Cidades ideais e cidades possíveis*                  | Resenha: 425, 491--500, 554--562      | 15/09         |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |    5 | Macrocosmo e microcosmo -- Cidade ideal nas           |                                       |               |
-|      | tradições chinesa e mediterrânea -- Cidades Han       |                                       |               |
-|      | Feng Shui e Vitrúvio -- Cidades indo-muçulmanas       |                                       |               |
+|      | tradições chinesa e mediterrânea -- Cidades Han --    |                                       |               |
+|      | Yingzao Fashi e Vitrúvio -- Cidades indo-muçulmanas   |                                       |               |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |    6 | Forma geométrica e fortificação de Filarete a         |                                       |               |
 |      | Vauban -- Plaza Mayor, place Royale, Square           |                                       |               |
@@ -71,9 +71,9 @@ fontsize: 10pt
 |      | pérsia (*char-bagh*) e china -- monumentalidade dos   |                                       |               |
 |      | jardins franceses e mogóis                            |                                       |               |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
-|   12 | infraestrutura hidráulica: *chinampas* astecas e      |                                       |               |
-|      | terraços incaicos -- aterramento e canalização        |                                       |               |
-|      | de águas urbanas na Europa                            |                                       |               |
+|   12 | infraestrutura hidráulica: *chinampas* astecas;       |                                       |               |
+|      | *andenes*, *waru waru* e *cochas* incaicos --         |                                       |               |
+|      | aterramento e canalizaçãod e águas urbanas na Europa  |                                       |               |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
 |  vii | *Clássico anticlássico*                               | Resenha: 539--547                     | 13/10         |
 +------+-------------------------------------------------------+---------------------------------------+---------------+
