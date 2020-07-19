@@ -156,5 +156,8 @@ Egito mameluco, império Timúrida e sultanatos do Decã
 - Decã: Axialidades ortogonais estruturantes em espaços hierarquicamente
   dominantes, malhas não axiais em espaços de ligação.
 
+- Contra o determinismo: S. Lourenço de Brunelleschi como malha de
+  cúpulas.
+
 - Ambiguidade entre edificação e espaço urbano coberto: o que é uma
   cidade?

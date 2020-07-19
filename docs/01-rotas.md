@@ -44,21 +44,6 @@ Cidades mercantes da rota da Seda e do Índico
 - Cidades generalistas vs. cidades especialistas: entrepostos comerciais
   na costa leste da África e além.
 
-Cidades de cúpulas
-==================
-
-- Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
-  fora e novamente para dentro, tendo a malha viária (campo, calle e
-  canale) como elemento estruturante e o parcelamento do solo como
-  elemento estruturado.
-  Livro-texto p. 469
-
-- Complexo urbano--arquitetônico da mesquita otomana: arejando
-  Livro-texto p. 470--471
-
-- E quando o processo de estruturação malha viária--parcelamento se
-  inverte?
-
 Do *boma* banto às cidades da Guiné
 =================================
 
@@ -78,6 +63,28 @@ Do *boma* banto às cidades da Guiné
 - Progressão: aldeia fula, grande Zimbábue, Dogon, Edo e Kumasi.
 - Quilombos
 
-- Historicidade dos desenvolvimentos espaciais e construtivos tem sido
-  critério de hierarquização na historiografia europeia desde meados do
-  século XVIII.
+- E quando o processo de estruturação malha viária--parcelamento se
+  inverte?
+
+Cidades de cúpulas
+==================
+
+- Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
+  fora e novamente para dentro, tendo a malha viária (campo, calle e
+  canale) como elemento estruturante e o parcelamento do solo como
+  elemento estruturado.
+  Livro-texto p. 469
+
+- Complexo urbano--arquitetônico da mesquita otomana: arejando
+  Livro-texto p. 470--471
+
+- Excedente da prosperidade mercante permite investimento em arte
+  erudita e virtuosismo construtivo.
+
+- Gancho: um dos problemas seguintes.
+  - Historicidade dos desenvolvimentos espaciais e construtivos tem sido
+    critério de hierarquização na historiografia europeia desde meados
+    do século XVIII.
+  - Semelhanças entre Veneza e İstanbul levantam problema da distinção
+    Oriente/Ocidente na história da arquitetura.
+

@@ -68,10 +68,10 @@ fontsize: 10pt
 |   vi | *Hidráulica ornamental e funcional*                 | Resenha: 460--468, 501--518, 520--532              | 06/10         |
 +------+-----------------------------------------------------+----------------------------------------------------+---------------+
 |   11 | Jardim como microcosmo: Itália renascentista,       |                                                    |               |
-|      | pérsia (*char-bagh*) e china -- monumentalidade     |                                                    |               |
+|      | Pérsia (*chahar-bagh*) e China -- Monumentalidade   |                                                    |               |
 |      | dos jardins franceses e mogóis                      |                                                    |               |
 +------+-----------------------------------------------------+----------------------------------------------------+---------------+
-|   12 | infraestrutura hidráulica: *chinampas* astecas;     |                                                    |               |
+|   12 | Infraestrutura hidráulica: *chinampas* astecas --   |                                                    |               |
 |      | *andenes*, *waru waru* e *cochas* incaicos --       |                                                    |               |
 |      | aterramento e canalização de águas urbanas          |                                                    |               |
 |      | na Europa                                           |                                                    |               |

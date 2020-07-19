@@ -160,7 +160,7 @@ Unidade II. Linguagens clássicas da arquitetura
    Karlsruhe, Isfahan, Jaipur, Pequim.
 
 10. **Hidráulica ornamental e funcional.** Jardins de água corrente:
-    Itália, França e Mogol -- *Char-bagh* -- Jardins chineses --
+    Itália, França e Mogol -- *Chahar-bagh* -- Jardins chineses --
     *Chinampas* astecas -- *Andenes*, *waru waru* e *cochas* incaicos --
     Aterramento e canalização de águas urbanas.
 
