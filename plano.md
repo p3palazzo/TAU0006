@@ -115,7 +115,7 @@ Unidade I. Redes urbanas na fundação do mundo moderno
 -----------------------------------------------------
 
 1. **Rotas comerciais e paradigmas urbanísticos.** Primeira
-   globalização -- Cidades mercantes das rotas da Seda e das Monções --
+   globalização -- Cidades mercantes da rota da Seda e do Índico --
    Majapahit, Malacca, Delhi, Kilwa, İstanbul, Moscou, Veneza.
 
 2. **Cidades ideais e cidades possíveis.** Conceito de cidade ideal na
