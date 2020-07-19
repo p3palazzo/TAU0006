@@ -4,6 +4,7 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 date    : "Módulo II.10"
 lang    : pt-BR
+layout  : default
 ---
 
 Traçados viários enquanto projetos arquitetônicos

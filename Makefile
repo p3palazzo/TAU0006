@@ -6,8 +6,8 @@ vpath %.yaml spec
 
 ANYTHING  = $(filter-out _site,$(wildcard *))
 PANDOC    = $(filter-out README.md,$(wildcard *.md))
-REVEALJS  = $(wildcard [0-9][0-9]-*.md)
-SLIDES   := $(patsubst %.md,_site/%.html,$(REVEALJS))
+REVEALJS  = $(wildcard _slides/*.md)
+SLIDES   := $(patsubst _slides/%.md,_site/_slides/%.html,$(REVEALJS))
 PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
 
 deploy : jekyll slides

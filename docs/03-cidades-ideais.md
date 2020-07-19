@@ -4,6 +4,7 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 date    : "Módulo I.3"
 lang    : pt-BR
+layout  : default
 ---
 
 Cidades ideais: Itália e China
