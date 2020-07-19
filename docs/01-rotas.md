@@ -6,8 +6,12 @@ date    : "Módulo I.1"
 lang    : pt-BR
 ---
 
-A primeira globalização
-=======================
+Primeira globalização
+=====================
+
+- Narrativa do semestre: consolidação de tradições
+
+- O mundo é conectado desde sempre
 
 - Mapa: esferas culturais, das quais vamos abordar:
   - Europa atlântica e do Norte
@@ -19,23 +23,61 @@ A primeira globalização
   - Centro-norte da América
   - Andes
 
+- Resfriamento global em meados do século XIV dá o pontapé inicial numa
+  sequência de choques que conduzem à reorganização econômica e política
+  da era moderna:
+  - Peste bubônica no corredor eurasiático;
+  - Queda na capacidade produtiva do extremo norte;
+  - Seca no corredor centro-americano e no litoral andino.
+
+- Reorganização das potências políticas e econômicas na bacia do oceano
+  Índico: China, Majapahit, sultanatos do Decã, Omã, Mamelucos e império
+  Otomano.
+
 Cidades mercantes da rota da Seda e do Índico
 =============================================
 
-* * * *
+- *Kampung* malaio
+
+- Kilwa
+
+- Cidades generalistas vs. cidades especialistas: entrepostos comerciais
+  na costa leste da África e além.
 
 Cidades de cúpulas
 ==================
 
-- Adensamento urbano de Veneza segundo Muratori, 1959
+- Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
+  fora e novamente para dentro, tendo a malha viária (campo, calle e
+  canale) como elemento estruturante e o parcelamento do solo como
+  elemento estruturado.
   Livro-texto p. 469
 
-- Complexo urbano--arquitetônico da mesquita otomana
+- Complexo urbano--arquitetônico da mesquita otomana: arejando
   Livro-texto p. 470--471
+
+- E quando o processo de estruturação malha viária--parcelamento se
+  inverte?
 
 Do *boma* banto às cidades da Guiné
 =================================
 
-- Central Cattle Pattern (compound)
-- Rua formada pela agregação de CCPs
-- Dogon: livro-texto 537--538
+- Longe de ser um exemplo de construção "primitiva" ou derivativa da
+  influência islâmica, a arquitetura africana tem história e
+  desenvolvimento autônomo (não significa isolado). Estudos
+  arqueológicos e antropológicos desde a década de 1980, sobretudo na
+  África do Sul, revolucionaram o entendimento acadêmico das tradições
+  construtivas africanas.
+
+- Central Cattle Pattern: complexo habitacional--produtivo que evidencia
+  hierarquias socio-familiares, políticas, econômicas, culturais e religiosas.
+
+- Malha viária não é estruturante e sim estruturada, a partir da
+  crescente compacidade da agregação de CCPs.
+
+- Progressão: aldeia fula, grande Zimbábue, Dogon, Edo e Kumasi.
+- Quilombos
+
+- Historicidade dos desenvolvimentos espaciais e construtivos tem sido
+  critério de hierarquização na historiografia europeia desde meados do
+  século XVIII.
