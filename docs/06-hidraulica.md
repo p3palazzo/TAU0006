@@ -6,13 +6,39 @@ lang    : pt-BR
 layout  : default
 ---
 
-|   vi | *Hidráulica ornamental e funcional*              | Resenha: 460--468, 501--518, 520--532              | 06/10         |
-+------+--------------------------------------------------+----------------------------------------------------+---------------+
-|   11 | Jardim como microcosmo: Itália renascentista,    |                                                    |               |
-|      | Pérsia (*chahar-bagh*) e China --                |                                                    |               |
-|      | Monumentalidade dos jardins franceses e mogóis   |                                                    |               |
-+------+--------------------------------------------------+----------------------------------------------------+---------------+
-|   12 | Infraestrutura hidráulica: *chinampas* astecas   |                                                    |               |
-|      | -- *andenes*, *waru waru* e *cochas* incaicos    |                                                    |               |
-|      | -- aterramento e canalização de águas urbanas    |                                                    |               |
-|      | na Europa                                        |                                                    |               |
+Jardins como microcosmo
+=======================
+
+Jardim italiano
+---------------
+
+Dois tipos de jardins asiáticos
+-------------------------------
+
+Jardins monumentais
+===================
+
+França
+------
+
+Mogol
+-----
+
+Infraestrutura hidráulica na Europa
+===================================
+
+Chinampas astecas
+-----------------
+
+Hidráulica incaica na montanha e na planície
+--------------------------------------------
+
+Aterramento e canalização urbana na Europa
+==========================================
+
+Gradual estruturação das beira-rios
+-----------------------------------
+
+Parcelamento do solo nos vales urbanos
+--------------------------------------
+
