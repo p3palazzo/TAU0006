@@ -108,6 +108,12 @@ disciplina e termina com a entrega de um trabalho que demanda o domínio
 do respectivo objetivo. Ao longo de todo o semestre, vamos acompanhar o
 livro-texto com relatórios de leitura semanais.
 
+Desenvolvimento do semestre
+---------------------------
+
+Desenvolvimento das aulas
+-------------------------
+
 Programa
 ========
 
