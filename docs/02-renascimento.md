@@ -2,7 +2,6 @@
 title   : "Renascimento e historiografia"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-date    : "Módulo I.2"
 lang    : pt-BR
 layout  : default
 ---

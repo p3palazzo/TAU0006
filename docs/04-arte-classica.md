@@ -2,7 +2,6 @@
 title   : "Arte clássica"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-date    : "Módulo I.4"
 lang    : pt-BR
 layout  : default
 ---
@@ -140,5 +139,6 @@ Sangallo e Bramante
 -------------------
 
 - Giuliano da Sangallo: S. Maria delle Carceri, Prato
-- Bramante: S. Maria presso S. Satiro ← Alberti, mas aprimorado
-- Bramante: claustro della Pace: quase lá.
+- Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
+  articulação espacial.
+- Bramante: claustro della Pace.

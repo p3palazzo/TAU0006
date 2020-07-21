@@ -2,7 +2,6 @@
 title   : "Cidades ideais e cidades possíveis"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-date    : "Módulo I.3"
 lang    : pt-BR
 layout  : default
 ---
@@ -19,6 +18,18 @@ Itália
   de intervenção na "cosa mentale" do *disegno*. Alberti e a relação
   casa ↔ cidade.
 - Tábuas de Urbino
+
+Construir no existente (I): via Giulia
+---------------------------------------
+
+- Tentativa de inserção de um projeto de "cidade ideal" em todas as
+  escalas, como preconizava Alberti, na "cidade real".
+- Aproveita interstícios e oportunidades no tecido urbano existente.
+- O que acontece nos fundos de lotes? Realidade e acomodações da
+  implantação ao longo dos séculos.
+- Livro do Tafuri
+
+https://pt.wikipedia.org/wiki/Via_Giulia
 
 China
 -----
