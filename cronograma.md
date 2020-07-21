@@ -93,8 +93,9 @@ fontsize: 10pt
 |   15 | Elementos de arquitetura e elementos de          |                                                    |               |
 |      | composição -- Bernini e Borromini                |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
-|   16 | Academias -- Barroco romano *versus* classicismo |                                                    |               |
-|      | francês? Mansart, Le Vau e os Blondel            |                                                    |               |
+|   16 | Renascimento na França: o problema da "verdade"  |
+|      | -- Barroco romano *versus* classicismo francês?  |                                                    |               |
+|      | -- Louvre -- Arquitetos do Rei                   |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |   ix | *Arquitetura acadêmica*                          | Resenha: Summerson 63--88                          | 27/10         |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
@@ -105,7 +106,7 @@ fontsize: 10pt
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |   18 | Desenho e colorido -- Classicismo: o universo    |                                                    |               |
 |      | das "formas corretas" -- O debate francês sobre  |                                                    |               |
-|      | o gosto                                          |                                                    |               |
+|      | o gosto -- a colunata do Louvre                  |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |    x | *Urbanismo como arquitetura*                     | Resenha: 533--536                                  | 03/11         |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
