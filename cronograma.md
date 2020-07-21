@@ -99,14 +99,14 @@ fontsize: 10pt
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |   ix | *Arquitetura acadêmica*                          | Resenha: Summerson 63--88                          | 27/10         |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
-|   17 | Definição do campo profissional do arquiteto --  |                                                    |               |
+|   17 | Desenho e colorido -- Classicismo: o universo    |                                                    |               |
+|      | das "formas corretas" -- O debate francês sobre  |                                                    |               |
+|      | o gosto -- a colunata do Louvre                  |                                                    |               |
++------+--------------------------------------------------+----------------------------------------------------+---------------+
+|   18 | Definição do campo profissional do arquiteto --  |                                                    |               |
 |      | Academias europeias e os primórdios do ensino    |                                                    |               |
 |      | formal -- Construtores, artistas e letrados no   |                                                    |               |
 |      | domínio da arquitetura                           |                                                    |               |
-+------+--------------------------------------------------+----------------------------------------------------+---------------+
-|   18 | Desenho e colorido -- Classicismo: o universo    |                                                    |               |
-|      | das "formas corretas" -- O debate francês sobre  |                                                    |               |
-|      | o gosto -- a colunata do Louvre                  |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |    x | *Urbanismo como arquitetura*                     | Resenha: 533--536                                  | 03/11         |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
