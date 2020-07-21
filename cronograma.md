@@ -85,7 +85,7 @@ fontsize: 10pt
 |      | anticlássico: Hauser, Argan e Wölfflin           |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 |   14 | Classicismo como arranjo de elementos            |                                                    |               |
-|      | figurativos -- Vignola e Palladio -- Retorno da  |                                                    |               |
+|      | figurativos -- Vinhola e Palladio -- Retorno da  |                                                    |               |
 |      | igreja com planta longitudinal                   |                                                    |               |
 +------+--------------------------------------------------+----------------------------------------------------+---------------+
 | viii | *Barroco e classicismo*                          | Resenha: 548--551, 573--575                        | 20/10         |
