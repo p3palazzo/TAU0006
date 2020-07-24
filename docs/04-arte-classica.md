@@ -9,6 +9,9 @@ layout  : default
 Arquitetura como trabalho intelectual
 =====================================
 
+Neste módulo já estamos visando, em parte, ao objetivo da Unidade II:
+dominar os métodos projetuais da tradição clássica.
+
 Architectura scripta
 --------------------
 
