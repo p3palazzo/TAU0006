@@ -2,19 +2,33 @@
 title   : "Urbanismo como arquitetura"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-date    : "Módulo II.10"
 lang    : pt-BR
 layout  : default
 ---
 
-Traçados viários enquanto projetos arquitetônicos
-=================================================
+Roma da via Giulia à piazza del Popolo
+======================================
 
-Reformas urbanas monumentais
-============================
+Reformas urbanas mais ou menos pontuais, determinadas pelos limites do
+politicamente possível e do economicamente viável.
+
+Versalhes e seus êmulos
+=======================
+
+Os interiores do palácio de Versalhes como um percurso urbano.
+
+Sincretismo eurasiático
+=======================
 
 İstanbul: Palácio Topkapı
 -------------------------
 
 - Vistas controladas e circulação  não axial
   <!--Rever p. 472--473-->
+
+Isfahan
+-------
+
+São Petersburgo
+===============
+

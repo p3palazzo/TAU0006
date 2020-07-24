@@ -87,8 +87,8 @@ fontsize: 10pt
 |   15 | Elementos de arquitetura e elementos de                         |                                       |               |
 |      | composição -- Bernini e Borromini                               |                                       |               |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
-|   16 | Renascimento na França: o problema da "verdade" -- Barroco      |
-|      | romano *versus* classicismo francês?
+|   16 | Renascimento na França: o problema da "verdade" -- Barroco      |                                       |               |
+|      | romano *versus* classicismo francês?                            |                                       |               |
 |      | -- Louvre -- Arquitetos do Rei                                  |                                       |               |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
 |   ix | *Arquitetura acadêmica*                                         | Resenha: Summerson 63--88             | 27/10         |
