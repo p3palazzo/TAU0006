@@ -61,19 +61,19 @@ enquanto objeto de pesquisa historiográfica e enquanto tradição
 fundadora do campo profissional, estético e técnico da
 contemporaneidade, segundo os três aspectos seguintes:
 
-#### Conhecer os fundamentos ####
+#### I Conhecer os fundamentos ####
 
 Desenvolver uma visão de conjunto sobre os fundamentos urbanísticos e
 construtivos sobre os quais se desenvolvem as culturas arquitetônicas da
 era moderna.
 
-#### Saber projetar ####
+#### II Saber projetar ####
 
 Dominar e ser capaz de empregar os elementos do vocabulário e a
 gramática das tradições arquitetônicas da era moderna, com ênfase na
 linguagem clássica.
 
-#### Saber pesquisar ####
+#### III Saber pesquisar ####
 
 Refletir criticamente sobre a tradição historiográfica da arquitetura, e
 especialmente sobre os debates a respeito das noções de Antiguidade e
