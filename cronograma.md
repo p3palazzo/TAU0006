@@ -11,11 +11,11 @@ fontsize: 10pt
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
 |      | Conteúdo                                                        | Atividades                            | Prazo         |
 +=====:+:================================================================+:======================================+:==============+
-|      | Integração inicial                                              | Resenha: v--vii, 455--459             | 17/08 a 29/08 |
+|      | Integração inicial                                              | Resenha: v--vii, 455--459             | 17/08 a 30/08 |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
-|    I | REDES URBANAS NA FUNDAÇÃO DO MUNDO MODERNO                      | Trabalho: Formas urbanas              | 30/08 a 04/10 |
+|    I | REDES URBANAS NA FUNDAÇÃO DO MUNDO MODERNO                      | Trabalho: Formas urbanas              | 31/08 a 04/10 |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
-|    i | *Rotas comerciais e paradigmas urbanísticos*                    | Resenha: 436, 469--473, 519, 537--538 | 31/08         |
+|    i | *Rotas comerciais e paradigmas urbanísticos*                    | Resenha: 436, 469--473, 519, 537--538 | 01/09         |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
 |    1 | Primeira globalização -- Cidades mercantes                      |                                       |               |
 |      | da rota da Seda e do Índico: Malacca, Kilwa                     |                                       |               |
@@ -51,7 +51,7 @@ fontsize: 10pt
 |      | -- Elementos da arquitetura e suas combinações                  |                                       |               |
 |      | elementares -- Geometria do espaço -- Giuliano da Sangallo      |                                       |               |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
-|    v | *Arquitetura universal*                                         | Resenha: Summerson 39--62             | 27/09         |
+|    v | *Arquitetura universal*                                         | Resenha: Summerson 39--62             | 29/09         |
 +------+-----------------------------------------------------------------+---------------------------------------+---------------+
 |    9 | Realização do classicismo -- Bramante e Rafael --               |                                       |               |
 |      | Articulações e composições figurativas e espaciais --           |                                       |               |

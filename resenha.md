@@ -38,8 +38,5 @@ Há apenas duas notas possíveis para a Resenha:
 #### Eu preciso fazer *todas* as resenhas? ####
 
 Para obter aprovação na disciplina, você precisa *pontuar* em 10 das 15
-leituras do semestre. Além disso, para obter a frequência mínima de 75 %
-da carga horária, você precisa marcar "presença" comentando, com
-observações ou perguntas pertinentes, nas resenhas de colegas em 12 das
-15 semanas.
+leituras do semestre, além de obter a média final MM.
 
