@@ -336,9 +336,9 @@ Programa](#programa).
 | Unidade | Atividade                     | Peso |
 |--------:|:------------------------------|-----:|
 |         | Resenha e discussão de textos | 10 % |
-|       I | Urbanização moderna           | 30 % |
-|      II | Arquitetura clássica          | 30 % |
-|     III | Pesquisa em história          | 30 % |
+|       I | Análise urbana                | 30 % |
+|      II | Linguagens clássicas          | 30 % |
+|     III | Pesquisa e crítica            | 30 % |
 
 : Atividades avaliativas da disciplina
 
