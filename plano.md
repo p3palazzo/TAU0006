@@ -5,26 +5,36 @@ author  : "Fau--UnB"
 date    : "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
 layout  : default
 lang    : pt-BR
-fontsize: 12pt
+fontsize: 11pt
 nocite  : "@*"
 bibliography: 'biblio.bib'
 bibliography-title: " "
 ---
 
-#### Ementa ####
-
-História das cidades, dos edifícios e da edificação na tradição
-europeia a partir do início do Renascimento na Itália até o século
-XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
-Europa para as colônias americanas de fala inglesa e francesa.
+> #### Ementa ####
+>
+> História das cidades, dos edifícios e da edificação na tradição
+> europeia a partir do início do Renascimento na Itália até o século
+> XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
+> Europa para as colônias americanas de fala inglesa e francesa.
 
 Apresentação
 ============
 
 Esta disciplina dá sequência ao conteúdo de história da arquitetura em
-ordem cronológica e numa perspectiva mundial. Assim como nas demais
-disciplinas da cadeia de Teoria e História, visamos a *inserir descrição
-da cadeia baseada no Projeto Pedagógico do Curso*.
+ordem cronológica e visando a atingir uma perspectiva mundial. Assim
+como nas demais disciplinas da cadeia de Teoria e História, visamos a
+constituir uma cultura histórica geral, além de repertórios de soluções
+projetuais e, mais importante, fomentar a reflexão crítica sobre a
+produção do ambiente construído ao longo do tempo. Em TAU 0006, a
+formação do espaço urbano moderno e a evolução do ofício da arquitetura
+são os temas dominantes que norteiam o conteúdo. Embora a relação entre
+o contexto político ou socioeconômico e a produção das edificações e das
+cidades seja uma abordagem presente ao longo do semestre, vamos nos
+afastar da equivocada percepção de uma pretensa correspondência direta
+entre estilos arquitetônicos e ideologias ou sistema
+político-econômicos. Por fim, vamos ultrapassar os limites da ementa,
+procurando manter sempre que possível uma perspectiva mundial.
 
 Equipe
 ------
@@ -40,15 +50,16 @@ Sylvio Farias
 
 #### Monitores ####
 
-
+Nathália Bonfim e Gabriella Parpinelli
 
 Objetivos de aprendizagem
 -------------------------
 
-Adquirir um domínio operativo da arquitetura e do urbanismo da era
-moderna (séculos XV a XVIII) enquanto objeto de pesquisa historiográfica
-e enquanto tradição fundadora do campo profissional, estético e técnico
-da contemporaneidade, segundo os três aspectos seguintes:
+O objetivo geral da disciplina é adquirir um domínio operativo da
+arquitetura e do urbanismo da [Idade Moderna][2] (séculos XV a XVIII)
+enquanto objeto de pesquisa historiográfica e enquanto tradição
+fundadora do campo profissional, estético e técnico da
+contemporaneidade, segundo os três aspectos seguintes:
 
 #### Conhecer os fundamentos ####
 
@@ -58,7 +69,7 @@ era moderna.
 
 #### Saber projetar ####
 
-Dominar e ser capaz de empregar os elementos de vocabulário e a
+Dominar e ser capaz de empregar os elementos do vocabulário e a
 gramática das tradições arquitetônicas da era moderna, com ênfase na
 linguagem clássica.
 
@@ -68,51 +79,127 @@ Refletir criticamente sobre a tradição historiográfica da arquitetura, e
 especialmente sobre os debates a respeito das noções de Antiguidade e
 Modernidade.
 
-Livro-texto
------------
+Leituras obrigatórias
+---------------------
 
-Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
-*História global da arquitetura*. São Paulo: Senac São Paulo, 2016.
+O livro-texto de base que nos acompanhará ao longo de todo o semestre é:
+
+> Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
+> História global da arquitetura. Traduzido por Alexandre Salvaterra.
+> 1.ª ed. São Paulo: Senac São Paulo, 2016.
+
+Além do livro-texto, também vamos ler o livro seguinte, que nos guiará
+com mais detalhe pelo universo da arquitetura clássica europeia:
+
+> Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
+> Sylvia Ficher. São Paulo: Martins Fontes, 1997.
 
 #### Como obter o livro-texto eletrônico ####
 
-Acessar o site da [Biblioteca Central][3]. Pesquisar pelo livro usando a
+Acesse o site da [Biblioteca Central][3]. Pesquise pelo livro usando a
 `Busca integrada` (função de busca padrão da BCE). Na visualização do
-resultado, clicar no link `View record at Minha Biblioteca`. Fazer login
+resultado, clique no link `View record at Minha Biblioteca`. Faça login
 no serviço de leitura online usando as credenciais da BCE (CPF e senha
 usada no balcão de empréstimo).
 
 Metodologia
 ===========
 
+Considerações gerais
+--------------------
+
 Neste semestre, TAU 0006 se desenvolve em modo *remoto*. Todo o conteúdo
 e as atividades da disciplina estão no ambiente virtual de aprendizagem
 [Aprender 3][1]. O nosso fio condutor é o livro-texto; as videoaulas
 gravadas, as leituras específicas e outros recursos indicados completam
-o conteúdo da disciplina. Vamos estar sempre em contato, por
+o conteúdo da disciplina. Estaremos sempre em contato por
 videoconferência, mensagens e fóruns, para discutir o conteúdo e as
 atividades ao longo do semestre.
 
-Dentro do prazo previsto para cada unidade, vocês podem cumprir o
-conteúdo e fazer as atividades no tempo e horário que for mais
-conveniente. No entanto, recomendamos que procurem acompanhar o
-cronograma semanal para não ficarem com trabalho acumulado e não
-perderem a oportunidade de tirar dúvidas sobre o conteúdo em andamento.
+Na área geral do Aprender 3, você vai encontrar:
 
-Organizamos tanto o [Programa](#programa) da disciplina quanto a
-[Avaliação](#avaliação) em torno dos objetivos de aprendizagem. O
-programa se divide em três Unidades que cobrem, com alguma sobreposição
-entre elas, todo o período histórico conhecido como [Idade Moderna][2].
-Além disso, em cada unidade enfatizamos um dos objetivos específicos da
-disciplina e termina com a entrega de um trabalho que demanda o domínio
-do respectivo objetivo. Ao longo de todo o semestre, vamos acompanhar o
-livro-texto com relatórios de leitura semanais.
+- Este Plano de curso e o Cronograma da disciplina;
+- Mural de avisos postados pela equipe da disciplina, onde comunicamos
+  informações gerais e eventuais alterações no cronograma ou nas
+  atividades;
+- Fórum livre para discussões gerais relacionadas (ou não) à disciplina
+  como um todo;
+- Link para acessar a videoconferência semanal ao vivo.
 
 Desenvolvimento do semestre
 ---------------------------
 
+O semestre letivo começa com duas (ou mais) semanas de aproximação e
+familiarização com o ambiente virtual de aprendizagem e com os demais
+recursos eletrônicos da Universidade. Durante esse período inicial,
+vamos esclarecer a abordagem da disciplina e nos familiarizar com a
+organização do livro-texto, os recursos de interação ao vivo e o uso de
+mensagens de texto nos fóruns de discussão do ambiente virtual.
+
+O conteúdo propriamente dito da disciplina deve ser cumprido ao longo de
+15 semanas. A matéria se divide em três Unidades com cinco semanas de
+duração cada uma, e cada semana corresponde a um tópico de conteúdo.
+Cada Unidade privilegia um dos três [Objetivos de
+aprendizagem](#objetivos-de-aprendizagem) da disciplina --- leia
+atentamente a exposição dos objetivos: são os conhecimentos e as
+competências que esperamos de vocês ao final do semestre. As Unidades
+estão organizadas, aproximadamente, em ordem cronológica. Em cada
+Unidade, vamos desenvolver um trabalho teórico-prático, pautado pelo
+Objetivo de aprendizagem que corresponde àquela Unidade.
+
+No ambiente virtual de aprendizagem [Aprender 3][1] você vai encontrar,
+para cada Unidade:
+
+- Sumário do conteúdo;
+- Descrição do trabalho da Unidade e módulo de entrega;
+- Fóruns para discussão do conteúdo e do trabalho.
+
 Desenvolvimento das aulas
 -------------------------
+
+Cada Tópico de conteúdo da disciplina foi previsto para ser cumprido em
+uma semana, completando 15 semanas no semestre (sem contar
+as semanas de adaptação inicial). Vamos acompanhar o conteúdo com
+[Resenhas][5] e discussões semanais sobre a leitura do livro-texto e de
+outros textos relevantes. Todas as leituras estão indicadas no
+Cronograma.
+
+No ambiente virtual de aprendizagem [Aprender 3][1] você vai encontrar,
+para cada Tópico:
+
+- Sumário do conteúdo;
+- Atividade de leitura semanal;
+- Videoaulas desenvolvendo alguns aspectos do conteúdo especialmente
+  importantes para a sequência do semestre;
+- Notas de aula escritas (o conteúdo das videoaulas é idêntico ao das
+  notas escritas).
+
+Toda quinta-feira às 20h50 (horário de Brasília) teremos uma
+videoconferência ao vivo na plataforma [Microsoft Teams][4] da UnB. Essa
+é uma ocasião para tirar dúvidas sobre o conteúdo, as leituras e os
+trabalhos em andamento.
+
+#### Frequência às aulas ####
+
+Participar da videoconferência *não é obrigatório*. No entanto, a UnB
+considera oficialmente esta disciplina como sendo "presencial",
+portanto temos que controlar a "frequência" ao longo do semestre. Assim,
+você deve se fazer "presente" em pelo menos 75 % das semanas do semestre
+(12 de 15), participando ativa e produtivamente das discussões com a
+turma. Para tanto, manifeste-se *com propriedade* nos diversos fóruns
+disponíveis no ambiente virtual de aprendizagem ou na própria
+videoconferência (apenas estar "logado" na reunião, sem participar
+ativamente, não conta). Para maiores detalhes, veja a seção [Apoio ao
+aluno](#apoio-ao-aluno) mais abaixo.
+
+#### Uma observação importante sobre o cronograma ####
+
+Dadas as circunstâncias atuais, o cronograma pode sofrer alterações
+seguindo eventuais decisões da FAU ou dos órgãos superiores da UnB.
+*Respeitando o prazo previsto para cada unidade e o cronograma de
+leituras semanais,* você pode cumprir o conteúdo (leituras e videoaulas)
+e fazer as atividades (participação nos fóruns e entrega dos trabalhos)
+no tempo e horário que for mais conveniente.
 
 Programa
 ========
@@ -201,11 +288,11 @@ Unidade III. Estilo e território: inquietações da modernidade
 Apoio ao aluno
 ==============
 
-O conteúdo e as atividades da disciplina estão disponíveis no Ambiente
-Virtual de Aprendizagem [Aprender 3][1]. A equipe de TAU 0006 --- o
-professor, o estagiário docente e os monitores --- está disponível ao
-vivo, por videoconferência no sistema [Microsoft Teams][4] da UnB, uma
-vez por semana no horário da aula. Além disso, cada Unidade tem um fórum
+O conteúdo e as atividades da disciplina estão disponíveis no ambiente
+virtual de aprendizagem [Aprender 3][1]. A equipe de TAU 0006 --- o
+professor, o estagiário docente e as monitoras --- estará disponível ao
+vivo, por videoconferência no sistema [Microsoft Teams][4] da UnB, às
+quintas-feiras no horário da aula. Além disso, cada Unidade tem um fórum
 específico no Aprender 3 para tirar dúvidas sobre o desenvolvimento do
 respectivo trabalho.
 
@@ -219,8 +306,27 @@ Usamos *apenas* os sistemas oficiais da UnB para nos comunicarmos:
 Aprender 3, Microsoft Teams e e-mail institucional. Verifiquem se
 o seu acesso às plataformas e ao e-mail `@aluno.unb.br` está em dia!
 
+#### Frequência ####
+
+Apesar de estar sendo conduzida de modo remoto, esta disciplina ainda é,
+formalmente, *presencial*. A frequência exigida por lei é de 75 % da
+carga horária, ou 12 das 15 semanas de conteúdo. Para registrar presença
+em qualquer semana, você deve participar ativamente e com contribuições
+pertinentes em qualquer um dos ambientes de discussão da disciplina:
+manifestar-se na videoconferência semanal, postar nos fóruns gerais da
+disciplina ou da Unidade em andamento, comentar nas resenhas de leitura
+de colegas. Procure ter objetividade nas postagens ou falas e contribuir
+positivamente, com questões, perguntas ou respostas estruturadas e de
+interesse geral.
+**Atenção:** você pode postar mais de um
+comentário por semana, mas o que vamos contar é o número de *semanas* em
+que você comentou!
+
 Avaliação
 =========
+
+Organização e normas gerais
+---------------------------
 
 A nota final da disciplina é computada a partir do acompanhamento da
 leitura do livro-texto e de outros textos indicados, além de três
@@ -229,29 +335,81 @@ Programa](#programa).
 
 | Unidade | Atividade                     | Peso |
 |--------:|:------------------------------|-----:|
-|         | Resenha e discussão de textos | 20 % |
-|       I | Formas urbanas                | 20 % |
+|         | Resenha e discussão de textos | 10 % |
+|       I | Urbanização moderna           | 30 % |
 |      II | Arquitetura clássica          | 30 % |
-|     III | Antiguidade e modernidade     | 30 % |
+|     III | Pesquisa em história          | 30 % |
 
 : Atividades avaliativas da disciplina
 
-- A entrega de todas as atividades da disciplina será feita,
-  exclusivamente, por meio eletrônico, na plataforma
-  [Aprender 3][1] da UnB.
+A entrega de todas as atividades da disciplina será feita,
+exclusivamente, por meio eletrônico, na plataforma [Aprender 3][1] da
+UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
+hipótese alguma*, trabalhos por e-mail. A participação na
+videoconferência *não substitui* a discussão dos textos por escrito.
 
-- ~~Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
-  aula de atraso, exceto nos casos justificados e comprovados previstos
-  na legislação e nos regimento aplicáveis. Necessidades especiais na
-  realização das atividades da disciplina devem ser apontadas aos
-  professores da disciplina o mais cedo possível, e serão analisadas
-  caso a caso.~~
+<!--
+   -Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
+   -semana de atraso, exceto nos casos justificados e comprovados previstos
+   -na legislação e nos regimento aplicáveis. Necessidades especiais na
+   -realização das atividades da disciplina devem ser apontadas aos
+   -professores da disciplina o mais cedo possível, e serão analisadas caso
+   -a caso.
+   -->
 
-- Integridade e reconhecimento são valores éticos fundamentais da
-  cidadania e da profissão. Apropriação do trabalho alheio — seja de
-  colegas de turma, da bibliografia, ou de material "garimpado" na
-  Internet — é uma prática inaceitável e resultará em atribuição da
-  nota 0 (zero) ao trabalho que incorrer nela.
+#### Plágio ####
+
+Integridade e reconhecimento são valores éticos fundamentais da
+cidadania e da profissão. Apropriação do trabalho alheio --- seja de
+colegas de turma, da bibliografia, ou de material "garimpado" na
+Internet --- é uma prática inaceitável e resultará em atribuição da nota
+0 (zero) ao trabalho que incorrer nela. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da FAU.
+
+Critérios de avaliação
+----------------------
+
+Os critérios de avaliação de cada atividade são apresentados com a
+respectiva ementa. Em linhas gerais, o que esperamos de todas as
+entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do
+material necessário à realização do trabalho, reflexão crítica, clareza
+e capricho na execução. Para obter aprovação na disciplina, você precisa
+atender a *todos* os três requisitos seguintes:
+
+- Pontuar em 10 das 15 resenhas (entregar a resenha e obter a nota 1);
+- Entregar os três trabalhos das Unidades.
+- Obter a média final de 5,0 (MM).
+- Participar ativamente das atividades propostas, para cumprir o
+  requisito de frequência.
+
+#### Resenha e discussão de texto ####
+
+Demonstrar compreensão do texto e reflexão crítica sobre o conteúdo e o
+modo de apresentação deste.
+
+#### Trabalhos das Unidades ####
+
+Demonstrar capacidade de ir além do conteúdo mínimo das leituras,
+pesquisando e aprofundando o entendimento sobre a arquitetura e o
+urbanismo nas tradições da Idade Moderna e, principalmente, na linguagem
+clássica da arquitetura. **Atenção:** embora o trabalho de cada unidade
+esteja focado no respectivo [Objetivo de
+aprendizagem](#objetivos-de-aprendizagem), em cada trabalho você deve
+demonstrar o conhecimento do conteúdo de modo *cumulativo* desde o
+início do semestre.
+
+#### Um esclarecimento sobre criatividade e originalidade ####
+
+Numa faculdade de Arquitetura, somos muitas vezes instados a inventar
+uma "expressão individual" e a demonstrar "originalidade". Em se
+tratando de arquitetura e urbanismo tradicionais e da pesquisa
+histórica, contudo, a nossa exigência de originalidade é simples: não
+copiar o trabalho alheio e não se apropriar das ideias de outrem sem dar
+o devido crédito. Aspiramos à *qualidade* antes que à *novidade*, e
+consideramos que a criatividade consiste em resolver com apuro e
+propriedade um determinado problema de projeto ou pesquisa, baseando-se
+nos repertórios das tradições arquitetônicas e nos métodos e referências
+da pesquisa histórica.
 
 Cronograma
 ==========
@@ -261,30 +419,32 @@ andamento do semestre ou razões de força maior.
 
 | Unidade | Período                          |
 |--------:|:---------------------------------|
-|       I | 17 de agosto a 27 de setembro    |
-|      II | 28 de setembro a 1.º de novembro |
-|     III | 3 de novembro a 13 de dezembro   |
+|       I | 17 de agosto a 4 de outubro      |
+|      II | 5 de outubro a 10 de novembro    |
+|     III | 13 de novembro a 18 de dezembro  |
 
 : Cronograma preliminar
 
 Bibliografia
 ============
 
-Outras leituras não arroladas na bibliografia abaixo poderão ser
-explicitamente demandadas como parte de atividades curriculares desta
-disciplina. Estudantes são responsáveis por pesquisar e consultar
-qualquer outra bibliografia de apoio que se faça necessária à consecução
-das avaliações desta disciplina.
+A bibliografia abaixo é uma indicação de aprofundamento, e não é
+exaustiva. Vocês são responsáveis por pesquisar e consultar qualquer
+outra bibliografia de apoio que se faça necessária à consecução das
+avaliações desta disciplina.
 
- 
+Básica
+------
 
-::: {#refs}
-:::
+Complementar
+------------
 
-[1]: https://aprender3.unb.br
+[1]: https://aprender3.unb.br/course/view.php?id=2766
 
 [2]: https://pt.wikipedia.org/wiki/Idade_Moderna
 
 [3]: https://bce.unb.br
 
 [4]: https://teams.microsoft.com
+
+[5]: https://pt.wikipedia.org/wiki/Resenha
