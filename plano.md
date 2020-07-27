@@ -6,6 +6,9 @@ date    : "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
 layout  : default
 lang    : pt-BR
 fontsize: 11pt
+geometry:
+- textwidth=440pt
+- textheight=680pt
 abstract: >
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século

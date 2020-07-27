@@ -9,14 +9,12 @@ filters:
 pdf-engine: xelatex
 fail-if-warnings: true
 metadata:
-  geometry:
-    - top=80pt
-    - left=80pt
-    - textwidth=440pt
-    - textheight=680pt
   documentclass: article
   papersize: a4
   indent: true
+  geometry:
+    - top=80pt
+    - left=80pt
   mainfont: "UnB Pro"
   mainfontoptions:
     - Numbers=Proportional
