@@ -12,10 +12,10 @@ PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
 
 deploy : jekyll slides
 
-%.pdf : pdf.yaml %.md
+%.pdf : %.md pdf.yaml lib/unb.tex
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" \
-		pandoc/latex:2.9.2.1 -o $@ -d $^
+		pandoc/latex:2.9.2.1 -o $@ -d spec/pdf.yaml $<
 
 slides : $(SLIDES)
 
