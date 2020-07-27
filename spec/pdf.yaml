@@ -15,8 +15,8 @@ metadata:
   documentclass: article
   papersize: a4
   indent: true
-  mainfont: "Garamond Premier Pro"
+  mainfont: "UnB Pro"
   mainfontoptions:
     - Numbers=Proportional
     - Numbers=OldStyle
-  sansfont: "Trajan Pro"
+  sansfont: "UnB Pro"
