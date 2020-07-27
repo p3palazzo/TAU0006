@@ -2,6 +2,7 @@ from: markdown+raw_tex
 to: latex
 standalone: true
 cite-method: citeproc
+template: "lib/unb.tex"
 filters:
 - pandoc-citeproc
 pdf-engine: xelatex

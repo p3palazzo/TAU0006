@@ -1,20 +1,18 @@
 ---
 title   : "TAU 0006 História da Arquitetura e da Arte II"
-subtitle: "Plano de Ensino"
+subtitle: "Plano de ensino"
 author  : "Fau--UnB"
 date    : "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
 layout  : default
 lang    : pt-BR
 fontsize: 11pt
-nocite  : "@*"
-bibliography: 'biblio.bib'
-bibliography-title: " "
+abstract: >
+  História das cidades, dos edifícios e da edificação na tradição
+  europeia a partir do início do Renascimento na Itália até o século
+  XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
+  Europa para as colônias americanas de fala inglesa e francesa.
+abstract-title: "Ementa"
 ---
-
-> História das cidades, dos edifícios e da edificação na tradição
-> europeia a partir do início do Renascimento na Itália até o século
-> XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
-> Europa para as colônias americanas de fala inglesa e francesa.
 
 Apresentação
 ============
