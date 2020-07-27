@@ -1,6 +1,7 @@
 from: markdown+raw_tex
 to: latex
 standalone: true
+number-sections: true
 cite-method: citeproc
 template: "lib/unb.tex"
 filters:
@@ -20,4 +21,5 @@ metadata:
   mainfontoptions:
     - Numbers=Proportional
     - Numbers=OldStyle
-  sansfont: "UnB Pro"
+  sansfont: "UnB Pro-Light"
+  secnumdepth: 2
