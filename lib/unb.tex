@@ -372,7 +372,7 @@ $if(csl-refs)$
 $endif$
 
 $if(title)$
-\title{\textsf{\MakeUppercase{$title$}}$if(thanks)$\thanks{$thanks$}$endif$}
+\title{\raggedleft{\textsf{\MakeUppercase{$title$}}}$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
 $if(subtitle)$
 $if(beamer)$
@@ -380,7 +380,7 @@ $else$
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
-  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+  \apptocmd{\@title}{\par {\textbf{\large #1} \par}}{}{}
 }
 \makeatother
 $endif$
