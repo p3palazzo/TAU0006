@@ -78,29 +78,6 @@ Refletir criticamente sobre a tradição historiográfica da arquitetura, e
 especialmente sobre os debates a respeito das noções de Antiguidade e
 Modernidade.
 
-Leituras obrigatórias
----------------------
-
-O livro-texto de base que nos acompanhará ao longo de todo o semestre é:
-
-> Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
-> História global da arquitetura. Traduzido por Alexandre Salvaterra.
-> 1.ª ed. São Paulo: Senac São Paulo, 2016.
-
-Além do livro-texto, também vamos ler o livro seguinte, que nos guiará
-com mais detalhe pelo universo da arquitetura clássica europeia:
-
-> Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
-> Sylvia Ficher. São Paulo: Martins Fontes, 1997.
-
-#### Como obter o livro-texto eletrônico ####
-
-Acesse o site da [Biblioteca Central][3]. Pesquise pelo livro usando a
-`Busca integrada` (função de busca padrão da BCE). Na visualização do
-resultado, clique no link `View record at Minha Biblioteca`. Faça login
-no serviço de leitura online usando as credenciais da BCE (CPF e senha
-usada no balcão de empréstimo).
-
 Metodologia
 ===========
 
@@ -432,6 +409,40 @@ exaustiva. Vocês são responsáveis por pesquisar e consultar qualquer
 outra bibliografia de apoio que se faça necessária à consecução das
 avaliações desta disciplina.
 
+Leituras obrigatórias
+---------------------
+
+O livro-texto de base que nos acompanhará ao longo de todo o semestre
+foi concebido pelos fundadores do [Global Architectural History Teaching
+Collaborative (GAHTC)][6], os historiadores da arquitetura Mark
+Jarzombek e Vikramaditya Prakash, em parceria com o famoso autor de
+manuais técnicos Francis D. K. Ching:
+
+> Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
+> *História global da arquitetura.* Traduzido por Alexandre Salvaterra.
+> 1.ª ed. São Paulo: Senac São Paulo, 2016.
+
+Aproveite para conhecer os recursos que o site do GAHTC oferece!
+
+Além do livro-texto, também vamos ler um pequeno clássico do arquiteto
+inglês John Summerson (1904--1992), que nos guiará com mais detalhe pelo
+universo da arquitetura clássica europeia:
+
+> Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
+> Sylvia Ficher. São Paulo: Martins Fontes, 1997.
+
+Por fim, vamos ler um breve texto do historiador da arquitetura espanhol
+Carlos Sambricio sobre as reformas territoriais do século XVIII, que o
+autor apresentou em Brasília em 2014:
+
+> Sambricio, Carlos. “Projetos espaciais na América espanhola no último
+> terço do século XVIII: economia, política e ordenação territorial”. In
+> *Tempos e escalas da cidade e do urbanismo: quatro palestras,*
+> organizado por Elane Ribeiro Peixoto, Maria Fernanda Derntl, Pedro P.
+> Palazzo, e Ricardo Trevisan, traduzido por Pedro P. Palazzo e Elane
+> Ribeiro Peixoto, 29–59. Brasília: Faculdade de Arquitetura e Urbanismo
+> da Universidade de Brasília, 2014.
+
 Básica
 ------
 
@@ -447,3 +458,5 @@ Complementar
 [4]: https://teams.microsoft.com
 
 [5]: https://pt.wikipedia.org/wiki/Resenha
+
+[6]: https://gahtc.org/

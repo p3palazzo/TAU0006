@@ -2,10 +2,8 @@ from: markdown+raw_tex
 to: latex
 standalone: true
 number-sections: true
-cite-method: citeproc
+cite-method: biblatex
 template: "lib/unb.tex"
-filters:
-- pandoc-citeproc
 pdf-engine: xelatex
 fail-if-warnings: true
 metadata:
@@ -18,6 +16,6 @@ metadata:
   mainfont: "UnB Pro"
   mainfontoptions:
     - Numbers=Proportional
-    - Numbers=OldStyle
+    - ItalicFont = UnBPro-RegularItalic
   sansfont: "UnB Pro-Light"
   secnumdepth: 2
