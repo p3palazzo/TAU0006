@@ -2,7 +2,6 @@
 title   : "TAU 0006 História da Arquitetura e da Arte II"
 subtitle: "Plano de ensino"
 author  : "Fau--UnB"
-date    : "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
 lang    : pt-BR
 nocite  : "@*"
 bibliography: "biblio.bib"

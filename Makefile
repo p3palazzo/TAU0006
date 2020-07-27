@@ -4,11 +4,10 @@ vpath %.scss assets/css
 vpath %.xml _site
 vpath %.yaml spec
 
-ANYTHING  = $(filter-out _site,$(wildcard *))
-PANDOC    = $(filter-out README.md,$(wildcard *.md))
+DOCS      = $(wildcard docs/*.md)
 REVEALJS  = $(wildcard _slides/*.md)
 SLIDES   := $(patsubst _slides/%.md,_site/_slides/%.html,$(REVEALJS))
-PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
+PAGES    := $(wildcard *.md)
 
 deploy : jekyll slides
 
@@ -17,7 +16,7 @@ deploy : jekyll slides
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-%.tex : %.md pdf.yaml lib/unb.tex
+%.tex : %.md pdf.yaml lib/ementa.tex
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/latex:2.9.2.1 -o $@ -d spec/pdf.yaml $<
 

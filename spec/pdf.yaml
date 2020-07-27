@@ -3,10 +3,11 @@ to: latex
 standalone: true
 number-sections: true
 cite-method: biblatex
-template: "lib/unb.tex"
+template: "lib/ementa.tex"
 pdf-engine: xelatex
 fail-if-warnings: true
 metadata:
+  date: "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
   documentclass: article
   papersize: a4
   indent: true

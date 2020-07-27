@@ -30,6 +30,7 @@ Gemfile.lock
 *.cb
 *.cb2
 .*.lb
+.cache
 
 ## Intermediate documents:
 *.dvi

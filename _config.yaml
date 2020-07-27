@@ -13,11 +13,16 @@ baseurl: "/tau0006"
 url: "https://p3palazzo.github.io"
 lang: pt-BR
 
+# Content {{{1
+collections:
+  - slides
+
 # Build settings {{{1
 # Theme {{{2
 theme: minima
-#header_pages:
-  #- README.md
+header_pages:
+  - plano.md
+  - cronograma.md
 minima:
   date_format : "%e %B %Y"
   social_links:
@@ -36,7 +41,7 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 kramdown:
-  #header_offset   : 1
+  header_offset   : 1
   parse_block_html: true
   parse_span_html : true
 
@@ -57,9 +62,11 @@ plugins:
 
 # Keep and Exclude {{{2
 exclude:
-  - "[0-9][0-9]-*.md"
-  - downloads
-  - spec
   - LICENSE
   - Makefile
+  - downloads
+  - lib
+  - spec
+  - "*.csv"
+  - "*.bib"
 # vim: set foldmethod=marker :
