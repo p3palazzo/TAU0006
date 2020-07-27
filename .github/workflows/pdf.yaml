@@ -1,0 +1,20 @@
+name: PDF
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+jobs:
+  plano:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: docker://pandoc/latex:2.10
+      with:
+        args: >
+          -o plano.tex -d spec/pdf.yaml plano.md plano-pdf.md
+    - uses: docker://blang/latex:ctanfull
+      with:
+        volume: "`pwd`/assets/fonts:/usr/share/fonts"
+        args: >
+          latexmk -pdf -pdflatex="xelatex" -cd -f
+          -interaction=batchmode plano
