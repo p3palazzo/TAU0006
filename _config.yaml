@@ -64,6 +64,8 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
+  - _slides
+  - docs
   - downloads
   - lib
   - spec
