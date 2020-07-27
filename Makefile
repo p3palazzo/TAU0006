@@ -12,9 +12,13 @@ PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
 
 deploy : jekyll slides
 
-%.pdf : %.md pdf.yaml lib/unb.tex
-	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		-v "`pwd`/assets/fonts:/usr/share/fonts" \
+%.pdf : %.tex biblio.bib
+	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
+		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
+
+%.tex : %.md pdf.yaml lib/unb.tex
+	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/latex:2.9.2.1 -o $@ -d spec/pdf.yaml $<
 
 slides : $(SLIDES)
@@ -31,3 +35,6 @@ serve :
 	docker run --rm -p 4000:4000 -h 127.0.0.1 \
 		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
 		jekyll serve --skip-initial-build --no-watch
+
+styles :
+	git clone https://github.com/citation-style-language/styles.git
