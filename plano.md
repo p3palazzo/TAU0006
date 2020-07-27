@@ -46,7 +46,7 @@ Pedro P. Palazzo
 
 Sylvio Farias
 
-#### Monitores ####
+#### Monitoras ####
 
 Nathália Bonfim e Gabriella Parpinelli
 
