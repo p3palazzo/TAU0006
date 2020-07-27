@@ -3,6 +3,7 @@ vpath %.html .:_includes:_layouts:_site
 vpath %.scss assets/css
 vpath %.xml _site
 vpath %.yaml spec
+vpath default.% lib
 
 DOCS      = $(wildcard docs/*.md)
 REVEALJS  = $(wildcard _slides/*.md)
@@ -16,9 +17,12 @@ deploy : jekyll slides
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-%.tex : %.md pdf.yaml lib/ementa.tex
+%.tex : %.md %-pdf.md pdf.yaml default.latex
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		pandoc/latex:2.9.2.1 -o $@ -d spec/pdf.yaml $<
+		pandoc/latex:2.9.2.1 -o $@ -d spec/pdf.yaml $*.md $*-pdf.md
+
+%-pdf.md :
+	@test -f $@ || touch $@
 
 slides : $(SLIDES)
 

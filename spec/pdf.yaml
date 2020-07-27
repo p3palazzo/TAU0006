@@ -3,7 +3,7 @@ to: latex
 standalone: true
 number-sections: true
 cite-method: biblatex
-template: "lib/ementa.tex"
+template: "lib/default.latex"
 pdf-engine: xelatex
 fail-if-warnings: true
 metadata:
