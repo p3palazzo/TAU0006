@@ -12,14 +12,15 @@ PAGES    := $(wildcard *.md)
 
 deploy : jekyll slides
 
-%.pdf : %.tex biblio.bib
+tau0006-%.pdf : %.tex biblio.bib
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
+	mv $*.pdf $@
 
 %.tex : %.md %-pdf.md pdf.yaml default.latex
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		pandoc/latex:2.10 -o $@ -d spec/pdf.yaml $*.md $*-pdf.md
+		pandoc/core:2.10 -o $@ -d spec/pdf.yaml $*.md $*-pdf.md
 
 %-pdf.md :
 	@test -f $@ || touch $@

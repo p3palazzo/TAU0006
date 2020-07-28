@@ -186,9 +186,9 @@ Unidade I. Redes urbanas na fundação do mundo moderno
 -----------------------------------------------------
 
 1. **Rotas comerciais e paradigmas urbanísticos --** Primeira
-   globalização -- Cidades mercantes da rota da Seda e do oceano Índico
-   -- Diversos modos de urbanizar: *kampung* malaio, *boma* banto,
-   *campo* veneziano.
+   globalização: cidades mercantes da rota da Seda e do oceano Índico
+   -- Diversos modos de urbanizar: *Kampung* malaio -- *Boma* banto --
+   *Campo* veneziano.
 
 2. **Renascimento e historiografia --** História da arquitetura como
    história da construção: Fletcher e Choisy -- História da arquitetura

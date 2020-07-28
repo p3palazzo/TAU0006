@@ -7,13 +7,9 @@ template: "lib/default.latex"
 pdf-engine: xelatex
 fail-if-warnings: true
 metadata:
-  date: "1.º/2020 · Turma C · 3.ª/5.ª 20h50--22h30"
   documentclass: article
   papersize: a4
   indent: true
-  geometry:
-    - top=80pt
-    - left=80pt
   mainfont: "UnB Pro"
   mainfontoptions:
     - Numbers=Proportional

@@ -1,8 +1,11 @@
 ---
+date: "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
 biblio-style: "chicago-notes"
 suppress-bibliography: true
 fontsize: 11pt
 geometry:
+- top=80pt
+- left=80pt
 - textwidth=440pt
 - textheight=680pt
 biblatexoptions:
