@@ -8,13 +8,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: docker://pandoc/latex:2.10
+    - uses: docker://pandoc/core:2.10
       with:
         args: >
-          -o plano.tex -d spec/pdf.yaml plano.md plano-pdf.md
-    - uses: docker://blang/latex:ctanfull
+          -o tau0006-plano.tex -d spec/pdf.yaml
+          plano.md plano-pdf.md
+    - name: Generate pdf
+      run: >
+        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        -v "`pwd`/assets/fonts:/usr/share/fonts"
+        blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
+        -interaction=batchmode tau0006-plano
+  cronograma:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: docker://pandoc/core:2.10
       with:
-        volume: "`pwd`/assets/fonts:/usr/share/fonts"
         args: >
-          latexmk -pdf -pdflatex="xelatex" -cd -f
-          -interaction=batchmode plano
+          -o tau0006-cronograma.tex -d spec/pdf.yaml
+          cronograma.md cronograma-pdf.md
+    - name: Generate pdf
+      run: >
+        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        -v "`pwd`/assets/fonts:/usr/share/fonts"
+        blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
+        -interaction=batchmode tau0006-cronograma
