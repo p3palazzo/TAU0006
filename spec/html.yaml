@@ -1,0 +1,10 @@
+from: markdown+raw_tex
+to: html
+standalone: true
+number-sections: false
+cite-method: citeproc
+filters:
+  - pandoc-citeproc
+fail-if-warnings: true
+metadata:
+  date: "2020-07-27"

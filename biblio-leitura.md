@@ -1,29 +1,6 @@
 ---
-date: "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
-biblio-style: "chicago-notes"
-suppress-bibliography: true
-fontsize: 11pt
-geometry:
-- top=80pt
-- left=80pt
-- textwidth=440pt
-- textheight=680pt
-biblatexoptions:
-- strict
-- backend=biber
-- babel=other
-- bibencoding=inputenc
-polyglossia-otherlangs:
-- name: english
-- name: french
-- name: german
-- name: italian
-- name: latin
-- name: portuguese
-- name: spanish
-header-includes:
-- \usepackage{csquotes}
-abstract-title: "Ementa"
+layout: default
+lang  : pt-BR
 ---
 
 Bibliografia
@@ -35,18 +12,18 @@ outra bibliografia de apoio que se faça necessária à consecução das
 avaliações desta disciplina. Para conveniência, dividimos a bibliografia
 em quatro partes:
 
-- *Leituras obrigatórias:* os textos que vamos estudar detalhadamente e
-  resenhar ao longo do semestre;
-- *Tratados e fontes primárias:* Obras criadas por alguns dos principais
-  arquitetos e escritores dos séculos XV a XVIII, são os textos
-  fundadores da nossa disciplina e da visão moderna sobre a história e a
-  teoria da arquitetura;
-- *Bibliografia básica:* alguns textos canônicos sobre história da
-  arquitetura publicados no século XX, que constam da ementa oficial da
-  disciplina.
-- *Bibliografia complementar:* uma variedade de referências relevantes
-  para a discussão dos tópicos do semestre, que forma a base da nossa
-  abordagem didática.
+- *[Leituras obrigatórias](#leituras-obrigatórias):* os textos que vamos
+estudar detalhadamente e resenhar ao longo do semestre;
+- *[Tratados e fontes primárias](biblio-fontes.md):* Obras criadas por
+  alguns dos principais arquitetos e escritores dos séculos XV a XVIII,
+  são os textos fundadores da nossa disciplina e da visão moderna sobre
+  a história e a teoria da arquitetura;
+- *[Bibliografia básica](biblio-basica.md):* alguns textos canônicos
+  sobre história da arquitetura publicados no século XX, que constam da
+  ementa oficial da disciplina.
+- *[Bibliografia complementar](biblio-complementar.md):* uma variedade
+  de referências relevantes para a discussão dos tópicos do semestre, que
+  forma a base da nossa abordagem didática.
 
 Leituras obrigatórias
 ---------------------
@@ -88,12 +65,4 @@ completa e de fácil compreensão sobre as ordens clássicas:
 
 > Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
 > Amsterdam: Architectural Press, 2005.
-
-\nocite{*}
-
-\printbibliography[title={Tratados e fontes primárias},heading=subbibintoc,keyword={Fontes}]
-
-\printbibliography[title={Bibliografia Básica},heading=subbibintoc,keyword={Básica}]
-
-\printbibliography[title={Bibliografia Complementar},heading=subbibintoc,keyword={Complementar}]
 

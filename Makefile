@@ -12,18 +12,20 @@ PAGES    := $(wildcard *.md)
 
 deploy : jekyll slides
 
-tau0006-%.pdf : %.tex biblio.bib
+tau0006-%.pdf : %.tex
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 	mv $*.pdf $@
 
-%.tex : %.md %-pdf.md pdf.yaml default.latex
+plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
+	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md | styles
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		pandoc/core:2.10 -o $@ -d spec/pdf.yaml $*.md $*-pdf.md
+		pandoc/core:2.10 -o $@ -d $^
 
-%-pdf.md :
-	@test -f $@ || touch $@
+%.tex : pdf.yaml %.md | default.latex
+	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		pandoc/core:2.10 -o $@ -d $^
 
 slides : $(SLIDES)
 
@@ -42,3 +44,6 @@ serve :
 
 styles :
 	git clone https://github.com/citation-style-language/styles.git
+
+clean :
+	rm *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml
