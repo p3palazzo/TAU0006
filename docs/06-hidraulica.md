@@ -15,6 +15,9 @@ Jardim italiano
 Dois tipos de jardins asiáticos
 -------------------------------
 
+- Jardim chinês (e Zen)
+- Jardim persa-indiano
+
 Jardins monumentais
 ===================
 
@@ -24,8 +27,8 @@ França
 Mogol
 -----
 
-Infraestrutura hidráulica na Europa
-===================================
+Infraestrutura hidráulica na América
+====================================
 
 Chinampas astecas
 -----------------

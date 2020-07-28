@@ -2,6 +2,7 @@
 title   : "TAU 0006 História da Arquitetura e da Arte II"
 subtitle: "Plano de ensino"
 author  : "Fau--UnB"
+layout  : default
 lang    : pt-BR
 nocite  : "@*"
 bibliography: "biblio.bib"
@@ -184,83 +185,103 @@ Programa
 Unidade I. Redes urbanas na fundação do mundo moderno
 -----------------------------------------------------
 
-1. **Rotas comerciais e paradigmas urbanísticos.** Primeira
-   globalização -- Cidades mercantes da rota da Seda e do Índico --
-   Majapahit, Malacca, Delhi, Kilwa, İstanbul, Moscou, Veneza.
+1. **Rotas comerciais e paradigmas urbanísticos --** Primeira
+   globalização -- Cidades mercantes da rota da Seda e do oceano Índico
+   -- Diversos modos de urbanizar: *kampung* malaio, *boma* banto,
+   *campo* veneziano.
 
-2. **Cidades ideais e cidades possíveis.** Conceito de cidade ideal na
-   China e na Europa -- Macrocosmo e microcosmo -- Tratadística italiana --
-   Forma geométrica e fortificação de Filarete a Vauban -- Plaza Mayor,
-   place Royale, Square -- Do *boma* banto às cidades da Guiné.
+2. **Renascimento e historiografia --** História da arquitetura como
+   história da construção: Fletcher e Choisy -- História da arquitetura
+   como história do espaço: Argan -- Cúpulas europeias e explorações da
+   técnica: Brunelleschi e De L'Orme -- Cúpulas asiáticas e malhas
+   espaciais: influências dos reinos mongóis e turcos.
 
-3. **Renascimento e historiografia.** Debate sobre a relação
-   entre transformação construtiva e historicidade da arquitetura:
-   Fletcher e Choisy -- Inovações tecnológicas do século XV: a cúpula de
-   Brunelleschi e a estereotomia de De L'Orme.
+3. **Cidades ideais e cidades possíveis --** Macrocosmo e microcosmo, a
+   tratadística italiana e o ideal geométrico na China -- Urbanização
+   conveniente: vilas novas em Portugal e *jōkamachi* no Japão --
+   Forma geométrica e fortificação de Filarete a Vauban -- Praças reais:
+   plaza Mayor, place Royale, Square.
 
-4. **Arte clássica.** Classicismo como método e atitude -- Teorização das
-   três projeções ortográficas -- Ideia e desenho como produtos do
-   trabalho intelectual do arquiteto -- Bramante e Rafael -- Projetos para a
-   basílica de São Pedro.
+4. **Arte clássica --** Arquitetura como arte liberal: Alberti -- Três
+   momentos na reconstrução do classicismo -- Primeiro: resgatar o
+   vocabulário antigo -- Segundo: estabelecer a gramática espacial
+   clássica: Sangallo -- Artistas do Quatrocentos: perspectiva e
+   projeção ortográfica.
 
-5. **Arquitetura universal.** Tratadística da arquitetura na Itália e na
-   China -- Classicismo como cânone e variações possíveis -- Serlio e
-   Vinhola: adaptabilidade do sistema clássico a diferentes culturas
-   construtivas e espaciais -- Scamozzi e o "dogmatismo".
+5. **Arquitetura universal --** Três momentos na reconstrução do
+   classicismo -- Terceiro: manipulando os elementos de arquitetura como
+   articuladores do espaço: Bramante e Rafael -- Classicismo como
+   ordenamento global do espaço: Miguel Ângelo -- Da ordem geométrica às
+   "ordens clássicas": Serlio e Vinhola -- Projetos para a basílica de
+   São Pedro.
 
 Unidade II. Linguagens clássicas da arquitetura
 -----------------------------------------------
 
-6. **Clássico anticlássico.** Miguel Ângelo -- Vinhola e Palladio no
-   original e em tradução -- Igrejas centralizadas e basilicais --
-   Classicismo como composição de formas abstratas e como arranjo de
-   elementos figurativos.
+6. **Hidráulica ornamental e funcional --** Jardim como microcosmo:
+   a *villa* do maneirismo italiano e o pavilhão chinês -- Jardins
+   monumentais: *parterres* franceses e *chahar-bagh* indo-persa --
+   Infraestrutura hidráulica na América: *chinampas* astecas;
+   *andenes*, *waru waru* e *cochas* incaicos -- Aterramento e
+   canalização de águas urbanas: problemas bioclimáticos globais.
 
-7. **Barroco e classicismo.** Elementos de arquitetura e elementos de
-   composição -- Academias -- Barroco romano versus classicismo francês?
-   Bernini e Borromini -- Mansart, Le Vau e os Blondel.
+7. **Clássico anticlássico --** Plano e recessão: espaço escultórico,
+   ordem colossal e cenografia -- Projeto tipológico: adaptações do
+   classicismo a condicionantes espaciais e culturais -- Permutações
+   projetuais: repertório vitruviano na obra de Palladio -- Desenho,
+   mecenato e o "problema do modo".
 
-8. **Arquitetura acadêmica.** Definição do campo profissional do
-   arquiteto -- Academias europeias e os primórdios do ensino formal --
-   Construtores, artistas e letrados no domínio da arquitetura -- O debate
-   francês sobre o gosto.
+8. **Barroco e classicismo --** Da tipologia espacial ao projeto
+   geométrico: Bernini, Borromini e Guarini -- Elementos de arquitetura
+   ou elementos de decoração: dilemas franceses -- Bioclimatismo e
+   arquitetura clássica: iluminação, ventilação, sombreamento -- o
+   *hôtel* francês: soluções funcionais da modernidade.
 
-9. **Urbanismo como arquitetura.** Traçados viários enquanto projetos
-   arquitetônicos -- Reformas urbanas monumentais: Roma, Versalhes,
-   Karlsruhe, Isfahan, Jaipur, Pequim.
+9. **Arte acadêmica --** Colunata do Louvre: ponte entre o Renascimento
+   e o Neoclassicismo -- Desenho, colorido e a Querela dos Antigos e dos
+   Modernos -- Academias de arte: redefinindo a formação e o ofício da
+   arquitetura -- O debate francês sobre o gosto.
 
-10. **Hidráulica ornamental e funcional.** Jardins de água corrente:
-    Itália, França e Mogol -- *Chahar-bagh* -- Jardins chineses --
-    *Chinampas* astecas -- *Andenes*, *waru waru* e *cochas* incaicos --
-    Aterramento e canalização de águas urbanas.
+10. **Urbanismo como arquitetura --** Traçados viários enquanto projetos
+   arquitetônicos -- Tensão espacial barroca: reformas urbanas em Roma
+   -- Desenhos desmedidos: Versalhes e seus êmulos -- Sincretismo
+   decorativo: Pérsia safávida, império Otomano e Rússia.
 
 Unidade III. Estilo e território: inquietações da modernidade
 -------------------------------------------------------------
 
-11. **Barroco internacional.** Teorias do barroco: d'Ors, Tapié,
+11. **Barroco internacional --** Teorias do barroco: d'Ors, Tapié,
     Hautecœur -- Virtuosismo construtivo: estereotomia francesa, Sinan,
-    Guarini, carpintaria japonesa -- Sincretismo na América hispânica --
-    Europa central, Rússia, império Otomano e Pérsia.
+    Guarini -- De Nikkō à reconstrução do Tōdaiji: ápice da carpintaria
+    japonesa -- Presságios: releituras do clássico em Wren, Vittone,
+    Bertotti-Scamozzi e Juvarra.
 
-12. **Universo em expansão.** Universalidade da arquitetura (clássica?):
-    Fischer von Erlach, Winckelmann, Chambers -- Do *Grand Tour* ao
-    pitoresco e ao exótico -- Arquitetura anglo-indiana -- Jesuítas na
-    China -- Neogótico.
+12. **Universo em expansão --** Fronteiras da arquitetura  no nascimento
+    da história da arte: Fischer von Erlach, Winckelmann, Chambers --
+    Ruínas e crise da unidade clássica: *Grand Tour* e a corrida das
+    medições -- Pitoresco: refinamento cultural entre cosmopolitismo e
+    nacionalismo -- Decoro arquitetônico e gêneros pictóricos:
+    derivações tipológicas.
 
-13. **Reação clássica.** Tradição, correção e inovação como problemas da
-    crítica -- Teoria neoclássica e elogio da simplicidade formal -- Lodoli,
-    Milizia e Laugier -- *Kokugaku* e *Yamato-e*: debates sobre caráter
-    nacional no Japão.
+13. **Reação clássica --** Tradição, correção e inovação como problemas da
+    crítica -- *Kokugaku* e *Yamato-e*: debates sobre caráter nacional
+    no Japão -- Maturidade das tradições: da China manchu ao
+    Mediterrâneo -- Classicismo para o povo: manuais de carpintaria
+    e estampas populares no norte da Europa e na América anglófona
 
-14. **Territórios e viação.** Território como escala de intervenção --
-    Reorganização espacial no mundo hispânico -- École des Ponts et
-    Chaussées e a viação como estratégia econômico-militar -- Tōkaidō:
-    todos os caminhos levam a Tóquio.
+14. **Territórios e viação --** Território como escala de intervenção:
+    reorganização espacial no mundo ibérico -- Arquitetura da cidadania:
+    projetos urbanos na América do Norte -- Viação como estratégia de
+    poder: École des Ponts et Chaussées e Tōkaidō -- Topografia,
+    agrimensura e representação: do *Methodo lusitanico* de Serrão
+    Pimentel à Malha continental de Jefferson.
 
-15. **Primeiros modernos.** Escola Politécnica: cisão entre arquitetura
-    e engenharia -- Arquitetos da Revolução na França e a modernidade
-    retrospectiva -- Declínio da estereotomia e criação do cálculo
-    estrutural -- Racionalismo estrutural: *stick framing* e ferro.
+15. **Primeiros modernos --** Teoria neoclássica e elogio da
+    simplicidade formal: Lodoli, Milizia e Laugier -- Escola
+    Politécnica: declínio da estereotomia e criação do cálculo
+    estrutural -- Arquitetos da Revolução na França, Piranesi e a
+    modernidade retrospectiva -- Racionalismo estrutural: *stick
+    framing* e ferro.
 
 Apoio ao aluno
 ==============

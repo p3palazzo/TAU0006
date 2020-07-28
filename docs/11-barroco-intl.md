@@ -12,8 +12,8 @@ Teorias do barroco
 Virtuosismo estrutural
 ======================
 
-Sincretismo hispânico
-=====================
-
 Tōdaiji
 =======
+
+Presságios
+==========

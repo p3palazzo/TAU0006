@@ -34,15 +34,16 @@ Primeira globalização
   Índico: China, Majapahit, sultanatos do Decã, Omã, Mamelucos e império
   Otomano.
 
-Cidades mercantes da rota da Seda e do Índico
-=============================================
-
-- *Kampung* malaio
-
 - Kilwa
 
 - Cidades generalistas vs. cidades especialistas: entrepostos comerciais
   na costa leste da África e além.
+
+- Soluções variadas para o problema da urbanização tropical: *kampung*
+  malaio e *boma* banto.
+
+*Kampung* malaio: urbanismo bioclimático
+========================================
 
 Do *boma* banto às cidades da Guiné
 =================================
@@ -57,6 +58,9 @@ Do *boma* banto às cidades da Guiné
 - Central Cattle Pattern: complexo habitacional--produtivo que evidencia
   hierarquias socio-familiares, políticas, econômicas, culturais e religiosas.
 
+- Também chamado de *kraal* (africâner, do português "curral"): termo
+  colonialista.
+
 - Malha viária não é estruturante e sim estruturada, a partir da
   crescente compacidade da agregação de CCPs.
 
@@ -66,8 +70,8 @@ Do *boma* banto às cidades da Guiné
 - E quando o processo de estruturação malha viária--parcelamento se
   inverte?
 
-Cidades de cúpulas
-==================
+Campo, *calle* e canal em Veneza
+==============================
 
 - Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
   fora e novamente para dentro, tendo a malha viária (campo, calle e

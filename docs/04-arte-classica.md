@@ -6,8 +6,8 @@ lang    : pt-BR
 layout  : default
 ---
 
-Arquitetura como trabalho intelectual
-=====================================
+Arquitetura como arte liberal
+=============================
 
 Neste módulo já estamos visando, em parte, ao objetivo da Unidade II:
 dominar os métodos projetuais da tradição clássica.
@@ -116,8 +116,8 @@ possíveis ou desejáveis.
                                       └─ Isolada ──┤
                                                    └─ Pilastra (Ø)
 
-Estabelecer a gramática clássica
-================================
+Estabelecer a gramática espacial clássica
+=========================================
 
 Segundo momento: Espaços de geometria elementar
 -----------------------------------------------
@@ -145,3 +145,20 @@ Sangallo e Bramante
 - Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
   articulação espacial.
 - Bramante: claustro della Pace.
+
+Perspectiva e projeção ortográfica
+==================================
+
+Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
+papa Leão X.
+
+Dois modos fundamentalmente distintos de conceber o espaço:
+
+- Perspectiva foi um grande "salto" conceitual em seu tempo, permitindo
+  conceber o espaço como um objeto a ser representado e não apenas como
+  interstício entre figuras. De Martini e Lorenzetti a Masaccio e
+  Ucello. Tábuas de Urbino. Piero della Francesca: Deep space shallow
+  space. Perspectiva do interior do Panteão por Rafael.
+- Projeção ortográfica representa um grau de abstração na concepção
+  (prefiguração) do espaço. Permite manipular formas complexas e
+  resolver o problema do canto com ordens clássicas.

@@ -21,6 +21,6 @@ Pitoresco e arquiteturas nacionais
 - English landscape
 - Goethe
 
-Piranesi
-========
+Gótico como problema
+====================
 
