@@ -1,6 +1,10 @@
 ---
+title : Bibliografia
 layout: default
 lang  : pt-BR
+csl   : "styles/chicago-fullnote-bibliography-with-ibid.csl"
+bibliography: leituras.bib
+suppress-bibliography: true
 ---
 
 Bibliografia

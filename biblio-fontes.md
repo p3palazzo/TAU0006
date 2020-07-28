@@ -1,7 +1,8 @@
 ---
+title : Tratados e fontes primárias
 layout: default
 lang  : pt-BR
-biblio: fontes.bib
+bibliography: fontes.bib
 nocite: "@*"
 csl   : "styles/chicago-fullnote-bibliography-with-ibid.csl"
 ---

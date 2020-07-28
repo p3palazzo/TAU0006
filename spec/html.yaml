@@ -1,7 +1,9 @@
 from: markdown+raw_tex
 to: html
 standalone: true
+file-scope: true
 number-sections: false
+shift-heading-level-by: 2
 cite-method: citeproc
 filters:
   - pandoc-citeproc

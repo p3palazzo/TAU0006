@@ -1,7 +1,8 @@
 ---
+title : Bibliografia complementar
 layout: default
 lang  : pt-BR
-biblio: complementar.bib
+bibliography: complementar.bib
 nocite: "@*"
 csl   : "styles/chicago-fullnote-bibliography-with-ibid.csl"
 ---
