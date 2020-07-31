@@ -12,6 +12,9 @@ Teorias do barroco
 Virtuosismo estrutural
 ======================
 
+- Guarini
+- Mansart tardio
+
 Tōdaiji
 =======
 

@@ -6,48 +6,48 @@ layout  : default
 lang    : pt-BR
 ---
 
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| Tópico | Conteúdo                                                               | Leituras e Atividades           | Prazo         |
-+=======:+:=======================================================================+:================================+:==============+
-|        | Adaptação inicial                                                      | Livro-texto v--vii,             | 17/08 a 29/08 |
-|        |                                                                        | 455--459 (extra)                |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-|        |                                                                        |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| I      | REDES URBANAS NA FUNDAÇÃO DO MUNDO MODERNO                             | Trabalho: Análise urbana        | 30/08 a 04/10 |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-|        |                                                                        |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| 1      | **Rotas comerciais e paradigmas urbanísticos --** Primeira             | Livro-texto 436, 469--473,      | 31/08         |
-|        | globalização: Cidades mercantes da rota da Seda e do oceano Índico     | 519, 537--538                   |               |
-|        | -- Diversos modos de urbanizar: *Kampung* malaio -- *Boma* banto       |                                 |               |
-|        | -- *Campo* veneziano.                                                  |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| 2      | **Renascimento e historiografia --** História da arquitetura como      | Livro-texto 474--490            | 08/09         |
-|        | história da construção: Fletcher e Choisy -- História da arquitetura   |                                 |               |
-|        | como história do espaço: Argan -- Cúpulas europeias e explorações da   |                                 |               |
-|        | técnica: Brunelleschi e De L'Orme -- Cúpulas asiáticas e malhas        |                                 |               |
-|        | espaciais: influências dos reinos mongóis e turcos.                    |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| 3      | **Cidades ideais e cidades possíveis --** Macrocosmo e microcosmo, a   | Livro-texto 425, 491--500,      | 15/09         |
-|        | tratadística italiana e o ideal geométrico na China -- Urbanização     | 554--562                        |               |
-|        | conveniente: vilas novas em Portugal e *jōkamachi* no Japão --         |                                 |               |
-|        | Forma geométrica e fortificação de Filarete a Vauban -- Praças reais:  |                                 |               |
-|        | plaza Mayor, place Royale, Square.                                     |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| 4      | **Arte clássica --** Arquitetura como arte liberal: Alberti -- Três    | Summerson 1--37                 | 22/09         |
-|        | momentos na reconstrução do classicismo -- Primeiro: resgatar o        |                                 |               |
-|        | vocabulário antigo -- Segundo: estabelecer a gramática espacial        |                                 |               |
-|        | clássica: Sangallo -- Artistas do Quatrocentos: perspectiva e          |                                 |               |
-|        | projeção ortográfica.                                                  |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
-| 5      | **Arquitetura universal --** Três momentos na reconstrução do          | Summerson 39--62                | 27/09         |
-|        | classicismo -- Terceiro: manipulando os elementos de arquitetura como  |                                 |               |
-|        | articuladores do espaço: Bramante e Rafael -- Classicismo como         |                                 |               |
-|        | ordenamento global do espaço: Miguel Ângelo -- Da ordem geométrica às  |                                 |               |
-|        | "ordens clássicas": Serlio e Vinhola -- Projetos para a basílica de    |                                 |               |
-|        | São Pedro.                                                             |                                 |               |
-+--------+------------------------------------------------------------------------+---------------------------------+---------------+
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+| Tópico | Conteúdo                                                              | Leituras e Atividades      | Prazo         |
++=======:+:======================================================================+:===========================+:==============+
+|        | Adaptação inicial                                                     | Livro-texto v--vii,        | 17/08 a 29/08 |
+|        |                                                                       | 455--459 (ponto extra)     |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|        |                                                                       |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      I | REDES URBANAS NA FUNDAÇÃO DO MUNDO MODERNO                            | Trabalho: Análise urbana   | 30/08 a 04/10 |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|        |                                                                       |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      1 | **Rotas comerciais e paradigmas urbanísticos --** Primeira            | Livro-texto 436, 469--473, | 31/08         |
+|        | globalização: Cidades mercantes da rota da Seda e do oceano Índico    | 519, 537--538              |               |
+|        | -- Diversos modos de urbanizar: *Kampung* malaio -- *Boma* banto      |                            |               |
+|        | -- *Campo* veneziano.                                                 |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      2 | **Renascimento e historiografia --** História da arquitetura como     | Livro-texto 474--490       | 08/09         |
+|        | história da construção: Fletcher e Choisy -- História da arquitetura  |                            |               |
+|        | como história do espaço: Argan -- Cúpulas europeias e explorações da  |                            |               |
+|        | técnica: Brunelleschi e De L'Orme -- Cúpulas asiáticas e malhas       |                            |               |
+|        | espaciais: influências dos reinos mongóis e turcos.                   |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      3 | **Cidades ideais e cidades possíveis --** Macrocosmo e microcosmo, a  | Livro-texto 425, 491--500, | 15/09         |
+|        | tratadística italiana e o ideal geométrico na China -- Urbanização    | 554--562                   |               |
+|        | conveniente: vilas novas em Portugal e *jōkamachi* no Japão --        |                            |               |
+|        | Forma geométrica e fortificação de Filarete a Vauban -- Praças reais: |                            |               |
+|        | plaza Mayor, place Royale, Square.                                    |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      4 | **Arte clássica --** Arquitetura como arte liberal: Alberti -- Três   | Summerson 1--37            | 22/09         |
+|        | momentos na reconstrução do classicismo -- Primeiro: resgatar o       |                            |               |
+|        | vocabulário antigo -- Segundo: estabelecer a gramática espacial       |                            |               |
+|        | clássica: Sangallo -- Artistas do Quatrocentos: perspectiva e         |                            |               |
+|        | projeção ortográfica.                                                 |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
+|      5 | **Arquitetura universal --** Três momentos na reconstrução do         | Summerson 39--62           | 27/09         |
+|        | classicismo -- Terceiro: manipulando os elementos de arquitetura como |                            |               |
+|        | articuladores do espaço: Bramante e Rafael -- Classicismo como        |                            |               |
+|        | ordenamento global do espaço: Miguel Ângelo -- Da ordem geométrica às |                            |               |
+|        | "ordens clássicas": Serlio e Vinhola -- Projetos para a basílica de   |                            |               |
+|        | São Pedro.                                                            |                            |               |
++--------+-----------------------------------------------------------------------+----------------------------+---------------+
 
 \pagebreak
 \newgeometry{top=80pt,textheight=440pt}
@@ -86,7 +86,7 @@ lang    : pt-BR
 | 10     | **Urbanismo como arquitetura --** Traçados viários enquanto projetos   | Livro-texto 533--536            | 03/11         |
 |        | arquitetônicos -- Tensão espacial barroca: reformas urbanas em Roma    |                                 |               |
 |        | -- Desenhos desmedidos: Versalhes e seus êmulos -- Sincretismo         |                                 |               |
-|        | decorativo: Pérsia safávida, império Otomano e Rússia.                 |                                 |               |
+|        | decorativo: Pérsia safávida, império Otomano, Abissínia e Rússia.      |                                 |               |
 +--------+------------------------------------------------------------------------+---------------------------------+---------------+
 
 \pagebreak

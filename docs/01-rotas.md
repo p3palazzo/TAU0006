@@ -1,9 +1,13 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
-subtitle: "História da Arquitetura e da Arte II"
-author  : "Pedro P. Palazzo"
+subtitle: "TAU 0006 · Tópico I"
+author  : "Pedro P. Palazzo · FAU--UnB"
 lang    : pt-BR
 layout  : default
+parallaxBackgroundImage: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/A_general_chart_exhibiting_the_discoveries_made_by_Captain_James_Cook_in_this_and_his_two_preceeding_voyages_with_the_tracks_of_the_ships_under_his_command._By_Lieutenant_Roberts_of_his_Majesty%27s_Navy._RMG_F2434.tiff/lossy-page1-3800px-thumbnail.tiff.jpg
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
+  data-background-size: cover
 ---
 
 Primeira globalização
@@ -11,7 +15,21 @@ Primeira globalização
 
 - Narrativa do semestre: consolidação de tradições
 
-- O mundo é conectado desde sempre
+::: {.columns}
+::: {.column width=50%}
+
+![Barroco]()
+
+:::
+::: {.column width=50%}
+
+![Qing]()
+
+:::
+:::
+
+- O mundo é conectado desde sempre: Vikings → Terra Nova e Polinésia →
+  Peru ou México
 
 - Mapa: esferas culturais, das quais vamos abordar:
   - Europa atlântica e do Norte

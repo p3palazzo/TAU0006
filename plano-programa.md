@@ -72,7 +72,7 @@ Unidade II. Linguagens clássicas da arquitetura
 10. **Urbanismo como arquitetura --** Traçados viários enquanto projetos
    arquitetônicos -- Tensão espacial barroca: reformas urbanas em Roma
    -- Desenhos desmedidos: Versalhes e seus êmulos -- Sincretismo
-   decorativo: Pérsia safávida, império Otomano e Rússia.
+   decorativo: Pérsia safávida, império Otomano, Etiópia e Rússia.
 
 Unidade III. Estilo e território: inquietações da modernidade
 -------------------------------------------------------------
