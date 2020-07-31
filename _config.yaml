@@ -16,6 +16,7 @@ lang: pt-BR
 # Content {{{1
 collections:
   - slides
+  - handouts
 
 # Build settings {{{1
 # Theme {{{2
@@ -71,4 +72,7 @@ exclude:
   - spec
   - "*.csv"
   - "*.bib"
+keep_files:
+  - _slides
+  - _handouts
 # vim: set foldmethod=marker :

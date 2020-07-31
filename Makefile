@@ -1,17 +1,19 @@
 VPATH = .:assets
+vpath %.csl styles
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss assets/css
 vpath %.xml _site
-vpath %.yaml spec
+vpath %.yaml .:spec
 vpath default.% lib
 
+ROOT      = $(filter-out README.md,$(wildcard *.md))
 DOCS      = $(wildcard docs/*.md)
-REVEALJS  = $(wildcard _slides/*.md)
-SLIDES   := $(patsubst _slides/%.md,_site/_slides/%.html,$(REVEALJS))
-PAGES     = $(filter-out README.md,$(wildcard *.md))
-HTML     := $(patsubst %.md,_site/%.html,$(PAGES))
+PAGES    := $(patsubst %.md,_site/%.html,$(ROOT))
+SLIDES   := $(patsubst docs/%.md,_site/_slides/%.html,$(DOCS))
+HANDOUTS := $(patsubst docs/%.md,_site/_handouts/%.html,$(DOCS))
 
-deploy : jekyll slides
+deploy : _site/sitemap.xml _site/.pages \
+	_site/_slides/.slides _site/_handouts/.handouts
 
 tau0006-%.pdf : %.tex
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -28,19 +30,28 @@ plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/core:2.10 -o $@ -d $^
 
-pandoc : $(HTML)
+_site/.pages : $(PAGES)
+	touch _site/.pages
 
 _site/%.html : html.yaml %.md | styles
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/core:2.10 -o $@ -d $^
 
-slides : $(SLIDES)
+_site/_handouts/.handouts : $(HANDOUTS)
+	touch _site/_handouts/.handouts
+
+_site/_handouts/%.html : html.yaml docs/%.md | styles
+	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		pandoc/core:2.10 -o $@ -d $^
+
+_site/_slides/.slides : $(SLIDES)
+	touch _site/_slides/.slides
 
 _site/_slides/%.html : revealjs.yaml %.md | styles
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/core:2.10 -o $@ -d $^
 
-jekyll : clean $(PAGES) README.md
+_site/sitemap.xml : clean 
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 

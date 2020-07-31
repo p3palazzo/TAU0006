@@ -14,3 +14,6 @@ variables:
   width: 1280
   height: 800
   center: false
+metadata:
+  csl: "styles/chicago-author-date.csl"
+  suppress-bibliography: false
