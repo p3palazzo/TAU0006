@@ -8,6 +8,7 @@ downloads
 # Reveal.js
 node_modules
 package-lock.json
+styles
 
 #  Jekyll
 _site

@@ -3,11 +3,11 @@ to         : revealjs
 standalone : true
 file-scope : true
 slide-level: 2
-toc        : true
+toc        : false
 css        : "assets/css/slide.css"
 fail-if-warnings: true
 variables:
-  revealjs-url: "reveal.js"
+  revealjs-url: "../reveal.js"
   theme: "white"
   hashOneBasedIndex: true
   hash: true
