@@ -1,20 +1,25 @@
-from: markdown+raw_tex
-to: latex
-standalone: true
-file-scope: true
-number-sections: true
-cite-method: biblatex
-template: "lib/default.latex"
-pdf-engine: xelatex
-fail-if-warnings: true
+from             : markdown+raw_tex
+to               : latex
+standalone       : true
+file-scope       : true
+number-sections  : true
+cite-method      : biblatex
+template         : "lib/default.latex"
+pdf-engine       : xelatex
+fail-if-warnings : true
+include-in-header:
+  - header.tex
 metadata:
-  date: "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
-  documentclass: article
-  papersize: a4
-  indent: true
-  mainfont: "UnB Pro"
+  date           : "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
+  lang           : pt-BR
+  documentclass  : article
+  papersize      : a4
+  indent         : true
+  secnumdepth    : 2
+  mainfont       : "UnB Pro"
+  sansfont       : "UnB Pro-Light"
   mainfontoptions:
     - Numbers=Proportional
-    - ItalicFont = UnBPro-RegularItalic
-  sansfont: "UnB Pro-Light"
-  secnumdepth: 2
+    - BoldFont       = UnBPro-Bold
+    - ItalicFont     = UnBPro-RegularItalic
+    - BoldItalicFont = UnBPro-BoldItalic

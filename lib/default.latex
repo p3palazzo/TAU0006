@@ -319,6 +319,7 @@ $if(block-headings)$
 $endif$
 $endif$
 $if(pagestyle)$
+\usepackage{fancyhdr}
 \pagestyle{$pagestyle$}
 $endif$
 $for(header-includes)$
@@ -403,6 +404,7 @@ $endif$
 \begin{document}
 $if(abstract-title)$
 \renewcommand{\abstractname}{$abstract-title$}
+
 $endif$
 $if(has-frontmatter)$
 \frontmatter
