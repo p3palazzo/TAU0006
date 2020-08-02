@@ -7,6 +7,8 @@ cite-method      : biblatex
 template         : "lib/default.latex"
 pdf-engine       : xelatex
 fail-if-warnings : true
+filters:
+  - pandoc-crossref
 include-in-header:
   - header.tex
 metadata:

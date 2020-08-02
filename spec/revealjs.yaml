@@ -6,9 +6,10 @@ slide-level: 2
 bibliography: biblio.bib
 cite-method: citeproc
 filters:
+  - pandoc-crossref
   - pandoc-citeproc
 toc        : false
-css        : "assets/css/slide.css"
+css        : "../assets/css/slide.css"
 fail-if-warnings: true
 variables:
   revealjs-url: "../reveal.js"

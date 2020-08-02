@@ -7,6 +7,7 @@ shift-heading-level-by: 2
 bibliography: biblio.bib
 cite-method: citeproc
 filters:
+  - pandoc-crossref
   - pandoc-citeproc
 fail-if-warnings: true
 metadata:
