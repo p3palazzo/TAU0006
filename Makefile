@@ -26,7 +26,7 @@ deploy : _site/sitemap.xml _site/.pages \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
+tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md | styles
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/crossref:2.10 -o $@ -d $^

@@ -8,11 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: docker://pandoc/core:2.10
+    - uses: docker://pandoc/crossref:2.10
       with:
         args: >
           -o tau0006-plano.tex -d spec/pdf.yaml
-          plano.md plano-pdf.md
+          plano.md plano-metodo.md plano-programa.md
+          plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
     - name: Generate pdf
       run: >
         docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
@@ -23,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: docker://pandoc/core:2.10
+    - uses: docker://pandoc/crossref:2.10
       with:
         args: >
           -o tau0006-cronograma.tex -d spec/pdf.yaml
