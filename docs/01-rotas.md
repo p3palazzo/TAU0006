@@ -17,6 +17,21 @@ Introdução à história da arquitetura na Idade Moderna
 1420
 ----
 
+:::::: {.columns}
+::: {.column width=50%}
+
+![Templo do Céu, Pequim, concluído 1420](){.stretch}
+
+:::
+
+::: {.column width=50%}
+
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore,
+Florença, iniciada 1420](){.stretch}
+
+:::
+::::::
+
 :::::: notes
 1420:
 
@@ -197,6 +212,16 @@ A "[Globalização](https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o)"
 relações de poder em escala mundial, com a expansão europeia dos séculos
 XVI a XIX, foi tão brutal que às vezes perdemos de vista o quanto essas
 redes e relações já eram globais desde a Idade Média.
+
+Mesmo a América não estava tão isolada dos outros continentes quanto
+parece: pelo menos até o início do século XIV, os navegadores vikings e
+polinésios tinham algum contato, ainda que não muito intenso, com os
+povos do litoral americano.
+
+No início do século X, os vikings se estabeleceram na Groenlândia, de
+onde faziam comércio com os povos do Ártico. Do século XI ao XIV, eles
+visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
+na costa oeste do Atlântico norte.
 ::::::
 
 :::::: {.columns}
@@ -213,51 +238,91 @@ redes e relações já eram globais desde a Idade Média.
 * * * *
 
 :::::: notes
-Mesmo a América não estava tão isolada dos outros continentes quanto
-parece: pelo menos até o início do século XIV, os navegadores vikings e
-polinésios tinham algum contato, ainda que não muito intenso, com os
-povos do litoral americano.
+No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
+costa da América do Sul no século
+XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
+Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
+doce e ervas medicinais.
 ::::::
 
 ![Expansão polinésia até o século XIII. Fonte: @benton:2012complete7](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png){width=100%}
 
-* * * *
+Oceano Índico no centro do mundo
+--------------------------------
 
-::: notes
+:::::: notes
+Segundo a historiadora da urbanização [Janet Lippman Abu-Lughod
+(1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), existia
+um "sistema mundial" entre 1250 e 1350 centrado no comércio marítimo do
+oceano Índico. A Europa e a China ocupavam uma posição periférica nesse
+sistema, dominado por mercadores árabes e navegantes malaios.
+::::::
 
-- Mapa: esferas culturais, das quais vamos abordar:
-  - Europa atlântica e do Norte
-  - Mediterrânea
-  - Guiné--Banto
-  - Índico oeste
-  - Índico leste
-  - Extremo oriente
-  - Centro-norte da América
-  - Andes
-
+:::::: {.columns}
+::: {.column width=30%}
+![Janet Lippman Abu-Lughod](https://i1.wp.com/publicseminar.org/wp-content/uploads/2013/12/Janet-Lippman-Abu-Lughod.jpg){width=100%}
 :::
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){height=100%}
+::: {.column width=70%}
+![Esferas econômico-culturais, 1250--1350. Fonte: @derfel73:2011thirteenth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){height=100%}
+:::
+::::::
+
+Difusionismo
+------------
+
+:::::: notes
+A ideia de um mundo antigo e medieval globalmente conectado não é
+novidade, mas ela tende a ser olhada com desconfiança desde a segunda
+metade do século XX. Em algumas ocasiões, o argumento da circulação
+mundial na Antiguidade foi usado para sustentar teses colonialistas, de
+que certos povos não seriam capazes de desenvolver uma arquitetura
+monumental sem ajuda externa.
+::::::
+
+![](https://www.integra.unb.br/s/bpkqqCeKXQLwGWw/preview)
+
+* * * *
+
+:::::: notes
+Um dos primeiros manuais de história da arquitetura a incluir a América
+precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
+adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
+"pirâmides" dos maias e astecas como uma importação dos terraplenos
+chineses.
+::::::
+
+:::::: {.columns}
+::: {.column width=70%}
+![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas -@choisy:1899histoire1, 198](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){width=100%}
+:::
+
+::: {.column width=30%}
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){.stretch} 
+::: 
+::::::
 
 Reorganização das potências políticas e econômicas no século XV
 ---------------------------------------------------------------
 
-::: notes
-
+:::::: notes
 Uma combinação de mudanças climáticas, pandemias e reestruturações
-políticas em todos os continentes afetou as redes comerciais e ajudou
+político-econômicas em todos os continentes afeta as redes comerciais e
+culturais em meados do século XIV e provoca a ruptura ou a reorganização
+de muitas conexões globais.
 
-- Resfriamento global em meados do século XIV dá o pontapé inicial numa
-  sequência de choques que conduzem à reorganização econômica e política
-  da era moderna:
-  - Peste bubônica no corredor eurasiático;
-  - Queda na capacidade produtiva do extremo norte;
-  - Seca no corredor centro-americano e no litoral andino.
+O resfriamento global em meados do século XIV dá o pontapé inicial numa
+sequência de choques que levam à reorganização econômica e política da
+era moderna. O mais famoso desses choques é a pandemia de peste que se
+espalha da China para a Europa.
+
+Na nova ordem econômica e política do século XV, grandes reinos
+centralizados e intermediários mercantis levam vantagem sobre
+cidades-estado republicanas e sobre produtores de matérias-primas.
 
 - Reorganização das potências políticas e econômicas na bacia do oceano
   Índico: China, Majapahit, sultanatos do Decã, Omã, Mamelucos e império
   Otomano.
-
 :::
 
 Cidades generalistas e cidades especialistas
@@ -271,6 +336,8 @@ Cidades generalistas e cidades especialistas
 - Takwa (Lamu), Kilwa
 
 :::
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){width=100%}
 
 * * * *
 
