@@ -342,19 +342,57 @@ climáticas onde elas se desenvolvem.
 ![](){}
 
 *Kampung* malaio: urbanismo bioclimático
-========================================
+======================================
+
+Nem tanto ao mar, nem tanto à terra
+-----------------------------------
 
 :::::: notes
-
-- Hierarquia civilizatória: mundo malaio tido como inferior por não
-  adotar paradigma urbanístico chinês ou indiano.
-- Cidades comerciais de influência chinesa: Malacca --- enfraquecimento
-  de Majapahit.
-
+No universo das cidades-estado mercantes dos séculos XIV e XV, os reinos
+do Sudeste asiático se destacam pela sua diversidade étnica e
+religiosa. O império hindu-budista de Majapahit, na ilha de Java, e o
+sultanato muçulmano de Malacca, na península malaia, controlam o
+comércio marítimo de especiarias e as exportações chinesas para o
+Ocidente. Assim, Majapahit e Malacca se tornam portos comerciais muito
+movimentados. Mas, acima de tudo, essas cidades demonstram modos de
+organizar o espaço urbano e de construir perfeitamente adaptados ao
+clima equatorial.
 ::::::
+
+Paradigmas urbanísticos e o difícil enquadramento das cidades malaias
+---------------------------------------------------------------------
+
+:::::: notes
+Hierarquia civilizatória: mundo malaio tido como inferior por não adotar
+paradigma urbanístico chinês ou indiano.
+::::::
+
+*Kampung* como unidade básica da urbanização
+------------------------------------------
+
+Do *kampung* ao *pura*
+------------------
+
+Arquitetura bioclimática
+------------------------
 
 Do *boma* banto às cidades da Guiné
 =================================
+
+Lamu e Quíloa
+-------------
+
+:::::: notes
+
+- Significados sociais elevados, intermediários e cotidianos
+  (high-level, middle-level, and low-level) [@wynne-jones:2014swahili, 6]
+
+::::::
+
+Central Cattle Pattern
+----------------------
+
+:::::: notes
 
 - Longe de ser um exemplo de construção "primitiva" ou derivativa da
   influência islâmica, a arquitetura africana tem história e
@@ -369,6 +407,16 @@ Do *boma* banto às cidades da Guiné
 - Também chamado de *kraal* (africâner, do português "curral"): termo
   colonialista.
 
+::::::
+
+Estruturação do espaço intra-muros
+----------------------------------
+
+Delimitação do traçado urbano
+-----------------------------
+
+:::::: notes
+
 - Malha viária não é estruturante e sim estruturada, a partir da
   crescente compacidade da agregação de CCPs.
 
@@ -378,8 +426,7 @@ Do *boma* banto às cidades da Guiné
 - E quando o processo de estruturação malha viária--parcelamento se
   inverte?
 
-- Significados sociais elevados, intermediários e cotidianos
-  (high-level, middle-level, and low-level) [@wynne-jones:2014swahili, 6]
+::::::
 
 Campo, *calle* e canal em Veneza
 ==============================
