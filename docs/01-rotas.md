@@ -1,14 +1,10 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
 subtitle: "TAU 0006 · Tópico I"
-author  : "Pedro P. Palazzo · FAU--UnB"
+author  : "Pedro P. Palazzo"
 lang    : pt-BR
-layout  : default
-# parallaxBackgroundImage: https://upload.wikimedia.org/wikipedia/commons/7/7a/Nova_Totius_Terrarum_orbis_Geographica_ac_Hydrographica_Tabula_-_no-nb_krt_00678.jpg
-# parallaxBackgroundSize: '8867px 6354px'
-title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
-  data-background-size: cover
+parallaxBackgroundImage: https://www.integra.unb.br/s/3D3gixWtAgfRzTZ/preview
+parallaxBackgroundSize: '8867px 6354px'
 ---
 
 Introdução à história da arquitetura na Idade Moderna
@@ -264,7 +260,7 @@ sistema, dominado por mercadores árabes e navegantes malaios.
 :::
 
 ::: {.column width=70%}
-![Esferas econômico-culturais, 1250--1350. Fonte: @derfel73:2011thirteenth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){height=100%}
+![Esferas econômico-culturais, 1250--1350. Fonte: @derfel73:2011thirteenth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){width=100%}
 :::
 ::::::
 
@@ -298,7 +294,7 @@ chineses.
 :::
 
 ::: {.column width=30%}
-![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){.stretch} 
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){width=100%}
 ::: 
 ::::::
 
@@ -323,7 +319,7 @@ China, tapeçarias da Ásia central chegam à costa leste da África e ao
 Mediterrâneo. 
 ::::::
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){width=100%}
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){height=100%}
 
 Cidades-estado e diferentes modelos de urbanização
 --------------------------------------------------
@@ -359,22 +355,126 @@ organizar o espaço urbano e de construir perfeitamente adaptados ao
 clima equatorial.
 ::::::
 
+![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Fonte: @kartapranata:2009imperio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png)
+
+## {data-transition="fade-in"}
+
+![Sultanato de Malacca no final do século XV. Fonte: @kartapranata:2011sultanato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png)
+
 Paradigmas urbanísticos e o difícil enquadramento das cidades malaias
 ---------------------------------------------------------------------
 
 :::::: notes
-Hierarquia civilizatória: mundo malaio tido como inferior por não adotar
-paradigma urbanístico chinês ou indiano.
+Caracterizar a urbanização malaia esbarra no problema do vocabulário que
+se usa para definir e descrever o que é "urbano". Até a segunda metade
+do século XX, estava mais ou menos entendido que uma *civilização* que
+se preze devia ter *cidades* --- e só contam como cidades os grandes
+assentamentos muito densos encontrados na Europa, no mundo Árabe, na
+Índia e no "extremo Oriente".
+::::::
+
+:::::: incremental
+> Civilização
+> 
+> ↓
+> 
+> *Civitas* (cidade)
+
+::::::
+
+* * * *
+
+:::::: notes
+Nessa hierarquia, o mundo malaio era tido como inferior ou primitivo,
+por não adotar o paradigma urbanístico de grandes cidades com um sistema
+cartorial de propriedade do solo e uma distinção nítida entre espaço
+público e espaço privado.
+
+Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
+Evers apresentou, na bibliografia ocidental, o urbanismo malaio como um
+paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
+::::::
+
+:::::: {.columns}
+::: {.column width=70%}
+
+:::
+
+::: {.column width=30%}
+![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){width=100%}
+:::
 ::::::
 
 *Kampung* como unidade básica da urbanização
 ------------------------------------------
 
-Do *kampung* ao *pura*
-------------------
+:::::: notes
+*Kampung* significa "povoado" nas línguas malaias. A configuração típica
+do *kmmpung* vem desde as origens da agricultura no Sudeste asiático
+[@fig:arrozal]. O conjunto se organiza em torno de um caminho
+estruturante ou de um ponto focal importante, como um templo, uma
+mesquita ou um complexo palaciano.
+::::::
 
-Arquitetura bioclimática
-------------------------
+![Arrozal em terraços em Batad, Banaue, Filipinas. Foto: @aranas:2008banaue](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal}
+
+* * * *
+
+:::::: notes
+O *kampung* resulta diretamente da distribuição dos arrozais
+[@fig:singapore1839] num grupo comunitário e da sucessão familiar sem
+partilha da terra. Como as terras são sempre propriedade coletiva de
+famílias estendidas, elas não se dividem em lotes menores e mais
+estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
+Europa.
+::::::
+
+![Mapa da cidade de Cingapura. Fonte: @coleman:1839town](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
+
+* * * *
+
+:::::: notes
+Além disso, Evers [-@evers:1977culture6] mostrou que as divisas
+geométricas entre glebas do *kampung* são pouco importantes, em
+comparação com o uso dos espaços e dos recursos tangíveis. O critério
+mais relevante de organização do espaço é as redes de parentesco, que
+determinam a localização de casas principais e secundárias e o acesso a
+hortas e plantações [@fig:kampung-sahabuddin-1].
+::::::
+
+![Esquema de um *kampung* rural simples. Fonte: @mohdsahabuddin:2012establishment](https://www.integra.unb.br/s/bCmJQTaoYC46p3x/preview){#fig:kampung-sahabuddin-1}
+
+* * * *
+
+:::::: notes
+À medida que a população da comunidade cresce, cada casa pode ser
+ampliada segundo um sistema de ambientes modulares [@fig:lim-malay].
+::::::
+
+![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](){#fig:lim-malay}
+
+* * * *
+
+:::::: notes
+Do mesmo modo, o *kampung* como um todo também se adensa até virar um
+distrito urbano compacto [@fig:dpz1997].
+::::::
+
+![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997. Fonte: @duany:2003new](https://www.integra.unb.br/s/qdxxgfJtcRHaJj4/preview){#fig:dpz1997}
+
+Do *kampung* ao *pura* e ao *kota raja*
+---------------------------------
+
+- Javanese pura
+
+![*Pura* de Trowulan, capital do império Majapahit, Java, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:trowulan}
+
+- Melaka
+
+- Kota raja in Singapore → Kampung Glam
+- Kampung Rochor, Singapore (demolished 1964)
+
+![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Fonte: @konsek:2016shophouses](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg){#fig:shophouses}
 
 Do *boma* banto às cidades da Guiné
 =================================
