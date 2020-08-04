@@ -308,45 +308,38 @@ Reorganização das potências políticas e econômicas no século XV
 :::::: notes
 Uma combinação de mudanças climáticas, pandemias e reestruturações
 político-econômicas em todos os continentes afeta as redes comerciais e
-culturais em meados do século XIV e provoca a ruptura ou a reorganização
-de muitas conexões globais.
+culturais em meados do século XIV e provoca a ruptura de muitas conexões
+globais. O resfriamento global em meados do século XIV dá o pontapé
+inicial numa sequência de choques que levam à reorganização econômica e
+política da era moderna. O mais famoso desses choques é a pandemia de
+peste que se espalha da China para a Europa no ano de 1348.
 
-O resfriamento global em meados do século XIV dá o pontapé inicial numa
-sequência de choques que levam à reorganização econômica e política da
-era moderna. O mais famoso desses choques é a pandemia de peste que se
-espalha da China para a Europa.
-
-Na nova ordem econômica e política do século XV, grandes reinos
-centralizados e intermediários mercantis levam vantagem sobre
-cidades-estado republicanas e sobre produtores de matérias-primas.
-
-- Reorganização das potências políticas e econômicas na bacia do oceano
-  Índico: China, Majapahit, sultanatos do Decã, Omã, Mamelucos e império
-  Otomano.
-:::
-
-Cidades generalistas e cidades especialistas
---------------------------------------------
-
-::: notes
-
-- Cidades generalistas vs. cidades especialistas: entrepostos comerciais
-  na costa leste da África e além.
-
-- Takwa (Lamu), Kilwa
-
-:::
+Na nova ordem econômica e política do século XV, a rota da Seda,
+terrestre, e o sistema de navegação com as monções, no oceano Índico,
+continuam sendo os caminhos estruturantes. Os mercadores muçulmanos
+escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
+sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
+China, tapeçarias da Ásia central chegam à costa leste da África e ao
+Mediterrâneo. 
+::::::
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){width=100%}
 
-* * * *
+Cidades-estado e diferentes modelos de urbanização
+--------------------------------------------------
 
-::: notes
+:::::: notes
+Nas margens desse sistema de rotas, várias cidades-estado prosperam
+graças ao controle de pontos de passagem obrigatórios. Majapahit e
+Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
+costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
+especializadas no comércio durante os séculos XIV e XV. A forma urbana
+dessas cidades reflete as diferentes respostas que cada uma dá às
+necessidades funcionais do comércio e às condições geográficas e
+climáticas onde elas se desenvolvem.
+::::::
 
-- Soluções variadas para o problema da urbanização tropical: *kampung*
-  malaio e *boma* banto.
-
-:::
+![](){}
 
 *Kampung* malaio: urbanismo bioclimático
 ========================================
