@@ -4,11 +4,11 @@
 // Jekyll ---------------------------------------------
 @import "{{ site.theme }}";
 // Reveal.js ------------------------------------------
-@import "../../reveal.js/css/theme/template/mixins";
-@import "../../reveal.js/css/theme/template/settings";
+@import url(../../reveal.js/css/theme/template/mixins.scss);
+@import url(../../reveal.js/css/theme/template/settings.scss);
 //@import url(../../reveal.js/dist/theme/fonts/source-sans-pro/source-sans-pro.css);
 // Customization
-@import "../../reveal.js/css/theme/template/theme";
+@import url(../../reveal.js/css/theme/template/theme.scss);
 @import "fonts";
 @import "tau0006";
 
