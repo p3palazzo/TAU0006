@@ -67,12 +67,21 @@ exclude:
   - Makefile
   - docs
   - downloads
+  - figures
   - lib
   - spec
   - styles
-  - "*.csv"
+  - "*.aux"
+  - "*.bbl"
+  - "*.bcf"
   - "*.bib"
+  - "*.blg"
+  - "*.csv"
+  - "*.fdb_latexmk"
+  - "*.fls"
+  - "*.log"
+  - "*.run.xml"
 keep_files:
-  - _slides
-  - _handouts
+  - slides
+  - docs
 # vim: set foldmethod=marker :

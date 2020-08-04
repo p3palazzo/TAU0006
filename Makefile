@@ -9,14 +9,14 @@ vpath %.xml _site
 vpath %.yaml .:spec
 vpath default.% lib
 
-ROOT      = $(filter-out README.md,$(wildcard *.md))
-DOCS      = $(wildcard docs/*.md)
-PAGES    := $(patsubst %.md,_site/%.html,$(ROOT))
-SLIDES   := $(patsubst docs/%.md,_site/_slides/%.html,$(DOCS))
-HANDOUTS := $(patsubst docs/%.md,_site/_handouts/%.html,$(DOCS))
+ROOT    = $(filter-out README.md,$(wildcard *.md))
+DOCS    = $(wildcard docs/*.md)
+PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
+SLIDES := $(patsubst docs/%.md,_site/slides/%.html,$(DOCS))
+NOTAS  := $(patsubst docs/%.md,_site/docs/%.html,$(DOCS))
 
 deploy : _site/sitemap.xml _site/.pages \
-	_site/_slides/.slides _site/_handouts/.handouts
+	_site/slides/.slides _site/docs/.docs
 
 # {{{1 Produtos PDF
 #      ============
@@ -35,7 +35,7 @@ tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/crossref:2.10 -o $@ -d $^
 
-# {{{1 Slides, notas de aula e outros HTML
+# {{{1 Slides, docs de aula e outros HTML
 #      ===================================
 
 _site/.pages : $(PAGES)
@@ -45,21 +45,21 @@ _site/%.html : html.yaml %.md | styles
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/crossref:2.10 -o $@ -d $^
 
-_site/_handouts/.handouts : $(HANDOUTS)
-	touch _site/_handouts/.handouts
+_site/docs/.docs : $(NOTAS)
+	touch _site/docs/.docs
 
-_site/_handouts/%.html : html.yaml docs/%.md | styles _site/_handouts
+_site/docs/%.html : html.yaml docs/%.md | styles _site/docs
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/crossref:2.10 -o $@ -d $^
 
-_site/_slides/.slides : $(SLIDES)
-	touch _site/_slides/.slides
+_site/slides/.slides : $(SLIDES)
+	touch _site/slides/.slides
 
-_site/_slides/%.html : revealjs.yaml docs/%.md | styles _site/_slides
+_site/slides/%.html : revealjs.yaml docs/%.md | styles _site/slides
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/crossref:2.10 -o $@ -d $^
 
-_site/sitemap.xml : clean 
+_site/sitemap.xml :
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
@@ -67,15 +67,15 @@ _site/sitemap.xml : clean
 #      =====
 
 serve :
-	docker run --rm -p 4000:4000 -h 127.0.0.1 \
+	docker run -p 4000:4000 -h 127.0.0.1 \
 		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
 		jekyll serve --skip-initial-build --no-watch
 
-_site/_slides :
-	mkdir -p _site/_slides
+_site/slides :
+	mkdir -p _site/slides
 
-_site/_handouts :
-	mkdir -p _site/_handouts
+_site/docs :
+	mkdir -p _site/docs
 
 styles :
 	git clone https://github.com/citation-style-language/styles.git

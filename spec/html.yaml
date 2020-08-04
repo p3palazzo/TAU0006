@@ -3,6 +3,7 @@ to: html
 standalone: true
 file-scope: true
 number-sections: false
+css        : "../assets/main.css"
 shift-heading-level-by: 2
 bibliography: biblio.bib
 cite-method: citeproc
