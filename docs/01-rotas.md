@@ -340,7 +340,7 @@ climáticas onde elas se desenvolvem.
 *Kampung* malaio: urbanismo bioclimático
 ======================================
 
-Nem tanto ao mar, nem tanto à terra
+Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
 -----------------------------------
 
 :::::: notes
@@ -374,22 +374,29 @@ assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 ::::::
 
 :::::: incremental
-> Civilização
-> 
-> ↓
-> 
-> *Civitas* (cidade)
+
+- Civilização
+
+- ↓
+
+- *Civitas* (cidade)
 
 ::::::
 
 * * * *
 
 :::::: notes
-Nessa hierarquia, o mundo malaio era tido como inferior ou primitivo,
-por não adotar o paradigma urbanístico de grandes cidades com um sistema
-cartorial de propriedade do solo e uma distinção nítida entre espaço
-público e espaço privado.
+O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
+de grandes cidades com um sistema cartorial de propriedade do solo e uma
+distinção nítida entre espaço público e espaço privado. Essa diferença
+já aparecia desde o século XV, com o assentamento dos primeiros
+comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
+XVII e XIX, quando os colonizadores europeus segregaram as cidades
+malaias em bairros ocidentais, chineses e "nativos".
 
+Com base nas diferenças urbanísticas, os chineses e sobretudo os
+britânicos consideravam o *kampung* malaio como primitivo ou
+inferior.
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
 Evers apresentou, na bibliografia ocidental, o urbanismo malaio como um
 paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
@@ -397,6 +404,8 @@ paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
 
 :::::: {.columns}
 ::: {.column width=70%}
+
+![Mapa da cidade de Cingapura. Fonte: @coleman:1839town](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 height=100%}
 
 :::
 
@@ -427,13 +436,7 @@ partilha da terra. Como as terras são sempre propriedade coletiva de
 famílias estendidas, elas não se dividem em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
 Europa.
-::::::
 
-![Mapa da cidade de Cingapura. Fonte: @coleman:1839town](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
-
-* * * *
-
-:::::: notes
 Além disso, Evers [-@evers:1977culture6] mostrou que as divisas
 geométricas entre glebas do *kampung* são pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
@@ -451,7 +454,7 @@ hortas e plantações [@fig:kampung-sahabuddin-1].
 ampliada segundo um sistema de ambientes modulares [@fig:lim-malay].
 ::::::
 
-![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](){#fig:lim-malay}
+![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](https://www.integra.unb.br/s/TFewkNBbCGmRMso/preview){#fig:lim-malay}
 
 * * * *
 
@@ -465,14 +468,47 @@ distrito urbano compacto [@fig:dpz1997].
 Do *kampung* ao *pura* e ao *kota raja*
 ---------------------------------
 
-- Javanese pura
+:::::: notes
+Partindo do *kampung* como unidade social e urbanística *de base*, os
+estados malaios organizam o território em redes de poder político e
+autoridade religiosa. No século XIV, o poder político e religioso no
+império Majapahit é sinalizado pela construção de um *pura* ou templo
+hinduísta.
 
-![*Pura* de Trowulan, capital do império Majapahit, Java, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:trowulan .stretch}
+No entanto, o *pura* é mais do que um simples local de culto. O recinto
+retangular funciona também como fortificação, e dentro dela fica, além
+do templo, o palácio real. Do lado de fora da entrada principal, ao
+norte, está a praça do mercado. Outras moradias da corte e um mosteiro
+budista se aglomeram em volta do *pura*.
+::::::
+
+:::::: {.columns}
+::: {.column width=70%}
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV. Fonte: @hall:1996ritual52, p. 97](){#fig:hall-java}]
+:::
+
+::: {.column width=30%}
+![*Pura* de Trowulan, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:hall-trowulan .stretch}
+:::
+::::::
+
+* * * *
+
+:::::: notes
 
 - Melaka
 
+::::::
+
+![Diagrama conceitual de um conjunto urbano malaio. Fonte: @tajudeen:2005reading8, 5](https://www.integra.unb.br/s/C7ecoMr9r9L4rob/preview){#fig:malay-urbanism}
+
+:::::: notes
+
 - Kota raja in Singapore → Kampung Glam
+- Adensamento do Kampung Glam baseado em Tajudeen
 - Kampung Rochor, Singapore (demolished 1964)
+
+::::::
 
 ![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Fonte: @konsek:2016shophouses](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg){#fig:shophouses}
 
