@@ -442,7 +442,7 @@ determinam a localização de casas principais e secundárias e o acesso a
 hortas e plantações [@fig:kampung-sahabuddin-1].
 ::::::
 
-![Esquema de um *kampung* rural simples. Fonte: @mohdsahabuddin:2012establishment](https://www.integra.unb.br/s/bCmJQTaoYC46p3x/preview){#fig:kampung-sahabuddin-1}
+![Esquema de um *kampung* rural simples. Fonte: @mohdsahabuddin:2012establishment](https://www.integra.unb.br/s/bCmJQTaoYC46p3x/preview){#fig:kampung-sahabuddin-1 .stretch}
 
 * * * *
 
@@ -467,7 +467,7 @@ Do *kampung* ao *pura* e ao *kota raja*
 
 - Javanese pura
 
-![*Pura* de Trowulan, capital do império Majapahit, Java, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:trowulan}
+![*Pura* de Trowulan, capital do império Majapahit, Java, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:trowulan .stretch}
 
 - Melaka
 
