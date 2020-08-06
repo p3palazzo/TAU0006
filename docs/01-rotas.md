@@ -222,7 +222,7 @@ na costa oeste do Atlântico norte.
 
 :::::: {.columns}
 ::: {.column width=50%}
-![Mundo nórdico, séculos X--XIV. Mapa por @redgeographics:2016norse](https://upload.wikimedia.org/wikipedia/commons/4/44/NorseExplorations-v2.png){width=100%}
+![Mundo nórdico, séculos X--XIV. Mapa por @redgeographics:2016map](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%}
 :::
 
 ::: {.column width=50%}
@@ -337,8 +337,8 @@ climáticas onde elas se desenvolvem.
 
 ![](){}
 
-*Kampung* malaio: urbanismo bioclimático
-======================================
+Kampung malaio: urbanismo tropical
+==================================
 
 Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
 -----------------------------------
@@ -414,7 +414,7 @@ paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
 :::
 ::::::
 
-*Kampung* como unidade básica da urbanização
+Kampung como unidade básica da urbanização
 ------------------------------------------
 
 :::::: notes
@@ -425,7 +425,7 @@ estruturante ou de um ponto focal importante, como um templo, uma
 mesquita ou um complexo palaciano.
 ::::::
 
-![Arrozal em terraços em Batad, Banaue, Filipinas. Foto: @aranas:2008banaue](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal}
+![Arrozal em terraços em Batad, Banaue, Filipinas. Foto: @aranas:2008banaue](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal .stretch}
 
 * * * *
 
@@ -454,7 +454,7 @@ hortas e plantações [@fig:kampung-sahabuddin-1].
 ampliada segundo um sistema de ambientes modulares [@fig:lim-malay].
 ::::::
 
-![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](https://www.integra.unb.br/s/TFewkNBbCGmRMso/preview){#fig:lim-malay}
+![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](https://www.integra.unb.br/s/TFewkNBbCGmRMso/preview){#fig:lim-malay .stretch}
 
 * * * *
 
@@ -465,52 +465,118 @@ distrito urbano compacto [@fig:dpz1997].
 
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997. Fonte: @duany:2003new](https://www.integra.unb.br/s/qdxxgfJtcRHaJj4/preview){#fig:dpz1997}
 
-Do *kampung* ao *pura* e ao *kota raja*
----------------------------------
+Urbanismo real: do kampung ao pura
+----------------------------------
 
 :::::: notes
 Partindo do *kampung* como unidade social e urbanística *de base*, os
 estados malaios organizam o território em redes de poder político e
-autoridade religiosa. No século XIV, o poder político e religioso no
-império Majapahit é sinalizado pela construção de um *pura* ou templo
-hinduísta.
+autoridade religiosa [@fig:hall-java]. No século XIV, o poder político e
+religioso no império Majapahit é sinalizado pela construção de um *pura*
+ou templo hinduísta.
 
 No entanto, o *pura* é mais do que um simples local de culto. O recinto
 retangular funciona também como fortificação, e dentro dela fica, além
 do templo, o palácio real. Do lado de fora da entrada principal, ao
 norte, está a praça do mercado. Outras moradias da corte e um mosteiro
-budista se aglomeram em volta do *pura*.
+budista se aglomeram em volta do *pura* [@fig:hall-trowulan].
 ::::::
 
 :::::: {.columns}
 ::: {.column width=70%}
-![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV. Fonte: @hall:1996ritual52, p. 97](){#fig:hall-java}]
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV. Fonte: @hall:1996ritual52, p. 97](https://www.integra.unb.br/s/N8Xb6FRDS8xq74f/preview){#fig:hall-java}
 :::
-
 ::: {.column width=30%}
-![*Pura* de Trowulan, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:hall-trowulan .stretch}
+![*Pura* de Trowulan, século XIV. Fonte: @hall:1996ritual52, p. 99](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:hall-trowulan}
 :::
 ::::::
+
+Kota raja: cidadelas reais
+--------------------------
+
+:::::: notes
+À margem do império Majapahit e depois do seu declínio no final do
+século XIV, uma série de cidades-estado independentes tomam o controle
+do comércio marítimo. Na Malásia islâmica, do século XV em diante, as
+mesquitas não ocupam o centro do poder político, mas funcionam como
+centros comunitários em cada *kampung*. A sede do poder político nas
+cidades-estado é o *kota raja*, ou cidadela real.
+::::::
+
+![Diagrama conceitual de um conjunto urbano malaio. Fonte: @tajudeen:2005reading8, 5](https://www.integra.unb.br/s/C7ecoMr9r9L4rob/preview){#fig:malay-urbanism .stretch}
 
 * * * *
 
 :::::: notes
-
-- Melaka
-
+Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
+cidade controlava o estreito marítimo por onde passava uma grande parte
+do comércio chinês e indiano. O palácio de Malacca ficava onde seria
+construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
+[@fig:fortr-malacca]. Era uma posição estratégica na foz do rio, entre
+os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
+outra margem do rio.
 ::::::
 
-![Diagrama conceitual de um conjunto urbano malaio. Fonte: @tajudeen:2005reading8, 5](https://www.integra.unb.br/s/C7ecoMr9r9L4rob/preview){#fig:malay-urbanism}
+![Planta das fortificações holandesas em Malacca, no sítio do antigo forte português e anterior cidadela real malaia. Norte à esquerda. Fonte: @plan:1656malacca](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg){#fig:fortr-malacca .stretch}
+
+* * * *
 
 :::::: notes
-
-- Kota raja in Singapore → Kampung Glam
-- Adensamento do Kampung Glam baseado em Tajudeen
-- Kampung Rochor, Singapore (demolished 1964)
+O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
+e na sua mesquita [@fig:malacca-kotaraja].
 
 ::::::
 
+:::::: {.columns #fig:malacca-kotaraja}
+::: {.column width=25%}
+![Planta reconstituída por William G. Shellabear, 1891](https://www.integra.unb.br/s/5T5KPYXttLNpS65/preview){#fig:malacca-kotarajaA}
+:::
+
+::: {.column width=75%}
+![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/Mwmw4rNTynSnBoF/preview){#fig:malacca-kotarajaB}
+:::
+
+O *kota raja* de Malacca no século XV. Fonte: *ap.* @yusoff:2019where
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::: notes
+O Kampung Glam, em Cingapura, é outra antiga cidadela real malaia.
+Durante a ocupação britânica, do início do século XIX até a metade do
+século XX [@fig:raffles], ele perdeu a função de centro político e se
+adensou como uma vila comercial [@fig:kampongglam].
+::::::
+
+![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829. Fonte: @tajudeen:2005kampung](https://www.integra.unb.br/s/iWNqatePrdTJWmM/preview){#fig:raffles .stretch} 
+
+* * * *
+
+![Kampung Glam no século XXI. Fonte: @lee:2012maps](https://www.integra.unb.br/s/K578EHQbNDrcjQW/preview){#fig:kampongglam .stretch}
+
+* * * *
+
+:::::: notes
+A tipologia de casas comerciais característica de Cingapura é um híbrido
+que resulta do adensamento dos *kampung* usando o parcelamento urbano da
+morada chinesa e as galerias cobertas introduzidas pelos britânicos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Fonte: @konsek:2016shophouses](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg){#fig:shophouses}
+
+Adensamento para dentro e para fora
+-----------------------------------
+
+:::::: notes
+O *kampung* malaio é um paradigma de urbanização tropical que parte de
+um assentamento rural e pode se desenvolver, por adensamentos
+sucessivos, até formar um distrito urbano compacto
+[@fig:kampung-rochor]. Em contraste com esse tipo de adensamento *para
+dentro*, a urbanização dos povos bantos na África é um paradigma de
+adensamento *para fora*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Kampung Rochor, Cingapura, 1822, demolido em 1964. Fonte: Arquivo Nacional de Cingapura *ap.* @binsharifuddeen:kampung](https://www.integra.unb.br/s/iQs7ea5yw4GpK6o/preview){#fig:kampung-rochor .stretch}
 
 Do *boma* banto às cidades da Guiné
 =================================
@@ -519,6 +585,8 @@ Lamu e Quíloa
 -------------
 
 :::::: notes
+
+[Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 
 - Significados sociais elevados, intermediários e cotidianos
   (high-level, middle-level, and low-level) [@wynne-jones:2014swahili, 6]
