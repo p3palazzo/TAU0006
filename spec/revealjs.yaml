@@ -20,6 +20,9 @@ variables:
   width: 1280
   height: 800
 metadata:
+  lang: pt-BR
+  figureTitle: Figura
+  cssLabelSep: "&ndash;"
   csl: "styles/chicago-author-date.csl"
   suppress-bibliography: false
   title-slide-attributes:

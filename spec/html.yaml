@@ -1,15 +1,15 @@
-from: markdown+raw_tex
-to: html
-standalone: true
-file-scope: true
+from           : markdown+raw_tex
+to             : html
+standalone     : true
+file-scope     : true
+css            : "../assets/main.css"
 number-sections: false
-css        : "../assets/main.css"
-shift-heading-level-by: 2
-bibliography: biblio.bib
-cite-method: citeproc
+bibliography   : biblio.bib
+cite-method    : citeproc
+fail-if-warnings: true
+shift-heading-level-by: 1
 filters:
   - pandoc-crossref
   - pandoc-citeproc
-fail-if-warnings: true
 metadata:
   date: "2020-07-27"
