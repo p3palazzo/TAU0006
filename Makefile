@@ -69,7 +69,7 @@ _site/sitemap.xml :
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \
 		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
-		jekyll serve --skip-initial-build --no-watch
+		jekyll serve
 
 _site/slides :
 	mkdir -p _site/slides

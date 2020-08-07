@@ -1,5 +1,4 @@
-# Content {{{1
-# General {{{2
+# General {{{1
 title: História da Arquitetura e da Arte II
 author:
   name: Pedro Paulo Palazzo
@@ -34,6 +33,10 @@ minima:
 # Build parameters {{{2
 #permalink: pretty
 timezone: America/Sao_Paulo
+sass_dir:
+  load_paths:
+    - _sass
+    - reveal.js/css/theme/template
 relative_links:
   enabled         : true
   collections     : true

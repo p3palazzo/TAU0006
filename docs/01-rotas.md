@@ -1,6 +1,6 @@
 ---
-title   : "Rotas comerciais e paradigmas urbanísticos"
-subtitle: "TAU 0006 · Tópico I"
+title   : "Rotas comerciais e paradigmas urbanísticos no século XIV"
+subtitle: "Tópico I"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
 parallaxBackgroundImage: https://www.integra.unb.br/s/3D3gixWtAgfRzTZ/preview
@@ -548,7 +548,7 @@ século XX [@fig:raffles], ele perdeu a função de centro político e se
 adensou como uma vila comercial [@fig:kampongglam].
 ::::::
 
-![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829. Fonte: @tajudeen:2005kampung](https://www.integra.unb.br/s/iWNqatePrdTJWmM/preview){#fig:raffles .stretch} 
+![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829. Fonte: @tajudeen:kampung](https://www.integra.unb.br/s/iWNqatePrdTJWmM/preview){#fig:raffles .stretch} 
 
 * * * *
 

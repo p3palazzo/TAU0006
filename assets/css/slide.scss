@@ -1,15 +1,17 @@
 ---
 ---
 
-// Jekyll ---------------------------------------------
-@import "{{ site.theme }}";
-// Reveal.js ------------------------------------------
-@import url(../../reveal.js/css/theme/template/mixins.scss);
-@import url(../../reveal.js/css/theme/template/settings.scss);
-//@import url(../../reveal.js/dist/theme/fonts/source-sans-pro/source-sans-pro.css);
-// Customization
-@import url(../../reveal.js/css/theme/template/theme.scss);
+// Reveal.js -----------------------------------
+// Default mixins and settings -----------------
+@import "reveal.js/css/theme/template/mixins";
+@import "reveal.js/css/theme/template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
 @import "fonts";
+
+// Override theme settings (see ../template/settings.scss)
 @import "tau0006";
 
 .reveal {
@@ -63,3 +65,7 @@ blockquote {
     }
   }
 }
+
+// Theme template ------------------------------
+@import "reveal.js/css/theme/template/theme";
+// ---------------------------------------------
