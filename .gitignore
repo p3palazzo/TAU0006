@@ -1,6 +1,7 @@
 #  Inkscape
 ## Linked files must have a copy stored locally
 downloads
+figures
 
 # Pandoc creates a UUID file in local volume mounts
 .uuid
