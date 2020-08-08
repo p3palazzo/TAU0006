@@ -72,7 +72,7 @@ de aprendizagem" oficial da UnB, no site [Aprender 3][].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além do Moodle, vamos usar a plataforma Microsoft Teams. A UnB tem um
 acordo com a Microsoft que dá acesso a todos os programas online do
-portal `office.com`.
+portal [Office.com][].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <https://aprender3.unb.br>
@@ -108,13 +108,13 @@ atividades ao longo do semestre.
 - Fóruns, Wiki e mensagens (Moodle)
 :::
 ::: {.column width=50%}
-![Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash. *História global da arquitetura.* São Paulo: Senac São Paulo, 2016.](){.stretch}
+![Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash. *História global da arquitetura.* 3. ed. São Paulo: Senac São Paulo, 2016.](https://www.integra.unb.br/s/qxJXm4jene6LkJJ/preview){height="640"}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/mN7DCJb6Lz9G9o5/preview"}
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/t2FgEWAWjEtpz7n/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na área geral do Aprender 3, você vai encontrar:
@@ -302,3 +302,5 @@ Aproximação ao ambiente virtual de aprendizagem
 ===============================================
 
 [Aprender 3]: https://aprender3.unb.br
+
+[Office.com]: https://office.com
