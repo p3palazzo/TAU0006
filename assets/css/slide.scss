@@ -33,26 +33,32 @@
 
 section.has-dark-background,
 section#title-slide {
+  text-shadow: 0 0 20px #294469;
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #f4dcb4;
     text-shadow: 0 0 20px #294469, 0 0 10px #294469;
     font-family: $headingFont;
     font-weight: normal;
 	}
-  p.author::after {
+  p.subtitle::after {
     content: " · ";
   }
-  p {
-    float: right;
-    clear: none;
+  p.subtitle, p.date {
+    float: left;
     font-family: $headingFont;
     font-weight: normal;
     text-transform: uppercase;
   }
-  text-shadow: 0 0 20px #294469;
-  //background: none;
-  //border: none;
-  //box-shadow: none;
+  .author img {
+    height: 1em;
+    max-height: 75px;
+    filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
+    -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
+  }
+}
+
+.box {
+  background: #ffffff33;
 }
 
 blockquote {
@@ -64,6 +70,10 @@ blockquote {
       font-style: normal;
     }
   }
+}
+
+figcaption {
+  display: none;
 }
 
 // Theme template ------------------------------

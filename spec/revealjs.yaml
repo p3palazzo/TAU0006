@@ -5,22 +5,23 @@ file-scope : true
 slide-level: 2
 bibliography: biblio.bib
 cite-method: citeproc
-filters:
-  - pandoc-crossref
-  - pandoc-citeproc
 toc        : false
 css        : "../assets/css/slide.css"
 template   : "lib/default.revealjs"
 fail-if-warnings: true
+filters:
+  - pandoc-crossref
+  - pandoc-citeproc
 variables:
   revealjs-url: "../reveal.js"
   hashOneBasedIndex: true
   hash: true
   width: 1280
-  height: 800
+  height: 720
 metadata:
   lang: pt-BR
   figureTitle: Figura
+  tableTitle : Tabela
   cssLabelSep: "&ndash;"
   csl: "styles/chicago-author-date.csl"
   suppress-bibliography: false
