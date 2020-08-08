@@ -7,7 +7,7 @@ bibliography: biblio.bib
 cite-method: citeproc
 toc        : false
 css        : "../assets/css/slide.css"
-template   : "lib/default.revealjs"
+template   : "_lib/default.revealjs"
 fail-if-warnings: true
 filters:
   - pandoc-crossref

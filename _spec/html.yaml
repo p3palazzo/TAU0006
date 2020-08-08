@@ -15,5 +15,5 @@ metadata:
   lang: pt-BR
   figureTitle: Figura
   cssLabelSep: "&ndash;"
-  csl: "styles/chicago-fullnote-bibliography-with-ibid.csl"
+  csl: "_csl/chicago-fullnote-bibliography-with-ibid.csl"
   suppress-bibliography: true
