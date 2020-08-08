@@ -586,6 +586,8 @@ Lamu e Quíloa
 
 :::::: notes
 
+Do Sudeste asiático à África, a urbanização em regiões tropicais úmidas
+
 [Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 
 - Significados sociais elevados, intermediários e cotidianos
