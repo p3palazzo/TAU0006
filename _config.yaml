@@ -68,22 +68,24 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
-  - docs
-  - downloads
-  - figures
-  - lib
-  - spec
-  - styles
   - "*.aux"
   - "*.bbl"
   - "*.bcf"
   - "*.bib"
   - "*.blg"
+  - "*.cb"
+  - "*.cb2"
   - "*.csv"
   - "*.fdb_latexmk"
   - "*.fls"
+  - "*.fmt"
+  - "*.fot"
+  - "*.lof"
   - "*.log"
+  - "*.lot"
+  - "*.out"
   - "*.run.xml"
+  - "*.toc"
 keep_files:
   - slides
   - docs

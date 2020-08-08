@@ -1,7 +1,6 @@
 #  Inkscape
 ## Linked files must have a copy stored locally
-downloads
-figures
+_downloads
 
 # Pandoc creates a UUID file in local volume mounts
 .uuid
@@ -9,7 +8,7 @@ figures
 # Reveal.js
 node_modules
 package-lock.json
-styles
+_csl
 
 #  Jekyll
 _site
