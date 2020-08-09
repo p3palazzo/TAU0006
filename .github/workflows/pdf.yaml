@@ -1,37 +1,37 @@
 name: PDF
-#on:
-  #pull_request:
-  #push:
-    #branches: [ master ]
-#jobs:
-  #plano:
-    #runs-on: ubuntu-latest
-    #steps:
-    #- uses: actions/checkout@v2
-    #- uses: docker://pandoc/crossref:2.10
-      #with:
-        #args: >
-          #-o tau0006-plano.tex -d spec/pdf.yaml
-          #plano.md plano-metodo.md plano-programa.md
-          #plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
-    #- name: Generate pdf
-      #run: >
-        #docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
-        #-v "`pwd`/assets/fonts:/usr/share/fonts"
-        #blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
-        #-interaction=batchmode tau0006-plano
-  #cronograma:
-    #runs-on: ubuntu-latest
-    #steps:
-    #- uses: actions/checkout@v2
-    #- uses: docker://pandoc/crossref:2.10
-      #with:
-        #args: >
-          #-o tau0006-cronograma.tex -d spec/pdf.yaml
-          #cronograma.md cronograma-pdf.md
-    #- name: Generate pdf
-      #run: >
-        #docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
-        #-v "`pwd`/assets/fonts:/usr/share/fonts"
-        #blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
-        #-interaction=batchmode tau0006-cronograma
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+jobs:
+  plano:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: docker://pandoc/crossref:2.10
+      with:
+        args: >
+          -o tau0006-plano.tex -d spec/pdf.yaml
+          plano.md plano-metodo.md plano-programa.md
+          plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
+    - name: Generate pdf
+      run: >
+        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        -v "`pwd`/assets/fonts:/usr/share/fonts"
+        blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
+        -interaction=batchmode tau0006-plano
+  cronograma:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: docker://pandoc/crossref:2.10
+      with:
+        args: >
+          -o tau0006-cronograma.tex -d spec/pdf.yaml
+          cronograma.md cronograma-pdf.md
+    - name: Generate pdf
+      run: >
+        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        -v "`pwd`/assets/fonts:/usr/share/fonts"
+        blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
+        -interaction=batchmode tau0006-cronograma
