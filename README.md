@@ -5,6 +5,8 @@ layout: default
 História da Arquitetura e da Arte II
 ====================================
 
+![Build](https://github.com/actions/hello-world/workflows/Build/badge.svg)
+![PDF](https://github.com/actions/hello-world/workflows/PDF/badge.svg)
 
 > História das cidades, dos edifícios e da edificação na tradição
 > europeia a partir do início do Renascimento na Itália até o século
