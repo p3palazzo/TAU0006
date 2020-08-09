@@ -29,7 +29,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: notas
-        path: '_site/notas/*'
+        path: '_site/docs/*'
   pages:
     runs-on: ubuntu-latest
     steps:
@@ -40,7 +40,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: pages
-        path: '_site/pages/*'
+        path: '_site/*'
   slides:
     runs-on: ubuntu-latest
     steps:
