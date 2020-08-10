@@ -191,6 +191,16 @@ Recursos e apoio
   praticamente qualquer lugar do mundo, mas com níveis de detalhe e
   precisão muito desiguais.
 
+Referências
+===========
+
+Os textos indicados abaixo estão disponíveis na área de material da
+disciplina no Microsoft Teams.
+
+- Bacon, Edmund N. *Design of Cities*. New York: Penguin, 1974.
+- Panerai, Philippe. *Análise urbana*. Traduzido por Francisco Leitão.
+  Brasília: Editora UnB, 2006.
+
 [convenções cartográficas da Wikipédia]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Maps/Conventions
 
 [Mapa de Nolli]: https://pt.wikipedia.org/wiki/Giambattista_Nolli
