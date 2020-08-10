@@ -83,9 +83,12 @@ exclude:
   - "*.lof"
   - "*.log"
   - "*.lot"
+  - "*.md"
   - "*.out"
   - "*.run.xml"
   - "*.toc"
+include:
+  - README.md
 keep_files:
   - slides
   - docs

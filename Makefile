@@ -12,10 +12,12 @@ vpath default.% _lib
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/crossref:2.10
 
 ROOT    = $(filter-out README.md,$(wildcard *.md))
-DOCS    = $(wildcard _docs/*.md)
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
+DOCS    = $(wildcard _docs/*.md)
 SLIDES := $(patsubst _docs/%.md,_site/slides/%.html,$(DOCS))
 NOTAS  := $(patsubst _docs/%.md,_site/docs/%.html,$(DOCS))
+
+deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS)
 
 # {{{1 Produtos PDF
 #      ============
@@ -35,8 +37,6 @@ tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 # {{{1 Slides, _docs de aula e outros HTML
 #      ===================================
 
-deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS)
-
 .pages : $(PAGES)
 	touch .pages
 
@@ -55,7 +55,7 @@ _site/docs/%.html : html.yaml _docs/%.md | _csl _site/docs
 _site/slides/%.html : revealjs.yaml _docs/%.md | _csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-_site/index.html : README.md assets reveal.js
+_site/index.html : README.md _config.yaml _sass assets reveal.js
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
