@@ -194,8 +194,9 @@ Recursos e apoio
 Referências
 ===========
 
-Os textos indicados abaixo estão disponíveis na área de material da
-disciplina no Microsoft Teams.
+Os textos indicados abaixo, assim como o Modelo de prancha, estão
+disponíveis na [área de material da disciplina no Microsoft
+Teams](https://teams.microsoft.com/_#/school/files/Geral?threadId=19%3A4a57708d384d465096a27eeeb24cbf44%40thread.tacv2&ctx=channel&context=Trabalho%25201&rootfolder=%252Fsites%252FTAU0006%252FMaterial%2520de%2520Aula%252FTrabalho%25201).
 
 - Bacon, Edmund N. *Design of Cities*. New York: Penguin, 1974.
 - Panerai, Philippe. *Análise urbana*. Traduzido por Francisco Leitão.
