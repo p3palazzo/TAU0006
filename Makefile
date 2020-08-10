@@ -29,10 +29,13 @@ tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md | _csl
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
+tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
+	$(PANDOC/CROSSREF) -o $@ -d $^
+
 %.tex : pdf.yaml %.md | default.latex
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-# {{{1 Slides, _docs de aula e outros HTML
+# {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
 deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS)

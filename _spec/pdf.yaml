@@ -4,7 +4,7 @@ standalone       : true
 file-scope       : true
 number-sections  : true
 cite-method      : biblatex
-template         : "lib/default.latex"
+template         : "_lib/default.latex"
 pdf-engine       : xelatex
 fail-if-warnings : true
 filters:

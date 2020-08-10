@@ -29,9 +29,10 @@ jobs:
         args: >
           -o tau0006-cronograma.tex -d _spec/pdf.yaml
           cronograma.md cronograma-pdf.md
+    - run: test -f tau0006-cronograma.tex
     - name: Generate pdf
       run: >
-        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        docker run -i --user "`id -u`:`id -g`" -v "`pwd`:/data"
         -v "`pwd`/assets/fonts:/usr/share/fonts"
-        blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
-        -interaction=batchmode tau0006-cronograma
+        blang/latex:ctanfull latexmk -pdflatex="xelatex" -cd -f
+        -interaction=batchmode -pdf tau0006-cronograma
