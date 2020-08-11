@@ -1,6 +1,6 @@
 {
 	"name": "tau0006",
-	"version": "0.1",
+	"version": "0.1.0",
 	"description": "História da Arquitetura e da Arte II",
 	"dependencies": {
 		"reveal-multiplex": "^0.1.0",
