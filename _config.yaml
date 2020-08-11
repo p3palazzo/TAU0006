@@ -89,6 +89,7 @@ exclude:
   - "*.toc"
 include:
   - README.md
+  - package.json
 keep_files:
   - slides
   - docs

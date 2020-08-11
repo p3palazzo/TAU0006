@@ -1,0 +1,10 @@
+{
+	"name": "tau0006",
+	"version": "0.1",
+	"description": "História da Arquitetura e da Arte II",
+	"dependencies": {
+		"reveal-multiplex": "^0.1.0",
+		"reveal-notes-server": "^0.1.0",
+		"socket.io": "^2.3.0"
+	}
+}
