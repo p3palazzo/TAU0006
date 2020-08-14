@@ -256,11 +256,11 @@ sistema, dominado por mercadores árabes e navegantes malaios.
 
 :::::: {.columns}
 ::: {.column width=30%}
-![Janet Lippman Abu-Lughod](https://i1.wp.com/publicseminar.org/wp-content/uploads/2013/12/Janet-Lippman-Abu-Lughod.jpg){width=100%}
+![Janet Lippman Abu-Lughod. Fonte: @zolberg:2013remembering](https://www.integra.unb.br/s/YkWqdBLbiq4R9EB/preview){#fig:lippman width=100%}
 :::
 
 ::: {.column width=70%}
-![Esferas econômico-culturais, 1250--1350. Fonte: @derfel73:2011thirteenth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){width=100%}
+![Esferas econômico-culturais, 1250--1350. Fonte: @derfel73:2011thirteenth](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:esferas width=100%}
 :::
 ::::::
 
@@ -409,10 +409,9 @@ paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
 
 :::
 
-::: {.column width=30%}
-![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){width=100%}
-:::
-::::::
+::: {.column width=30%} ![Hans-Dieter
+Evers](https://www.integra.unb.br/s/akziGar2PaAr64x/preview){#fig:evers width=100%}
+::: ::::::
 
 Kampung como unidade básica da urbanização
 ------------------------------------------
@@ -581,8 +580,8 @@ adensamento *para fora*.
 Do *boma* banto às cidades da Guiné
 =================================
 
-Lamu e Quíloa
--------------
+Cidades mercantes da costa suaíle
+---------------------------------
 
 :::::: notes
 
