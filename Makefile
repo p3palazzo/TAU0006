@@ -17,7 +17,7 @@ DOCS    = $(wildcard _docs/*.md)
 SLIDES := $(patsubst _docs/%.md,_site/slides/%.html,$(DOCS))
 NOTAS  := $(patsubst _docs/%.md,_site/docs/%.html,$(DOCS))
 
-deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS)
+deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/node_modules
 
 # {{{1 Produtos PDF
 #      ============
@@ -78,6 +78,9 @@ _site/slides :
 
 _site/docs :
 	mkdir -p _site/docs
+
+_site/node_modules : _site
+	cd _site && npm install
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
