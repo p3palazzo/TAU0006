@@ -580,12 +580,21 @@ adensamento *para fora*.
 Do *boma* banto às cidades da Guiné
 =================================
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+
+A urbanização em regiões tropicais úmidas, do Sudeste asiático até a
+África, apresenta algumas características comuns. Ela parte de espaços
+rurais ocupados em baixa densidade, com uma divisão do solo pouco
+rígida. Como vimos no Sudeste asiático, essa divisão é baseada
+principalmente na repartição do acesso a recursos tangíveis, como hortas
+ou árvores frutíferas, entre famílias estendidas.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Cidades mercantes da costa suaíle
 ---------------------------------
 
 :::::: notes
-
-Do Sudeste asiático à África, a urbanização em regiões tropicais úmidas
 
 [Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 
