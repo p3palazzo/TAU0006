@@ -81,7 +81,7 @@ $endif$
       Reveal.initialize({
 $if(multiplex)$
         multiplex: {
-          secret: null, // Fill in secret on master presentation
+          secret: $if(multiplex.secret)$'$multiplex.secret$'$else$null$endif$, // Fill in secret on master presentation
           id: '$multiplex.id$',
           url: '$multiplex.url$'
         },
