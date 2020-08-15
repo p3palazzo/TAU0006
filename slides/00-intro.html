@@ -242,12 +242,11 @@
       Reveal.initialize({
         multiplex: {
           secret: null, // Fill in secret on master presentation
-          id: 'true',
-          url: ''
+          id: '',
+          url: 'localhost:1948'
         },
         dependencies: [
           { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js', async: true },
-          // Change reveal-multiplex/client to master on presenter's file.
           { src: '../node_modules/reveal-multiplex/client.js', async: true },
         ],
         // Add the current slide number to the URL hash so that reloading the
