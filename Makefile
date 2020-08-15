@@ -40,10 +40,6 @@ tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
-present : deploy
-	cd _site && \
-		node node_modules/reveal-notes-server
-
 .pages : $(PAGES)
 	touch .pages
 
@@ -73,8 +69,13 @@ _site/package-lock.json : package.json | _site
 # {{{1 PHONY
 #      =====
 
-serve :
-	cd _site && node node_modules/reveal-multiplex
+present : deploy
+	cd _site && \
+		node node_modules/reveal-notes-server
+
+watch : deploy
+	cd _site && \
+		node node_modules/reveal-multiplex
 
 _site :
 	mkdir -p _site

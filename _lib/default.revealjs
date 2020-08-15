@@ -79,16 +79,20 @@ $endif$
       // Full list of configuration options available at:
       // https://revealjs.com/config/
       Reveal.initialize({
-$if(multiplex)$
+$if(multiplexUrl)$
         multiplex: {
-          secret: $if(multiplex.secret)$'$multiplex.secret$'$else$null$endif$, // Fill in secret on master presentation
-          id: '$multiplex.id$',
-          url: '$multiplex.url$'
+          secret: $if(multiplexSecret)$'$multiplexSecret$'$else$null$endif$, // Fill in secret on master presentation
+          id: '$multiplexSocketId$',
+          url: '$multiplexUrl$'
         },
         dependencies: [
           { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js', async: true },
-          // Change reveal-multiplex/client to master on presenter's file.
+$if(multiplexSecret)$
+          { src: '../node_modules/reveal-multiplex/master.js', async: true },
+          { src: '../node_modules/reveal-notes-server/client.js', async: true },
+$else$
           { src: '../node_modules/reveal-multiplex/client.js', async: true },
+$endif$
         ],
 $endif$
 $if(controls)$

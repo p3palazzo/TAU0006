@@ -5,9 +5,6 @@ date    : "1.º/2020 · Turma C"
 author  : '<img src="../assets/fau.png" alt="Faculdade de Arquitetura e Urbanismo" /> <img src="../assets/as_comp_pb.png" alt="Universidade de Brasília" />'
 parallaxBackgroundImage: https://www.integra.unb.br/s/wdf4jkLATztHEJD/preview
 parallaxBackgroundSize: '2638px 2000px'
-multiplex:
-  id:
-  url:
 ---
 
 Boas-vindas

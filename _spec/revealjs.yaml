@@ -18,6 +18,9 @@ variables:
   hash: true
   width: 1280
   height: 720
+  #multiplexSecret:
+  multiplexSocketId:
+  multiplexUrl: 'localhost:1948'
 metadata:
   lang: pt-BR
   figureTitle: Figura
@@ -28,7 +31,3 @@ metadata:
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
     data-background-size: cover
-  multiplex:
-    secret:
-    id:
-      url: 'localhost:1948'
