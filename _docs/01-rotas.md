@@ -5,6 +5,9 @@ author  : "Pedro P. Palazzo"
 lang    : pt-BR
 parallaxBackgroundImage: https://www.integra.unb.br/s/3D3gixWtAgfRzTZ/preview
 parallaxBackgroundSize: '8867px 6354px'
+multiplex:
+  id:
+  url:
 ---
 
 Introdução à história da arquitetura na Idade Moderna
