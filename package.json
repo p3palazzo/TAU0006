@@ -11,10 +11,10 @@
 	"engines": {
 		"node": "12.x"
 	},
+	"scripts": {
+		"start": "node node_modules/reveal-multiplex"
+	},
 	"dependencies": {
-		"node-static": "^0.7.11",
-		"reveal-multiplex": "^0.1.0",
-		"reveal-notes-server": "^0.1.0",
-		"socket.io": "^2.3.0"
+		"reveal-multiplex": "^0.1.0"
 	}
 }
