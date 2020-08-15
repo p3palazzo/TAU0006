@@ -91,6 +91,7 @@ include:
   - README.md
   - package.json
 keep_files:
+  - node_modules
   - slides
   - docs
 # vim: set foldmethod=marker :

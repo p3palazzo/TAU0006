@@ -17,7 +17,7 @@ DOCS    = $(wildcard _docs/*.md)
 SLIDES := $(patsubst _docs/%.md,_site/slides/%.html,$(DOCS))
 NOTAS  := $(patsubst _docs/%.md,_site/docs/%.html,$(DOCS))
 
-deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/node_modules
+deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
 # {{{1 Produtos PDF
 #      ============
@@ -41,8 +41,8 @@ tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 #      ===================================
 
 present : deploy
-	cd _site/slides && \
-		node ../node_modules/reveal-notes-server
+	cd _site && \
+		node node_modules/reveal-notes-server
 
 .pages : $(PAGES)
 	touch .pages
@@ -66,7 +66,7 @@ _site/index.html : README.md _config.yaml _sass assets reveal.js
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-_site/node_modules : package.json | _site
+_site/package-lock.json : package.json | _site
 	cp package.json _site/
 	cd _site && npm install
 

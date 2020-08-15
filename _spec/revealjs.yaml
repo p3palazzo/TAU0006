@@ -1,13 +1,13 @@
-from       : markdown
-to         : revealjs
-standalone : true
-file-scope : true
-slide-level: 2
+from        : markdown
+to          : revealjs
+standalone  : true
+file-scope  : true
+slide-level : 2
 bibliography: biblio.bib
-cite-method: citeproc
-toc        : false
-css        : "../assets/css/slide.css"
-template   : "_lib/default.revealjs"
+cite-method : citeproc
+toc         : false
+css         : "../assets/css/slide.css"
+template    : "_lib/default.revealjs"
 fail-if-warnings: true
 filters:
   - pandoc-crossref
