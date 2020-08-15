@@ -68,13 +68,15 @@
       // https://revealjs.com/config/
       Reveal.initialize({
         multiplex: {
-          secret: null,
+          secret: null, // Fill in secret on master presentation
           id: '',
           url: ''
         },
         dependencies: [
-          { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js', async: true },
-          { src: '../node_modules/reveal-multiplex/master.js', async: true },
+          { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js', async: true },
+          // Change reveal-multiplex/client to master on presenter's file.
+          { src: '../node_modules/reveal-multiplex/client.js', async: true },
+          // Remove line below on client side
           { src: '../node_modules/reveal-notes-server/client.js', async: true }
         ],
         // Add the current slide number to the URL hash so that reloading the
@@ -96,7 +98,7 @@
         ]
       });
     </script>
-    <script src="socket.io/socket.io.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
     <script src="../node_modules/reveal-notes-server/client.js"></script>
     </body>
 </html>
