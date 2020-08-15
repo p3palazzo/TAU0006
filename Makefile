@@ -56,7 +56,11 @@ _site/docs/%.html : html.yaml _docs/%.md | _csl _site/docs
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
 _site/slides/%.html : revealjs.yaml _docs/%.md | _csl _site/slides
-	$(PANDOC/CROSSREF) -o $@ -d $^
+	$(PANDOC/CROSSREF) -o $@ \
+		-V multiplexSecret=$(multiplexSecret) \
+		-V multiplexSocketId=$(multiplexSocketId) \
+		-V multiplexUrl=$(multiplexUrl) \
+	  -d $^
 
 _site/index.html : README.md _config.yaml _sass assets reveal.js
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \

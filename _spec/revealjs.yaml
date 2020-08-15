@@ -18,9 +18,6 @@ variables:
   hash: true
   width: 1280
   height: 720
-  #multiplexSecret:
-  multiplexSocketId:
-  multiplexUrl: 'localhost:1948'
 metadata:
   lang: pt-BR
   figureTitle: Figura
