@@ -4,9 +4,6 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
 layout  : default
-multiplex:
-  id:
-  url:
 ---
 
 Nascimento da história da arte e fronteiras da arquitetura
