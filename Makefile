@@ -74,9 +74,7 @@ _site/package-lock.json : package.json | _site
 #      =====
 
 serve :
-	docker run -p 4000:4000 -h 127.0.0.1 \
-		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
-		jekyll serve
+	cd _site && node node_modules/reveal-multiplex
 
 _site :
 	mkdir -p _site
