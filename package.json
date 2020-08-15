@@ -1,12 +1,20 @@
 {
 	"name": "tau0006",
 	"version": "0.1.0",
+	"license": "CC-BY-NC-SA-4.0",
 	"description": "História da Arquitetura e da Arte II",
+	"homepage": "https://p3palazzo.github.io/tau0006",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/p3palazzo/tau0006"
+	},
+	"engines": {
+		"node": "12.x"
+	},
 	"dependencies": {
 		"node-static": "^0.7.11",
 		"reveal-multiplex": "^0.1.0",
 		"reveal-notes-server": "^0.1.0",
-		"socket.io": "^2.3.0",
-		"static": "^2.0.0"
+		"socket.io": "^2.3.0"
 	}
 }
