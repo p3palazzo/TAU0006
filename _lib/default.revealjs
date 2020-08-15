@@ -82,8 +82,8 @@ $endif$
 $if(multiplex)$
         multiplex: {
           secret: null,
-          id: '$multiplex.id',
-          url: '$multiplex.url'
+          id: '$multiplex.id$',
+          url: '$multiplex.url$'
         },
         dependencies: [
           { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js', async: true },
