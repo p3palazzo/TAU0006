@@ -40,6 +40,10 @@ tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
+present : deploy
+	cd _site/slides && \
+		node ../node_modules/reveal.multiplex
+
 .pages : $(PAGES)
 	touch .pages
 
@@ -62,12 +66,12 @@ _site/index.html : README.md _config.yaml _sass assets reveal.js
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
+_site/node_modules : package.json | _site
+	cp package.json _site/
+	cd _site && npm install
+
 # {{{1 PHONY
 #      =====
-
-present : _site/node_modules deploy
-	cd _site && \
-		node node_modules/reveal.multiplex
 
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \
@@ -82,10 +86,6 @@ _site/slides :
 
 _site/docs :
 	mkdir -p _site/docs
-
-_site/node_modules : package.json | _site
-	cp package.json _site/
-	cd _site && npm install
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
