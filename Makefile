@@ -65,6 +65,10 @@ _site/index.html : README.md _config.yaml _sass assets reveal.js
 # {{{1 PHONY
 #      =====
 
+present : _site/node_modules deploy
+	cd _site && \
+		node node_modules/reveal.multiplex
+
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \
 		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
@@ -79,7 +83,8 @@ _site/slides :
 _site/docs :
 	mkdir -p _site/docs
 
-_site/node_modules : _site
+_site/node_modules : package.json | _site
+	cp package.json _site/
 	cd _site && npm install
 
 _csl :
