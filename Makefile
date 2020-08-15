@@ -42,7 +42,7 @@ tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 
 present : deploy
 	cd _site/slides && \
-		node ../node_modules/reveal.multiplex
+		node ../node_modules/reveal-notes-server
 
 .pages : $(PAGES)
 	touch .pages
