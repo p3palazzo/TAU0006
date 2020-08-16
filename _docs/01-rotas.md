@@ -13,27 +13,43 @@ Introdução à história da arquitetura na Idade Moderna
 1420
 ----
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
+para menos, mas isso não importa. Exatamente em 1420, começa a
+construção de dois monumentos que redefinem os caminhos da arquitetura
+nas suas sociedades respectivas: o pavilhão da boa colheita no templo do
+Céu, em Pequim, e a cúpula da catedral Santa Maria del Fiore, em
+Florença.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::: {.columns}
 ::: {.column width=50%}
-
-![Templo do Céu, Pequim, concluído 1420](){.stretch}
-
+![Templo do Céu, Pequim, iniciado em 1420](){#fig:harvest .stretch}
 :::
-
 ::: {.column width=50%}
-
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore,
-Florença, iniciada 1420](){.stretch}
-
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420](){#fig:cupola .stretch}
 :::
 ::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Os dois projetos dão o tom para um processo de consolidação das
+tradições arquitetônicas no leste da Ásia e na Europa ocidental. Essas
+duas linhagens se estabilizam em torno de princípios teóricos, de
+lógicas construtivas e de uma concepção do ofício da arquitetura
+inspirada em antigos tratados. Ao mesmo tempo, o pavilhão no templo do
+Céu e a cúpula da catedral de Florença dão a partida numa exploração de
+configurações espaciais cada vez mais diversificadas.
+
+Esse duplo movimento da arquitetura na Idade Moderna vai ser o nosso fio
+condutor daqui para a frente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::: notes
-1420:
-
-- Início da cúpula de Brunelleschi
-- Conclusão do templo do Céu
-
 O propósito da cadeia de disciplinas de Teoria e História da Arquitetura
 e do Urbanismo, incluindo Estética e História das Artes, é subsidiar,
 por meio do conhecimento de repertórios formais e teorias, a qualidade
@@ -57,18 +73,6 @@ ementa, procurando manter sempre que possível uma perspectiva mundial.
     técnica em todas as escalas;
   - *Profissão*: desenvolvimento de tradições centradas na autoridade
     do corpo de conhecimentos do ofício.
-
-- Duas culturas arquitetônicas eruditas (escritas):
-  - Ásia oriental
-  - Europa ocidental
-
-Outras culturas arquitetônicas com ou sem registros escritos, que serão
-tratadas acessoriamente:
-
-- América precolombiana
-- Índia continental
-- Orla do oceano Índico
-- África banto e Abissínia
 ::::::
 
 Espaço artístico e arquitetônico como problema intelectual
@@ -186,18 +190,31 @@ municipal, da conquista militar ou da capacidade de ordenamento do
 espaço urbano.
 ::::::
 
+![Tábuas de Urbino](){#fig:urbino .stretch}
+
 ![Jacopo de' Barbari. Vista de Veneza em 1500, conjunto de seis xilografias sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png/1280px-Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png){.stretch}
 
 * * * *
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
 Outras vezes, como na pintura da escola *tosa* no Japão do século XVI e
-início do XVII, podem celebrar a fragmentação desse poder e a autonomia
-burguesa local.
-::::::
+início do XVII, podem celebrar o fato efêmero da fragmentação do poder
+central, que por um breve momento dá lugar à autonomia burguesa.
+
+<!--Câmera-->
+Por tudo isso, o espaço urbano na virada do século XIV é o nosso ponto
+de partida e também a base que vai nos acompanhar ao longo de todo o
+estudo da arquitetura até o final do século XVIII. A diversidade de
+configurações urbanas por volta do ano 1400 vai nos ocupar pelos
+próximos quatro vídeos.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){.stretch}
+
+Sistemas mundiais
+=================
 
 Mundos conectados no início do século XIV
 -----------------------------------------
@@ -706,7 +723,9 @@ Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
 em calcário de coral, se organizam em bairros em volta do palácio e do
 porto. As classes baixas constroem as suas casas em pau-a-pique na
-periferia, do lado de fora das muralhas.
+periferia, do lado de fora das muralhas. As moradias, principalmente
+aquelas perto do centro urbano, tendem a se alinhar e a formar ruas que
+se adensam gradualmente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Complexo de casas suaíle em Sofala](){#fig:casas-swahili .stretch}
@@ -722,11 +741,9 @@ elas são construídas deixando bastante espaço livre entre elas, espaço
 que é usado para hortas e jardins.
 
 <!--Câmera-->
-
 As residências dos comerciantes são também onde se faz a compra e venda
-dos carregamentos dos navios e das caravanas; o mercado local acontece
-nos largos junto às portas da cidade.
-
+dos carregamentos dos navios e das caravanas, enquanto o mercado local
+acontece nos largos junto às portas da cidade.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -743,14 +760,56 @@ nos largos junto às portas da cidade.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Central Cattle Pattern
-----------------------
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Assim como o *kampung* malaio, a cidade suaíle também se adensa por
+preenchimento do espaço disponível em torno das casas.
+<!--/Câmera-->
+Numa cidade consolidada com Lamu, as casas ficam próximas umas das
+outras e definem ruas suficientemente largas para garantir uma boa
+ventilação. Ao mesmo tempo, a altura das construções e a projeção das
+sacadas com gelosias fazem sombra sobre a rua.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Esse sistema, conhecido nas línguas banto como *boma*, se
-declina em inúmeras variações desde a costa do golfo da Guiné até a
-África do Sul, onde ele foi mais pesquisado.
+![Rua em Lamu](){#fig:lamu-streetscape .stretch}
+
+Espaço agropastoril
+-------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Deixando a costa e avançando para oeste, no interior do continente, mas
+ainda em territórios de etnias banto, o padrão urbanístico dominante se
+transforma. No lugar de cidades com casas alinhadas, encontramos
+complexos agropastoris familiares formando redes mais ou menos densas no
+território.
+<!--/Câmera-->
+
+O arqueólogo sul-africano Thomas Huffman
+[@huffman:1990broederstroom49, 7] definiu, nos anos 1980, o paradigma
+espacial agropastoril banto como um sistema organizado em torno de um
+cercado comunitário. Esse cercado, conhecido em suaíle como *boma*, se
+declina em inúmeras variações desde a costa do golfo da Guiné até o sul
+da África. O *boma* é, prioritariamente, um curral de gado. Celeiros e
+espaços para atividades comunitárias também podem estar situados no
+*boma*. Ele é controlado por uma liderança política ou chefe de família
+estendida, que tem a sua própria casa perto desse espaço central.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Thomas Huffman](){#fig:huffman width=100%}
+:::
+::: {.column width=50%}
+![Esquema de um *boma* no sul da África](){#fig:boma .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -758,9 +817,6 @@ declina em inúmeras variações desde a costa do golfo da Guiné até a
 
 - Central Cattle Pattern: complexo habitacional--produtivo que evidencia
   hierarquias socio-familiares, políticas, econômicas, culturais e religiosas.
-
-- Também chamado de *kraal* (africâner, do português "curral"): termo
-  colonialista.
 
 ::::::
 
@@ -782,6 +838,11 @@ Delimitação do traçado urbano
   inverte?
 
 ::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Campo, *calle* e canal em Veneza
 ==============================
