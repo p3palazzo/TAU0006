@@ -580,40 +580,181 @@ adensamento *para fora*.
 Do *boma* banto às cidades da Guiné
 =================================
 
+Universos urbanísticos africanos
+--------------------------------
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
 
 A urbanização em regiões tropicais úmidas, do Sudeste asiático até a
 África, apresenta algumas características comuns. Ela parte de espaços
 rurais ocupados em baixa densidade, com uma divisão do solo pouco
 rígida. Como vimos no Sudeste asiático, essa divisão é baseada
 principalmente na repartição do acesso a recursos tangíveis, como hortas
-ou árvores frutíferas, entre famílias estendidas.
+ou árvores frutíferas, entre famílias estendidas. Na África, as
+hierarquias comunitárias dão ordem à forma urbana.
 
+Longe de ser um exemplo de construção "primitiva" ou derivativa da
+influência islâmica, a arquitetura africana tem história e
+desenvolvimento autônomo (não significa isolado). Estudos arqueológicos
+e antropológicos desde a década de 1980, sobretudo na África do Sul e na
+costa leste do continente, revolucionaram o entendimento acadêmico das
+tradições construtivas africanas.
+
+<!--/Câmera-->
+
+Na África tropical, dois modos de urbanizar se destacam pela sua
+expansão geográfica e cronológica: as cidades mercantes da costa Suaíle,
+no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo.
+Esses dois modos são bem distintos entre si porque eles se adaptaram a
+contextos ambientais, econômicos e culturais muito diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Universos urbanísticos africanos](){#fig:urb-africa}
 
 Cidades mercantes da costa suaíle
 ---------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A [costa Suaíle][] é uma parte do litoral africano do oceano Índico, com
+mais de três mil quilômetros de extensão de norte a sul. Ela é formada
+por uma sequência de cidades-estado especializadas no comércio marítimo,
+fundadas e habitadas por povos de etnia banto que falam a língua suaíle.
+Os banto migraram para essa região no primeiro milênio antes de Cristo,
+e no século I a.C. o litoral do Índico já era uma rota comercial
+importante.
+
+[ccosta Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
+
+<!--Câmera-->
+
+Estuários de rios, baías e ilhas ao longo da costa se tornam
+pontos de trocas entre os produtos trazidos do interior do continente e
+aqueles que chegam em navios árabes, persas, indianos e malaios, junto
+com a influência cultural vinda dessas regiões.
+As principais cidades-estado suaíle, como Lamu, Quíloa e Sofala, se
+consolidam a partir do século VIII d.C., quando se convertem ao islã, e
+atingem o seu auge entre os séculos XII e XIV.
+Nos séculos XVI e XVII, as cidades suaíle perdem poder econômico para as
+grandes potências marítimas da época: Portugal e Omã. Esses dois
+impérios acabam por partilhar a costa suaíle entre si, e várias das
+antigas cidades-estado acabam sendo abandonadas.
+
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Principais cidades e eixos comerciais da costa suaíle](){#fig:costa-suaile .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa disso e das hierarquias raciais em vigor no século XIX,
+durante muito tempo as pesquisas ocidentais consideraram as cidades da
+costa suaíle como pertencentes à esfera cultural arabo--persa. Os
+europeus entendiam que cidades comerciais adensadas não tinham lugar
+numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
+Usam Ghaidan defendeu a sua dissertação de mestrado demonstrando que as
+raízes socioeconômicas, culturais e construtivas da cidade suaíle de
+Lamu são, de fato, africanas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Mesquitas de Lamu. Fonte: @ghaidan:1974lamu](){#fig:ghaidan-lamu .stretch}
+
+Traçado urbano e hierarquia social
+----------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O traçado geral das cidades suaíle não decorre de um plano centralizado,
+mas se organiza a partir de princípios culturais partilhados. A
+arqueóloga inglesa [Stephanie Wynne-Jones][] aponta, na configuração
+urbana de Sofala, uma hierarquia entre significados sociais elevados,
+intermediários e cotidianos [@wynne-jones:2014swahili, 6].
 
 [Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Significados sociais elevados, intermediários e cotidianos
-  (high-level, middle-level, and low-level) [@wynne-jones:2014swahili, 6]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=30%}
 
-::::::
+![Stephanie Wynne-Jones](){#fig:wynne-jones width=100%}
+
+:::
+::: {.column width=70%}
+![Planta arqueológica da cidade de Sofala](){#fig:sofala .stretch}
+
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em Quíloa, palácios e mesquitas sinalizam o centro de cada núcleo
+urbano. As ilhas de Quíloa são cercadas de arrecifes, e os corais
+fossilizados se transformam em pedra calcária. Essas pedras são o
+material de construção usado para as paredes e abóbodas dos palácios e
+das mesquitas, mas também para as casas dos principais comerciantes.
+Corais vivos são usados para executar acabamentos coloridos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Ruínas da mesquita maior de Quíloa](){#fig:kilwa-mesquita .stretch}
+
+Habitação e comércio
+--------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
+do solo rígido e predeterminado. As casas dos comerciantes, construídas
+em calcário de coral, se organizam em bairros em volta do palácio e do
+porto. As classes baixas constroem as suas casas em pau-a-pique na
+periferia, do lado de fora das muralhas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Complexo de casas suaíle em Sofala](){#fig:casas-swahili .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As casas da elite mercante sempre têm a entrada principal voltada para o
+norte ou, mais raramente, para o leste. Essas casas são uma simples
+enfiada transversal de cômodos quadrados, gradualmente ampliada para
+cima, para os lados e para os fundos conforme a necessidade. Por isso,
+elas são construídas deixando bastante espaço livre entre elas, espaço
+que é usado para hortas e jardins.
+
+<!--Câmera-->
+
+As residências dos comerciantes são também onde se faz a compra e venda
+dos carregamentos dos navios e das caravanas; o mercado local acontece
+nos largos junto às portas da cidade.
+
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns}
+::: {.column width=50%}
+
+![Planta de casa mercante suaíle](){#fig:swahili-mercanteA .stretch}
+
+:::
+::: {.column width=50%}
+
+![Interior de casa mercante suaíle](){#fig:swahili-mercanteB .stretch}
+
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Central Cattle Pattern
 ----------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 
-- Longe de ser um exemplo de construção "primitiva" ou derivativa da
-  influência islâmica, a arquitetura africana tem história e
-  desenvolvimento autônomo (não significa isolado). Estudos
-  arqueológicos e antropológicos desde a década de 1980, sobretudo na
-  África do Sul, revolucionaram o entendimento acadêmico das tradições
-  construtivas africanas.
+Esse sistema, conhecido nas línguas banto como *boma*, se
+declina em inúmeras variações desde a costa do golfo da Guiné até a
+África do Sul, onde ele foi mais pesquisado.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::: notes
 
 - Central Cattle Pattern: complexo habitacional--produtivo que evidencia
   hierarquias socio-familiares, políticas, econômicas, culturais e religiosas.
