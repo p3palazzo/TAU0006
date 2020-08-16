@@ -86,8 +86,6 @@ dificuldades com isso.
 Metodologia
 ===========
 
-* * * *
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todo o conteúdo e as atividades da disciplina estão no ambiente virtual
 de aprendizagem [Aprender 3][]. O nosso fio condutor é o livro-texto; as
@@ -112,9 +110,13 @@ atividades ao longo do semestre.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/mN7DCJb6Lz9G9o5/preview"}
+<!--
+   -## {data-background-image="https://www.integra.unb.br/s/mN7DCJb6Lz9G9o5/preview"}
+   -
+   -## {data-background-image="https://www.integra.unb.br/s/t2FgEWAWjEtpz7n/preview"}
+   -->
 
-## {data-background-image="https://www.integra.unb.br/s/t2FgEWAWjEtpz7n/preview"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na área geral do Aprender 3, você vai encontrar:
@@ -295,8 +297,6 @@ respondemos aos e-mails em 2 ou 3 dias úteis.
 - Contato por e-mail
 ::::::
 
-Aproximação à história da arquitetura na Idade Moderna
-======================================================
 
 Aproximação ao ambiente virtual de aprendizagem
 ===============================================

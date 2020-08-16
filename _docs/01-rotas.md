@@ -38,12 +38,12 @@ Florença.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Os dois projetos dão o tom para um processo de consolidação das
-tradições arquitetônicas no leste da Ásia e na Europa ocidental. Essas
-duas linhagens se estabilizam em torno de princípios teóricos, de
-lógicas construtivas e de uma concepção do ofício da arquitetura
-inspirada em antigos tratados. Ao mesmo tempo, o pavilhão no templo do
-Céu e a cúpula da catedral de Florença dão a partida numa exploração de
-configurações espaciais cada vez mais diversificadas.
+tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
+tradições se estabilizam em torno de de uma concepção do ofício da
+arquitetura inspirada em antigos tratados. Ao mesmo tempo, o pavilhão no
+templo do Céu e a cúpula da catedral de Florença dão a partida numa
+exploração de configurações cada vez mais diversificadas do espaço
+interior e exterior.
 
 Esse duplo movimento da arquitetura na Idade Moderna vai ser o nosso fio
 condutor daqui para a frente.
