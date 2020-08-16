@@ -285,7 +285,11 @@ A área da disciplina no Moodle / [Aprender 3][] é o nosso canal
 prioritário para estar sempre em contato com vocês, mas também
 respondemos por e-mail. Sejam pacientes e precavidos: geralmente
 respondemos aos e-mails em 2 ou 3 dias úteis.
-::::::
+
+<!--Câmera-->
+Explorem o ambiente virtual, e nos vemos na quinta-feira. Até lá.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::: incremental
 - Videoconferência semanal (professor)
