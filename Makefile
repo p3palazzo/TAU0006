@@ -14,8 +14,8 @@ PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/c
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
 DOCS    = $(wildcard _docs/*.md)
-SLIDES := $(patsubst _docs/%.md,_site/slides/%.html,$(DOCS))
-NOTAS  := $(patsubst _docs/%.md,_site/docs/%.html,$(DOCS))
+SLIDES := $(patsubst _docs/%.md,_site/aula/%/index.html,$(DOCS))
+NOTAS  := $(patsubst _docs/%.md,_site/aula/%/notas.html,$(DOCS))
 
 deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
@@ -49,22 +49,24 @@ tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 .slides : $(SLIDES)
 	touch .slides
 
-_site/%.html : html.yaml %.md | _csl _site
+_site/index.html : README.md _config.yaml _sass assets reveal.js
+	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
+		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+_site/%.html : html.yaml %.md | _csl _site/index.html
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-_site/docs/%.html : html.yaml _docs/%.md | _csl _site/docs
-	$(PANDOC/CROSSREF) -o $@ -d $^
-
-_site/slides/%.html : revealjs.yaml _docs/%.md | _csl _site/slides
+_site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site/index.html
+	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ \
 		-V multiplexSecret=$(multiplexSecret) \
 		-V multiplexSocketId=$(multiplexSocketId) \
 		-V multiplexUrl=$(multiplexUrl) \
 	  -d $^
 
-_site/index.html : README.md _config.yaml _sass assets reveal.js
-	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
-		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+_site/aula/%/notas.html : html.yaml _docs/%.md | _csl _site/index.html
+	@mkdir -p _site/aula/$*
+	$(PANDOC/CROSSREF) -o $@ -d $^
 
 _site/package-lock.json : package.json | _site
 	cp package.json _site/
@@ -73,25 +75,12 @@ _site/package-lock.json : package.json | _site
 # {{{1 PHONY
 #      =====
 
-present : deploy
-	cd _site && \
-		node node_modules/reveal-notes-server
-
-watch : deploy
-	cd _site && \
-		node node_modules/reveal-multiplex
-
-_site :
-	mkdir -p _site
-
-_site/slides :
-	mkdir -p _site/slides
-
-_site/docs :
-	mkdir -p _site/docs
-
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
+
+serve :
+	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
+		jekyll serve --skip-initial-build
 
 clean :
 	rm -rf _csl *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml
