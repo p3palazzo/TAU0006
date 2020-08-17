@@ -83,6 +83,8 @@ jobs:
       with:
         name: slides
         path: ${{ github.workspace }}/aula/
+    - name: Install deps
+      run: npm install
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
