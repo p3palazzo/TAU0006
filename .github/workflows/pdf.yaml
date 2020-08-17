@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Check if fonts are available on build machine
-      run: ls -l assets/fonts
     - uses: docker://pandoc/crossref:2.10
       with:
         args: >
@@ -18,7 +16,7 @@ jobs:
           plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
     - name: Generate pdf
       run: >
-        docker run --user "`id -u`:`id -g`" -v "`pwd`:/data"
+        docker run -i --user "`id -u`:`id -g`" -v "`pwd`:/data"
         -v "`pwd`/assets/fonts:/usr/share/fonts"
         blang/latex:ctanfull latexmk -pdf -pdflatex="xelatex" -cd -f
         -interaction=batchmode tau0006-plano

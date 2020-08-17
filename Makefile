@@ -28,7 +28,7 @@ deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
 tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
-	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md | _csl
+	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
 tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
