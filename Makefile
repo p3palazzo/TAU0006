@@ -86,6 +86,7 @@ serve :
 		jekyll serve --skip-initial-build
 
 clean :
-	rm -rf _csl *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml
+	rm -rf _csl *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
+		tau0006-*.tex
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
