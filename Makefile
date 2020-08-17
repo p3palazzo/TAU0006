@@ -81,9 +81,9 @@ _csl :
 _site :
 	mkdir -p _site
 
-serve :
-	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
-		jekyll serve --skip-initial-build
+serve : deploy
+	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
+		jekyll/jekyll:4.1.0 jekyll serve --skip-initial-build
 
 clean :
 	rm -rf _csl *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
