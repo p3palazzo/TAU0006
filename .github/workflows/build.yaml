@@ -13,7 +13,7 @@ jobs:
     - name: Build the website
       run: |
         docker run --rm -v "`pwd`:/srv/jekyll" \
-          jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+          jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - name: Upload site
       uses: actions/upload-artifact@v2
       with:
@@ -29,7 +29,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: notas
-        path: '_site/docs/*'
+        path: '_site/aula/*'
   pages:
     runs-on: ubuntu-latest
     steps:
@@ -51,7 +51,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: slides
-        path: '_site/slides/*'
+        path: '_site/aula/*'
   commit:
     runs-on: ubuntu-latest
     needs: [ jekyll, notas, pages, slides ]
@@ -72,7 +72,7 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: notas
-        path: ${{ github.workspace }}/notas/
+        path: ${{ github.workspace }}/aula/
     - name: Download pages
       uses: actions/download-artifact@v2
       with:
@@ -82,7 +82,7 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: slides
-        path: ${{ github.workspace }}/slides/
+        path: ${{ github.workspace }}/aula/
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
