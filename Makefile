@@ -66,7 +66,7 @@ _site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site
 
 _site/aula/%/notas.html : html.yaml _docs/%.md | _csl _site
 	@mkdir -p _site/aula/$*
-	$(PANDOC/CROSSREF) -o $@ -d $^
+	$(PANDOC/CROSSREF) -o $@ -d $^ --css ../../assets/main.css
 
 _site/package-lock.json : package.json | _site
 	cp package.json _site/

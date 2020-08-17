@@ -2,7 +2,7 @@ from           : markdown+raw_tex
 to             : html
 standalone     : true
 file-scope     : true
-css            : "../assets/main.css"
+css            : "assets/main.css"
 number-sections: false
 bibliography   : biblio.bib
 cite-method    : citeproc

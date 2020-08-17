@@ -92,6 +92,5 @@ include:
   - package.json
 keep_files:
   - node_modules
-  - slides
-  - docs
+  - aula
 # vim: set foldmethod=marker :

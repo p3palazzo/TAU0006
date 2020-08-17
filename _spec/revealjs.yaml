@@ -6,14 +6,14 @@ slide-level : 2
 bibliography: biblio.bib
 cite-method : citeproc
 toc         : false
-css         : "../assets/css/slide.css"
+css         : "../../assets/css/slide.css"
 template    : "_lib/default.revealjs"
 fail-if-warnings: true
 filters:
   - pandoc-crossref
   - pandoc-citeproc
 variables:
-  revealjs-url: "../reveal.js"
+  revealjs-url: "../../reveal.js"
   hashOneBasedIndex: true
   hash: true
   width: 1280
