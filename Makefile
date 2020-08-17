@@ -13,9 +13,9 @@ PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/c
 
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
-DOCS    = $(wildcard _docs/*.md)
-SLIDES := $(patsubst _docs/%.md,_site/aula/%/index.html,$(DOCS))
-NOTAS  := $(patsubst _docs/%.md,_site/aula/%/notas.html,$(DOCS))
+DOCS    = $(wildcard _aula/*.md)
+SLIDES := $(patsubst _aula/%.md,_site/aula/%/index.html,$(DOCS))
+NOTAS  := $(patsubst _aula/%.md,_site/aula/%/notas.html,$(DOCS))
 
 deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
@@ -56,7 +56,7 @@ _site/index.html : README.md _config.yaml _sass assets reveal.js
 _site/%.html : html.yaml %.md | _csl _site
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-_site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site
+_site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ \
 		-V multiplexSecret=$(multiplexSecret) \
@@ -64,7 +64,7 @@ _site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site
 		-V multiplexUrl=$(multiplexUrl) \
 	  -d $^
 
-_site/aula/%/notas.html : html.yaml _docs/%.md | _csl _site
+_site/aula/%/notas.html : html.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ -d $^ --css ../../assets/main.css
 
