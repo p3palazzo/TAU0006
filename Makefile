@@ -53,10 +53,10 @@ _site/index.html : README.md _config.yaml _sass assets reveal.js
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-_site/%.html : html.yaml %.md | _csl _site/index.html
+_site/%.html : html.yaml %.md | _csl _site
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-_site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site/index.html
+_site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ \
 		-V multiplexSecret=$(multiplexSecret) \
@@ -64,7 +64,7 @@ _site/aula/%/index.html : revealjs.yaml _docs/%.md | _csl _site/index.html
 		-V multiplexUrl=$(multiplexUrl) \
 	  -d $^
 
-_site/aula/%/notas.html : html.yaml _docs/%.md | _csl _site/index.html
+_site/aula/%/notas.html : html.yaml _docs/%.md | _csl _site
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
@@ -77,6 +77,9 @@ _site/package-lock.json : package.json | _site
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
+
+_site :
+	mkdir -p _site
 
 serve :
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
