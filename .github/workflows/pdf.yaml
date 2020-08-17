@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Check if fonts are available on build machine
+      run: ls -l assets/fonts
     - uses: docker://pandoc/crossref:2.10
       with:
         args: >
