@@ -88,6 +88,8 @@ Temos 15 semanas de aula para:
 - Conhecer o contexto histórico da Idade Moderna.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Neste primeiro semestre de 2020, toda a disciplina vai ser realizada com
@@ -209,7 +211,6 @@ Global Architectural History Teaching Collaborative
 
 * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Web-->
 Para obter o livro-texto
 
@@ -221,30 +222,29 @@ Para obter o livro-texto
   --- **não é** a senha do Moodle).
 
 <!--/Web-->
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Moodle-->
 Outros textos que vamos ler ao longo do semestre estão disponíveis em
-PDF no Moodle, dentro do tópico .**Leituras**
+PDF no Moodle, dentro do tópico **Leituras**.
 <!--/Moodle-->
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Apoio
 =====
 
-Conteúdo · Atividades · Interação
+Conteúdo › Atividades › Interação
 ---------------------------------
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Para aproveitar os recursos de ensino a distância com a maior
 flexibilidade possível, organizamos o funcionamento da turma num tripé:
 Conteúdo, Atividades e Interação.
 <!--/Câmera-->
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Narração-->
 Todo o **conteúdo** --- leituras, videoaulas e notas de aula --- fica sempre
 disponível no Moodle. As leituras do livro-texto e dos outros livros
@@ -388,10 +388,10 @@ semana.
 
 | Unidade | Conteúdo                                         | Trabalho                        | Nota |
 |--------:|:-------------------------------------------------|:--------------------------------|-----:|
-|       I | Redes urbanas na fundação do mundo moderno       | Análise de conjunto urbano      | 30 % |
-|      II | Linguagens clássicas da arquitetura              | Projeto de arquitetura clássica | 30 % |
-|     III | Estilo e território: inquietações da modernidade | Artigo de pesquisa em história  | 30 % |
-|   Todas | Contexto histórico e cultura geral               | Leitura e discussão de textos   | 10 % |
+|       I | Redes urbanas na fundação do mundo moderno       | Análise de conjunto urbano      | 30 % |
+|      II | Linguagens clássicas da arquitetura              | Projeto de arquitetura clássica | 30 % |
+|     III | Estilo e território: inquietações da modernidade | Artigo de pesquisa em história  | 30 % |
+|   Todas | Contexto histórico e cultura geral               | Leitura e discussão de textos   | 10 % |
 
 Desenvolvimento do semestre
 ---------------------------
@@ -504,6 +504,10 @@ fique para trás.
 Explorem o ambiente virtual, e nos vemos na quinta-feira. Até lá.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Referências
+===========
 
 [Aprender 3]: https://aprender3.unb.br
 
