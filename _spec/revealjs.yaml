@@ -1,4 +1,4 @@
-from        : markdown+raw_html
+from        : markdown
 to          : revealjs
 standalone  : true
 file-scope  : true
@@ -14,10 +14,12 @@ filters:
   - pandoc-citeproc
 variables:
   revealjs-url: "../../reveal.js"
-  hashOneBasedIndex: true
-  hash: true
-  width: 1280
-  height: 720
+  controls: 'false'
+  progress: 'false'
+  hash: 'true'
+  hashOneBasedIndex: 'true'
+  width: '1280'
+  height: '720'
 metadata:
   lang: pt-BR
   figureTitle: Figura
