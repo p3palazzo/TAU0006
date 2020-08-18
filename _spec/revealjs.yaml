@@ -1,4 +1,4 @@
-from        : markdown
+from        : markdown+raw_html
 to          : revealjs
 standalone  : true
 file-scope  : true
