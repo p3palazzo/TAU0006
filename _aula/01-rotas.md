@@ -810,18 +810,46 @@ estendida, que tem a sua própria casa perto desse espaço central.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Entre os batammaliba, na África ocidental, o complexo agropastoril é
+conhecido como *tata somba*. A sua arquitetura foi documentada pela
+arqueóloga americana [Suzanne Blier][] no final da década de 1980.
+
+[Suzanne Blier]: https://en.wikipedia.org/wiki/Suzanne_Blier
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
+::: {.column width=50%}
+![Locação na região fronteiriça entre Togo e Benin](){#fig:batammalibaA width=100%}
 
-- Central Cattle Pattern: complexo habitacional--produtivo que evidencia
-  hierarquias socio-familiares, políticas, econômicas, culturais e religiosas.
+![Planta de um complexo batammaliba. Fonte: @james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy](){#fig:batammalibaB width=100%}
 
-::::::
+:::
+::: {.column width=50%}
+
+![Vista exterior de um complexo batammaliba. Fonte: @taberlet:2008koussoukoingou](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+
+
+
+:::
+::: {.column width=50%}
+
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Estruturação do espaço intra-muros
 ----------------------------------
+
+Grande Zimbábue
+---------------
 
 Delimitação do traçado urbano
 -----------------------------
