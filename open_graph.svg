@@ -8,21 +8,21 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/Users/palazzo/Documents/ensino/tau0006/open_graph.png"
-   sodipodi:docname="open_graph.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 338.66666 169.33334"
+   width="1280"
    height="640"
-   width="1280">
+   viewBox="0 0 338.66666 169.33334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="open_graph.svg"
+   inkscape:export-filename="/Users/palazzo/Documents/ensino/tau0006/open_graph.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <style
-       type="text/css"
-       id="title"> @font-face {
+       id="title"
+       type="text/css"> @font-face {
         font-family: 'Trajan Pro';
         font-style: normal;
         font-weight: normal;
@@ -30,100 +30,112 @@
         }
     </style>
     <rect
-       id="rect1572"
-       height="42.994694"
-       width="296.33333"
+       x="21.166667"
        y="21.166665"
-       x="21.166667" />
+       width="296.33333"
+       height="42.994694"
+       id="rect1572" />
     <clipPath
        id="clip1">
       <path
-         d="M 88 5 L 99.558594 5 L 99.558594 20 L 88 20 Z M 88 5 "
-         id="path67" />
+         id="path67"
+         d="M 88 5 L 99.558594 5 L 99.558594 20 L 88 20 Z M 88 5 " />
     </clipPath>
     <clipPath
        id="clip2">
       <path
-         d="M 0 0 L 52 0 L 52 25.511719 L 0 25.511719 Z M 0 0 "
-         id="path70" />
+         id="path70"
+         d="M 0 0 L 52 0 L 52 25.511719 L 0 25.511719 Z M 0 0 " />
     </clipPath>
     <clipPath
        id="clip1-3">
       <path
-         d="M 88 5 L 99.558594 5 L 99.558594 20 L 88 20 Z M 88 5 "
-         id="path123" />
+         id="path123"
+         d="M 88 5 L 99.558594 5 L 99.558594 20 L 88 20 Z M 88 5 " />
     </clipPath>
     <clipPath
        id="clip2-8">
       <path
-         d="M 0 0 L 52 0 L 52 25.511719 L 0 25.511719 Z M 0 0 "
-         id="path126" />
+         id="path126"
+         d="M 0 0 L 52 0 L 52 25.511719 L 0 25.511719 Z M 0 0 " />
     </clipPath>
     <clipPath
        id="clip1-2">
       <path
-         d="M 0 0 L 147 0 L 147 56.324219 L 0 56.324219 Z M 0 0 "
-         id="path179" />
+         id="path179"
+         d="M 0 0 L 147 0 L 147 56.324219 L 0 56.324219 Z M 0 0 " />
     </clipPath>
     <clipPath
        id="clip2-2">
       <path
-         d="M 153 0 L 244.632812 0 L 244.632812 56.324219 L 153 56.324219 Z M 153 0 "
-         id="path182" />
+         id="path182"
+         d="M 153 0 L 244.632812 0 L 244.632812 56.324219 L 153 56.324219 Z M 153 0 " />
     </clipPath>
+    <rect
+       id="rect1572-2"
+       height="63.42309"
+       width="293.18058"
+       y="21.166664"
+       x="21.166668" />
+    <rect
+       id="rect74"
+       height="42.994694"
+       width="296.33334"
+       y="21.166664"
+       x="21.166668" />
   </defs>
   <sodipodi:namedview
-     inkscape:pagecheckerboard="false"
-     borderlayer="true"
-     inkscape:document-rotation="0"
-     inkscape:window-maximized="1"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="755"
-     inkscape:window-width="1280"
-     inkscape:guide-bbox="true"
-     showguides="true"
-     units="px"
-     showgrid="false"
-     inkscape:current-layer="layer3"
-     inkscape:document-units="px"
-     inkscape:cy="440.99325"
-     inkscape:cx="602.60768"
-     inkscape:zoom="0.54167741"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#808080"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.52144498"
+     inkscape:cx="602.60768"
+     inkscape:cy="440.99325"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     borderlayer="true"
+     inkscape:pagecheckerboard="false">
     <sodipodi:guide
-       inkscape:color="rgb(0,0,255)"
-       inkscape:label=""
-       inkscape:locked="true"
+       position="0,21.166667"
+       orientation="0,1"
        id="guide869"
-       orientation="0,1"
-       position="0,21.166667" />
-    <sodipodi:guide
-       inkscape:color="rgb(0,0,255)"
-       inkscape:label=""
        inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,148.16667"
+       orientation="0,1"
        id="guide871"
-       orientation="0,1"
-       position="0,148.16667" />
-    <sodipodi:guide
-       inkscape:color="rgb(0,0,255)"
-       inkscape:label=""
        inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,0"
+       orientation="1,0"
        id="guide873"
-       orientation="1,0"
-       position="21.166667,0" />
-    <sodipodi:guide
-       inkscape:color="rgb(0,0,255)"
-       inkscape:label=""
        inkscape:locked="true"
-       id="guide875"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="317.5,0"
        orientation="1,0"
-       position="317.5,0" />
+       id="guide875"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -138,13 +150,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     inkscape:label="Pannini"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="Pannini"
+     sodipodi:insensitive="true">
     <image
-       sodipodi:absref="https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
-       xlink:href="downloads/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
+       sodipodi:absref="/Users/palazzo/Documents/ensino/tau0006/_downloads/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
+       xlink:href="_downloads/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
        y="0"
        x="-1.4210855e-14"
        width="338.66666"
@@ -154,23 +166,24 @@
        id="image188" />
   </g>
   <g
-     sodipodi:insensitive="true"
-     transform="translate(0,-127.66665)"
-     id="layer1"
-     inkscape:groupmode="layer"
+     style="display:none"
      inkscape:label="Guias"
-     style="display:none" />
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-127.66665)"
+     sodipodi:insensitive="true" />
   <g
-     inkscape:label="Texto"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:label="Texto">
     <text
-       transform="translate(0.06198878,-0.05448831)"
-       y="0"
-       x="406.27466"
-       style="font-style:normal;font-weight:normal;font-size:13.05279999999999951px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1572);fill:#efe6d6;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text1570"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-weight:normal;font-size:13.05279999999999951px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1572);fill:#efe6d6;fill-opacity:1;stroke:none;"
+       x="406.27466"
+       y="0"
+       transform="translate(0.06198878,-0.05448831)"><tspan
          x="21.18614"
          y="33.074481"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0528px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';fill:#efe6d6;fill-opacity:1">HISTÓRIA DA ARQUITETURA E DA ARTE II
@@ -179,83 +192,98 @@
          y="49.877746"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0528px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';fill:#efe6d6;fill-opacity:1">TAU 0006</tspan></tspan></text>
     <g
-       transform="matrix(0.35277778,0,0,0.35277778,282.37794,139.1667)"
-       id="unb">
+       id="unb"
+       transform="matrix(0.35277778,0,0,0.35277778,282.37794,139.1667)">
       <title
          id="title226">Marca da UnB</title>
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path131"
          d="M 60.945312,14.488281 V 5.667969 H 64.1875 v 8.578125 c 0,2.230468 1.035156,3.265625 2.859375,3.265625 1.867187,0 2.800781,-1.078125 2.800781,-3.367188 V 5.667969 h 3.261719 v 8.679687 c 0,3.914063 -2.332031,5.699219 -6.121094,5.699219 -3.628906,0 -6.042969,-1.644531 -6.042969,-5.558594"
-         id="path131" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path133"
          d="m 82.726562,19.84375 v -6.367188 c 0,-1.523437 -0.425781,-2.292968 -1.683593,-2.292968 -1.296875,0 -2.027344,1.117187 -2.027344,2.898437 v 5.761719 h -3.183594 v -8.355469 c 0,-1.117187 -0.04297,-1.90625 -0.0625,-2.511719 H 78.8125 c 0.03906,0.382813 0.140625,1.621094 0.160156,2.226563 0.546875,-1.722656 1.90625,-2.429687 3.46875,-2.429687 2.738282,0 3.507813,1.84375 3.507813,3.871093 v 7.199219 z m 0,0"
-         id="path133" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <g
-         clip-path="url(#clip1-3)"
+         id="g137"
          clip-rule="nonzero"
-         id="g137">
+         clip-path="url(#clip1-3)">
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path135"
            d="m 93.65625,13.699219 h -1.804688 v 3.789062 h 1.90625 c 1.5,0 2.515626,-0.484375 2.515626,-1.945312 0,-1.4375 -1.175782,-1.84375 -2.617188,-1.84375 m -0.382812,-5.71875 h -1.421876 v 3.304687 h 1.441407 c 1.539062,0 2.210937,-0.507812 2.210937,-1.660156 0,-1.199219 -0.710937,-1.644531 -2.230468,-1.644531 M 94.0625,19.84375 H 88.667969 V 5.667969 h 4.910156 c 3.28125,0 5.167969,1.195312 5.167969,3.589843 0,1.601563 -0.851563,2.65625 -2.554688,3.0625 2.171875,0.28125 3.367188,1.582032 3.367188,3.46875 0,2.855469 -2.3125,4.054688 -5.496094,4.054688"
-           id="path135" />
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
       <g
-         clip-path="url(#clip2-8)"
+         id="g141"
          clip-rule="nonzero"
-         id="g141">
+         clip-path="url(#clip2-8)">
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path139"
            d="M 49.605469,2.867188 42.324219,8.125 c -2.492188,1.800781 -5.21875,3.355469 -8.15625,4.628906 -1.378907,0.59375 -2.867188,1.007813 -4.429688,1.203125 -1.152343,0.140625 -2.328125,0.214844 -3.519531,0.214844 V 1.417969 h 23.386719 z m 0,21.226562 H 26.21875 v -8.503906 c 1.25,0 2.484375,-0.07422 3.695312,-0.226563 1.699219,-0.214843 3.316407,-0.660156 4.816407,-1.308593 3.035156,-1.3125 5.847656,-2.921876 8.425781,-4.78125 v 0.00391 l 6.449219,-4.660156 z m -48.1875,0 V 4.617188 l 6.449219,4.660156 v -0.00391 c 2.578124,1.859374 5.390624,3.46875 8.425781,4.78125 1.5,0.648437 3.117187,1.09375 4.820312,1.308593 1.207031,0.152344 2.441407,0.226563 3.691407,0.226563 v 8.503906 z m 0,-22.675781 h 23.386719 v 12.753906 c -1.191407,0 -2.367188,-0.07422 -3.515626,-0.214844 C 19.722656,13.761719 18.234375,13.347656 16.855469,12.753906 13.917969,11.480469 11.191406,9.925781 8.699219,8.125 L 1.417969,2.867188 Z M 51.023438,0 H 0 v 25.511719 h 51.023438 z m 0,0"
-           id="path139" />
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
     <g
-       style="stroke-width:2.20712"
+       id="fau"
        transform="matrix(0.1598365,0,0,0.1598365,240.3737,139.16399)"
-       id="fau">
+       style="stroke-width:2.20712">
       <title
          id="title228">Marca da FAU</title>
       <g
-         style="stroke-width:4.4676"
-         clip-path="url(#clip1-2)"
+         id="g189"
          clip-rule="nonzero"
-         id="g189">
+         clip-path="url(#clip1-2)"
+         style="stroke-width:4.4676">
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+           id="path187"
            d="M 0,56.242188 H 146.38281 V 0.0859375 H 0 Z m 0,0"
-           id="path187" />
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       </g>
       <g
-         style="stroke-width:4.4676"
-         clip-path="url(#clip2-2)"
+         id="g193"
          clip-rule="nonzero"
-         id="g193">
+         clip-path="url(#clip2-2)"
+         style="stroke-width:4.4676">
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+           id="path191"
            d="m 153.39062,0 v 9.390625 h 81.85157 v 46.933594 h 9.39062 V 0 Z m 0,0"
-           id="path191" />
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+         id="path195"
          d="m 156.91406,38.757812 h -2.85156 v -1.6875 h 2.85156 v -2.996093 c 0,-1.691407 0.2461,-4.792969 4.54688,-4.792969 0.3164,0 0.66797,0.07031 1.19531,0.140625 v 1.761719 h -1.58594 c -2.04297,0 -2.04297,1.832031 -2.04297,2.855468 v 3.03125 h 3.59375 v 1.6875 h -3.59375 v 16.105469 h -2.11328 z m 0,0"
-         id="path195" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+         id="path197"
          d="m 174.38672,45.769531 c -3.02735,0.105469 -7.60938,-0.246093 -7.60938,4.089844 0,2.007813 1.01953,3.664063 3.20703,3.664063 2.42969,0 4.40235,-2.183594 4.40235,-4.511719 z m 0.14453,6.90625 h -0.0742 c -1.125,1.695313 -2.85156,2.539063 -5.03906,2.539063 -3.16797,0 -4.89453,-2.148438 -4.89453,-5.25 0,-6.234375 6.26953,-5.601563 9.86328,-5.886719 v -1.476563 c 0,-2.609374 -0.77344,-4.195312 -3.59375,-4.195312 -1.9375,0 -3.48828,0.953125 -3.48828,3.066406 h -2.25391 c 0.17578,-3.417968 2.82031,-4.757812 5.91797,-4.757812 1.79687,0 5.53125,0.179687 5.53125,4.722656 v 8.949219 c 0,1.269531 0,2.394531 0.21484,4.476562 h -2.18359 z m 0,0"
-         id="path197" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+         id="path199"
          d="m 192.17578,37.070312 v 17.792969 h -1.83594 v -1.976562 h -0.0664 c -1.23438,1.515625 -2.50391,2.328125 -4.47657,2.328125 -3.66406,0 -4.6875,-2.679688 -4.6875,-5.566406 V 37.070312 h 2.11719 v 12.222657 c 0,0.496093 -0.10937,4.230469 2.95703,4.230469 2.85547,0 3.875,-2.679688 3.875,-3.910157 V 37.070312 Z m 0,0"
-         id="path199" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+         id="path201"
          d="m 198.71875,54.863281 h -2.11328 V 37.070312 h 2.11328 v 2.183594 h 0.0703 c 1.02344,-1.480468 2.39844,-2.539062 4.30078,-2.539062 4.40235,0 4.86328,3.277344 4.86328,5.605468 v 12.542969 h -2.11718 V 42.421875 c 0,-2.078125 -0.8086,-4.015625 -3.27344,-4.015625 -1.90234,0 -3.84375,1.304688 -3.84375,5.285156 z m 0,0"
-         id="path201" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712"
+         id="path203"
          d="m 218.19922,53.523438 c 3.91015,0 4.01562,-3.347657 4.01562,-7.507813 0,-4.15625 -0.10547,-7.605469 -4.01562,-7.605469 -3.41797,0 -3.83985,4.613282 -3.83985,7.289063 0,2.820312 0,7.824219 3.83985,7.824219 m -6.09375,1.339843 c 0.10156,-0.601562 0.20703,-1.164062 0.20703,-1.765625 V 29.421875 h 2.11719 v 9.65625 l 0.0703,0.07031 c 1.08984,-1.691407 2.5,-2.433594 4.50781,-2.433594 5.78125,0 5.32031,6.0625 5.32031,9.234375 0,3.910156 -0.3164,9.265625 -5.49609,9.265625 -2.07812,0 -3.59375,-0.84375 -4.47266,-2.503906 h -0.0703 v 2.152343 z m 0,0"
-         id="path203" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20712" />
     </g>
+  </g>
+  <g
+     inkscape:label="miniaturas"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <text
+       transform="translate(0.9354899,57.392278)"
+       y="0"
+       x="358.03772"
+       style="font-style:normal;font-weight:normal;font-size:38.10000000000000142px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1572-2);fill:#efe6d6;fill-opacity:1;stroke:none"
+       id="text1570-2"
+       xml:space="preserve"><tspan
+         x="100.04004"
+         y="55.925799"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';text-align:center;text-anchor:middle;fill:#efe6d6;fill-opacity:1">APOIO</tspan></tspan></text>
   </g>
 </svg>
