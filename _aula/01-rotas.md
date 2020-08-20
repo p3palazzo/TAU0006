@@ -5,6 +5,10 @@ author  : "Pedro P. Palazzo"
 lang    : pt-BR
 parallaxBackgroundImage: https://www.integra.unb.br/s/3D3gixWtAgfRzTZ/preview
 parallaxBackgroundSize: '8867px 6354px'
+abstract: |
+  Introdução à arquitetura na Idade Moderna -- Primeira globalização:
+  cidades mercantes da rota da Seda e do oceano Índico -- Diversos modos
+  de urbanizar: *Kampung* malaio -- *Boma* banto -- *Campo* veneziano.
 ---
 
 Introdução à história da arquitetura na Idade Moderna
@@ -213,8 +217,6 @@ próximos quatro vídeos.
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){.stretch}
 
-Sistemas mundiais
-=================
 
 Mundos conectados no início do século XIV
 -----------------------------------------
@@ -602,14 +604,23 @@ Universos urbanísticos africanos
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
-
 A urbanização em regiões tropicais úmidas, do Sudeste asiático até a
 África, apresenta algumas características comuns. Ela parte de espaços
 rurais ocupados em baixa densidade, com uma divisão do solo pouco
 rígida. Como vimos no Sudeste asiático, essa divisão é baseada
 principalmente na repartição do acesso a recursos tangíveis, como hortas
-ou árvores frutíferas, entre famílias estendidas. Na África, as
+ou árvores frutíferas, entre famílias estendidas. Na África, e
+especialmente nas formas urbanas influenciadas pela cultura banto, as
 hierarquias comunitárias dão ordem à forma urbana.
+
+A principal diferença entre a urbanização do Sudeste asiático e a da
+África diz respeito à precedência do traçado viário ou da ocupação do
+espaço. Os *kampung* malaios são dispostos ao longo de caminhos
+estruturantes, e se adensam ao longo desses percursos predeterminados.
+Já nas formas de urbanização de influência banto na África, por mais
+diferentes que elas sejam entre si, é sempre a expansão e o adensamento
+do conjunto edificado que vão, gradualmente, constituindo o traçado
+viário.
 
 Longe de ser um exemplo de construção "primitiva" ou derivativa da
 influência islâmica, a arquitetura africana tem história e
@@ -617,7 +628,6 @@ desenvolvimento autônomo (não significa isolado). Estudos arqueológicos
 e antropológicos desde a década de 1980, sobretudo na África do Sul e na
 costa leste do continente, revolucionaram o entendimento acadêmico das
 tradições construtivas africanas.
-
 <!--/Câmera-->
 
 Na África tropical, dois modos de urbanizar se destacam pela sua
@@ -807,57 +817,81 @@ estendida, que tem a sua própria casa perto desse espaço central.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+Estruturação do espaço intra-muros: Tata somba
+----------------------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entre os batammaliba, na África ocidental, o complexo agropastoril é
-conhecido como *tata somba*. A sua arquitetura foi documentada pela
-arqueóloga americana [Suzanne Blier][] no final da década de 1980.
+Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
+conhecido como *tata somba* --- *tata* significa "casa" e *somba* é a
+designação formal desse grupo étnico (o termo *bètemmeribè* significa
+"bom construtor"). A sua arquitetura foi documentada pela arqueóloga
+americana [Suzanne Blier][] no final da década de 1980.
+
+Ver também:
+[Trailer do documentário *Sur un air de somba*](https://vimeo.com/25226651)
 
 [Suzanne Blier]: https://en.wikipedia.org/wiki/Suzanne_Blier
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
 ::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin](){#fig:batammalibaA width=100%}
+![Locação na região fronteiriça entre Togo e Benin. Fonte: @palazzo:2020batammaliba](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA width=100%}
 
-![Planta de um complexo batammaliba. Fonte: @james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy](){#fig:batammalibaB width=100%}
-
+![Planta de uma *tata*. Fonte: @james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy](https://www.integra.unb.br/s/nsqcdExaAjoTRjx/preview){#fig:batammalibaB width=100%}
 :::
 ::: {.column width=50%}
+![Vista exterior de uma *tata*. Fonte: @taberlet:2008koussoukoingou](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista exterior de um complexo batammaliba. Fonte: @taberlet:2008koussoukoingou](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+Redes políticas no território: Grande Zimbábue
+----------------------------------------------
 
+Adensamento da malha: Dogon
+---------------------------
+
+Delimitação do traçado urbano em Benim
+--------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+O extremo do processo de adensamento resulta em cidades compactas, com
+complexos familiares constituindo quarteirões que tendem a uma geometria
+ortogonal. Os complexos são separados por ruas retilíneas, porém ainda
+bastante largas. As casas se tornam retangulares e ocupam quase todo o
+perímetro do complexo, delimitando um pátio quadrado ou pouco alongado.
+<!--/Câmera-->
+
+O paradigma desse adensamento é a cidade de Benim, capital do império de
+mesmo nome, que atingiu o seu auge nos séculos XVI e XVII. Em 1897,
+durante a conquista colonial da atual Nigéria, Benin foi destruída pelo
+exército britânico.
+
+A cidade se organizava em volta do palácio real, e era cercada por uma
+muralha feita de terraplenos. Os mercados se situavam fora dos limites
+da cidade [@fig:benin-markets].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg/480px-Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg.png){width=100%}
+:::
+::: {.column width=50%}
+![Cidade de Benim e seus principais mercados extra-muros. Fonte: C. Punch *ap.* @roth:1903great, p. 135](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-
-
-
-:::
-::: {.column width=50%}
-
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
+pátios eram delimitados por casas de taipa com coberturas muito
+inclinadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Estruturação do espaço intra-muros
-----------------------------------
-
-Grande Zimbábue
----------------
-
-Delimitação do traçado urbano
------------------------------
+![Cidade de Benin. Desenho de um oficial do exército inglês, 1897. Fonte: @roth:1903great, p. 179](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897 .stretch}
 
 :::::: notes
-
-- Malha viária não é estruturante e sim estruturada, a partir da
-  crescente compacidade da agregação de CCPs.
 
 - Progressão: aldeia fula, grande Zimbábue, Dogon, Edo e Kumasi.
 - Quilombos
@@ -867,13 +901,75 @@ Delimitação do traçado urbano
 
 ::::::
 
+Máxima densidade urbana: Kumasi
+-------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O adensamento urbano no oeste da África atinge seu ponto máximo,
+provavelmente, em Kumasi, a capital da federação e reino Asante desde o
+final do século XVIII. Assim como Benim, Kumasi é uma cidade fortemente
+adensada [@fig:kumasi-plan] em torno do palácio real
+[@fig:kumasi-palace]. No entanto, o núcleo urbano tradicional não era
+amuralhado, e um caminho principal estruturante atravessa a cidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta da cidade de Kumasi em 1819. Fonte: @bowdich:1819mission](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .stretch}
+
+* * * *
+
+![Palácio real em Kumasi em 1874. Fonte: @king:1874](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os complexos familiares em Kumasi são extremamente compactos, formando
+um alinhamento contínuo sobre a rua [@fig:kumasi-frontage]. As casas
+ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
+menor que os de Benim [@fig:kumasi-shrine].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista de uma rua em Kumasi. Fonte: @bowdich:1819mission](https://www.integra.unb.br/s/QE8FSL4p63dyar4/preview){#fig:kumasi-frontage .stretch}
+
+* * * *
+
+![Pátio do santuário Ejisu-Besease em Kumasi. Fonte: @bosman:2006cnv00001](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .stretch}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
+Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das
+regiões tropicais desenvolve respostas convergentes para o problema da
+organização familiar e política do espaço. O ponto comum entre eles é a
+formação de redes edificadas no território que se adensam gradualmente
+do século XIV ao XVIII.
+
+Nesse universo, o urbanismo africano é peculiar porque delimita o
+traçado urbano a partir da expansão das habitações, e não o inverso.
+Desde as cidades mercantes da costa Suaíle, passando pelo *boma* banto e
+até as grandes capitais da África ocidental, vimos a rua ser
+gradualmente delimitada a partir da expansão física dos complexos
+familiares e da regularização da sua geometria.
+
+Um terceiro caso de urbanismo orgânico, desta vez na Europa, faz os dois
+movimentos em sequência --- primeiro de dentro para fora, ocupando o
+espaço a partir de uma praça central, e depois novamente de fora para
+dentro, adensando o tecido edificado quando este chega ao limite da
+expansão. Esse processo acontece em Veneza, do século IX ao XVI.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Campo, *calle* e canal em Veneza
 ==============================
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Veneza é uma das cidades mais densas do mundo, por força da necessidade
+da sua implantação. Construída em ilhas pantanosas de uma laguna, a
+cidade sempre teve limites bastante claros para a sua expansão. Mesmo a
+verticalização é limitada pela qualidade do solo. Chegando ao limite do
+crescimento *para fora*, só resta crescer *para dentro*, ocupando o
+interior dos lotes.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
   fora e novamente para dentro, tendo a malha viária (campo, calle e
