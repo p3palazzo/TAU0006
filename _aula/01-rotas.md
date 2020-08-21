@@ -343,36 +343,53 @@ Mediterrâneo.
 Cidades-estado e diferentes modelos de urbanização
 --------------------------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
 Nas margens desse sistema de rotas, várias cidades-estado prosperam
-graças ao controle de pontos de passagem obrigatórios. Majapahit e
+graças ao controle de pontos de passagem obrigatórios. Trowulan e
 Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
 costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
 especializadas no comércio durante os séculos XIV e XV. A forma urbana
 dessas cidades reflete as diferentes respostas que cada uma dá às
 necessidades funcionais do comércio e às condições geográficas e
 climáticas onde elas se desenvolvem.
-::::::
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![](){}
+Urbanismo bioclimático › Kampung malaio
+=======================================
 
-Kampung malaio: urbanismo tropical
-==================================
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+A passagem do século XIV para o XV marca o último período de auge das
+cidades-estado marítimas no sistema mundial. Esses lugares controlam
+pontos estratégicos na passagem de mercadorias em rotas comerciais de
+longa distância. Por isso, se desenvolvem formando redes de acesso a
+matérias-primas e a produtos manufaturados que atravessam continentes,
+culturas e religiões diversas.
+
+No Sudeste asiático, a matriz geradora do urbanismo é o *kampung*: uma
+gleba agrícola e residencial associada a uma família estendida ou a uma
+pequena comunidade política. As principais cidades mercantes se formam
+pelo adensamento gradual de vários *kampung* ao longo de caminhos
+estruturantes e à volta de templos e palácios fortificados.
+<!--/Câmera--> 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
 -----------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No universo das cidades-estado mercantes dos séculos XIV e XV, os reinos
-do Sudeste asiático se destacam pela sua diversidade étnica e
-religiosa. O império hindu-budista de Majapahit, na ilha de Java, e o
-sultanato muçulmano de Malacca, na península malaia, controlam o
-comércio marítimo de especiarias e as exportações chinesas para o
-Ocidente. Assim, Majapahit e Malacca se tornam portos comerciais muito
-movimentados. Mas, acima de tudo, essas cidades demonstram modos de
-organizar o espaço urbano e de construir perfeitamente adaptados ao
-clima equatorial.
-::::::
+do Sudeste asiático se destacam pela sua diversidade étnica e religiosa.
+O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
+de Java, e o sultanato muçulmano de Malacca, na península malaia,
+controlam o comércio marítimo de especiarias e as exportações chinesas
+para o Ocidente. Assim, Trowulan e Malacca se tornam centros de poder
+econômico e político muito prósperos. Mas, acima de tudo, essas cidades
+demonstram modos de organizar o espaço urbano e de construir
+perfeitamente adaptados ao clima equatorial.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Fonte: @kartapranata:2009imperio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png)
 
@@ -383,28 +400,16 @@ clima equatorial.
 Paradigmas urbanísticos e o difícil enquadramento das cidades malaias
 ---------------------------------------------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
 Caracterizar a urbanização malaia esbarra no problema do vocabulário que
 se usa para definir e descrever o que é "urbano". Até a segunda metade
 do século XX, estava mais ou menos entendido que uma *civilização* que
 se preze devia ter *cidades* --- e só contam como cidades os grandes
 assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 Índia e no "extremo Oriente".
-::::::
+<!--/Câmera-->
 
-:::::: incremental
-
-- Civilização
-
-- ↓
-
-- *Civitas* (cidade)
-
-::::::
-
-* * * *
-
-:::::: notes
 O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
 de grandes cidades com um sistema cartorial de propriedade do solo e uma
 distinção nítida entre espaço público e espaço privado. Essa diferença
@@ -419,18 +424,16 @@ inferior.
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
 Evers apresentou, na bibliografia ocidental, o urbanismo malaio como um
 paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=70%}
-
 ![Mapa da cidade de Cingapura. Fonte: @coleman:1839town](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 height=100%}
-
 :::
-
-::: {.column width=30%} ![Hans-Dieter
-Evers](https://www.integra.unb.br/s/akziGar2PaAr64x/preview){#fig:evers width=100%}
-::: ::::::
+::: {.column width=30%}
+![Hans-Dieter Evers](https://www.integra.unb.br/s/akziGar2PaAr64x/preview){#fig:evers width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Kampung como unidade básica da urbanização
 ------------------------------------------
@@ -585,9 +588,9 @@ morada chinesa e as galerias cobertas introduzidas pelos britânicos.
 Adensamento para dentro e para fora
 -----------------------------------
 
-:::::: notes
-O *kampung* malaio é um paradigma de urbanização tropical que parte de
-um assentamento rural e pode se desenvolver, por adensamentos
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *kampung* malaio é um paradigma de urbanização bioclimática que parte
+de um assentamento rural e pode se desenvolver, por adensamentos
 sucessivos, até formar um distrito urbano compacto
 [@fig:kampung-rochor]. Em contraste com esse tipo de adensamento *para
 dentro*, a urbanização dos povos bantos na África é um paradigma de
@@ -963,7 +966,7 @@ Campo, *calle* e canal em Veneza
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Veneza é uma das cidades mais densas do mundo, por força da necessidade
-da sua implantação. Construída em ilhas pantanosas de uma laguna, a
+da sua implantação. Edificada em ilhas pantanosas de uma laguna, a
 cidade sempre teve limites bastante claros para a sua expansão. Mesmo a
 verticalização é limitada pela qualidade do solo. Chegando ao limite do
 crescimento *para fora*, só resta crescer *para dentro*, ocupando o
@@ -971,17 +974,102 @@ interior dos lotes.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+Parcelamento urbano europeu
+---------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
+fundadora da urbanização europeia desde a Idade Média
+[@panerai:2006analise]. Nesse processo, as povoações se desenvolvem ao
+longo de um eixo estruturante no território. Ao mesmo tempo que os
+núcleos urbanos se estendem ao longo dos caminhos, eles se *espessam*
+para os fundos das glebas e se *adensam* para aproveitar com maior
+eficiência a proximidade aos equipamentos e espaços públicos mais
+demandados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Urbanismo de caminhos --- sequência](){}
+
+Tipologia
+---------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+A unidade básica da urbanização na Europa é o lote. A dimensão da
+testada do lote urbano tende a se padronizar em diferentes regiões; essa
+padronização segue as dimensões do tipo edilício de base ou *tipo
+portante* que domina o tecido urbano em cada região
+[@caniggia:1997metodologia]. Portanto, os requisitos do tipo portante
+determinam o módulo habitual da testada do lote, e o lote então
+condiciona as configurações arquitetônicas possíveis, favorecendo por
+sua vez a continuidade do tipo portante.
+<!--/Câmera-->
+
+Na Itália, a influência do império Romano deixou como legado um módulo
+de parcelamento do solo planejado, com lotes de 50 pés (17 metros) de
+testada ideal para casas-pátio suburbanas. Com o adensamento das
+colônias romanas, esses lotes tendem a ser subdivididos em dois. A
+testada resultante, de 8,5 metros, funciona tanto para as casas romanas
+com átrio quanto para as casas geminadas medievais, com corredor
+lateral.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Evolução do lote romano, baseada em @caniggia:1997analisi](){}
+
+Campo como gerador do traçado em Veneza
+---------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
+caminho estruturante que domina a formação de um espaço urbano linear.
+Em vez disso, o traçado urbanístico é estruturado por pontos focais:
+cada ilha tem um *campo* no seu interior, originalmente funcionando como
+horta, mercado e praça pública. A igreja do bairro e os lotes irradiam
+em volta do *campo*, dando os fundos para a água.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Campo S. Crisostomo, Veneza. Fonte: @muratori:1959studiIX](){.stretch}
+
+Adensamento e protagonismo dos canais
+-------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Com o gradual adensamento da ocupação e a necessidade de coordenar a
+cidade como um todo, os canais de Veneza começam a ganhar protagonismo
+ao longo da Idade Média. Novas frentes de lotes se estabelecem sobre os
+canais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Divisão dos lotes e adensamento final
+-------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As proporções dos lotes de Veneza motivam o desenvolvimento de um novo
+tipo de morada nobre: o palácio com *portego*, um salão no primeiro
+andar que atravessa a profundidade do edifício, da fachada até a
+elevação posterior.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 - Adensamento urbano de Veneza segundo Muratori, 1959: de dentro para
-  fora e novamente para dentro, tendo a malha viária (campo, calle e
-  canale) como elemento estruturante e o parcelamento do solo como
-  elemento estruturado.
-  Livro-texto p. 469
+  fora e novamente de fora para dentro, tendo a malha viária (campo,
+  calle e canale) como elemento estruturante e o parcelamento do solo
+  como elemento estruturado.
+
+Sistemas de movimento e sistemas espaciais
+------------------------------------------
 
 - Complexo urbano--arquitetônico da mesquita otomana: arejando
   Livro-texto p. 470--471
 
 - Excedente da prosperidade mercante permite investimento em arte
   erudita e virtuosismo construtivo.
+
+- Bacon: sistemas de movimento; ligação entre campi
+
+- Processo da praça de São Marcos
+
+Urbanismo europeu e historicidade
+---------------------------------
 
 - Gancho: um dos problemas seguintes.
   - Historicidade dos desenvolvimentos espaciais e construtivos tem sido
