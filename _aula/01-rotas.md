@@ -207,10 +207,6 @@ do território [@fig:versailles-patel].
 
 ![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
 
-![Tábuas de Urbino](){#fig:urbino .stretch}
-
-<!--![Jacopo de' Barbari. Vista de Veneza em 1500, conjunto de seis xilografias sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png/1280px-Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png){.stretch}-->
-
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
