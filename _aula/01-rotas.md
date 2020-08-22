@@ -20,112 +20,117 @@ Introdução à história da arquitetura na Idade Moderna
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
-para menos, mas isso não importa. Exatamente em 1420, começa a
-construção de dois monumentos que redefinem os caminhos da arquitetura
-nas suas sociedades respectivas: o pavilhão de oração pela colheita no
-templo do Céu, em Pequim [@fig:harvest], e a cúpula da catedral Santa
-Maria del Fiore, em Florença [@fig:smfiore].
+para menos, mas isso não importa. Exatamente em 1420, termina a
+reconstrução do palácio imperial em Pequim, conhecido no Ocidente como a
+"Cidade proibida" [@fig:danei]. No mesmo ano, começa a ser erigida a
+cúpula da catedral Santa Maria del Fiore, em Florença [@fig:smfiore]. Os
+dois monumentos se apresentam como resgate e renovação de uma
+arquitetura *correta* herdada da Antiguidade.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Pavilhão de oração pela colheita, templo do Céu, Pequim, iniciado em 1420. Fonte: @joh:2006temple](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2_Temple_of_Heaven.jpg/1024px-2_Temple_of_Heaven.jpg){#fig:harvest .stretch}
+![Detalhe do rolo pintado do palácio, Pequim, século XV. Fonte: @beijing:14--](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .stretch}
 :::
 ::: {.column width=50%}
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Fonte: @czarnowski:2015firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Florence_duomo_fc10.jpg/576px-Florence_duomo_fc10.jpg){#fig:smfiore .stretch}
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Desenho de @cigoli:1613duomo](https://upload.wikimedia.org/wikipedia/commons/8/83/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29.Duomo_di_Firenze.jpg){#fig:smfiore .stretch}
 :::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses dois projetos dão o tom para um processo de consolidação das
+tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
+tradições se estabilizam em torno de de uma concepção do ofício da
+arquitetura inspirada em antigos tratados. Ao mesmo tempo, o conjunto
+arquitetônico imperial em Pequim e as novas construções do século XV em
+Florença dão a partida numa exploração de configurações cada vez mais
+diversificadas do espaço interior e exterior.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Interpretação do passado e prática profissional
+-----------------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+A busca por justificação teórica no passado é libertadora para a criação
+artística: ela demanda interpretação das fontes escritas e arqueológicas
+e, por meio dessa interpretação, permite ir além das convenções e
+técnicas consagradas no presente. Quanto mais se afirma a autoridade do
+modelo dito *clássico*, tanto mais a livre interpretação desse modelo
+passa a ser uma forma de resistência intelectual contra imposições
+autoritárias. Assim se desenvolve o conceito das artes visuais como
+trabalho *intelectual*.
+<!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-<!--Câmera-->
-Esses dois projetos dão o tom para um processo de consolidação das
-tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
-tradições se estabilizam em torno de de uma concepção do ofício da
-arquitetura inspirada em antigos tratados. Ao mesmo tempo, o pavilhão no
-templo do Céu e a cúpula da catedral de Florença dão a partida numa
-exploração de configurações cada vez mais diversificadas do espaço
-interior e exterior.
-
-Esse duplo movimento da arquitetura na Idade Moderna vai ser o nosso fio
-condutor daqui para a frente.
+Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
+filosofia escolástica e o estilo gótico desde o século XII
+[@panofsky:2001arquitetura]. A partir do século XV, ela passa a ocupar
+um lugar central na reflexão sobre o trabalho artístico e o lugar da
+criação humana na ordem do mundo [@fig:veduta1495].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::: notes
-O propósito da cadeia de disciplinas de Teoria e História da Arquitetura
-e do Urbanismo, incluindo Estética e História das Artes, é subsidiar,
-por meio do conhecimento de repertórios formais e teorias, a qualidade
-da concepção e da prática de arquitetura, urbanismo e paisagismo, bem
-como fomentar a reflexão crítica e a pesquisa. Visamos a constituir uma
-cultura histórica geral, além de repertórios de soluções projetuais e,
-mais importante, fomentar a reflexão crítica sobre a produção do
-ambiente construído ao longo do tempo.
-
-A formação do espaço urbano moderno e a evolução do ofício da
-arquitetura são os temas dominantes que norteiam o conteúdo. Embora a
-relação entre o contexto político ou socioeconômico e a produção das
-edificações e das cidades seja uma abordagem presente ao longo do
-semestre, vamos nos afastar da equivocada percepção de uma pretensa
-correspondência direta entre estilos arquitetônicos e ideologias ou
-sistema político-econômicos. Por fim, vamos ultrapassar os limites da
-ementa, procurando manter sempre que possível uma perspectiva mundial.
-
-- Narrativa do semestre:
-  - *Espaço*: controlá-lo passa a ser preocupação central da arte e da
-    técnica em todas as escalas;
-  - *Profissão*: desenvolvimento de tradições centradas na autoridade
-    do corpo de conhecimentos do ofício.
-::::::
+![Anônimo do século XV. Perspectiva arquitetônica com porto. Fonte: @perspectiva:1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .stretch}
 
 Espaço artístico e arquitetônico como problema intelectual
 ----------------------------------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
 Dois temas dominam a teoria e a prática da arquitetura e da pintura,
 desde o século XV até o XVIII: constituir um campo de *saber
 disciplinar* para a profissão e explorar maneiras de organizar e
 representar o *espaço*. Essas duas preocupações se iluminam mutuamente
 tanto na Ásia oriental quanto na Europa ocidental.
+<!--/Câmera-->
 
 Os problemas de como *dar forma* ao espaço e como *representar* essa
 forma no desenho e na pintura se tornam centrais na China da dinastia
-Ming (1368--1644) e na Itália gótica, durante o século XIV. Nos dois
-casos, o desenvolvimento de técnicas espaciais vem associado a uma
-discussão sobre o lugar dos conhecimentos artísticos e arquitetônicos no
-campo dos saberes *intelectuais*, e portanto sobre o papel do próprio
-artista e do arquiteto numa sociedade letrada.
+Ming (1368--1644) [@fig:qiu-han] e na Itália do primeiro Renascimento, a
+partir de meados do século XIV [@fig:buongoverno].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-A distinção antiga e medieval entre *artes liberais* --- os produtos do
-raciocínio lógico e da retórica, como História, Geometria, Música e
-Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
-que nós hoje consideramos como *artísticas* --- vai sendo questionada e
-reformulada.
-::::::
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .stretch}
 
-:::::: incremental
+* * * *
+
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .stretch}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nos dois casos, o desenvolvimento de
+técnicas espaciais vem associado a uma discussão sobre o lugar dos
+conhecimentos artísticos e arquitetônicos no campo dos saberes
+*intelectuais*, e portanto sobre o papel do próprio artista e do
+arquiteto numa sociedade letrada e no contexto das chamadas *artes
+liberais*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Artes visuais como artes liberais
+---------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - As artes *liberais* --- como História, Matemática --- fornecem
   conhecimentos e métodos que legitimam as artes plásticas e a
   arquitetura.
+
 - A arquitetura e as artes plásticas ilustram e interpretam a visão de
   mundo formulada pelo conhecimento intelectual, mas também pelo poder
   político.
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Lugar dos saberes profissionais na hierarquia intelectual e no poder político
------------------------------------------------------------------------------
-
-:::::: notes
-Participam de um debate crucial nas civilizações letradas da Idade
-Moderna sobre:
-::::::
-
-:::::: incremental
-- A autoridade dos modelos Antigos
-- O conceito de "progresso" e o papel do Estado
-- A Tradição como forma de resistência
-::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Com o Renascimento, a distinção entre *artes liberais* --- os produtos
+do raciocínio lógico e da retórica, como História, Geometria, Música e
+Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
+que nós hoje consideramos como *artísticas* --- vai então sendo
+questionada e reformulada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A disciplina da arquitetura
 ---------------------------
