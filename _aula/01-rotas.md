@@ -135,13 +135,19 @@ questionada e reformulada.
 A disciplina da arquitetura
 ---------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
 Na Ásia oriental e na Europa ocidental, a partir do século XV, as artes
 visuais em geral e a arquitetura em particular se consolidam como um
 *corpo de conhecimentos* teóricos e técnicos registrados por escrito em
 *tratados*: livros impressos que reivindicam uma autoridade normativa
 herdada da cultura clássica [@choay:1986regra].
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A China sai em vantagem com o [*Yingzao
 fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
 [@fig:yingzao-fashi], um livro impresso e ilustrado do ano 1103 --- 350
@@ -163,18 +169,18 @@ Uma das interpretações mais refinadas dessa arquitetura inspirada na
 Antiguidade clássica é o *Sistema das cinco espécies de colunas segundo
 o método dos Antigos*, publicado em 1683 pelo francês Claude Perrault
 (1613--1688). Mas o *Sistema* de Perrault é também um dos últimos desse
-gênero.
-::::::
+gênero: no século XVIII, a universalidade do conhecimento arquitetônico
+*clássico* enfrenta uma crise de legitimidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){.stretch #fig:yingzao-fashi}
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){.stretch #fig:yingzao-fashi} 
 :::
-
 ::: {.column width=50%}
-![Cinco ordens de arquitetura por Claude Perrault. Fonte: @perrault:1683ordonnance](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){.stretch #fig:perrault-ordonnance}
+![Cinco ordens de arquitetura por Claude Perrault -@perrault:1683ordonnance](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){.stretch #fig:perrault-ordonnance} 
 :::
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Domínio do espaço
 -----------------
@@ -192,16 +198,18 @@ literalmente, num só golpe de vista.
 
 * * * *
 
-:::::: notes
-Esse golpe de vista pode ser figurado: nos séculos XV a XVII as vistas
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse golpe de vista pode ser simbólico: nos séculos XV a XVII as vistas
 panorâmicas de cidades aparecem associadas à afirmação da justiça
-municipal, da conquista militar ou da capacidade de ordenamento do
-espaço urbano.
-::::::
+municipal, da conquista militar ou da capacidade política de ordenamento
+do território [@fig:versailles-patel].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
 
 ![Tábuas de Urbino](){#fig:urbino .stretch}
 
-![Jacopo de' Barbari. Vista de Veneza em 1500, conjunto de seis xilografias sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png/1280px-Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png){.stretch}
+<!--![Jacopo de' Barbari. Vista de Veneza em 1500, conjunto de seis xilografias sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png/1280px-Jacopo_de%27_Barbari_-_Venetie_MD_retouched.png){.stretch}-->
 
 * * * *
 
@@ -214,9 +222,9 @@ central, que por um breve momento dá lugar à autonomia burguesa.
 <!--Câmera-->
 Por tudo isso, o espaço urbano na virada do século XIV é o nosso ponto
 de partida e também a base que vai nos acompanhar ao longo de todo o
-estudo da arquitetura até o final do século XVIII. A diversidade de
-configurações urbanas por volta do ano 1400 vai nos ocupar pelos
-próximos quatro vídeos.
+estudo da arquitetura até o final do século XVIII. Durante todo esse
+período, as redes mundiais de comércio e de trocas culturais não impedem
+o desenvolvimento de formas urbanas muito variadas.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -224,7 +232,10 @@ próximos quatro vídeos.
 
 
 Mundos conectados no início do século XIV
------------------------------------------
+=========================================
+
+Sistemas mundiais
+-----------------
 
 :::::: notes
 A "[Globalização](https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o)"
