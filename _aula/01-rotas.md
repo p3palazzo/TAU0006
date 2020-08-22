@@ -191,10 +191,10 @@ visuais e da arquitetura do século XV em diante, a cidade é onde esse
 domínio se exercita antes de se ampliar para a escala de territórios
 regionais ou nacionais no século XVIII. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
-literalmente, num só golpe de vista [@fig:catena]. 
+literalmente, num só golpe de vista [@fig:carnevale].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Francesco di Lorenzo Rosselli (atribuição). Vista de Florença conhecida como Pianta della Catena, 1470](https://upload.wikimedia.org/wikipedia/commons/7/7b/Francesco_Rosselli_%28attribution%29._Pianta_della_Catena%2C_1470.jpg){.stretch}
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .stretch}
 
 * * * *
 
