@@ -185,14 +185,14 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 Domínio do espaço
 -----------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Se o domínio global do espaço é a preocupação dominante das artes
 visuais e da arquitetura do século XV em diante, a cidade é onde esse
 domínio se exercita antes de se ampliar para a escala de territórios
 regionais ou nacionais no século XVIII. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
-literalmente, num só golpe de vista.
-::::::
+literalmente, num só golpe de vista [@fig:catena]. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Francesco di Lorenzo Rosselli (atribuição). Vista de Florença conhecida como Pianta della Catena, 1470](https://upload.wikimedia.org/wikipedia/commons/7/7b/Francesco_Rosselli_%28attribution%29._Pianta_della_Catena%2C_1470.jpg){.stretch}
 
@@ -213,18 +213,23 @@ do território [@fig:versailles-patel].
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
 Outras vezes, como na pintura da escola *tosa* no Japão do século XVI e
 início do XVII, podem celebrar o fato efêmero da fragmentação do poder
-central, que por um breve momento dá lugar à autonomia burguesa.
-
-<!--Câmera-->
-Por tudo isso, o espaço urbano na virada do século XIV é o nosso ponto
-de partida e também a base que vai nos acompanhar ao longo de todo o
-estudo da arquitetura até o final do século XVIII. Durante todo esse
-período, as redes mundiais de comércio e de trocas culturais não impedem
-o desenvolvimento de formas urbanas muito variadas.
-<!--/Câmera-->
+central, que por um breve momento dá lugar à autonomia burguesa
+[@fig:funaki].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){.stretch}
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Por tudo isso, o espaço urbano na virada do século XIV é o ponto de
+partida e a base indispensável para o estudo da arquitetura até o final
+do século XVIII. Durante todo esse período, as redes mundiais de
+comércio e de trocas culturais ainda permite o desenvolvimento de formas
+urbanas muito variadas.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 Mundos conectados no início do século XIV
@@ -233,8 +238,10 @@ Mundos conectados no início do século XIV
 Sistemas mundiais
 -----------------
 
-:::::: notes
-A "[Globalização](https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o)"
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+
+
+A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
 XVI a XIX, foi tão brutal que às vezes perdemos de vista o quanto essas
@@ -249,41 +256,44 @@ No início do século X, os vikings se estabeleceram na Groenlândia, de
 onde faziam comércio com os povos do Ártico. Do século XI ao XIV, eles
 visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
 na costa oeste do Atlântico norte.
-::::::
 
-:::::: {.columns}
-::: {.column width=50%}
-![Mundo nórdico, séculos X--XIV. Mapa por @redgeographics:2016map](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%}
-:::
+[Globalização]: https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Triângulo polinésio e migrações até o século X. Mapa por
-@eccles:2008orthographic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%}
+![Mundo nórdico, séculos X--XIV. Mapa por @redgeographics:2016map](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
 :::
-::::::
+::: {.column width=50%}
+![Triângulo polinésio e migrações até o século X. Mapa por @eccles:2008orthographic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
 costa da América do Sul no século
 XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
 Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
 doce e ervas medicinais.
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Expansão polinésia até o século XIII. Fonte: @benton:2012complete7](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png){width=100%}
 
 Oceano Índico no centro do mundo
 --------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nas redes globais do século XIV em diante, o oceano Índico ocupa um
+lugar privilegiado.
+
 Segundo a historiadora da urbanização [Janet Lippman Abu-Lughod
 (1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), existia
 um "sistema mundial" entre 1250 e 1350 centrado no comércio marítimo do
 oceano Índico. A Europa e a China ocupavam uma posição periférica nesse
-sistema, dominado por mercadores árabes e navegantes malaios.
-::::::
+sistema, dominado por mercadores muçulmanos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::: {.columns}
 ::: {.column width=30%}
