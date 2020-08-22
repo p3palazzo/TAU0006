@@ -22,26 +22,26 @@ Introdução à história da arquitetura na Idade Moderna
 O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
 para menos, mas isso não importa. Exatamente em 1420, começa a
 construção de dois monumentos que redefinem os caminhos da arquitetura
-nas suas sociedades respectivas: o pavilhão da boa colheita no templo do
-Céu, em Pequim, e a cúpula da catedral Santa Maria del Fiore, em
-Florença.
+nas suas sociedades respectivas: o pavilhão de oração pela colheita no
+templo do Céu, em Pequim [@fig:harvest], e a cúpula da catedral Santa
+Maria del Fiore, em Florença [@fig:smfiore].
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Templo do Céu, Pequim, iniciado em 1420](){#fig:harvest .stretch}
+![Pavilhão de oração pela colheita, templo do Céu, Pequim, iniciado em 1420. Fonte: @joh:2006temple](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2_Temple_of_Heaven.jpg/1024px-2_Temple_of_Heaven.jpg){#fig:harvest .stretch}
 :::
 ::: {.column width=50%}
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420](){#fig:cupola .stretch}
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Fonte: @czarnowski:2015firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Florence_duomo_fc10.jpg/576px-Florence_duomo_fc10.jpg){#fig:smfiore .stretch}
 :::
-::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
-Os dois projetos dão o tom para um processo de consolidação das
+Esses dois projetos dão o tom para um processo de consolidação das
 tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
 tradições se estabilizam em torno de de uma concepção do ofício da
 arquitetura inspirada em antigos tratados. Ao mesmo tempo, o pavilhão no
