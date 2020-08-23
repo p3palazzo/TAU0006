@@ -683,7 +683,7 @@ eles se adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Universos urbanísticos africanos](){#fig:urb-africa height=100%}
+![Universos urbanísticos africanos, séculos XIV--XVIII](https://www.integra.unb.br/s/8jk3YRjL8aRrLt3/preview){#fig:urb-africa height=100%}
 
 Cidades mercantes da costa suaíle
 ---------------------------------
@@ -700,7 +700,6 @@ importante.
 [ccosta Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
 
 <!--Câmera-->
-
 Estuários de rios, baías e ilhas ao longo da costa se tornam
 pontos de trocas entre os produtos trazidos do interior do continente e
 aqueles que chegam em navios árabes, persas, indianos e malaios, junto
@@ -712,11 +711,10 @@ Nos séculos XVI e XVII, as cidades suaíle perdem poder econômico para as
 grandes potências marítimas da época: Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
 antigas cidades-estado acabam sendo abandonadas.
-
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Principais cidades e eixos comerciais da costa suaíle](){#fig:costa-suaile .stretch}
+![Principais cidades e eixos comerciais da costa suaíle](https://www.integra.unb.br/s/QW7KRZKigd7ipy4/preview){#fig:costa-suaile .stretch}
 
 * * * *
 
