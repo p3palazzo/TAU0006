@@ -239,8 +239,6 @@ Sistemas mundiais
 -----------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-
-
 A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
@@ -281,18 +279,73 @@ doce e ervas medicinais.
 
 ![Expansão polinésia até o século XIII. Fonte: @benton:2012complete7](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png){width=100%}
 
+Difusionismo
+------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um dos primeiros manuais de história da arquitetura a incluir a América
+precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
+adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
+"pirâmides" dos maias e astecas como uma importação dos terraplenos
+chineses [@fig:choisy]. Na cabeça de um europeu do final do século XIX,
+chineses atravessando o oceano Pacífico na mais remota Antiguidade
+parecia mais provável do que uns "índios no meio da selva" sendo capazes
+de criar arquitetura monumental.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:choisy .columns}
+::: {.column width=70%}
+![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas -@choisy:1899histoire1, 198](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisyA width=100%} 
+:::
+::: {.column width=50%}
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){#fig:choisyB width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+História da arquitetura e colonialismo
+--------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa de interpretações como essa, a ideia de um mundo antigo e
+medieval globalmente conectado tende a ser olhada com uma desconfiança
+compreensível hoje em dia. Em mais de uma ocasião, o argumento da
+circulação mundial na Antiguidade foi usado para sustentar teses
+colonialistas, de que certos povos não seriam capazes de desenvolver uma
+arquitetura monumental sem ajuda externa [@fig:aliens].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/bpkqqCeKXQLwGWw/preview){#fig:aliens}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para além disso, a hegemonia tecnológica e política que a Europa atingiu
+no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
+visão europeia da época, a evolução seria essencialmente linear
+[@fig:civ6], e todas as sociedades que seguiram outro percurso cultural
+e tecnológico que não o europeu seriam, portanto, "primitivas".
+
+Desmentindo essa visão linear que tende a justificar a colonização dos
+"primitivos" pelos "modernos", os territórios em volta do oceano Índico
+no século XIV abrigam uma grande variedade de sociedades com modelos
+culturais e urbanísticos diversos. Esse conjunto forma a maior rede
+comercial do mundo no início da Idade Moderna.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+!["Árvore" tecnológica linear no jogo *Civilization VI*](https://www.integra.unb.br/s/72z6t35Fb9eWkY2/preview){#fig:civ6 .stretch}
+
 Oceano Índico no centro do mundo
 --------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas redes globais do século XIV em diante, o oceano Índico ocupa um
-lugar privilegiado.
-
-Segundo a historiadora da urbanização [Janet Lippman Abu-Lughod
-(1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), existia
-um "sistema mundial" entre 1250 e 1350 centrado no comércio marítimo do
-oceano Índico. A Europa e a China ocupavam uma posição periférica nesse
-sistema, dominado por mercadores muçulmanos.
+lugar privilegiado como articulador de trocas econômicas, culturais e
+religiosas. Segundo a historiadora da urbanização [Janet Lippman
+Abu-Lughod (1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), o
+"sistema mundial" centrado no comércio marítimo do oceano Índico dominou
+o comércio internacional entre 1250 e 1350. A Europa e a China ocupavam
+uma posição periférica nesse sistema, controlado por mercadores
+muçulmanos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::: {.columns}
@@ -305,48 +358,14 @@ sistema, dominado por mercadores muçulmanos.
 :::
 ::::::
 
-Difusionismo
-------------
-
-:::::: notes
-A ideia de um mundo antigo e medieval globalmente conectado não é
-novidade, mas ela tende a ser olhada com desconfiança desde a segunda
-metade do século XX. Em algumas ocasiões, o argumento da circulação
-mundial na Antiguidade foi usado para sustentar teses colonialistas, de
-que certos povos não seriam capazes de desenvolver uma arquitetura
-monumental sem ajuda externa.
-::::::
-
-![](https://www.integra.unb.br/s/bpkqqCeKXQLwGWw/preview)
-
-* * * *
-
-:::::: notes
-Um dos primeiros manuais de história da arquitetura a incluir a América
-precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
-adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
-"pirâmides" dos maias e astecas como uma importação dos terraplenos
-chineses.
-::::::
-
-:::::: {.columns}
-::: {.column width=70%}
-![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas -@choisy:1899histoire1, 198](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){width=100%}
-:::
-
-::: {.column width=30%}
-![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){width=100%}
-::: 
-::::::
-
 Reorganização das potências políticas e econômicas no século XV
 ---------------------------------------------------------------
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma combinação de mudanças climáticas, pandemias e reestruturações
 político-econômicas em todos os continentes afeta as redes comerciais e
 culturais em meados do século XIV e provoca a ruptura de muitas conexões
-globais. O resfriamento global em meados do século XIV dá o pontapé
+globais. Um resfriamento global dá o pontapé
 inicial numa sequência de choques que levam à reorganização econômica e
 política da era moderna. O mais famoso desses choques é a pandemia de
 peste que se espalha da China para a Europa no ano de 1348.
@@ -357,10 +376,10 @@ continuam sendo os caminhos estruturantes. Os mercadores muçulmanos
 escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
 sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegam à costa leste da África e ao
-Mediterrâneo. 
-::::::
+Mediterrâneo [@fig:indico-redes].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](../01-indico-rotas-e-cidades.svg){height=100%}
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://www.integra.unb.br/s/K3w7Ys3xRqBeWnw/preview){#fig:indico-redes height=100%}
 
 Cidades-estado e diferentes modelos de urbanização
 --------------------------------------------------
@@ -405,19 +424,19 @@ Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
 No universo das cidades-estado mercantes dos séculos XIV e XV, os reinos
 do Sudeste asiático se destacam pela sua diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
-de Java, e o sultanato muçulmano de Malacca, na península malaia,
-controlam o comércio marítimo de especiarias e as exportações chinesas
-para o Ocidente. Assim, Trowulan e Malacca se tornam centros de poder
-econômico e político muito prósperos. Mas, acima de tudo, essas cidades
-demonstram modos de organizar o espaço urbano e de construir
-perfeitamente adaptados ao clima equatorial.
+de Java [@fig:majapahit], e o sultanato muçulmano de Malacca
+[@fig:malacca], na península malaia, controlam o comércio marítimo de
+especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
+Malacca se tornam centros de poder econômico e político muito prósperos.
+Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
+urbano e de construir perfeitamente adaptados ao clima equatorial.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Fonte: @kartapranata:2009imperio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png)
+![Arquipélago de Nusantara no auge do império Majapahit, século XIV. Fonte: @kartapranata:2009imperio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit height=100%}
 
 ## {data-transition="fade-in"}
 
-![Sultanato de Malacca no final do século XV. Fonte: @kartapranata:2011sultanato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png)
+![Sultanato de Malacca no final do século XV. Fonte: @kartapranata:2011sultanato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca height=100%}
 
 Paradigmas urbanísticos e o difícil enquadramento das cidades malaias
 ---------------------------------------------------------------------
@@ -441,11 +460,12 @@ XVII e XIX, quando os colonizadores europeus segregaram as cidades
 malaias em bairros ocidentais, chineses e "nativos".
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
-britânicos consideravam o *kampung* malaio como primitivo ou
-inferior.
+britânicos consideravam o *kampung* malaio como primitivo ou inferior
+[@fig:singapore1839].
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
-Evers apresentou, na bibliografia ocidental, o urbanismo malaio como um
-paradigma alternativo ao do urbanismo chinês, e igualmente legítimo.
+Evers [@fig:evers] apresentou, na bibliografia ocidental, o urbanismo
+malaio como um paradigma alternativo ao do urbanismo chinês, e
+igualmente legítimo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
