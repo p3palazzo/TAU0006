@@ -677,12 +677,13 @@ tradições construtivas africanas.
 
 Na África tropical, dois modos de urbanizar se destacam pela sua
 expansão geográfica e cronológica: as cidades mercantes da costa Suaíle,
-no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo.
-Esses dois modos são bem distintos entre si porque eles se adaptaram a
-contextos ambientais, econômicos e culturais muito diferentes.
+no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
+[@fig:urb-africa]. Esses dois modos são bem distintos entre si porque
+eles se adaptaram a contextos ambientais, econômicos e culturais muito
+diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Universos urbanísticos africanos](){#fig:urb-africa}
+![Universos urbanísticos africanos](){#fig:urb-africa height=100%}
 
 Cidades mercantes da costa suaíle
 ---------------------------------
