@@ -641,8 +641,9 @@ adensamento *para fora*.
 
 ![Kampung Rochor, Cingapura, 1822, demolido em 1964. Fonte: Arquivo Nacional de Cingapura *ap.* @binsharifuddeen:kampung](https://www.integra.unb.br/s/iQs7ea5yw4GpK6o/preview){#fig:kampung-rochor .stretch}
 
-Do *boma* banto às cidades da Guiné
-=================================
+
+Cidades da costa Suaíle
+=======================
 
 Universos urbanísticos africanos
 --------------------------------
@@ -692,10 +693,10 @@ Cidades mercantes da costa suaíle
 A [costa Suaíle][] é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
-fundadas e habitadas por povos de etnia banto que falam a língua suaíle.
-Os banto migraram para essa região no primeiro milênio antes de Cristo,
-e no século I a.C. o litoral do Índico já era uma rota comercial
-importante.
+fundadas e habitadas por povos de etnia banto que falam a língua suaíle
+[@fig:costa-suaile]. Os banto migraram para essa região no primeiro
+milênio antes de Cristo, e no século I a.C. o litoral do Índico já era
+uma rota comercial importante.
 
 [ccosta Suaíle]: https://en.wikipedia.org/wiki/Swahili_coast
 
@@ -710,26 +711,35 @@ atingem o seu auge entre os séculos XII e XIV.
 Nos séculos XVI e XVII, as cidades suaíle perdem poder econômico para as
 grandes potências marítimas da época: Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
-antigas cidades-estado acabam sendo abandonadas.
+antigas cidades-estado são abandonadas.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Principais cidades e eixos comerciais da costa suaíle](https://www.integra.unb.br/s/QW7KRZKigd7ipy4/preview){#fig:costa-suaile .stretch}
 
-* * * *
+## {data-background-iframe="https://www.youtube.com/embed/j5HNhGcgKfk" data-background-interactive}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por causa disso e das hierarquias raciais em vigor no século XIX,
-durante muito tempo as pesquisas ocidentais consideraram as cidades da
-costa suaíle como pertencentes à esfera cultural arabo--persa. Os
+Por causa dessa partilha, e das hierarquias raciais em vigor no século
+XIX, durante muito tempo as pesquisas ocidentais consideraram as cidades
+da costa suaíle como pertencentes à esfera cultural arabo--persa. Os
 europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 Usam Ghaidan defendeu a sua dissertação de mestrado demonstrando que as
 raízes socioeconômicas, culturais e construtivas da cidade suaíle de
-Lamu são, de fato, africanas.
+Lamu [@fig:lamu-mosque] são, de fato, africanas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mesquitas de Lamu. Fonte: @ghaidan:1974lamu](){#fig:ghaidan-lamu .stretch}
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:lamu-mosque .columns}
+::: {.column width=50%}
+![Planta. Fonte: @ghaidan:1974lamu](){#fig:lamu-mosqueA .stretch} 
+:::
+::: {#fig:lamu-mosqueB .column width=50%}
+Modelo tridimensional. Fonte: @zamaniproject:2016animation
+:::
+Mesquita em Shela, Lamu, 1738 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 Traçado urbano e hierarquia social
 ----------------------------------
@@ -737,37 +747,58 @@ Traçado urbano e hierarquia social
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado geral das cidades suaíle não decorre de um plano centralizado,
 mas se organiza a partir de princípios culturais partilhados. A
-arqueóloga inglesa [Stephanie Wynne-Jones][] aponta, na configuração
-urbana de Sofala, uma hierarquia entre significados sociais elevados,
-intermediários e cotidianos [@wynne-jones:2014swahili, 6].
+arqueóloga inglesa [Stephanie Wynne-Jones][] mostra que a formação do
+traçado urbano suaíle [@fig:takwa] acontece pela reconstrução sucessiva
+de bairros com casas em adobe, que são substituídos por bairros com
+casas em pedra [@wynne-jones:2014swahili, 121].
 
 [Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=30%}
-
-![Stephanie Wynne-Jones](){#fig:wynne-jones width=100%}
-
+![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.integra.unb.br/s/gcTRtpjfjR4NBAe/preview){#fig:wynne-jones width=100%} 
 :::
 ::: {.column width=70%}
-![Planta arqueológica da cidade de Sofala](){#fig:sofala .stretch}
-
+![Planta arqueológica da cidade de Takwa](https://www.integra.unb.br/s/dsonB9RaBk333e9/preview){#fig:takwa .stretch} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Cidade orgânica e ordem política
+--------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Durante o processo de consolidação e adensamento da cidade, a autoridade
+política se faz presente em vários níveis. O palácio, geralmente
+fortificado e associado à mesquita maior, domina o porto. Os bairros
+são, pelo menos num primeiro momento, associados a grupos familiares
+estendidos [@fig:shanga]. A proximidade dos bairros ao palácio indica a
+hierarquia social da nobreza mercante.
+
+<!--Câmera-->
+A construção política da cidade suaíle consiste em atribuir significado
+social aos espaços livres urbanos [@wynne-jones:2014swahili]. A
+consolidação desses significados direciona o crescimento orgânico do
+tecido construído, preservando os espaços abertos com importância
+cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
+mercados.
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Esquema do assentamento inicial de Shanga. Fonte: Horton *ap.* @fleisher:2012finding29](https://www.integra.unb.br/s/RQH7GfFqoJD6B44/preview){#fig:shanga .stretch}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Em Quíloa, palácios e mesquitas sinalizam o centro de cada núcleo
-urbano. As ilhas de Quíloa são cercadas de arrecifes, e os corais
-fossilizados se transformam em pedra calcária. Essas pedras são o
-material de construção usado para as paredes e abóbodas dos palácios e
-das mesquitas, mas também para as casas dos principais comerciantes.
-Corais vivos são usados para executar acabamentos coloridos.
+O próprio comércio tem significado político: a compra e venda dos
+carregamentos dos navios e das caravanas acontece no palácio
+[@fig:kllaa-pllacio] e nas residências da nobreza mercante
+[@allen:1981swahili14]. Essa atividade se distingue, assim, do mercado
+de subsistência local, que acontece nos largos junto às portas da cidade
+e nos bairros de casas de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ruínas da mesquita maior de Quíloa](){#fig:kilwa-mesquita .stretch}
+![Planta do palácio de Quíloa Quisiuane. Fonte: @pradines:2018nouveau](https://www.integra.unb.br/s/pkXfwFgi9cnyEPB/preview){#fig:kilwa-palacio .stretch}
 
 Habitação e comércio
 --------------------
@@ -776,58 +807,84 @@ Habitação e comércio
 Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
 em calcário de coral, se organizam em bairros em volta do palácio e do
-porto. As classes baixas constroem as suas casas em pau-a-pique na
-periferia, do lado de fora das muralhas. As moradias, principalmente
-aquelas perto do centro urbano, tendem a se alinhar e a formar ruas que
-se adensam gradualmente.
+porto. As classes baixas constroem as suas casas em adobe e pau-a-pique
+na periferia, do lado de fora das muralhas [@fig:gedi-plan]. As
+moradias, principalmente aquelas perto do centro urbano, tendem a se
+alinhar e a formar ruas que se adensam gradualmente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Complexo de casas suaíle em Sofala](){#fig:casas-swahili .stretch}
+![Planta arqueológica da cidade de Gedi. Fonte: @wynne-jones:2014swahili](https://www.integra.unb.br/s/XExoXDgjA266fGb/preview){#fig:gedi-plan .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desse modo, o adensamento da cidade suaíle acontece de modo
+semelhante ao do *kampung* malaio. As casas são construídas deixando
+bastante espaço livre entre elas, espaço que é usado inicialmente para
+hortas e jardins. Aos poucos, o espaço livre vai sendo preenchido pela
+ampliação das casas. Esse processo resulta numa malha urbana compacta
+[@fig:lamu-plan].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Plano de conservação da área central de Lamu. Fonte: @mwenje:2019case](https://www.integra.unb.br/s/mj5AWwBn94MfSCR/preview){#fig:lamu-plan .stretch}
+
+Tipologia da casa de pedra suaíle
+---------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As casas da elite mercante sempre têm a entrada principal voltada para o
 norte ou, mais raramente, para o leste. Essas casas são uma simples
-enfiada transversal de cômodos quadrados, gradualmente ampliada para
-cima, para os lados e para os fundos conforme a necessidade. Por isso,
-elas são construídas deixando bastante espaço livre entre elas, espaço
-que é usado para hortas e jardins.
-
-<!--Câmera-->
-As residências dos comerciantes são também onde se faz a compra e venda
-dos carregamentos dos navios e das caravanas, enquanto o mercado local
-acontece nos largos junto às portas da cidade.
-<!--/Câmera-->
+enfiada longitudinal de cômodos muito alongados para os lados. Essa
+enfiada se amplia para cima, para os lados e para os fundos conforme a
+necessidade. As casas nesse núcleo adensado terminam por se organizar
+num gradiente de privacidade dos ambientes mais próximos à rua para as
+alcovas mais internas, pátios e terraços [@fig:swahili-mercante].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns}
 ::: {.column width=50%}
-
-![Planta de casa mercante suaíle](){#fig:swahili-mercanteA .stretch}
-
+![Pavimento térreo](https://www.integra.unb.br/s/g5AWgke8KAzxZeH/preview){#fig:swahili-mercanteA .stretch} 
 :::
 ::: {.column width=50%}
-
-![Interior de casa mercante suaíle](){#fig:swahili-mercanteB .stretch}
-
+![Primeiro pavimento](https://www.integra.unb.br/s/Cii2teKToNEtSHM/preview){#fig:swahili-mercanteB .stretch} 
 :::
+Planta de casa mercante suaíle em Lamu. Fonte: @ghaidan:1974lamu
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
+![ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Fonte: @oers:2009main](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara .stretch}
+
+Construção em calcário de coral
+-------------------------------
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-<!--Câmera-->
-Assim como o *kampung* malaio, a cidade suaíle também se adensa por
-preenchimento do espaço disponível em torno das casas.
-<!--/Câmera-->
-Numa cidade consolidada com Lamu, as casas ficam próximas umas das
-outras e definem ruas suficientemente largas para garantir uma boa
-ventilação. Ao mesmo tempo, a altura das construções e a projeção das
-sacadas com gelosias fazem sombra sobre a rua.
+Em Quíloa, palácios e mesquitas [@fig:kilwa-palacio;
+@fig:kilwa-mesquita-ext] sinalizam o centro de cada núcleo urbano. As
+ilhas de Quíloa são cercadas de arrecifes, e os corais fossilizados se
+transformam em pedra calcária. Essas pedras são o material de construção
+usado para as paredes e abóbodas dos palácios e das mesquitas, mas
+também para as casas nos bairros centrais da cidade. Corais vivos são
+usados para executar acabamentos coloridos e conchas são trituradas para
+produzir argamassa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Rua em Lamu](){#fig:lamu-streetscape .stretch}
+![Exterior da mesquita maior de Quíloa Quisiuane. Fonte: @oers:2009great](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A configuração espacial e estrutural das principais mesquitas dos
+séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
+habitual é o de um salão com uma grelha de pilares que sustentam uma
+malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
+[@fig:kilwa-mesquita-int].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Interior da mesquita maior de Quíloa Quisiuane. Fonte: @stanley:2017ruins](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-ext .stretch}
+
+Do *boma* banto às cidades da Guiné
+=================================
 
 Espaço agropastoril
 -------------------
@@ -841,23 +898,25 @@ complexos agropastoris familiares formando redes mais ou menos densas no
 território.
 <!--/Câmera-->
 
-O arqueólogo sul-africano Thomas Huffman
-[@huffman:1990broederstroom49, 7] definiu, nos anos 1980, o paradigma
-espacial agropastoril banto como um sistema organizado em torno de um
-cercado comunitário. Esse cercado, conhecido em suaíle como *boma*, se
-declina em inúmeras variações desde a costa do golfo da Guiné até o sul
-da África. O *boma* é, prioritariamente, um curral de gado. Celeiros e
-espaços para atividades comunitárias também podem estar situados no
-*boma*. Ele é controlado por uma liderança política ou chefe de família
-estendida, que tem a sua própria casa perto desse espaço central.
+O arqueólogo americano Thomas Huffman [@fig:huffman] definiu, nos anos
+1980, o paradigma espacial agropastoril banto como um sistema organizado
+em torno de um cercado comunitário [@huffman:1990broederstroom49, 7].
+Esse cercado, conhecido em suaíle como *boma*, emerge na Idade do Ferro
+(c. 500 a.C.) e se declina em inúmeras variações desde a costa do golfo
+da Guiné até o sul da África.
+
+O *boma* é, prioritariamente, um curral de gado. Celeiros e espaços para
+atividades comunitárias também podem estar situados no *boma*. Ele é
+controlado por uma liderança política ou chefe de família estendida, que
+tem a sua própria casa perto desse espaço central.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Thomas Huffman](){#fig:huffman width=100%}
+::: {.column width=75%}
+![Esquema teórico de um *boma* no sul da África: Zimbábue. Fonte: @huffman:2009mapungubwe28](https://www.integra.unb.br/s/npFQigweNZa9atw/preview){#fig:boma .stretch}
 :::
-::: {.column width=50%}
-![Esquema de um *boma* no sul da África](){#fig:boma .stretch}
+::: {.column width=25%}
+![Thomas Huffman](https://www.integra.unb.br/s/qbYfFS8GNkPqMpK/preview){#fig:huffman width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -881,18 +940,54 @@ Ver também:
 ::: {.column width=50%}
 ![Locação na região fronteiriça entre Togo e Benin. Fonte: @palazzo:2020batammaliba](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA width=100%}
 
-![Planta de uma *tata*. Fonte: @james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy](https://www.integra.unb.br/s/nsqcdExaAjoTRjx/preview){#fig:batammalibaB width=100%}
+![Planta. Fonte: @james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy](https://www.integra.unb.br/s/nsqcdExaAjoTRjx/preview){#fig:batammalibaB width=100%}
 :::
 ::: {.column width=50%}
-![Vista exterior de uma *tata*. Fonte: @taberlet:2008koussoukoingou](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+![Vista exterior. Fonte: @taberlet:2008koussoukoingou](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
 :::
+Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Redes políticas no território: Grande Zimbábue
+Redes políticas no território: grande Zimbábue
 ----------------------------------------------
 
-Adensamento da malha: Dogon
----------------------------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera--> 
+O sistema espacial do *boma* é a unidade mínima de estratificação
+familiar e social nas regiões banto. A partir dele, podem ser formadas
+redes extensas de relações políticas que controlam territórios mais
+vastos.
+<!--/Câmera-->
+O grande Zimbábue [@fig:zimbabwe] é uma rede territorial que
+floresceu entre os séculos XI e XV. Essa rede tinha importância
+estratégica no comércio suaíle, porque controlava as minas de ouro no
+sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
+superfície de 730 hectares e pode ter abrigado até dez mil habitantes no
+seu auge.
+
+O grande Zimbábue se configura como um conjunto de *bomas* construídos
+em pedra; as relações espaciais entre os complexos murados parecem
+semelhantes às relações que se estabelecem *dentro* de cada sistema
+*boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
+na cabeceira da rede, e não no centro --- a mesma situação da casa
+dominante num *boma* individual.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea do Zimbábue. Fonte: @bell:2015aerial](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
+
+Adensamento do boma e malha viária
+----------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *kampung* malaio se desenvolve à margem de um caminho estruturante. No
+caso do *boma*, ao contrário, é o adensamento do sistema edificado que
+causa a formação dos caminhos. À medida que as comunidades baseadas no
+*boma* se tornam mais numerosas e ocupam o território com maior
+densidade, os cercados se aproximam de formas retangulares. O espaço
+entre eles começa, então, a tomar a forma de rua--corredor.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea de Niamey, Chade. Fonte: @mittelholzer:1930mh02-08-0093](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
 
 Delimitação do traçado urbano em Benim
 --------------------------------------
@@ -935,16 +1030,6 @@ inclinadas.
 
 ![Cidade de Benin. Desenho de um oficial do exército inglês, 1897. Fonte: @roth:1903great, p. 179](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897 .stretch}
 
-:::::: notes
-
-- Progressão: aldeia fula, grande Zimbábue, Dogon, Edo e Kumasi.
-- Quilombos
-
-- E quando o processo de estruturação malha viária--parcelamento se
-  inverte?
-
-::::::
-
 Máxima densidade urbana: Kumasi
 -------------------------------
 
@@ -953,13 +1038,19 @@ O adensamento urbano no oeste da África atinge seu ponto máximo,
 provavelmente, em Kumasi, a capital da federação e reino Asante desde o
 final do século XVIII. Assim como Benim, Kumasi é uma cidade fortemente
 adensada [@fig:kumasi-plan] em torno do palácio real
-[@fig:kumasi-palace]. No entanto, o núcleo urbano tradicional não era
+[@fig:kumasi-palace]. No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta da cidade de Kumasi em 1819. Fonte: @bowdich:1819mission](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim como em Benim, o palácio fica na área mais central da cidade.
+Grande parte da malha urbana em volta dele é ocupada por casas da
+família real e da administração do estado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Palácio real em Kumasi em 1874. Fonte: @king:1874](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .stretch}
 
@@ -1032,14 +1123,14 @@ Parcelamento urbano europeu
 O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
 fundadora da urbanização europeia desde a Idade Média
 [@panerai:2006analise]. Nesse processo, as povoações se desenvolvem ao
-longo de um eixo estruturante no território. Ao mesmo tempo que os
-núcleos urbanos se estendem ao longo dos caminhos, eles se *espessam*
-para os fundos das glebas e se *adensam* para aproveitar com maior
-eficiência a proximidade aos equipamentos e espaços públicos mais
+longo de um eixo estruturante no território [@fig:trudaine]. Ao mesmo
+tempo que os núcleos urbanos se estendem ao longo dos caminhos, eles se
+*espessam* para os fundos das glebas e se *adensam* para aproveitar com
+maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Urbanismo de caminhos --- sequência](){}
+![Folha do atlas de viação da França por @trudaine:1745atlas](){#fig:trudaine .stretch}
 
 Tipologia
 ---------
@@ -1059,23 +1150,25 @@ sua vez a continuidade do tipo portante.
 Na Itália, a influência do império Romano deixou como legado um módulo
 de parcelamento do solo planejado, com lotes de 50 pés (17 metros) de
 testada ideal para casas-pátio suburbanas. Com o adensamento das
-colônias romanas, esses lotes tendem a ser subdivididos em dois. A
-testada resultante, de 8,5 metros, funciona tanto para as casas romanas
-com átrio quanto para as casas geminadas medievais, com corredor
-lateral.
+colônias romanas, esses lotes tendem a ser subdivididos em duas ou três
+frações. A testada resultante, com 6 a 8,5 metros de largura, funciona
+tanto para as casas romanas com átrio quanto para as casas geminadas
+medievais, com corredor lateral [@fig:caniggia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Evolução do lote romano, baseada em @caniggia:1997analisi](){}
+![Evolução do lote romano, baseada em @caniggia:2008lettura](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia height=100%}
 
 Campo como gerador do traçado em Veneza
 ---------------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera--> 
 O estudo da tipologia como instrumento de *projeto* foi fundado na
-Itália do pós-guerra pelo arquiteto Saverio Muratori, quando era
-professor na Universidade de Veneza. Ele buscava uma equivalência
-completa entre estudo histórico do tecido urbano e projeto nesse tecido
-histórico.
+Itália pelo arquiteto Saverio Muratori, quando era professor na
+Universidade de Veneza no final da década de 1950. Ele buscava uma
+equivalência completa entre estudo histórico do tecido urbano e projeto
+nesse tecido histórico [@fig:muratori1100; @fig:muratori1200].
+<!--/Câmera-->
 
 Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
 caminho estruturante que domina a formação de um espaço urbano linear.
