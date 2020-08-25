@@ -1130,10 +1130,43 @@ maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Folha do atlas de viação da França por @trudaine:1745atlas](){#fig:trudaine .stretch}
+![Folha do atlas de viação da França por @trudaine:1745atlas](https://www.integra.unb.br/s/eF2xpMRaFWsQdqe/preview){#fig:trudaine .stretch}
 
-Tipologia
----------
+Campo como gerador do traçado em Veneza
+---------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
+caminho estruturante que domine a formação de um espaço urbano linear.
+Em vez disso, portanto, a estruturação do traçado urbanístico é
+centralizada em pontos focais: a praça de bairro, chamada *campo* em
+Veneza. Observada essa diferença, o processo de crescimento e
+adensamento em Veneza segue o mesmo padrão.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Bernardo e Gaetano Combatti, planta de Veneza -@combatti:1847nuova](https://www.integra.unb.br/s/6nrEtsb3tixJcFj/preview){#fig:combatti .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg" data-transition="fade-out"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Edmund Bacon, o urbanismo de Veneza estabelece um esquema de
+temas dominantes --- as praças cívicas e igrejas principais --- e
+subdominantes --- os *campi* com a igreja paroquial de cada ilha
+[@bacon:1974design, 101]. O conjunto urbano é hierarquizado segundo a
+importância simbólica dos diferentes espaços, mas os *campi* também
+refletem, num registro mais modesto, a dignidade cívica das grandes
+praças [@fig:canaletto1730; @fig:querena1878].
+
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg){#fig:canaletto1730}
+
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg){#fig:querena1878}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg" data-transition="fade-in"}
+
+Tipologia e historicidade
+-------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -1156,75 +1189,114 @@ tanto para as casas romanas com átrio quanto para as casas geminadas
 medievais, com corredor lateral [@fig:caniggia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Evolução do lote romano, baseada em @caniggia:2008lettura](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia height=100%}
+![Evolução dos tipos portantes na Itália, segundo @caniggia:2008lettura](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia height=100%}
 
-Campo como gerador do traçado em Veneza
----------------------------------------
+* * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 <!--Câmera--> 
 O estudo da tipologia como instrumento de *projeto* foi fundado na
-Itália pelo arquiteto Saverio Muratori, quando era professor na
-Universidade de Veneza no final da década de 1950. Ele buscava uma
-equivalência completa entre estudo histórico do tecido urbano e projeto
-nesse tecido histórico [@fig:muratori1100; @fig:muratori1200].
+Itália por Saverio Muratori, que era professor de projeto na
+Universidade de Veneza no final da década de 1950. Como muitos dos seus
+contemporâneos, Muratori procurava uma justificativa teórica para
+combater a destruição dos centros históricos em nome do "progresso" ou
+dos "problemas da modernidade".
 <!--/Câmera-->
 
-Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
-caminho estruturante que domina a formação de um espaço urbano linear.
-Em vez disso, o traçado urbanístico é estruturado por pontos focais:
-cada ilha tem um *campo* no seu interior, originalmente funcionando como
-horta, mercado e praça pública. A igreja do bairro e os lotes irradiam
-em volta do *campo*, dando os fundos para a água.
+Nas décadas de 1950 e 60, o discurso historiográfico em autores como
+Arnold Hauser e Henri Lefebvre se caracterizava por uma espécie de
+determinismo histórico simplório. Essa interpretação era vagamente
+inspirada na *Filosofia da História* do filósofo alemão Hegel. Em linhas
+gerais, Hauser propõe, na *História social da arte e da literatura*
+[@fig:hauser-social; @fig:hauser], que toda arte é um produto do seu
+tempo. Isto é, haveria --- segundo ele --- uma identidade perfeita entre
+as condições sociais ou materiais de uma época e as formas artísticas
+que essa época produz.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1100. Fonte: @muratori:1959studiIX](){.stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/4QjjpEjJNj7paXz/preview){#fig:hauser-social width=100%} 
+:::
+::: {.column width=50%}
+![Arnold Hauser](https://www.integra.unb.br/s/cMH4ZCysMymiLWi/preview){#fig:hauser width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O urbanismo de Veneza estabelece um esquema de temas dominantes --- as
-praças cívicas e igrejas principais --- e subdominantes --- os *campi*
-com a igreja paroquial de cada ilha [@bacon:1974design, 101]. O conjunto
-urbano é hierarquizado segundo a importância simbólica dos diferentes
-espaços, mas os *campi* também refletem, num registro mais modesto, a
-dignidade cívica das grandes praças.
+<!--Câmera-->
+Contra essa identidade simplória entre *artefato* e período histórico,
+Muratori afirma que a cidade e a arquitetura são *processos* que
+atravessam várias épocas. Não se trata só de reconhecer que um ambiente
+urbano qualquer é formado por edifícios de várias datas. Cada uma dessas
+construções, por mais singular que seja, contém no seu partido
+arquitetônico o resultado de um longo encadeamento de transformações
+tipológicas. A arqueologia urbana de Veneza, que Muratori publica em
+1959, demonstra esse acúmulo de transformações na sua própria forma.
+<!--/Câmera-->
+
+Originalmente, o *campo* era a horta, mercado e praça pública da
+comunidade. As primeiras casas são construídas no perímetro da ilha,
+deixando todo o interior livre para o *campo* e começando por
+estabelecer o traçado dos canais de Veneza [@fig:grisostomo1100]. Só a
+igreja ocupa uma posição central na ilha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Adensamento e protagonismo dos canais
--------------------------------------
+![Campo S. Giovanni Grisostomo, Veneza, c. 1100. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/eAFMM5EY34s39BK/preview){#fig:grisostomo1100 .stretch}
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Com o adensamento da ocupação e a necessidade de coordenar a
-cidade como um todo, os canais de Veneza começam a ganhar protagonismo
-ao longo da Idade Média. Novas frentes de lotes se estabelecem sobre os
-canais.
+Ao mesmo tempo que se completa o perímetro da ilha, os edifícios começam
+a ser ampliados para os fundos, "consumindo" o espaço do *campo*. Os
+lotes se tornam estreitos e profundos à medida que eles avançam sobre o
+*campo*. Essas proporções motivam o desenvolvimento de um novo tipo de
+morada nobre: o palácio com *portego*, um salão no primeiro andar que
+atravessa toda a profundidade do edifício de frente a fundos. O
+*portego* fornece iluminação e ventilação indiretas para várias salas no
+interior do edifício [@fig:grisostomo1200].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Campo S. Giovanni Grisostomo, Veneza, c. 1200. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/mLLYkj3atksQocp/preview){#fig:grisostomo1200 .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 O processo de adensamento é gradual, e nenhum agente tem poder econômico
 ou político suficiente para impor grandes transformações de uma só
 tacada. O resultado é um mosaico de propriedade fundiária onde palácios
-ficam lado a lado com prédios de aluguel.
+ficam lado a lado com prédios de aluguel [@fig:grisostomo1350].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Divisão dos lotes e adensamento final
--------------------------------------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As proporções dos lotes de Veneza motivam o desenvolvimento de um novo
-tipo de morada nobre: o palácio com *portego*, um salão no primeiro
-andar que atravessa a profundidade do edifício, da fachada até a
-elevação posterior. As construções privadas tendem a ocupar a totalidade
-dos seus lotes; portanto, elas assumem no seu interior a irregularidade
-geométrica dos lotes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Campo S. Giovanni Grisostomo, Veneza, c. 1350. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/EL7D2oM7f46QZow/preview){#fig:grisostomo1350 .stretch}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As fachadas mediam a transição entre o interior do edifício, com os seus
-compromissos funcionais e geométricos, e o espaço público do *campo* ou
-do canal.
+As construções privadas tendem a ocupar a totalidade dos seus lotes;
+portanto, elas assumem no seu interior a irregularidade geométrica dos
+lotes. Para isso, pode-se usar as articulações do espaço construído com
+os pátios, ou mesmo espaços secundários dentro da edificação
+[@fig:grisostomo1450].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1450. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/8rwJaonEFeyS9pL/preview){#fig:grisostomo1450 .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A essa altura, o *campo* já foi pavimentado e tem o seu espaço muito
+reduzido e nitidamente delimitado [@fig:grisostomo1500]. Todo o processo
+aconteceu por meio de transformações sucessivas onde cada passo preserva
+a coerência das etapas anteriores. Não existe um urbanismo
+exclusivamente representativo da "Veneza medieval" ou da "Veneza do
+Renascimento": cada estágio na consolidação urbana evidencia o
+*conjunto* de períodos históricos acumulados até então.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1500. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/6GGoRdHHWr5onJn/preview){#fig:grisostomo1500 .stretch}
 
 Urbanismo como palimpsesto
 --------------------------
@@ -1234,50 +1306,28 @@ Na leitura de Muratori, a cidade é ao mesmo tempo *artefato* e
 *processo*. Por um lado, a forma urbana e o tecido edificado são
 *artefatos*: cada nova construção, reforma ou agenciamento do espaço
 urbano é um produto intencional e planejado do trabalho humano. Por
-outro lado, eles são, ao mesmo tempo, a evidência tangível de um
-*processo* que se desenvolve ao longo do tempo. Qualquer ambiência
-urbana é o resultado do trabalho acumulado de gerações; em grande
-medida, o mesmo vale para os edifícios, especialmente os mais antigos.
+outro lado, eles são, também, a evidência tangível de um *processo* que
+se desenvolve ao longo do tempo. Qualquer ambiência urbana é o resultado
+do trabalho acumulado de gerações; em grande medida, o mesmo vale para
+os edifícios, especialmente os mais antigos.
 
-Em Veneza, não há espaço para grandes traçados urbanísticos. A cidade se
+Em Veneza, não há espaço para grandes traçados autorais. A cidade se
 renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
 
-Praça de São Marcos
--------------------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A transformação da praça de São Marcos num conjunto urbanístico
-monumental resume o modo renascentista de pensar a cidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Praça de São Marcos no século XII. Fonte: @bacon:1974design](){#fig:bacon-smarco-1}
-
-Da Terra firme à cidade difusa
-------------------------------
-
 Urbanismo europeu e historicidade
 ---------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A leitura do espaço e da construção como um processo histórico é o que
-caracteriza o método da história da arquitetura na Europa desde a sua
-consolidação como disciplina acadêmica na segunda metade do século XIX.
-Os estudos de Muratori em Veneza 
-
-...a tal ponto que a arquitetura como desenvolvimento do espaço e da
-construção chega a ser considerada como algo que só acontece na Europa.
+Outro modo de interpretar essa coerência urbana emergente é olhar para
+as redes de transmissão de conhecimentos arquitetônicos e para as
+condições materiais de produção do ambiente construído. Essas abordagens
+vêm dominando o estudo da arquitetura do Renascimento ao longo das
+últimas décadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-- Gancho: um dos problemas seguintes.
-  - Historicidade dos desenvolvimentos espaciais e construtivos tem sido
-    critério de hierarquização na historiografia europeia desde meados
-    do século XVIII.
-  - Semelhanças entre Veneza e İstanbul levantam problema da distinção
-    Oriente/Ocidente na história da arquitetura.
 
 Referências
 ===========
