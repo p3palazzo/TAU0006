@@ -287,18 +287,18 @@ Um dos primeiros manuais de história da arquitetura a incluir a América
 precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
 adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
 "pirâmides" dos maias e astecas como uma importação dos terraplenos
-chineses [@fig:choisy]. Na cabeça de um europeu do final do século XIX,
-chineses atravessando o oceano Pacífico na mais remota Antiguidade
-parecia mais provável do que uns "índios no meio da selva" sendo capazes
-de criar arquitetura monumental.
+chineses [@fig:choisy-pacific]. Na cabeça de um europeu do final do
+século XIX, chineses atravessando o oceano Pacífico na mais remota
+Antiguidade parecia mais provável do que uns "índios no meio da selva"
+sendo capazes de criar arquitetura monumental.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:choisy .columns}
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=70%}
-![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas -@choisy:1899histoire1, 198](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisyA width=100%} 
+![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas -@choisy:1899histoire1, 198](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisy-pacific width=100%} 
 :::
 ::: {.column width=50%}
-![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){#fig:choisyB width=100%}
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){#fig:choisy width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -792,7 +792,7 @@ mercados.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O próprio comércio tem significado político: a compra e venda dos
 carregamentos dos navios e das caravanas acontece no palácio
-[@fig:kllaa-pllacio] e nas residências da nobreza mercante
+[@fig:kilwa-palacio] e nas residências da nobreza mercante
 [@allen:1981swahili14]. Essa atividade se distingue, assim, do mercado
 de subsistência local, que acontece nos largos junto às portas da cidade
 e nos bairros de casas de adobe.
@@ -881,7 +881,7 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 [@fig:kilwa-mesquita-int].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Interior da mesquita maior de Quíloa Quisiuane. Fonte: @stanley:2017ruins](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-ext .stretch}
+![Interior da mesquita maior de Quíloa Quisiuane. Fonte: @stanley:2017ruins](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-int .stretch}
 
 Do *boma* banto às cidades da Guiné
 =================================
