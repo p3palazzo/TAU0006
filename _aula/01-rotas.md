@@ -22,8 +22,8 @@ Introdução à história da arquitetura na Idade Moderna
 O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
 para menos, mas isso não importa. Exatamente em 1420, termina a
 reconstrução do palácio imperial em Pequim, conhecido no Ocidente como a
-"Cidade proibida" [@fig:danei]. No mesmo ano, começa a ser erigida a
-cúpula da catedral Santa Maria del Fiore, em Florença [@fig:smfiore]. Os
+"Cidade proibida" ([@fig:danei]). No mesmo ano, começa a ser erigida a
+cúpula da catedral Santa Maria del Fiore, em Florença ([@fig:smfiore]). Os
 dois monumentos se apresentam como resgate e renovação de uma
 arquitetura *correta* herdada da Antiguidade.
 <!--/Câmera-->
@@ -73,7 +73,7 @@ Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
 filosofia escolástica e o estilo gótico desde o século XII
 [@panofsky:2001arquitetura]. A partir do século XV, ela passa a ocupar
 um lugar central na reflexão sobre o trabalho artístico e o lugar da
-criação humana na ordem do mundo [@fig:veduta1495].
+criação humana na ordem do mundo ([@fig:veduta1495]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anônimo do século XV. Perspectiva arquitetônica com porto. Fonte: @perspectiva:1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .stretch}
@@ -92,8 +92,8 @@ tanto na Ásia oriental quanto na Europa ocidental.
 
 Os problemas de como *dar forma* ao espaço e como *representar* essa
 forma no desenho e na pintura se tornam centrais na China da dinastia
-Ming (1368--1644) [@fig:qiu-han] e na Itália do primeiro Renascimento, a
-partir de meados do século XIV [@fig:buongoverno].
+Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
+partir de meados do século XIV ([@fig:buongoverno]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .stretch}
@@ -150,7 +150,7 @@ herdada da cultura clássica [@choay:1986regra].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A China sai em vantagem com o [*Yingzao
 fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
-[@fig:yingzao-fashi], um livro impresso e ilustrado do ano 1103 --- 350
+([@fig:yingzao-fashi]), um livro impresso e ilustrado do ano 1103 --- 350
 anos antes do primeiro tratado do Renascimento italiano. O autor do
 *Yingzao fashi* é Li Jie (1065--1110), um arquiteto da casa Imperial na
 dinastia Song, um período que os chineses do século XIV em diante
@@ -191,7 +191,7 @@ visuais e da arquitetura do século XV em diante, a cidade é onde esse
 domínio se exercita antes de se ampliar para a escala de territórios
 regionais ou nacionais no século XVIII. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
-literalmente, num só golpe de vista [@fig:carnevale].
+literalmente, num só golpe de vista ([@fig:carnevale]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .stretch}
@@ -202,7 +202,7 @@ literalmente, num só golpe de vista [@fig:carnevale].
 Esse golpe de vista pode ser simbólico: nos séculos XV a XVII as vistas
 panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
-do território [@fig:versailles-patel].
+do território ([@fig:versailles-patel]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
@@ -214,7 +214,7 @@ do território [@fig:versailles-patel].
 Outras vezes, como na pintura da escola *tosa* no Japão do século XVI e
 início do XVII, podem celebrar o fato efêmero da fragmentação do poder
 central, que por um breve momento dá lugar à autonomia burguesa
-[@fig:funaki].
+([@fig:funaki]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .stretch}
@@ -287,7 +287,7 @@ Um dos primeiros manuais de história da arquitetura a incluir a América
 precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
 adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
 "pirâmides" dos maias e astecas como uma importação dos terraplenos
-chineses [@fig:choisy-pacific]. Na cabeça de um europeu do final do
+chineses ([@fig:choisy-pacific]). Na cabeça de um europeu do final do
 século XIX, chineses atravessando o oceano Pacífico na mais remota
 Antiguidade parecia mais provável do que uns "índios no meio da selva"
 sendo capazes de criar arquitetura monumental.
@@ -311,7 +311,7 @@ medieval globalmente conectado tende a ser olhada com uma desconfiança
 compreensível hoje em dia. Em mais de uma ocasião, o argumento da
 circulação mundial na Antiguidade foi usado para sustentar teses
 colonialistas, de que certos povos não seriam capazes de desenvolver uma
-arquitetura monumental sem ajuda externa [@fig:aliens].
+arquitetura monumental sem ajuda externa ([@fig:aliens]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/bpkqqCeKXQLwGWw/preview){#fig:aliens}
@@ -322,7 +322,7 @@ arquitetura monumental sem ajuda externa [@fig:aliens].
 Para além disso, a hegemonia tecnológica e política que a Europa atingiu
 no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
 visão europeia da época, a evolução seria essencialmente linear
-[@fig:civ6], e todas as sociedades que seguiram outro percurso cultural
+([@fig:civ6]), e todas as sociedades que seguiram outro percurso cultural
 e tecnológico que não o europeu seriam, portanto, "primitivas".
 
 Desmentindo essa visão linear que tende a justificar a colonização dos
@@ -376,7 +376,7 @@ continuam sendo os caminhos estruturantes. Os mercadores muçulmanos
 escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
 sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegam à costa leste da África e ao
-Mediterrâneo [@fig:indico-redes].
+Mediterrâneo ([@fig:indico-redes]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://www.integra.unb.br/s/K3w7Ys3xRqBeWnw/preview){#fig:indico-redes height=100%}
@@ -424,8 +424,8 @@ Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
 No universo das cidades-estado mercantes dos séculos XIV e XV, os reinos
 do Sudeste asiático se destacam pela sua diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
-de Java [@fig:majapahit], e o sultanato muçulmano de Malacca
-[@fig:malacca], na península malaia, controlam o comércio marítimo de
+de Java ([@fig:majapahit]), e o sultanato muçulmano de Malacca
+([@fig:malacca]), na península malaia, controlam o comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan e
 Malacca se tornam centros de poder econômico e político muito prósperos.
 Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
@@ -461,9 +461,9 @@ malaias em bairros ocidentais, chineses e "nativos".
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior
-[@fig:singapore1839].
+([@fig:singapore1839]).
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
-Evers [@fig:evers] apresentou, na bibliografia ocidental, o urbanismo
+Evers ([@fig:evers]) apresentou, na bibliografia ocidental, o urbanismo
 malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -483,7 +483,7 @@ Kampung como unidade básica da urbanização
 :::::: notes
 *Kampung* significa "povoado" nas línguas malaias. A configuração típica
 do *kmmpung* vem desde as origens da agricultura no Sudeste asiático
-[@fig:arrozal]. O conjunto se organiza em torno de um caminho
+([@fig:arrozal]). O conjunto se organiza em torno de um caminho
 estruturante ou de um ponto focal importante, como um templo, uma
 mesquita ou um complexo palaciano.
 ::::::
@@ -494,7 +494,7 @@ mesquita ou um complexo palaciano.
 
 :::::: notes
 O *kampung* resulta diretamente da distribuição dos arrozais
-[@fig:singapore1839] num grupo comunitário e da sucessão familiar sem
+([@fig:singapore1839]) num grupo comunitário e da sucessão familiar sem
 partilha da terra. Como as terras são sempre propriedade coletiva de
 famílias estendidas, elas não se dividem em lotes menores e mais
 estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
@@ -505,7 +505,7 @@ geométricas entre glebas do *kampung* são pouco importantes, em
 comparação com o uso dos espaços e dos recursos tangíveis. O critério
 mais relevante de organização do espaço é as redes de parentesco, que
 determinam a localização de casas principais e secundárias e o acesso a
-hortas e plantações [@fig:kampung-sahabuddin-1].
+hortas e plantações ([@fig:kampung-sahabuddin-1]).
 ::::::
 
 ![Esquema de um *kampung* rural simples. Fonte: @mohdsahabuddin:2012establishment](https://www.integra.unb.br/s/bCmJQTaoYC46p3x/preview){#fig:kampung-sahabuddin-1 .stretch}
@@ -514,7 +514,7 @@ hortas e plantações [@fig:kampung-sahabuddin-1].
 
 :::::: notes
 À medida que a população da comunidade cresce, cada casa pode ser
-ampliada segundo um sistema de ambientes modulares [@fig:lim-malay].
+ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay]).
 ::::::
 
 ![Sequência tipológica da casa malaia. Fonte: @lim:1991malay *ap.* @beng:2015unleashing16](https://www.integra.unb.br/s/TFewkNBbCGmRMso/preview){#fig:lim-malay .stretch}
@@ -523,7 +523,7 @@ ampliada segundo um sistema de ambientes modulares [@fig:lim-malay].
 
 :::::: notes
 Do mesmo modo, o *kampung* como um todo também se adensa até virar um
-distrito urbano compacto [@fig:dpz1997].
+distrito urbano compacto ([@fig:dpz1997]).
 ::::::
 
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997. Fonte: @duany:2003new](https://www.integra.unb.br/s/qdxxgfJtcRHaJj4/preview){#fig:dpz1997}
@@ -534,7 +534,7 @@ Urbanismo real: do kampung ao pura
 :::::: notes
 Partindo do *kampung* como unidade social e urbanística *de base*, os
 estados malaios organizam o território em redes de poder político e
-autoridade religiosa [@fig:hall-java]. No século XIV, o poder político e
+autoridade religiosa ([@fig:hall-java]). No século XIV, o poder político e
 religioso no império Majapahit é sinalizado pela construção de um *pura*
 ou templo hinduísta.
 
@@ -542,7 +542,7 @@ No entanto, o *pura* é mais do que um simples local de culto. O recinto
 retangular funciona também como fortificação, e dentro dela fica, além
 do templo, o palácio real. Do lado de fora da entrada principal, ao
 norte, está a praça do mercado. Outras moradias da corte e um mosteiro
-budista se aglomeram em volta do *pura* [@fig:hall-trowulan].
+budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 ::::::
 
 :::::: {.columns}
@@ -575,7 +575,7 @@ Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
 do comércio chinês e indiano. O palácio de Malacca ficava onde seria
 construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
-[@fig:fortr-malacca]. Era uma posição estratégica na foz do rio, entre
+([@fig:fortr-malacca]). Era uma posição estratégica na foz do rio, entre
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
 ::::::
@@ -586,7 +586,7 @@ outra margem do rio.
 
 :::::: notes
 O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
-e na sua mesquita [@fig:malacca-kotaraja].
+e na sua mesquita ([@fig:malacca-kotaraja]).
 
 ::::::
 
@@ -607,8 +607,8 @@ O *kota raja* de Malacca no século XV. Fonte: *ap.* @yusoff:2019where
 :::::: notes
 O Kampung Glam, em Cingapura, é outra antiga cidadela real malaia.
 Durante a ocupação britânica, do início do século XIX até a metade do
-século XX [@fig:raffles], ele perdeu a função de centro político e se
-adensou como uma vila comercial [@fig:kampongglam].
+século XX ([@fig:raffles]), ele perdeu a função de centro político e se
+adensou como uma vila comercial ([@fig:kampongglam]).
 ::::::
 
 ![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829. Fonte: @tajudeen:kampung](https://www.integra.unb.br/s/iWNqatePrdTJWmM/preview){#fig:raffles .stretch} 
@@ -634,7 +634,7 @@ Adensamento para dentro e para fora
 O *kampung* malaio é um paradigma de urbanização bioclimática que parte
 de um assentamento rural e pode se desenvolver, por adensamentos
 sucessivos, até formar um distrito urbano compacto
-[@fig:kampung-rochor]. Em contraste com esse tipo de adensamento *para
+([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
 dentro*, a urbanização dos povos bantos na África é um paradigma de
 adensamento *para fora*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -679,7 +679,7 @@ tradições construtivas africanas.
 Na África tropical, dois modos de urbanizar se destacam pela sua
 expansão geográfica e cronológica: as cidades mercantes da costa Suaíle,
 no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
-[@fig:urb-africa]. Esses dois modos são bem distintos entre si porque
+([@fig:urb-africa]). Esses dois modos são bem distintos entre si porque
 eles se adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -694,7 +694,7 @@ A [costa Suaíle][] é uma parte do litoral africano do oceano Índico, com
 mais de três mil quilômetros de extensão de norte a sul. Ela é formada
 por uma sequência de cidades-estado especializadas no comércio marítimo,
 fundadas e habitadas por povos de etnia banto que falam a língua suaíle
-[@fig:costa-suaile]. Os banto migraram para essa região no primeiro
+([@fig:costa-suaile]). Os banto migraram para essa região no primeiro
 milênio antes de Cristo, e no século I a.C. o litoral do Índico já era
 uma rota comercial importante.
 
@@ -727,7 +727,7 @@ europeus entendiam que cidades comerciais adensadas não tinham lugar
 numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 Usam Ghaidan defendeu a sua dissertação de mestrado demonstrando que as
 raízes socioeconômicas, culturais e construtivas da cidade suaíle de
-Lamu [@fig:lamu-mosque] são, de fato, africanas.
+Lamu ([@fig:lamu-mosque]) são, de fato, africanas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:lamu-mosque .columns}
@@ -748,7 +748,7 @@ Traçado urbano e hierarquia social
 O traçado geral das cidades suaíle não decorre de um plano centralizado,
 mas se organiza a partir de princípios culturais partilhados. A
 arqueóloga inglesa [Stephanie Wynne-Jones][] mostra que a formação do
-traçado urbano suaíle [@fig:takwa] acontece pela reconstrução sucessiva
+traçado urbano suaíle ([@fig:takwa]) acontece pela reconstrução sucessiva
 de bairros com casas em adobe, que são substituídos por bairros com
 casas em pedra [@wynne-jones:2014swahili, 121].
 
@@ -772,7 +772,7 @@ Durante o processo de consolidação e adensamento da cidade, a autoridade
 política se faz presente em vários níveis. O palácio, geralmente
 fortificado e associado à mesquita maior, domina o porto. Os bairros
 são, pelo menos num primeiro momento, associados a grupos familiares
-estendidos [@fig:shanga]. A proximidade dos bairros ao palácio indica a
+estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indica a
 hierarquia social da nobreza mercante.
 
 <!--Câmera-->
@@ -792,7 +792,7 @@ mercados.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O próprio comércio tem significado político: a compra e venda dos
 carregamentos dos navios e das caravanas acontece no palácio
-[@fig:kilwa-palacio] e nas residências da nobreza mercante
+([@fig:kilwa-palacio]) e nas residências da nobreza mercante
 [@allen:1981swahili14]. Essa atividade se distingue, assim, do mercado
 de subsistência local, que acontece nos largos junto às portas da cidade
 e nos bairros de casas de adobe.
@@ -808,7 +808,7 @@ Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
 do solo rígido e predeterminado. As casas dos comerciantes, construídas
 em calcário de coral, se organizam em bairros em volta do palácio e do
 porto. As classes baixas constroem as suas casas em adobe e pau-a-pique
-na periferia, do lado de fora das muralhas [@fig:gedi-plan]. As
+na periferia, do lado de fora das muralhas ([@fig:gedi-plan]). As
 moradias, principalmente aquelas perto do centro urbano, tendem a se
 alinhar e a formar ruas que se adensam gradualmente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -823,7 +823,7 @@ semelhante ao do *kampung* malaio. As casas são construídas deixando
 bastante espaço livre entre elas, espaço que é usado inicialmente para
 hortas e jardins. Aos poucos, o espaço livre vai sendo preenchido pela
 ampliação das casas. Esse processo resulta numa malha urbana compacta
-[@fig:lamu-plan].
+([@fig:lamu-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Plano de conservação da área central de Lamu. Fonte: @mwenje:2019case](https://www.integra.unb.br/s/mj5AWwBn94MfSCR/preview){#fig:lamu-plan .stretch}
@@ -838,7 +838,7 @@ enfiada longitudinal de cômodos muito alongados para os lados. Essa
 enfiada se amplia para cima, para os lados e para os fundos conforme a
 necessidade. As casas nesse núcleo adensado terminam por se organizar
 num gradiente de privacidade dos ambientes mais próximos à rua para as
-alcovas mais internas, pátios e terraços [@fig:swahili-mercante].
+alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns}
@@ -878,7 +878,7 @@ A configuração espacial e estrutural das principais mesquitas dos
 séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
 habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
-[@fig:kilwa-mesquita-int].
+([@fig:kilwa-mesquita-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Interior da mesquita maior de Quíloa Quisiuane. Fonte: @stanley:2017ruins](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-int .stretch}
@@ -898,7 +898,7 @@ complexos agropastoris familiares formando redes mais ou menos densas no
 território.
 <!--/Câmera-->
 
-O arqueólogo americano Thomas Huffman [@fig:huffman] definiu, nos anos
+O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
 1980, o paradigma espacial agropastoril banto como um sistema organizado
 em torno de um cercado comunitário [@huffman:1990broederstroom49, 7].
 Esse cercado, conhecido em suaíle como *boma*, emerge na Idade do Ferro
@@ -958,7 +958,7 @@ familiar e social nas regiões banto. A partir dele, podem ser formadas
 redes extensas de relações políticas que controlam territórios mais
 vastos.
 <!--/Câmera-->
-O grande Zimbábue [@fig:zimbabwe] é uma rede territorial que
+O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
 floresceu entre os séculos XI e XV. Essa rede tinha importância
 estratégica no comércio suaíle, porque controlava as minas de ouro no
 sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
@@ -1008,7 +1008,7 @@ exército britânico.
 
 A cidade se organizava em volta do palácio real, e era cercada por uma
 muralha feita de terraplenos. Os mercados se situavam fora dos limites
-da cidade [@fig:benin-markets].
+da cidade ([@fig:benin-markets]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -1037,8 +1037,8 @@ Máxima densidade urbana: Kumasi
 O adensamento urbano no oeste da África atinge seu ponto máximo,
 provavelmente, em Kumasi, a capital da federação e reino Asante desde o
 final do século XVIII. Assim como Benim, Kumasi é uma cidade fortemente
-adensada [@fig:kumasi-plan] em torno do palácio real
-[@fig:kumasi-palace]. No entanto, o núcleo urbano tradicional não é
+adensada ([@fig:kumasi-plan]) em torno do palácio real
+([@fig:kumasi-palace]). No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1058,9 +1058,9 @@ família real e da administração do estado.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os complexos familiares em Kumasi são extremamente compactos, formando
-um alinhamento contínuo sobre a rua [@fig:kumasi-frontage]. As casas
+um alinhamento contínuo sobre a rua ([@fig:kumasi-frontage]). As casas
 ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
-menor que os de Benim [@fig:kumasi-shrine].
+menor que os de Benim ([@fig:kumasi-shrine]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista de uma rua em Kumasi. Fonte: @bowdich:1819mission](https://www.integra.unb.br/s/QE8FSL4p63dyar4/preview){#fig:kumasi-frontage .stretch}
@@ -1123,7 +1123,7 @@ Parcelamento urbano europeu
 O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
 fundadora da urbanização europeia desde a Idade Média
 [@panerai:2006analise]. Nesse processo, as povoações se desenvolvem ao
-longo de um eixo estruturante no território [@fig:trudaine]. Ao mesmo
+longo de um eixo estruturante no território ([@fig:trudaine]). Ao mesmo
 tempo que os núcleos urbanos se estendem ao longo dos caminhos, eles se
 *espessam* para os fundos das glebas e se *adensam* para aproveitar com
 maior eficiência a proximidade aos equipamentos e espaços públicos mais
@@ -1155,7 +1155,7 @@ subdominantes --- os *campi* com a igreja paroquial de cada ilha
 [@bacon:1974design, 101]. O conjunto urbano é hierarquizado segundo a
 importância simbólica dos diferentes espaços, mas os *campi* também
 refletem, num registro mais modesto, a dignidade cívica das grandes
-praças [@fig:canaletto1730; @fig:querena1878].
+praças ([@fig:canaletto1730; @fig:querena1878]).
 
 ![Canaletto, Praça de São Marcos com a Basílica, 1730](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg){#fig:canaletto1730}
 
@@ -1186,7 +1186,7 @@ testada ideal para casas-pátio suburbanas. Com o adensamento das
 colônias romanas, esses lotes tendem a ser subdivididos em duas ou três
 frações. A testada resultante, com 6 a 8,5 metros de largura, funciona
 tanto para as casas romanas com átrio quanto para as casas geminadas
-medievais, com corredor lateral [@fig:caniggia].
+medievais, com corredor lateral ([@fig:caniggia]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Evolução dos tipos portantes na Itália, segundo @caniggia:2008lettura](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia height=100%}
@@ -1208,7 +1208,7 @@ Arnold Hauser e Henri Lefebvre se caracterizava por uma espécie de
 determinismo histórico simplório. Essa interpretação era vagamente
 inspirada na *Filosofia da História* do filósofo alemão Hegel. Em linhas
 gerais, Hauser propõe, na *História social da arte e da literatura*
-[@fig:hauser-social; @fig:hauser], que toda arte é um produto do seu
+([@fig:hauser-social; @fig:hauser]), que toda arte é um produto do seu
 tempo. Isto é, haveria --- segundo ele --- uma identidade perfeita entre
 as condições sociais ou materiais de uma época e as formas artísticas
 que essa época produz.
@@ -1240,7 +1240,7 @@ tipológicas. A arqueologia urbana de Veneza, que Muratori publica em
 Originalmente, o *campo* era a horta, mercado e praça pública da
 comunidade. As primeiras casas são construídas no perímetro da ilha,
 deixando todo o interior livre para o *campo* e começando por
-estabelecer o traçado dos canais de Veneza [@fig:grisostomo1100]. Só a
+estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
 igreja ocupa uma posição central na ilha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1256,7 +1256,7 @@ lotes se tornam estreitos e profundos à medida que eles avançam sobre o
 morada nobre: o palácio com *portego*, um salão no primeiro andar que
 atravessa toda a profundidade do edifício de frente a fundos. O
 *portego* fornece iluminação e ventilação indiretas para várias salas no
-interior do edifício [@fig:grisostomo1200].
+interior do edifício ([@fig:grisostomo1200]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1200. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/mLLYkj3atksQocp/preview){#fig:grisostomo1200 .stretch}
@@ -1267,7 +1267,7 @@ interior do edifício [@fig:grisostomo1200].
 O processo de adensamento é gradual, e nenhum agente tem poder econômico
 ou político suficiente para impor grandes transformações de uma só
 tacada. O resultado é um mosaico de propriedade fundiária onde palácios
-ficam lado a lado com prédios de aluguel [@fig:grisostomo1350].
+ficam lado a lado com prédios de aluguel ([@fig:grisostomo1350]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1350. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/EL7D2oM7f46QZow/preview){#fig:grisostomo1350 .stretch}
@@ -1279,7 +1279,7 @@ As construções privadas tendem a ocupar a totalidade dos seus lotes;
 portanto, elas assumem no seu interior a irregularidade geométrica dos
 lotes. Para isso, pode-se usar as articulações do espaço construído com
 os pátios, ou mesmo espaços secundários dentro da edificação
-[@fig:grisostomo1450].
+([@fig:grisostomo1450]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1450. Fonte: @muratori:1959studiIX](https://www.integra.unb.br/s/8rwJaonEFeyS9pL/preview){#fig:grisostomo1450 .stretch}
@@ -1288,7 +1288,7 @@ os pátios, ou mesmo espaços secundários dentro da edificação
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A essa altura, o *campo* já foi pavimentado e tem o seu espaço muito
-reduzido e nitidamente delimitado [@fig:grisostomo1500]. Todo o processo
+reduzido e nitidamente delimitado ([@fig:grisostomo1500]). Todo o processo
 aconteceu por meio de transformações sucessivas onde cada passo preserva
 a coerência das etapas anteriores. Não existe um urbanismo
 exclusivamente representativo da "Veneza medieval" ou da "Veneza do
