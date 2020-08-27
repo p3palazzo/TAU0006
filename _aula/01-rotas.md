@@ -314,7 +314,7 @@ colonialistas, de que certos povos não seriam capazes de desenvolver uma
 arquitetura monumental sem ajuda externa ([@fig:aliens]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/bpkqqCeKXQLwGWw/preview){#fig:aliens}
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens}
 
 * * * *
 
@@ -332,7 +332,7 @@ culturais e urbanísticos diversos. Esse conjunto forma a maior rede
 comercial do mundo no início da Idade Moderna.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-!["Árvore" tecnológica linear no jogo *Civilization VI*](https://www.integra.unb.br/s/72z6t35Fb9eWkY2/preview){#fig:civ6 .stretch}
+!["Árvore" tecnológica linear no jogo *Civilization VI*](https://www.integra.unb.br/s/jo9E5NQRfb7XFLF/preview){#fig:civ6 .stretch}
 
 Oceano Índico no centro do mundo
 --------------------------------
@@ -350,9 +350,8 @@ muçulmanos.
 
 :::::: {.columns}
 ::: {.column width=30%}
-![Janet Lippman Abu-Lughod [@zolberg:2013remembering]](https://www.integra.unb.br/s/YkWqdBLbiq4R9EB/preview){#fig:lippman width=100%}
-:::
-
+![Janet Lippman Abu-Lughod [@zolberg:2013remembering]](https://i1.wp.com/publicseminar.org/wp-content/uploads/2013/12/Janet-Lippman-Abu-Lughod.jpg){#fig:lippman width=100%}
+::: 
 ::: {.column width=70%}
 ![Esferas econômico-culturais, 1250--1350 [@derfel73:2011thirteenth]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:esferas width=100%}
 :::
@@ -379,7 +378,7 @@ China, tapeçarias da Ásia central chegam à costa leste da África e ao
 Mediterrâneo ([@fig:indico-redes]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://www.integra.unb.br/s/K3w7Ys3xRqBeWnw/preview){#fig:indico-redes height=100%}
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png/480px-%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=100%}
 
 Cidades-estado e diferentes modelos de urbanização
 --------------------------------------------------
@@ -473,7 +472,11 @@ igualmente legítimo.
 ![Mapa da cidade de Cingapura [@coleman:1839town]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 height=100%}
 :::
 ::: {.column width=30%}
-![Hans-Dieter Evers](https://www.integra.unb.br/s/akziGar2PaAr64x/preview){#fig:evers width=100%}
+
+![Hans-Dieter
+Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers
+width=100%}
+
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -508,7 +511,7 @@ determinam a localização de casas principais e secundárias e o acesso a
 hortas e plantações ([@fig:kampung-sahabuddin-1]).
 ::::::
 
-![Esquema de um *kampung* rural simples [@mohdsahabuddin:2012establishment]](https://www.integra.unb.br/s/bCmJQTaoYC46p3x/preview){#fig:kampung-sahabuddin-1 .stretch}
+![Esquema de um *kampung* rural simples [@mohdsahabuddin:2012establishment]](https://www.integra.unb.br/s/4cD7HKtJwXCb695/preview){#fig:kampung-sahabuddin-1 .stretch}
 
 * * * *
 
@@ -517,7 +520,7 @@ hortas e plantações ([@fig:kampung-sahabuddin-1]).
 ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay]).
 ::::::
 
-![Sequência tipológica da casa malaia [@lim:1991malay *ap.* @beng:2015unleashing16]](https://www.integra.unb.br/s/TFewkNBbCGmRMso/preview){#fig:lim-malay .stretch}
+![Sequência tipológica da casa malaia [@lim:1991malay *ap.* @beng:2015unleashing16]](https://www.integra.unb.br/s/Gp7YXCctZEoAjaC/preview){#fig:lim-malay .stretch}
 
 * * * *
 
@@ -526,7 +529,7 @@ Do mesmo modo, o *kampung* como um todo também se adensa até virar um
 distrito urbano compacto ([@fig:dpz1997]).
 ::::::
 
-![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997 [@duany:2003new]](https://www.integra.unb.br/s/qdxxgfJtcRHaJj4/preview){#fig:dpz1997}
+![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997 [@duany:2003new]](https://www.integra.unb.br/s/P8foN9proLG9xx8/preview){#fig:dpz1997}
 
 Urbanismo real: do kampung ao pura
 ----------------------------------
@@ -547,10 +550,10 @@ budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 
 :::::: {.columns}
 ::: {.column width=70%}
-![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV [@hall:1996ritual52, p. 97]](https://www.integra.unb.br/s/N8Xb6FRDS8xq74f/preview){#fig:hall-java}
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV [@hall:1996ritual52, p. 97]](https://www.integra.unb.br/s/wmw4NiXkPb2C7bT/preview){#fig:hall-java}
 :::
 ::: {.column width=30%}
-![*Pura* de Trowulan, século XIV [@hall:1996ritual52, p. 99]](https://www.integra.unb.br/s/gB6FH5sAWQQCtwX/preview){#fig:hall-trowulan}
+![*Pura* de Trowulan, século XIV [@hall:1996ritual52, p. 99]](https://www.integra.unb.br/s/Z3dgnL6RyLgBzWY/preview){#fig:hall-trowulan}
 :::
 ::::::
 
@@ -566,7 +569,7 @@ centros comunitários em cada *kampung*. A sede do poder político nas
 cidades-estado é o *kota raja*, ou cidadela real.
 ::::::
 
-![Diagrama conceitual de um conjunto urbano malaio [@tajudeen:2005reading8, 5]](https://www.integra.unb.br/s/C7ecoMr9r9L4rob/preview){#fig:malay-urbanism .stretch}
+![Diagrama conceitual de um conjunto urbano malaio [@tajudeen:2005reading8, 5]](https://www.integra.unb.br/s/DCtCB6NjnSpcgBQ/preview){#fig:malay-urbanism .stretch}
 
 * * * *
 
@@ -592,11 +595,11 @@ e na sua mesquita ([@fig:malacca-kotaraja]).
 
 :::::: {.columns #fig:malacca-kotaraja}
 ::: {.column width=25%}
-![Planta reconstituída por William G. Shellabear, 1891](https://www.integra.unb.br/s/5T5KPYXttLNpS65/preview){#fig:malacca-kotarajaA}
+![Planta reconstituída por William G. Shellabear, 1891](https://www.integra.unb.br/s/6BgmzsntbfmKBLf/preview){#fig:malacca-kotarajaA}
 :::
 
 ::: {.column width=75%}
-![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/Mwmw4rNTynSnBoF/preview){#fig:malacca-kotarajaB}
+![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/oZLySSRq5SznArP/preview){#fig:malacca-kotarajaB}
 :::
 
 O *kota raja* de Malacca no século XV. [*Ap.* @yusoff:2019where]
@@ -611,11 +614,11 @@ século XX ([@fig:raffles]), ele perdeu a função de centro político e se
 adensou como uma vila comercial ([@fig:kampongglam]).
 ::::::
 
-![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829 [@tajudeen:kampung]](https://www.integra.unb.br/s/iWNqatePrdTJWmM/preview){#fig:raffles .stretch} 
+![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829 [@tajudeen:kampung]](https://www.integra.unb.br/s/KGpPmtBg8DbP7mA/preview){#fig:raffles .stretch} 
 
 * * * *
 
-![Kampung Glam no século XXI [@lee:2012maps]](https://www.integra.unb.br/s/K578EHQbNDrcjQW/preview){#fig:kampongglam .stretch}
+![Kampung Glam no século XXI [@lee:2012maps]](https://www.integra.unb.br/s/QCpnjxbSdqGjQ3A/preview){#fig:kampongglam .stretch}
 
 * * * *
 
