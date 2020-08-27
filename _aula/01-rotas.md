@@ -3,7 +3,7 @@ title   : "Rotas comerciais e paradigmas urbanísticos no século XIV"
 subtitle: "Tópico I"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
-parallaxBackgroundImage: https://www.integra.unb.br/s/3D3gixWtAgfRzTZ/preview
+parallaxBackgroundImage: https://www.integra.unb.br/s/S2p9DXFCfx5xs9z/preview
 parallaxBackgroundSize: '8867px 6354px'
 abstract: |
   Introdução à arquitetura na Idade Moderna -- Primeira globalização:
@@ -642,7 +642,7 @@ dentro*, a urbanização dos povos bantos na África é um paradigma de
 adensamento *para fora*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Kampung Rochor, Cingapura, 1822, demolido em 1964. [Arquivo Nacional de Cingapura *ap.* @binsharifuddeen:kampung]](https://www.integra.unb.br/s/iQs7ea5yw4GpK6o/preview){#fig:kampung-rochor .stretch}
+![Kampung Rochor, Cingapura, 1822, demolido em 1964. [Arquivo Nacional de Cingapura *ap.* @binsharifuddeen:kampung]](https://www.integra.unb.br/s/yJzy4TsgSxmDn4D/preview){#fig:kampung-rochor .stretch}
 
 
 Cidades da costa Suaíle
@@ -687,7 +687,7 @@ eles se adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Universos urbanísticos africanos, séculos XIV--XVIII](https://www.integra.unb.br/s/8jk3YRjL8aRrLt3/preview){#fig:urb-africa height=100%}
+![Universos urbanísticos africanos, séculos XIV--XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%C3%81frica_urbanismos.png/1084px-%C3%81frica_urbanismos.png){#fig:urb-africa height=100%}
 
 Cidades mercantes da costa suaíle
 ---------------------------------
@@ -718,7 +718,7 @@ antigas cidades-estado são abandonadas.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Principais cidades e eixos comerciais da costa suaíle](https://www.integra.unb.br/s/QW7KRZKigd7ipy4/preview){#fig:costa-suaile .stretch}
+![Principais cidades e eixos comerciais da costa suaíle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_sua%C3%ADle.png){#fig:costa-suaile .stretch}
 
 ## {data-background-iframe="https://www.youtube.com/embed/j5HNhGcgKfk" data-background-interactive}
 
@@ -735,7 +735,7 @@ Lamu ([@fig:lamu-mosque]) são, de fato, africanas.
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:lamu-mosque .columns}
 ::: {.column width=50%}
-![Planta [@ghaidan:1974lamu]](){#fig:lamu-mosqueA .stretch} 
+![Planta e corte [@ghaidan:1974lamu]](https://www.integra.unb.br/s/9CtF7pnaxcCJa38/preview){#fig:lamu-mosqueA .stretch} 
 :::
 ::: {#fig:lamu-mosqueB .column width=50%}
 Modelo tridimensional [@zamaniproject:2016animation]
@@ -760,10 +760,10 @@ casas em pedra [@wynne-jones:2014swahili, 121].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=30%}
-![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.integra.unb.br/s/gcTRtpjfjR4NBAe/preview){#fig:wynne-jones width=100%} 
+![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg){#fig:wynne-jones width=100%} 
 :::
 ::: {.column width=70%}
-![Planta arqueológica da cidade de Takwa [Wilson *ap.* @wynne-jones:2014swahili]](https://www.integra.unb.br/s/dsonB9RaBk333e9/preview){#fig:takwa .stretch} 
+![Planta arqueológica da cidade de Takwa [Wilson *ap.* @wynne-jones:2014swahili]](https://www.integra.unb.br/s/W58jexat6N5azmr/preview){#fig:takwa .stretch} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -788,7 +788,7 @@ mercados.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema do assentamento inicial de Shanga [Horton *ap.* @fleisher:2012finding29]](https://www.integra.unb.br/s/RQH7GfFqoJD6B44/preview){#fig:shanga .stretch}
+![Esquema do assentamento inicial de Shanga [Horton *ap.* @fleisher:2012finding29]](https://www.integra.unb.br/s/3PmwC4pS4qyk967/preview){#fig:shanga .stretch}
 
 * * * *
 
@@ -801,7 +801,7 @@ de subsistência local, que acontece nos largos junto às portas da cidade
 e nos bairros de casas de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta do palácio de Quíloa Quisiuane [@pradines:2018nouveau]](https://www.integra.unb.br/s/pkXfwFgi9cnyEPB/preview){#fig:kilwa-palacio .stretch}
+![Planta do palácio de Quíloa Quisiuane [@pradines:2018nouveau]](https://www.integra.unb.br/s/g3Dz73q3tGXDFKS/preview){#fig:kilwa-palacio .stretch}
 
 Habitação e comércio
 --------------------
@@ -816,7 +816,7 @@ moradias, principalmente aquelas perto do centro urbano, tendem a se
 alinhar e a formar ruas que se adensam gradualmente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta arqueológica da cidade de Gedi [@wynne-jones:2014swahili]](https://www.integra.unb.br/s/XExoXDgjA266fGb/preview){#fig:gedi-plan .stretch}
+![Planta arqueológica da cidade de Gedi [@wynne-jones:2014swahili]](https://www.integra.unb.br/s/scb2W6MErQrXw4R/preview){#fig:gedi-plan .stretch}
 
 * * * *
 
@@ -829,7 +829,7 @@ ampliação das casas. Esse processo resulta numa malha urbana compacta
 ([@fig:lamu-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Plano de conservação da área central de Lamu [@mwenje:2019case]](https://www.integra.unb.br/s/mj5AWwBn94MfSCR/preview){#fig:lamu-plan .stretch}
+![Plano de conservação da área central de Lamu [@mwenje:2019case]](https://www.integra.unb.br/s/Etc22y7j5ow22N6/preview){#fig:lamu-plan .stretch}
 
 Tipologia da casa de pedra suaíle
 ---------------------------------
@@ -846,10 +846,10 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns}
 ::: {.column width=50%}
-![Pavimento térreo](https://www.integra.unb.br/s/g5AWgke8KAzxZeH/preview){#fig:swahili-mercanteA .stretch} 
+![Pavimento térreo](https://www.integra.unb.br/s/D7z2MpBBm553qpM/preview){#fig:swahili-mercanteA .stretch} 
 :::
 ::: {.column width=50%}
-![Primeiro pavimento](https://www.integra.unb.br/s/Cii2teKToNEtSHM/preview){#fig:swahili-mercanteB .stretch} 
+![Primeiro pavimento](https://www.integra.unb.br/s/qzBfkneBMXE4LsC/preview){#fig:swahili-mercanteB .stretch} 
 :::
 Planta de casa mercante suaíle em Lamu [@ghaidan:1974lamu]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -916,10 +916,10 @@ tem a sua própria casa perto desse espaço central.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=75%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://www.integra.unb.br/s/npFQigweNZa9atw/preview){#fig:boma .stretch}
+![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://www.integra.unb.br/s/8bL8GBAmPiaHJgq/preview){#fig:boma .stretch}
 :::
 ::: {.column width=25%}
-![Thomas Huffman](https://www.integra.unb.br/s/qbYfFS8GNkPqMpK/preview){#fig:huffman width=100%}
+![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -943,7 +943,7 @@ Ver também:
 ::: {.column width=50%}
 ![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA width=100%}
 
-![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/nsqcdExaAjoTRjx/preview){#fig:batammalibaB width=100%}
+![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB width=100%}
 :::
 ::: {.column width=50%}
 ![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
@@ -1066,7 +1066,7 @@ ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/QE8FSL4p63dyar4/preview){#fig:kumasi-frontage .stretch}
+![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage .stretch}
 
 * * * *
 
@@ -1133,7 +1133,7 @@ maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Folha do atlas de viação da França [@trudaine:1745atlas]](https://www.integra.unb.br/s/eF2xpMRaFWsQdqe/preview){#fig:trudaine .stretch}
+![Folha do atlas de viação da França [@trudaine:1745atlas]](https://www.integra.unb.br/s/bJA6Bi5tjZbdtZG/preview){#fig:trudaine .stretch}
 
 Campo como gerador do traçado em Veneza
 ---------------------------------------
@@ -1147,7 +1147,7 @@ Veneza. Observada essa diferença, o processo de crescimento e
 adensamento em Veneza segue o mesmo padrão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo e Gaetano Combatti, planta de Veneza [@combatti:1847nuova]](https://www.integra.unb.br/s/6nrEtsb3tixJcFj/preview){#fig:combatti .stretch}
+![Bernardo e Gaetano Combatti, planta de Veneza [@combatti:1847nuova]](https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview){#fig:combatti .stretch}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg" data-transition="fade-out"}
 
@@ -1219,10 +1219,10 @@ que essa época produz.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/4QjjpEjJNj7paXz/preview){#fig:hauser-social width=100%} 
+![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/YzLyH5p8Pp4tycY/preview){#fig:hauser-social width=100%} 
 :::
 ::: {.column width=50%}
-![Arnold Hauser](https://www.integra.unb.br/s/cMH4ZCysMymiLWi/preview){#fig:hauser width=100%}
+![Arnold Hauser](https://www.integra.unb.br/s/x4DPzJN48cLpg5A/preview){#fig:hauser width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1247,7 +1247,7 @@ estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
 igreja ocupa uma posição central na ilha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1100 [@muratori:1959studiIX]](https://www.integra.unb.br/s/eAFMM5EY34s39BK/preview){#fig:grisostomo1100 .stretch}
+![Campo S. Giovanni Grisostomo, Veneza, c. 1100 [@muratori:1959studiIX]](https://www.integra.unb.br/s/xRbi43xLgAcBbnX/preview){#fig:grisostomo1100 .stretch}
 
 * * * *
 
@@ -1262,7 +1262,7 @@ atravessa toda a profundidade do edifício de frente a fundos. O
 interior do edifício ([@fig:grisostomo1200]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1200 [@muratori:1959studiIX]](https://www.integra.unb.br/s/mLLYkj3atksQocp/preview){#fig:grisostomo1200 .stretch}
+![Campo S. Giovanni Grisostomo, Veneza, c. 1200 [@muratori:1959studiIX]](https://www.integra.unb.br/s/T5xCF9e7YNLaF4H/preview){#fig:grisostomo1200 .stretch}
 
 * * * *
 
@@ -1273,7 +1273,7 @@ tacada. O resultado é um mosaico de propriedade fundiária onde palácios
 ficam lado a lado com prédios de aluguel ([@fig:grisostomo1350]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1350 [@muratori:1959studiIX]](https://www.integra.unb.br/s/EL7D2oM7f46QZow/preview){#fig:grisostomo1350 .stretch}
+![Campo S. Giovanni Grisostomo, Veneza, c. 1350 [@muratori:1959studiIX]](https://www.integra.unb.br/s/LYmZKyPGZqH7M6Q/preview){#fig:grisostomo1350 .stretch}
 
 * * * *
 
@@ -1285,7 +1285,7 @@ os pátios, ou mesmo espaços secundários dentro da edificação
 ([@fig:grisostomo1450]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1450 [@muratori:1959studiIX]](https://www.integra.unb.br/s/8rwJaonEFeyS9pL/preview){#fig:grisostomo1450 .stretch}
+![Campo S. Giovanni Grisostomo, Veneza, c. 1450 [@muratori:1959studiIX]](https://www.integra.unb.br/s/8Z6FHZ98CNHfiJS/preview){#fig:grisostomo1450 .stretch}
 
 * * * *
 
@@ -1299,7 +1299,7 @@ Renascimento": cada estágio na consolidação urbana evidencia o
 *conjunto* de períodos históricos acumulados até então.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Campo S. Giovanni Grisostomo, Veneza, c. 1500 [@muratori:1959studiIX]](https://www.integra.unb.br/s/6GGoRdHHWr5onJn/preview){#fig:grisostomo1500 .stretch}
+![Campo S. Giovanni Grisostomo, Veneza, c. 1500 [@muratori:1959studiIX]](https://www.integra.unb.br/s/C5srNckdcMKfajk/preview){#fig:grisostomo1500 .stretch}
 
 Urbanismo como palimpsesto
 --------------------------
