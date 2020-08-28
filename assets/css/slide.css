@@ -37,7 +37,7 @@ blockquote footer { text-align: right; }
 
 blockquote footer cite { font-style: normal; }
 
-figcaption { display: none; }
+figcaption, div.subfigures > p { display: none; }
 
 /********************************************* GLOBAL STYLES */
 :root { --background-color: #faecd6; --main-font: UnB Pro, Helvetica, Liberation Sans, sans-serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Georgia, Liberation Serif, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
