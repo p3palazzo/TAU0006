@@ -33,10 +33,10 @@ arquitetura *correta* herdada da Antiguidade.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Detalhe do rolo pintado do palácio, Pequim, século XV [@beijing:palacescroll]](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .stretch}
+![Detalhe do rolo pintado do palácio, Pequim, século XV [@beijing:palacescroll]](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei height=640px}
 :::
 ::: {.column width=50%}
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. [@cigoli:1613duomo]](https://upload.wikimedia.org/wikipedia/commons/8/83/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29.Duomo_di_Firenze.jpg){#fig:smfiore .stretch}
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. [@cigoli:1613duomo]](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29._Duomo_di_Firenze.png){#fig:smfiore height=640px}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -98,7 +98,7 @@ partir de meados do século XIV ([@fig:buongoverno]).
 ![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han height=100%}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .stretch}
@@ -175,12 +175,10 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi height=100%}
-
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi height=640px} 
 :::
 ::: {.column width=50%}
-![Cinco ordens de arquitetura por Claude Perrault [@perrault:1683ordonnance]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance height=100%} 
+![Cinco ordens de arquitetura por Claude Perrault [@perrault:1683ordonnance]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance height=640px}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -219,11 +217,7 @@ central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Por tudo isso, o espaço urbano na virada do século XIV é o ponto de
 partida e a base indispensável para o estudo da arquitetura até o final
@@ -318,7 +312,7 @@ arquitetura monumental sem ajuda externa ([@fig:aliens]).
 
 ![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens}
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/jo9E5NQRfb7XFLF/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além disso, a hegemonia tecnológica e política que a Europa atingiu
@@ -332,12 +326,11 @@ Desmentindo essa visão linear que tende a justificar a colonização dos
 no século XIV abrigam uma grande variedade de sociedades com modelos
 culturais e urbanísticos diversos. Esse conjunto forma a maior rede
 comercial do mundo no início da Idade Moderna.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 !["Árvore" tecnológica linear no jogo *Civilization VI*](https://www.integra.unb.br/s/jo9E5NQRfb7XFLF/preview){#fig:civ6 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Oceano Índico no centro do mundo
---------------------------------
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas redes globais do século XIV em diante, o oceano Índico ocupa um
@@ -359,8 +352,9 @@ muçulmanos.
 :::
 ::::::
 
-Reorganização das potências políticas e econômicas no século XV
----------------------------------------------------------------
+* * * *
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma combinação de mudanças climáticas, pandemias e reestruturações
@@ -378,14 +372,7 @@ escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
 sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
 China, tapeçarias da Ásia central chegam à costa leste da África e ao
 Mediterrâneo ([@fig:indico-redes]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png/480px-%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=100%}
-
-Cidades-estado e diferentes modelos de urbanização
---------------------------------------------------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Nas margens desse sistema de rotas, várias cidades-estado prosperam
 graças ao controle de pontos de passagem obrigatórios. Trowulan e
@@ -400,6 +387,9 @@ climáticas onde elas se desenvolvem.
 
 Urbanismo bioclimático › Kampung malaio
 =======================================
+
+Nem tanto ao mar, nem tanto à terra
+-----------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -418,8 +408,7 @@ estruturantes e à volta de templos e palácios fortificados.
 <!--/Câmera--> 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Nem tanto ao mar, nem tanto à terra {data-transition="fade-out"}
------------------------------------
+## {data-transition="fade-out"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No universo das cidades-estado mercantes dos séculos XIV e XV, os reinos
@@ -433,14 +422,13 @@ Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Arquipélago de Nusantara no auge do império Majapahit, século XIV [@kartapranata:2009imperio]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit height=100%}
+![Arquipélago de Nusantara no auge do império Majapahit, século XIV [@kartapranata:2009imperio]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .stretch}
 
 ## {data-transition="fade-in"}
 
-![Sultanato de Malacca no final do século XV [@kartapranata:2011sultanato]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca height=100%}
+![Sultanato de Malacca no final do século XV [@kartapranata:2011sultanato]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .stretch}
 
-Paradigmas urbanísticos e o difícil enquadramento das cidades malaias
----------------------------------------------------------------------
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -467,37 +455,36 @@ Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
 Evers ([@fig:evers]) apresentou, na bibliografia ocidental, o urbanismo
 malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
+
+![Mapa da cidade de Cingapura [@coleman:1839town]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=70%}
-![Mapa da cidade de Cingapura [@coleman:1839town]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 height=100%}
-:::
 ::: {.column width=30%}
-
-![Hans-Dieter
-Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers
-width=100%}
-
+![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers width=60%} 
+:::
+::: {.column width=70%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Kampung como unidade básica da urbanização
 ------------------------------------------
 
-:::::: notes
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 *Kampung* significa "povoado" nas línguas malaias. A configuração típica
 do *kmmpung* vem desde as origens da agricultura no Sudeste asiático
 ([@fig:arrozal]). O conjunto se organiza em torno de um caminho
 estruturante ou de um ponto focal importante, como um templo, uma
 mesquita ou um complexo palaciano.
-::::::
 
 ![Arrozal em terraços em Batad, Banaue, Filipinas [@aranas:2008banaue]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/4cD7HKtJwXCb695/preview"}
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* resulta diretamente da distribuição dos arrozais
 ([@fig:singapore1839]) num grupo comunitário e da sucessão familiar sem
 partilha da terra. Como as terras são sempre propriedade coletiva de
@@ -511,9 +498,9 @@ comparação com o uso dos espaços e dos recursos tangíveis. O critério
 mais relevante de organização do espaço é as redes de parentesco, que
 determinam a localização de casas principais e secundárias e o acesso a
 hortas e plantações ([@fig:kampung-sahabuddin-1]).
-::::::
 
 ![Esquema de um *kampung* rural simples [@mohdsahabuddin:2012establishment]](https://www.integra.unb.br/s/4cD7HKtJwXCb695/preview){#fig:kampung-sahabuddin-1 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -524,17 +511,17 @@ ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay]).
 
 ![Sequência tipológica da casa malaia [@lim:1991malay *ap.* @beng:2015unleashing16]](https://www.integra.unb.br/s/Gp7YXCctZEoAjaC/preview){#fig:lim-malay .stretch}
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/P8foN9proLG9xx8/preview"}
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Do mesmo modo, o *kampung* como um todo também se adensa até virar um
 distrito urbano compacto ([@fig:dpz1997]).
-::::::
 
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997 [@duany:2003new]](https://www.integra.unb.br/s/P8foN9proLG9xx8/preview){#fig:dpz1997}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Urbanismo real: do kampung ao pura
-----------------------------------
+Do kampung ao pura e ao kota raja
+---------------------------------
 
 :::::: notes
 Partindo do *kampung* como unidade social e urbanística *de base*, os
@@ -559,8 +546,7 @@ budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 :::
 ::::::
 
-Kota raja: cidadelas reais
---------------------------
+* * * *
 
 :::::: notes
 À margem do império Majapahit e depois do seu declínio no final do
@@ -573,9 +559,9 @@ cidades-estado é o *kota raja*, ou cidadela real.
 
 ![Diagrama conceitual de um conjunto urbano malaio [@tajudeen:2005reading8, 5]](https://www.integra.unb.br/s/DCtCB6NjnSpcgBQ/preview){#fig:malay-urbanism .stretch}
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg"}
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
 do comércio chinês e indiano. O palácio de Malacca ficava onde seria
@@ -583,28 +569,28 @@ construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
 ([@fig:fortr-malacca]). Era uma posição estratégica na foz do rio, entre
 os *kampung* malaios a sudeste e a vila comercial chinesa a noroeste, na
 outra margem do rio.
-::::::
 
 ![Planta das fortificações holandesas em Malacca, no sítio do antigo forte português e anterior cidadela real malaia. Norte à esquerda [@plan:1656malacca]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg){#fig:fortr-malacca .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/oZLySSRq5SznArP/preview"}
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
 e na sua mesquita ([@fig:malacca-kotaraja]).
-
-::::::
 
 :::::: {.columns #fig:malacca-kotaraja}
 ::: {.column width=25%}
 ![Planta reconstituída por William G. Shellabear, 1891](https://www.integra.unb.br/s/6BgmzsntbfmKBLf/preview){#fig:malacca-kotarajaA}
 :::
-
 ::: {.column width=75%}
-![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/oZLySSRq5SznArP/preview){#fig:malacca-kotarajaB}
-:::
+![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/Fm6kjabrzwTc3g6/preview){#fig:malacca-kotarajaB}
 
+![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://www.integra.unb.br/s/oZLySSRq5SznArP/preview){#fig:malacca-kotarajaC}
+:::
 O *kota raja* de Malacca no século XV. [*Ap.* @yusoff:2019where]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -618,22 +604,26 @@ adensou como uma vila comercial ([@fig:kampongglam]).
 
 ![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829 [@tajudeen:kampung]](https://www.integra.unb.br/s/KGpPmtBg8DbP7mA/preview){#fig:raffles .stretch} 
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/QCpnjxbSdqGjQ3A/preview"}
 
-![Kampung Glam no século XXI [@lee:2012maps]](https://www.integra.unb.br/s/QCpnjxbSdqGjQ3A/preview){#fig:kampongglam .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Kampung Glam no século XXI [@lee:2012maps]](https://www.integra.unb.br/s/QCpnjxbSdqGjQ3A/preview){#fig:kampongglam .stretch} 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg"}
 
-:::::: notes
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tipologia de casas comerciais característica de Cingapura é um híbrido
 que resulta do adensamento dos *kampung* usando o parcelamento urbano da
 morada chinesa e as galerias cobertas introduzidas pelos britânicos.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura [@konsek:2016shophouses]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg){#fig:shophouses}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Adensamento para dentro e para fora
 -----------------------------------
+
+## {data-background-image="https://www.integra.unb.br/s/yJzy4TsgSxmDn4D/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* malaio é um paradigma de urbanização bioclimática que parte
@@ -642,16 +632,15 @@ sucessivos, até formar um distrito urbano compacto
 ([@fig:kampung-rochor]). Em contraste com esse tipo de adensamento *para
 dentro*, a urbanização dos povos bantos na África é um paradigma de
 adensamento *para fora*.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Kampung Rochor, Cingapura, 1822, demolido em 1964. [Arquivo Nacional de Cingapura *ap.* @binsharifuddeen:kampung]](https://www.integra.unb.br/s/yJzy4TsgSxmDn4D/preview){#fig:kampung-rochor .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 Cidades da costa Suaíle
 =======================
 
-Universos urbanísticos africanos
---------------------------------
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -689,10 +678,9 @@ eles se adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Universos urbanísticos africanos, séculos XIV--XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%C3%81frica_urbanismos.png/1084px-%C3%81frica_urbanismos.png){#fig:urb-africa height=100%}
+![Universos urbanísticos africanos, séculos XIV--XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%C3%81frica_urbanismos.png/1084px-%C3%81frica_urbanismos.png){#fig:urb-africa .stretch}
 
-Cidades mercantes da costa suaíle
----------------------------------
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A [costa Suaíle][] é uma parte do litoral africano do oceano Índico, com
@@ -722,7 +710,7 @@ antigas cidades-estado são abandonadas.
 
 ![Principais cidades e eixos comerciais da costa suaíle](https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_sua%C3%ADle.png){#fig:costa-suaile .stretch}
 
-## {data-background-iframe="https://www.youtube.com/embed/j5HNhGcgKfk" data-background-interactive}
+## {data-background-iframe="https://www.youtube.com/embed/j5HNhGcgKfk" data-background-interactive="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
@@ -733,21 +721,23 @@ numa cultura propriamente africana. Porém, em 1974, o arquiteto queniano
 Usam Ghaidan defendeu a sua dissertação de mestrado demonstrando que as
 raízes socioeconômicas, culturais e construtivas da cidade suaíle de
 Lamu ([@fig:lamu-mosque]) são, de fato, africanas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5HNhGcgKfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:lamu-mosque .columns}
 ::: {.column width=50%}
 ![Planta e corte [@ghaidan:1974lamu]](https://www.integra.unb.br/s/9CtF7pnaxcCJa38/preview){#fig:lamu-mosqueA .stretch} 
 :::
-::: {#fig:lamu-mosqueB .column width=50%}
-Modelo tridimensional [@zamaniproject:2016animation]
+::: {.column width=50%}
+![Modelo tridimensional [@zamaniproject:2016animation]](){#fig:lamu-mosqueB} 
 :::
 Mesquita em Shela, Lamu, 1738 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-Traçado urbano e hierarquia social
-----------------------------------
+Hierarquia urbana
+-----------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado geral das cidades suaíle não decorre de um plano centralizado,
@@ -820,7 +810,7 @@ alinhar e a formar ruas que se adensam gradualmente.
 
 ![Planta arqueológica da cidade de Gedi [@wynne-jones:2014swahili]](https://www.integra.unb.br/s/scb2W6MErQrXw4R/preview){#fig:gedi-plan .stretch}
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/Etc22y7j5ow22N6/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desse modo, o adensamento da cidade suaíle acontece de modo
@@ -829,9 +819,9 @@ bastante espaço livre entre elas, espaço que é usado inicialmente para
 hortas e jardins. Aos poucos, o espaço livre vai sendo preenchido pela
 ampliação das casas. Esse processo resulta numa malha urbana compacta
 ([@fig:lamu-plan]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Plano de conservação da área central de Lamu [@mwenje:2019case]](https://www.integra.unb.br/s/Etc22y7j5ow22N6/preview){#fig:lamu-plan .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Tipologia da casa de pedra suaíle
 ---------------------------------
@@ -856,12 +846,16 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 Planta de casa mercante suaíle em Lamu [@ghaidan:1974lamu]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg"}
 
-![ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado [@oers:2009main]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado [@oers:2009main]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara .stretch} 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Construção em calcário de coral
 -------------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em Quíloa, palácios e mesquitas [@fig:kilwa-palacio;
@@ -872,11 +866,11 @@ usado para as paredes e abóbodas dos palácios e das mesquitas, mas
 também para as casas nos bairros centrais da cidade. Corais vivos são
 usados para executar acabamentos coloridos e conchas são trituradas para
 produzir argamassa.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Exterior da mesquita maior de Quíloa Quisiuane [@oers:2009great]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg){#fig:kilwa-mesquita-ext .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A configuração espacial e estrutural das principais mesquitas dos
@@ -884,11 +878,11 @@ séculos XI a XVIII é inspirada na arquitetura persa e egípcia. O partido
 habitual é o de um salão com uma grelha de pilares que sustentam uma
 malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Interior da mesquita maior de Quíloa Quisiuane [@stanley:2017ruins]](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-int .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Do *boma* banto às cidades da Guiné
+Do boma banto às cidades da Guiné
 =================================
 
 Espaço agropastoril
@@ -917,16 +911,18 @@ tem a sua própria casa perto desse espaço central.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=75%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://www.integra.unb.br/s/8bL8GBAmPiaHJgq/preview){#fig:boma .stretch}
+::: {.column width=85%}
+![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://www.integra.unb.br/s/8bL8GBAmPiaHJgq/preview){#fig:boma width=100%} 
 :::
-::: {.column width=25%}
+::: {.column width=15%}
 ![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Estruturação do espaço intra-muros: Tata somba
-----------------------------------------------
+Estruturação do espaço intra-muros
+----------------------------------
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
@@ -943,9 +939,9 @@ Ver também:
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
 ::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA width=100%}
+![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA height=320px}
 
-![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB width=100%}
+![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB height=320px}
 :::
 ::: {.column width=50%}
 ![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
@@ -955,6 +951,8 @@ Tata somba
 
 Redes políticas no território: grande Zimbábue
 ----------------------------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera--> 
@@ -976,12 +974,14 @@ semelhantes às relações que se estabelecem *dentro* de cada sistema
 *boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
 na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Adensamento do boma e malha viária
 ----------------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* malaio se desenvolve à margem de um caminho estruturante. No
@@ -990,12 +990,14 @@ causa a formação dos caminhos. À medida que as comunidades baseadas no
 *boma* se tornam mais numerosas e ocupam o território com maior
 densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Delimitação do traçado urbano em Benim
 --------------------------------------
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -1017,26 +1019,28 @@ da cidade ([@fig:benin-markets]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=25%}
 ![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg/480px-Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg.png){width=100%}
 :::
-::: {.column width=50%}
+::: {.column width=75%}
 ![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
 pátios eram delimitados por casas de taipa com coberturas muito
 inclinadas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Máxima densidade urbana: Kumasi
 -------------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
@@ -1045,36 +1049,36 @@ final do século XVIII. Assim como Benim, Kumasi é uma cidade fortemente
 adensada ([@fig:kumasi-plan]) em torno do palácio real
 ([@fig:kumasi-palace]). No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como em Benim, o palácio fica na área mais central da cidade.
 Grande parte da malha urbana em volta dele é ocupada por casas da
 família real e da administração do estado.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os complexos familiares em Kumasi são extremamente compactos, formando
 um alinhamento contínuo sobre a rua ([@fig:kumasi-frontage]). As casas
 ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .stretch}
+## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .stretch}
+
 <!--Câmera-->
 Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das
 regiões tropicais desenvolve respostas convergentes para o problema da
@@ -1100,6 +1104,8 @@ expansão. Esse processo acontece em Veneza, do século IX ao XVI.
 Campo, *calle* e canal em Veneza
 ==============================
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Veneza é uma das cidades mais densas do mundo, por força da necessidade
@@ -1117,12 +1123,14 @@ para o desenvolvimento artístico do Renascimento. O paradoxo do
 Renascimento em Veneza é justamente esse: uma cidade sem espaço para
 realizar os projetos ideais que as suas editoras publicam, mas que se
 renova pouco a pouco com esse ideal no horizonte.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg){#fig:embaixadores .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Parcelamento urbano europeu
 ---------------------------
+
+## {data-background-image="https://www.integra.unb.br/s/bJA6Bi5tjZbdtZG/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
@@ -1133,12 +1141,14 @@ tempo que os núcleos urbanos se estendem ao longo dos caminhos, eles se
 *espessam* para os fundos das glebas e se *adensam* para aproveitar com
 maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Folha do atlas de viação da França [@trudaine:1745atlas]](https://www.integra.unb.br/s/bJA6Bi5tjZbdtZG/preview){#fig:trudaine .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Campo como gerador do traçado em Veneza
 ---------------------------------------
+
+## {data-background-image="https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
@@ -1147,9 +1157,9 @@ Em vez disso, portanto, a estruturação do traçado urbanístico é
 centralizada em pontos focais: a praça de bairro, chamada *campo* em
 Veneza. Observada essa diferença, o processo de crescimento e
 adensamento em Veneza segue o mesmo padrão.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Bernardo e Gaetano Combatti, planta de Veneza [@combatti:1847nuova]](https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview){#fig:combatti .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg" data-transition="fade-out"}
 
@@ -1194,7 +1204,7 @@ tanto para as casas romanas com átrio quanto para as casas geminadas
 medievais, com corredor lateral ([@fig:caniggia]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Evolução dos tipos portantes na Itália [@caniggia:2008lettura]](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia height=100%}
+![Evolução dos tipos portantes na Itália [@caniggia:2008lettura]](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia .stretch}
 
 * * * *
 
@@ -1221,14 +1231,14 @@ que essa época produz.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/YzLyH5p8Pp4tycY/preview){#fig:hauser-social width=100%} 
+![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/YzLyH5p8Pp4tycY/preview){#fig:hauser-social .stretch} 
 :::
 ::: {.column width=50%}
-![Arnold Hauser](https://www.integra.unb.br/s/x4DPzJN48cLpg5A/preview){#fig:hauser width=100%}
+![Arnold Hauser](https://www.integra.unb.br/s/x4DPzJN48cLpg5A/preview){#fig:hauser .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/xRbi43xLgAcBbnX/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -1247,11 +1257,11 @@ comunidade. As primeiras casas são construídas no perímetro da ilha,
 deixando todo o interior livre para o *campo* e começando por
 estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
 igreja ocupa uma posição central na ilha.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1100 [@muratori:1959studiIX]](https://www.integra.unb.br/s/xRbi43xLgAcBbnX/preview){#fig:grisostomo1100 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/T5xCF9e7YNLaF4H/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao mesmo tempo que se completa o perímetro da ilha, os edifícios começam
@@ -1262,22 +1272,22 @@ morada nobre: o palácio com *portego*, um salão no primeiro andar que
 atravessa toda a profundidade do edifício de frente a fundos. O
 *portego* fornece iluminação e ventilação indiretas para várias salas no
 interior do edifício ([@fig:grisostomo1200]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1200 [@muratori:1959studiIX]](https://www.integra.unb.br/s/T5xCF9e7YNLaF4H/preview){#fig:grisostomo1200 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/LYmZKyPGZqH7M6Q/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 O processo de adensamento é gradual, e nenhum agente tem poder econômico
 ou político suficiente para impor grandes transformações de uma só
 tacada. O resultado é um mosaico de propriedade fundiária onde palácios
 ficam lado a lado com prédios de aluguel ([@fig:grisostomo1350]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1350 [@muratori:1959studiIX]](https://www.integra.unb.br/s/LYmZKyPGZqH7M6Q/preview){#fig:grisostomo1350 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/8Z6FHZ98CNHfiJS/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As construções privadas tendem a ocupar a totalidade dos seus lotes;
@@ -1285,11 +1295,11 @@ portanto, elas assumem no seu interior a irregularidade geométrica dos
 lotes. Para isso, pode-se usar as articulações do espaço construído com
 os pátios, ou mesmo espaços secundários dentro da edificação
 ([@fig:grisostomo1450]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1450 [@muratori:1959studiIX]](https://www.integra.unb.br/s/8Z6FHZ98CNHfiJS/preview){#fig:grisostomo1450 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://www.integra.unb.br/s/C5srNckdcMKfajk/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A essa altura, o *campo* já foi pavimentado e tem o seu espaço muito
@@ -1299,12 +1309,14 @@ a coerência das etapas anteriores. Não existe um urbanismo
 exclusivamente representativo da "Veneza medieval" ou da "Veneza do
 Renascimento": cada estágio na consolidação urbana evidencia o
 *conjunto* de períodos históricos acumulados até então.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Campo S. Giovanni Grisostomo, Veneza, c. 1500 [@muratori:1959studiIX]](https://www.integra.unb.br/s/C5srNckdcMKfajk/preview){#fig:grisostomo1500 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Urbanismo como palimpsesto
 --------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na leitura de Muratori, a cidade é ao mesmo tempo *artefato* e
@@ -1319,9 +1331,9 @@ os edifícios, especialmente os mais antigos.
 Em Veneza, não há espaço para grandes traçados autorais. A cidade se
 renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Urbanismo europeu e historicidade
 ---------------------------------

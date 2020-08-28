@@ -72,7 +72,8 @@ blockquote {
   }
 }
 
-figcaption {
+figcaption,
+div.subfigures>p {
   display: none;
 }
 
