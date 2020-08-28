@@ -66,7 +66,7 @@ trabalho *intelectual*.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
@@ -74,11 +74,11 @@ filosofia escolástica e o estilo gótico desde o século XII
 [@panofsky:2001arquitetura]. A partir do século XV, ela passa a ocupar
 um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anônimo do século XV. Perspectiva arquitetônica com porto [@perspectiva:1495]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Espaço artístico e arquitetônico como problema intelectual
+Espaço artístico e arquitetônico como problema intelectual {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
 ----------------------------------------------------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -94,15 +94,15 @@ Os problemas de como *dar forma* ao espaço e como *representar* essa
 forma no desenho e na pintura se tornam centrais na China da dinastia
 Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
 partir de meados do século XIV ([@fig:buongoverno]).
+
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han height=100%}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .stretch}
-
-* * * *
-
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .stretch}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .stretch}
+
 Nos dois casos, o desenvolvimento de
 técnicas espaciais vem associado a uma discussão sobre o lugar dos
 conhecimentos artísticos e arquitetônicos no campo dos saberes
@@ -175,14 +175,16 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){.stretch #fig:yingzao-fashi} 
+
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi height=100%}
+
 :::
 ::: {.column width=50%}
-![Cinco ordens de arquitetura por Claude Perrault [@perrault:1683ordonnance]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){.stretch #fig:perrault-ordonnance} 
+![Cinco ordens de arquitetura por Claude Perrault [@perrault:1683ordonnance]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance height=100%} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Domínio do espaço
+Domínio do espaço {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
 -----------------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -192,22 +194,22 @@ domínio se exercita antes de se ampliar para a escala de territórios
 regionais ou nacionais no século XVIII. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
 literalmente, num só golpe de vista ([@fig:carnevale]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse golpe de vista pode ser simbólico: nos séculos XV a XVII as vistas
 panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
 do território ([@fig:versailles-patel]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
@@ -215,9 +217,9 @@ Outras vezes, como na pintura da escola *tosa* no Japão do século XVI e
 início do XVII, podem celebrar o fato efêmero da fragmentação do poder
 central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -297,7 +299,7 @@ sendo capazes de criar arquitetura monumental.
 ::: {.column width=70%}
 ![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas [@choisy:1899histoire1, 198]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisy-pacific width=100%} 
 :::
-::: {.column width=50%}
+::: {.column width=30%}
 ![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){#fig:choisy width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
