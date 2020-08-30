@@ -259,7 +259,7 @@ na costa oeste do Atlântico norte.
 ![Mundo nórdico, séculos X--XIV. [@redgeographics:2016map]](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
 :::
 ::: {.column width=50%}
-![Triângulo polinésio e migrações até o século X. [@eccles:2008orthographic]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
+![Triângulo polinésio e migrações até o século X. [@eccles:2008polynesian]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1101,8 +1101,8 @@ expansão. Esse processo acontece em Veneza, do século IX ao XVI.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Campo, *calle* e canal em Veneza
-==============================
+Campo e canal em Veneza
+=======================
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg"}
 
