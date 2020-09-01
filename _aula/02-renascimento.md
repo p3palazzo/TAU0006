@@ -6,58 +6,138 @@ lang    : pt-BR
 layout  : default
 ---
 
+# 
+
+Nesta sequência, vamos abordar a arquitetura do século XV na Europa e na
+Ásia central sob os pontos de vista da construção e da espacialidade. O
+desenvolvimento de sistemas e processos construtivos e a transformação
+nas configurações e relações espaciais são duas das principais questões
+que pertencem ao domínio da história da arquitetura. Junto com o estudo
+da decoração dos edifícios, essas questões formam o tripé que constitui
+a chamada "história dos estilos" --- o modelo básico de pesquisa e
+ensino da história da arte nas universidades e escolas de arquitetura no
+mundo ocidental desde o final do século XIX.
+
+As duas primeiras seções discutem o marco teórico sobre o qual se
+constituiu o conceito historiográfico de Renascimento. 
+Na primeira seção, discutiremos como a história da construção aproximou
+o estudo vocacional da arquitetura da pesquisa universitária, mas também
+como ela foi usada para fabricar hierarquias entre os "estilos" de
+diferentes culturas. A segunda seção se dedica ao estudo do espaço
+arquitetônico, um problema que ocupou sobretudo os autores modernistas
+no seu olhar retrospectivo sobre o Renascimento.
+
+As duas últimas seções tratam das questões construtivas e espaciais
+aplicadas a duas culturas arquitetônicas distintas. Na terceira seção,
+vamos entender como a inovação técnica na solução de problemas
+construtivos em pedra dá o impulso para o desenvolvimento do
+Renascimento na Europa. Na quarta e última seção, o estudo das malhas
+espaciais no mundo islâmico oferece uma perspectiva alternativa sobre a
+"história dos estilos".
+
 História da arquitetura como história da construção
 ===================================================
 
-Interlúdio: teoria da história da arquitetura
----------------------------------------------
+Teoria da história da arte
+--------------------------
 
-- William Chambers, Baseado em Fischer von Erlach e Winckelmann,
-  estabelece uma tipologia de construções primitivas de acordo com
-  diferentes culturas do mundo, depois elaborada por Quatremère de
-  Quincy no conceito de "caráter essencial".
+A disciplina acadêmica da História se desenvolve em várias regiões do
+mundo na tentativa de explicar o passado, e mais ainda na busca de um
+sentido para os processos históricos como um todo. Na China, essa busca
+por sentido se expressa desde a Antiguidade num plano político, em
+livros que tentam explicar a sucessão de acontecimentos e de dinastias.
 
-- Tipos de Chambers e Quatremère:
-  - Tenda: sistema espacial simples e inflexível, mínima elaboração
-    estrutural; origem da arquitetura africana, asiática e ameríndia;
-  - Caverna: sistema estrutural de grandes massas, não deixa
-    oportunidades para a realização de vazios espaciais; origem da
-    arquitetura egípcia e persa;
-  - Cabana: a de Vitrúvio e Laugier; equilíbrio ideal entre espaço e
-    estrutura, origem da ordem dórica e da arquitetura europeia.
+Na Europa do século XVIII em diante, os métodos de pesquisa e escrita da
+história se transformam em paralelo com o desenvolvimento do conceito
+político de *nação*. Segundo o filósofo iluminista alemão Immanuel Kant,
+a *Pátria* é uma das três únicas ideias inatas na mente humana (as
+outras duas sendo Deus e a Liberdade). No lugar de reis ou de
+personalidades estudadas individualmente, a nação passa a ser vista como
+o agente coletivo da história.
 
-- Noção de que o desenvolvimento da arquitetura e da técnica é uma linha
-  que vai do primitivo ao moderno. As diversas culturas, mesmo as que
-  existem *no presente*, se encontram em diferentes "estágios" de um
-  desenvolvimento unívoco.
+Essa redefinição da pesquisa histórica em torno de coletivos
+transcendentais é propulsada, em primeiro lugar, pela História da Arte.
+Ela emerge como campo de estudos a partir da *História da arte na
+Antiguidade*, escrita pelo alemão [Johann Joachim Winckelmann][] na
+primeira metade do século XVIII. Na esteira dessa obra, o
+modelo predominante segundo o qual se ensina a História da Arte e da
+Arquitetura hoje em dia foi formulado, nas suas linhas gerais, durante
+os séculos XVIII e XIX. Esse modelo organiza a história como um sistema
+de "caixas" mais ou menos estanques, separadas por país ou cultura,
+período cronológico e "estilo" ou movimento artístico.
 
-![Linha tecnológica do jogo *Civilization VI*]()
+![Esquema conceitual da história da arte](){#fig:caixas}
 
-- A partir daí, o paradigma fundador e marco explicativo da disciplina
-  (eminentemente europeia) da História da Arquitetura que se consolida
-  nos séculos XIX e XX passa a ser uma história dos estilos como
-  resposta artística à evolução da técnica construtiva.
+Por trás desse sistema de "caixas" está a descoberta e o interesse na
+diversidade artística global, que se manifesta na Europa a partir do
+final do século XVII. Esse método de organização e explicação da
+História --- assim como a preocupação com a validade universal do método
+--- é, portanto, um fenômeno especificamente europeu. Por conseguinte, é
+um sistema que acaba por privilegiar a própria Europa enquanto portadora
+de sentido histórico e de uma certa noção de "progresso" rumo à
+modernidade. Isso se dá em detrimento de outras culturas, que acabam por
+ser classificadas como "atrasadas", numa visão linear onde o único
+caminho possível para o "progresso" é aquele trilhado pela Europa,
+quando não como "a-históricas", ou seja, totalmente desprovidas de
+processo histórico digno desse nome. Esse modelo é representado pela "árvore da
+arquitetura" que ilustra as primeiras edições da *História da
+arquitetura pelo método comparado* de Banister Fletcher, publicado pela
+primeira vez em 1896 -@fletcher:1905history.
 
-História é particularidade europeia?
-------------------------------------
+![A árvore da arquitetura @fletcher:1905history](){#fig:tree}
 
-- Ponto culminante desse paradigma ocorre no final do século XIX com as
-  histórias da arquitetura ditas "comparativas" de 1896 por Banister
-  Fletcher e Banister F. Fletcher (ingleses) e por Auguste Choisy
-  (francês).
+Historicidade da construção como critério de base na História da Arquitetura
+----------------------------------------------------------------------------
 
-- Renascimento é a realização plena da história dos estilos, unindo o
-  avanço tecnológico da construção à continuidade da tradição clássica.
-  Esse Renascimento é entendido na longa duração como *toda* a
-  arquitetura europeia do século XV em diante.
+No contexto da classificação efetuada por períodos e por grupos
+culturais, as distinções construtivas têm um papel naturalmente
+destacado. O teórico francês Quatremère de Quincy, inspirado no escocês
+William Chambers, organizou todas as tradições arquitetônicas do mundo
+em três categorias construtivas. A tenda tem um sistema espacial simples
+e inflexível, com mínima elaboração estrutural. A caverna é um sistema
+estrutural de grandes massas, que não deixa oportunidades para
+realização de vazios espaciais com forma definida. Seria, segundo ele,
+ao origem da arquitetura egípcia ou persa. A cabana primitiva é, desde
+Vitrúvio, o ponto de partida da arquitetura ocidental, e especialmente
+daquela clássica. A cabana apresenta o equilíbrio ideal entre espaço e
+estrutura, e constitui a origem da ordem dórica e da arquitetura
+europeia como um todo.
 
-- Influência de Choisy sobre Le Corbusier (o modo de conceber a história
-  da disciplina influencia a prática).
+![Tipos edilícios fundadores segundo William Chambers](){#fig:types}
 
-- Distinção entre estilos "históricos" e "não históricos" (introduzidos
-  na quarta edição, de 1901) segundo Fletcher & Fletcher se baseia no
-  desconhecimento europeu a respeito da evolução construtiva em
-  sociedades asiáticas, africanas e ameríndias.
+A classificação de Quatremère opera duas formas de hierarquização da
+arquitetura. Primeiro, ela define a construção como elemento elemento
+fundador do caráter arquitetônico. Segundo, ela erige explicitamente a
+arquitetura europeia como superior a todas as outras tradições
+arquitetônicas globais.
+
+Outro resultado dessa separação da arquitetura em caixas organizadas por
+cultura e por período histórico é situar a obra dos grandes mestres no
+contexto da sua cultura e do seu período, ou mesmo afirmar que esta obra
+não vai além de ser reflexo da cultura e do período em questão. A partir
+daí, o paradigma fundador e marco explicativo da disciplina
+(eminentemente europeia) da História da Arquitetura nos séculos XIX e XX
+passa a ser uma história dos estilos como resposta artística à evolução
+da técnica construtiva.
+
+Desse ponto de vista, é a manipulação de soluções construtivas que
+impulsiona a transformação dos estilos. A consequência fundamental desse
+entendimento, para os historiadores do século XIX, é a eliminação do
+acontecimento aleatório e do arbítrio do artista na explicação do
+processo histórico. A história da arquitetura passa ser vista como um
+processo coletivo e inevitável que leva da Antiguidade clássica à
+modernidade europeia. O caso extremo desse entendimento é o conceito de
+"história da arte sem artistas" proposto pelo historiador da arte suíço
+[Heinrich Wölfflin][]. Assim, construção e estilo se unem numa síntese
+explicativa orgânica.
+
+O auge desse paradigma ocorre no final do século XIX com as histórias da
+arquitetura ditas "comparativas" de 1896 pelos ingleses Banister
+Fletcher e Banister F. Fletcher e de 1899 pelo francês Auguste Choisy.
+Desse ponto de vista, o Renascimento seria a realização plena da
+história dos estilos, unindo o avanço tecnológico da construção à
+continuidade da tradição clássica. Esse Renascimento é entendido na
+longa duração como *toda* a arquitetura europeia do século XV em diante.
 
 > From an architect's point of view, these non-historical styles can
 > scarcely be so interesting as those which have progressed on the
@@ -65,12 +145,56 @@ História é particularidade europeia?
 > the case in Europe from the Classic period to that of the Renaissance.
 > [@fletcher:1905history, 604]
 
-![Árvore da arquitetura, do livro de Fletcher & Fletcher]()
+História como ruptura
+---------------------
 
-- Fletcher & Fletcher levantam um problema central: até que ponto as
-  culturas não europeias são irredutíveis ao paradigma historiográfico
-  europeu? E como constituir uma narrativa ao mesmo tempo coerente e
-  inclusiva do incomensurável? [@baydar:1998postcolonial]
+A última, e talvez a mais importante, consequência desse entendimento
+orgânico do processo histórico é considerar que a característica
+essencial da história é as suas rupturas. O senso de que haveria uma
+renovação cultural de alto a baixo no Renascimento é, naturalmente, uma
+invenção do próprio Renascimento --- especialmente promovida por Giorgio
+Vasari, o autor das *Vidas dos artistas*. Essa obra é uma leitura
+retrospectiva do Renascimento, começando com Giotto e culminando em
+Miguel Ângelo, o "queridinho" de Vasari. As *Vidas dos artistas* do
+Vasari têm, portanto, um plano narrativo claro: demonstrar a evolução
+artística durante o Renascimento e a superioridade de Miguel Ângelo
+sobre seus predecessores e contemporâneos. Mesmo assim, essa narrativa
+se firma como o paradigma explicativo central do Renascimento até meados
+do século XX. O entendimento de que o Renascimento começa com uma
+ruptura com respeito ao período medieval que o antecede e termina com
+outra ruptura, no advento do barroco, permanece um critério de
+periodização corrente ainda hoje.
+
+- Influência de Choisy sobre Le Corbusier (o modo de conceber a história
+  da disciplina influencia a prática).
+
+História da construção rediviva
+-------------------------------
+
+A História da construção se renova a partir do final do século XX. Ela
+passa a considerar não só a relação entre técnica e forma, mas também os
+processos de produção do ambiente construído, as relações de trabalho e
+o mecenato artístico.
+
+A distinção de estilos históricos não históricos feita por Banister
+Fletcher levanta um problema central na interpretação histórica da
+arquitetura com base na evolução dos tipos construtivos. Até que ponto
+as diversas culturas construtivas são irredutíveis umas às outras
+[@baydar:1998postcolonial]? Como pensar a historicidade de culturas que
+não enxergam seu passado segundo o paradigma historiográfico ocidental?
+Por fim, é possível elaborar uma narrativa coerente e inclusiva na
+escala global, se as diferentes culturas do mundo são incomensuráveis
+entre si? A resposta dada na segunda metade do século XX a essas
+perguntas colocou o espaço no centro do debate. Tratar do espaço
+arquitetônico envolve, por um lado, um grau de abstração que era
+atraente para os autores modernistas de meados do século XX. Por outro
+lado, essa abstração induz ao uso de metodologias quantitativas, como a
+sintaxe espacial, que trazem uma impressão de precisão e universalidade
+das interpretações.
+
+Se for, de fato, possível extrair um sentido explicativo da história da
+arquitetura, a tensão entre transformação construtiva e evolução das
+formas espaciais é, certamente, um dos motores do processo histórico.
 
 História da arquitetura como história do espaço
 ===============================================
@@ -126,11 +250,38 @@ Perspectivas pós-coloniais
 - Mas afinal, existe uma particularidade europeia no desenvolvimento
   histórico da arquitetura como solução de problemas construtivos?
 
+Arquitetura e perspectiva
+-------------------------
+
+- Paul Frankl, Wittkower, Argan
+
+- Da pintura bizantina ao gótico francês
+
+- De Giotto a Lorenzetti e Martini
+
+- Quem "inventa" a perspectiva linear cônica? Brunelleschi, Alberti?
+  Primeiras aplicações em Fra Angelico, Masaccio
+
+Sistemas espaciais finitos
+--------------------------
+
+- Existe alguma relação intrínseca entre a arquitetura gótica e o
+  desenvolvimento de uma sensibilidade espacial? Abóbadas (traçados
+  lineares potencialmente infinitos) e cúpulas (volume espacial
+  delimitado)
+
+- Perspectiva implica controle total sobre o espaço, eliminando toda
+  indefinição, or is it? Wölfflin vs Frankl vs Evans
+
+- Deep space shallow space
+
 Cúpulas europeias e explorações da técnica
 ==========================================
 
 Construção da cúpula de Brunelleschi
 ------------------------------------
+
+Pensamento teórico molda e é moldado pelas práticas.
 
 Abóbadas em pedra e cúpulas em madeira: o tratado de De L'Orme
 --------------------------------------------------------------
@@ -161,3 +312,8 @@ Egito mameluco, império Timúrida e sultanatos do Decã
 
 - Ambiguidade entre edificação e espaço urbano coberto: o que é uma
   cidade?
+
+Referências
+===========
+
+[Johann Joachim Winckelmann]: https://pt.wikipedia.org/wiki/Johann_Joachim_Winckelmann
