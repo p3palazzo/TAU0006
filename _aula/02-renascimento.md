@@ -78,7 +78,7 @@ de sentido histórico e de uma certa noção de "progresso" rumo à
 modernidade. Isso se dá em detrimento de outras culturas, que acabam por
 ser classificadas como "atrasadas", numa visão linear onde o único
 caminho possível para o "progresso" é aquele trilhado pela Europa,
-quando não como "a-históricas", ou seja, totalmente desprovidas de
+quando não como "não históricas", ou seja, totalmente desprovidas de
 processo histórico digno desse nome. Esse modelo é representado pela "árvore da
 arquitetura" que ilustra as primeiras edições da *História da
 arquitetura pelo método comparado* de Banister Fletcher, publicado pela
@@ -92,9 +92,10 @@ Historicidade da construção como critério de base na História da Arquitetura
 No contexto da classificação efetuada por períodos e por grupos
 culturais, as distinções construtivas têm um papel naturalmente
 destacado. O teórico francês Quatremère de Quincy, inspirado no escocês
-William Chambers, organizou todas as tradições arquitetônicas do mundo
-em três categorias construtivas. A tenda tem um sistema espacial simples
-e inflexível, com mínima elaboração estrutural. A caverna é um sistema
+William Chambers [@chambers:1759treatise], organizou todas as tradições
+arquitetônicas do mundo em três categorias construtivas
+[@quatremere:1788caractere]. A tenda tem um sistema espacial simples e
+inflexível, com mínima elaboração estrutural. A caverna é um sistema
 estrutural de grandes massas, que não deixa oportunidades para
 realização de vazios espaciais com forma definida. Seria, segundo ele,
 ao origem da arquitetura egípcia ou persa. A cabana primitiva é, desde
@@ -109,7 +110,12 @@ A classificação de Quatremère opera duas formas de hierarquização da
 arquitetura. Primeiro, ela define a construção como elemento elemento
 fundador do caráter arquitetônico. Segundo, ela erige explicitamente a
 arquitetura europeia como superior a todas as outras tradições
-arquitetônicas globais.
+arquitetônicas globais. O debate sobre o lugar da construção na história
+da arquitetura ainda vai dar muitas voltas depois de Quatremère. Na
+metade do século XIX, o alemão Gottfried Semper propõe que a construção
+é secundária diante da organização comunitária do espaço
+[@semper:2004style], lançando as bases para a história social da
+arquitetura que domina a pesquisa hoje em dia.
 
 Outro resultado dessa separação da arquitetura em caixas organizadas por
 cultura e por período histórico é situar a obra dos grandes mestres no
@@ -138,6 +144,11 @@ Desse ponto de vista, o Renascimento seria a realização plena da
 história dos estilos, unindo o avanço tecnológico da construção à
 continuidade da tradição clássica. Esse Renascimento é entendido na
 longa duração como *toda* a arquitetura europeia do século XV em diante.
+Essa proposição dá sentido à história da arquitetura europeia: sentido que
+é amplamente desejado e demandado do ponto de vista de uma arquitetura que
+se pretende continuidade e conclusão desse Renascimento. As culturas "não
+históricas" são o fulcro diante do qual a historicidade da Europa pode se
+apresentar de modo mais realizado:
 
 > From an architect's point of view, these non-historical styles can
 > scarcely be so interesting as those which have progressed on the
@@ -145,8 +156,8 @@ longa duração como *toda* a arquitetura europeia do século XV em diante.
 > the case in Europe from the Classic period to that of the Renaissance.
 > [@fletcher:1905history, 604]
 
-História como ruptura
----------------------
+História como ruptura e continuidade
+------------------------------------
 
 A última, e talvez a mais importante, consequência desse entendimento
 orgânico do processo histórico é considerar que a característica
@@ -165,16 +176,106 @@ ruptura com respeito ao período medieval que o antecede e termina com
 outra ruptura, no advento do barroco, permanece um critério de
 periodização corrente ainda hoje.
 
-- Influência de Choisy sobre Le Corbusier (o modo de conceber a história
-  da disciplina influencia a prática).
+Um resultado desse entendimento da história como sequência de rupturas
+é a leitura do processo de modo teleológico, como um caminho a ser trilhado
+desde um ponto de quebra até um ideal a ser atingido.
+A visão teleológica da história, ou seja, a leitura de que processo histórico
+tem um objetivo e um resultado determinado no tempo, é tentadora para quem
+pensa estar no ponto culminante desse processo. Essa visão
+determinista pressupõe o conhecimento retrospectivo do resultado do processo
+histórico. Somente desse ponto de vista é possível postular uma sucessão de
+períodos desde o primitivo e incipiente até o clássico e o tardio ou
+decadente. Para quem se encontra no início, por assim dizer, de um desses
+ciclos, não existe o clássico e muito menos decadente. A obra de
+Brunelleschi no início do século XV não é a premonição do classicismo de
+Bramante, mas a própria obra de Brunelleschi plenamente realizada
+[@scott:1974architecture].
 
-História da construção rediviva
--------------------------------
+Nesse sentindo, a história da construção expõe as idas e vindas e os
+pontos e contato entre a erudição autoral e as tradições vernáculas. As
+práticas construtivas dizem respeito não só àquilo que o arquiteto
+deseja realizar e concebe no seu projeto, mas principalmente àquilo que
+é possível realizar dados os materiais, a mão de obra e a logística do
+canteiro vigentes numa certa época e lugar. Em muitos casos, além disso,
+as preexistências construídas condicionam ainda mais aquilo que pode ser
+executado. Completar um tecido edificado existente com continuidade e
+harmonia pode ser uma demonstração de sucesso mais marcante do que
+realizar uma obra singular e isolada. Esse é o caso da cúpula da
+catedral de Florença --- uma edificação iniciada no século XIII seguindo
+projetos cada vez mais ambiciosos a ponto de, num certo momento, serem
+considerados impossíveis.
+
+Cúpula de Brunelleschi enquanto problema construtivo
+----------------------------------------------------
+
+Entre essas duas tentações opostas, portanto, --- por um lado a tentação
+de explicar tudo como resultado de uma espécie de determinismo
+coletivista, por outro a tentação de explicar tudo a partir da
+genialidade do artista e da criação autoral singular --- a realidade
+impõe sempre uma negociação entre os extremos. A cúpula da Catedral de
+Florença, provavelmente a obra-prima do primeiro Renascimento, é antes
+de mais nada a solução necessária de um problema construtivo. No
+entanto, ela é também o suporte de conflitos prolongados entre os corpos
+de ofícios tradicionais, os complexos sistemas de mecenato de uma obra,
+e o artista que percebe a si mesmo como criador singular. A história da
+construção da cúpula de Brunelleschi é, também, a história de quem são
+os construtores da cúpula: aquele que *projeta* a forma arquitetônica,
+os que *pagam* pela sua execução e portanto detêm poder de decisão, ou
+aqueles que *executam* a edificação e, portanto, detêm ao menos parte do
+conhecimento técnico?
+
+No cerne do problema da cúpula de Florença está a necessidade conciliar
+dois encargos contraditórios: a tradição italiana de arquitetura
+religiosa, que perde uma cúpula sobre cruzeiro, e a modernidade da
+estrutura gótica, que favorece um sistema de estruturas lineares e
+contínuas. A intenção de competir com o vão livre de 42 metros do
+Pantheon de Roma só aumenta a dificuldade da tarefa. A *opera del
+duomo*, ou administração da obra da catedral, lança em 1420 não uma
+simples licitação para execução da obra, mas um concurso para a solução
+técnica da construção.
+
+Esse concurso não é totalmente inusitado no contexto da construção de um
+grande edifício cívico. Concurso de maquetes para escolher o projeto de
+um edifício ou a forma de certos elementos, como altares e portas, eram
+comuns na Itália medieval. Em 1413, o próprio Brunelleschi competiu com
+Lorenzo Ghiberti pela encomenda das portas de bronze do batistério da
+Catedral de Florença (a encomenda foi atribuída a Ghiberti). O que o
+concurso de 1420 tinha de excepcional era versar sobre um *procedimento*
+construtivo e não sobre a *forma* final do objeto. Brunelleschi vence
+com uma solução para o problema da execução da obra da cúpula, mais do
+que com uma forma tangível.
+
+Essa proposta marca a intrusão de uma intenção técnica individual no
+domínio que era da alçada do conhecimento tradicional e, sobretudo, das
+prerrogativas jurídicas dos ofícios construtivos, e que, portanto, não
+costumava ser um ponto aberto para debate. Ao mesmo tempo que
+Brunelleschi interfere nas práticas arraigadas do canteiro de obra para
+oferecer uma solução a um problema que essas práticas não tinham até
+então conseguido resolver, ele não pode abrir mão dessas práticas para
+levar a obra a cabo.
+
+Originalidade e exemplaridade
+-----------------------------
+
+Tratar a cúpula de Brunelleschi como solução de um problema permite
+escapar aos dois extremos da interpretação histórica: por um lado, fugir
+ao determinismo historicista que não é capaz de enxergar
+intencionalidade nos processos; por outro, não tratar a obra construída
+apenas como fruto de um gênio criativo. Enquanto solução técnica e
+formal, a cúpula agrega ao nosso repertório de conhecimentos sobre a
+construção. Enquanto solução para um problema específico, a cúpula
+demonstra que a criação artística é, antes de mais nada, resposta a
+demandas reais.
+
+Desafios da historicidade
+-------------------------
 
 A História da construção se renova a partir do final do século XX. Ela
 passa a considerar não só a relação entre técnica e forma, mas também os
 processos de produção do ambiente construído, as relações de trabalho e
-o mecenato artístico.
+o mecenato artístico. Essas abordagens não olham para a história como um
+caminho com destino certo, mas situam cada realização no contexto dos
+seus próprios antecedentes e do quadro contemporâneo.
 
 A distinção de estilos históricos não históricos feita por Banister
 Fletcher levanta um problema central na interpretação histórica da
@@ -196,6 +297,7 @@ Se for, de fato, possível extrair um sentido explicativo da história da
 arquitetura, a tensão entre transformação construtiva e evolução das
 formas espaciais é, certamente, um dos motores do processo histórico.
 
+
 História da arquitetura como história do espaço
 ===============================================
 
@@ -210,13 +312,13 @@ Espaço e modernismo
   da espacialidade, que continua dominante até hoje no conceito de
   "repertório projetual" ensinado nas escolas de arquitetura.
 
-- Argan (1961), influenciado por Banham, considera o senso de
-  espacialidade como o fio condutor da história da arquitetura. O cerne
-  do argumento de Argan consiste em rejeitar a história dos estilos e em
-  privilegiar um olhar abstrato para a arquitetura. O ponto culminante
-  dessa história é a autonomia criativa do sujeito (arquiteto) e a
-  introdução da originalidade como critério de juízo: conceito romântico
-  de obra de arte.
+Argan [-@argan:1973concepto], influenciado por Banham, considera o senso
+de espacialidade como o fio condutor da história da arquitetura. O cerne
+do argumento de Argan consiste em rejeitar a história dos estilos e em
+privilegiar um olhar abstrato para a arquitetura. O ponto culminante
+dessa história é a autonomia criativa do sujeito (arquiteto) e a
+introdução da originalidade como critério de juízo: conceito romântico
+de obra de arte.
 
 - Esquema de Argan:
   - Espaço determinado pelas possibilidades do sistema estrutural
@@ -275,19 +377,18 @@ Sistemas espaciais finitos
 
 - Deep space shallow space
 
-Cúpulas europeias e explorações da técnica
-==========================================
-
 Construção da cúpula de Brunelleschi
 ------------------------------------
 
 Pensamento teórico molda e é moldado pelas práticas.
 
 Abóbadas em pedra e cúpulas em madeira: o tratado de De L'Orme
---------------------------------------------------------------
+==============================================================
 
+Explorações espaciais e construtivas do Quatrocentos
+====================================================
 
-Cúpulas asiáticas e malhas espaciais
+Cúpulas islâmicas e malhas espaciais
 ====================================
 
 Império Otomano
