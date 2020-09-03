@@ -764,14 +764,19 @@ importante ainda, muitos arquitetos vão seguir o procedimento de
 Brunelleschi e desenvolver concepções estruturais singulares como
 solução para problemas construtivos específicos.
 
-Abóbadas em pedra e cúpulas em madeira: o tratado de De L'Orme
-==============================================================
+Organização do trabalho e eficácia técnica na França
+====================================================
+
+Resiliência das tradições construtivas
+--------------------------------------
 
 Na França, a tradição técnica do gótico é suficientemente forte para se
 desenvolver de modo independente da representação pictórica do espaço.
 Os ofícios da construção --- a carpintaria e a alvenaria --- absorvem as
-formas clássicas importadas da Itália sem alterar fundamentalmente o
-seus processos produtivos. 
+formas decorativas clássicas importadas da Itália sem alterar
+fundamentalmente o seus processos produtivos. Desse modo, a primeira
+lição do Renascimento fora da Itália diz respeito à fluidez das relações
+entre espaço, construção e decoração.
 
 Nesse contexto, o desenvolvimento das soluções construtivas espaciais
 ocorre na forma de aprimoramentos graduais sem contestar os princípios
@@ -781,6 +786,67 @@ e telhados e no aprimoramento da estereotomia — a resolução formal e
 estrutural de abóbadas em pedra. Abóbadas falsas em madeira e escadarias
 autoportantes são algumas das principais contribuições do gótico tardio
 na França para a solução de problemas construtivos.
+
+O estudo da arquitetura do Renascimento na França está marcado, desde o
+início do século XIX, por narrativas que tomam como premissa busca das
+raízes da nacionalidade. A afirmação do estado-nação e o embate político
+e militar com a Alemanha na segunda metade do século XIX direcionam a
+escrita da história da arte na França para uma exaltação da autonomia,
+unidade continuidade da cultura nacional. Por trás desse chauvinismo
+cultural, há um fundo de verdade na afirmação da continuidade
+construtiva e formal da arquitetura gótica para a versão francesa do
+Renascimento.
+
+Essa continuidade é mais um argumento contra o determinismo
+historicista, que busca um pretenso “esgotamento“ da arquitetura gótica
+como pré-condição para o florescimento da arte renascentista. Ao mesmo
+tempo que a construção de igrejas góticas mantém toda sua vitalidade, a
+pacificação Militar do território, a centralização política das
+instituições administrativas, e a reconstrução física e econômica das
+cidades após a guerra de Cem anos (1337–1453) permitem, ou mesmo
+demandam, um enriquecimento da arquitetura civil.
+
+Edifícios administrativos como o erário da Normandia em Ruão ou o Paço
+municipal em Compiègne apresentam uma maior regularidade na articulação
+das suas fachadas do que construções civis mais antigas. No entanto, é,
+de fato, a importação de esquemas decorativos do Renascimento italiano,
+a partir da segunda metade do século XV e sobretudo no início do XVI,
+que impulsiona uma renovação marcante na arquitetura francesa. O
+escultor Jean Bullant e o arquiteto Philibert de L’Orme estão entre os
+primeiros franceses a viajarem para Itália com o objetivo de adquirirem
+conhecimento direto da arquitetura clássica. Bullant traduz esse
+conhecimento em obras refinadas e delicadas. De l’Orme, por outro lado,
+opera uma síntese mais profunda entre os princípios teóricos do
+classicismo italiano e as técnicas construtivas herdadas da tradição
+francesa. Outros, como o escultor Jean Goujon e o arquiteto Pierre
+Lescot, aproveitam a presença de artistas e arquitetos italianos na
+França do início do século XVI.
+
+Ao contrário de Brunelleschi e outros polímatas do Renascimento
+italiano, de l’Orme é antes de tudo um construtor. Esse fato permite
+tratar a sua obra em paralelo com a solução construtiva da cúpula de
+Brunelleschi, apesar do descompasso cronológico entre elas e de toda a
+influência exercida pelo renascimento italiano mais tardio sobre a
+arquitetura francesa. O tratado mais famoso de de l’Orme, intitulado
+*Novas descobertas para construir bem e com baixo custo*, incorpora
+sobretudo o acervo de práticas e saberes técnicos da tradição
+construtiva francesa. Apesar da formação italiana aprofundada do seu
+autor, esse livro tem apenas um verniz superficial e uma forma de
+organização inspirados nos tratados italianos.
+
+As contribuições mais marcantes desse tratado são uma técnica para a
+construção de arcos em carpintaria usando elementos de pequenas
+dimensões, e os estudos de estereotomia — a técnica de desenhar e
+executar estruturas em pedra, especialmente abóbadas, descrevendo
+geometricamente a sua curvatura. Um processo marcante na estereotomia
+renascentista na França é a gradual diminuição das nervuras que
+caracterizavam o gótico, resultando em superfícies abobadadas contínuas
+e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
+profundamente debatido ao longo do arco renascentista na França, até bem
+entrado o século XIX.
+
+A arquitetura "à maneira francesa" como tema historiográfico
+------------------------------------------------------------
 
 Cúpulas islâmicas e malhas espaciais
 ====================================
@@ -803,9 +869,6 @@ Egito mameluco, império Timúrida e sultanatos do Decã
   adotada a oeste no Egito e a leste no império Timúrida.
 - Decã: Axialidades ortogonais estruturantes em espaços hierarquicamente
   dominantes, malhas não axiais em espaços de ligação.
-
-- Contra o determinismo: S. Lourenço de Brunelleschi como malha de
-  cúpulas.
 
 - Ambiguidade entre edificação e espaço urbano coberto: o que é uma
   cidade?
