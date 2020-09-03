@@ -845,33 +845,286 @@ e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
 profundamente debatido ao longo do arco renascentista na França, até bem
 entrado o século XIX.
 
+A autoimagem da arquitetura francesa enquanto solução técnica
+-------------------------------------------------------------
+
+A relevância das contribuições técnicas de de l'Orme não pode ser
+subestimada. O seu tratado continua a ser citado como pertinente para a
+prática mais de 100 anos depois da sua publicação. Até o final do século
+XIX, ele é citado como exemplo da competência técnica dos artesãos e
+arquitetos franceses.
+
+As novas descobertas para construir bem e com baixo custo se destacam no
+panorama teórico do Renascimento por que o texto não coloca em questão a
+legitimidade teórica ou intelectual da disciplina da arquitetura. Ao
+mesmo tempo, o autor dá acesso a um público amplo os conhecimentos
+técnicos que são do domínio dos ofícios da construção. Esse ato coloca
+em xeque os limites disciplinares vigentes até então, sem tecer
+considerações teóricas a respeito desse reposicionamento. Também se
+destaca como um dos primeiros arquitetos do Renascimento a colocar em
+primeiro plano a sua preocupação com os aspectos práticos, técnicos e
+logísticos da construção.
+
+O fato de se tratar de um texto técnico sobre a construção pode dar a
+impressão de que o autor estava transmitindo o conhecimento corrente da
+sua época. Essa distinção entre formulações teóricas autorais e a
+suposta trivialidade do conhecimento técnico, porém, enganosa. A
+contribuição de de l'Orme consiste, de fato, em novas descobertas ou,
+melhor dizendo, invenções para aprimorar os procedimentos construtivos
+então em vigor ou a conveniência da sua execução.
+
+O elemento central desse tratado é uma discussão sobre as possibilidades
+estruturais da carpintaria. Ele apresenta uma nova técnica que substitui
+grandes vigas e barrotes com montagens de pequenas peças de madeira
+organizados em estruturas funcionando à compressão. Assim, ele propõe
+substituir grandes treliças tracionadas por arcos em madeira cujas peças
+podem ser substituídas com mais facilidade ao longo do tempo sem
+comprometer a estrutura como um todo. As coberturas a maneira de de
+l'Orme foram amplamente adotados não só na França mas na Europa e até
+nos Estados Unidos durante vários séculos.
+
+Essa contribuição sedimenta uma autoimagem da arquitetura francesa como
+especialmente capaz de oferecer soluções técnicas adequadas, eficientes
+e belas. A partir daí se desenvolve, de finais do século XVI em diante,
+um discurso que enxerga a arquitetura francesa como intrinsecamente
+superior aos arroubos artísticos do classicismo italiano. Autores do
+séculos XVII e XVIII vão, corretamente, associar essa desenvoltura
+estrutural a herança dos ofícios construtivos góticos.
+
+A outra grande contribuição de de l'Orme nos seus escritos é explicitar
+procedimentos de traçado e execução de abóbadas em pedra. Codificar e
+ilustrar no papel tais procedimentos permite debater as suas
+características formais estruturais, levando a uma diversificação e ao
+aprimoramento de soluções técnicas e estéticas. de l'Orme reconhece e
+defende a validade técnica das soluções construtivas herdadas da
+tradição gótica, e pretende tornar essas soluções válidas também no
+contexto das formas arquitetônicas clássicas do Renascimento. Desse
+ponto de vista, fica evidente a necessidade de não apenas transmitir
+conhecimento no contexto da aprendizagem da profissão, mas codificar e
+tornar público esse conhecimento para que ele possa participar da
+construção universal do sistema arquitetônico clássico.
+
 A arquitetura "à maneira francesa" como tema historiográfico
 ------------------------------------------------------------
+
+Junto com a emergência de uma historiografia nacional na França do
+século XIX, a arquitetura à maneira francesa ganha definitivamente a sua
+legitimidade enquanto tema historiográfico. Servindo inicialmente para
+exaltar a particularidade e a pretensa excepcionalidade da nação
+francesa na Europa, o tema histórico da arquitetura à francesa se
+reinventa no século XX para caracterizar o emprego e a valorização
+teórica de certos procedimentos construtivos ao longo do tempo.
+
+Essa leitura na longa duração, ao gosto da Nova história francesa da
+primeira metade do século XX, pode assim ser desvinculada da exaltação
+nacionalista para se tornar um marco explicativo de uma característica
+legítima do contexto construtivo na França do século XV até o século
+XIX.
+
+A imagem do "bom arquiteto" ilustrada por de l'Orme, combinando o
+conhecimento histórico e literário com o domínio prático de problemas
+construtivos concretos, deixa de ser um ícone chauvinista para
+representar um ideal de formação e organização profissional que será
+resgatado na busca pela regulamentação do exercício profissional a
+partir da segunda metade do século XIX.
 
 Cúpulas islâmicas e malhas espaciais
 ====================================
 
-- Malha espacial na igreja de S. Lorenzo e S. Spirito
+Princípios islâmicos de urbanização
+-----------------------------------
 
-Império Otomano
----------------
+O desenvolvimento do espaço urbano na cidade islâmica decorre da
+sobreposição de fontes de autoridade política em diferentes níveis de
+hierarquia [@hakim:1999urban16]. O poder central aloca o território
+urbano entre diferentes grupos sociais, religiosos, étnicos, e
+familiares. Os espaços urbanos centrais e com maior importância coletiva
+e econômica, como as principais avenidas e o seus mercados associados,
+são administrados pelo poder municipal com influência das principais
+famílias mercantis muçulmanos. Bairros periféricos podem ser segregados
+para comunidades de outras religiões ou etnias.
 
-- Otomano como derivativo da arquitetura bizantina?
-  Problema da originalidade como valor.
+A construção do espaço urbano e privado na cidade islâmica se baseia em
+regras que estabelecem autoridade da precedência
+[@hakim:2010generative4]. Quem constrói primeiro tem ao mesmo tempo
+direitos e responsabilidades sobre o entorno imediato. Assim, a
+constituição gradual do espaço urbano hierarquizada em diferentes graus
+de planejamento. Os espaços mais centrais e aqueles com maior relevância
+coletiva e cívica são objeto de controle mais centralizado por parte dos
+governantes. Os diversos bairros da cidade são administrados por
+lideranças comunitárias, e o gradual preenchimento das ruas e a adarves
+com casas é uma questão para relações de vizinhança imediatas.
 
-- Espaços descontínuos, exterior como ligação. Axialidades sucessivas
-  formam percursos.
+O papel dominante dos comerciantes na administração municipal é uma
+característica difundida por boa parte da Europa e da Ásia. Já o sistema
+de jurisdições concêntricas, do poder central para lideranças
+comunitárias e resolução local de conflitos, decorre mais diretamente do
+direito islâmico. Nesse sistema, é entendido que os diferentes membros
+do organismo urbano --- dos espaços coletivos centrais até os
+equipamentos de bairro e os adarves residenciais --- dizem respeito aos
+grupos sociais que os utilizam e devem ser administrados por seus
+respectivos líderes.
 
-Egito mameluco, império Timúrida e sultanatos do Decã
------------------------------------------------------
+Nas capitais e em cidades importantes, um dos grandes motores do
+desenvolvimento urbano é o *waqf* ou mãos-mortas, uma dotação religiosa
+perene feita por um governante ou por um cidadão privado, e colocada sob
+a proteção do poder político. O *waqf* geralmente assume a forma de um
+distrito urbano centrado num equipamento religioso ou coletivo, que
+atrai outras atividades privadas, como residências e comércios, na sua
+vizinhança.
 
-- Espaços contínuos, malhas cobertas como ligação: tradição persa
-  adotada a oeste no Egito e a leste no império Timúrida.
-- Decã: Axialidades ortogonais estruturantes em espaços hierarquicamente
-  dominantes, malhas não axiais em espaços de ligação.
+Soluções espaciais da Ásia central
+----------------------------------
 
-- Ambiguidade entre edificação e espaço urbano coberto: o que é uma
-  cidade?
+A expansão e islamização dos impérios turcos e mongóis na Ásia central,
+entre os séculos XI e XIII, leva ao desenvolvimento de uma síntese entre
+formas arquitetônicas de origem árabe e bizantina e a herança
+construtiva persa e indiana.
+
+![Mapa islã na Ásia central](){#fig:islam-asia}
+
+Esses impérios são estados multiétnicos liderados por uma aristocracia
+de origem nômade--pastoril. A mudança na composição étnica das
+lideranças políticas vem associadas a uma revitalização da cultura persa
+na Ásia central, com o resgate de várias formas arquitetônicas de origem
+pré-islâmica. Algumas características marcantes dessa arquitetura são a
+praça--pátio retangular com quatro iwan  (absides) monumentais e
+*pishtaq* (portais). Tipos arquitetônicos existentes, como a madraçal e
+o caravancerai, ganham expressão arquitetônica monumental.
+
+Os principais sistemas construtivos adotados na Ásia Central são a
+estrutura em cantaria de pedra e revestimento com tijolos envernizados.
+Terraços planos e abóbadas são os tipos mais frequentes de cobertura. A
+configuração espacial em vários tipos edilícios cívicos é formada por
+uma alternância entre malhas espaciais extensas e indiferenciadas, e
+salões principais cobertos com cúpulas, conhecidos como *maqsura*. Essas
+cúpulas geralmente têm seção ogival e quase sempre são apoiadas sobre
+trompas compostas por *muqarnas*, à maneira persa. As trompas formam
+nervuras que se entrecruzam. Principalmente na Ásia Central, as cúpulas
+podem ter uma calota dupla. A casca interna articula o espaço do salão
+principal, enquanto que a casca externa apresenta a monumentalidade do
+edifício na paisagem urbana.
+
+Essa soluções se difundem da Pérsia para leste e para o oeste ao longo
+da rota da seda, tornando-se características das principais cidades
+comerciais ao longo desse eixo. Os temas arquitetônicos da malha
+espacial e do salão com cúpula reduzem a distinção entre espaço público
+urbano espaço interior em edifícios de uso coletivo, em favor da
+distinção entre espaços dominantes e espaços contínuos.
+
+No entanto, a difusão de temas arquitetônicos tem nítidos matizes
+climáticos. Nos sultanados do Norte e Centro da Índia, predominam os
+grandes monumentos cobertos com cúpulas implantados de forma isolada em
+grandes esplanadas ou terraplenos. No lugar das malhas espaciais com
+cúpulas, são usados os salões hipóstilos da tradição indiana.
+
+A última onda de conquista mongol na Ásia Central e no norte da Índia,
+pelos reinos timúridas, estabelece os paradigmas urbanísticos e
+arquitetônicos que vão dominar essas regiões do século XVI ao XVIII. As
+cidades de Samarcanda e Herat são os exemplares canônicos desse
+paradigma. Samarcanda é uma cidade amuralhada, com uma cidadela tangente
+à muralha da cidade. A avenida principal da cidade é um grande mercado
+coberto por uma malha de cúpulas. A praça pátio, de origem persa, se
+torna o núcleo de um conjunto arquitetônico com as principais
+instituições cívicas. Ela é cercada pela madraçal, pelo *khanqah* — como
+se fosse um mosteiro islâmico — e pela Mesquita principal. Em
+Samarcanda, cada um desses três edifícios é isolado, delimitando pela
+sua proximidade uma praça de forma retangular. Em outras cidades, eles
+podem ser interligados pela malha coberta. A configuração quadrangular
+da praça remete ao paradigma urbanístico persa do .*chahar-bagh*
+
+O paradigma urbanístico da Ásia Central permite realizar uma transição
+suave e sem conflitos espaciais entre o tecido urbano de ruas, mercados
+e pousos de caravanas, de um lado, e os grandes edifícios cívicos e
+representativos do poder político e religioso, do outro. O sistema de
+malhas espaciais garante a regularidade geométrica dos espaços mais
+representativos, enquanto permite o ajuste de todos os outros espaços às
+necessidades e condições do sítio físico. Esse ajuste inclui também os
+ambientes secundários que completam as grandes composições monumentais,
+que se moldam ao perímetro do espaço disponível e tocam o restante da
+malha urbana, formando um tecido construído contínuo.
+
+A diferenciação da arquitetura islâmica entre a Pérsia, a Ásia Central e
+a Índia deu origem, no século XIX, a teoria sobre o determinismo racial
+no desenvolvimento de tipologias arquitetônicas. É certo que, em cada
+uma dessas regiões, arquitetura tanto monumental quanto cotidiana assume
+configurações diferenciadas. No caso da Índia, se verifica uma distinção
+entre arquitetura do poder islamizado e a arquitetura cotidiana de
+populações ainda em grande parte hinduístas. No entanto, essas
+diferenciações ocorre em um contexto de grande mistura étnica e
+religiosa, e representam, sobretudo, as necessidades distintas dos tipos
+edilícios islâmicos e de uma arquitetura de base adaptada ao clima úmido
+no Norte da Índia.
+
+Malhas espaciais no Ocidente
+----------------------------
+
+Para além da sua importância na Ásia Central, as malhas espaciais
+desempenham um papel importante em várias culturas construtivas do
+Mediterrâneo. No Egito mameluco trata-se de uma influência direta da
+cultura persa, pelo seu prestígio político e artístico. No Império
+otomano e na Itália, as malhas espaciais remetem ao legado da
+arquitetura bizantina.
+
+Os sistemas de cúpulas e abóbadas que caracterizam o influente sistema
+espacial bizantino não se configura apenas nos espaços monumentais de
+grandes igrejas. Ele se desdobra também em arcadas e espaços de ligação
+que estruturam o ambiente urbano. Na cidades otomanas, esses elementos
+são descontínuos, formando unidades arejadas que estabelecem uma
+continuidade não material, e sim por analogia formal entre padrões
+repetitivos.
+
+Uma outra forma de malha espacial emerge na obra tardia de Brunelleschi.
+Essa malha se configura pela repetição de células básicas que
+implementam o sistema de composição da arquitetura clássica. A
+repetitividade dessa composição decorre, talvez, de um domínio ainda
+incipiente da linguagem. Em qualquer caso, ela se apresenta como uma
+alternativa a continuidade espacial da arquitetura gótica. Essa
+alternativa é marcadamente diferente do sistema que ela pretende
+substituir. As células da malha clássica são entidades autônomas tanto
+no espaço quanto na articulação dos elementos de arquitetura. Elas
+poderiam existir isoladamente, no espaço abstrato, e se coordenam
+principalmente em sequências lineares com uma elevação preferencial.
+
+No entanto, essas malhas se articulam em planta dentro de sistemas
+espacial e funcionalmente mais complexos somente com grande dificuldade.
+A falta de desenvoltura com o que Brunelleschi manipula essas células se
+evidencia na rigidez geométrica das suas plantas de igrejas, como São
+Lourenço ou Santo Espírito. O uso incomum de uma capela-mor quadrangular
+na primeira, e a cadência absolutamente uniforme das naves laterais com
+o seus nichos na segunda, demonstram um esforço de resolver demandas
+funcionais e simbólicas dotadas de uma longa historicidade usando
+recursos formais ainda experimentais e incipientes.
+
+A rigidez geométrica das calotas esféricas que cobrem as células nas
+naves laterais dessas igrejas contrasta com a flexibilidade das abóbadas
+de aresta que Brunelleschi empregou no Asilo dos inocentes. Nesse
+primeiro projeto, a segmentação espacial da edificação em ambientes
+sucessivos — arcada, corredor de acesso, pátio com galerias, salões e
+aposentos — facilita a resolução individualizada dos requisitos de
+composição em cada um desses espaços. Nas igrejas, ao contrário, a
+unidade espacial pretendida e necessária pela função do edifício demanda
+uma difícil coordenação entre módulos de composição com diferentes
+dimensões e proporções.
+
+A unidade formal interna às igrejas de Brunelleschi e a descontinuidade
+espacial do espaço público no Mediterrâneo são duas faces da mesma moeda
+renascentista. Quanto mais se realiza a coerência geométrica completa de
+um edifício, mais dificuldade haverá em conectar fisicamente esse
+edifício ao seu em torno. As malhas espaciais da Ásia Central funcionam
+por que elas prescindem de uma leitura visual de conjunto; a hierarquia
+dos espaços principais com suas altas cúpulas facilita a acomodação e a
+irregularidade dos espaços secundários que formam o ponto de contato
+entre edifícios e com o espaço público.
+
+Na arquitetura da Itália e do Império otomano, porém, a realização
+formal de cada edifício individualmente dificulta essa acomodação. Cada
+vez mais, a volumetria externa do edifício adquire valor plástico
+equivalente ao da articulação geométrica no seu interior. A coerência
+formal da ambiência urbana passa a exigir, assim, não mais a
+continuidade física entre edificações, mas analogias formais entre
+construções que não se tocam.
+
 
 Referências
 ===========
