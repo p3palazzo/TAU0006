@@ -18,23 +18,6 @@ a chamada "história dos estilos" --- o modelo básico de pesquisa e
 ensino da história da arte nas universidades e escolas de arquitetura no
 mundo ocidental desde o final do século XIX.
 
-As duas primeiras seções discutem o marco teórico sobre o qual se
-constituiu o conceito historiográfico de Renascimento. 
-Na primeira seção, discutiremos como a história da construção aproximou
-o estudo vocacional da arquitetura da pesquisa universitária, mas também
-como ela foi usada para fabricar hierarquias entre os "estilos" de
-diferentes culturas. A segunda seção se dedica ao estudo do espaço
-arquitetônico, um problema que ocupou sobretudo os autores modernistas
-no seu olhar retrospectivo sobre o Renascimento.
-
-As duas últimas seções tratam das questões construtivas e espaciais
-aplicadas a duas culturas arquitetônicas distintas. Na terceira seção,
-vamos entender como a inovação técnica na solução de problemas
-construtivos em pedra dá o impulso para o desenvolvimento do
-Renascimento na Europa. Na quarta e última seção, o estudo das malhas
-espaciais no mundo islâmico oferece uma perspectiva alternativa sobre a
-"história dos estilos".
-
 História da arquitetura como história do espaço
 ===============================================
 
@@ -62,6 +45,8 @@ terem criado esquemas um tanto deterministas e simplistas. No entanto,
 essa crítica não substituiu os esquemas clássicos por outros. Por isso,
 apesar das limitações interpretativas desses esquemas, eles continuam
 sendo uma introdução relevante ao estudo da história da arte.
+
+![Choose your Art Historian](){#fig:mk2}
 
 Arquitetura e perspectiva
 -------------------------
@@ -392,14 +377,6 @@ bizantino era associado com a permanência do Império Romano, cujos
 escolhas se repetem no interior da capela Pazzi, no claustro da igreja
 de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
-
-- Existe alguma relação intrínseca entre a arquitetura gótica e o
-  desenvolvimento de uma sensibilidade espacial? Abóbadas (traçados
-  lineares potencialmente infinitos) e cúpulas (volume espacial
-  delimitado)
-
-- Perspectiva implica controle total sobre o espaço, eliminando toda
-  indefinição, or is it? Wölfflin vs Frankl vs Evans
 
 
 História da arquitetura como história da construção
