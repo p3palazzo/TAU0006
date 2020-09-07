@@ -212,6 +212,9 @@ que por ora experimentais.
 Assim, o controle do espaço na pintura se desdobra para o controle do
 espaço da forma arquitetônica construída.
 
+Sistemas espaciais
+==================
+
 Espaço e modernismo
 -------------------
 
@@ -611,6 +614,9 @@ realizar uma obra singular e isolada. Esse é o caso da cúpula da
 catedral de Florença --- uma edificação iniciada no século XIII seguindo
 projetos cada vez mais ambiciosos a ponto de, num certo momento, serem
 considerados impossíveis.
+
+A cúpula de Brunelleschi
+========================
 
 Cúpula de Brunelleschi enquanto problema construtivo
 ----------------------------------------------------
