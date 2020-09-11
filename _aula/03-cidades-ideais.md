@@ -77,11 +77,15 @@ Bastides construídas num contexto de organização do território e
 centralização administrativa do poder real.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Aigas-Mòrtas, França, 1248. @chirchirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide .stretch}
+![Aigas-Mòrtas, França, 1248. @circhirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide .stretch}
 
 * * * *
 
-![Vila nova em Portugal](){#fig:vilanova}
+![Monpazier, França. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_a%C3%A9rienne_de_Monpazier.jpg/1280px-Vue_a%C3%A9rienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
+
+* * * *
+
+![Vila nova de Caminha, Portugal. @trindade:2009urbanismo](){#fig:vilanova}
 
 * * * *
 
