@@ -61,9 +61,9 @@ Dois tipos de mercado
 
 * * * *
 
-![Mercado aberto (rua de mercado) na dinastia Song](){#fig:song-shi .stretch}
-
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mercado aberto (rua--mercado) na dinastia Song.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ao longo do rio no festival Qingming (versão dos cinco pintores da corte Qing)](){#fig:qingming .stretch}
 
@@ -72,7 +72,12 @@ Ordem política e ordem geométrica na Itália
 
 * * * *
 
-![Bastide](){#fig:bastide}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Bastides construídas num contexto de organização do território e
+centralização administrativa do poder real.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Aigas-Mòrtas, França, 1248. @chirchirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide .stretch}
 
 * * * *
 
