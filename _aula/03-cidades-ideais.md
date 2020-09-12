@@ -67,8 +67,16 @@ Mercado aberto (rua--mercado) na dinastia Song.
 
 ![Ao longo do rio no festival Qingming (versão dos cinco pintores da corte Qing)](){#fig:qingming .stretch}
 
-Ordem política e ordem geométrica na Itália
+Ordem política e ordem geométrica na Europa
 -------------------------------------------
+
+* * * *
+
+![Módena](){#fig:modena .stretch}
+
+* * * *
+
+![Piazza del campo, Siena](){#fig:siena .stretch}
 
 * * * *
 
@@ -81,11 +89,7 @@ centralização administrativa do poder real.
 
 * * * *
 
-![Monpazier, França. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_a%C3%A9rienne_de_Monpazier.jpg/1280px-Vue_a%C3%A9rienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
-
-* * * *
-
-![Vila nova de Caminha, Portugal. @trindade:2009urbanismo](){#fig:vilanova}
+![Monpazier, possessões inglesas na França, 1285. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_a%C3%A9rienne_de_Monpazier.jpg/1280px-Vue_a%C3%A9rienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
 
 * * * *
 
@@ -95,8 +99,8 @@ centralização administrativa do poder real.
 
 ![Tábuas de Urbino/Berlim](){#fig:urbino .stretch}
 
-Forma urbana em questão
------------------------
+Forma urbana em questão na Itália
+---------------------------------
 
 * * * *
 
@@ -115,7 +119,7 @@ Forma urbana em questão
   casa ↔ cidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Filarete](){#fig:filarete .stretch}
+![Filarete, cidade ideal de Sforzinda, c. 1460](){#fig:filarete .stretch}
 
 * * * *
 
@@ -127,14 +131,6 @@ Forma urbana em questão
 
 Cenários urbanos
 ----------------
-
-* * * *
-
-![Piazza del campo, Siena](){#fig:siena .stretch}
-
-* * * *
-
-![Módena](){#fig:modena .stretch}
 
 * * * *
 
@@ -175,9 +171,30 @@ Cidades possíveis: Japão e Portugal
 Japão
 -----
 
+* * * *
+
 - Jōkamachi
+- Azuchi
 - Deformações no traçado urbano e na simetria de Quioto.
 - Semelhante à deformação dos traçados romanos na Idade Média europeia.
+
+![Plano urbanístico de Heian (Quioto), 794](){#fig:heian .stretch}
+
+* * * *
+
+![Quioto no século XIV](){#fig:kyoto .stretch}
+
+* * * *
+
+![Azuchi](){#fig:azuchi .stretch}
+
+* * * *
+
+![Osaka?](){#fig:osaka .stretch}
+
+* * * *
+
+![Edo?](){#fig:edo .stretch}
 
 Portugal
 --------
@@ -187,6 +204,10 @@ Portugal
 - Mazagão
 - Goa, Damão e Diu
 - Malacca
+
+![Vila nova de Caminha, Portugal, século XIII. @trindade:2009urbanismo](){#fig:vilanova}
+
+* * * *
 
 Geometria e fortificação
 ========================
