@@ -6,6 +6,21 @@ lang    : pt-BR
 layout  : default
 ---
 
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), segunda metade do século XV](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica .stretch}
+
+* * * *
+
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século XV](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/Giorgio-El-cuerpo-inscripto-en-la-fachada-de-una-iglesia.png){#fig:giorgio-basilica .stretch}
+
+* * * *
+
+![Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg){#fig:giorgio-citadella-umana .stretch}
+
+* * * *
+
+![Leonardo da Vinci, homem vitruviano, c. 1492](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg/558px-Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg){#fig:leonardo-vitruvian .stretch}
+
+
 Arquitetura como arte liberal
 =============================
 
