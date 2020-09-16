@@ -6,11 +6,11 @@ lang    : pt-BR
 layout  : default
 ---
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), segunda metade do século XV](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica .stretch}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), segunda metade do século XV](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica-plan .stretch}
 
 * * * *
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século XV](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/Giorgio-El-cuerpo-inscripto-en-la-fachada-de-una-iglesia.png){#fig:giorgio-basilica .stretch}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século XV](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/Giorgio-El-cuerpo-inscripto-en-la-fachada-de-una-iglesia.png){#fig:giorgio-basilica-elv .stretch}
 
 * * * *
 

@@ -6,29 +6,102 @@ lang    : pt-BR
 layout  : default
 ---
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesse tópico nós vamos tratar do pensamento e da prática de produção das
+cidades na Europa e na Ásia dos séculos XV e XVI. A primeira parte
+aborda o que se convencionou chamar de cidades ideais na teoria da
+arquitetura na Itália e na China. A segunda parte observar a realidade
+da implantação de espaços urbanos em Portugal e no Japão. Essas práticas
+dialogam com concepções teóricas, ajustando as as possibilidades e as
+conveniências do contexto. A terceira parte trata do papel das
+fortificações e da arquitetura militar nos processos de consolidação
+política e de expansão ultramarina dos estados europeus. Ainda no tema
+da consolidação expansão das potências europeias, a quarta e última
+parte discutir a formação de praças em quantos passos representativos do
+poder e de um certo ideal de regularidade urbana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Cidades ideais: Itália e China
 ==============================
 
 Retorno aos princípios na China
 -------------------------------
 
-* * * *
-
-![Wangcheng, Kaogongji, *Zhouli*, século IX a partir de um original da dinastia Zhou do Leste. @wang:2010imperial](https://www.integra.unb.br/s/Q4xWT4FdzMWdPkH/preview){#fig:wangcheng .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A filosofia política na China toma forma na primeira metade do século V
+a.C., com a formulação de várias escolas de pensamento como o
+confucianismo e o legalismo, além da organização de procedimentos
+administrativos e de corporações profissionais. Essa filosofia é
+compilada em textos conhecidos como "clássicos" ou "tratados", a partir
+do século III a.C.: uma época de transformações sociais, administrativas
+e econômicas, onde a codificação de princípios é vista como um caminho
+rumo à estabilidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-1 li = aproximadamente 400 metros desde os Sui até a dinastia Qing
+O pensamento urbanístico na China está intimamente ligado desde o seus
+primórdios a teorização do estado e do tecido social. A mais antiga
+formulação escrita e, provavelmente, gráfica de uma cidade “ideal“ é a
+descrição da cidade real no tratado político intitulado *Ritos da
+dinastia Zhou*, compilado na primeira metade do século III a.C. com base
+em fontes mais antigas ([@fig:wangcheng]). O modelo descrito nesse
+clássico estipula uma cidade quadrangular, com nove li ou
+aproximadamente 4 km de lado, delimitada por uma muralha que tem um
+papel tanto simbólico de estabelecer os limites do espaço urbano, quanto
+defensiva. Ela deve ter nove portões, três em cada lado da muralha, que
+correspondem a três avenidas na direção leste oeste e outras três na
+direção norte sul. O palácio real ou complexo administrativo deve se
+situar no centro, interrompendo as duas avenidas centrais, tendo dois
+mercados às suas costas, ao norte, e os templos à sua frente, ao Sul.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. @wang:2010imperial](https://www.integra.unb.br/s/Q4xWT4FdzMWdPkH/preview){#fig:wangcheng .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O módulo dimensional básico da cidade chinesa é o *li*, uma unidade de
+medida tradicional que correspondia a pouco mais de 400 metros. Essa
+dimensão é uma das "constantes universais" do desenho urbano; ela
+corresponde à distância que pode ser percorrida a pé em cinco minutos, e
+determina o raio de ação das atividades cotidianas mais simples, como o
+comércio de vizinhança, equipamentos comunitários como lavanderias ou
+locais de culto, e o senso de pertencimento a um bairro, em geral.
+
+Na tipologia da *wangcheng* quadrada com 9 li de extensão e três
+avenidas em cada direção, cada um dos quadrantes delimitados pelas
+avenidas e muralhas teria aproximadamente 800 metros de raio --- o que
+dá 10 minutos a pé, ou o raio de ação que hoje se considera ideal para
+atividades principais, como acesso ao local de trabalho ou ao comércio
+regional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Módulos urbanísticos da cidade ideal chinesa](https://www.integra.unb.br/s/YxMRMzDWa8qixZ6/preview){#fig:zh-modulos .stretch}
 
 * * * *
 
-![Plano urbanístico de Chang'an durante a dinastia Tang](){#fig:changan .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na prática, a extensão das cidades varia de acordo com a população e a
+importância política de cada uma. As dimensões das principais cidades
+tendem a crescer ao longo dos séculos, chegando no seu auge na cidade de
+Chang'an, capital da dinastia Tang nos séculos VI a X d.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Plano urbanístico de Chang'an durante a dinastia Tang](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang%27an_Tang_schema.svg/762px-Chang%27an_Tang_schema.svg.png){#fig:changan .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Com a retração do domínio mongol em 1368, a dinastia Ming restaura a
+hegemonia política da etnia Han. Essa restauração incentiva uma busca
+por símbolos legitimadores do poder dinástico chinês, e um desses
+símbolos é o paradigma da *wangcheng*. Entre 1403 e 1420, o imperador
+Yongle manda restaurar as muralhas e o centro administrativo de Pequim
+--- a antiga capital dos mongóis e uma posição estratégica na defesa da
+fronteira norte da China.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg/522px-Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
 
@@ -38,19 +111,37 @@ Retorno aos princípios na China
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O restauro de Pequim reduz o perímetro urbano para um retângulo
+organizado segundo a *wangcheng*. O novo perímetro ocupa um terreno de
+defesa mais fácil, mas também responde à redução na população da cidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Pequim. Projeto original estabelecido na dinastia Yuan por Liu Bingzhong 劉秉忠 e dividida em 50 distritos. Perímetro reduzido na dinastia Ming](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tecido urbano é organizado segundo um módulo retangular de,
+aproximadamente, 2 × 1,5 li.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim. @steinhardt:2019chinese](https://www.integra.unb.br/s/qrs6peRrDDpkGY3/preview){#fig:beijing-module .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao longo do tempo, o crescimento urbano da cidade acontece
+principalmente para oeste e para o sul, no terreno mais plano, ao longo
+dos rios e das principais estradas que ligam a capital ao restante do
+império.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Expansão do tecido urbano de Pequim no século XVI. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
 
 * * * *
 
 ![Tecido urbano consolidado de Pequim](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg){#fig:peking1914 .stretch}
-
-* * * *
-
-![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim. @steinhardt:2019chinese](https://www.integra.unb.br/s/qrs6peRrDDpkGY3/preview){#fig:beijing-module .stretch}
 
 * * * *
 
@@ -65,16 +156,47 @@ Mercados murados e mercados abertos
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como em várias sociedades tradicionais, a filosofia política da China
+classifica o comércio como uma atividade subalterna --- um mal
+necessário. No confucianismo, as atividades de troca são vistas como
+improdutivas, ao contrário da produção agrária ou manufatureira. De um
+ponto de vista mais prático, também é preciso ter em mente que o
+abastecimento urbano tem uma logística complexa e gera uma série de
+incomodidades --- trânsito, mau cheiro, barulho, resíduos...
+
+Por isso, desde as dinastias mais antigas, os mercados urbanos são
+estritamente delimitados, os preços de grande parte dos bens essenciais
+são tabelados, e o comércio de longa distância ou o internacional são
+postos sob a tutela do estado. O tabelamento de preços diz respeito,
+sobretudo, à estrutura dos impostos, cobrados via de regra *in natura*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Mercado murado na dinastia Tang](https://www.integra.unb.br/s/dpxfdmQzSrRNWZB/preview){#fig:tang-shi .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os principais mercados urbanos nas grandes cidades --- a tipologia da
+*wangcheng* prevê dois mercados por cidade --- são, na teoria, murados.
+As estalagens provisórias desses mercados tendem a se transformar
+gradualmente em lotes comerciais de dimensões mínimas. Essa configuração
+resulta em quarteirões rasos e alongados, com fachadas contínuas de
+pequenas lojas térreas com armazém ou oficina nos fundos, e moradia dos
+comerciantes no pavimento superior.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Parcelamento urbano decorrente do espaço de mercado](https://www.integra.unb.br/s/WwCxG7BZ6yY794E/preview){#fig:mercado-parcelamento .stretch}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mercado aberto (rua--mercado) na dinastia Song.
+Mesmo assim, a partir dos séculos X a XII, o comércio se desenvolve
+intensamente na China. O tipo do mercado murado em vigor até a dinastia
+Tang acaba substituído, na dinastia Song, por mercados lineares e
+abertos implantados ao longo das principais avenidas. A implantação de
+bancas na frente das lojas tende a se tornar permanente, reduzindo a
+largura dessas avenidas em vários pontos e deformando o seu alinhamento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta esquemética de mercado na dinastia Song. @wang:2010imperial2](https://www.integra.unb.br/s/HWSwPHQX58LK8mZ/preview){#fig:song-shi .stretch}
@@ -82,10 +204,19 @@ Mercado aberto (rua--mercado) na dinastia Song.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Inexistência de praças na cidade chinesa? Largos e interseções em T.
+A interação entre esse processo de adensamento dos mercados lineares e
+os controles urbanísticos na cidade acabam por gerar espaços urbanos
+diferenciados. Formam-se largos em pontos importantes para a circulação
+ou o acesso a equipamentos públicos importantes, como templo.
+
+No acesso principal ao centro administrativo da cidade, o cruzamento em
+T das avenidas principais permanece sempre desimpedido. Essas aberturas
+na malha viária cada vez mais adensada têm um caráter essencialmente
+prático, visando a desafogar a circulação de pessoas e veículos em
+pontos estratégicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ao longo do rio no festival Qingming (versão dos cinco pintores da corte Qing)](){#fig:qingming .stretch}
+![Ao longo do rio no festival Qingming, imitação de Suzhou, século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg){#fig:qingming .stretch}
 
 Cidade e praça na Europa
 ------------------------
@@ -93,10 +224,14 @@ Cidade e praça na Europa
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Substrato romano presente não apenas como referência teórica, mas
-sobretudo como permanência material e continuidade cultural.
-
-Praça = democracia? Zucker
+Ao contrário da China, na Europa a praça pública se reveste desde as
+suas origens de um caráter essencialmente político. A ágora grega e o
+fórum romano são os lugares do exercício da cidadania, representando a
+governança colegiada --- ainda que elitista --- das cidades. O fórum das
+cidades romanas tem uma configuração morfológica bastante precisa: um
+retângulo alongado, delimitado por colunatas, com o templo principal da
+cidade numa das cabeceiras, e os edifícios da administração municipal
+geralmente ocupando a outra extremidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/italie-pompei-forum-jc-golvin.jpg){#fig:pompei .stretch}
@@ -104,8 +239,11 @@ Praça = democracia? Zucker
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Porém, preocupação na Idade Média é sobretudo com a experiência e a
-gestão do espaço público mais do que com a sua forma.
+No entanto, mais do que a forma desse espaço, o que importa na cidade
+romana e medieval é o seu papel de centro das decisões políticas. A
+"praça pública" representa, desde então, a esfera da vida coletiva e das
+decisões políticas. O seu papel como centro da gestão municipal e da
+vivência comunitária se torna a sua característica principal.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](){#fig:buongoverno .stretch}
@@ -113,9 +251,12 @@ gestão do espaço público mais do que com a sua forma.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Praças medievais como articulação de espaços necessários à vida urbana.
-Espaço contido nele mesmo.
-Forma ideal não é geometria impecável.
+Por isso, as praças medievais funcionam como articulação de espaços
+necessários à vida urbana. O espaço urbano é contido nele mesmo, e a
+crescente complexidade das atividades políticas e comerciais da cidade
+se resolve numa sucessão de praças conectadas entre si. A forma urbana
+ideal, desse ponto de vista, não é necessariamente uma geometria
+impecavelmente regular, mas si uma hierarquia espacial clara.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Piazza del campo, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena .stretch}
@@ -123,10 +264,16 @@ Forma ideal não é geometria impecável.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Sitte e Bacon: sistemas de praças articuladas (em torno da igreja;
-Platzgruppen).
-
-Não é uma praça, são duas ou mais.
+A importância desses grupos de praças articuladas entre si e com os
+principais edifícios cívicos foi percebida pelo urbanista austríaco
+Camillo Sitte no seu livro *A construção das cidades segundo seus
+princípios artísticos*, publicado em 1901. Sitte alertou que essas
+articulações geometricamente irregulares de praças e ruas estavam
+desaparecendo em toda a Europa diante do avanço das reformas urbanas do
+final do século XIX. Ele alertou para o fato de que os grupos de praças
+eram uma forma simples e conveniente de separar o tráfego de veículos
+dos espaços pedonais, protegendo os pedestres, ao contrário das grandes
+avenidas contemporâneas, cheias de cruzamentos perigosos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Piazza del Popolo, Todi. @bacon:1974design](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/bacon-todi-94.png){#fig:todi .stretch}
@@ -134,7 +281,10 @@ Não é uma praça, são duas ou mais.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Sequência de cenas e de perspectivas.
+As sequências de ruas estreitas e praças pequenas oferecem cenários
+pitorescos, com campos visuais claramente delimitados. Esse controle dos
+pontos de vista possíveis numa praça europeia poderia ser uma das
+origens da perspectiva linear na pintura do Renascimento?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Módena, planta Vallardi de 1870](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.1-cidades-ideais/vallardi-modena.jpg){#fig:modena .stretch}
@@ -142,8 +292,8 @@ Sequência de cenas e de perspectivas.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Monumentos, estátuas ou fontes livremente dispostos, contribuem  para
-  organização regular do espaço;
+Os monumentos, estátuas ou fontes, livremente dispostos no interior da
+praça, contribuem para organização regular do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg){#fig:bellotto-signoria .stretch}
@@ -158,50 +308,112 @@ Geometria em questão
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Regularidade geométrica do espaço como conveniência para a perspectiva
-linear.
+Em qualquer caso, no século XV a pintura em perspectiva no centro da
+Itália começa a propor não só uma sucessão de espaços contidos e
+delimitados, mas também a regularidade geométrica dos elementos que
+"povoam" esse espaço. Essa transformação está bem representada nas
+tábuas de Urbino, Baltimore e Berlim --- uma sequência de três pinturas
+em têmpera sobre madeira, cada uma com cerca de 2 metros de largura,
+representando vistas urbanas imaginárias.
 
-Da representação dos edifícios no espaço à representação do espaço
-delimitado por edificações.
+A disposição ortogonal de todos os edifícios entre e si e com respeito
+ao ponto de vista da imagem é não só uma conveniência técnica, mas um
+modo de afirmar a perfeição geométrica do conjunto.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .stretch}
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Num primeiro momento, na segunda metade do século XV, os próprios
+edifícios são as personagens principais da cena, talvez com uma
+construção dominante no centro da composição. O espaço é,
+principalmente, um recurso para ordenar a disposição desses edifícios,
+auxiliado pela regularidade na paginação do piso sempre pavimentado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Fra Carnevale (atribuição), Cidade ideal. Tábua de Baltimore, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg/1280px-Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em pouco tempo, porém, antes mesmo do final do século XV, o interesse
+artístico se desloca da representação de *construções no espaço* para a
+representação *do próprio espaço*. As construções passam de personagens
+principais, plenamente volumétricas, para simples instrumentos que dão
+forma ao espaço, contornando seus limites e criando superfícies
+tangíveis e visualmente articuladas para o espaço.
+
+A busca pela representação do espaço, e pela articulação entre matéria e
+vazio, que na China do século XII assume a forma de um diálogo entre
+névoa e paisagem, na Itália do século XV resulta numa busca pela
+descrição e delimitação geométrica do espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin .stretch}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Desde Vitrúvio, entendimento disciplinar de que o ofício do arquiteto
-  se estende da edificação ao espaço urbano. 
-
-- No Renascimento, concepção filosófica da unidade de todas as escalas
-  de intervenção na "cosa mentale" do *disegno*. Alberti e a relação
-  casa ↔ cidade.
+A opção, feita pelos artistas da Itália central no final do século XV,
+de representar prioritariamente *o espaço*, em detrimento da
+individualidade das edificações, representa talvez as duas
+características mais marcantes do urbanismo ocidental na Idade Moderna.
+Primeiro, ela sustenta que o projeto da edificação e o projeto da cidade
+são uma coisa só: segundo o tratado *Da arte de edificar*, completado em
+1452 por Leon Battista Alberti, todas as escalas de intervenção
+pertencem ao mesmo domínio da "cosa mentale" --- a operação intelectual
+do desenho. Segundo, nesse gradiente contínuo do projeto da casa para o
+projeto da cidade, ela estabelece que a forma do espaço urbano vem
+primeiro, domina e determina a forma da edificação.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza .stretch}
+![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .stretch}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Praça adquire novo significado político e simbólico;
-- Caráter episódico e interiorizado;
-- Subordinação dos elementos individuais ao conjunto;
-- Clareza formal: espaço vazio é moldado e tem forma definida, sem
-  obsessão por regularidade geométrica;
+Essa ideologia do projeto do espaço confere à praça um novo significado
+político e simbólico. A praça é entendida como uma composição completa
+em si mesma --- uma sala ao ar livre. Se, ao final deste semestre, vocês
+só se lembrarem de uma única frase de tudo o que dissemos aqui,
+lembrem-se desta:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo Rossellino. Praça Pio II, Pienza. Planta](){#fig:pienza .stretch}
+. . .
+
+### A praça é
+
+. . .
+
+### U M A   S A L A   A O   A R   L I V R E.
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uso das fachadas para regularizar o espaço, acomodações dos edifícios
-(mesmo os mais importantes) à imagem da praça.
-Arcadas como elemento de conexão.
+Em Pienza, a cidade do papa Pio II, o arquiteto Bernardo Rossellino
+projeta um centro urbano "monumental" (isto é, geometricamente
+ordenado). A praça de Pienza tem um caráter episódico e interiorizado,
+em concordância com a lógica da praça medieval europeia. As construções
+são subordinadas ao conjunto e uniformizadas pela necessidade de criarem
+um espaço harmonioso. O espaço vazio tem a sua forma claramente
+definida, mesmo que a sua planta não seja perfeitamente retangular. A
+regularidade geométrica é sempre um objetivo *ideal* a ser atingido, mas
+nunca impede a realização da simetria *possível*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Bernardo Rossellino. Praça Pio II, Pienza. Planta](){#fig:pienza-plan .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em espaços que se desenvolvem gradualmente ao longo do tempo, a reforma
+das fachadas, geralmente com a introdução de arcadas, é um dos
+expedientes mais comuns para se atingir a regularidade formal. Na praça
+ducal de Vigevano, remanescente de um antigo hipódromo romano, todos os
+edifícios --- mesmo os mais importantes, como a catedral --- se submetem
+à forma do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Praça ducal, Vigevano. @damico:2008piazza](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .stretch}
@@ -213,7 +425,9 @@ Arcadas como elemento de conexão.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Falta de simetria compensada pela fachada curva.
+A form geométrica do espaço, mais uma vez, pode se acomodar não sendo
+absolutamente ortogonal ou simétrica, desde que mantenha regularidade
+suficiente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Praça ducal, Vigevano, vista para a catedral. @alien66:2012piazza](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo .stretch}
@@ -225,13 +439,22 @@ Falta de simetria compensada pela fachada curva.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Contornos fluidos e indefinidos durante longos processos de
-  conformação;
+Muitos desses espaços urbanos adquirem a sua forma ao longo de décadas
+ou mesmo séculos. É o caso da praça da SS. Annunziata, em Florença. A
+sequência de arcadas que delimitam o espaço urbano é executada
+gradualmente, do século XIV até o XVII.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Praça SS. Annunziata, Florença. @gryffindor:2008piazza](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .stretch}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A praça ilustra o que Edmund Bacon chamou de "princípio do segundo
+homem": a condição para um desenho urbano ser coerente e completo é que
+cada intervenção sucessiva acompanhe e fortaleça as realizações
+anteriores.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV--XVII. @bacon:1974design](){#fig:annunziata-bacon .stretch}
 
