@@ -20,12 +20,34 @@ layout  : default
 
 ![Leonardo da Vinci, homem vitruviano, c. 1492](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg/558px-Da_Vinci_Vitruve_Luc_Viatour_%28cropped%29.jpg){#fig:leonardo-vitruvian .stretch}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+À medida que avançamos no recorte cronológico da Idade Moderna, a
+tradição clássica da arquitetura europeia se apresenta como um sistema
+teórico e técnico cada vez mais elaborado e como uma combinação cada vez
+mais diversificada de práticas construtivas e visões de mundo. As ordens
+de colunas dos antigos gregos e romanos, e os seus princípios de
+composição, se estendem no tempo e no espaço, e se adaptam às mais
+variadas necessidades funcionais, simbólicas e construtivas.
 
-Arquitetura como arte liberal
-=============================
+Assim como os intelectuais, artistas e construtores do século XV, nós
+também vamos nos perguntar *o que* é a arquitetura clássica, *por que*
+ela tem essa capacidade de se adaptar a uma imensa variedade de lugares,
+culturas e funções, e, principalmente, *como* fazer arquitetura
+clássica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Neste módulo já estamos visando, em parte, ao objetivo da Unidade II:
-dominar os métodos projetuais da tradição clássica.
+Arquitetura do humanismo
+========================
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Arquitetura clássica é a arquitetura do humanismo.
+
+- O que é humanismo? Homem é a medida de todas as coisas. Arquitetura
+  feita para os deuses (Grécia e Roma) → Arquitetura feita à(s)
+  medida(s) do corpo humano.
+- Arquitetura que se presta a ser *feita* segundo uma regra mas também a
+  ser *discutida* verbalmente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Architectura scripta
 --------------------
@@ -35,6 +57,15 @@ Architectura scripta
   Sevilha) [@vaneck:1998structure57].
 - Papel, imprensa e difusão do conhecimento arquitetônico: Aldo Manuzio.
   Veneza como centro de difusão do conhecimento.
+
+Antropomorfização
+-----------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Arquitetura boa para se discutir resulta em modos de interpretar e
+pensar a forma arquitetônica que vão além das necessidades funcionais e
+construtivas no sentido estrito.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - Fra Giocondo e Francesco di Giorgio
 - Cesariano: ponte entre o ’400 e o ’500
@@ -62,16 +93,6 @@ Architectura picta
   da arquitetura.
 
 ![Tartaruga vitruviana]()
-
-Tratadística na China: *Yingzao Fashi*
---------------------------------------
-
-- Redescoberta por Liang Sicheng no contexto Beaux-Arts do início do
-  século XX.
-- Republicado na forma de um Vinhola da arquitetura chinesa.
-
-- Afirmação de um período (Song) e de um sistema construtivo (madeira)
-  canônicos.
 
 Reconstruir o vocabulário antigo
 ================================
@@ -119,7 +140,7 @@ possíveis ou desejáveis.
                                       ┌─ Acoplada ─┤
                                       │            └─ Pilastra (interior da capela Pazzi)
                      ┌─ Arqueada ─────┤             
-                     │                │            ┌─ Aresta (Ospedale)
+                     │  Abobadada     │            ┌─ Aresta (Ospedale)
                      │                └─ Isolada ──┤
                      │                             └─ Calota (S. Lorenzo)
     Coluna clássica ─┤          
