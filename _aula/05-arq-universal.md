@@ -38,6 +38,8 @@ estilos decorativos.
 
 - Taxis e parataxis
 
+- Cesariano: traçados reguladores
+
 - Serlio e a cena clássica
 
 - Outros problemas de construção no existente: S. Petronio
