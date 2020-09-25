@@ -287,14 +287,20 @@ um método de composição que tem como características centrais as
 "ordens" de colunas e a "tríade vitruviana".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Vtilitas › Firmitas › Venvstas ##
+## Firmitas › Vtilitas › Venvstas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A chamada "tríade vitruviana", que consiste de solidez, funcionalidade e
 beleza, é o problema que articula toda a lógica da arquitetura clássica.
 Falo que é um problema porque cada um dos três aspectos que o compõem
 traz exigências diferentes e muitas vezes conflitantes para o projeto
-arquitetônico. Mais ainda, a própria legitimidade de se dividir a
+arquitetônico. Esse conflito é ainda mais evidente quando se tem vista a
+diferença entre os tipos edilícios da Roma antiga e aqueles da Europa
+moderna. Essa discrepância vai exigir, ao fim e ao cabo, que seja
+repensada toda a adequação dos elementos da arquitetura clássica aos
+espaços interiores e às fachadas das construções.
+
+Mais ainda, a própria legitimidade de se dividir a
 disciplina da Arquitetura nessas três componentes é algo que tem sido
 objeto de debate. Esse debate diz respeito, sobretudo, a como devemos
 estudar a arquitetura do passado, e portanto a como vamos interpretar e
@@ -325,15 +331,12 @@ do século XX, corrobora essa divisão.
 ::: {.column width=50%}
 ![Geoffrey Scott (1884--1929)](https://www.integra.unb.br/s/tau0006-042-gscott){#fig:scott width=100%}
 :::
+
+. . .
+
 ::: {.column width=50%}
 ![Nikolaus Pevsner (1902--1983)](https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg){#fig:pevsner width=100%}
 :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Vtilitas › Firmitas › Venvstas ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As três categorias devem ser resolvidas em cada elemento de arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Teorias e história da arquitetura ##
@@ -431,17 +434,46 @@ artistas e os seus mecenas ([@Fig:botticelli-sistina]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A imposição voluntária desse sistema de restrições e a busca pela
 solução dessas restrições na composição constitui a essência do projeto
-clássico.
+clássico. Na interpretação de Robin Evans sobre o afresco *Disputa do
+Santíssimo Sacramento*, pintado por Rafael no Vaticano, o ponto de fuga
+unitário conflita com o eixo vertical da composição
+[@evans:1995projective]. Esse conflito deixa o foco da pintura incerto:
+é o ostensório sobre o altar, situado exatamente no ponto de fuga da
+perspectiva? Cada uma das pessoas da Santíssima Trindade, designadas
+como elementos centrais da composição pelas linhas de força das figuras
+secundárias? Ou ainda um ponto fora da pintura, para onde convergem os
+raios da luz divina?
 
 ![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-background-image="https://www.integra.unb.br/s/tau0006-042-pazzi/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O conflito entre a clareza aparente do sistema de regras clássicas e a
+ambiguidade espacial que decorre, muitas vezes, da aplicação dessas
+regras, acontece também na arquitetura. A adequação entre o sistema
+conceitual de ordenamento da estrutura por meio das ordens clássicas e a
+percepção visual do espaço delimitado por essa estrutura é um problema
+que já vimos na obra de Brunelleschi, na primeira metade do século XV
+([@Fig:pazzi]). Essa adequação vai ser um dos fios condutores da
+formulação teórica e da realização tangível da arquitetura do
+Renascimento.
+
+![Filippo Brunelleschi. Capela Pazzi na igreja de Santa Cruz, Florença, interior, 1442--1443. @cuesta:2015capilla](https://www.integra.unb.br/s/tau0006-042-pazzi/preview){#fig:pazzi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Rumo à arquitetura correta ##
 
-Preocupação em estabelecer um cânone acompanha o processo de elaboração
-da arquitetura renascentista.
-
-Quatro momentos:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além disso, os arquitetos no Renascimento se ocupam não só da precisão
+das regras clássicas, mas sobretudo da possibilidade da sua aplicação
+universal nos casos práticos da construção. Essa possibilidade exige
+conciliar a "tríade vitruviana", que é o fundamento do projeto
+arquitetônico em geral, com o domínio de técnicas para manipular o
+espaço e os elementos da arquitetura clássica condizentes com os modelos
+herdados da Antiguidade. Esse processo se desdobra em três momentos ao
+longo dos séculos XV e XVI:
 
 a) Aprendizado do vocabulário: reconstituir os elementos da arquitetura
    clássica e como montá-los. Malha contínua ou superfícies retilíneas
@@ -454,8 +486,15 @@ b) Escolha da gramática: espaços geométricos primários justapostos sem
 c) Aquisição da linguagem: resolve problemas de composição como cantos
    internos e externos. Ajuste entre o rigor da montagem dos elementos
    clássicos e o encontro entre espaços.
-d) Desenvolvimento da convenção: conciliar linguagem clássica com as
-   tipologias de extração medieval e moderna. Fachada da basílica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1) Aprendizado dos **elementos da arquitetura**
+
+2) Escolha da **gramática espacial**
+
+3) (Re)criação da **linguagem** de composição
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Primeiro momento: Elementos e suas combinações elementares #
 
