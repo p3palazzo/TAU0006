@@ -496,14 +496,297 @@ c) Aquisição da linguagem: resolve problemas de composição como cantos
 3) (Re)criação da **linguagem** de composição
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Primeiro momento: Elementos e suas combinações elementares #
+# Arquitetura clássica I › Elementos #
 
-- Concursos: pôr no papel, necessidade do desenho vs. Brunelleschi
-- Brunelleschi não desenhou o projeto da cúpula? Ovo (Medici)
-- Mas inventou/(re)descobriu perspectiva?
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A reconstituição da linguagem clássica da arquitetura, que é feita na
+Itália a partir do século XV, é na verdade a *invenção* de um sistema
+arquitetônico novo a partir da "tríade vitruviana" --- a divisão da
+arquitetura, proposta por Vitrúvio no século I a.C., em *firmitas,
+utilitas* e *venustas*, ou solidez, funcionalidade e beleza.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Inflexões do vocabulário são defectivas: nem todas as combinações são
-possíveis ou desejáveis.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1280px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O desafio dessa invenção está em aplicar a *firmitas* da tecnologia
+construtiva moderna ([@Fig:cupola-brunelleschi]), junto com a *venustas*
+dos elementos da arquitetura antiga ([@Fig:forum-bellotto]), para
+resolver problemas de *utilitas* --- a composição de espaços interiores
+e exteriores. Se a arquitetura clássica pode ser considerada uma forma
+de linguagem, então os elementos são o vocabulário.
+
+![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ef/Bernardo_Bellotto%2C_Capriccio_Romano%2C_Colosseum.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Bernardo Bellotto, Capricho romano, 1742--1747](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bernardo_Bellotto%2C_Capriccio_Romano%2C_Colosseum.jpg/675px-Bernardo_Bellotto%2C_Capriccio_Romano%2C_Colosseum.jpg){#fig:forum-bellotto}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesses espaços, por sua vez, o que se busca é reunir a geometria de
+volumes primários e suas combinações simples ([@Fig:pantheon]) às
+combinações volumétricas complexas desenvolvidas ao longo da Idade Média
+e os requisitos funcionais cada vez mais elaborados da Europa moderna
+([@Fig:medici]).
+
+![Giovanni Paolo Pannini, interior do Pantheon, c. 1734](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg/589px-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg){#fig:pantheon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palazzo_Medici_courtyard_Apr_2008_%2810%29-Palazzo_Medici_courtyard_Apr_2008_%289%29.jpg/1280px-Palazzo_Medici_courtyard_Apr_2008_%2810%29-Palazzo_Medici_courtyard_Apr_2008_%289%29.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Michelozzo di Bartolomeo e Baccio Bandinelli. Pátio do palácio Medici (Riccardi), Florença, 1444--1452](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palazzo_Medici_courtyard_Apr_2008_%2810%29-Palazzo_Medici_courtyard_Apr_2008_%289%29.jpg/1004px-Palazzo_Medici_courtyard_Apr_2008_%2810%29-Palazzo_Medici_courtyard_Apr_2008_%289%29.jpg){#fig:medici}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Elementos de arquitetura ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma das componentes desse sistema de exigências é o conjunto daquilo que
+se chama, na tradição clássica, de "elementos de arquitetura": as peças
+físicas, por assim dizer, que constituem as construções e a delimitação
+dos espaços. Esses elementos atuam em todos os vértices da tríade
+vitruviana:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1b/Palazzo_Riccardi_%28Character_of_Renaissance_Architecture%29.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+1) Eles constituem a massa física da construção. Na maioria das vezes,
+   isso quer dizer que eles atuam como estrutura portante, mas nem
+   sempre; às vezes, são elementos autoportantes de vedação.
+
+   No projeto de Michelozzo para o palácio Medici ([@Fig:medici-ext]),
+   as paredes exteriores não são só instrumentos técnicos para sustentar
+   a carga da edificação e vedar os seus espaços interiores. Por meio
+   das formas de rusticação diferentes em cada piso, elas transformam a
+   necessidade *material* de sustentação em representação *visual* da
+   solidez das paredes.
+
+![Michelozzo di Bartolomeo, palácio Medici (Riccardi), Florença, 1444--1452. @moore:1905palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Palazzo_Riccardi_%28Character_of_Renaissance_Architecture%29.jpg/570px-Palazzo_Riccardi_%28Character_of_Renaissance_Architecture%29.jpg){#fig:medici-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-schu25/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+2) Eles delimitam e articulam os espaços interiores e exteriores das
+   edificações e do ambiente urbano. Os elementos da arquitetura não
+   apenas definem a extensão física e a forma necessárias para a
+   funcionalidade dos ambientes; eles também dão um caráter visual para
+   cada espaço, evidenciando, por exemplo, as suas proporções.
+
+![Permutações de composição no palácio Valmarana--Braga, por Andrea Palladio, 1560. Thomas L. Schumacher baseado em Ottavio Bertotti-Scamozzi [@schumacher:1987palladio]](https://www.integra.unb.br/s/tau0006-043-schu25/preview){#fig:schu25}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-schu-12/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+3) A experiência estética dos ambientes arquitetônicos decorre não só da
+   forma dos volumes espaciais, mas também, e talvez principalmente, do
+   tratamento plástico das suas superfícies, por meio dos elementos de
+   arquitetura.
+
+   Thomas Schumacher mostrou como Palladio recombinava uma gama restrita
+   de elementos da arquitetura para traduzir as diferenças no caráter de
+   fachadas segundo a natureza do edifício --- palácios ou igrejas.
+
+![Permutações de composição no palácio Valmarana--Braga, por Andrea Palladio, 1560. Thomas L. Schumacher baseado em Ottavio Bertotti-Scamozzi [@schumacher:1987palladio]](https://www.integra.unb.br/s/tau0006-043-schu-12/preview){#fig:schu12}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Natureza dos elementos da arquitetura ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os elementos da arquitetura clássica podem ser agrupados, na forma mais
+simples, possível, em quatro categorias: pontos de apoio isolados ou
+lineares ([@Fig:ching-support; @Fig:krier-27a]), e coberturas
+horizontais ou abobadadas ([@Fig:krier-27b]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Francis D.K. Ching, classificação dos pontos de apoio [-@ching:2007architecture, 14]](https://www.integra.unb.br/s/tau0006-043-ching-support/preview){#fig:ching-support width=100%}
+:::
+::: {.column width=50%}
+![Rob Krier, classificação dos pontos de apoio [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27a/preview){#fig:krier-27a width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Rob Krier, classificação das coberturas [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27b/preview){#fig:krier-27b .stretch}
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-liang-order/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+De todos os elementos da arquitetura, as chamadas "ordens" de colunas
+são os que caracterizam a linguagem clássica de modo mais evidente. O
+lugar do conceito de ordens clássicas na arquitetura ocidental é tão
+central e dominante que ele influencia, inclusive, o entendimento de
+outras culturas arquitetônicas. Os arquitetos chineses Lin Huiyin e
+Liang Sicheng esquematizaram mesmo uma "ordem chinesa"
+([@Fig:liang-order]), inspirada nos seus estudos de arquitetura clássica
+nos Estados Unidos na primeira metade do século XX.
+
+![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://www.integra.unb.br/s/tau0006-043-liang-order/preview){#fig:liang-order}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-badia-fiesolana/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas, antes de as ordens clássicas conquistarem o mundo, elas precisam
+existir --- e no século XV isso não é uma questão retórica. Na Itália, e
+especialmente na Toscana, a região onde fica Florença, a tradição
+arquitetônica romana persiste ao longo de toda a Idade Média. No século
+XII, uma sequência de construções monumentais demonstra o domínio de
+algumas composições básicas da Antiguidade tardia.
+
+![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século XII](https://www.integra.unb.br/s/tau0006-043-badia-fiesolana/preview){#fig:badia-fiesolana}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview" data-transition="fade-out"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nas antigas abadias de Fiesole ([@Fig:badia-fiesolana]) e San Miniato al
+Monte ([@Fig:miniato-fac; @Fig:miniato-altar]), as arcadas repousando
+sobre colunas coríntias são enquadradas por pilastras da mesma espécie
+que sustentam entablamentos contínuos.
+
+![Fachada da basílica de San Miniato al Monte, século XII. @biesen:2017facade](https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview){#fig:miniato-fac}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-det/preview" data-transition="fade-in"}
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-altar/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Capela-mor da basílica de San Miniato al Monte, século XII. @vvoevale:2016altar](https://www.integra.unb.br/s/tau0006-043-miniato-altar/preview){#fig:miniato-altar}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-backgroun-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No interior do batistério de São João, em Florença, o uso canônico de
+ordens coríntias sobrepostas, enquadrando arcadas jônicas
+([@Fig:battsgiov]), demonstra que o conhecimento da linguagem clássica
+nunca se perdeu por inteiro.
+
+![Batistério de São João, Florença, século XII. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG){#fig:battsgiov}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Firenze_-_Florence_-_Piazza_della_Santissima_Annunziata_-_View_East_on_lo_Spedale_degli_Innocenti_1445_by_Filippo_Brunelleschi_%26_Pietro_Tacca%27s_Fountain_1629.jpg/1280px-thumbnail.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mesmo assim, no início do século XV, a linguagem clássica não é um
+sistema corrente, e muito menos dominante, entre os arquitetos de
+Florença. O seu uso se restringe quase exclusivamente à ordem coríntia e
+a composições puramente lineares: arcadas e, às vezes, colunatas, em
+geral aplicadas na superfície de paredes ([@Fig:spedale]).
+
+![Filippo Brunelleschi, asilo dos Inocentes, Florença, 1419](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Firenze_-_Florence_-_Piazza_della_Santissima_Annunziata_-_View_East_on_lo_Spedale_degli_Innocenti_1445_by_Filippo_Brunelleschi_%26_Pietro_Tacca%27s_Fountain_1629.jpg/1280px-thumbnail.jpg){#fig:spedale}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-cesariano-ordini/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesse contexto é que a interpretação do tratado de Vitrúvio ganha
+importância, associada ao levantamento de ruínas romanas. A partir da
+descrição dos três "gêneros" de colunas, expostos por Vitrúvio, os
+arquitetos do Renascimento buscam reconstituir um sistema ordenado de
+elementos clássicos da arquitetura.
+
+![Cesare Cesariano, gêneros de colunas do tratado de Vitrúvio, 1521](https://ia802500.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/gri_33125008262210/gri_33125008262210_jp2.zip&file=gri_33125008262210_jp2/gri_33125008262210_0140.jp2&id=gri_33125008262210&scale=4&rotate=0){#fig:cesariano-genera}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://ia800900.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/cinqveordinidarc00vign/cinqveordinidarc00vign_jp2.zip&file=cinqveordinidarc00vign_jp2/cinqveordinidarc00vign_0010.jp2&id=cinqveordinidarc00vign&scale=6.4171875&rotate=0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa busca por sistematizar as espécies de colunas acaba resultando nos
+três principais tratados de meados do século XVI: o de Sebastiano
+Serlio, que é o primeiro a usar a expressão "ordens de colunas", o de
+Vinhola, publicado em 1563 ([@Fig:vignola-intro-2]), que vai ser o
+sistema mais difundido até os dias de hoje, e o de Palladio, publicado
+em 1570, que vai influenciar sobretudo a Inglaterra.
+
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://ia800900.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/cinqveordinidarc00vign/cinqveordinidarc00vign_jp2.zip&file=cinqveordinidarc00vign_jp2/cinqveordinidarc00vign_0010.jp2&id=cinqveordinidarc00vign&scale=6.4171875&rotate=0){#fig:vignola-intro-2 width=100%}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-56/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir desses três tratados, o sistema clássico se estabiliza
+definitivamente em torno das cinco "ordens" de colunas usadas até hoje
+([@Fig:chitham-5orders]): toscana, dórica, jônica, coríntia e compósita.
+Esse sistema é, sob todos os aspectos, uma *invenção* do Renascimento:
+no sentido original da palavra, a *descoberta* de algo que existia, mas
+que até então não estava organizado, classificado ou descrito.
+
+![Robert Chitham, *As cinco ordens de arquitetura*, 2005](https://www.integra.unb.br/s/tau0006-043-chitham-56/preview){#fig:chitham-5orders}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-167/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O que é, portanto, a regra das cinco ordens de colunas da arquitetura
+clássica? Em primeiro lugar, é um sistema estrutural que pode ser
+aplicado a uma variedade de materiais de construção. Portanto, a coluna
+clássica raramente existe isolada: o entablamento, que é a viga,
+pingadeira e coroamento da ordem, sempre acompanha uma colunata...
+
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-167/preview){#fig:chitham-167 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-083-085/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+...mas é, sobretudo, um sistema decorativo. Cada um dos três componentes
+principais da ordem --- pedestal, coluna e entablamento --- se divide em
+partes que foram refinadas ao longo de --- literalmente --- milênios. A
+forma e as proporções de cada uma dessas partes com relação ao todo são
+minuciosamente descritas nos tratados do Renascimento.
+
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-083-085/preview){#fig:chitham-083-085 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-181-197/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na questão das proporções está a chave para entender a adoção
+generalizada das ordens clássicas no Renascimento. As ordens funcionam
+como um algoritmo de composição. Esse algoritmo parte, nos tratados, do
+módulo --- o diâmetro inferior do fuste da coluna --- para determinar as
+dimensões relativas de todos os elementos de uma composição, inclusive
+de ordens diferentes entre si. Mas esse algoritmo é reversível, e pode
+ser igualmente manipulado a partir das dimensões do conjunto, por
+divisões sucessivas até chegar no módulo.
+
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-181-197/preview){#fig:chitham-181-197 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-175-191/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O algoritmo das ordens clássicas é, portanto, uma regra eficiente para
+organizar composições grandes e pequenas. Do sistema simples das ordens,
+é possível extrapolar uma série de elementos complementares --- portas,
+janelas, arcos, guarda-corpos...
+
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-175-191/preview){#fig:chitham-175-191 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa do sistema de regras e restrições, o vocabulário das ordens
+clássicas estabelece certos limites às composições e combinações. As
+inflexões admissíveis no vocabulário são defectivas; uma vez que as
+regras básicas das ordens estão definidas, explorar a gama de soluções
+arquitetônicas possíveis passa a ser uma das principais preocupações da
+teoria da arquitetura no Renascimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
                                                    ┌─ Coluna (S. Maria Novella)
                                       ┌─ Acoplada ─┤
