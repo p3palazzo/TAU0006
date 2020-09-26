@@ -904,7 +904,8 @@ laterais.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Vale lembrar que Alberti é um funcionário de alto escalão da Igreja
 católica. Portanto, essa nova configuração espacial encontra apoio
-oficial e se difunde rapidamente pela Itália central.
+oficial e se difunde rapidamente pela Itália central. Assim como a
+cúpula de Brunelleschi,
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Segundo momento: Espaços de geometria elementar ##
