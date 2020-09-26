@@ -804,14 +804,110 @@ teoria da arquitetura no Renascimento.
                                       └─ Isolada ──┤
                                                    └─ Pilastra (Ø)
 
-# Estabelecer a gramática espacial clássica #
+# Arquitetura clássica II › Espaço #
 
-Segundo momento: Espaços de geometria elementar
------------------------------------------------
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura clássica se define, em primeiro lugar, pelo uso das
+chamadas "ordens" de colunas. Os tratados do Renascimento estabelecem o
+sistema com cinco ordens, nenhuma a mais, nenhuma a menos. As regras de
+combinação e proporção codificadas nas ordens clássicas, por sua vez,
+condicionam as possibilidades de composição da estrutura e das
+superfícies que delimitam os espaços arquitetônicos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Pienza de Rossellino: prelúdio
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Basilica_di_San_Lorenzo%2C_looking_toward_the_altar.jpg/1280px-Basilica_di_San_Lorenzo%2C_looking_toward_the_altar.jpg"}
 
-- Pintura e escultura?
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Num primeiro momento, até meados do século XV, a determinação do que é o
+emprego "correto" dos elementos de arquitetura --- as ordens clássicas
+--- afeta, sobretudo, a composição de superfícies contínuas. Essa
+restrição é uma herança da arquitetura medieval, e principalmente do uso
+dos elementos clássicos na região de Florença durante o século XII.
+
+![Filippo Brunelleschi, interior da basílica de San Lorenzo, Florença, 1442--1459](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Basilica_di_San_Lorenzo%2C_looking_toward_the_altar.jpg/1024px-Basilica_di_San_Lorenzo%2C_looking_toward_the_altar.jpg){#fig:slorenzo}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firenze_Palazzo_Rucellai.jpg/1280px-Firenze_Palazzo_Rucellai.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O uso sistemático das ordens clássicas como elementos estruturantes da
+composição de fachadas é promovido por volta da metade do século XV, por
+arquitetos como Alberti e Rossellino. Rossellino é o provável autor de
+dois palácios de fachadas quase idênticas, o Rucellai, em Floreça, e o
+Piccolomini, em Pienza, projetados por volta de 1460.
+
+![Bernardo Rossellino, talvez com Leon Battista Alberti, fachada do palácio Rucellai, Florença, 1461](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firenze_Palazzo_Rucellai.jpg/1280px-Firenze_Palazzo_Rucellai.jpg){#fig:rucellai .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Bernardo Rossellino, palácio Piccolomini, Pienza, 1459--1462](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG){#fig:piccolomini .stretch}
+
+Nos dois projetos, o fio condutor é a busca por unificar a composição da
+fachada por meio da regularidade conferida pelas ordens clássicas.
+Nesses projetos, aparecem dois temas centrais para a adequação das
+ordens aos requisitos espaciais modernos. O primeiro tema é o da
+articulação vertical da composição clássica; ele envolve a sobreposição
+de diferentes ordens e a relação entre ordens na fachada e pisos no
+interior do edifício. O segundo tema é o da articulação horizontal da
+composição entre ordens clássicas, aberturas e superfície da parede.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Espacialidade da planta
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os principais problemas de composição em planos verticais permanecem
+sempre um desafio plástico para a arquitetura do Renascimento. Ao mesmo
+tempo, a questão de como articular superfícies se desdobra, também, para
+os volumes espaciais. Os problemas que dizem respeito ao espaço giram em
+torno da busca pela manipulação de volumes geométricos simples, e também
+do uso de malhas espaciais em planta.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-042-pazzi/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Brunelleschi, na sacristia de São Lourenço e na capela Pazzi, afirma um
+princípio de unidade espacial difícil de ser seguido, num primeiro
+momento, em projetos com características funcionais mais específicas e
+conservadoras.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tipos de ambientes interiores que se consolidaram ao longo da Idade
+Média oferecem maior resistência a adotarem a composição de espaços com
+clareza geométrica. É o caso das naves de igrejas e de pátios de
+palácios.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É Alberti que introduz o sistema espacial clássico no cerne da
+arquitetura religiosa. Na catedral de Rimini (c. 1450) e na igreja de
+Santo André, em Mântua (1472--1790), ele abandona o sistema de três
+naves das basílicas medievais e adota uma nave única com capelas
+laterais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Vale lembrar que Alberti é um funcionário de alto escalão da Igreja
+católica. Portanto, essa nova configuração espacial encontra apoio
+oficial e se difunde rapidamente pela Itália central.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Segundo momento: Espaços de geometria elementar ##
 
 - Brunelleschi é o divisor de águas mas ainda próximo do emprego
   medieval (toscano) dos elementos clássicos.
@@ -825,15 +921,16 @@ Segundo momento: Espaços de geometria elementar
 
 - Trocas com o império Otomano via Veneza. Viagem de Sangallo a Atenas.
 
-Sangallo e Bramante
--------------------
+- Cesariano, Francesco di Giorgio, Bramante, A - B - A
+
+## Sangallo e Bramante ##
 
 - Giuliano da Sangallo: S. Maria delle Carceri, Prato
 - Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
   articulação espacial.
 - Bramante: claustro della Pace.
 
-# Perspectiva e projeção ortográfica #
+## Perspectiva e projeção ortográfica ##
 
 Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
 papa Leão X.
