@@ -7,10 +7,10 @@ layout  : default
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nesse tópico nós vamos tratar do pensamento e da prática de produção das
+Neste tópico nós vamos tratar do pensamento e da prática de produção das
 cidades na Europa e na Ásia dos séculos XV e XVI. A primeira parte
 aborda o que se convencionou chamar de cidades ideais na teoria da
-arquitetura na Itália e na China. A segunda parte observar a realidade
+arquitetura na Itália e na China. A segunda parte observa a realidade
 da implantação de espaços urbanos em Portugal e no Japão. Essas práticas
 dialogam com concepções teóricas, ajustando as as possibilidades e as
 conveniências do contexto. A terceira parte trata do papel das
@@ -224,6 +224,18 @@ pontos estratégicos.
 
 ![Ao longo do rio no festival Qingming, imitação de Suzhou, século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg){#fig:qingming .stretch}
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As principais cidades da China são resultado de um planejamento inicial
+altamente centralizado, e de uma atitude política de forte controle
+sobre o comércio. Ao longo do processo de consolidação das cidades, essa
+rigidez geométrica inicial serve de esqueleto para uma variedade de
+modos de ocupar o espaço e de deformações da malha viária. A combinação
+de clareza global e flexibilidade local é uma das características
+definidoras da urbanização na China.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Cidade e praça na Europa #
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-031-pompei-golvin/preview"}
@@ -308,8 +320,6 @@ praça, contribuem para organização regular do espaço.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg){#fig:zocchi-signoria .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Geometria em questão ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg"}
 
@@ -468,7 +478,7 @@ anteriores.
 ![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV--XVII. @bacon:1974design](https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-sq/preview){#fig:annunziata-bacon .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Cidades possíveis: Japão e Portugal #
+# Cidades possíveis: Japão #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em contraste com a busca incessante por atingir um ideal teórico na
@@ -617,7 +627,25 @@ complexidade social e arquitetônica dos séculos XVII a XIX.
 ![Discrepância entre lotes registrados e edificações efetivamente construídas. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Portugal ##
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+À medida que o Japão se urbaniza e que um governo central reafirma o seu
+poder, na primeira metade do século XVII, as cidades crescem e as redes
+de transporte se integram na escala do país inteiro. A logística de
+abastecimento, comércio e circulação de pessoas passa a ser o foco das
+políticas territoriais japonesas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Urbanismo de colina: Portugal #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A urbanização do território Português é uma política da coroa que se
+desenrola a partir de meados do século XIII. Os objetivos dessa política
+são povoar as fronteiras, melhorando a defesa do território, e
+racionalizar o abastecimento de alimentos, criando novas frentes
+agrícolas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - Vilas de fundação em Portugal e na Índia e América portuguesas.
 - São Jorge da Mina → Fortificação
