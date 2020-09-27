@@ -804,6 +804,30 @@ teoria da arquitetura no Renascimento.
                                       └─ Isolada ──┤
                                                    └─ Pilastra (Ø)
 
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No meio do caminho entre as colunas clássicas e os elementos
+estritamente complementares, temos a pilastra. Ela é simplesmente uma
+coluna "achatada" na superfície de uma parede. A pilastra é
+uma invenção romana, mas é relativamente rara na Antiguidade. Na
+arquitetura do império Romano, ela serve como fundo para uma coluna
+ligeiramente destacada da parede, ou ainda como arremate de uma *anta*
+--- um trecho de parede que termina isolado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O século XV resgata a pilastra e faz dela um dos elementos mais usados
+em composições de paredes ou arcadas. Praticamente desde os primeiros
+projetos clássicos de Brunelleschi, Rossellino e Alberti, as ordens de
+pilastras são o expediente dominante para articular as superfícies
+interiores das paredes assim como as fachadas. Essa preferência pela
+superfície quase plana faz parte da busca dos arquitetos do século XV
+pela articulação clara de volumes espaciais com geometrias primárias.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Arquitetura clássica II › Espaço #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -883,7 +907,7 @@ conservadoras.
 ## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tipos de ambientes interiores que se consolidaram ao longo da Idade
+Os tipos de ambientes interiores que se consolidaram ao longo da Idade
 Média oferecem maior resistência a adotarem a composição de espaços com
 clareza geométrica. É o caso das naves de igrejas e de pátios de
 palácios.
@@ -905,44 +929,120 @@ laterais.
 Vale lembrar que Alberti é um funcionário de alto escalão da Igreja
 católica. Portanto, essa nova configuração espacial encontra apoio
 oficial e se difunde rapidamente pela Itália central. Assim como a
-cúpula de Brunelleschi,
+cúpula de Brunelleschi, a nave única de Alberti é uma solução ao mesmo
+tempo espacial e estrutural.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Segundo momento: Espaços de geometria elementar ##
+## 
 
-- Brunelleschi é o divisor de águas mas ainda próximo do emprego
-  medieval (toscano) dos elementos clássicos.
-- No segundo momento, soluções espaciais baseadas em sólidos geométricos
-  primários e suas justaposições.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço da nave tem uma geometria simples e claramente legível ---
+metade de um cilindro pousando sobre um prisma retangular. Já as capelas
+laterais desempenham o papel de contrafortes para conter o empuxo da
+abóbada central; esse sistema segue o modelo da basílica de Constantino,
+em Roma, do início do século IV d.C. Essa basílica era um edifício
+civil, e não religioso, mas no Renascimento, Constantino é considerado
+como o primeiro imperador cristão --- daí, talvez, a legitimidade do
+modelo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Coríntia como ponto de partida e vínculo com a Idade Média de
-  Brunelleschi a Alberti e Laurana
-- Analogias dos gêneros de colunas em Alberti
-- Francesco di Giorgio Martini: arquitetura antropomórfica
+## 
 
-- Trocas com o império Otomano via Veneza. Viagem de Sangallo a Atenas.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os projetos de Alberti, assim como os dos seus contemporâneos em meados
+do século XV, têm uma distinção clara entre os volumes do espaço
+interior e os planos que delimitam esses volumes. Na basílica de Mântua,
+a marcação das ordens é feita com pilastras que se projetam muito pouco
+à frente dos maciços entre as capelas. Como já vimos, o uso das
+pilastras em vez de colunas dá mais clareza à leitura dos volumes
+geométricos que constituem o espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Cesariano, Francesco di Giorgio, Bramante, A - B - A
+## 
 
-## Sangallo e Bramante ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A preocupação com a clareza na geometria do espaço leva à procura por um
+sistema de regras para gerar traçados reguladores. O tratado de Vitrúvio
+é pouco específico e até confuso nesse quesito. A experiência medieval
+com composições estritamente lineares é a primeira referência em vigor
+no século XV; quando usada com ordens clássicas, ela resulta em
+extremidades em geral pouco elegantes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Giuliano da Sangallo: S. Maria delle Carceri, Prato
-- Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
-  articulação espacial.
-- Bramante: claustro della Pace.
+##
 
-## Perspectiva e projeção ortográfica ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além disso, a proporção de cheios e vazios na construção murária da
+Europa moderna é bem diversa daquela nas arcadas e colunatas das
+basílicas e dos pórticos da Roma antiga. A grande superfície de paredes
+na arquitetura do século XV gera, necessariamente, duas condições de
+articulação de superfícies distintas para a fachada e as paredes
+interiores. Na primeira, uma cadência de pilastras centralizadas entre
+as aberturas das janelas; na segunda, extensas superfícies caiadas entre
+pilastras que enquadram as extremidades.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
-papa Leão X.
+## 
 
-Dois modos fundamentalmente distintos de conceber o espaço:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Até o início do século XVI, os principais espaços interiores das grandes
+obras aderem à geometria estritamente ortogonal de paralelepípedos, a
+cilindros e esferas. Nos raros casos de construções com implantação
+isolada, o traçado do perímetro externo abraça sempre que possível os
+volumes internos. Esse é o caso da igreja da Madonna delle Carceri, em
+Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Perspectiva foi um grande "salto" conceitual em seu tempo, permitindo
-  conceber o espaço como um objeto a ser representado e não apenas como
-  interstício entre figuras. De Martini e Lorenzetti a Masaccio e
-  Ucello. Tábuas de Urbino. Piero della Francesca: Deep space shallow
-  space. Perspectiva do interior do Panteão por Rafael.
-- Projeção ortográfica representa um grau de abstração na concepção
-  (prefiguração) do espaço. Permite manipular formas complexas e
-  resolver o problema do canto com ordens clássicas.
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No caso da capela de Santa Maria della Consolazione, em Todi, a
+correspondência é ainda mais direta por causa das cúpulas, visíveis no
+perfil externo em vez de serem protegidas por telhados. Essa obra,
+iniciada em 1508 por Cola da Caprarola, é um dos pontos altos da
+arquitetura de plantas centralizadas no Renascimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço interno da capela da Consolação é um exemplo daquela tensão
+entre interpretações conflitantes que caracteriza o humanismo. A planta
+centralizada estabelece o foco do espaço, indiscutivelmente, no centro,
+que é o cruzamento de todos os eixos de simetria ortogonais da
+composição --- tanto horizontais quanto verticais. Ao mesmo tempo, a
+existência de um acesso único ao interior sugere uma direcionalidade
+implícita no espaço. Essa axialidade longitudinal é reforçada pela
+colocação do altar, não no centro, mas na abside oposta à da entrada.
+Não importa tanto se essa disposição foi decidida por motivos
+operacionais da liturgia, pela conveniência da circulação na "nave", ou
+ainda para resgatar algo da linearidade das basílicas convencionais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mais ainda, com aponta Robin Evans, a questão da centralidade no espaço
+da igreja é ambígua [@evans:2007projective]. O centro da planta está,
+sem dúvida, no meio do piso ocupado pela congregação. Porém, assim como
+no Panteão de Roma, há um outro "centro" no espaço, que é o centro da
+esfera, vários metros acima do centro da planta. De outro ponto de
+vista, todo o eixo vertical que vai do centro da planta até o lanternim
+da cúpula pode ser entendido como um centro dinâmico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao longo do século XV, os princípios da arquitetura clássica são
+formulados na Itália central. Esses princípios se inspiram nas ruínas da
+Roma antiga e no tratado de Vitrúvio. Porém, em última análise, a
+arquitetura do Renascimento inventa uma teoria do classicismo
+transformando uma base de práticas e de formas desenvolvidas ao longo da
+Idade Média. A constituição de uma regra para as ordens de colunas e a
+afirmação de uma sensibilidade espacial na clareza de volumes
+geométricos primários são os pontos de apoio dessa arquitetura clássica.
+No início do século XVI, os arquitetos italianos vão explorar formas
+cada vez mais elaboradas de articulação das ordens e dos espaços.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

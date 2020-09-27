@@ -9,6 +9,36 @@ layout  : default
 Realização do classicismo
 =========================
 
+## Segundo momento: Espaços de geometria elementar ##
+
+- Trocas com o império Otomano via Veneza. Viagem de Sangallo a Atenas.
+
+- Cesariano, Laurana (palácio ducal de Urbino), Francesco di Giorgio
+  (Chancelaria), Bramante, A - B - A
+
+## Sangallo e Bramante ##
+
+- Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
+  articulação espacial.
+- Bramante: claustro della Pace.
+
+## Perspectiva e projeção ortográfica ##
+
+Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
+papa Leão X.
+
+Dois modos fundamentalmente distintos de conceber o espaço:
+
+- Perspectiva foi um grande "salto" conceitual em seu tempo, permitindo
+  conceber o espaço como um objeto a ser representado e não apenas como
+  interstício entre figuras. De Martini e Lorenzetti a Masaccio e
+  Ucello. Tábuas de Urbino. Piero della Francesca: Deep space shallow
+  space. Perspectiva do interior do Panteão por Rafael.
+- Projeção ortográfica representa um grau de abstração na concepção
+  (prefiguração) do espaço. Permite manipular formas complexas e
+  resolver o problema do canto com ordens clássicas.
+
+
 Terceiro momento: Articulações de elementos e espaços
 -----------------------------------------------------
 
