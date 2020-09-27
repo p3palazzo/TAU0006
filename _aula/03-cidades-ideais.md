@@ -457,7 +457,7 @@ gradualmente, do século XIV até o XVII.
 ![Praça SS. Annunziata, Florença. @gryffindor:2008piazza](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-bg/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A praça ilustra o que Edmund Bacon chamou de "princípio do segundo
@@ -465,7 +465,7 @@ homem": a condição para um desenho urbano ser coerente e completo é que
 cada intervenção sucessiva acompanhe e fortaleça as realizações
 anteriores.
 
-![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV--XVII. @bacon:1974design](){#fig:annunziata-bacon .stretch}
+![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV--XVII. @bacon:1974design](https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-sq/preview){#fig:annunziata-bacon .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Cidades possíveis: Japão e Portugal #
