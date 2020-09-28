@@ -904,28 +904,34 @@ momento, em projetos com características funcionais mais específicas e
 conservadoras.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://www.integra.unb.br/s/tau0006-044-rucellai-plan-bg/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tipos de ambientes interiores que se consolidaram ao longo da Idade
 Média oferecem maior resistência a adotarem a composição de espaços com
 clareza geométrica. É o caso das naves de igrejas e de pátios de
-palácios.
+palácios ([@Fig:rucellai-plan]).
+
+![Leon Battista Alberti, Planta do palácio Rucellai, Florença, 1455--1470](https://www.integra.unb.br/s/tau0006-044-rucellai-plan/preview){#fig:rucellai-plan .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/22/Tempio_Malatestiano_%28pre-war%29.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É Alberti que introduz o sistema espacial clássico no cerne da
-arquitetura religiosa. Na catedral de Rimini (c. 1450) e na igreja de
-Santo André, em Mântua (1472--1790), ele abandona o sistema de três
-naves das basílicas medievais e adota uma nave única com capelas
-laterais.
+arquitetura religiosa. Na reforma da catedral de Rimini (c. 1450), uma
+antiga igreja franciscana com nave única, ele transforma os contrafortes
+exteriores em capelas laterais, abertas para a nave.
+
+![Leon Battista Alberti, catedral de São Francisco, Rimini (templo
+Malatestiano), c. 1450](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tempio_Malatestiano_%28pre-war%29.jpg/994px-Tempio_Malatestiano_%28pre-war%29.jpg){#fig:rimini-int .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mostra_di_modelli_dell%27alberti%2C_tempio_malatestiano_01.jpg/1235px-Mostra_di_modelli_dell%27alberti%2C_tempio_malatestiano_01.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Maquete do projeto de Leon Battista Alberti para a catedral de Rimini](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mostra_di_modelli_dell%27alberti%2C_tempio_malatestiano_01.jpg/926px-Mostra_di_modelli_dell%27alberti%2C_tempio_malatestiano_01.jpg){#fig:rimini-model .stretch}
+
 Vale lembrar que Alberti é um funcionário de alto escalão da Igreja
 católica. Portanto, essa nova configuração espacial encontra apoio
 oficial e se difunde rapidamente pela Itália central. Assim como a
@@ -933,10 +939,20 @@ cúpula de Brunelleschi, a nave única de Alberti é uma solução ao mesmo
 tempo espacial e estrutural.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://www.integra.unb.br/s/tau0006-044-mantua-plan-bg/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O espaço da nave tem uma geometria simples e claramente legível ---
+Na igreja de Santo André, em Mântua (1472--1790), Alberti tem liberdade
+para criar a edificação inteira. Ele escolhe, então, levar adiante a
+configuração da nave única com capelas laterais ([@Fig:mantua-plan]).
+
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1472--1790](https://www.integra.unb.br/s/tau0006-044-mantua-plan/preview){#fig:mantua-plan .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://live.staticflickr.com/1303/1336317266_45bbce2e26_k_d.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+o espaço da nave tem uma geometria simples e claramente legível ---
 metade de um cilindro pousando sobre um prisma retangular. Já as capelas
 laterais desempenham o papel de contrafortes para conter o empuxo da
 abóbada central; esse sistema segue o modelo da basílica de Constantino,
@@ -944,9 +960,11 @@ em Roma, do início do século IV d.C. Essa basílica era um edifício
 civil, e não religioso, mas no Renascimento, Constantino é considerado
 como o primeiro imperador cristão --- daí, talvez, a legitimidade do
 modelo.
+
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://live.staticflickr.com/1204/1335531115_4f07707402_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os projetos de Alberti, assim como os dos seus contemporâneos em meados
@@ -955,7 +973,9 @@ interior e os planos que delimitam esses volumes. Na basílica de Mântua,
 a marcação das ordens é feita com pilastras que se projetam muito pouco
 à frente dos maciços entre as capelas. Como já vimos, o uso das
 pilastras em vez de colunas dá mais clareza à leitura dos volumes
-geométricos que constituem o espaço.
+geométricos que constituem o espaço ([@Fig:mantua-lesene]).
+
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007light](https://live.staticflickr.com/1204/1335531115_76a02a674e_c_d.jpg){#fig:mantua-lesene .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
@@ -963,26 +983,86 @@ geométricos que constituem o espaço.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A preocupação com a clareza na geometria do espaço leva à procura por um
 sistema de regras para gerar traçados reguladores. O tratado de Vitrúvio
-é pouco específico e até confuso nesse quesito. A experiência medieval
-com composições estritamente lineares é a primeira referência em vigor
-no século XV; quando usada com ordens clássicas, ela resulta em
-extremidades em geral pouco elegantes.
+é pouco específico e até confuso nesse quesito. Cesare Cesariano, o
+primeiro tradutor de Vitrúvio para o italiano, propõe uma série de
+esquemas gráficos estabelecendo traçados reguladores
+([@Fig:cesariano-1]) e interpretando as descrições de Vitrúvio para
+diferentes tipos de plantas de templos e construções civis
+([@Fig:cesariano-2]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:cesariano-1}
+![Astrologia](https://www.integra.unb.br/s/tau0006-044-cesariano-041/preview){#fig:cesariano-1a width=50%}
+
+![Catedral de Milão](https://www.integra.unb.br/s/tau0006-044-cesariano-049/preview){#fig:cesariano-1b width=50%}
+
+![Átrios e salas](https://www.integra.unb.br/s/tau0006-044-cesariano-212/preview){#fig:cesariano-1c}
+
+Traçados reguladores de Vitrúvio segundo Cesare Cesariano, 1521
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:cesariano-2}
+![Templo períptero](https://www.integra.unb.br/s/tau0006-044-cesariano-122a/preview){#fig:cesariano-2a width=50%}
+
+![Templo pseudodíptero](https://www.integra.unb.br/s/tau0006-044-cesariano-122b/preview){#fig:cesariano-2b width=50%}
+
+Cesare Cesariano, reconstituição de malhas estruturais segundo Vitrúvio,
+1521
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A maioria das interpretações de Cesariano ou está errada, ou faz uma
+transposição fantasiosa para tipologias modernas. Mesmo assim, ou até
+por causa disso, elas oferecem exemplos de traçados reguladores e de
+articulações de ordens clássicas com paredes que são relevantes para os
+projetos arquitetônicos do Renascimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:cesariano-3}
+![com antas](https://www.integra.unb.br/s/tau0006-044-cesariano-120a/preview){#fig:cesariano-3a width=50%}
+
+![prostilo](https://www.integra.unb.br/s/tau0006-044-cesariano-120b/preview){#fig:cesariano-3b width=50%}
+
+![anfiprostilo](https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview){#fig:cesariano-3c}
+
+![etrusco](https://www.integra.unb.br/s/tau0006-044-cesariano-156/preview){#fig:cesariano-3d}
+
+Tipologias de templos com malhas estruturais reguladoras, Cesare
+Cesariano, 1521
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra/unb/br/s/tau0006-044-spedale-prosp/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A experiência medieval com composições estritamente lineares é a
+primeira referência em vigor no século XV; quando usada com ordens
+clássicas, ela resulta em extremidades em geral pouco elegantes
+([@Fig:spedale-prosp]).
+
+![Filippo Brunelleschi, asilo dos Inocentes, 1419](https://www.integra/unb/br/s/tau0006-044-spedale-prosp/preview){#fig:spedale-prosp}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau0006-044-piccolomini/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além disso, a proporção de cheios e vazios na construção murária da
 Europa moderna é bem diversa daquela nas arcadas e colunatas das
-basílicas e dos pórticos da Roma antiga. A grande superfície de paredes
-na arquitetura do século XV gera, necessariamente, duas condições de
-articulação de superfícies distintas para a fachada e as paredes
-interiores. Na primeira, uma cadência de pilastras centralizadas entre
-as aberturas das janelas; na segunda, extensas superfícies caiadas entre
-pilastras que enquadram as extremidades.
+basílicas e dos pórticos da Roma antiga ([@Fig:piccolomini-murario]). A
+grande superfície de paredes na arquitetura do século XV gera,
+necessariamente, duas condições de articulação de superfícies distintas
+para a fachada e as paredes interiores. Na primeira, uma cadência de
+pilastras centralizadas entre as aberturas das janelas; na segunda,
+extensas superfícies caiadas entre pilastras que enquadram as
+extremidades.
+
+![Bernardo Rossellino, palácio Piccolomini, Pienza, 1459--1462](https://www.integra.unb.br/s/tau0006-044-piccolomini/preview){#fig:piccolomini-murario}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Basilica_di_Santa_Maria_delle_Carceri_%28Prato%29_02.jpg/1280px-Basilica_di_Santa_Maria_delle_Carceri_%28Prato%29_02.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até o início do século XVI, os principais espaços interiores das grandes
@@ -990,17 +1070,23 @@ obras aderem à geometria estritamente ortogonal de paralelepípedos, a
 cilindros e esferas. Nos raros casos de construções com implantação
 isolada, o traçado do perímetro externo abraça sempre que possível os
 volumes internos. Esse é o caso da igreja da Madonna delle Carceri, em
-Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo.
+Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo
+([@Fig:carceri-ext]).
+
+![Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Basilica_di_Santa_Maria_delle_Carceri_%28Prato%29_02.jpg/1024px-Basilica_di_Santa_Maria_delle_Carceri_%28Prato%29_02.jpg){#fig:carceri-ext}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Luoghi_del_cuore.JPG/1280px-Luoghi_del_cuore.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No caso da capela de Santa Maria della Consolazione, em Todi, a
 correspondência é ainda mais direta por causa das cúpulas, visíveis no
-perfil externo em vez de serem protegidas por telhados. Essa obra,
-iniciada em 1508 por Cola da Caprarola, é um dos pontos altos da
-arquitetura de plantas centralizadas no Renascimento.
+perfil externo em vez de serem protegidas por telhados
+([@Fig:consolazione-ext]). Essa obra, iniciada em 1508 por Cola da
+Caprarola, é um dos pontos altos da arquitetura de plantas centralizadas
+no Renascimento.
+
+![Cola da Caprarola, Santa Maria della Consolazione, Todi, 1508--1613](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Luoghi_del_cuore.JPG/1024px-Luoghi_del_cuore.JPG){#fig:consolazione-ext}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
@@ -1012,23 +1098,36 @@ centralizada estabelece o foco do espaço, indiscutivelmente, no centro,
 que é o cruzamento de todos os eixos de simetria ortogonais da
 composição --- tanto horizontais quanto verticais. Ao mesmo tempo, a
 existência de um acesso único ao interior sugere uma direcionalidade
-implícita no espaço. Essa axialidade longitudinal é reforçada pela
-colocação do altar, não no centro, mas na abside oposta à da entrada.
+implícita no espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Interior de Santa Maria della Consolazione, Todi, em desenho de 1895](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg/560px-Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg){#fig:consolazione-1895 .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Consolazione_interno.jpg/1280px-Consolazione_interno.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa axialidade longitudinal é reforçada pela colocação do altar, não no
+centro, mas na abside oposta à da entrada ([@Fig:consolazione-altare]).
 Não importa tanto se essa disposição foi decidida por motivos
 operacionais da liturgia, pela conveniência da circulação na "nave", ou
 ainda para resgatar algo da linearidade das basílicas convencionais.
+
+![Interior de Santa Maria della Consolazione, Todi. @pazzaglia:2013tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Consolazione_interno.jpg/1024px-Consolazione_interno.jpg){#fig:consolazione-altare}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1280px-Vista_della_cupola.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais ainda, com aponta Robin Evans, a questão da centralidade no espaço
-da igreja é ambígua [@evans:2007projective]. O centro da planta está,
+da igreja é ambígua [@evans:1995projective]. O centro da planta está,
 sem dúvida, no meio do piso ocupado pela congregação. Porém, assim como
 no Panteão de Roma, há um outro "centro" no espaço, que é o centro da
-esfera, vários metros acima do centro da planta. De outro ponto de
-vista, todo o eixo vertical que vai do centro da planta até o lanternim
-da cúpula pode ser entendido como um centro dinâmico.
+esfera, vários metros acima do centro da planta
+([@Fig:consolazione-cupola]). De outro ponto de vista, todo o eixo
+vertical que vai do centro da planta até o lanternim da cúpula pode ser
+entendido como um centro dinâmico.
+
+![Santa Maria della Consolazione, intradorso da cúpula. @aldrighetti:2014tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG){#fig:consolazione-cupola}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
