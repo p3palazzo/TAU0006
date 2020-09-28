@@ -55,10 +55,10 @@ descrita como "solidez, funcionalidade e beleza" ([@Fig:triade-intro]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro width=100%}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro .stretch}
 :::
 ::: {.column width=50%}
-![Tríade vitruviana: Solidez, funcionalidade, beleza](https://www.integra.unb.br/s/tau0006-041-triade-vitruviana/preview){#fig:triade-intro width=100%}
+![Tríade vitruviana: Solidez, funcionalidade, beleza](https://www.integra.unb.br/s/tau0006-041-triade-vitruviana/preview){#fig:triade-intro .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -70,9 +70,9 @@ pensamento humanista. A imagem deriva de uma afirmação no tratado *Da
 arquitetura* de Vitrúvio. Ele diz que o ser humano é a mais perfeita das
 criaturas por ser a única que pode ser inscrita tanto num quadrado
 quanto num círculo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Leonardo da Vinci, homem vitruviano, c. 1492](https://www.integra.unb.br/s/tau0006-041-vitruvianman-thumb/preview){#fig:leonardo-vitruvian .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -240,7 +240,7 @@ medieval [@vaneck:1998structure57].
 
 ![Leon Battista Alberti, *Da arte edificatória*, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011](https://www.integra.unb.br/s/tau0006-041-alberti-gulbenkian/preview){#fig:alberti-gulbenkian .stretch}
 
-* * * *
+## Conclusão
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A introdução na Europa, em meados do século XV, da imprensa de tipos
@@ -249,20 +249,6 @@ intensidade e o alcance desses debates. Veneza, com as suas centenas de
 casas de edição, se torna no final do século XV um dos principais
 centros de difusão do pensamento arquitetônico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Architectura picta ##
-
-- Já resolvemos o problema tecnológico da arquitetura renascentista na
-  cúpula de S. Maria del Fiore. Vamos dar sequência introduzindo
-  restrições na configuração espacial.
-
-- Perspectiva é modo privilegiado de representar o espaço das formas
-  geométricas elementares.
-- Projeções ortográficas são modo privilegiado de representar
-  articulações complexas entre elementos e espaços.
-
-- Projeções ortográficas e patrimônio histórico:
-  as Cartas de Rafael e Castiglione
 
 # Invenção do classicismo #
 
@@ -602,10 +588,12 @@ horizontais ou abobadadas ([@Fig:krier-27b]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Francis D.K. Ching, classificação dos pontos de apoio [-@ching:2007architecture, 14]](https://www.integra.unb.br/s/tau0006-043-ching-support/preview){#fig:ching-support width=100%}
+![Francis D.K. Ching, classificação dos pontos de apoio [-@ching:2007architecture, 14]](https://www.integra.unb.br/s/tau0006-043-ching-support/preview){#fig:ching-support height=80%}
+
 :::
 ::: {.column width=50%}
-![Rob Krier, classificação dos pontos de apoio [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27a/preview){#fig:krier-27a width=100%}
+![Rob Krier, classificação dos pontos de apoio [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27a/preview){#fig:krier-27a height=80vh}
+
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -628,7 +616,7 @@ nos Estados Unidos na primeira metade do século XX.
 
 ![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://www.integra.unb.br/s/tau0006-043-liang-order/preview){#fig:liang-order .stretch}
 
-## 
+## {data-background-image="https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas, antes de as ordens clássicas conquistarem o mundo, elas precisam
@@ -637,9 +625,9 @@ especialmente na Toscana, a região onde fica Florença, a tradição
 arquitetônica romana persiste ao longo de toda a Idade Média. No século
 XII, uma sequência de construções monumentais demonstra o domínio de
 algumas composições básicas da Antiguidade tardia.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século XII](https://www.integra.unb.br/s/tau0006-043-badia-fiesolana/preview){#fig:badia-fiesolana .stretch}
+![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século XII](https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg){#fig:badia-fiesolana .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview" data-transition="fade-out"}
 
@@ -798,7 +786,7 @@ teoria da arquitetura no Renascimento.
                                       └─ Isolada ──┤
                                                    └─ Pilastra (Ø)
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1280px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No meio do caminho entre as colunas clássicas e os elementos
@@ -807,19 +795,25 @@ coluna "achatada" na superfície de uma parede. A pilastra é
 uma invenção romana, mas é relativamente rara na Antiguidade. Na
 arquitetura do império Romano, ela serve como fundo para uma coluna
 ligeiramente destacada da parede, ou ainda como arremate de uma *anta*
---- um trecho de parede que termina isolado.
+--- um trecho de parede que termina isolado ---, como no templo romano
+de Baal-Shamin, em Palmira ([@Fig:baalshamin]).
+
+![Templo de Baal-Shamin, Palmira, última reconstrução 131 d.C., destruído 2015. @mappo:2010tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1024px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg){#fig:baalshamin}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-image="https://www.integra.unb.br/s/tau0006-043-sandrea-fac/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O século XV resgata a pilastra e faz dela um dos elementos mais usados
 em composições de paredes ou arcadas. Praticamente desde os primeiros
 projetos clássicos de Brunelleschi, Rossellino e Alberti, as ordens de
 pilastras são o expediente dominante para articular as superfícies
-interiores das paredes assim como as fachadas. Essa preferência pela
-superfície quase plana faz parte da busca dos arquitetos do século XV
-pela articulação clara de volumes espaciais com geometrias primárias.
+interiores das paredes assim como as fachadas ([@Fig:sandrea-facade]).
+Essa preferência pela superfície quase plana faz parte da busca dos
+arquitetos do século XV pela articulação clara de volumes espaciais com
+geometrias primárias.
+
+![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Arquitetura clássica II › Espaço #
@@ -868,14 +862,22 @@ Nesses projetos, aparecem dois temas centrais para a adequação das
 ordens aos requisitos espaciais modernos. O primeiro tema é o da
 articulação vertical da composição clássica; ele envolve a sobreposição
 de diferentes ordens e a relação entre ordens na fachada e pisos no
-interior do edifício. O segundo tema é o da articulação horizontal da
-composição entre ordens clássicas, aberturas e superfície da parede.
+interior do edifício.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi}
+O problema da relação entre as ordens na fachada e os pisos no interior
+da edificação é o reverso do problema da relação da fachada com o espaço
+público. Nós vamos revisitar essa questão algumas vezes ao longo do
+Renascimento, como na origem das chamadas "ordens colossais" a partir do
+palácio Tarugi, de Antonio da Sangallo ([@Fig:tarugi]).
+
+O segundo tema é o da articulação horizontal da
+composição entre ordens clássicas, aberturas e superfície da parede.
+
+![Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Espacialidade da planta
@@ -1074,9 +1076,23 @@ cilindros e esferas. Nos raros casos de construções com implantação
 isolada, o traçado do perímetro externo abraça sempre que possível os
 volumes internos. Esse é o caso da igreja da Madonna delle Carceri, em
 Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo
-([@Fig:carceri-ext]).
+([@Fig:carceri-ext; @Fig:carceri-int]).
 
 ![Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485](https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview){#fig:carceri-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:carceri-int .columns}
+::: {.column width=50%}
+![planta](https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview){#fig:carceri-intA .stretch}
+:::
+::: {.column width=50%}
+![corte](https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview){#fig:carceri-intB width=100%}
+:::
+
+Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485.
+@rocchi:1884chiesa
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Luoghi_del_cuore.JPG/1280px-Luoghi_del_cuore.JPG"}
