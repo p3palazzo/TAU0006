@@ -4,23 +4,62 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
 layout  : default
+abstract: |
+  **Arquitetura universal --** Três momentos na reconstrução do         
+  classicismo -- Terceiro: manipulando os elementos de arquitetura como 
+  articuladores do espaço: Bramante e Rafael -- Classicismo como        
+  ordenamento global do espaço: Miguel Ângelo -- Da ordem geométrica às 
+  "ordens clássicas": Serlio e Vinhola -- Projetos para a basílica de   
+  São Pedro.                                                            
 ---
 
-Realização do classicismo
-=========================
+# Arquitetura clássica III › Articulações espaciais #
 
-## Segundo momento: Espaços de geometria elementar ##
-
-- Trocas com o império Otomano via Veneza. Viagem de Sangallo a Atenas.
+## Tramos alternados ##
 
 - Cesariano, Laurana (palácio ducal de Urbino), Francesco di Giorgio
   (Chancelaria), Bramante, A - B - A
+- Casa de Rafael por Bramante
 
-## Sangallo e Bramante ##
+## Espaço + espaço ##
+
+- Diferentes modos de ligar sequências de espaços
+- Poché
+
+## Solução de cantos ##
 
 - Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
   articulação espacial.
 - Bramante: claustro della Pace.
+- Antonio da Sangallo: palácio Farnese
+
+## Espaço arquitetônico como espaço convexo ##
+
+Todo espaço arquitetônico do Renascimento é um espaço convexo, ou seja,
+o que se entende normalmente como espaço interior --- por isso Tempietto
+é um paradigma de perfeição que não tem futuro.
+
+- Tempietto: resolvendo problemas de relação exterior/interior
+- Claustros e jardins
+
+# Classicismo como ordenamento global do espaço #
+
+Arquitetura clássica reivindica capacidade de ordenar o espaço como um
+todo, em qualquer escala, segundo regras amplamente partilhadas. Por
+isso possui autoridade e fundamenta qualquer estudo consistente sobre
+composição arquitetônica e urbanística, mesmo que empregando outros
+estilos decorativos.
+
+## Taxis e parataxis ##
+
+- Arquitetura e cidade
+- Serlio e a cena clássica
+- Via Giulia
+
+## Arquitetura clássica e cidade existente ##
+
+- Outros problemas de construção no existente: S. Petronio
+- Manipulações plásticas do primeiro Miguel Ângelo em Florença
 
 ## Perspectiva e projeção ortográfica ##
 
@@ -38,49 +77,7 @@ Dois modos fundamentalmente distintos de conceber o espaço:
   (prefiguração) do espaço. Permite manipular formas complexas e
   resolver o problema do canto com ordens clássicas.
 
-
-Terceiro momento: Articulações de elementos e espaços
------------------------------------------------------
-
-Bramante e Rafael
------------------
-
-- Casa de Rafael por Bramante
-- Bramante: sobreposição das ordens. Claustro de S.M. della Pace
-- Tempietto: resolvendo problemas de relação exterior/interior
-- Rafael e os Sangallo
-- Os Sangallo: consolidação da espacialidade clássica
-
-Antonio da Sangallo
--------------------
-
-- Santa Maria della Consolazione
-- Palazzo Farnese
-
-Classicismo como ordenamento global do espaço
-=============================================
-
-Arquitetura clássica reivindica capacidade de ordenar o espaço como um
-todo, em qualquer escala, segundo regras amplamente partilhadas. Por
-isso possui autoridade e fundamenta qualquer estudo consistente sobre
-composição arquitetônica e urbanística, mesmo que empregando outros
-estilos decorativos.
-
-- Taxis e parataxis
-
-- Cesariano: traçados reguladores
-
-- Serlio e a cena clássica
-
-- Outros problemas de construção no existente: S. Petronio
-
-- Manipulações plásticas do primeiro Miguel Ângelo em Florença
-
-Da ordem geométrica às "ordens clássicas"
-=========================================
-
-Serlio e Vinhola
-----------------
+## Serlio e Vinhola ##
 
 - Serlio é o primeiro a chamar as espécies de colunas de "ordens" e a
   apresentá-las em série comparativa. Explicita adaptabilidade do
@@ -92,15 +89,12 @@ Serlio e Vinhola
   Representação agnóstica quanto à concepção construtiva: plástica do
   espaço e da sua envoltória é a consideração principal.
 
-Cânone e variações
-------------------
-
-Vicissitudes da basílica de São Pedro
-=====================================
+# Vicissitudes da basílica de São Pedro #
 
 - Resumo de todo o processo renascentista
-  - Por que reconstruir e não restaurar?
-  - Basílica longitudinal ou planta centralizada
-  - Escola de Atenas: Rafael, Bramante e a basílica
-  - Sangallo e Peruzzi
+- Por que reconstruir e não restaurar?
+- Basílica longitudinal ou planta centralizada
+- Escola de Atenas: Rafael, Bramante e a basílica
+- Sangallo e Peruzzi
+- Uso do poché
 
