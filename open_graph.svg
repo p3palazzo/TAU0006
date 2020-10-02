@@ -13,9 +13,9 @@
    viewBox="0 0 338.66666 169.33334"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="open_graph.svg"
-   inkscape:export-filename="/Users/palazzo/Documents/ensino/tau0006/_downloads/miniaturas/2.4-brunelleschi.png"
+   inkscape:export-filename="/Users/palazzo/Documents/ensino/tau0006/_downloads/miniaturas/5.1-linguagem.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54180701"
-     inkscape:cx="625.48278"
-     inkscape:cy="494.29536"
+     inkscape:zoom="0.52156974"
+     inkscape:cx="617.81362"
+     inkscape:cy="582.49066"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -189,13 +189,13 @@
     <image
        sodipodi:absref="/Users/palazzo/Documents/ensino/tau0006/_downloads/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
        xlink:href="_downloads/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg"
-       y="0"
-       x="-1.4210855e-14"
-       width="338.66666"
-       height="256.76016"
-       preserveAspectRatio="none"
+       id="image188"
        style="stroke-width:0.32975;image-rendering:optimizeQuality"
-       id="image188" />
+       preserveAspectRatio="none"
+       height="256.76016"
+       width="338.66666"
+       x="-1.4210855e-14"
+       y="0" />
   </g>
   <g
      style="display:none"
@@ -314,11 +314,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.92780000000000129px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1572-2);mix-blend-mode:normal;fill:#efe6d6;fill-opacity:1;stroke:none;stroke-width:13.2292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.145098;paint-order:stroke fill markers;filter:url(#filter1113);"
        id="text1570-2"
        xml:space="preserve"><tspan
-         x="77.496135"
+         x="53.060055"
          y="46.47784"><tspan
-           style="shape-inside:url(#rect1572-2);filter:url(#filter1113)">CÚPULA DE </tspan></tspan><tspan
-         x="46.675599"
+           style="shape-inside:url(#rect1572-2);filter:url(#filter1113)">ARQUITETURA </tspan></tspan><tspan
+         x="69.162443"
          y="82.637588"><tspan
-           style="shape-inside:url(#rect1572-2);filter:url(#filter1113)">BRUNELLESCHI</tspan></tspan></text>
+           style="shape-inside:url(#rect1572-2);filter:url(#filter1113)">CLÁSSICA III</tspan></tspan></text>
   </g>
 </svg>
