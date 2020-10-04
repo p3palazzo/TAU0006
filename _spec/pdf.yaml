@@ -3,21 +3,24 @@ to               : latex
 standalone       : true
 file-scope       : true
 number-sections  : true
-cite-method      : biblatex
+fail-if-warnings : true
 template         : "_lib/default.latex"
 pdf-engine       : xelatex
-fail-if-warnings : true
+cite-method      : biblatex
 filters:
   - pandoc-crossref
 include-in-header:
-  - header.tex
+  - _lib/header.tex
+include-before-body:
+  - _lib/before.tex
 metadata:
-  date           : "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
-  lang           : pt-BR
+  author         : "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
+  lang           : pt
   documentclass  : article
   papersize      : a4
   indent         : true
   secnumdepth    : 2
+  pagestyle      : fancy
   mainfont       : "UnB Pro"
   sansfont       : "UnB Pro-Light"
   mainfontoptions:

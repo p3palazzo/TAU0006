@@ -10,6 +10,7 @@ vpath %.yaml .:_spec
 vpath default.% _lib
 
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/crossref:2.10
+PANDOC/LATEX := docker run -v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" --user "`id -u`:`id -g`" pandoc/latex:2.10
 
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
@@ -22,6 +23,9 @@ deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 # {{{1 Produtos PDF
 #      ============
 
+tau0006-cronograma.pdf : pdf.yaml cronograma.md
+	$(PANDOC/LATEX) -o $@ -d $^
+
 %.pdf : %.tex
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
@@ -29,9 +33,6 @@ deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
 tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
-	$(PANDOC/CROSSREF) -o $@ -d $^
-
-tau0006-cronograma.tex : pdf.yaml cronograma.md cronograma-pdf.md
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
 %.tex : pdf.yaml %.md | default.latex
