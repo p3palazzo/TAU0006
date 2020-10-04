@@ -773,11 +773,11 @@ teoria da arquitetura no Renascimento.
                                                    ┌─ Coluna (S. Maria Novella)
                                       ┌─ Acoplada ─┤
                                       │            └─ Pilastra (interior da capela Pazzi)
-                     ┌─ Arqueada ─────┤             
+                     ┌─ Arqueada ─────┤
                      │  Abobadada     │            ┌─ Aresta (Ospedale)
                      │                └─ Isolada ──┤
                      │                             └─ Calota (S. Lorenzo)
-    Coluna clássica ─┤          
+    Coluna clássica ─┤
                      │                             ┌─ Coluna (tempio Malatestiano)
                      │                ┌─ Acoplada ─┤
                      │                │            └─ Pilastra (S. Andrea)
