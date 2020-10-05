@@ -13,21 +13,80 @@ abstract: |
   São Pedro.                                                            
 ---
 
-# Arquitetura clássica III › Articulações espaciais #
+# Arquitetura clássica III › Superfícies e espaços #
 
-1. Superfícies articuladas: tramos alternados
+1. Dissolução da parede: tramos alternados
 2. Volumes articulados
-3. Solução de cantos
+3. Solução de quinas
+   a) Côncavas
+   b) Convexas
 
 ## Tramos alternados ##
 
-- Cesariano, Laurana (palácio ducal de Urbino), Francesco di Giorgio
-  (Chancelaria), Bramante, A - B - A
-- Alberti, Sant'Andrea
-- Bramante: S. Maria presso S. Satiro → parte de Alberti, desenvolve
-  articulação espacial.
-- Casa de Rafael por Bramante
-- Claustro della Pace
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Progressiva dissolução da parede contínua.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Extensas superfícies murárias da arquitetura italiana tornam a cadência
+regular das colunatas de pilastras uma solução pouco interessante
+visualmente e muito diferente dos pórticos romanos que ela pretende
+imitar.
+
+![Luciano Laurana, palácio ducal de Urbino, pátio](){#fig:urbino}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Alberti dá a deixa ao articular os pilares da nave da igreja de
+Sant'Andrea, em Mântua, com pilastras. Essa composição, assim como a
+fachada, é baseada nos arcos de triunfo da Roma antiga. A composição
+albertiana introduz um ritmo A--B--A que dá variedade à superfície
+lateral da nave.
+
+![Leon Battista Alberti, igreja de Sant'Andrea, Mântua, 1470--1790](){#fig:sandrea-lesene}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Francesco di Giorgio traduz a composição do arco triunfal para fachadas
+com janelas. A superfície contínua da parede começa a perder
+protagonismo para o ritmo das pilastras emparelhadas e das janelas.
+
+![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513](){#fig:cancelleria}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500](){#fig:giraud}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No palácio Caprini, Bramante opta por colunas acopladas à parede em vez
+de pilastras. Essa solução projeta sombras mais demarcadas sobre a
+parede, contribuindo para a desmaterializar.
+
+![Donato Bramante, palácio Caprini dito "casa de Rafael", Vaticano, 1501--1510](){#fig:caprini}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Donato Bramante, escrínio da Santa Casa, Loreto, 1509](){#fig:loreto}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504](){#fig:claustro-pace-travee}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Superfícies com volumetria ##
 
@@ -40,7 +99,50 @@ abstract: |
 ## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504](){#fig:claustro-pace-travee}
+![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504](){#fig:claustro-pace-lesene}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Observar a transição espacial.
+
+![Rafael Sanzio, Escola de Atenas, afresco na stanza della Segnatura, palácio do Vaticano, 1509](){#fig:atenas}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Transições espaciais
+
+![Rafael Sanzio, villa Madama, Roma, iniciada em 1516](){#fig:madama-vestibolo}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Busca pela unificação das composições nas fachadas romanas. Ao contrário
+da sobreposição de níveis do Renascimento toscano, simples distinção
+entre pedestal (térreo e sobreloja) e elemento dominante (andar nobre e
+acréscimos).
+
+![Giulio Romano, palácio Maccarani, Roma, 1519--1520](){#fig:maccarani}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Orde  colossal como solução última de unificação da fachada.
+
+![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](){#fig:tarugi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas isto é uma história para depois...
+
+![Antonio da Sangallo, o jovem, La Zecca, Roma, c. 1530](){#fig:zecca}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Quinas côncavas ##
@@ -126,42 +228,57 @@ Quinas côncavas se tornam convexas com concavidade.
 ![Antonio da Sangallo, o velho, Madonna di San Biagio, Montepulciano, 1518](){#fig:sbiagio-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Classicismo como ordenamento global do espaço #
+## Arquitetura sem quinas ##
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Proof of concept. Não pode vingar.
+
+![Donato Bramante, "Tempietto" (santuário de San Pietro in Montorio), 1502--1504](){#fig:tempietto-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Tratamento escultórico do espaço #
 
 1. Espaço convexo
-2. Taxis e parataxis
-3. Poché
+2. 
+3. *Poché*
 
-Arquitetura clássica reivindica capacidade de ordenar o espaço como um
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura clássica reivindica capacidade de ordenar o espaço como um
 todo, em qualquer escala, segundo regras amplamente partilhadas. Por
 isso possui autoridade e fundamenta qualquer estudo consistente sobre
 composição arquitetônica e urbanística, mesmo que empregando outros
 estilos decorativos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Espaço arquitetônico como espaço convexo ##
+## Espaço convexo ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todo espaço arquitetônico do Renascimento é um espaço convexo, ou seja,
 o que se entende normalmente como espaço interior --- por isso Tempietto
 é um paradigma de perfeição que não tem futuro.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - Tempietto: resolvendo problemas de relação exterior/interior
 - Claustros e ~~jardins~~
 
-## Taxis e parataxis ##
-
-- Arquitetura e cidade
-- Serlio e a cena clássica
-- Via Giulia
-- Outros problemas de construção no existente: S. Petronio
-
-## Espaço + espaço ##
+## Espaço interior e fachada ##
 
 - Diferentes modos de ligar sequências de espaços
-- Poché
+- Limites da articulação literal entre interiores e fachadas. Portego
+  veneziano vs. salões romanos.
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--1511](){#fig:massimo-fac}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Poché ##
 
 - Tem a ver com a solução de cantos
+- Demarca espessura da parede e permite inserção de espaços de serviço
 - Manipulações plásticas do primeiro Miguel Ângelo em Florença
 - Escadarias
 
@@ -208,4 +325,52 @@ Dois modos fundamentalmente distintos de conceber o espaço:
 - Escola de Atenas: Rafael, Bramante e a basílica
 - Sangallo e Peruzzi
 - Uso do poché
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1280px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Rodolfo Lanciani, planta histórica do Vaticano, em *Forma urbis Romae*, pr. XIII, 1893-1901](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1024px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg){#fig:lanciani}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Jean-Claude Golvin, reconstituição do circo de Calígula ao pé do monte
+do Vaticano, 37--50 d.C.](){#fig:jcg-caligula}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg/1280px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Basílica de São Pedro, construção original do século IV, estado
+provável no século XV, desenho por Hartmann Grisar, 1911](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg/640px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg){#fig:oldspietro-persp}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Tiberio Alfarano, planta da antiga basílica de São Pedro no século XV, 1590](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg/780px-Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg){#fig:alfarano-old}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Domenico Tasselli da Lugo, antiga basílica de São Pedro, afresco](https://upload.wikimedia.org/wikipedia/commons/3/3d/Affresco_dell%27aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg){#fig:lugo-oldspietro .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fig_245_Old_St_Peter%27s.jpg/1280px-Fig_245_Old_St_Peter%27s.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Albert Rosengarten, reconstituição da antiga basílica de São Pedro, 1889](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fig_245_Old_St_Peter%27s.jpg/635px-Fig_245_Old_St_Peter%27s.jpg){#fig:rosengarten-spietro}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Bernardo Rossellino, projeto para a nova basílica de São Pedro, c. 1450](){#fig:rossellino-spietro}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Sheet_with_Bramante%27s_first_plans.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Donato Bramante, desenho de projeto para a planta da basílica de São Pedro, 1505--1506](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sheet_with_Bramante%27s_first_plans.jpg/532px-Sheet_with_Bramante%27s_first_plans.jpg){#fig:bramante-1st}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
