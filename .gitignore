@@ -1,3 +1,6 @@
+#  MacOS
+.DS_Store
+
 #  Inkscape
 ## Linked files must have a copy stored locally
 _downloads
