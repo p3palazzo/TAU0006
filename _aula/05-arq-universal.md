@@ -13,13 +13,32 @@ abstract: |
   São Pedro.                                                            
 ---
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O início do século XVI na Itália é um período de consolidação e de
+aquisição de desenvoltura no manejo dos elementos arquitetônicos e
+espaciais clássicos. Essa consolidação resulta na livre manipulação
+plástica de superfícies construídas e de espaços e na exploração de
+combinações cada vez mais elaboradas das ordens da arquitetura com
+molduras, esculturas e pinturas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Arquitetura clássica III › Superfícies e espaços #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura clássica se firma na Itália do século XVI como a única
+linguagem erudita em uso corrente. A partir do momento em que o seu
+sistema de regras está codificado nos tratados impressos, os arquitetos
+se dedicam a explorar modos variados de articular espaços e elementos da
+arquitetura. Os caminhos mais explorados nesse processo são a busca por
+"desmanchar" as paredes, visualmente mas *não* fisicamente, e a
+resolução de quinas reentrantes e salientes usando as ordens clássicas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 1. Dissolução da parede: tramos alternados
 2. Volumes articulados
 3. Solução de quinas
-   a) Côncavas
-   b) Convexas
+   a) Reentrantes
+   b) Salientes
 
 ## Tramos alternados ##
 
@@ -145,7 +164,7 @@ Mas isto é uma história para depois...
 ![Antonio da Sangallo, o jovem, La Zecca, Roma, c. 1530](){#fig:zecca}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Quinas côncavas ##
+## Quinas reentrantes ##
 
 * * * *
 
@@ -188,7 +207,7 @@ Mas isto é uma história para depois...
 ![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504](){#fig:claustro-pace-corner}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Quinas convexas ##
+## Quinas salientes ##
 
 ## {data-background-image=""}
 
@@ -211,7 +230,7 @@ Mas isto é uma história para depois...
 ## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Quinas côncavas se tornam convexas com concavidade.
+Quinas reentrantes se tornam salientes com concavidade.
 
 ![Rafael Sanzio, capela Chigi, igreja de Santa Maria del Popolo, Roma, 1513](){#fig:cap-chigi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -233,29 +252,75 @@ Quinas côncavas se tornam convexas com concavidade.
 ## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Proof of concept. Não pode vingar.
+Solução última para o problema das quinas é não ter quinas.
 
-![Donato Bramante, "Tempietto" (santuário de San Pietro in Montorio), 1502--1504](){#fig:tempietto-ext}
+![Donato Bramante, "Tempietto" (santuário de San Pietro in Montorio),
+1502--1504](){#fig:tempietto-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A realização da arquitetura "perfeita" no Tempietto de Bramante é o
+último estágio de um processo que começou na segunda metade do século XV
+com as tábuas de Urbino, Berlim e Baltimore. O Tempietto é a versão
+construída daquilo que as perspectivas de cidades ideais imaginaram.
+O tipo do pavilhão ideal vai ser constantemente revisitado na história
+da arquitetura, sobretudo em parques e jardins. No entanto, essa
+perfeição ideal é um caminho que não pode ser conciliado com o objetivo
+maior da arquitetura clássica: o ordenamento global do espaço construído
+na cidade real. Por isso, a arquitetura italiana do século XVI vai
+explorar, sobretudo, a articulação de sequências de composições no
+espaço. Ela vai, por fim, se encaminhar para um sistema de composição
+que garanta a harmonia e continuidade do conjunto urbano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tratamento escultórico do espaço #
 
-1. Espaço convexo
-2. 
-3. *Poché*
+1. Espaço bem definido
+2. Continuidade do espaço em diferentes composições
+3. Hierarquia e *Poché*
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura clássica reivindica capacidade de ordenar o espaço como um
 todo, em qualquer escala, segundo regras amplamente partilhadas. Por
 isso possui autoridade e fundamenta qualquer estudo consistente sobre
 composição arquitetônica e urbanística, mesmo que empregando outros
-estilos decorativos.
+estilos decorativos. A Arquitetura, enquanto disciplina intelectual e
+enquanto formação profissional, tem dois propósitos centrais: (a)
+produzir um ambiente construído resiliente, útil e agradável; (b)
+unificar a comunidade profissional dos arquitetos em torno de um
+conjunto de princípios teóricos e de ferramentas técnicas partilhadas.
+Esses propósitos se articulam em torno da "descoberta" de três "leis"
+fundamentais do projeto arquitetônico: (1) o espaço bem definido; (2) a
+continuidade entre espaços; e (3) a hierarquia entre espaços.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Espaço convexo ##
+### Gabriel's Ten Timeless Canons ###
+
+#### Espaço bem definido ####
+
+1. Bilateral symmetry
+2. Anthropomorphism
+3. Clear and simple geometry
+4. Defined space
+
+#### Continuidade entre espaços ####
+
+5. Juxtaposition of discrete forms
+7. Limited inventory of parts
+10. Regularity
+
+#### Hierarquia entre espaços ####
+
+6. Emphasis on center, corner, and sides
+8. Inherent formal hierarchies
+9. Tripartite organization
+
+## Espaço bem definido ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Todo espaço arquitetônico do Renascimento é um espaço convexo, ou seja,
+Todo espaço arquitetônico é um espaço convexo, ou seja,
 o que se entende normalmente como espaço interior --- por isso Tempietto
 é um paradigma de perfeição que não tem futuro.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -282,6 +347,36 @@ o que se entende normalmente como espaço interior --- por isso Tempietto
 - Manipulações plásticas do primeiro Miguel Ângelo em Florença
 - Escadarias
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As três leis fundamentais do projeto arquitetônico se expressam que
+modos diversos em diferentes culturas. No Renascimento europeu, elas
+levam a um ordenamento global do espaço, por meio, por um lado, de
+traçados reguladores abstratos, e por outro lado, de analogias visuais
+concretas. O principal instrumento artístico usado para realizar essas
+analogias visuais é o sistema das ordens clássicas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Teoria das ordens #
+
+1. Ordens por divisões tripartites sucessivas (Vitrúvio e Alberti).
+   Demonstrar com base e entablamento.
+2. Ordens com proporções numéricas (Vinhola e Palladio)
+3. Teoria das molduras
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na tradição arquitetônica europeia, as ordens clássicas são o
+instrumento por excelência para realizar articulações de superfícies e
+espaços. A aparência geral das ordens clássicas se manteve relativamente
+estável ao longo dos seus quase três mil anos de uso. Apesar disso,
+tanto os detalhes e proporções das ordens quanto os procedimentos de
+projeto e construção dessas mesmas ordens se transformaram ao longo do
+tempo. A configuração atual das cinco ordens clássicas e os
+procedimentos de desenho arquitetônico dominantes hoje em dia --- seja
+no classicismo, seja no modernismo --- são resultado de um processo de
+codificação da arquitetura clássica que ocorre, sobretudo, nos séculos
+XVI e XVII.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Perspectiva e projeção ortográfica ##
 
 Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
@@ -298,13 +393,6 @@ Dois modos fundamentalmente distintos de conceber o espaço:
   (prefiguração) do espaço. Permite manipular formas complexas e
   resolver o problema do canto com ordens clássicas.
 
-# Teoria das ordens #
-
-1. Ordens por divisões tripartites sucessivas (Vitrúvio e Alberti).
-   Demonstrar com base e entablamento.
-2. Ordens com proporções numéricas (Vinhola e Palladio)
-3. Teoria das molduras
-
 ## Serlio e Vinhola ##
 
 - Serlio é o primeiro a chamar as espécies de colunas de "ordens" e a
@@ -317,6 +405,18 @@ Dois modos fundamentalmente distintos de conceber o espaço:
   Representação agnóstica quanto à concepção construtiva: plástica do
   espaço e da sua envoltória é a consideração principal.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os tratados de Serlio e Vinhola são um divisor de águas na teoria da
+arquitetura renascentista. Ambos passam a tratar o classicismo não mais
+como um problema cosmológico ou filosófico, mas como um conjunto de
+procedimentos e instrumentos capazes de resolver diretamente os
+problemas construtivos, funcionais e estéticos da sociedade. Graças ao
+fato de eles serem agnósticos, por assim dizer, quanto à justificação
+teológica da arquitetura, eles asseguram para o classicismo a
+possibilidade de se adaptar a uma variedade quase infinita de sistemas
+construtivos, de programas funcionais e de contextos culturais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Vicissitudes da basílica de São Pedro #
 
 - Resumo de todo o processo renascentista
@@ -325,6 +425,14 @@ Dois modos fundamentalmente distintos de conceber o espaço:
 - Escola de Atenas: Rafael, Bramante e a basílica
 - Sangallo e Peruzzi
 - Uso do poché
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A reconstrução da basílica de São Pedro é, talvez, o maior canteiro de
+obras do Renascimento, tanto em área construída quanto em tempo de
+construção. Mais ainda, ela representa uma síntese de todos os temas e
+problemas desenvolvidos ao longo do processo de formulação, consolidação
+e aplicação do sistema da arquitetura clássica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1280px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg"}
 
@@ -374,3 +482,14 @@ provável no século XV, desenho por Hartmann Grisar, 1911](https://upload.wikim
 ![Donato Bramante, desenho de projeto para a planta da basílica de São Pedro, 1505--1506](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sheet_with_Bramante%27s_first_plans.jpg/532px-Sheet_with_Bramante%27s_first_plans.jpg){#fig:bramante-1st}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As vicissitudes da obra da basílica de São Pedro mostram como a
+formulação teórica e a implementação prática da arquitetura são polos
+que dialogam constantemente, esclarecendo-se mutuamente mas também
+levantando problemas e dificuldades recíprocas. O inventário de soluções
+estruturais, espaciais e plásticas que se condensa na reconstrução da de
+São Pedro no Vaticano constitui a matéria-prima para as explorações
+formais, espaciais e estruturais da arquitetura europeia no século XVII.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
