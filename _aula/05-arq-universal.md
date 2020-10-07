@@ -128,7 +128,7 @@ parede, contribuindo para a desmaterializar.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1280px-Chiostro_SM_della_Pace.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504. @jastrow:2006cloister](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg){#fig:claustro-pace-lesene}
+![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504. @jastrow:2006cloister](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg){#fig:claustro-pace-volume}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"}
@@ -456,11 +456,11 @@ e aplicação do sistema da arquitetura clássica.
 ![Rodolfo Lanciani, planta histórica do Vaticano, em *Forma urbis Romae*, pr. XIII, 1893-1901](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1024px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg){#fig:lanciani}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-golvin/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Jean-Claude Golvin, reconstituição do circo de Calígula ao pé do monte
-do Vaticano, 37--50 d.C.](){#fig:jcg-caligula}
+do Vaticano, 37--50 d.C.](https://www.integra.unb.br/s/tau6-054-golvin/preview){#fig:jcg-caligula}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg/1280px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg"}
@@ -492,16 +492,126 @@ provável no século XV, desenho por Hartmann Grisar, 1911](https://upload.wikim
 ![Rafael Sanzio, Incêndio do borgo Vaticano, sala de jantar de Leão X, palácio do Vaticano, 1514](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fire_in_the_Borgo.jpg/791px-Fire_in_the_Borgo.jpg){#fig:incendio-borgo}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-bramante-1/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Bernardo Rossellino, projeto para a nova basílica de São Pedro, c. 1450](){#fig:rossellino-spietro}
+![Donato Bramante, talvez baseado em Bernardo Rossellino, projeto para a nova basílica de São Pedro, c. 1450](https://www.integra.unb.br/s/tau6-054-bramante-1/preview){#fig:rossellino-spietro}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Sheet_with_Bramante%27s_first_plans.jpg"}
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-bramante-disegno/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, desenho de projeto para a planta da basílica de São Pedro, 1505--1506](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sheet_with_Bramante%27s_first_plans.jpg/532px-Sheet_with_Bramante%27s_first_plans.jpg){#fig:bramante-1st}
+O projeto final de Bramante se destaca pela esbeltez dos elementos
+estruturais e pelo fato de que cada espaço singular na planta é um
+composição potencialmente autônoma.
+
+![Donato Bramante, desenho de projeto para a planta da basílica de São Pedro, 1505--1506](https://www.integra.unb.br/s/tau6-054-bramante-disegno/preview){#fig:bramante-1st}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-bramante-coupe/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A configuração do espaço interior no projeto de Bramante, tal como
+reconstituído por Paul Letarouilly por volta de 1850, bebe em fontes
+variadas. A rotunda central é uma versão (muito) ampliada da Sacristia
+velha de São Lourenço, por Brunelleschi, cuja cúpula de Santa Maria del
+Fiore também inspira o lanternim. A planta em cruz grega com absides nas
+extremidades pode ser uma referência à antiga igreja de Santa Sofia, em
+Constantinopla, ou ao seu derivativo mais próximo, a catedral de São
+Marcos em Veneza. A combinação de uma ordem colossal e uma ordem menor,
+nas naves, pode ser uma referência às basílicas civis da Roma antiga, em
+especial à descrição da basílica de Fano, por Vitrúvio, ou ainda às
+diferentes ordens nas naves da *antiga* basílica de São Pedro. Por fim,
+as janelas semicirculares --- conhecidas como "janelas termais" ---
+serão, assim como em Alberti, uma referência à basílica de Constantino.
+
+![Paul Letarouilly, reconstituição do corte do projeto de Bramante para a basílica de São Pedro, c. 1850](https://www.integra.unb.br/s/tau6-054-bramante-coupe/preview){#fig:bramante-coupe}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Indícios do projeto de Bramante.
+
+![Rafael Sanzio, Escola de Atenas, afresco na stanza della Segnatura, palácio do Vaticano, 1509](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/990px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg){#fig:atenas-bramante}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-sangallo/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Primeiro de muitos ensaios de retorno a uma planta longitudinal.
+
+![Giuliano da Sangallo, projetos para a basílica de São Pedro, c. 1505--1510](https://www.integra.unb.br/s/tau6-054-sangallo/preview){#fig:spietro-sangallo}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-peruzzi/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Idas e vindas entre a planta longitudinal e a centralizada
+
+![Baldassare Peruzzi, projeto para a basílica de São Pedro, c. 1511](https://www.integra.unb.br/s/tau6-054-peruzzi/preview){#fig:spietro-peruzzi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-asangallo/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Reforço nos pilares centrais
+
+![Antonio da Sangallo, o jovem, projeto centralizado para a basílica de São Pedro, c. 1539](https://www.integra.unb.br/s/tau6-054-asangallo/preview){#fig:sangallo-centrale}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-sangallo-longnotlong/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É possível ter uma planta centralizada e alongada ao mesmo tempo?
+Antonio da Sangallo acha que sim.
+
+![Antonio da Sangallo, o jovem, projeto em cruz latina para a basílica
+de São Pedro, 1539. Restituído por Paul Letarouilly, c.
+1850](https://www.integra.unb.br/s/tau6-054-sangallo-longnotlong/preview){#fig:sangallo-long}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-michelange-plan/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É sobre o arcabouço de Sangallo, com a obra já bastante adiantada, que
+Miguel Ângelo realiza as últimas alterações no projeto centralizado. Ele
+reduz a profundidade espacial na periferia, dando mais unidade às naves
+centrais e laterais.
+
+![Miguel Ângelo Buonarroti, projeto definitivo para a basílica de São
+Pedro,
+1546](https://www.integra.unb.br/s/tau6-054-michelange-plan/preview){#fig:michelange-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-michelange-coupe/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço interior é a síntese das principais explorações técnicas,
+espaciais e formais do Renascimento: planta centralizada, autonomia dos
+espaços considerados individualmente, rotunda e cúpula segundo
+Brunelleschi, naves centrais segundo Alberti, uso de tramos alternados e
+de ordens colossais, e o pórtico induzindo ambiguidade entre a
+organização centralizada da planta e a linearidade do percurso.
+
+![Miguel Ângelo Buonarroti, projeto definitivo para a basílica de São
+Pedro, 1546, reconstituído por Letarouilly, c.
+1850](https://www.integra.unb.br/s/tau6-054-michelange-coupe/preview){#fig:michelange-coupe}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-054-michelange-lat/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa síntese leva a um problema que não existia antes: na igreja ideal,
+concebida como um objeto arquitetônico autônomo e introvertido, sem
+contrafortes exteriores e livre de um contexto urbano preexistente ao
+qual ela precisa se adaptar, como resolver as elevações exteriores? Os
+exemplares de igrejas centralizadas do início do século XVI, todos de
+pequenas dimensões, não oferecem um precedente claro para a massa
+gigantesca da basílica de São Pedro.
+
+![Miguel Ângelo Buonarroti, projeto definitivo para a basílica de São
+Pedro, 1546](https://www.integra.unb.br/s/tau6-054-michelange-lat/preview){#fig:michelange-lat}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Conclusão ##
