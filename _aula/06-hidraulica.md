@@ -13,21 +13,11 @@ abstract: |
   canalização de águas urbanas: problemas bioclimáticos globais.
 ---
 
-# Jardins como microcosmo #
+# Jardins do Renascimento italiano #
 
-## Jardim italiano ##
+# Jardim chinês #
 
-## Dois tipos de jardins asiáticos ##
-
-
-- Jardim chinês (e Zen)
-- Jardim persa-indiano
-
-# Jardins monumentais #
-
-## França ##
-
-## Mogol ##
+# Jardins da Ásia central #
 
 # Infraestrutura hidráulica na América #
 
