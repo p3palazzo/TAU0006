@@ -6,42 +6,31 @@ lang    : pt-BR
 layout  : default
 ---
 
-Jardins como microcosmo
-=======================
+# Jardins como microcosmo #
 
-Jardim italiano
----------------
+## Jardim italiano ##
 
-Dois tipos de jardins asiáticos
--------------------------------
+## Dois tipos de jardins asiáticos ##
+
 
 - Jardim chinês (e Zen)
 - Jardim persa-indiano
 
-Jardins monumentais
-===================
+# Jardins monumentais #
 
-França
-------
+## França ##
 
-Mogol
------
+## Mogol ##
 
-Infraestrutura hidráulica na América
-====================================
+# Infraestrutura hidráulica na América #
 
-Chinampas astecas
------------------
+## Chinampas astecas ##
 
-Hidráulica incaica na montanha e na planície
---------------------------------------------
+## Hidráulica incaica na montanha e na planície ##
 
-Aterramento e canalização urbana na Europa
-==========================================
 
-Gradual estruturação das beira-rios
------------------------------------
+# Aterramento e canalização urbana na Europa #
 
-Parcelamento do solo nos vales urbanos
---------------------------------------
+## Gradual estruturação das beira-rios ##
 
+## Parcelamento do solo nos vales urbanos ##
