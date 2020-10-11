@@ -422,7 +422,7 @@ O Yuanmingyuan contém uma variedade de ambientes, dos mais formais
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além de ser um lugar de retiro espiritual e de divertimento, o jardim é
 parte da formação cultural, literária e artística da nobreza da China
-[@lin:yuanmingyuan]. Por isso, o Yuanmingyuan contém espaços para
+[@li:yuanmingyuan]. Por isso, o Yuanmingyuan contém espaços para
 atividades formais ([@fig:40yuanmingyuan40])...
 
 ![Quarenta vistas do Yuanmingyuan, Escola dos príncipes](https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1040_Dongtian.jpg){#fig:40yuanmingyuan40}
