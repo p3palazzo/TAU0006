@@ -4,6 +4,8 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
 layout  : default
+parallaxBackgroundImage: https://www.integra.unb.br/s/tau6-06-bg-slide
+parallaxBackgroundSize: '5120px 3840px'
 abstract: |
   **Hidráulica ornamental e funcional --** Jardim como microcosmo:
   a *villa* do maneirismo italiano e o pavilhão chinês -- Jardins
