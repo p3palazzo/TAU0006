@@ -348,7 +348,7 @@ pitorescas ([@fig:zhuozheng-mtnview]).
 ![Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. @kinghearts:2017mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg){#fig:zhuozheng-mtnview}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-#  {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas edículas têm um ou mais ambientes internos, mobiliados para
@@ -491,13 +491,84 @@ desempenham os papéis centrais.
 
 # Infraestrutura hidráulica na América #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A imagem contemporânea da América precolombiana é deformada por duas
+fantasias diametralmente opostas: de um lado, o conceito iluminista do
+"bom selvagem" que vive em harmonia com a natureza e é incapaz tanto de
+*destruir* essa natureza quanto de *construir* uma "civilização" nos
+moldes europeus ou asiáticos; do outro, a imagem do indígena
+tecnicamente ineficiente, que pratica queimadas, esgota o solo e caça
+animais até a extinção --- uma imagem que oferece uma racionalização
+evolucionista conveniente para a destruição ambiental provocada pelos
+próprios europeus. O registro arqueológico, histórico e cultural das
+Américas até a primeira metade do século XVI mostra um cenário mais
+matizado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os dois maiores estados americanos no início do século XVI --- a
+tríplice aliança dos astecas e Tawantinsuyu, o território comandado
+pelos incas --- são *impérios hidráulicos*. Esse termo designa uma
+estrutura administrativa que regula e distribui o acesso à irrigação
+para a agricultura intensiva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Chinampas astecas ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mesoam%C3%A9rica_y_Centroamerica_prehispanica_siglo_XVI.svg/1280px-Mesoam%C3%A9rica_y_Centroamerica_prehispanica_siglo_XVI.svg.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Mesoamérica e Centroamérica no século XVI. @miguel:2013mesoamerica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mesoam%C3%A9rica_y_Centroamerica_prehispanica_siglo_XVI.svg/1024px-Mesoam%C3%A9rica_y_Centroamerica_prehispanica_siglo_XVI.svg.png){#fig:mesoam-map}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Tenochtitlan no século XVI](http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg){#fig:tenochtitlan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Milpa ##
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-064-milpa-mexicana"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Milpa mexicana](https://www.integra.unb.br/s/tau6-064-milpa-mexicana){#fig:milpa-mexicana}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-064-cf10-136r"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Milpa de milho e legumes. Frei Bernardino de Sahagún e artistas mexicas, *Historia general de las cosas de nueva España*, 1577, livro 10, f. 136 r.º](https://www.integra.unb.br/s/tau6-064-cf10-136r){#fig:bernardino-10-136r}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-064-cf04-472r-a"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como a maior parte dos cultivares centro-americanos é de frutos e
+cereais colhidos, o plantio de novas lavouras é relativamente raro.
+
+![Milpa de milho e legumes. Frei Bernardino de Sahagún e artistas mexicas, *Historia general de las cosas de nueva España*, 1577, livro 4, f. 472 r.º](https://www.integra.unb.br/s/tau6-064-cf04-472r-a){#fig:bernardino-04-472r-a}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="http://2.bp.blogspot.com/-9cflxk0giC0/UjuF1Txu2QI/AAAAAAAABfU/dMd0MD575ec/s1600/Chinampas1.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Esquema de chinampas. @luiselli:2013chinampas](http://2.bp.blogspot.com/-9cflxk0giC0/UjuF1Txu2QI/AAAAAAAABfU/dMd0MD575ec/s1600/Chinampas1.jpg){#fig:chinampa-luiselli}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/LagoReyesTlahuac76.JPG/1280px-LagoReyesTlahuac76.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Margens de chinampa com contenção feita de estacas e salgueiros. @linaresgarcia:2013chard](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/LagoReyesTlahuac76.JPG/1024px-LagoReyesTlahuac76.JPG){#fig:chinampa-reyes}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinampa_con_cultivo_de_r%C3%A1bano_en_el_Lago_de_Xochimilco.jpg/1280px-Chinampa_con_cultivo_de_r%C3%A1bano_en_el_Lago_de_Xochimilco.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Cultivo em chinampa no lago Xochimilco. @arqueas:2014chinampa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinampa_con_cultivo_de_r%C3%A1bano_en_el_Lago_de_Xochimilco.jpg/1024px-Chinampa_con_cultivo_de_r%C3%A1bano_en_el_Lago_de_Xochimilco.jpg){#fig:chinampa-xochimilco}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Hidráulica incaica na montanha e na planície ##
 
-
-# Aterramento e canalização urbana na Europa #
-
-## Gradual estruturação das beira-rios ##
-
-## Parcelamento do solo nos vales urbanos ##
