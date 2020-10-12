@@ -9,10 +9,17 @@ pdf-engine       : xelatex
 cite-method      : biblatex
 filters:
   - pandoc-crossref
-include-in-header:
-  - _lib/header.tex
-include-before-body:
-  - _lib/before.tex
+variables:
+  header-includes:
+    - \fancyhf{}
+    - \lhead{\XeTeXglyph \XeTeXglyphindex "ass_completa_CONT" \relax}
+    - \lfoot{\small{FAU/THAU/PP/2020}}
+    - \rfoot{\small{\thepage}}
+    - \renewcommand{\headrulewidth}{0.5pt}
+    - \renewcommand{\footrulewidth}{0.5pt}
+    - \newcommand{\pcdoc}{Pandoc-crossref documentation}
+  include-before:
+    - \thispagestyle{empty}
 metadata:
   author         : "1.º/2020 · Turma C · 3.ª/5.ª 20h50–22h30"
   lang           : pt
