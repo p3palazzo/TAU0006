@@ -15,6 +15,258 @@ abstract: |
   canalização de águas urbanas: problemas bioclimáticos globais.
 ---
 
+# Jardins da Ásia central #
+
+## Paisagismo(s) do mundo islâmico ##
+
+O mundo islâmico é um conjunto cultural vastíssimo e extremamente
+diversificado culturalmente. Já tratamos de cidades islâmicas no oceano
+Índico, na Malásia e na costa Suaíle da África. No entanto, essas duas
+regiões têm clima muito úmido e, talvez por isso, não desenvolveram
+tradições significativas em jardins. As duas grandes culturas de
+paisagismo islâmico se desenvolvem na bacia do Mediterrâneo durante a
+Idade Média --- da península Arábica até a península Ibérica --- e, na
+Idade Moderna, da Pérsia até o noroeste da Índia.
+
+## Jardins do paraíso ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1280px-Persepolis_T_Chipiez.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em última análise, todos os jardins islâmicos --- e talvez até os
+jardins europeus modernos [@gharipour:2017gardens] --- descendem do
+*pairidaĕza* ou "jardim murado" da antiga Pérsia ([@fig:chipiez]). Dessa
+palavra persa é que vem o nosso conceito de "paraíso" como um lugar
+ajardinado.
+
+![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+É claro que esses jardins irão desenvolver características particulares
+nas diferentes regiões. Porém, a principal característica comum a todos
+é sua função. Diferentemente dos jardins franceses e ingleses que eram
+usados para diversas atividades e longas caminhadas, os jardins
+islâmicos eram construídos com a intenção de criar espaços de descanso e
+contemplação, isso porque a maior parte dos territórios sob influencia
+islâmica se encontram em regiões áridas ou extremamente quentes. Isso
+também explica por que nesses jardins a relação da água e das sombras
+com o projeto é maior do que o desenho em si.
+
+## Jardins na cultura islâmica ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1280px-Alhambra_granada_spain.jpeg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Alcorão, os jardins aparecem sempre como uma versão terrena do
+paraíso, incorporando aos jardins também essa distinção religiosa. A
+dignidade religiosa, por sua vez, se rebate na grandeza dos palácios
+reais, como o Generalife, na Alhambra de Granada, construído no século
+XIV ([@fig:alhambra]).
+
+![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século XIV. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Chahār-bāgh ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É desse livro sagrado que vem, também, a explicação para um elemento
+fundamental desse paisagismo: o *chahār-bāgh*. A palavra vem do persa e
+quer dizer quatro jardins, uma referência a uma passagem da 55.ª
+surata (O clemente) do Alcorão que diz:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+| 46 Por outra, para quem teme o comparecimento ante o seu Senhor, haverá dois jardins.
+| 50 Em ambos, haverá duas fontes a verter.
+| 52 Em ambos haverá duas espécies de cada fruta.
+| 54 Estarão reclinados sobre almofadas forradas de brocado, e os frutos de ambos os jardins estarão ao (seu) alcance.
+| 62 E, além dos dois mencionados, haverá outros dois jardins,
+| 64 De cor verde-escuro, vicejantes.
+| 66 Neles haverá duas fontes a jorrar.
+| 68 Em ambos haverá frutas, tamareiras e romãzeiras.
+
+* * * *
+
+![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi .stretch}
+
+## Jardim indo-persa ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/1225px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse conceito dos quatro jardins foi trasposto para o *chahār-bāgh,*
+composto por um espaço que, dividido por dois eixos ortogonais, forma as
+quatro partes de um jardim. Esses eixos são demarcados por caminhos ou
+cursos d'água. A composição inteira não precisa ser simétrica, e nem o
+cruzamento dos eixos precisa estar no centro do jardim
+([@fig:jahangir-charbagh]).
+
+![Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. @alam:2014layout](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg){#fig:jahangir-charbagh}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-jaipur-carpet/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tapeçaria é um dos mecanismos de difusão do tipo do *chahār-bāgh*,
+sobretudo a partir do século XVI. Tapetes persas representando jardins
+viajam por todo o mundo islâmico e além, como o chamado "tapete de
+Jaipur" de 1622, na verdade produzido em Quermã, no leste da Pérsia,
+como um produto de exportação ([@fig:jaipur-carpet]).
+
+![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. @healy:2020jaipur](https://www.integra.unb.br/s/tau6-063-jaipur-carpet/preview){#fig:jaipur-carpet}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-rug-met"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tapeçarias mais estilizadas, como o tapete persa da segunda metade do
+século XVIII da [@fig:rug-met], reduzem o *chahār-bāgh* às suas
+características fundamentais e mostram como a simetria do conjunto pode
+ser relativizada. Os dois eixos estruturantes não precisam ser
+idênticos, e essa é uma das principais fontes de variedade nos projetos
+de jardins persas e indianos.
+
+![Tapete persa, segunda metade do século XVIII. Metropolitan Museum of Art](https://www.integra.unb.br/s/tau6-063-rug-met){#fig:rug-met}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O maior desafio desses jardins era driblar as condições climáticas a fim
+de criar um ambiente húmido e fresco. Muitos deles ficam em regiões
+áridas, quase desérticas, como o jardim Shazdeh, construído em 1850 em
+Mahan, no leste da Pérsia ([@fig:shazdeh-aerial]). A sensação de estar
+dentro de um desses jardins era muito importante, e também por isso se
+desenvolveu uma forte relação com plantas e flores que fossem muito
+aromáticas. É importante ressaltar a habilidade dos jardineiros e
+botânicos que conseguiam manter tantas e tão variadas espécies de
+plantas em climas tão áridos como o do Irã.
+
+![Bāgh-e Shazdeh, Mahan, província de Quermã, Irã, criado em 1850 e reconstruído em 1870. @mirfendereski:architectural](https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w){#fig:shazdeh-aerial}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Timur_Empire.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os impérios multiétnicos da Ásia central são os principais veículos de
+expansão da cultura persa nos séculos XV a XVIII. Os turcos e mongóis da
+dinastia Timúrida, que governam desde o Oriente Médio até o oeste da
+Índia nos séculos XIV e XV ([@fig:timur]), criam uma vasta zona de
+comércio e trocas culturais na região. É nessa época que a cultura persa
+--- nas artes visuais, na arquitetura e até na literatura --- se
+estabelece como o padrão erudito e elegante em toda a Ásia central.
+
+![Império Timúrida no final do século XIV. @stuntelaar:2008timur](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg){#fig:timur}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os impérios Safávida, na Pérsia (1501--1736), e Mogol, no norte da
+Índia (1526--1857), dão continuidade a essas trocas culturais baseadas
+na hegemonia cultural persa ([@fig:gibault]). Eles substituem o domínio
+dos nômades Timúridas por estados com administrações estáveis, que
+realizam obras públicas monumentais.
+
+![Impérios Otomano, Safávida e Mogol no século XVII. @gibault:2011chapter21](https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg){#fig:gibault}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+O império Mogol foi fundado por descendentes de Genghis Khan que, com o
+auxílio dos Safávidas e Otomanos, conseguiram conquistar o Sultanato de
+Delhi em 1526.
+
+![Expansão do império Mogol, 1526--1687](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png){#fig:mogol-1687}
+
+* * * *
+
+Apesar dessa origem étnica mongol (daí o nome do império), o império
+Mogol promove uma cultura de corte inspirada na Pérsia. Essa cultura de
+elite se mistura gradualmente com o substrato indiano, que sobreviveu
+aos primeiros séculos de islamização sob o sultanato de Delhi.
+
+Os Safávidas na Pérsia, por sua vez, multiplicam os contatos com a
+Europa, com objetivos sobretudo diplomáticos e militares. Nesse
+processo, as trocas culturais também se intensificam.
+
+##
+
+Por razões didáticas iremos nos concentrar em dois dos charbaghs mais
+expressivos, o de Isfahan, na Pérsia, e o do Taj Mahal, na cidade de
+Agra.
+
+Xá Abbas I transferiu a capital do império de Qazvin para Isfahan, em
+1598. Xá Abbas praticamente ordenou a reconstrução da cidade, que estava
+em decadência desde a invasão turco-mongol no século XIV. Sua nova
+capital foi toda redesenhada, um trabalho atribuído ao intelectual
+xiita, matemático, arquiteto e astrônomo, Baha al-Din, que apesar da
+escassez de fontes também tem seu nome ligado a vários monumentos da
+mesma época. (<https://en.wikipedia.org/wiki/File:Sheik_bahayi.jpg>)
+
+Baha al-Din também é creditado pela série de canais criadas com a
+canalização do rio Zayanderud. Esses canais permitiram o acesso à água
+potável não só dos subúrbios da cidade, como permitindo o plantio de
+centenas de plantas por toda a cidade transformando Isfahan em uma
+cidade arborizada mesmo estando no meio de um deserto. É consenso no
+meio acadêmico que Xá Abbas queria que a cidade fosse impressionante e
+um reflexo do poder persa. Para isso usou a analogia islâmica entre o
+paraíso celeste e os jardins, transpondo todo o conceito do charbagh
+para o urbanismo da cidade. É isso, Isfahan não tinha somente um jardim,
+mas a cidade inteira deveria ser um jardim ou o "paraíso". Para tal um
+eixo foi a direção natural do rio, leste-oeste, e o segundo eixo criado
+no sentido norte sul ligava a nova praça Naqsh-e Jahan aos jardins reais
+já do outro ado do rio. Nesse eixo estavam compreendidos os principais
+edifícios públicos da cidade e a praça era o centro do comércio. Hoje
+essa avenida ainda recebe o nome de Chahar Bagh, mesmo tendo a cidade
+passado por várias alterações.
+
+(<http://www.carolinemawer.com/isfahan-is-half-the-world-they-say-but-by-so-saying-they-only-go-half-the-way/>
+
+<http://www.carolinemawer.com/starting-from-isfahan/>
+
+<https://commons.wikimedia.org/wiki/File:Schéma_isfahan_safavides.svg>
+
+<https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_1_by_Cornelis_de_Bruyn.jpg>
+
+<https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg>
+
+<https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg>
+
+<https://commons.wikimedia.org/wiki/File:Char_Bagh_Isfahan_and_Mosque_Shah_Sultan_Hussein_by_Eugène_Flandin.jpg>
+
+Na arquitetura mogol, muitas vezes o jardim é feito para inserir um
+túmulo ou mausoléu, como é o caso no Taj Mahal, que acabou ficando mais
+famoso do que o jardim pela história de amor entre o Xá Jahan e sua
+esposa Muntaz Mahal, para quem o mausoléu foi construído.
+(<http://2.bp.blogspot.com/-GuQFjBhWF28/VC7ceiEkOFI/AAAAAAAABg4/wABzmQD7qwQ/s1600/TajPlan1.png>)
+No caso do Taj Mahal, a divisão axial é marcada pelo curso do espelho
+d'água, feitos de mármore assim como o edifício principal, do portão de
+entrada para o edifício, e com um passeio de pedestre no outro eixo. Ao
+contrário da maioria dos charbaghs mogóis, em que o túmulo está
+centralizado no jardim, o Taj mahal se encotra em uma das bordas.
+Sabendo que o projeto original não chegou a ser concluído, arqueólogos e
+historiadores interpretaram a descoberta do Mahtab bagh, um jardim ao
+norte do Taj mahal porém, do outro lado do rio Yamuna como possível
+parte do projeto original. Se considerarmos o próprio rio Yamuna como um
+dos eixos (assim como fizeram os persas em Isfahan) e o edifício que
+seria construído para abrigar o corpo de Xá Jahan, teríamos assim um
+projeto mais próximo da simetria usual.
+
+Originalmente o jardim continha uma enorme variedade de plantas e
+flores, pois eles remetiam a ideia de fartura e prosperidade que deveria
+estar presente no "paraíso", mas com o início do domínio britânico não
+só o jardim do Taj Mahal, mas de diversos outros jardins mogóis foram
+remodelados.
+
+Esse estilo de jardim tetrapartido (charbagh) foi tão usado no império
+mogol, que muitas vezes ele é chamado simplesmente de jardim mogol pela
+historiografia
+
+
+## Rios como eixos ##
+
 # Jardins do Renascimento italiano #
 
 # Jardim chinês #
@@ -488,106 +740,6 @@ desempenham os papéis centrais.
 
 ![Quarenta vistas do Yuanmingyuan, Belo cenário do vaso quadrado](https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1029_Fanghu.jpg){#fig:40yuanmingyuan29}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Jardins da Ásia central #
-
-## Paisagismo(s) do mundo islâmico ##
-
-O mundo islâmico é um conjunto cultural vastíssimo e extremamente
-diversificado culturalmente. Já tratamos de cidades islâmicas no oceano
-Índico, na Malásia e na costa Suaíle da África. No entanto, essas duas
-regiões têm clima muito úmido e, talvez por isso, não desenvolveram
-tradições significativas em jardins. As duas grandes culturas de
-paisagismo islâmico se desenvolvem na bacia do Mediterrâneo durante a
-Idade Média --- da península Arábica até a península Ibérica --- e, na
-Idade Moderna, da Pérsia até o noroeste da Índia.
-
-## Jardins do paraíso ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1280px-Persepolis_T_Chipiez.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Em última análise, todos os jardins islâmicos --- e talvez até os
-jardins europeus modernos [@gharipour:2017gardens] --- descendem do
-*pairidaĕza* ou "jardim murado" da antiga Pérsia ([@fig:chipiez]). Dessa
-palavra persa é que vem o nosso conceito de "paraíso" como um lugar
-ajardinado.
-
-![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-É claro que esses jardins irão desenvolver características particulares
-nas diferentes regiões. Porém, a principal característica comum a todos
-é sua função. Diferentemente dos jardins franceses e ingleses que eram
-usados para diversas atividades e longas caminhadas, os jardins
-islâmicos eram construídos com a intenção de criar espaços de descanso e
-contemplação, isso porque a maior parte dos territórios sob influencia
-islâmica se encontram em regiões áridas ou extremamente quentes. Isso
-também explica por que nesses jardins a relação da água e das sombras
-com o projeto é maior do que o desenho em si.
-
-## Jardins na cultura islâmica ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1280px-Alhambra_granada_spain.jpeg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No Alcorão, os jardins aparecem sempre como uma versão terrena do
-paraíso, incorporando aos jardins também essa distinção religiosa. A
-dignidade religiosa, por sua vez, se rebate na grandeza dos palácios
-reais, como o Generalife, na Alhambra de Granada, construído no século
-XIV ([@fig:alhambra]).
-
-![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século XIV. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Chahār-bāgh ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-É desse livro sagrado que vem, também, a explicação para um elemento
-fundamental desse paisagismo: o *chahār-bāgh*. A palavra vem do persa e
-quer dizer quatro jardins, uma referência a uma passagem da 55.ª
-surata (O clemente) do Alcorão que diz:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-| 46 Por outra, para quem teme o comparecimento ante o seu Senhor, haverá dois jardins.
-| 50 Em ambos, haverá duas fontes a verter.
-| 52 Em ambos haverá duas espécies de cada fruta.
-| 54 Estarão reclinados sobre almofadas forradas de brocado, e os frutos de ambos os jardins estarão ao (seu) alcance.
-| 62 E, além dos dois mencionados, haverá outros dois jardins,
-| 64 De cor verde-escuro, vicejantes.
-| 66 Neles haverá duas fontes a jorrar.
-| 68 Em ambos haverá frutas, tamareiras e romãzeiras.
-
-* * * *
-
-![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi .stretch}
-
-## Jardim indo-persa ##
-
-## {data-background-image=""}
-
-Esse conceito dos quatro jardins foi trasposto para o charbagh, composto
-por um quadrilátero que, dividido por dois eixos ortogonais, formam
-quatro partes de um jardim. Esses eixos são demarcados por caminhos ou
-cursos d'água e a composição inteira não precisa ser simétrica e o
-cruzamento dos eixos não precisar estar no centro do jardim, como
-podemos ver nessa tapeçaria persa de 1622 ([@fig:jaipur-carpet]).
-
-![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. @healy:2020jaipur](){#fig:jaipur-carpet}
-
-## {data-background-image="https://images.metmuseum.org/CRDImages/is/original/DP217878.jpg"}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/1225px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. @alam:2014layout](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg){#fig:jahangir-charbagh}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Jardins mogóis ##
-
-## Rios como eixos ##
 
 # Infraestrutura hidráulica na América #
 
