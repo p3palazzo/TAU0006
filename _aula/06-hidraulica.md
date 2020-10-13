@@ -491,7 +491,99 @@ desempenham os papéis centrais.
 
 # Jardins da Ásia central #
 
-## Chahar-bagh ##
+## Paisagismo(s) do mundo islâmico ##
+
+O mundo islâmico é um conjunto cultural vastíssimo e extremamente
+diversificado culturalmente. Já tratamos de cidades islâmicas no oceano
+Índico, na Malásia e na costa Suaíle da África. No entanto, essas duas
+regiões têm clima muito úmido e, talvez por isso, não desenvolveram
+tradições significativas em jardins. As duas grandes culturas de
+paisagismo islâmico se desenvolvem na bacia do Mediterrâneo durante a
+Idade Média --- da península Arábica até a península Ibérica --- e, na
+Idade Moderna, da Pérsia até o noroeste da Índia.
+
+## Jardins do paraíso ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1280px-Persepolis_T_Chipiez.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em última análise, todos os jardins islâmicos --- e talvez até os
+jardins europeus modernos [@gharipour:2017gardens] --- descendem do
+*pairidaĕza* ou "jardim murado" da antiga Pérsia ([@fig:chipiez]). Dessa
+palavra persa é que vem o nosso conceito de "paraíso" como um lugar
+ajardinado.
+
+![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+É claro que esses jardins irão desenvolver características particulares
+nas diferentes regiões. Porém, a principal característica comum a todos
+é sua função. Diferentemente dos jardins franceses e ingleses que eram
+usados para diversas atividades e longas caminhadas, os jardins
+islâmicos eram construídos com a intenção de criar espaços de descanso e
+contemplação, isso porque a maior parte dos territórios sob influencia
+islâmica se encontram em regiões áridas ou extremamente quentes. Isso
+também explica por que nesses jardins a relação da água e das sombras
+com o projeto é maior do que o desenho em si.
+
+## Jardins na cultura islâmica ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1280px-Alhambra_granada_spain.jpeg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Alcorão, os jardins aparecem sempre como uma versão terrena do
+paraíso, incorporando aos jardins também essa distinção religiosa. A
+dignidade religiosa, por sua vez, se rebate na grandeza dos palácios
+reais, como o Generalife, na Alhambra de Granada, construído no século
+XIV ([@fig:alhambra]).
+
+![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século XIV. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Chahār-bāgh ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É desse livro sagrado que vem, também, a explicação para um elemento
+fundamental desse paisagismo: o *chahār-bāgh*. A palavra vem do persa e
+quer dizer quatro jardins, uma referência a uma passagem da 55.ª
+surata (O clemente) do Alcorão que diz:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+| 46 Por outra, para quem teme o comparecimento ante o seu Senhor, haverá dois jardins.
+| 50 Em ambos, haverá duas fontes a verter.
+| 52 Em ambos haverá duas espécies de cada fruta.
+| 54 Estarão reclinados sobre almofadas forradas de brocado, e os frutos de ambos os jardins estarão ao (seu) alcance.
+| 62 E, além dos dois mencionados, haverá outros dois jardins,
+| 64 De cor verde-escuro, vicejantes.
+| 66 Neles haverá duas fontes a jorrar.
+| 68 Em ambos haverá frutas, tamareiras e romãzeiras.
+
+* * * *
+
+![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi .stretch}
+
+## Jardim indo-persa ##
+
+## {data-background-image=""}
+
+Esse conceito dos quatro jardins foi trasposto para o charbagh, composto
+por um quadrilátero que, dividido por dois eixos ortogonais, formam
+quatro partes de um jardim. Esses eixos são demarcados por caminhos ou
+cursos d'água e a composição inteira não precisa ser simétrica e o
+cruzamento dos eixos não precisar estar no centro do jardim, como
+podemos ver nessa tapeçaria persa de 1622 ([@fig:jaipur-carpet]).
+
+![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. @healy:2020jaipur](){#fig:jaipur-carpet}
+
+## {data-background-image="https://images.metmuseum.org/CRDImages/is/original/DP217878.jpg"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/1225px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. @alam:2014layout](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg){#fig:jahangir-charbagh}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Jardins mogóis ##
 
