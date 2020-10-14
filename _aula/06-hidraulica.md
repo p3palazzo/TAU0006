@@ -207,7 +207,7 @@ sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-isfahan-agra/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um *chahār-bāgh* na Pérsia e outro na Índia exemplificam o
@@ -216,7 +216,7 @@ métodos modernos de planejamento da cidade e do território: o conjunto
 urbanístico de Isfahan e o complexo funerário do Taj Mahal, na cidade de
 Agra ([@fig:isfahan-agra]).
 
-![Impérios Safávida e Mogol com a localização de Isfahan e Agra](){#fig:isfahan-agra}
+![Impérios Safávida e Mogol no século XVII com a localização de Isfahan e Agra](https://www.integra.unb.br/s/tau6-063-isfahan-agra/preview){#fig:isfahan-agra}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg"}
@@ -233,8 +233,9 @@ de Isfahan, e também de vários dos seus edifícios emblemáticos.
 ![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século XVI](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-mawer-layout/preview"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O projeto de Bahā al-Dīn ([@fig:isfahan-plan]) cria uma série de canais
 alimentados pelo rio Zayanderud. Esses canais fornecem não só água
 potável para os subúrbios da cidade, como também permitem ajardinar toda
@@ -242,35 +243,78 @@ a cidade. Assim, ele transforma Isfahan numa cidade arborizada, mesmo
 estando no meio de um deserto. A reconstrução de Bahā al-Dīn faz da
 cidade um reflexo do poder imperial persa.
 
-## {data-background-image=""}
+![Plano urbanístico de Isfahan. @mawer:2013isfahan](https://www.integra.unb.br/s/tau6-063-mawer-layout/preview){#fig:isfahan-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-isfahan-plan/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para isso, ele usa a analogia islâmica entre o paraíso celeste e os
 jardins, transpondo todo o conceito do *chahār-bāgh* para o plano geral
 da cidade. Isfahan não tinha somente um jardim: a cidade inteira deveria
 ser um jardim ou o "paraíso" e, portanto, ter o *chahār-bāgh* como
-princípio organizador de todo o conjunto urbanístico.
+princípio organizador de todo o conjunto urbanístico
+([@fig:isfahan-schema]).
 
-Para tal um eixo foi a
-direção natural do rio, leste-oeste, e o segundo eixo criado no sentido
-norte sul ligava a nova praça Naqsh-e Jahan aos jardins reais já do
-outro ado do rio. Nesse eixo estavam compreendidos os principais
-edifícios públicos da cidade e a praça era o centro do comércio. Hoje
-essa avenida ainda recebe o nome de Chahar Bagh, mesmo tendo a cidade
-passado por várias alterações.
+![Configuração urbana de Isfahan no século XVII](https://www.integra.unb.br/s/tau6-063-isfahan-plan/preview){#fig:isfahan-schema}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-(<http://www.carolinemawer.com/isfahan-is-half-the-world-they-say-but-by-so-saying-they-only-go-half-the-way/>
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-isfahan-plan-charbagh/preview"}
 
-<http://www.carolinemawer.com/starting-from-isfahan/>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para realizar esse objetivo, Bahā al-Dīn usou o próprio rio Zayanderud
+como um dos eixos do *chahār-bāgh*, na direção leste--oeste. O eixo
+norte--sul é uma nova avenida monumental ligando a praça Naqsh-e Jahan,
+também parte do novo projeto urbanístico, aos jardins reais, do outro
+lado do rio ([@fig:isfahan-schema-charbagh]).
 
-<https://commons.wikimedia.org/wiki/File:Schéma_isfahan_safavides.svg>
+![Configuração urbana de Isfahan no século XVII mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh](https://www.integra.unb.br/s/tau6-063-isfahan-plan-charbagh/preview){#fig:isfahan-schema-charbagh}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_1_by_Cornelis_de_Bruyn.jpg>
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg"}
 
-<https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A própria avenida é conhecida até hoje pelo nome de Chahar Bagh, e
+continua a ser um dos principais eixos viários de Isfahan. O conjunto
+monumental da cidade foi admirado pelos vários viajantes europeus que
+visitaram a cidade nos séculos XVII e XVIII, como o holandês Cornelis de
+Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
-<https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg>
+![Vista da avenida Charbagh por Cornelis de Bruyn, 1705](https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg){#fig:cornelis}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<https://commons.wikimedia.org/wiki/File:Char_Bagh_Isfahan_and_Mosque_Shah_Sultan_Hussein_by_Eugène_Flandin.jpg>
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/68/52_Chardin_Esfahan_gardens.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Vista da avenida Charbagh por Jean Chardin, década de 1670](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/52_Chardin_Esfahan_gardens.jpg/1024px-52_Chardin_Esfahan_gardens.jpg){#fig:chardin}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Mausoléus indianos ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1280px-Samarcanda%2C_Gur-e_Amir_19.jpg"}
+
+O império Mogol é um estado governado por uma dinastia originária da
+Ásia central, instalado no norte da Índia, e usando a cultura persa para
+legitimar a sua autoridade. O cosmopolitismo que resulta dessa mistura
+tem o seu ponto alto na construção de mausoléus ajardinados. O uso de
+mausoléus monumentais para enterrar membros da família real vem da Ásia
+central muçulmana. Ela tem o seu ponto alto no gur e-Amir, a tumba de
+Tamerlão, construída em Samarcanda no início do século XV
+([@fig:gur-e-amir]).
+
+![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1024px-Samarcanda%2C_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
+
+## {data-background-image="https://images-production.gardenvisit.com/uploads/images/12013/bagh_e_babur_kabul_original.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa das práticas religiosas hinduístas, a Índia não desenvolveu
+uma tradição arquitetônica de sepulturas. Por isso, a dinastia mogol
+importa os elementos que dão forma às tumbas reais. Ela faz isso
+combinando o tipo do mausoléu turco da Ásia central com o jardim
+*chahār-bāgh* persa.
+
+![Bāgh-e Babur (jardim de Babur), Cabul, 1528. @kelly:2009babur](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Na arquitetura mogol, muitas vezes o jardim é feito para inserir um
 túmulo ou mausoléu, como é o caso no Taj Mahal, que acabou ficando mais
