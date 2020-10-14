@@ -174,50 +174,86 @@ realizam obras públicas monumentais.
 
 * * * *
 
-O império Mogol foi fundado por descendentes de Genghis Khan que, com o
-auxílio dos Safávidas e Otomanos, conseguiram conquistar o Sultanato de
-Delhi em 1526.
+O império Mogol foi fundado por Babur, um descendente de Genghis Khan
+que, com o auxílio dos Safávidas e Otomanos, conseguiram conquistar o
+Sultanato de Delhi em 1526. O próprio nome "Mogol" dado pelos indianos a
+essa nova dinastia estrangeira remete à origem étnica *mongol*.
 
 ![Expansão do império Mogol, 1526--1687](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png){#fig:mogol-1687}
 
 * * * *
 
-Apesar dessa origem étnica mongol (daí o nome do império), o império
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar dessa origem étnica, o império
 Mogol promove uma cultura de corte inspirada na Pérsia. Essa cultura de
 elite se mistura gradualmente com o substrato indiano, que sobreviveu
-aos primeiros séculos de islamização sob o sultanato de Delhi.
+aos primeiros séculos de islamização sob o sultanato de Delhi. Os
+manuscritos iluminados do século XVII demonstram essa combinação de uma
+cultura iconográfica indiana com temas literários persas ([@fig:babur]).
 
 Os Safávidas na Pérsia, por sua vez, multiplicam os contatos com a
 Europa, com objetivos sobretudo diplomáticos e militares. Nesse
-processo, as trocas culturais também se intensificam.
+processo, as trocas culturais também se intensificam. O xá Abbas I
+(1588--1629) tem um retrato pintado por um artista de escola italiana,
+sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Representação do imperador Babur, c. 1640, montada numa página decorada c. 1650--1658. Do álbum do xá Jahan, Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg/538px-Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg){#fig:babur}
+:::
+::: {.column width=50%}
+![Retrato do xá Abbas I por um pintor de escola italiana, talvez Júlio, o Grego, final do século XVI ou início do XVII](https://upload.wikimedia.org/wikipedia/commons/2/2e/ShahAbbasPortraitFromItalianPainter.jpg){#fig:abbas}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Por razões didáticas iremos nos concentrar em dois dos charbaghs mais
-expressivos, o de Isfahan, na Pérsia, e o do Taj Mahal, na cidade de
-Agra.
+## {data-background-image=""}
 
-Xá Abbas I transferiu a capital do império de Qazvin para Isfahan, em
-1598. Xá Abbas praticamente ordenou a reconstrução da cidade, que estava
-em decadência desde a invasão turco-mongol no século XIV. Sua nova
-capital foi toda redesenhada, um trabalho atribuído ao intelectual
-xiita, matemático, arquiteto e astrônomo, Baha al-Din, que apesar da
-escassez de fontes também tem seu nome ligado a vários monumentos da
-mesma época. (<https://en.wikipedia.org/wiki/File:Sheik_bahayi.jpg>)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um *chahār-bāgh* na Pérsia e outro na Índia exemplificam o
+desenvolvimento dessa tipologia no século XVII e a sua adaptação aos
+métodos modernos de planejamento da cidade e do território: o conjunto
+urbanístico de Isfahan e o complexo funerário do Taj Mahal, na cidade de
+Agra ([@fig:isfahan-agra]).
 
-Baha al-Din também é creditado pela série de canais criadas com a
-canalização do rio Zayanderud. Esses canais permitiram o acesso à água
-potável não só dos subúrbios da cidade, como permitindo o plantio de
-centenas de plantas por toda a cidade transformando Isfahan em uma
-cidade arborizada mesmo estando no meio de um deserto. É consenso no
-meio acadêmico que Xá Abbas queria que a cidade fosse impressionante e
-um reflexo do poder persa. Para isso usou a analogia islâmica entre o
-paraíso celeste e os jardins, transpondo todo o conceito do charbagh
-para o urbanismo da cidade. É isso, Isfahan não tinha somente um jardim,
-mas a cidade inteira deveria ser um jardim ou o "paraíso". Para tal um
-eixo foi a direção natural do rio, leste-oeste, e o segundo eixo criado
-no sentido norte sul ligava a nova praça Naqsh-e Jahan aos jardins reais
-já do outro ado do rio. Nesse eixo estavam compreendidos os principais
+![Impérios Safávida e Mogol com a localização de Isfahan e Agra](){#fig:isfahan-agra}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Isfahan é uma das várias capitais históricas da Pérsia, tanto do ponto
+de vista político quanto cultural. Quando o xá Abbas I restabelece
+Isfahan como capital, em 1598, a maior parte da cidade estava destruída
+e abandonada desde a conquista turco-mongol do século XIV. O intelectual
+xiita, matemático, arquiteto e astrônomo, Bahā al-Dīn
+([@fig:baha-al-din]) é o autor do projeto para a reconstrução monumental
+de Isfahan, e também de vários dos seus edifícios emblemáticos.
+
+![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século XVI](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+O projeto de Bahā al-Dīn ([@fig:isfahan-plan]) cria uma série de canais
+alimentados pelo rio Zayanderud. Esses canais fornecem não só água
+potável para os subúrbios da cidade, como também permitem ajardinar toda
+a cidade. Assim, ele transforma Isfahan numa cidade arborizada, mesmo
+estando no meio de um deserto. A reconstrução de Bahā al-Dīn faz da
+cidade um reflexo do poder imperial persa.
+
+## {data-background-image=""}
+
+Para isso, ele usa a analogia islâmica entre o paraíso celeste e os
+jardins, transpondo todo o conceito do *chahār-bāgh* para o plano geral
+da cidade. Isfahan não tinha somente um jardim: a cidade inteira deveria
+ser um jardim ou o "paraíso" e, portanto, ter o *chahār-bāgh* como
+princípio organizador de todo o conjunto urbanístico.
+
+Para tal um eixo foi a
+direção natural do rio, leste-oeste, e o segundo eixo criado no sentido
+norte sul ligava a nova praça Naqsh-e Jahan aos jardins reais já do
+outro ado do rio. Nesse eixo estavam compreendidos os principais
 edifícios públicos da cidade e a praça era o centro do comércio. Hoje
 essa avenida ainda recebe o nome de Chahar Bagh, mesmo tendo a cidade
 passado por várias alterações.
