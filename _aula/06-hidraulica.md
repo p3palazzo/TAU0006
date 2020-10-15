@@ -347,7 +347,7 @@ extremidade ([@fig:bagh-e-babur]).
 ![Bāgh-e Babur (jardim de Babur), Cabul, 1528. @kelly:2009babur](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510"}
+## {data-background-image="https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma canônica do mausoléu no centro de um *chahār bāgh* é realizada
