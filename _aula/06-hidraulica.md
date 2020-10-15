@@ -291,6 +291,17 @@ Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
 ## Mausoléus indianos ##
 
+## {data-background-image=""}
+
+O princípio do *chahār bāgh* se origina na Pérsia antiga, onde ele
+persiste até a atualidade. No entanto, é o seu uso na Índia sob o
+império Mogol e a descoberta dessa tipologia pelos colonizadores
+britânicos que estabelecem a sua fama mundial. A partir do século XIX, a
+configuração quadripartida do *chahār bāgh* passa a ser conhecida, no
+Ocidente, com o nome de "jardim mogol" ([@fig:mughal-gardens]).
+
+!["Mughal Gardens", palácio presidencial de Nova Delhi](){#fig:mughal-gardens}
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1280px-Samarcanda%2C_Gur-e_Amir_19.jpg"}
 
 O império Mogol é um estado governado por uma dinastia originária da
@@ -313,39 +324,58 @@ importa os elementos que dão forma às tumbas reais. Ela faz isso
 combinando o tipo do mausoléu turco da Ásia central com o jardim
 *chahār-bāgh* persa.
 
+O mais antigo desses mausoléus indianos é o de Babur, fundador da
+dinastia, na sua primeira capital, Cabul. Nesse caso, ainda não temos um
+*chahār-bāgh* completo, mas um jardim axial com o monumento numa
+extremidade ([@fig:bagh-e-babur]).
+
 ![Bāgh-e Babur (jardim de Babur), Cabul, 1528. @kelly:2009babur](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Na arquitetura mogol, muitas vezes o jardim é feito para inserir um
-túmulo ou mausoléu, como é o caso no Taj Mahal, que acabou ficando mais
-famoso do que o jardim pela história de amor entre o Xá Jahan e sua
-esposa Muntaz Mahal, para quem o mausoléu foi construído.
-(<http://2.bp.blogspot.com/-GuQFjBhWF28/VC7ceiEkOFI/AAAAAAAABg4/wABzmQD7qwQ/s1600/TajPlan1.png>)
-No caso do Taj Mahal, a divisão axial é marcada pelo curso do espelho
-d'água, feitos de mármore assim como o edifício principal, do portão de
-entrada para o edifício, e com um passeio de pedestre no outro eixo. Ao
-contrário da maioria dos charbaghs mogóis, em que o túmulo está
-centralizado no jardim, o Taj mahal se encotra em uma das bordas.
-Sabendo que o projeto original não chegou a ser concluído, arqueólogos e
-historiadores interpretaram a descoberta do Mahtab bagh, um jardim ao
-norte do Taj mahal porém, do outro lado do rio Yamuna como possível
-parte do projeto original. Se considerarmos o próprio rio Yamuna como um
-dos eixos (assim como fizeram os persas em Isfahan) e o edifício que
-seria construído para abrigar o corpo de Xá Jahan, teríamos assim um
-projeto mais próximo da simetria usual.
+## {data-background-image=""}
+
+A forma canônica do mausoléu no centro de um *chahār bāgh* é realizada
+no
+
+## Taj Mahal ##
+
+## {data-background-image=""}
+
+O mais famoso desses mausoléus é o Taj Mahal, que ficou mais conhecido
+do que o jardim à sua volta por causa da história de amor entre o Xá
+Jahan e sua esposa Mumtaz Mahal, para quem o mausoléu foi construído.
+
+## {data-background-image=""}
+
+O Taj Mahal se assemelha ao Bāgh-e Babur, com o monumento na extremidade
+de uma esplanada que tem uma acéquia no seu eixo central. A estrutura
+que delimita esse espelho d'água é em mármore branco, assim como o
+revestimento do próprio monumento. O mausoléu de Mumtaz Mahal é
+enquadrado por dois pavilhões laterais e um portão monumental na outra
+extremidade do eixo longitudinal.
+
+## {data-background-image=""}
+
+No entanto, a reconstituição do projeto original dá uma outra imagem do
+conjunto, que restitui a completude do *chahār bāgh*. Esse projeto nunca
+chegou a ser concluído, e para compreendê-lo melhor precisamos olhar
+para o rio Yamuna, às costas do Taj Mahal, e pensar na solução
+urbanística de Isfahan.
+
+## {data-background-image=""}
+
+Na outra margem do rio, foram descobertos vestígios do Mahtab bāgh, um
+jardim simétrico ao que defronta o Taj Mahal. Esse jardim sugere que o
+complexo funerário seria duplo --- com outro monumento, nunca executado,
+para servir de tumba ao próprio xá Jahan.
+
+## {data-background-image=""}
 
 Originalmente o jardim continha uma enorme variedade de plantas e
 flores, pois eles remetiam a ideia de fartura e prosperidade que deveria
-estar presente no "paraíso", mas com o início do domínio britânico não
-só o jardim do Taj Mahal, mas de diversos outros jardins mogóis foram
-remodelados.
-
-Esse estilo de jardim tetrapartido (charbagh) foi tão usado no império
-mogol, que muitas vezes ele é chamado simplesmente de jardim mogol pela
-historiografia
-
-
-## Rios como eixos ##
+estar presente no "paraíso". Mas, com o domínio britânico no século XIX,
+não só o jardim do Taj Mahal, mas de diversos outros jardins mogóis
+foram transformados em extensos gramados.
 
 # Jardins do Renascimento italiano #
 
