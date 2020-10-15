@@ -117,7 +117,8 @@ como um produto de exportação ([@fig:jaipur-carpet]).
 ![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. @healy:2020jaipur](https://www.integra.unb.br/s/tau6-063-jaipur-carpet/preview){#fig:jaipur-carpet}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau6-063-rug-met"}
+##
+{data-background-image="https://www.integra.unb.br/s/tau6-063-rug-met/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tapeçarias mais estilizadas, como o tapete persa da segunda metade do
@@ -127,7 +128,7 @@ ser relativizada. Os dois eixos estruturantes não precisam ser
 idênticos, e essa é uma das principais fontes de variedade nos projetos
 de jardins persas e indianos.
 
-![Tapete persa, segunda metade do século XVIII. Metropolitan Museum of Art](https://www.integra.unb.br/s/tau6-063-rug-met){#fig:rug-met}
+![Tapete persa, segunda metade do século XVIII. Metropolitan Museum of Art](https://www.integra.unb.br/s/tau6-063-rug-met/preview){#fig:rug-met}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w"}
@@ -373,7 +374,7 @@ central para a Índia ([@fig:humayun-aerial]).
 Esse tipo canônico repercute no túmulo do imperador Jahangir, construído
 em Lahore em 1637 ([@fig:jahangir-aerial]).
 
-![Mausoléu de Jahangir, Lahore, 1637. @kamal:2118early](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg){#fig:jahangir-aerial}
+![Mausoléu de Jahangir, Lahore, 1637. @kamal:2018early](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg){#fig:jahangir-aerial}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Taj Mahal ##
@@ -417,7 +418,7 @@ A estrutura que delimita esse espelho d'água é em mármore, assim como o
 revestimento do próprio monumento ([@fig:taj-axis]). O mausoléu de
 Mumtaz Mahal é enquadrado por dois pavilhões laterais --- um deles é uma
 mesquita, e o outro foi construído só para manter a simetria do conjunto
-([@taj-bldgs]).
+([@fig:taj-bldgs]).
 
 ![Vista do Taj Mahal desde o chahār bāgh. @halun:2019taj](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1024px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg){#fig:taj-axis}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
