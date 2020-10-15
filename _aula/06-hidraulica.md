@@ -291,16 +291,31 @@ Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
 ## Mausoléus indianos ##
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-villiers-bg/preview"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O princípio do *chahār bāgh* se origina na Pérsia antiga, onde ele
 persiste até a atualidade. No entanto, é o seu uso na Índia sob o
 império Mogol e a descoberta dessa tipologia pelos colonizadores
 britânicos que estabelecem a sua fama mundial. A partir do século XIX, a
 configuração quadripartida do *chahār bāgh* passa a ser conhecida, no
-Ocidente, com o nome de "jardim mogol" ([@fig:mughal-gardens]).
+Ocidente, com o nome de "jardim mogol". O primeiro estudo histórico
+sobre esses jardins, *The Gardens of the Great Mughals*
+([@fig:villiers-stuart]), foi escrito pela artista inglesa Constance
+Villiers-Stuart [-@villiers-stuart:1913gardens].
 
-!["Mughal Gardens", palácio presidencial de Nova Delhi](){#fig:mughal-gardens}
+:::::::::::::::::::::::::::::::::::::::: {.columns #fig:villiers-stuart} 
+::: {.column width=50%}
+![Verso da folha de guarda](https://www.integra.unb.br/s/tau6-063-villiers-0/preview){#fig:villiers-stuartA}
+:::
+::: {.column width=50%}
+![Folha de rosto](https://www.integra.unb.br/s/tau6-063-villiers-1/preview){#fig:villiers-stuartB}
+:::
+
+Villiers-Stuart, Constance Mary. *Gardens of the Great Mughals.* London: A. and C. Black, 1913
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1280px-Samarcanda%2C_Gur-e_Amir_19.jpg"}
 
@@ -332,50 +347,170 @@ extremidade ([@fig:bagh-e-babur]).
 ![Bāgh-e Babur (jardim de Babur), Cabul, 1528. @kelly:2009babur](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma canônica do mausoléu no centro de um *chahār bāgh* é realizada
-no
+no túmulo do imperador Hamayun, construído em Delhi em 1569--1570
+([@fig:humayun-plan]).
+
+![Mausoléu de Hamayun, Delhi, 1569--1570, planta. @humayuns:2017](https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510){#fig:humayun-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O túmulo de Hamayun estabelece não só a implantação da sepultura no
+centro, mas também a transposição do tipo do mausoléu com cúpula da Ásia
+central para a Índia ([@fig:humayun-aerial]).
+
+![Mausoléu de Hamayun, Delhi, vista aérea do monumento central. @humayuns:2017](https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg){#fig:humayun-aerial}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1280px-Aerial_view_of_Jahangir_Tomb.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse tipo canônico repercute no túmulo do imperador Jahangir, construído
+em Lahore em 1637 ([@fig:jahangir-aerial]).
+
+![Mausoléu de Jahangir, Lahore, 1637. @kamal:2118early](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg){#fig:jahangir-aerial}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Taj Mahal ##
 
-## {data-background-image=""}
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-taj-aerial/preview"}
 
-O mais famoso desses mausoléus é o Taj Mahal, que ficou mais conhecido
-do que o jardim à sua volta por causa da história de amor entre o Xá
-Jahan e sua esposa Mumtaz Mahal, para quem o mausoléu foi construído.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O mais famoso desses mausoléus é o Taj Mahal ([@fig:taj-aerial]), que
+ficou mais conhecido do que o jardim à sua volta por causa da história
+de amor entre o xá Jahan e sua esposa Mumtaz Mahal ([@fig:mumtaz;
+@fig:jahan]), para quem o mausoléu foi construído.
 
-## {data-background-image=""}
+![Vista aérea do Taj Mahal](https://www.integra.unb.br/s/tau6-063-taj-aerial/preview){#fig:taj-aerial}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Mumtaz Mahal (1593--1631)](https://upload.wikimedia.org/wikipedia/commons/2/2a/Mumtaz_Mahal.jpg){#fig:mumtaz}
+:::
+::: {.column width=50%}
+![Shahb-ud-din Muhammad Kurram, o xá Jahan (1592--1666)](https://upload.wikimedia.org/wikipedia/commons/d/da/Shah_Jahan_op_de_pauwentroon.jpg){#fig:jahan}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/tau6-063-taj-iso/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Taj Mahal se assemelha ao Bāgh-e Babur, com o monumento na extremidade
-de uma esplanada que tem uma acéquia no seu eixo central. A estrutura
-que delimita esse espelho d'água é em mármore branco, assim como o
-revestimento do próprio monumento. O mausoléu de Mumtaz Mahal é
-enquadrado por dois pavilhões laterais e um portão monumental na outra
-extremidade do eixo longitudinal.
+de uma esplanada que tem uma acéquia no seu eixo central
+([@fig:taj-iso]).
 
-## {data-background-image=""}
+![Desenho isométrico do Taj Mahal e seu jardim *chahār bāgh*](https://www.integra.unb.br/s/tau6-063-taj-iso/preview){#fig:taj-iso}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1280px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A estrutura que delimita esse espelho d'água é em mármore, assim como o
+revestimento do próprio monumento ([@fig:taj-axis]). O mausoléu de
+Mumtaz Mahal é enquadrado por dois pavilhões laterais --- um deles é uma
+mesquita, e o outro foi construído só para manter a simetria do conjunto
+([@taj-bldgs]).
+
+![Vista do Taj Mahal desde o chahār bāgh. @halun:2019taj](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1024px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg){#fig:taj-axis}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1280px-Taj_Mahal-11.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Taj Mahal e pavilhões. @castor:2008taj](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1024px-Taj_Mahal-11.jpg){#fig:taj-bldgs}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Taj_site_plan.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, a reconstituição do projeto original dá uma outra imagem do
-conjunto, que restitui a completude do *chahār bāgh*. Esse projeto nunca
-chegou a ser concluído, e para compreendê-lo melhor precisamos olhar
-para o rio Yamuna, às costas do Taj Mahal, e pensar na solução
-urbanística de Isfahan.
+conjunto, que restitui a completude do *chahār bāgh* ([@fig:taj-site]).
+Esse projeto nunca chegou a ser concluído, e para compreendê-lo melhor
+precisamos olhar para o rio Yamuna, às costas do Taj Mahal, e pensar na
+solução urbanística de Isfahan.
 
-## {data-background-image=""}
+![Planta de conjunto do complexo paisagístico do Taj Mahal. @mcginnly:2007taj](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png){#fig:taj-site}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Na outra margem do rio, foram descobertos vestígios do Mahtab bāgh, um
-jardim simétrico ao que defronta o Taj Mahal. Esse jardim sugere que o
-complexo funerário seria duplo --- com outro monumento, nunca executado,
-para servir de tumba ao próprio xá Jahan.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
 
-## {data-background-image=""}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na outra margem do rio, foram descobertos vestígios do Mehtab bāgh
+(jardim do luar), um jardim dando continuidade ao que defronta o Taj
+Mahal ([@fig:taj-watercolor]). Esse jardim sugere que o complexo se
+estendia para além do rio; o Taj Mahal seria, literalmente, refletido
+num espelho d'água octogonal, tornando a composição completa.
 
+![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse jardim acabou abandonado por ser muito vulnerável às cheias do rio
+Yamuna. O Mehtab bāgh foi restaurado na década de 1990, depois de uma
+prospecção arqueológica que descobriu o seu tanque octogonal com 25
+fontes e a configuração do *chahār bāgh* ([@fig:mahtab]).
+
+![Escavações do Mehtab bāgh](http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg){#fig:mahtab}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://media.gettyimages.com/photos/view-of-taj-mahal-from-mehtab-bagh-picture-id978615838?s=2048x2048"}
+
+::: {#fig:mahtab-getty}
+<a id='1VkEA-GZTM5wqTTKjvgWtg' class='gie-single' href='http://www.gettyimages.pt/detail/978615838' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'1VkEA-GZTM5wqTTKjvgWtg',sig:'MTqmpXpHM_n4-fS6tkApZuiLbjT_eNeX6Vi58cGdNZA=',w:'509px',h:'338px',items:'978615838',caption: true ,tld:'pt',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
+Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
+:::
+
+## Colonização britânica ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Originalmente o jardim continha uma enorme variedade de plantas e
 flores, pois eles remetiam a ideia de fartura e prosperidade que deveria
-estar presente no "paraíso". Mas, com o domínio britânico no século XIX,
-não só o jardim do Taj Mahal, mas de diversos outros jardins mogóis
-foram transformados em extensos gramados.
+estar presente no "paraíso" ([@fig:taj-1890]). Mas, com o domínio
+britânico no século XIX, não só o jardim do Taj Mahal, mas de diversos
+outros jardins mogóis foram transformados em extensos gramados
+([@fig:taj-lawn]).
+
+![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg/997px-Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg){#fig:taj-1890}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1280px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Vista do Taj Mahal desde o sudoeste. @waikhom:2012view](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg){#fig:taj-lawn}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1280px-Mughal_Garden_Delhi%2C_India_08.jpg"}
+
+Apesar disso, a presença britânica na Índia também resultou no início da
+pesquisa histórica e arqueológica da região. Um dos produtos mais
+importantes para a história do paisagismo é o livro de Constance
+Villiers-Stuart sobre jardins mogóis, publicado em 1913.
+
+A pesquisa de Villiers-Stuart foi a base de um dos últimos projetos
+coloniais britânicos na Índia, o "jardim mogol" do antigo palácio dos
+vice-reis e atual palácio presidencial, em Nova Delhi
+([@fig:mughal-gardens; @fig:stoughton]).
+
+![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1024px-Mughal_Garden_Delhi%2C_India_08.jpg){#fig:mughal-gardens}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Mughal Gardens, Rashtrapati Bhavan. @stoughton:1962view](https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg){#fig:stoughton}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Jardins do Renascimento italiano #
 
