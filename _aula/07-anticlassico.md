@@ -4,60 +4,50 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
 layout  : default
+abstract: |
+  **Clássico anticlássico --** Plano e recessão: espaço escultórico
+  ordem colossal e cenografia -- Projeto tipológico: adaptações do
+  classicismo a condicionantes espaciais e culturais -- Permutações
+  projetuais: repertório vitruviano na obra de Palladio -- Desenho,
+  mecenato e o "problema do modo".
 ---
 
-Espaço escultórico
-==================
+# Espaço escultórico #
 
-O último Rafael
----------------
+## O último Rafael ##
 
 - Villa Madama
 - Capela Chigi
 
-Revisitando palácios urbanos
-----------------------------
+## Revisitando palácios urbanos ##
 
-Ordem colossal
---------------
+## Ordem colossal ##
 
-Miguel Ângelo
-=============
+# Miguel Ângelo #
 
-Clássico anticlássico
----------------------
+## Clássico anticlássico ##
 
-Arquitetura enquanto escultura
-------------------------------
+## Arquitetura enquanto escultura ##
 
 - Dos interiores em Florença ao palácio Farnese
 
-Capitólio e São Pedro
----------------------
+## Capitólio e São Pedro ##
 
 - Finaliza na porta Pia
 
-Sucessões espaciais
-===================
+# Sucessões espaciais #
 
-Decoro
-------
+## Decoro ##
 
-Veneza antes de Palladio
-------------------------
+## Veneza antes de Palladio ##
 
-Praça da Santíssima Anunciação
-------------------------------
+## Praça da Santíssima Anunciação ##
 
-Palladio
-========
+# Palladio #
 
-Registro bucólico
------------------
+## Registro bucólico ##
 
-Permutações
------------
+## Permutações ##
 
-Dos *Quatro Livros* a Scamozzi
-----------------------------
+## Dos *Quatro Livros* a Scamozzi ##
 
