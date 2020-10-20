@@ -9,8 +9,8 @@ vpath %.xml _site
 vpath %.yaml .:_spec
 vpath default.% _lib
 
-PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/crossref:2.10
-PANDOC/LATEX := docker run -v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" --user "`id -u`:`id -g`" pandoc/latex:2.10
+PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/crossref:2.10.1
+PANDOC/LATEX := docker run -v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" --user "`id -u`:`id -g`" pandoc/latex:2.10.1
 
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
@@ -59,11 +59,10 @@ _site/%.html : html.yaml %.md | _csl _site
 
 _site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
-	$(PANDOC/CROSSREF) -o $@ \
-		-V multiplexSecret=$(multiplexSecret) \
-		-V multiplexSocketId=$(multiplexSocketId) \
-		-V multiplexUrl=$(multiplexUrl) \
-	  -d $^
+	$(PANDOC/CROSSREF) -o $@ -d $^
+		#-V multiplexSecret=$(multiplexSecret) \
+		#-V multiplexSocketId=$(multiplexSocketId) \
+		#-V multiplexUrl=$(multiplexUrl) \
 
 _site/aula/%/notas.html : html.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
