@@ -26,15 +26,6 @@ html {
   }
 }
 
-/*
- *.slides > section {
- *  background-color: $backgroundColor;
- *  border: thin solid $backgroundColor;
- *  border-radius: 20vh;
- *  box-shadow: 0 0 10vh 10vh $backgroundColor;
- *}
- */
-
 section.has-dark-background,
 section#title-slide {
   text-shadow: 0 0 20px #294469;
@@ -69,7 +60,18 @@ section {
   img.stretch {
     margin: -20px 0;
     padding: 0;
+    object-fit: cover;
   }
+}
+
+figcaption,
+div.subfigures>p {
+  display: block;
+  background: rgba(255,255,255,0.5);
+  position: fixed;
+  bottom: 20px;
+  z-index: 999;
+  padding: 4px 20px;
 }
 
 .box {
@@ -85,11 +87,6 @@ blockquote {
       font-style: normal;
     }
   }
-}
-
-figcaption,
-div.subfigures>p {
-  display: none;
 }
 
 // Theme template ------------------------------

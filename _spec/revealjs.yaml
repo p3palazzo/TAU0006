@@ -21,11 +21,11 @@ variables:
   width: '1280'
   height: '720'
 metadata:
-  lang: pt-BR
   figureTitle: Figura
   tableTitle : Tabela
-  cssLabelSep: "&ndash;"
+  lang: pt-BR
   csl: "_csl/chicago-author-date.csl"
+  cssLabelSep: "&ndash;"
   suppress-bibliography: false
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
