@@ -20,7 +20,6 @@ html { block-margin: 0; }
 
 .reveal h1, .reveal h2 { font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; }
 
-/* .slides > section { background-color: $backgroundColor; border: thin solid $backgroundColor; border-radius: 20vh; box-shadow: 0 0 10vh 10vh $backgroundColor; } */
 section.has-dark-background, section#title-slide { text-shadow: 0 0 20px #294469; /* p.subtitle::after { content: " › "; } */ }
 
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6, section#title-slide, section#title-slide h1, section#title-slide h2, section#title-slide h3, section#title-slide h4, section#title-slide h5, section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; }
@@ -29,7 +28,9 @@ section.has-dark-background p.subtitle, section.has-dark-background p.author, se
 
 section.has-dark-background .author img, section#title-slide .author img { height: 1em; max-height: 75px; filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); }
 
-section img.stretch { margin: -20px 0; padding: 0; }
+section img.stretch { margin: -20px 0; padding: 0; object-fit: cover; }
+
+figcaption, div.subfigures > p { display: block; background: rgba(255, 255, 255, 0.5); position: fixed; bottom: 20px; z-index: 999; padding: 4px 20px; }
 
 .box { background: #ffffff33; }
 
@@ -38,8 +39,6 @@ blockquote { font-size: 1em; text-align: left; }
 blockquote footer { text-align: right; }
 
 blockquote footer cite { font-style: normal; }
-
-figcaption, div.subfigures > p { display: none; }
 
 /********************************************* GLOBAL STYLES */
 :root { --background-color: #faecd6; --main-font: UnB Pro, Helvetica, Liberation Sans, sans-serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Georgia, Liberation Serif, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
@@ -69,6 +68,9 @@ figcaption, div.subfigures > p { display: none; }
 
 /********************************************* OTHER */
 .reveal p { margin: 20px 0; line-height: 1.3; }
+
+/* Remove trailing margins after titles */
+.reveal h1:last-child, .reveal h2:last-child, .reveal h3:last-child, .reveal h4:last-child, .reveal h5:last-child, .reveal h6:last-child { margin-bottom: 0; }
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img, .reveal video, .reveal iframe { max-width: 95%; max-height: 95%; }
