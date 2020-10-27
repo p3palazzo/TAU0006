@@ -53,19 +53,17 @@ tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 .slides : $(SLIDES)
 	touch .slides
 
-_site/index.html : README.md _config.yaml _sass assets reveal.js
-	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
-		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-
 _site/%.html : html.yaml %.md | _csl _site
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
 _site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ -d $^
-		#-V multiplexSecret=$(multiplexSecret) \
-		#-V multiplexSocketId=$(multiplexSocketId) \
-		#-V multiplexUrl=$(multiplexUrl) \
+
+# Para ativar o Multiplex, incluir as linhas abaixo no comando acima:
+#-V multiplexSecret=$(multiplexSecret) \
+#-V multiplexSocketId=$(multiplexSocketId) \
+#-V multiplexUrl=$(multiplexUrl) \
 
 _site/aula/%/notas.html : html.yaml _aula/%.md | _csl _site
 	@mkdir -p _site/aula/$*
@@ -75,16 +73,17 @@ _site/package-lock.json : package.json | _site
 	cp package.json _site/
 	cd _site && npm install
 
+_site : README.md _config.yaml _sass assets reveal.js
+	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
+		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
 # {{{1 PHONY
 #      =====
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
 
-_site :
-	mkdir -p _site
-
-serve : deploy
+serve : | _site
 	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
 		jekyll/jekyll:4.1.0 jekyll serve --skip-initial-build
 
