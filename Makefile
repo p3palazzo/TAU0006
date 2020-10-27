@@ -9,8 +9,11 @@ vpath %.xml _site
 vpath %.yaml .:_spec
 vpath default.% _lib
 
-PANDOC/CROSSREF := docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" pandoc/crossref:2.11.0.4
-PANDOC/LATEX := docker run -v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" --user "`id -u`:`id -g`" pandoc/latex:2.11.0.4
+PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
+	--user "`id -u`:`id -g`" pandoc/crossref:2.11.0.4
+PANDOC/LATEX    := docker run -v "`pwd`:/data" \
+	-v "`pwd`/assets/fonts:/usr/share/fonts" \
+	--user "`id -u`:`id -g`" pandoc/latex:2.11.0.4
 
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
