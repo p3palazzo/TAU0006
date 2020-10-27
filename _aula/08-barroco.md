@@ -245,6 +245,7 @@ S. Carlino?
 
 # Elementos de arquitetura ou elementos de decoração #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Louvre de Lescot a Du Cerceau: como articular as ordens clássicas com
   os pavimentos. Priorizar unidade da fachada ou projeção da "verdade"
   construtiva e espacial? A fachada é envoltória do quê --- do edifício
@@ -253,12 +254,114 @@ S. Carlino?
 - As duas fachadas da Sorbonne por Lemercier.
 
 - Mansart, Le Vau e a adaptação do barroco romano.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+França tem tradições próprias acumuladas, que interagem com a introdução
+dos elementos arquitetônicos e espaciais clássicos. Os principais são a
+tipologia dos castelos, com salão no térreo, e as escadarias
+monumentais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1280px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1024px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg){#fig:charleval-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_%28I%29_-_Ch%C3%A2teau%2C_Charleval_-_WGA00432.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Jacques Androuet Du Cerceau, castelo de Charleva, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_%28I%29_-_Ch%C3%A2teau%2C_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_%28I%29_-_Ch%C3%A2teau%2C_Charleval_-_WGA00432.jpg){#fig:charleval-facade}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1280px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Pierre Lescot (arquitetura) e Jean Goujon (escultura), fachada sobre o
+pátio Quadrado do Louvre,
+1546--1555](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1024px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg){#fig:louvre-lescot-pp}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare width=100%}
+:::
+::: {.column width=50%}
+![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Andrea Palladio, palazzo Valmarana, Vicenza, 1560](https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif){#fig:valmarana-all}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare-valmarana width=100%}
+:::
+::: {.column width=50%}
+![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-louvre width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare-valmarana width=100%}
+:::
+::: {.column width=50%}
+![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-charleval width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Universidade de Paris (Sorbonne), planta](https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png){#fig:sorbonne-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Jacques Lemercier, capela da Sorbonne, fachada sobre a rua](https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg){#fig:sorbonne-rue width=100%}
+:::
+::: {.column width=50%}
+![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg){#fig:sorbonne-cour width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![François Mansart, fachada da igreja da abadia do Val-de-Grâce, Paris, c. 1645--1667](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG){#fig:valdegrace-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bioclimatismo e arquitetura clássica #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Classicismo não é one size fits all
 - Iluminação, ventilação, sombreamento e aquecimento
 - Confrontações: Itália, Espanha, França e Inglaterra
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+## {data-background-image="https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Robert Smythson, Hardwick hall, Ault Hucknall, 1590--1597](https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg){#fig:hardwick-ext}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Hôtel: soluções funcionais da modernidade #
 
