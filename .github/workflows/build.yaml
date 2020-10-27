@@ -30,6 +30,7 @@ jobs:
         path: '_site/*'
   notas:
     runs-on: ubuntu-latest
+    needs: [ rclone ]
     steps:
     - uses: actions/checkout@v2
     - name: Convert notas
@@ -52,6 +53,7 @@ jobs:
         path: '_site/*'
   slides:
     runs-on: ubuntu-latest
+    needs: [ rclone ]
     steps:
     - uses: actions/checkout@v2
     - name: Convert slides
