@@ -1,32 +1,32 @@
-from        : markdown
-to          : revealjs
-standalone  : true
-file-scope  : true
-slide-level : 2
-bibliography: biblio.bib
-cite-method : citeproc
-toc         : false
-css         : "../../assets/css/slide.css"
-#template    : "_lib/default.revealjs"
-fail-if-warnings: true
+from                    : markdown
+to                      : revealjs
+css                     : "../../assets/css/slide.css"
+bibliography            : biblio.bib
+cite-method             : citeproc
+fail-if-warnings          : true
+file-scope              : true
+self-contained          : true
+slide-level             : 2
+standalone              : true
+toc                     : false
 filters:
   - pandoc-crossref
   - citeproc
 variables:
-  revealjs-url: "../../reveal.js"
-  controls: 'false'
-  progress: 'true'
-  hash: 'true'
-  hashOneBasedIndex: 'true'
-  width: '1280'
-  height: '720'
+  controls              : 'false'
+  hash                  : 'true'
+  hashOneBasedIndex     : 'true'
+  progress              : 'true'
+  revealjs-url          : "../../reveal.js"
+  width                 : '1280'
+  height                : '720'
 metadata:
-  figureTitle: Figura
-  tableTitle : Tabela
-  lang: pt-BR
-  csl: "_csl/chicago-author-date.csl"
-  cssLabelSep: "&ndash;"
-  suppress-bibliography: false
+  csl                   : "_csl/chicago-author-date.csl"
+  cssLabelSep           : "&ndash;"
+  figureTitle           : Figura
+  lang                  : pt-BR
+  tableTitle            : Tabela
+  suppress-bibliography : false
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
     data-background-size: cover

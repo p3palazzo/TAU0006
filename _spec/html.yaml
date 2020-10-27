@@ -1,19 +1,20 @@
-from           : markdown+raw_tex
-to             : html
-standalone     : true
-file-scope     : true
-css            : "assets/main.css"
-number-sections: false
-bibliography   : biblio.bib
-cite-method    : citeproc
-fail-if-warnings: true
-shift-heading-level-by: 1
+from                   : markdown+raw_tex
+to                     : html
+bibliography           : biblio.bib
+cite-method            : citeproc
+css                    : "assets/main.css"
+fail-if-warnings       : true
+file-scope             : true
+number-sections        : false
+self-contained         : false
+shift-heading-level-by : 1
+standalone             : true
 filters:
   - pandoc-crossref
-  - pandoc-citeproc
+  - citeproc
 metadata:
-  lang: pt-BR
-  figureTitle: Figura
-  cssLabelSep: "&ndash;"
-  csl: "_csl/chicago-fullnote-bibliography-with-ibid.csl"
+  csl                  : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
+  cssLabelSep          : "&ndash;"
+  figureTitle          : Figura
+  lang                 : pt-BR
   suppress-bibliography: true
