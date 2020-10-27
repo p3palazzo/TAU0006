@@ -3,9 +3,8 @@ to                      : revealjs
 css                     : "../../assets/css/slide.css"
 bibliography            : biblio.bib
 cite-method             : citeproc
-fail-if-warnings          : true
+fail-if-warnings        : true
 file-scope              : true
-self-contained          : true
 slide-level             : 2
 standalone              : true
 toc                     : false
