@@ -4,6 +4,15 @@ on:
   push:
     branches: [ master ]
 jobs:
+  rclone:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wei/rclone@v1.1.1
+        env:
+          RCLONE_CONF: ${{ secrets.unbbr_sharepoint }}
+        with:
+          args: copy tau0006-sharepoint:Equipe/ ${{ github.workspace }}/figures/
+      - run: tree -L 2 ${{ github.workspace }}/figures/
   jekyll:
     runs-on: ubuntu-latest
     steps:
