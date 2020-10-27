@@ -11,13 +11,6 @@ abstract: |
   *hôtel* francês: soluções funcionais da modernidade.
 ---
 
-# Da tipologia espacial ao projeto geométrico #
-
-- Segundo Argan, mas alertar sobre noção de "progresso"
-- Bernini: Classicismo para além do clássico
-- Borromini e Guarini
-- Plautilla Bricci: círculo de Elpidio Benedetti
-
 # Elementos de arquitetura ou elementos de decoração #
 
 - Louvre de Lescot a Du Cerceau: como articular as ordens clássicas com
@@ -28,6 +21,13 @@ abstract: |
 - As duas fachadas da Sorbonne por Lemercier.
 
 - Mansart, Le Vau e a adaptação do barroco romano.
+
+# Da tipologia espacial ao projeto geométrico #
+
+- Segundo Argan, mas alertar sobre noção de "progresso"
+- Bernini: Classicismo para além do clássico
+- Borromini e Guarini
+- Plautilla Bricci: círculo de Elpidio Benedetti
 
 # Bioclimatismo e arquitetura clássica #
 
