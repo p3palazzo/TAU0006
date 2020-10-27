@@ -599,7 +599,7 @@ Para quem se encontra no início, por assim dizer, de um desses
 ciclos, não existe o clássico e muito menos decadente. A obra de
 Brunelleschi no início do século XV não é a premonição do classicismo de
 Bramante, mas a própria obra de Brunelleschi plenamente realizada
-[@scott:1974architecture].
+[@scott:1914architecture].
 
 Nesse sentindo, a história da construção expõe as idas e vindas e os
 pontos e contato entre a erudição autoral e as tradições vernáculas. As
