@@ -2,7 +2,6 @@
 title   : "Arte clássica"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-lang    : pt-BR
 layout  : default
 parallaxBackgroundImage: https://www.integra.unb.br/s/tau0006-04-bg-todi/preview
 parallaxBackgroundSize: '3291px 4936px'
@@ -1145,9 +1144,9 @@ esfera, vários metros acima do centro da planta
 ([@Fig:consolazione-cupola]). De outro ponto de vista, todo o eixo
 vertical que vai do centro da planta até o lanternim da cúpula pode ser
 entendido como um centro dinâmico.
-
-![Santa Maria della Consolazione, intradorso da cúpula. @aldrighetti:2014tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG){#fig:consolazione-cupola}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Santa Maria della Consolazione, intradorso da cúpula. @aldrighetti:2014tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG){#fig:consolazione-cupola .stretch}
 
 ## 
 
