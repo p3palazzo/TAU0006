@@ -2,7 +2,6 @@
 title   : "Barroco e classicismo"
 subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-lang    : pt-BR
 layout  : default
 abstract: |
   **Barroco e classicismo --** Da tipologia espacial ao projeto

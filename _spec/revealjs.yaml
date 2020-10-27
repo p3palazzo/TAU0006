@@ -11,11 +11,11 @@ css         : "../../assets/css/slide.css"
 fail-if-warnings: true
 filters:
   - pandoc-crossref
-  - pandoc-citeproc
+  - citeproc
 variables:
   revealjs-url: "../../reveal.js"
   controls: 'false'
-  progress: 'false'
+  progress: 'true'
   hash: 'true'
   hashOneBasedIndex: 'true'
   width: '1280'
