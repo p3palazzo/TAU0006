@@ -21,7 +21,7 @@ DOCS    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/aula/%/index.html,$(DOCS))
 NOTAS  := $(patsubst _aula/%.md,_site/aula/%/notas.html,$(DOCS))
 
-deploy : _site/index.html $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
+deploy : _site $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
 # {{{1 Produtos PDF
 #      ============
@@ -53,10 +53,11 @@ tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
 .slides : $(SLIDES)
 	touch .slides
 
-_site/%.html : html.yaml %.md | _csl _site
+_site/%.html : html.yaml %.md | _csl
+	@mkdir -p _site
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
-_site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl _site
+_site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ -d $^
 
@@ -65,7 +66,7 @@ _site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl _site
 #-V multiplexSocketId=$(multiplexSocketId) \
 #-V multiplexUrl=$(multiplexUrl) \
 
-_site/aula/%/notas.html : html.yaml _aula/%.md | _csl _site
+_site/aula/%/notas.html : html.yaml _aula/%.md | _csl
 	@mkdir -p _site/aula/$*
 	$(PANDOC/CROSSREF) -o $@ -d $^ --css ../../assets/main.css
 
