@@ -22,6 +22,8 @@ abstract: |
 
 ## Fachadas, plano e recessão ##
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Itália da segunda metade do século XVI, há uma gradual elaboração das
 fachadas, sobretudo nas igrejas. Esse processo é análogo ao que acontece
