@@ -30,7 +30,7 @@ section.has-dark-background .author img, section#title-slide .author img { heigh
 
 section img.stretch { margin: -20px 0; padding: 0; object-fit: cover; }
 
-figcaption, div.subfigures > p { display: block; background: rgba(255, 255, 255, 0.5); position: fixed; bottom: 20px; z-index: 999; padding: 4px 20px; }
+figcaption, div.subfigures > p { display: block; background: #faecd699; position: fixed; bottom: 20px; z-index: 999; padding: 4px 20px; }
 
 .box { background: #ffffff33; }
 
