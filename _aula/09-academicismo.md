@@ -28,7 +28,7 @@ desde o século XII até o presente.
 
 * * * *
 
-![Fases de construção dos palácios do Louvre e das Tulherias, séculos XII a XIX. [Baseado em A.D.F. Hamlin (1915)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin%2C_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin%2C_History_of_Architecture.svg.png){#fig:louvre-hamlin}
+![Fases de construção dos palácios do Louvre e das Tulherias, séculos XII a XIX. [Baseado em A.D.F. Hamlin (1915)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg.png){#fig:louvre-hamlin}
 
 [Baseado em A.D.F. Hamlin (1915)]: https://commons.wikimedia.org/wiki/File:Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg
 
@@ -44,9 +44,9 @@ iluminura criada no início do século XV pelos irmãos Limbourg, três
 artistas holandeses, para o livro de horas (ou seja, de orações) do
 duque de Berry ([@Fig:louvre-berry]).
 
-![Vista do Louvre pelos irmãos Limbourg, [*Riquíssimas horas do duque de Berry* (1412--1416)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg/884px-Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg){#fig:louvre-berry}
+![Vista do Louvre pelos irmãos Limbourg, [*Riquíssimas horas do duque de Berry* (1412--1416)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg/884px-Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg){#fig:louvre-berry}
 
-[*Riquíssimas horas do duque de Berry* (1412--1416)]: https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg
+[*Riquíssimas horas do duque de Berry* (1412--1416)]: https://commons.wikimedia.org/wiki/File:Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-vue-moyen-age-jc-golvin.jpg"}
@@ -76,7 +76,7 @@ sua função militar.
 ![Louvre no século XV, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg){#fig:louvre-golvin}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre%2C_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre%2C_2016).jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir daí, ele passa a funcionar sobretudo como um satélite do
@@ -87,7 +87,7 @@ debaixo das sucessivas reconstruções do palácio
 ([@Fig:louvre-saintlouis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Salão de audiências de São Luís, Louvre, século XIII. [Tangopaso (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre%2C_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre%2C_2016).jpg){#fig:louvre-saintlouis .stretch}
+![Salão de audiências de São Luís, Louvre, século XIII. [Tangopaso (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg){#fig:louvre-saintlouis .stretch}
 
 [Tangopaso (2016)]: https://commons.wikimedia.org/wiki/File:New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg
 
@@ -129,7 +129,7 @@ importante ainda, ela prevê o rebatimento da composição de 1546 de
 Pierre Lescot nas elevações sobre o pátio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Louis Poisson, *Grande desígnio* de Henrique IV. [Castelo de Fontainebleau, c. 1600--1615][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grand_dessein_d’Henri_IV_(château_du_Louvre)%2C_vers_1600-1615.jpg/867px-Grand_dessein_d’Henri_IV_(château_du_Louvre)%2C_vers_1600-1615.jpg){#fig:louvre-poisson .stretch}
+![Louis Poisson, *Grande desígnio* de Henrique IV. [Castelo de Fontainebleau, c. 1600--1615][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg/867px-Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg){#fig:louvre-poisson .stretch}
 
 [Castelo de Fontainebleau, c. 1600--1615]: https://commons.wikimedia.org/wiki/File:Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg
 
@@ -172,9 +172,9 @@ Lemercier mantém a simetria do conjunto e estabelece a coerência da
 composição de conjunto como um valor superior ao ego do arquiteto, ou
 mesmo à ideologia de expressar o estilo "do seu tempo" ([@Fig:louvre-cour-lemercier]).
 
-![Pátio Quadrado do Louvre, vista das alas Lescot e Lemercier (oeste), 1546--1642. [King of Hearts (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louvre_Cour_Carr%C3%A9e_June_2010.jpg/1024px-Louvre_Cour_Carr%C3%A9e_June_2010.jpg){#fig:louvre-cour-lemercier .stretch}
+![Pátio Quadrado do Louvre, vista das alas Lescot e Lemercier (oeste), 1546--1642. [King of Hearts (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louvre_Cour_Carrée_June_2010.jpg/1024px-Louvre_Cour_Carrée_June_2010.jpg){#fig:louvre-cour-lemercier .stretch}
 
-[King of Hearts (2010)]: https://commons.wikimedia.org/wiki/File:Louvre_Cour_Carr%C3%A9e_June_2010.jpg
+[King of Hearts (2010)]: https://commons.wikimedia.org/wiki/File:Louvre_Cour_Carrée_June_2010.jpg
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -187,9 +187,9 @@ reproduzida no catálogo de *Arquitetura francesa* de Jean Marot
 ao gosto das primeiras décadas do século XVII.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. [Jean Marot (1659)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L%27Architecture_fran%C3%A7aise_%28Marot%29_BnF_RES-V-371_164va-f349_Louvre%2C_Dessein_de_la_pens%C3%A9e_de_Lemercier_pour_la_principale_entr%C3%A9e_%28adjusted%29.jpg/1280px-L%27Architecture_fran%C3%A7aise_%28Marot%29_BnF_RES-V-371_164va-f349_Louvre%2C_Dessein_de_la_pens%C3%A9e_de_Lemercier_pour_la_principale_entr%C3%A9e_%28adjusted%29.jpg){#fig:louvre-lemercier-orientale .stretch}
+![Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. [Jean Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg/1280px-L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg){#fig:louvre-lemercier-orientale .stretch}
 
-[Jean Marot (1659)]: https://commons.wikimedia.org/wiki/File:L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pens%C3%A9e_de_Lemercier_pour_la_principale_entr%C3%A9e_(adjusted).jpg
+[Jean Marot (1686)]: https://commons.wikimedia.org/wiki/Category:L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_%E2%80%93_Gallica_2013
 
 * * * *
 
@@ -211,7 +211,7 @@ obras públicas começa a tomar forma.
 ![Jacques Lemercier (1585--1654). Retrato por [Philippe de Champaigne (1644)][]](https://upload.wikimedia.org/wikipedia/commons/2/2f/JLemercierPdeChampagne.jpg){#fig:lemercier-champaigne .stretch}
 :::
 ::: {.column width=50%}
-![Luís XIII (1610--1643). Retrato por [Philippe de Champaigne (1635)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/473px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg){#fig:louisxiii-champaigne .stretch}
+![Luís XIII (1610--1643). Retrato por [Philippe de Champaigne (1635)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII,_rey_de_Francia_(Philippe_de_Champaigne).jpg/473px-Luis_XIII,_rey_de_Francia_(Philippe_de_Champaigne).jpg){#fig:louisxiii-champaigne .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -238,24 +238,25 @@ públicas da Coroa.
 ![Jean-Baptiste Colbert (1619--1683). Retrato por [Philippe de Champaigne (1655)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Colbert1666.jpg/601px-Colbert1666.jpg){#fig:colbert-champaigne .stretch}
 :::
 ::: {.column width=50%}
-![Cardeal Júlio Mazarino (1602--1661). Retrato por [Pierre Mignard (1658--1660)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cardinal_Mazarin_by_Pierre_Mignard_%28Mus%C3%A9e_Cond%C3%A9%29.jpg/652px-Cardinal_Mazarin_by_Pierre_Mignard_%28Mus%C3%A9e_Cond%C3%A9%29.jpg){#fig:mazarin-mignard .stretch}
+![Cardeal Júlio Mazarino (1602--1661). Retrato por [Pierre Mignard (1658--1660)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg/652px-Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg){#fig:mazarin-mignard .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Philippe de Champaigne (1655)]: https://commons.wikimedia.org/wiki/File:Colbert1666.jpg
 
-[Pierre Mignard (1658--1660)]: https://commons.wikimedia.org/wiki/File:Cardinal_Mazarin_by_Pierre_Mignard_(Mus%C3%A9e_Cond%C3%A9).jpg
+[Pierre Mignard (1658--1660)]: https://commons.wikimedia.org/wiki/File:Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Colbert e Luís XIV têm visões semelhantes para o Estado: centralizado,
-administrado por profissionais, indutor do desenvolvimento industrial e
-comercial, mas também do progresso científico e do prestígio cultural.
-Todos esses aspectos são indissociáveis uns dos outros na política
-mercantilista e absolutista da segunda metade do século XVII.
+O burguês Colbert e o rei Luís XIV têm visões semelhantes para o Estado:
+centralizado, administrado por profissionais, indutor do desenvolvimento
+industrial e comercial, mas também do progresso científico e do
+prestígio cultural. Todos esses aspectos são indissociáveis uns dos
+outros na política mercantilista e absolutista da segunda metade do
+século XVII.
 
-![[Henri Testelin][], Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675--1680)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin%2C_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin%2C_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg){#fig:testelin .stretch}
+![[Henri Testelin][], Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675--1680)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg){#fig:testelin .stretch}
 
 [Henri Testelin]: https://commons.wikimedia.org/wiki/File:Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg
 
@@ -264,9 +265,54 @@ mercantilista e absolutista da segunda metade do século XVII.
 
 * * * *
 
-![[Retrato presumido de Louis II Le Vau (1612--1670)]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_ch%C3%A2teau_de_Versailles.jpg/642px-Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_ch%C3%A2teau_de_Versailles.jpg){#fig:levau-portrait .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+À primeira vista, o novo primeiro arquiteto do Rei, Louis Le Vau
+([@Fig:levau-portrait]), teria o perfil ideal para essa transformação.
+Ele vem de uma família de pedreiros e tem espírito prático, domínio de
+procedimentos construtivos e de orçamentos. Os Le Vau estão entre os
+responsáveis por aterrar e fazer a incorporação imobiliária da ilha
+Saint-Louis ([@fig:slouis-turgot]), transformando um simples banco de
+areia num dos endereços mais prestigiosos da capital.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Retrato presumido de Louis II Le Vau (1612--1670)]: https://commons.wikimedia.org/wiki/File:Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_ch%C3%A2teau_de_Versailles.jpg
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![[Retrato presumido de Louis II Le Vau (1612--1670)]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_château_de_Versailles.jpg/502px-Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_château_de_Versailles.jpg){#fig:levau-portrait .stretch}
+:::
+::: {.column width=50%}
+![Ilha Saint-Louis na planta de Paris de [Turgot (1739)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ile_St-Louis_Plan_de_Turgot_1739.jpg/723px-Ile_St-Louis_Plan_de_Turgot_1739.jpg){#fig:slouis-turgot .stretch width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Retrato presumido de Louis II Le Vau (1612--1670)]: https://commons.wikimedia.org/wiki/File:Portrait_of_a_man_with_the_Louvre_%E2%80%93_Les_collections_du_château_de_Versailles.jpg
+
+[Turgot (1739)]: https://commons.wikimedia.org/wiki/File:Ile_St-Louis_Plan_de_Turgot_1739.jpg
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na gestão de Mazarino, ainda na juventude de Luís XIV, se resolve o
+problema da desapropriação e demolição dos quarteirões que impediam a
+ampliação do Louvre. Le Vau executa um projeto simples para a ala sul do
+palácio, inspirado em Lemercier, mas que traz alguns elementos do gosto
+italiano recente, como as colunas colossais ([@Fig:louvre-sud-marot]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Fachada de Louis Le Vau para o exterior da ala sul do Louvre, 1657. [Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_c%C3%B4té_de_la_rivière_avant_quelle_fut_doublée.jpg/1280px-L%27Architecture_fran%C3%A7aise_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_c%C3%B4té_de_la_rivière_avant_quelle_fut_doublée.jpg){#fig:louvre-sud-marot .stretch}
+
+<!--._-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg/1280px-Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg" data-background-position="right"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Le Vau se entende bem com Mazarino, e desenvolve um projeto grandioso,
+porém viável, para o Louvre. Ele considera o entorno urbanístico,
+inclusive as vistas de uma margem para a outra do rio.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Projeto de Louis Le Vau para o Louvre e o collège des Quatre-Nations, 1659. Reproduzido em [Ballon (1999)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Coll%C3%A8ge_des_Quatre-Nations%2C_detail_-_Ballon_1999_p37_%28fig19%29.jpg/1280px-Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Coll%C3%A8ge_des_Quatre-Nations%2C_detail_-_Ballon_1999_p37_%28fig19%29.jpg){#fig:plan-de-la-paix-det .stretch}
+
+[Ballon (1999)]: https://commons.wikimedia.org/wiki/File:Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Coll%C3%A8ge_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg
 
 # Querela dos Antigos e dos Modernos #
 
