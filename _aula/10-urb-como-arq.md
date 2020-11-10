@@ -14,6 +14,8 @@ abstract: |
 
 ## Etiópia até o século XVII
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O império da Etiópia é o estado africano mais duradouro depois do antigo
 Egito, e um dos dois mais antigos reinos cristãos do mundo, junto com a
@@ -44,7 +46,7 @@ império Otomano ([@Fig:horn-1500]).
 
 ![O chifre da África c. 1500. @maparchive:horn-1500](https://www.themaparchive.com/wp-content/uploads/2017/07/products-Ax00844.jpg){#fig:horn-1500 .stretch}
 
-* * * *
+## {data-background-image="https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A rivalidade entre os otomanos, o império do Omã, e o reino de Portugal
@@ -53,28 +55,37 @@ oportunidade de abrir as tenazes da expansão islâmica
 ([@Fig:africa-1600]). Em 1520, o imperador Davi II recebe apoio militar
 direto de uma frota portuguesa contra o sultanato de Adal, aliado do
 império Otomano.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![África em 1600. @maparchive:africa-1600](https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg){#fig:africa-1600 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No entanto, as relações entre etíopes e europeus azedam no século XVII,
+Os padres jesuítas, além de serem teólogos e missionários que tentavam
+conduzir os etíopes da Igreja ortodoxa oriental para o catolicismo, eram
+também consultores respeitados em matérias de arquitetura e de
+engenharia militar. Aceitar a missionação dos jesuítas era também um
+gesto diplomático da parte dos imperadores etíopes que garantia o acesso
+a armas de fogo e ao apoio militar de Portugal.
+
+Mesmo assim, as relações entre etíopes e europeus azedam no século XVII,
 sobretudo por causa de disputas religiosas e territoriais entre os
-missionários jesuítas portugueses e espanhóis ([@Fig:sosenyos-patriarca;
+missionários jesuítas ([@Fig:sosenyos-patriarca;
 @Fig:windmueller-jesuit-map]) e a nobreza amárica (o povo amárico é o
 grupo étnico dominante na Etiópia, ao qual pertence a família imperial).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Visita do patriarca católico Afonso Mendes ao imperador Sosǝnyos da Etiópia, 1626](https://upload.wikimedia.org/wikipedia/commons/2/29/Sosenyos_greets_Alfonso_Mendes.jpg){#fig:sosenyos-patriarca .stretch width=100%}
+![Visita do patriarca católico Afonso Mendes ao imperador Sisínio I da Etiópia, 1626](https://upload.wikimedia.org/wikipedia/commons/2/29/Sosenyos_greets_Alfonso_Mendes.jpg){#fig:sosenyos-patriarca .stretch width=100%}
 :::
 ::: {.column width=50%}
 ![Missões jesuíticas na Etiópia, 1557--1632. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0001.jpg){#fig:windmueller-jesuit-map .stretch width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Palácios fortificados de Gondar ##
 
 ## {data-background-image="https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg"}
 
@@ -87,13 +98,33 @@ imperadores etíopes dos séculos XVI e XVII se acomodam algumas
 expectativas culturais europeias para conseguirem legitimidade
 diplomática e apoio militar. Dentre essas expectativas, as mais
 relevantes do ponto de vista urbanístico são o estabelecimento de várias
-missões jesuíticas ([@Fig:patriarca]) e a fundação de capitais
-fortificadas na região de Gondar.
+missões jesuíticas ([@Fig:patriarca]) e a construção de capitais
+fortificadas inspiradas nos castelos europeus.
 
 ![Ruínas da residência do Patriarca católico em Debsan, c. 1626--1627. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg){#fig:patriarca .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Palácios fortificados de Gondar ##
+## {data-background-image="https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tradição de capitais fortificadas na Etiópia é antiga, e remonta ao
+reino de Aksum e ao palácio de Dungur, construído do século IV ao VI d.C.
+([@Fig:dungur]).
+
+![Reconstituição do palácio fortificado de Dungur, Aksum, séculos IV--VI d.C.](https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg){#fig:dungur}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Dungur estabelece o modelo do palácio fortificado etíope como um
+complexo multifuncional. Em volta do edifício palaciano principal,
+vários espaços utilitários, militares, e uma igreja formam o perímetro
+do conjunto ([@Fig:dungur-plan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta do palácio fortificado de Dungur, Aksum](https://wildfiregames.com/forum/uploads/monthly_2019_11/580336680_Dungurpalaceplan.png.879c53d4a42da6763fd52acbfd1a5576.png){#fig:dungur-plan .stretch}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/83/Danqaz4.jpg"}
 
@@ -146,10 +177,119 @@ etíopes usavam pedra seca, argamassa de barro, e vãos arquitravados.
 
 ## Fasil Ghebbi ##
 
+## {data-background-image="https://intranet.abaco-arquitetura.com.br/s/EdfWmoMWfKbdJJm/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A maior e mais duradoura capital etíope da Idade Moderna é Fasil Ghebbi,
+também na região de Gondar. Esse grande complexo murado começa a ser
+construído em 1634, sob o imperador Fasílidas I, filho de Sisínio I, e
+continua a ser incrementado até o século XIX
+([@Fig:gondar-persp-monti]).
+
+![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por @monticorte:1938castelli](https://intranet.abaco-arquitetura.com.br/s/EdfWmoMWfKbdJJm/preview){#fig:gondar-persp-monti}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/1280px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Fasílidas expulsa os jesuítas, mas continua a se inspirar nos modelos
+arquitetônicos trazidos pelos europeus. O seu palácio em Fasil Ghebbi
+([@Fig:fasil-castle]) tem torres de planta circular, ameias e um torreão
+à maneira portuguesa ([@Fig:fasil-zamani]).
+
+![Castelo de Fasílidas, Fasil Ghebbi, 1634. [Savin (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/960px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg){#fig:fasil-castle}
+
+[Savin (2018)]: https://en.wikipedia.org/wiki/File:ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-iframe="https://youtube.com/embed/rGCT5fAeRIE?autoplay=1" data-background-interactive="false"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Modelo digital do palácio de Fasílidas. [Zamani Project (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/3D_model_of_Fasilides_Castle.jpg/893px-3D_model_of_Fasilides_Castle.jpg){#fig:fasil-zamani}
+
+[Zamani Project (2019)]: https://zamaniproject.org/site-ethiopia-gondar-fasil-ghebbi.html
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/1280px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O legado mais importante dos europeus, para além da influência no
+estilo, é a introdução da argamassa de cal. Esse componente construtivo
+facilita a execução de arcos e abóbadas --- essas formas já eram
+conhecidas e usadas na região, mas se tornam mais monumentais e
+regulares graças ao novo material, como nos salões do próprio palácio de
+Fasílidas ([@Fig:fasil-salon]).
+
+![Salão no palácio de Fasílidas, Fasil Ghebbi, 1634. [Sailko (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/979px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg){#fig:fasil-salon .stretch}
+
+[Sailko (2018)]: https://commons.wikimedia.org/wiki/File:Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg
+
+<!--._-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Ruínas de Gondar. [Davey (2007)][]](https://live.staticflickr.com/2074/2414819199_303b252528_c_d.jpg){#fig:gondar-daveyA width=100% .stretch}
+:::
+::: {.column width=50%}
+![Palácio de Fasílidas, Fasil Ghebbi. [Davey (2007)][]](https://live.staticflickr.com/2116/2415636310_edb484bee2_c_d.jpg){#fig:gondar-daveyB .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Davey (2007)]: https://www.flickr.com/photos/adavey/albums/72157604457628784
+
+## {data-background-image="https://live.staticflickr.com/7066/27120553206_a541f1aa3e_k_d.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espelho d'água e casa de banhos de Fasílidas ([@Fig:fasil-bath])
+continuam em uso até hoje como espaços cerimoniais do palácio,
+especialmente no festival de Timkat, ou epifania ([@Fig:timkat]).
+
+![Espelho d'água e casa de banhos de Fasílidas, Fasil Ghebbi. [Cotterill (2012)][]](https://live.staticflickr.com/7066/27120553206_f3d8c76a8d_c_d.jpg){#fig:fasil-bath}
+
+[Cotterill (2012)]: https://www.flickr.com/photos/cotterillmike/27120553206/
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Fasilides_Bath_Timkat.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Espelho d'água e casa de banho de Fasílidas na festa da epifania. [Dell (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fasilides_Bath_Timkat.JPG/1268px-Fasilides_Bath_Timkat.JPG){#fig:timkat}
+
+[Dell (2011)]: https://commons.wikimedia.org/wiki/File:Fasilides_Bath_Timkat.JPG
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Library_and_Chancellery_of_Yohannes_I.jpg/1280px-Library_and_Chancellery_of_Yohannes_I.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O filho de Fasílidas, Yohannes I, amplia o complexo edificado com a
+construção de uma chancelaria (edifício administrativo) e uma biblioteca
+([@Fig:chancery-library]).
+
+![Chancelaria e biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. [Gagnon (2012a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Library_and_Chancellery_of_Yohannes_I.jpg/1024px-Library_and_Chancellery_of_Yohannes_I.jpg){#fig:chancery-library}
+
+[Gagnon (2012a)]: https://commons.wikimedia.org/wiki/File:Library_and_Chancellery_of_Yohannes_I.jpg
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Library_of_Yohannes_I_02.jpg/1280px-Library_of_Yohannes_I_02.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A biblioteca é um dos edifícios mais bem conservados do conjunto, e
+também um dos que mais demonstram influência europeia
+([@Fig:fasil-library]) --- apesar de que o seu construtor, o imperador
+Yohannes I, expulsou e executou missionários católicos para reafirmar a
+Igreja ortodoxa etíope.
+
+![Biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. [Gagnon (2012b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Library_of_Yohannes_I_02.jpg/1024px-Library_of_Yohannes_I_02.jpg){#fig:fasil-library}
+
+[Gagnon (2012b)]: https://commons.wikimedia.org/wiki/File:Library_of_Yohannes_I_02.jpg
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Sob os imperadores Yohannes IV Menelik II, na segunda metade do século
+Sob os imperadores Yohannes IV e Menelik II, na segunda metade do século
 XIX, a Etiópia se aproveita do enfraquecimento dos reinos muçulmanos
 diante da colonização europeia e conquista as planícies a oeste e
 sudoeste, mas também o deserto a sudeste ([@Fig:et-menelik2]). Ao mesmo
