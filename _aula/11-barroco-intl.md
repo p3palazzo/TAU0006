@@ -188,7 +188,12 @@ XII e mais difundida no período Edo (séculos XVII a XIX).
 # Virtuosismo estrutural #
 
 - Guarini
-- Mansart tardio
+- Architecture à la française
+- Sinan
+
+Guarini, *Modo di misurare le fabbriche*: metodologia de levantamento da
+construção antiga, une a técnica moderna com o interesse pela
+Antiguidade.
 
 # Presságios #
 
