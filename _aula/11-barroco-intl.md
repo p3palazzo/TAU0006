@@ -187,13 +187,51 @@ XII e mais difundida no período Edo (séculos XVII a XIX).
 
 # Virtuosismo estrutural #
 
-- Guarini
-- Architecture à la française
-- Sinan
+## Guarini ##
 
-Guarini, *Modo di misurare le fabbriche*: metodologia de levantamento da
-construção antiga, une a técnica moderna com o interesse pela
-Antiguidade.
+A exploração das formas estruturais tornadas possíveis graças ao
+desenvolvimento da tecnologia e da matemática no Renascimento se
+associa, desde a segunda metade do século XVII, a um interesse renovado
+pelo estudo das ruínas da Antiguidade.
+
+A obra do frade e arquiteto italiano Guarino Guarini (1604--1672) é um
+exemplo dessa cooperação entre modernidade matemática e antiquarianismo
+estético. O seu livro *Modo di misurare le fabbriche* (Modo de medir as
+construções) propõe uma metodologia de levantamento da construção antiga
+baseada em teoremas geométricos e algébricos. Vários desses teoremas
+eram incomuns na prática construtiva corrente da época e dependiam de
+conhecimentos matemáticos razoavelmente avançados.
+
+## Wren ##
+
+O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
+Guarini e tinha um interesse semelhante pela relação entre construção e
+matemática.
+
+## Arquitetura à francesa ##
+
+O historiador da arquitetura Jean-Marie Pérouse de Montclos deu a
+alcunha de "arquitetura à francesa" a um conjunto de conhecimentos
+técnicos e de práticas construtivas herdadas do período gótico e
+plenamente integradas à arquitetura do Renascimento na França.
+
+Philibert de L'Orme, contemporâneo de Serlio, foi um dos principais
+responsáveis por codificar e difundir por escrito a arquitetura à
+francesa. A sua atuação prática e teórica em torno da metade do século
+XVI marca o início de um processo de transferência e apropriação de
+conhecimentos das corporações de ofício da construção para os
+arquitetos.
+
+* * * *
+
+A difusão dos conhecimentos técnicos das corporações de ofício para os
+arquitetos vem associada à transposição da autoridade para fazer e,
+sobretudo, falar de arquitetura entre esses dois grupos. Este último
+movimento se estende, a partir do final do século XVII, com a gradual
+transferência de autoridade teórica dos arquitetos para os intelectuais
+letrados.
+
+## Sinan ##
 
 # Presságios #
 
