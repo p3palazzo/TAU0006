@@ -220,7 +220,7 @@ conhecimentos matemáticos razoavelmente avançados ([@Fig:misurare]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:misurare}
 ::: {.column width=50%}
-![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB .stretch width=100%}
+![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareA .stretch width=100%}
 :::
 ::: {.column width=50%}
 ![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB .stretch width=100%}
