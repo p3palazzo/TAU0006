@@ -289,26 +289,55 @@ Turim.
 
 ## Arquitetura à francesa ##
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/23/Villard_de_Honnecourt_Traits.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O historiador da arquitetura Jean-Marie Pérouse de Montclos deu a
 alcunha de "arquitetura à francesa" a um conjunto de conhecimentos
 técnicos e de práticas construtivas herdadas do período gótico e
 plenamente integradas à arquitetura do Renascimento na França.
 
+![Cadernos de Villard de Honnecourt, século XIII. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Cour_Philibert_Delorme_Lyon.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Philibert de L'Orme, contemporâneo de Serlio, foi um dos principais
 responsáveis por codificar e difundir por escrito a arquitetura à
-francesa. A sua atuação prática e teórica em torno da metade do século
+francesa.
+
+![Philibert de l'Orme, Hôtel Bullioud, Lião, século XVI. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A sua atuação prática e teórica em torno da metade do século
 XVI marca o início de um processo de transferência e apropriação de
 conhecimentos das corporações de ofício da construção para os
 arquitetos.
 
-* * * *
+![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. @roland:2008letude](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg/1280px-P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A difusão dos conhecimentos técnicos das corporações de ofício para os
 arquitetos vem associada à transposição da autoridade para fazer e,
-sobretudo, falar de arquitetura entre esses dois grupos. Este último
-movimento se estende, a partir do final do século XVII, com a gradual
-transferência de autoridade teórica dos arquitetos para os intelectuais
-letrados.
+sobretudo, falar de arquitetura entre esses dois grupos.
+
+![Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. [Mbzt (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg){#fig:hardouin-arles}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Este último movimento se estende, a partir do final do século XVII, com
+a gradual transferência de autoridade teórica dos arquitetos para os
+intelectuais letrados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -333,6 +362,12 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 [Livioandronico2013 (2016)]: https://commons.wikimedia.org/wiki/File:San_Lorenzo_(Turin)_-_Dome_interior.jpg
 
 [Sailko (2011b)]: https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_cupola_09.JPG
+
+[Quicherat (1886)]: https://commons.wikimedia.org/wiki/File:Villard_de_Honnecourt_Traits.png
+
+[Belzunce (2012)]: https://commons.wikimedia.org/wiki/File:Cour_Philibert_Delorme_Lyon.jpg
+
+[Mbzt (2012)]: https://commons.wikimedia.org/wiki/File:P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg?uselang=fr
 
 <!--._-->
 
