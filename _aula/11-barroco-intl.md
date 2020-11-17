@@ -215,7 +215,17 @@ O seu livro *Modo di misurare le fabbriche* (Modo de medir as
 construções) propõe uma metodologia de levantamento da construção antiga
 baseada em teoremas geométricos e algébricos. Vários desses teoremas
 eram incomuns na prática construtiva corrente da época e dependiam de
-conhecimentos matemáticos razoavelmente avançados.
+conhecimentos matemáticos razoavelmente avançados ([@Fig:misurare]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:misurare}
+::: {.column width=50%}
+![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB .stretch width=100%}
+:::
+::: {.column width=50%}
+![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB .stretch width=100%}
+:::
+Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1280px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg"}
@@ -259,19 +269,23 @@ Turim.
 
 ![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan .stretch width=100%}
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1280px-Torino,_san_lorenzo,_10.JPG"}
 
-![Interior da igreja de São Lourenço]()
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Interior da igreja de São Lourenço. [Sailko (2011a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1024px-Torino,_san_lorenzo,_10.JPG){#fig:slorenzo-int}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1280px-San_Lorenzo_(Turin)_-_Dome_interior.jpg"}
 
-![Cúpula da igreja de São Lourenço]()
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Cúpula da igreja de São Lourenço. [Livioandronico2013 (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg){#fig:slorenzo-dome}
 
-## Wren ##
+<!--._-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
-Guarini e tinha um interesse semelhante pela relação entre construção e
-matemática.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1280px-Torino,_san_lorenzo,_cupola_09.JPG"}
+
+![Cúpula da igreja de São Lourenço. [Sailko (2011b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG){#fig:slorenzo-dome-persp}
 
 ## Arquitetura à francesa ##
 
@@ -296,6 +310,10 @@ movimento se estende, a partir do final do século XVII, com a gradual
 transferência de autoridade teórica dos arquitetos para os intelectuais
 letrados.
 
+* * * *
+
+Michel de Frémin, *Mémoires critiques d'architecture* 1702
+
 [Loth (2014)]: https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/
 
 [Anônimo (1686)]: https://commons.wikimedia.org/wiki/Image:Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg
@@ -310,9 +328,21 @@ letrados.
 
 [Gurlitt (1882)]: https://commons.wikimedia.org/wiki/File:Guarini_Lorenzo.jpg
 
+[Sailko (2011a)]: https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_10.JPG
+
+[Livioandronico2013 (2016)]: https://commons.wikimedia.org/wiki/File:San_Lorenzo_(Turin)_-_Dome_interior.jpg
+
+[Sailko (2011b)]: https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_cupola_09.JPG
+
 <!--._-->
 
 ## Sinan ##
 
 # Presságios #
+
+## Wren ##
+
+O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
+Guarini e tinha um interesse semelhante pela relação entre construção e
+matemática.
 
