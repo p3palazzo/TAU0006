@@ -189,18 +189,83 @@ XII e mais difundida no período Edo (séculos XVII a XIX).
 
 ## Guarini ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A exploração das formas estruturais tornadas possíveis graças ao
 desenvolvimento da tecnologia e da matemática no Renascimento se
 associa, desde a segunda metade do século XVII, a um interesse renovado
 pelo estudo das ruínas da Antiguidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-A obra do frade e arquiteto italiano Guarino Guarini (1604--1672) é um
-exemplo dessa cooperação entre modernidade matemática e antiquarianismo
-estético. O seu livro *Modo di misurare le fabbriche* (Modo de medir as
+![Henry Parke, medição do templo de Castor e Pólux. Ap. [Loth (2014)][]](https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg){#fig:parke-castor .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A obra do frade teatino e arquiteto italiano Guarino Guarini
+(1624--1683) é um exemplo dessa cooperação entre modernidade matemática
+e antiquarianismo estético.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Retrato póstumo de Guarino Guarini. [Anônimo (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg){#fig:guarini .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O seu livro *Modo di misurare le fabbriche* (Modo de medir as
 construções) propõe uma metodologia de levantamento da construção antiga
 baseada em teoremas geométricos e algébricos. Vários desses teoremas
 eram incomuns na prática construtiva corrente da época e dependiam de
 conhecimentos matemáticos razoavelmente avançados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1280px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Fachada do palácio Carignano, Turim. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg){#fig:madama-dissegni}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/4e/df/20/4edf20972f0a3660fe2683e739f0688b.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Elevação interior do projeto para a igreja da Divina Providência, Lisboa. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg){#fig:lisboa-dissegni}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Guarino Guarini, capela do Santo Sudário, Turim, 1668--1694. [Guarini (1682)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg){#fig:sindone-sez .stretch width=100%}
+:::
+::: {.column width=50%}
+![Exterior da capela do Santo Sudário. [Phyrexian (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG){#fig:sindone-ext .stretch width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Interior da cúpula da capela do Santo Sudário. [Bottallo][]](https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg){#fig:sindone-int}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para além do domínio da concepção estrutural, Guarini tem uma vasta
+cultura arquitetônica adquirida em muitas viagens pela Europa. Em
+Córdoba, ele pode ter conhecido a mesquita-catedral e a sua cúpula
+nervurada. A mesma composição aparece na sua igreja de São Lourenço, em
+Turim.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan .stretch width=100%}
+
+## {data-background-image=""}
+
+![Interior da igreja de São Lourenço]()
+
+## {data-background-image=""}
+
+![Cúpula da igreja de São Lourenço]()
 
 ## Wren ##
 
@@ -230,6 +295,22 @@ sobretudo, falar de arquitetura entre esses dois grupos. Este último
 movimento se estende, a partir do final do século XVII, com a gradual
 transferência de autoridade teórica dos arquitetos para os intelectuais
 letrados.
+
+[Loth (2014)]: https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/
+
+[Anônimo (1686)]: https://commons.wikimedia.org/wiki/Image:Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg
+
+[Guarini (1686)]: https://commons.wikimedia.org/wiki/Category:Dissegni_d'architettura_civile_et_ecclesiastica
+
+[Guarini (1682)]: https://commons.wikimedia.org/wiki/File:Guarini_sindone.jpg
+
+[Phyrexian (2019)]: https://commons.wikimedia.org/wiki/File:Torino_-_Palazzo_Reale_0488.JPG
+
+[Bottallo]: https://www.quotidianopiemontese.it/2018/09/27/dopo-ventunanni-dallincendio-restituita-al-pubblico-la-cappella-della-sindone-video-e-fotogallery/img_5940_crediti-daniele-bottallo/
+
+[Gurlitt (1882)]: https://commons.wikimedia.org/wiki/File:Guarini_Lorenzo.jpg
+
+<!--._-->
 
 ## Sinan ##
 
