@@ -24,7 +24,10 @@ abstract: |
 - English landscape
 - Goethe
 
-# Gótico como problema #
+## Gótico como problema ##
 
 (Neo)gótico inglês?
+
+# Decoro e caráter #
+
 
