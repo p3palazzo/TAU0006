@@ -41,19 +41,18 @@ difundir sobretudo no norte da Europa, muitas vezes em edições de bolso.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O livro ilustrado de Wendel Dietterlin ([@Fig:dietterlin-auto]),
-publicado no final do século XVI na Bavária, é um dos mais difundidos
-nesse gênero ([@Fig:dietterlin]).
+O livro ilustrado de Wendel Dietterlin, publicado no final do século XVI
+na Bavária, é um dos mais difundidos nesse gênero ([@Fig:dietterlin]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:dietterlin}
 ::: {.column width=50%}
-![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page7-531px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:dietterlin-auto .stretch width=100%}
+![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page7-531px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:dietterlinA .stretch width=100%}
 :::
 ::: {.column width=50%}
-![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page5-522px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:dietterlin-front .stretch width=100%}
+![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page5-522px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:dietterlinB .stretch width=100%}
 :::
-[Wendel Dietterlin, *Architectura* (1598)][]
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -72,7 +71,7 @@ apresentados cada um numa única prancha ([@Fig:diet74-77]).
 ::: {.column width=50%}
 ![pr. 77](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page157-506px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:diet77 .stretch width=100%}
 :::
-[Wendel Dietterlin, *Architectura* (1598)][]
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -91,7 +90,7 @@ encadernado e circulavam amplamente.
 ::: {.column width=50%}
 ![pr. 85](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf/page173-506px-Getty_Research_Institute_%28IA_architectvravona00diet%29.pdf.jpg){#fig:diet85 .stretch width=100%}
 :::
-[Wendel Dietterlin, *Architectura* (1598)][]
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
