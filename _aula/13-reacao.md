@@ -167,14 +167,23 @@ Estados Unidos ([@Fig:uda-pattern]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A obra de Colen Campbell intitulada *Vitruvius Britannicus*, de 1715, é
-um marco na consolidação dos livros de padrões
+um marco na consolidação dos livros de arquitetura na Inglaterra
 ([@Fig:britannicus-front]).
 
 ![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_%28IA_gri_33125008447647%29.pdf/page9-544px-Getty_Research_Institute_%28IA_gri_33125008447647%29.pdf.jpg){#fig:britannicus-front .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Essa publicação vai além do catálogo de ordens clássicas ou de motivos
-detalhados, e oferece também plantas completas de mansões.
+detalhados, e oferece também plantas completas de edifícios ---
+sobretudo mansões e palacetes. Ela é inspirada no tratado de Palladio,
+que também contém um inventário de plantas de moradas nobres.
+
+A primeira tradução de Palladio diretamente do italiano para o inglês é
+feita por Isaac Ware, e publicada em 1738.
+
+Por essa mesma época, o mercado editorial britânico em arquitetura se
+diversifica, e alguns autores lançam manuais de ofício (*handbooks*). Um
+dos primeiros é o *Treasury of Designs* por Batty Langley, de 1740.
 
 [Aikin & Enfield (1818)]: https://commons.wikimedia.org/wiki/File:General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg
 
