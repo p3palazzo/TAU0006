@@ -1,7 +1,7 @@
 ---
 title   : "Reação clássica"
 subtitle: "Tópico XIII"
-author  : "Pedro P. Palazzo"
+author  : "Pedro P. Palazzo e Sylvia Ficher"
 layout  : default
 abstract: |
   **Reação clássica --** Tradição, correção e inovação como problemas da
@@ -173,17 +173,45 @@ um marco na consolidação dos livros de arquitetura na Inglaterra
 ![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_%28IA_gri_33125008447647%29.pdf/page9-544px-Getty_Research_Institute_%28IA_gri_33125008447647%29.pdf.jpg){#fig:britannicus-front .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Essa publicação vai além do catálogo de ordens clássicas ou de motivos
-detalhados, e oferece também plantas completas de edifícios ---
-sobretudo mansões e palacetes. Ela é inspirada no tratado de Palladio,
-que também contém um inventário de plantas de moradas nobres.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1280px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg"}
 
-A primeira tradução de Palladio diretamente do italiano para o inglês é
-feita por Isaac Ware, e publicada em 1738.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa publicação vai além do catálogo de ordens clássicas ou de motivos
+detalhados, e oferece também plantas e fachadas completas de edifícios
+--- sobretudo mansões e palacetes ([@Fig:wilbury]).
+
+::: {#fig:wilbury}
+![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv}
+
+![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan}
+
+William Benson, Wilbury House, 1710. In *Vitruvius Britannicus* 
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1280px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ela é inspirada no tratado de Palladio, que também contém um inventário
+de plantas de moradas nobres ([Fig:dellatorre]).
+
+![Andrea Palladio, palácio Della Torre, Verona. In [*The Four Books of Architecture* (1738)][], v. 2, pr. VII](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg/1024px-Palazzo_Della_Torre_Verona_Ware_2.VII.jpg){#fig:dellatorre}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A primeira tradução de
+Palladio diretamente do italiano para o inglês é feita por Isaac Ware, e
+publicada em 1738. No entanto, o original italiano era conhecido na
+Inglaterra desde a época de Inigo Jones, no início do século XVII.
 
 Por essa mesma época, o mercado editorial britânico em arquitetura se
 diversifica, e alguns autores lançam manuais de ofício (*handbooks*). Um
-dos primeiros é o *Treasury of Designs* por Batty Langley, de 1740.
+dos primeiros é o *British Carpenter* de Francis Price, publicado
+em 1733.
 
 [Aikin & Enfield (1818)]: https://commons.wikimedia.org/wiki/File:General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg
 
@@ -206,6 +234,8 @@ dos primeiros é o *Treasury of Designs* por Batty Langley, de 1740.
 [Dietterlin, *Architectura* (1598)]: https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf
 
 [Colen Campbell, *Vitruvius Britannicus* (1715)]: https://commons.wikimedia.org/w/index.php?title=File%3AGetty_Research_Institute_(IA_gri_33125008447647).pdf
+
+[*The Four Books of Architecture* (1738)]: https://commons.wikimedia.org/wiki/Category:The_four_books_of_architecture_(1738)
 
 # Novidade e correção na crítica do século XVIII #
 
