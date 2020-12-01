@@ -203,15 +203,118 @@ de plantas de moradas nobres ([Fig:dellatorre]).
 ![Andrea Palladio, palácio Della Torre, Verona. In [*The Four Books of Architecture* (1738)][], v. 2, pr. VII](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg/1024px-Palazzo_Della_Torre_Verona_Ware_2.VII.jpg){#fig:dellatorre}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-A primeira tradução de
-Palladio diretamente do italiano para o inglês é feita por Isaac Ware, e
-publicada em 1738. No entanto, o original italiano era conhecido na
-Inglaterra desde a época de Inigo Jones, no início do século XVII.
+* * * *
 
+A primeira tradução de Palladio diretamente do italiano para o inglês é
+feita por Isaac Ware, e publicada em 1738 ([@Fig:ware]). No entanto, o
+original italiano era conhecido na Inglaterra desde a época de Inigo
+Jones, no início do século XVII.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:ware}
+::: {.column width=50%}
+![frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_%28IA_gri_33125011569684%29.pdf/page10-900px-The_four_books_of_architecture_%28IA_gri_33125011569684%29.pdf.jpg){#fig:ware-front .stretch width=100%}
+:::
+::: {.column width=50%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_%28IA_gri_33125011569684%29.pdf/page11-900px-The_four_books_of_architecture_%28IA_gri_33125011569684%29.pdf.jpg){#fig:ware-rosto .stretch width=100%}
+:::
+Palladio, [*The Four Books of Architecture* (1738)], trad. Isaac Ware
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por essa mesma época, o mercado editorial britânico em arquitetura se
 diversifica, e alguns autores lançam manuais de ofício (*handbooks*). Um
 dos primeiros é o *British Carpenter* de Francis Price, publicado
-em 1733.
+em 1733. ([@Fig:britcarp]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp}
+::: {.column width=50%}
+![endosso](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page8-964px-thumbnail.pdf.jpg){#fig:britcarp-end .stretch width=100%}
+:::
+::: {.column width=50%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page9-964px-thumbnail.pdf.jpg){#fig:britcarp-front .stretch width=100%}
+:::
+[Price, *The British Carpenter* (1735)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+Longe de ser um mero compilado de imagens de referência, como era o
+álbum de Dietterlin, o *British Carpenter* é um manual razoavelmente
+sistemático dos conhecimentos do ofício da carpintaria. O livro cobre
+desde os traçados geométricos elementares para a disposição do canteiro
+([@Fig:britcarp-a]) até os detalhes construtivos das conexões
+([@Fig:britcarp-c]).
+
+:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-ac}
+::: {.column width=50%}
+![traçados geométricos elementares, pr. A](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page20-964px-thumbnail.pdf.jpg){#fig:britcarp-a .stretch width=100%}
+:::
+::: {.column width=50%}
+![detalhes de ligações, pr. C](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page30-964px-thumbnail.pdf.jpg){#fig:britcarp-c .stretch width=100%}
+:::
+[Price, *The British Carpenter* (1735)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ele inclui desde o projeto geral de assoalhos ([@Fig:britcarp-cd]) aos
+métodos de projeção de telhados sobre plantas irregulares
+([@Fig:britcarp-fg]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![projeto de assoalhos, pr. C\*, D\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page33-964px-thumbnail.pdf.jpg){#fig:britcarp-cd .stretch width=100%}
+:::
+::: {.column width=50%}
+![projeção de telhado sobre planta irregular, pr. F\*, G\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page48-964px-thumbnail.pdf.jpg){#fig:britcarp-fg .stretch width=100%}
+:::
+[Price, *The British Carpenter* (1735)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O escopo do livro de Price mostra o alcance do ofício da carpintaria e a
+autonomia que essa profissão detinha no mundo britânico do século XVIII,
+comparável ao dos pedreiros na França da mesma época.
+
+![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa primazia do carpinteiro sobre os outros ofícios das construção
+persiste até hoje no Reino Unido e nos Estados Unidos ([@Fig:nwslc]).
+
+![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *British Carpenter* inclui explicações sobre a ergonomia e a
+construção de escadas ([@Fig:britcarp-uw]). Ele termina com um apêndice
+detalhando as cinco ordens clássicas segundo Palladio e algumas
+composições de portadas residenciais baseadas nessas ordens
+([@Fig:britcarp-app]) --- isso porque essas portadas geralmente eram
+construídas em madeira na cultura construtiva britânica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-uw-app}
+::: {.column width=50%}
+![construção de escadas, pr. U\*, W\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page140-964px-thumbnail.pdf.jpg){#fig:britcarp-uw .stretch width=100%}
+:::
+::: {.column width=50%}
+![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app .stretch width=100%}
+:::
+[Price, *The British Carpenter* (1735)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Aikin & Enfield (1818)]: https://commons.wikimedia.org/wiki/File:General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg
 
@@ -227,8 +330,6 @@ em 1733.
 
 [pr. 85]: https://commons.wikimedia.org/wiki/File:Design_for_a_Lavabo,_Plate_85_from_Dietterlin%27s_Architectura_MET_DP828570.jpg
 
-<!--,_-->
-
 [Py4nf (2011)]: https://commons.wikimedia.org/wiki/File:Chafariz_dos_contos_01.jpg
 
 [Dietterlin, *Architectura* (1598)]: https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf
@@ -236,6 +337,14 @@ em 1733.
 [Colen Campbell, *Vitruvius Britannicus* (1715)]: https://commons.wikimedia.org/w/index.php?title=File%3AGetty_Research_Institute_(IA_gri_33125008447647).pdf
 
 [*The Four Books of Architecture* (1738)]: https://commons.wikimedia.org/wiki/Category:The_four_books_of_architecture_(1738)
+
+[Price, *The British Carpenter* (1735)]: https://commons.wikimedia.org/wiki/File:The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf
+
+[Georg Forster, English joiners, 1816]: https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg
+
+[North Warwickshire and South Leicestershire College]: https://www.nwslc.ac.uk/course/carpentry-and-joinery/
+
+<!--,_-->
 
 # Novidade e correção na crítica do século XVIII #
 
