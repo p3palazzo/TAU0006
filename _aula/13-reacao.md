@@ -286,15 +286,6 @@ comparável ao dos pedreiros na França da mesma época.
 ![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa primazia do carpinteiro sobre os outros ofícios das construção
-persiste até hoje no Reino Unido e nos Estados Unidos ([@Fig:nwslc]).
-
-![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -314,6 +305,175 @@ construídas em madeira na cultura construtiva britânica.
 ![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter%2C_or%2C_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art%2C_in_a_more_useful_and_extensive_method%2C_than_has_been_made_publick_%28IA_britishcarpenter00pric%29.pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app .stretch width=100%}
 :::
 [Price, *The British Carpenter* (1735)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa primazia do carpinteiro sobre os outros ofícios das construção
+persiste até hoje no Reino Unido e nos Estados Unidos ([@Fig:nwslc]).
+
+![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page3-1320px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *City and Country Builder's and Workman's Treasury of Designs*,
+publicado por Batty Langley em 1741, é um álbum de detalhes de talha e
+marcenaria ([@Fig:langley-front]).
+
+![Batty [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][], folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page3-573px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg){#fig:langley-front}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ele se aproxima do modelo de Dietterlin, com imagens de referência, mas
+também fornece dimensões específicas e abarca todo gênero de marcenaria,
+principalmente para interiores ([@Fig:langley-join]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-join}
+::: {.column width=50%}
+![estante jônica, pr. CLXI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page347-560px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg){#fig:langley161 .stretch width=100%}
+:::
+::: {.column width=50%}
+![teto, pr. CLXXVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page381-565px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg){#fig:langley178 .stretch width=100%}
+:::
+[Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A seção que trata de carpintaria estrutural é muito mais breve e simples
+do que no livro de Price ([@Fig:langley-carp]). Isso mostra a
+diversificação e a especialização desse mercado editorial.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-carp}
+::: {.column width=50%}
+![planta de telhado de geometria irregular, pr. 11](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page419-566px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg){#fig:langley11 .stretch width=100%}
+:::
+::: {.column width=50%}
+![esquemas de tesouras, pr. 13](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf/page423-563px-Getty_Research_Institute_%28IA_gri_33125001119193%29.pdf.jpg){#fig:langley13 .stretch width=100%}
+:::
+[Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-1245px-thumbnail.pdf.jpg" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O primeiro manual de ofício publicado nos Estados Unidos é o *Country
+Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
+1797 ([@Fig:asher; @Fig:cba-front]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher .stretch width=100%}
+:::
+::: {.column width=50%}
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O livro de Benjamin é destinado a um mercado ainda pequeno e pouco
+sofisticado. Por isso, ele é uma compilação de alguns modelos e medidas
+simples, derivados de outros autores ([@Fig:cba-plates]). O livro reúne
+alguma indicação técnica sobre a carpintaria e marcenaria com modelos
+decorativos, provavelmente para profissionais menos especializados do
+que aqueles que trabalham na Grã-Bretanha.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:cba-plates}
+::: {.column width=50%}
+![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 .stretch width=100%}
+:::
+::: {.column width=50%}
+![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 .stretch width=100%}
+:::
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O livro mais famoso de Asher Benjamin, *The American Builder's
+Companion*, de 1806, é muito mais extenso e refinado do que o anterior.
+Mesmo assim, ele mantém a lógica de fornecer detalhes construtivos e
+modelos decorativos numa mesma obra, visando a um público profissional
+generalista ([@Fig:abc]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder%27s_companion%3B_or%2C_A_system_of_architecture%2C_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_%28IA_americanbuilders00benj_0%29.pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 .stretch width=100%}
+:::
+::: {.column width=50%}
+![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder%27s_companion%3B_or%2C_A_system_of_architecture%2C_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_%28IA_americanbuilders00benj_0%29.pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 .stretch width=100%}
+:::
+Asher [Benjamin, *The American Builder's Companion* (1806)][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses livros de padrões são os precursores de dois tipos de literatura
+arquitetônica atual. Por um lado, temos os livros de referências
+técnicas, como o *Architectural Graphic Standards* americano
+([@Fig:ags]) e o nosso "Neufert" ([@Fig:neufert]), o alemão que
+conquistou o mundo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![*Architectural Graphic Standards*, 12.ª edição](https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg){#fig:ags .stretch width=100%}
+:::
+::: {.column width=50%}
+![Ernst e Peter Neufert, *Arte de projetar em arquitetura*, 18.ª edição](https://ggili.com.br/media/catalog/product/uploader/4c6f3071a9e143da319c725a57fedcac.jpg){#fig:neufert .stretch width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por outro lado, os livros de padrões formais para inspiração e
+reprodução de modelos decorativos ainda são muito difundidos. Esses
+padrões podem ser tradicionais, tendo uso muito difundido e inclusive
+normativo em algumas localidades do mundo anglófono ([@Fig:tsw-milton;
+@Fig:pdp-nola]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013](https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg){#fig:tsw-milton .stretch width=100%}
+:::
+::: {.column width=50%}
+![PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015](https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg){#fig:pdp-nola .stretch width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas é claro que também existem os livros de modelos modernistas
+([@Fig:viviendas; @Fig:archnow]): essas publicações nem sempre confessam
+o seu objetivo de servirem como base para a cópia, mas sabemos bem que
+eles são usados desse modo por estudantes e arquitetos!
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Friederike Schneider, *Atlas de plantas de viviendas*, Gustavo Gili](https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg){#fig:viviendas .stretch width=100%}
+:::
+::: {.column width=50%}
+![Série *Architecture Now*, Taschen](http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png){#fig:archnow .stretch width=100%}
+:::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Aikin & Enfield (1818)]: https://commons.wikimedia.org/wiki/File:General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg
@@ -343,6 +503,16 @@ construídas em madeira na cultura construtiva britânica.
 [Georg Forster, English joiners, 1816]: https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg
 
 [North Warwickshire and South Leicestershire College]: https://www.nwslc.ac.uk/course/carpentry-and-joinery/
+
+[Langley, *The City and Country Builder's and Workman's Treasury* (1745)]: https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_33125001119193).pdf
+
+[Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)]: https://commons.wikimedia.org/wiki/File:A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf
+
+[Benjamin, *The American Builder's Companion* (1806)]: https://commons.wikimedia.org/wiki/File:The_American_builder%27s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf
+
+[TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013]: https://www.tsw-design.com/portfolio-items/historic-preservation-design-guidelines/
+
+[PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015]: http://www.pdparchitects.com/vieux-carre-historic-district-design-guidelines
 
 <!--,_-->
 
