@@ -15,6 +15,9 @@ PANDOC/LATEX    := docker run -v "`pwd`:/data" \
 	-v "`pwd`/assets/fonts:/usr/share/fonts" \
 	--user "`id -u`:`id -g`" pandoc/latex:2.11.2
 
+ASSETS  = $(wildcard assets/*)
+CSS     = $(wildcard assets/css/*)
+FONTS   = $(wildcard assets/fonts/*)
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
 DOCS    = $(wildcard _aula/*.md)
@@ -74,7 +77,7 @@ _site/package-lock.json : package.json | _site
 	cp package.json _site/
 	cd _site && npm install
 
-_site : README.md _config.yaml _sass assets reveal.js
+_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS)
 	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
