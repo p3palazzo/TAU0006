@@ -375,7 +375,7 @@ Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
 ![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher .stretch width=100%}
 :::
 ::: {.column width=50%}
-![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -397,7 +397,7 @@ que aqueles que trabalham na Grã-Bretanha.
 ::: {.column width=50%}
 ![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 .stretch width=100%}
 :::
-![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant%2C_The_American_builder%27s_companion%2C_The_rudiments_of_architecture%2C_The_practical_house_carpenter%2C_Practice_of_architecture_%28IA_reprintofcountry00benj%29.pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+[Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -410,7 +410,7 @@ modelos decorativos numa mesma obra, visando a um público profissional
 generalista ([@Fig:abc]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:abc}
 ::: {.column width=50%}
 ![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder%27s_companion%3B_or%2C_A_system_of_architecture%2C_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_%28IA_americanbuilders00benj_0%29.pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 .stretch width=100%}
 :::
