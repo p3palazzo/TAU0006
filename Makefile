@@ -6,8 +6,6 @@ vpath %.csl _csl
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss assets/css
 vpath %.xml _site
-vpath %.yaml .:_spec
-vpath default.% _lib
 
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.11.2
@@ -29,20 +27,13 @@ deploy : _site $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 # {{{1 Produtos PDF
 #      ============
 
-tau0006-cronograma.pdf : pdf.yaml cronograma.md
-	$(PANDOC/LATEX) -o $@ -d $^
-
-%.pdf : %.tex
+%.pdf : %.tex biblio.bib
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		-v "`pwd`/assets/fonts:/usr/share/fonts" blang/latex:ctanfull \
+		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-tau0006-plano.tex : pdf.yaml plano.md plano-metodo.md plano-programa.md \
-	plano-apoio-avalia.md biblio-leitura.md plano-biblio.md
-	$(PANDOC/CROSSREF) -o $@ -d $^
-
-%.tex : pdf.yaml %.md | default.latex
-	$(PANDOC/CROSSREF) -o $@ -d $^
+%.tex : %.md latex.yaml default.latex
+	$(PANDOC/LATEX) -o $@ -d latex.yaml $<
 
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
