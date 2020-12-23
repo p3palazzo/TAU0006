@@ -98,14 +98,7 @@ Na área geral do Aprender 3, você vai encontrar:
 
 ## Desenvolvimento do semestre ##
 
-O semestre letivo começa com duas (ou mais) semanas de aproximação e
-familiarização com o ambiente virtual de aprendizagem e com os demais
-recursos eletrônicos da Universidade. Durante esse período inicial,
-vamos esclarecer a abordagem da disciplina e nos familiarizar com a
-organização do livro-texto, os recursos de interação ao vivo e o uso de
-mensagens de texto nos fóruns de discussão do ambiente virtual.
-
-O conteúdo propriamente dito da disciplina deve ser cumprido ao longo de
+O conteúdo da disciplina deve ser cumprido ao longo de
 15 semanas. A matéria se divide em três Unidades com cinco semanas de
 duração cada uma, e cada semana corresponde a um tópico de conteúdo.
 Cada Unidade privilegia um dos três [Objetivos de
@@ -126,8 +119,8 @@ para cada Unidade:
 ## Desenvolvimento das aulas ##
 
 Cada Tópico de conteúdo da disciplina foi previsto para ser cumprido em
-uma semana, completando 15 semanas no semestre (sem contar
-as semanas de adaptação inicial). Vamos acompanhar o conteúdo com
+uma semana, completando 15 semanas no semestre.
+Vamos acompanhar o conteúdo com
 [Resenhas][] e discussões semanais sobre a leitura do livro-texto e de
 outros textos relevantes. Todas as leituras estão indicadas no
 Cronograma.
