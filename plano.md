@@ -2,6 +2,8 @@
 title   : "TAU 0006 · História da Arquitetura e da Arte II"
 subtitle: "Plano de ensino · Turma C · 2.º/2020"
 fontsize: 11pt
+header-includes:
+  - \usepackage{csquotes}
 indent  : true
 nocite  : "@*"
 suppress-bibliography: true
