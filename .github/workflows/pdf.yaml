@@ -8,10 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: make tau0006-plano.tex
-    - run: make tau0006-plano.pdf
+    - run: make plano.pdf
   cronograma:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: make tau0006-cronograma.pdf
+    - run: make cronograma.pdf
