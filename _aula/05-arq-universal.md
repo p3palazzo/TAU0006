@@ -1,16 +1,12 @@
 ---
 title   : "Arquitetura universal"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
-layout  : default
 abstract: |
-  **Arquitetura universal --** Três momentos na reconstrução do         
-  classicismo -- Terceiro: manipulando os elementos de arquitetura como 
-  articuladores do espaço: Bramante e Rafael -- Classicismo como        
-  ordenamento global do espaço: Miguel Ângelo -- Da ordem geométrica às 
-  "ordens clássicas": Serlio e Vinhola -- Projetos para a basílica de   
-  São Pedro.                                                            
+  -- Três momentos na reconstrução do classicismo
+  -- Terceiro: articulação do espaço em Bramante e Rafael
+  -- Classicismo universal: Serlio, Vinhola e Palladio | 539--541
+  -- Classicismo ilimitado: Miguel Ângelo e os projetos para a basílica de São Pedro | 542--547
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

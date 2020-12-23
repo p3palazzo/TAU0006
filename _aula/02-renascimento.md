@@ -1,9 +1,13 @@
 ---
 title   : "Renascimento e historiografia"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
-layout  : default
+layout  : page
+abstract: |
+  -- Perspectiva e espaço arquitetônico | 474--490
+  -- História da arquitetura como história da construção
+  -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
+  -- Cúpulas islâmicas e malhas espaciais
 ---
 
 # 

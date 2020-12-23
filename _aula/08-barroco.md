@@ -4,11 +4,10 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
-  **Barroco e classicismo --** Da tipologia espacial ao projeto
-  geométrico: Bernini, Borromini e Guarini -- Elementos de arquitetura
-  ou elementos de decoração: dilemas franceses -- Bioclimatismo e
-  arquitetura clássica: iluminação, ventilação, sombreamento -- o
-  *hôtel* francês: soluções funcionais da modernidade.
+  -- Da tipologia espacial ao projeto geométrico: Bernini, Borromini e Guarini | 548--551
+  -- Elementos de arquitetura ou elementos de decoração: dilemas franceses
+  -- Bioclimatismo e arquitetura clássica: iluminação, ventilação, sombreamento
+  -- O *hôtel* francês: soluções funcionais da modernidade.
 ---
 
 # Da tipologia espacial ao projeto geométrico #

@@ -1,16 +1,14 @@
 ---
 title   : "Arte clássica"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 parallaxBackgroundImage: https://www.integra.unb.br/s/tau0006-04-bg-todi/preview
 parallaxBackgroundSize: '3291px 4936px'
 abstract: |
-  **Arte clássica --** Arquitetura como arte liberal: Alberti -- Três
-  momentos na reconstrução do classicismo -- Primeiro: resgatar o
-  vocabulário antigo -- Segundo: estabelecer a gramática espacial
-  clássica: Sangallo -- Artistas do Quatrocentos: perspectiva e
-  projeção ortográfica.
+  -- Tratadística italiana e ideal geométrico na China | 425, 491--500
+  -- Três momentos na reconstrução do classicismo | Summerson 1--37
+  -- Primeiro: resgatar o vocabulário antigo
+  -- Segundo: estabelecer a gramática espacial clássica
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

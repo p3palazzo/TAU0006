@@ -4,10 +4,13 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
-  **Arte acadêmica --** Colunata do Louvre: ponte entre o Renascimento e
-  o Neoclassicismo -- Desenho, colorido e a Querela dos Antigos e dos
-  Modernos -- Academias de arte: redefinindo a formação e o ofício da
-  arquitetura -- O debate francês sobre o gosto.
+  -- Espaços urbanos e rurais da colonização | 552--553
+  -- Plaza Mayor, place Royale, Squares ingleses | 556--562
+  -- Inquietações da modernidade | 563--567
+  -- Colunata do Louvre: ponte entre o Renascimento e o Neoclassicismo
+  -- Desenho, colorido e a Querela dos Antigos e dos Modernos
+  -- Academias de arte: redefinindo a formação e o ofício da arquitetura
+  -- O *hôtel* francês: soluções funcionais da modernidade
 parallaxBackgroundImage: 'https://www.integra.unb.br/s/tau6-09-bg/preview'
 parallaxBackgroundSize: '5120px 4534px'
 ---

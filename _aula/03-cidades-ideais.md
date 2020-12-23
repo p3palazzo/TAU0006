@@ -1,9 +1,12 @@
 ---
 title   : "Cidades ideais e cidades possíveis"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 lang    : pt-BR
-layout  : default
+abstract: |
+  -- Vilas novas em Portugal e *jōkamachi* no Japão | 501--519, 562
+  -- Traçados reguladores: *chahār-bāgh* e quincúncia | 520--536
+  -- O *boma*, paradigma urbanístico da África | 436, 537--538
+  -- Forma geométrica e fortificação de Filarete a Vauban | 554--555
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

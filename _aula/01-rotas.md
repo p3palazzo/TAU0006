@@ -6,16 +6,15 @@ lang    : pt-BR
 parallaxBackgroundImage: https://www.integra.unb.br/s/S2p9DXFCfx5xs9z/preview
 parallaxBackgroundSize: '8867px 6354px'
 abstract: |
-  Introdução à arquitetura na Idade Moderna -- Primeira globalização:
-  cidades mercantes da rota da Seda e do oceano Índico -- Diversos modos
-  de urbanizar: *Kampung* malaio -- *Boma* banto -- *Campo* veneziano.
+  -- Introdução à arquitetura da Idade Moderna | 455--459
+  -- Cidades mercantes da rota da Seda e do oceano Índico | 325
+  -- Praças e pontos focais no mundo veneziano--bizantino | 469--473
+  -- Infraestrutura hidráulica na América | 460--468
 ---
 
-Introdução à história da arquitetura na Idade Moderna
-=====================================================
+# Introdução à história da arquitetura na Idade Moderna #
 
-1420
-----
+## 1420 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -50,8 +49,7 @@ Florença dão a partida numa exploração de configurações cada vez mais
 diversificadas do espaço interior e exterior.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Interpretação do passado e prática profissional
------------------------------------------------
+## Interpretação do passado e prática profissional ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -78,8 +76,7 @@ criação humana na ordem do mundo ([@fig:veduta1495]).
 ![Anônimo do século XV. Perspectiva arquitetônica com porto [@perspectiva:1495]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Espaço artístico e arquitetônico como problema intelectual {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
-----------------------------------------------------------
+## Espaço artístico e arquitetônico como problema intelectual {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"} ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -111,8 +108,7 @@ arquiteto numa sociedade letrada e no contexto das chamadas *artes
 liberais*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Artes visuais como artes liberais
----------------------------------
+## Artes visuais como artes liberais ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - As artes *liberais* --- como História, Matemática --- fornecem
@@ -132,8 +128,7 @@ que nós hoje consideramos como *artísticas* --- vai então sendo
 questionada e reformulada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-A disciplina da arquitetura
----------------------------
+## A disciplina da arquitetura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -182,8 +177,7 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Domínio do espaço {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
------------------
+## Domínio do espaço {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"} ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Se o domínio global do espaço é a preocupação dominante das artes
@@ -275,8 +269,7 @@ doce e ervas medicinais.
 
 ![Expansão polinésia até o século XIII [@benton:2012complete7]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png){width=100%}
 
-Difusionismo
-------------
+## Difusionismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um dos primeiros manuais de história da arquitetura a incluir a América
@@ -298,8 +291,7 @@ sendo capazes de criar arquitetura monumental.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-História da arquitetura e colonialismo
---------------------------------------
+## História da arquitetura e colonialismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa de interpretações como essa, a ideia de um mundo antigo e
@@ -385,11 +377,9 @@ climáticas onde elas se desenvolvem.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Urbanismo bioclimático › Kampung malaio
-=======================================
+# Urbanismo bioclimático › Kampung malaio #
 
-Nem tanto ao mar, nem tanto à terra
------------------------------------
+## Nem tanto ao mar, nem tanto à terra ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -467,8 +457,7 @@ igualmente legítimo.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Kampung como unidade básica da urbanização
-------------------------------------------
+## Kampung como unidade básica da urbanização ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"}
 
@@ -520,8 +509,7 @@ distrito urbano compacto ([@fig:dpz1997]).
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997 [@duany:2003new]](https://www.integra.unb.br/s/P8foN9proLG9xx8/preview){#fig:dpz1997}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Do kampung ao pura e ao kota raja
----------------------------------
+## Do kampung ao pura e ao kota raja ##
 
 :::::: notes
 Partindo do *kampung* como unidade social e urbanística *de base*, os
@@ -620,8 +608,7 @@ morada chinesa e as galerias cobertas introduzidas pelos britânicos.
 ![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura [@konsek:2016shophouses]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg/1280px-2016_Singapur%2C_Kampong_Glam%2C_Ulica_Kandahar%2C_Domy-sklepy_%2801%29.jpg){#fig:shophouses}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Adensamento para dentro e para fora
------------------------------------
+## Adensamento para dentro e para fora ##
 
 ## {data-background-image="https://www.integra.unb.br/s/yJzy4TsgSxmDn4D/preview"}
 
@@ -637,8 +624,7 @@ adensamento *para fora*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-Cidades da costa Suaíle
-=======================
+# Cidades da costa Suaíle #
 
 ## 
 
@@ -736,8 +722,7 @@ Mesquita em Shela, Lamu, 1738
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-Hierarquia urbana
------------------
+## Hierarquia urbana ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado geral das cidades suaíle não decorre de um plano centralizado,
@@ -759,8 +744,7 @@ casas em pedra [@wynne-jones:2014swahili, 121].
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Cidade orgânica e ordem política
---------------------------------
+## Cidade orgânica e ordem política ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Durante o processo de consolidação e adensamento da cidade, a autoridade
@@ -795,8 +779,7 @@ e nos bairros de casas de adobe.
 
 ![Planta do palácio de Quíloa Quisiuane [@pradines:2018nouveau]](https://www.integra.unb.br/s/g3Dz73q3tGXDFKS/preview){#fig:kilwa-palacio .stretch}
 
-Habitação e comércio
---------------------
+## Habitação e comércio ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como o *kampung* malaio, a cidade suaíle não tem um parcelamento
@@ -823,8 +806,7 @@ ampliação das casas. Esse processo resulta numa malha urbana compacta
 ![Plano de conservação da área central de Lamu [@mwenje:2019case]](https://www.integra.unb.br/s/Etc22y7j5ow22N6/preview){#fig:lamu-plan .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Tipologia da casa de pedra suaíle
----------------------------------
+## Tipologia da casa de pedra suaíle ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As casas da elite mercante sempre têm a entrada principal voltada para o
@@ -852,8 +834,7 @@ Planta de casa mercante suaíle em Lamu [@ghaidan:1974lamu]
 ![Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado [@oers:2009main]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg){#fig:songo-mnara .stretch} 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Construção em calcário de coral
--------------------------------
+## Construção em calcário de coral ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg"}
 
@@ -882,11 +863,11 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ![Interior da mesquita maior de Quíloa Quisiuane [@stanley:2017ruins]](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_%2834095555612%29.jpg){#fig:kilwa-mesquita-int .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Do boma banto às cidades da Guiné
-=================================
+# Adensamentos no mundo veneziano e bizantino #
 
-Espaço agropastoril
--------------------
+# Do boma banto às cidades da Guiné #
+
+## Espaço agropastoril ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -919,8 +900,7 @@ tem a sua própria casa perto desse espaço central.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Estruturação do espaço intra-muros
-----------------------------------
+## Estruturação do espaço intra-muros ##
 
 * * * *
 
@@ -949,8 +929,7 @@ Ver também:
 Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Redes políticas no território: grande Zimbábue
-----------------------------------------------
+## Redes políticas no território: grande Zimbábue ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
 
@@ -978,8 +957,7 @@ dominante num *boma* individual.
 ![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Adensamento do boma e malha viária
-----------------------------------
+## Adensamento do boma e malha viária ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
 
@@ -994,8 +972,7 @@ entre eles começa, então, a tomar a forma de rua--corredor.
 ![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Delimitação do traçado urbano em Benim
---------------------------------------
+## Delimitação do traçado urbano em Benim ##
 
 * * * *
 
@@ -1335,8 +1312,7 @@ por um mesmo propósito.
 ![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Urbanismo europeu e historicidade
----------------------------------
+## Urbanismo europeu e historicidade ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outro modo de interpretar essa coerência urbana emergente é olhar para

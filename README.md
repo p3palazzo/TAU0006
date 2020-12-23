@@ -1,9 +1,4 @@
----
-layout: default
----
-
-História da Arquitetura e da Arte II
-====================================
+# História da Arquitetura e da Arte II #
 
 ![Website Build](https://github.com/actions/hello-world/workflows/Website/badge.svg)
 ![PDF Build](https://github.com/actions/hello-world/workflows/PDF/badge.svg)
@@ -13,8 +8,7 @@ História da Arquitetura e da Arte II
 > XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
 > Europa para as colônias americanas de fala inglesa e francesa.
 
-Livro-texto
------------
+## Livro-texto ##
 
 Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
 *História global da arquitetura*. São Paulo: Senac São Paulo, 2016.
@@ -32,14 +26,12 @@ Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash.
 </details>
 
 
-Sumário
--------
+## Sumário ##
 
 - [Plano de ensino](plano.md)
 - [Cronograma](cronograma.md)
 
-Programa
---------
+## Programa ##
 
 ### Unidade I. Redes urbanas na fundação do mundo moderno ###
 
