@@ -29,17 +29,17 @@ layout  : page
 |    | -- Praças e pontos focais no mundo veneziano--bizantino                            |                                      |                   |
 |    | -- Infraestrutura hidráulica na América                                            | Livro-texto 325, 436, 455--473       |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
-|  3 | **Cidades ideais e cidades possíveis**                                             | Processo:                            | 18/02             |
-|    | -- Castelos e *jōkamachi* no Japão                                                 |                                      |                   |
-|    | -- Traçados reguladores: *chahār-bāgh* e quincúncia                                |                                      |                   |
-|    | -- O *boma*, paradigma urbanístico da África                                       |                                      |                   |
-|    | -- Geometria e fortificação                                                        | Livro-texto 436, 501--538, 554--555  |                   |
-+----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
-|  4 | **Renascimento e historiografia**                                                  | Processo:                            | 25/02             |
+|  3 | **Renascimento e historiografia**                                                  | Processo:                            | 18/02             |
 |    | -- Perspectiva e espaço arquitetônico                                              |                                      |                   |
 |    | -- Inovação tecnológica e organização do trabalho em Brunelleschi                  |                                      |                   |
 |    | -- Saberes corporativos e tratadística na França                                   |                                      |                   |
 |    | -- Cúpulas islâmicas e malhas espaciais                                            | Livro-texto 474--490                 |                   |
++----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
+|  4 | **Cidades ideais e cidades possíveis**                                             | Processo:                            | 25/02             |
+|    | -- Castelos e *jōkamachi* no Japão                                                 |                                      |                   |
+|    | -- Traçados reguladores: *chahār-bāgh* e quincúncia                                |                                      |                   |
+|    | -- O *boma*, paradigma urbanístico da África                                       |                                      |                   |
+|    | -- Geometria e fortificação                                                        | Livro-texto 436, 501--538, 554--555  |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 |    | \vspace{60pt}                                                                      | \vspace{60pt}                        | \vspace{60pt}     |
 |    | VI Enanparq --- não haverá aula                                                    | Entrega do Trabalho 1                | 01/03 a 05/03     |
