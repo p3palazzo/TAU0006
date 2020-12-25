@@ -72,14 +72,14 @@ layout  : page
 |    | -- Bioclimatismo e arquitetura clássica: iluminação, ventilação, sombreamento      | Livro-texto 548--562                 |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 |  9 | **Arte acadêmica**                                                                 | Summerson 63--88                     | 08/04             |
+|    | -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo               |                                      |                   |
 |    | -- Desenho, colorido e a Querela dos Antigos e dos Modernos                        |                                      |                   |
-|    | -- Academias de arte: redefinindo a formação e o ofício da arquitetura             |                                      |                   |
-|    | -- Elementos de arquitetura ou elementos de decoração: dilemas franceses           |                                      |                   |
+|    | -- Academias de arte e o ofício da arquitetura                                     |                                      |                   |
+|    | -- Simetria, gosto, caráter                                                        |                                      |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 | 10 | **Urbanismo como arquitetura**                                                     | Entrega do Trabalho 2                | 15/04             |
 |    | -- Inquietações da modernidade                                                     |                                      |                   |
 |    | -- Espaços rurais e urbanos da colonização                                         |                                      |                   |
-|    | -- Colunata do Louvre: ponte entre o Renascimento e o Neoclassicismo               |                                      |                   |
 |    | -- O *hôtel* francês: soluções funcionais da modernidade                           |                                      |                   |
 |    | -- Desenhos desmedidos: Versalhes e seus êmulos                                    | Livro-texto 563--579, rever 552--553 |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+

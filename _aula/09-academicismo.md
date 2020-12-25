@@ -4,7 +4,9 @@ author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
   -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
-  -- Academias de arte: redefinindo a formação e o ofício da arquitetura
+  -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573
+  -- Academias de arte e o ofício da arquitetura
+  -- Simetria, gosto, caráter
 ---
 
 # Colunata do Louvre #
