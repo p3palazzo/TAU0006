@@ -30,15 +30,15 @@ layout  : page
 |    | -- Infraestrutura hidráulica na América                                            | Livro-texto 325, 436, 455--473       |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 |  3 | **Cidades ideais e cidades possíveis**                                             | Processo:                            | 18/02             |
-|    | -- Vilas novas em Portugal e *jōkamachi* no Japão                                  |                                      |                   |
+|    | -- Castelos e *jōkamachi* no Japão                                                 |                                      |                   |
 |    | -- Traçados reguladores: *chahār-bāgh* e quincúncia                                |                                      |                   |
 |    | -- O *boma*, paradigma urbanístico da África                                       |                                      |                   |
 |    | -- Geometria e fortificação                                                        | Livro-texto 436, 501--538, 554--555  |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 |  4 | **Renascimento e historiografia**                                                  | Processo:                            | 25/02             |
 |    | -- Perspectiva e espaço arquitetônico                                              |                                      |                   |
-|    | -- História da arquitetura como história da construção                             |                                      |                   |
-|    | -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme                  |                                      |                   |
+|    | -- Inovação tecnológica e organização do trabalho em Brunelleschi                  |                                      |                   |
+|    | -- Saberes corporativos e tratadística na França                                   |                                      |                   |
 |    | -- Cúpulas islâmicas e malhas espaciais                                            | Livro-texto 474--490                 |                   |
 +----+------------------------------------------------------------------------------------+--------------------------------------+-------------------+
 |    | \vspace{60pt}                                                                      | \vspace{60pt}                        | \vspace{60pt}     |

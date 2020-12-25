@@ -619,8 +619,7 @@ catedral de Florença --- uma edificação iniciada no século XIII seguindo
 projetos cada vez mais ambiciosos a ponto de, num certo momento, serem
 considerados impossíveis.
 
-A cúpula de Brunelleschi
-========================
+# A cúpula de Brunelleschi #
 
 Cúpula de Brunelleschi enquanto problema construtivo
 ----------------------------------------------------
@@ -751,11 +750,9 @@ importante ainda, muitos arquitetos vão seguir o procedimento de
 Brunelleschi e desenvolver concepções estruturais singulares como
 solução para problemas construtivos específicos.
 
-Organização do trabalho e eficácia técnica na França
-====================================================
+# Saberes corporativos e tratadística na França #
 
-Resiliência das tradições construtivas
---------------------------------------
+## Resiliência das tradições construtivas ##
 
 Na França, a tradição técnica do gótico é suficientemente forte para se
 desenvolver de modo independente da representação pictórica do espaço.
@@ -832,8 +829,7 @@ e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
 profundamente debatido ao longo do arco renascentista na França, até bem
 entrado o século XIX.
 
-A autoimagem da arquitetura francesa enquanto solução técnica
--------------------------------------------------------------
+## A autoimagem da arquitetura francesa enquanto solução técnica ##
 
 A relevância das contribuições técnicas de de l'Orme não pode ser
 subestimada. O seu tratado continua a ser citado como pertinente para a
@@ -891,8 +887,7 @@ conhecimento no contexto da aprendizagem da profissão, mas codificar e
 tornar público esse conhecimento para que ele possa participar da
 construção universal do sistema arquitetônico clássico.
 
-A arquitetura "à maneira francesa" como tema historiográfico
-------------------------------------------------------------
+## A arquitetura "à maneira francesa" como tema historiográfico ##
 
 Junto com a emergência de uma historiografia nacional na França do
 século XIX, a arquitetura à maneira francesa ganha definitivamente a sua
