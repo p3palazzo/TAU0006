@@ -5,12 +5,11 @@ date    : "Tópico XIV"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
-  Território como escala de intervenção:
-  reorganização espacial no mundo ibérico -- Arquitetura da cidadania:
-  projetos urbanos na América do Norte -- Viação como estratégia de
-  poder: École des Ponts et Chaussées e Tōkaidō -- Topografia,
-  agrimensura e representação: do *Methodo lusitanico* de Serrão
-  Pimentel à Malha continental de Jefferson.
+  -- Reorganização espacial no mundo ibérico
+  -- Arquitetura da cidadania: projetos urbanos na América do Norte
+  -- Viação como estratégia de poder: École des Ponts et Chaussées e Tōkaidō
+  -- Topografia, agrimensura e representação:
+  do *Methodo lusitanico* de Serrão Pimentel à Malha continental de Jefferson.
 ---
 
 # Viação como estratégia espacial #
