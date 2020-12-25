@@ -4,11 +4,11 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
-  **Barroco internacional --** Teorias do barroco: d'Ors, Tapié,
-  Hautecœur -- Virtuosismo construtivo: estereotomia francesa, Sinan,
-  Guarini -- De Nikkō à reconstrução do Tōdaiji: ápice da carpintaria
-  japonesa -- Presságios: releituras do clássico em Wren, Vittone,
-  Bertotti-Scamozzi e Juvarra.
+  -- Teorias do barroco: d'Ors, Tapié, Hautecœur
+  -- Presságios: arquitetura e razão na França e Inglaterra | 580--581, 599--604
+  -- Virtuosismo construtivo: estereotomia francesa, Sinan, Guarini | 598
+  -- Virtuosismo decorativo: Alemanha e o pitoresco inglês | 582--587
+  -- Cosmopolitismo dos jardins chineses à carpintaria japonesa | 588--597
 ---
 
 # Teorias do barroco #

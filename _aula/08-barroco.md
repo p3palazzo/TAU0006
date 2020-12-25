@@ -1,13 +1,13 @@
 ---
 title   : "Barroco e classicismo"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
   -- Da tipologia espacial ao projeto geométrico: Bernini, Borromini e Guarini | 548--551
+  -- Espaços urbanos e rurais da colonização | 552--553
+  -- Plaza Mayor, place Royale, Squares ingleses | 556--562
   -- Elementos de arquitetura ou elementos de decoração: dilemas franceses
   -- Bioclimatismo e arquitetura clássica: iluminação, ventilação, sombreamento
-  -- O *hôtel* francês: soluções funcionais da modernidade.
 ---
 
 # Da tipologia espacial ao projeto geométrico #

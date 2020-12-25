@@ -51,87 +51,78 @@ geometry:
 \pagebreak
 \newgeometry{top=80pt,left=60pt,textwidth=720pt,textheight=440pt}
 
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-| Tópico | Conteúdo                                                              | Leituras e Atividades          | Prazo         |
-+=======:+:======================================================================+:===============================+:==============+
-|     II | LINGUAGENS CLÁSSICAS DA ARQUITETURA                                   | Trabalho: Arquitetura clássica | 15/03 a 18/04 |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|        |                                                                       |                                |               |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|      6 | **Hidráulica ornamental e funcional**                                 | Livro-texto                    | 15/03         |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|      7 | **Clássico anticlássico**                                             | Livro-texto                    | 22/03         |
-|        | -- Plano e recessão: espaço escultórico,                              | Livro-texto 539--547           |               |
-|        | ordem colossal e cenografia -- Projeto tipológico: adaptações do      |                                |               |
-|        | classicismo a condicionantes espaciais e culturais -- Permutações     |                                |               |
-|        | projetuais: repertório vitruviano na obra de Palladio -- Desenho,     |                                |               |
-|        | mecenato e o "problema do modo".                                      |                                |               |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|      8 | **Barroco e classicismo**                                             | Livro-texto                    | 29/03         |
-|        | -- Da tipologia espacial ao projeto                                   | Livro-texto 548--551, 573--575 |               |
-|        | geométrico: Bernini, Borromini e Guarini -- Elementos de arquitetura  |                                |               |
-|        | ou elementos de decoração: dilemas franceses -- Bioclimatismo e       |                                |               |
-|        | arquitetura clássica: iluminação, ventilação, sombreamento -- o       |                                |               |
-|        | *hôtel* francês: soluções funcionais da modernidade.                  |                                |               |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|      9 | **Arte acadêmica**                                                    | Summerson 63--88               | 05/04         |
-|        | -- Colunata do Louvre: ponte entre o Renascimento                     |                                |               |
-|        | e o Neoclassicismo -- Desenho, colorido e a Querela dos Antigos e dos |                                |               |
-|        | Modernos -- Academias de arte: redefinindo a formação e o ofício da   |                                |               |
-|        | arquitetura -- O debate francês sobre o gosto.                        |                                |               |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
-|     10 | **Urbanismo como arquitetura**                                        | Livro-texto                    | 12/04         |
-|        | -- Traçados viários enquanto projetos                                 | Livro-texto 533--536           |               |
-|        | arquitetônicos -- Tensão espacial barroca: reformas urbanas em Roma   |                                |               |
-|        | -- Desenhos desmedidos: Versalhes e seus êmulos -- Sincretismo        |                                |               |
-|        | decorativo: Pérsia safávida, império Otomano, Abissínia e Rússia.     |                                |               |
-+--------+-----------------------------------------------------------------------+--------------------------------+---------------+
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+| Tópico | Conteúdo                                                                      | Leituras e Atividades          | Prazo         |
++=======:+:==============================================================================+:===============================+:==============+
+|     II | LINGUAGENS CLÁSSICAS DA ARQUITETURA                                           | Trabalho: Arquitetura clássica | 15/03 a 18/04 |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|        |                                                                               |                                |               |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|      6 | **Hidráulica ornamental e funcional**                                         | Livro-texto                    | 15/03         |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|      7 | **Clássico anticlássico**                                                     | Livro-texto                    | 22/03         |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|      8 | **Barroco e classicismo**                                                     | Livro-texto                    | 29/03         |
+|        | -- Da tipologia espacial ao projeto geométrico: Bernini, Borromini e Guarini  | 548--553, 556--562             |               |
+|        | -- Espaços urbanos e rurais da colonização                                    |                                |               |
+|        | -- Plaza Mayor, place Royale, Squares ingleses                                |                                |               |
+|        | -- Elementos de arquitetura ou elementos de decoração: dilemas franceses      |                                |               |
+|        | -- Bioclimatismo e arquitetura clássica: iluminação, ventilação, sombreamento |                                |               |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|      9 | **Arte acadêmica**                                                            | Summerson 63--88               | 05/04         |
+|        | -- Desenho, colorido e a Querela dos Antigos e dos Modernos                   |                                |               |
+|        | -- Academias de arte: redefinindo a formação e o ofício da arquitetura        |                                |               |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
+|     10 | **Urbanismo como arquitetura**                                                | Livro-texto                    | 12/04         |
+|        | -- Inquietações da modernidade                                                | 563--579,                      |               |
+|        | -- Espaços rurais e urbanos da colonização                                    | rever 552--553                 |               |
+|        | -- Colunata do Louvre: ponte entre o Renascimento e o Neoclassicismo          |                                |               |
+|        | -- O *hôtel* francês: soluções funcionais da modernidade                      |                                |               |
+|        | -- Desenhos desmedidos: Versalhes e seus êmulos                               |                                |               |
++--------+-------------------------------------------------------------------------------+--------------------------------+---------------+
 
 \pagebreak
 
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-| Tópico | Conteúdo                                                             | Leituras e Atividades          | Prazo         |
-+=======:+:=====================================================================+:===============================+:==============+
-|    III | ESTILO E TERRITÓRIO: INQUIETAÇÕES DA MODERNIDADE                     | Trabalho: Pesquisa e crítica   | 19/04 a 22/05 |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|        |                                                                      |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|     11 | **Barroco internacional**                                            | Livro-texto                    | 19/04         |
-|        | -- Teorias do barroco: d'Ors, Tapié,                                 | Livro-texto 552--553, 563--572 |               |
-|        | Hautecœur -- Virtuosismo construtivo: estereotomia francesa, Sinan,  |                                |               |
-|        | Guarini -- De Nikkō à reconstrução do Tōdaiji: ápice da carpintaria  |                                |               |
-|        | japonesa -- Presságios: releituras do clássico em Wren, Vittone,     |                                |               |
-|        | Bertotti-Scamozzi e Juvarra.                                         |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|     12 | **Universo em expansão**                                             | Livro-texto                    | 26/04         |
-|        | -- Fronteiras da arquitetura  no nascimento                          | Livro-texto 576--587           |               |
-|        | da história da arte: Fischer von Erlach, Winckelmann, Chambers --    |                                |               |
-|        | Ruínas e crise da unidade clássica: *Grand Tour* e a corrida das     |                                |               |
-|        | medições -- Pitoresco: refinamento cultural entre cosmopolitismo e   |                                |               |
-|        | nacionalismo -- Decoro arquitetônico e gêneros pictóricos:           |                                |               |
-|        | derivações tipológicas.                                              |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|     13 | **Reação clássica**                                                  | Livro-texto                    | 03/05         |
-|        | -- Tradição, correção e inovação como problemas da                   | Livro-texto 588--604,          |               |
-|        | crítica -- *Kokugaku* e *Yamato-e*: debates sobre caráter nacional   | Summerson 89--127              |               |
-|        | no Japão -- Maturidade das tradições: da China manchu ao             |                                |               |
-|        | Mediterrâneo -- Classicismo para o povo: manuais de carpintaria      |                                |               |
-|        | e estampas populares no norte da Europa e na América anglófona       |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|     14 | **Territórios e viação**                                             |                                | 10/05         |
-|        | -- Território como escala de intervenção:                            | "Projetos espaciais na         |               |
-|        | reorganização espacial no mundo ibérico -- Arquitetura da cidadania: | América espanhola"             |               |
-|        | projetos urbanos na América do Norte -- Viação como estratégia de    |                                |               |
-|        | poder: École des Ponts et Chaussées e Tōkaidō -- Topografia,         |                                |               |
-|        | agrimensura e representação: do *Methodo lusitanico* de Serrão       |                                |               |
-|        | Pimentel à Malha continental de Jefferson.                           |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
-|     15 | **Primeiros modernos**                                               | Livro-texto                    | 17/05         |
-|        | -- Teoria neoclássica e elogio da                                    | Livro-texto 605--625           |               |
-|        | simplicidade formal: Lodoli, Milizia e Laugier -- Escola             |                                |               |
-|        | Politécnica: declínio da estereotomia e criação do cálculo           |                                |               |
-|        | estrutural -- Arquitetos da Revolução na França, Piranesi e a        |                                |               |
-|        | modernidade retrospectiva -- Racionalismo estrutural: *stick         |                                |               |
-|        | framing* e ferro.                                                    |                                |               |
-+--------+----------------------------------------------------------------------+--------------------------------+---------------+
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+| Tópico | Conteúdo                                                             | Leituras e Atividades        | Prazo         |
++=======:+:=====================================================================+:=============================+:==============+
+|    III | ESTILO E TERRITÓRIO: INQUIETAÇÕES DA MODERNIDADE                     | Trabalho: Pesquisa e crítica | 19/04 a 22/05 |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|        |                                                                      |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|     11 | **Barroco internacional**                                            | Livro-texto                  | 19/04         |
+|        | -- Presságios: arquitetura e razão na França e Inglaterra            | 580--604                     |               |
+|        | -- Virtuosismo construtivo: estereotomia francesa, Sinan, Guarini    |                              |               |
+|        | -- Virtuosismo decorativo: Alemanha e o pitoresco inglês             |                              |               |
+|        | -- Cosmopolitismo dos jardins chineses à carpintaria japonesa        |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|     12 | **Universo em expansão**                                             | Livro-texto                  | 26/04         |
+|        | -- Novas fronteiras da arquitetura                                   | 605--627                     |               |
+|        | -- Maturidade das tradições asiáticas                                |                              |               |
+|        | -- Ruínas e crise da unidade clássica                                |                              |               |
+|        | -- Autoridade da teoria sobre a prática                              |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|     13 | **Reação clássica**                                                  | Summerson 89--127            | 03/05         |
+|        | -- Tradição, correção e inovação como problemas da                   |                              |               |
+|        | crítica -- *Kokugaku* e *Yamato-e*: debates sobre caráter nacional   |                              |               |
+|        | no Japão -- Maturidade das tradições: da China manchu ao             |                              |               |
+|        | Mediterrâneo -- Classicismo para o povo: manuais de carpintaria      |                              |               |
+|        | e estampas populares no norte da Europa e na América anglófona       |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|     14 | **Territórios e viação**                                             |                              | 10/05         |
+|        | -- Território como escala de intervenção:                            | "Projetos espaciais na       |               |
+|        | reorganização espacial no mundo ibérico -- Arquitetura da cidadania: | América espanhola"           |               |
+|        | projetos urbanos na América do Norte -- Viação como estratégia de    |                              |               |
+|        | poder: École des Ponts et Chaussées e Tōkaidō -- Topografia,         |                              |               |
+|        | agrimensura e representação: do *Methodo lusitanico* de Serrão       |                              |               |
+|        | Pimentel à Malha continental de Jefferson.                           |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
+|     15 | **Primeiros modernos**                                               |                              | 17/05         |
+|        | -- Teoria neoclássica e elogio da                                    |                              |               |
+|        | simplicidade formal: Lodoli, Milizia e Laugier -- Escola             |                              |               |
+|        | Politécnica: declínio da estereotomia e criação do cálculo           |                              |               |
+|        | estrutural -- Arquitetos da Revolução na França, Piranesi e a        |                              |               |
+|        | modernidade retrospectiva -- Racionalismo estrutural: *stick         |                              |               |
+|        | framing* e ferro.                                                    |                              |               |
++--------+----------------------------------------------------------------------+------------------------------+---------------+
 

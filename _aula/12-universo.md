@@ -4,12 +4,10 @@ subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
 layout  : default
 abstract: |
-  **Universo em expansão --** Fronteiras da arquitetura no nascimento
-  da história da arte: Fischer von Erlach, Winckelmann, Chambers --
-  Ruínas e crise da unidade clássica: *Grand Tour* e a corrida das
-  medições -- Pitoresco: refinamento cultural entre cosmopolitismo e
-  nacionalismo -- Decoro arquitetônico e gêneros pictóricos:
-  derivações tipológicas.
+  -- Novas fronteiras da arquitetura | 605--609
+  -- Maturidade das tradições asiáticas | 610--615
+  -- Ruínas e crise da unidade clássica | 616--618
+  -- Autoridade da teoria sobre a prática | 619--627
 ---
 
 # Nascimento da história da arte e fronteiras da arquitetura #
