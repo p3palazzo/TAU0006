@@ -1,8 +1,8 @@
 name: PDF
 on:
-  #pull_request:
-  #push:
-    #branches: [ master ]
+  pull_request:
+  push:
+    branches: [ master ]
 jobs:
   plano:
     runs-on: ubuntu-latest
