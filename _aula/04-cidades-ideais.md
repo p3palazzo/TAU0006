@@ -1,7 +1,6 @@
 ---
 title   : "Cidades ideais e cidades possíveis"
 author  : "Pedro P. Palazzo"
-lang    : pt-BR
 abstract: |
   -- Vilas novas em Portugal e *jōkamachi* no Japão | 501--519, 562
   -- Traçados reguladores: *chahār-bāgh* e quincúncia | 520--536

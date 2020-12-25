@@ -1,13 +1,11 @@
 ---
 title   : "Universo em expansão"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-layout  : default
 abstract: |
-  -- Novas fronteiras da arquitetura | 605--609
+  -- Antiquarismo e história da arte | 605--609
+  -- Lodoli, Milizia, Piranesi e o "neo" classicismo
   -- Maturidade das tradições asiáticas | 610--615
   -- Ruínas e crise da unidade clássica | 616--618
-  -- Autoridade da teoria sobre a prática | 619--627
 ---
 
 # Nascimento da história da arte e fronteiras da arquitetura #

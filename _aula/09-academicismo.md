@@ -1,7 +1,6 @@
 ---
 title   : "Arquitetura acadêmica"
 author  : "Pedro P. Palazzo"
-layout  : default
 abstract: |
   -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573

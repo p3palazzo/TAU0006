@@ -1,13 +1,10 @@
 ---
 title   : "Barroco internacional"
-subtitle: "História da Arquitetura e da Arte II"
 author  : "Pedro P. Palazzo"
-layout  : default
 abstract: |
-  -- Teorias do barroco: d'Ors, Tapié, Hautecœur
   -- Presságios: arquitetura e razão na França e Inglaterra | 580--581, 599--604
-  -- Virtuosismo construtivo: estereotomia francesa, Sinan, Guarini | 598
-  -- Virtuosismo decorativo: Alemanha e o pitoresco inglês | 582--587
+  -- Virtuosismo construtivo na Europa e na Ásia | 598
+  -- Virtuosismo decorativo e o pitoresco | 582--587
   -- Cosmopolitismo dos jardins chineses à carpintaria japonesa | 588--597
 ---
 

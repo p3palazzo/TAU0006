@@ -1,14 +1,11 @@
 ---
 title   : "Reação clássica"
-subtitle: "Tópico XIII"
 author  : "Pedro P. Palazzo e Sylvia Ficher"
-layout  : default
 abstract: |
   -- Tradição, correção e inovação como problemas da crítica
-  -- *Kokugaku* e *Yamato-e*: debates sobre caráter nacional no Japão
-  -- Maturidade das tradições: da China manchu ao Mediterrâneo
-  -- Classicismo para o povo: manuais de carpintaria
-  e estampas populares no norte da Europa e na América anglófona
+  -- Arquitetura dos engenheiros
+  -- Manuais de carpintaria e estampas populares
+  -- Autoridade da teoria sobre a prática | 619--627
 ---
 
 # Classicismo para o povo #

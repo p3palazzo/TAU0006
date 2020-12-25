@@ -80,29 +80,34 @@ layout  : page
 |    | ### UNIDADE III · ESTILO E TERRITÓRIO: INQUIETAÇÕES DA MODERNIDADE   | ### Trabalho: Pesquisa e crítica     | ### 12/04 a 21/05 |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 10 | **Primeiros modernos**                                               | Lançamento do Trabalho 3             | 15/04             |
+|    | -- Inquietações da modernidade                                       |                                      |                   |
+|    | -- Teorias do barroco e do classicismo                               |                                      |                   |
+|    | -- Fim do "vitruvianismo" e ascensão do mecanicismo                  | Livro-texto 563--567,                |                   |
+|    | -- Arqueologia e nacionalismo como fatores de ruptura                | Summerson 89--127                    |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 11 | **Urbanismo como arquitetura**                                       | Processo:                            | 22/04             |
-|    | -- Inquietações da modernidade                                       |                                      |                   |
+|    | -- Sincretismo arquitetônico na Etiópia                              |                                      |                   |
 |    | -- Espaços rurais e urbanos da colonização                           |                                      |                   |
 |    | -- O *hôtel* francês: soluções funcionais da modernidade             |                                      |                   |
-|    | -- Desenhos desmedidos: Versalhes e seus êmulos                      | Livro-texto 563--579, rever 552--553 |                   |
+|    | -- Desenhos desmedidos: Versalhes e seus êmulos                      | Livro-texto 568--579, rever 552--553 |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 12 | **Barroco internacional**                                            | Processo:                            | 29/04             |
 |    | -- Presságios: arquitetura e razão na França e Inglaterra            |                                      |                   |
-|    | -- Virtuosismo construtivo: estereotomia francesa, Sinan, Guarini    |                                      |                   |
-|    | -- Virtuosismo decorativo: Alemanha e o pitoresco inglês             |                                      |                   |
+|    | -- Virtuosismo construtivo na Europa e na Ásia                       |                                      |                   |
+|    | -- Virtuosismo decorativo e o pitoresco                              |                                      |                   |
 |    | -- Cosmopolitismo dos jardins chineses à carpintaria japonesa        | Livro-texto 580--604                 |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 13 | **Universo em expansão**                                             | Processo:                            | 06/05             |
-|    | -- Novas fronteiras da arquitetura                                   |                                      |                   |
+|    | -- Antiquarismo e história da arteNovas fronteiras da arquitetura    |                                      |                   |
+|    | -- Lodoli, Milizia, Piranesi e o "neo" classicismo                   |                                      |                   |
 |    | -- Maturidade das tradições asiáticas                                |                                      |                   |
-|    | -- Ruínas e crise da unidade clássica                                |                                      |                   |
-|    | -- Autoridade da teoria sobre a prática                              | Livro-texto 605--627                 |                   |
+|    | -- Ruínas e crise da unidade clássica                                | Livro-texto 605--618                 |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 14 | **Reação clássica**                                                  | Entrega do trabalho 3                | 13/05             |
 |    | -- Tradição, correção e inovação como problemas da crítica           |                                      |                   |
-|    | -- Maturidade das tradições: da China manchu ao Mediterrâneo         |                                      |                   |
-|    | -- Manuais de carpintaria e estampas populares                       | Summerson 89--127, Ficher            |                   |
+|    | -- Arquitetura dos engenheiros                                       |                                      |                   |
+|    | -- Autoridade da teoria sobre a prática                              |                                      |                   |
+|    | -- Manuais de carpintaria e estampas populares                       | Livro-texto 619--627                 |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 15 | **Territórios e viação**                                             | Revisão final dos trabalhos          | 20/05             |
 |    | -- Reorganização espacial no mundo ibérico                           |                                      |                   |
