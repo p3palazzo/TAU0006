@@ -1,7 +1,6 @@
 ---
-title   : "Arquitetura universal"
+title   : "Clássico Anticlássico"
 author  : "Pedro P. Palazzo"
-lang    : pt-BR
 abstract: |
   -- Três momentos na reconstrução do classicismo
   -- Terceiro: articulação do espaço em Bramante e Rafael
@@ -366,67 +365,6 @@ levam a um ordenamento global do espaço, por meio, por um lado, de
 traçados reguladores abstratos, e por outro lado, de analogias visuais
 concretas. O principal instrumento artístico usado para realizar essas
 analogias visuais é o sistema das ordens clássicas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Teoria das ordens #
-
-1. Ordens por divisões tripartites sucessivas (Vitrúvio e Alberti).
-   Demonstrar com base e entablamento.
-2. Ordens com proporções numéricas (Vinhola e Palladio)
-3. Teoria das molduras
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na tradição arquitetônica europeia, as ordens clássicas são o
-instrumento por excelência para realizar articulações de superfícies e
-espaços. A aparência geral das ordens clássicas se manteve relativamente
-estável ao longo dos seus quase três mil anos de uso. Apesar disso,
-tanto os detalhes e proporções das ordens quanto os procedimentos de
-projeto e construção dessas mesmas ordens se transformaram ao longo do
-tempo. A configuração atual das cinco ordens clássicas e os
-procedimentos de desenho arquitetônico dominantes hoje em dia --- seja
-no classicismo, seja no modernismo --- são resultado de um processo de
-codificação da arquitetura clássica que ocorre, sobretudo, nos séculos
-XVI e XVII.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Perspectiva e projeção ortográfica ##
-
-Primeiro Rafael (perspectiva do Panteão) vs. cartas com Castiglione ao
-papa Leão X.
-
-Dois modos fundamentalmente distintos de conceber o espaço:
-
-- Perspectiva foi um grande "salto" conceitual em seu tempo, permitindo
-  conceber o espaço como um objeto a ser representado e não apenas como
-  interstício entre figuras. De Martini e Lorenzetti a Masaccio e
-  Ucello. Tábuas de Urbino. Piero della Francesca: Deep space shallow
-  space. Perspectiva do interior do Panteão por Rafael.
-- Projeção ortográfica representa um grau de abstração na concepção
-  (prefiguração) do espaço. Permite manipular formas complexas e
-  resolver o problema do canto com ordens clássicas.
-
-## Serlio e Vinhola ##
-
-- Serlio é o primeiro a chamar as espécies de colunas de "ordens" e a
-  apresentá-las em série comparativa. Explicita adaptabilidade do
-  sistema clássico a diferentes culturas construtivas e variadas
-  necessidades funcionais. França.
-
-- Vinhola abandona pretensão filosófica da tratadística e apresenta os
-  elementos iconográficos da arquitetura como repertório prático.
-  Representação agnóstica quanto à concepção construtiva: plástica do
-  espaço e da sua envoltória é a consideração principal.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os tratados de Serlio e Vinhola são um divisor de águas na teoria da
-arquitetura renascentista. Ambos passam a tratar o classicismo não mais
-como um problema cosmológico ou filosófico, mas como um conjunto de
-procedimentos e instrumentos capazes de resolver diretamente os
-problemas construtivos, funcionais e estéticos da sociedade. Graças ao
-fato de eles serem agnósticos, por assim dizer, quanto à justificação
-teológica da arquitetura, eles asseguram para o classicismo a
-possibilidade de se adaptar a uma variedade quase infinita de sistemas
-construtivos, de programas funcionais e de contextos culturais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Vicissitudes da basílica de São Pedro #

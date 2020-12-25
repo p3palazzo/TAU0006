@@ -348,6 +348,55 @@ pátio Quadrado do Louvre,
 ![François Mansart, fachada da igreja da abadia do Val-de-Grâce, Paris, c. 1645--1667](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Gr%C3%A2ce_reductwk.JPG){#fig:valdegrace-ext}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Praças reais #
+
+## Genealogia política da praça real ##
+
+## {data-background-image="https://www.integra.unb.br/s/8PekbYTA3mBiKZw/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Giovan Battista Aleotti encarregado de realizar obras de drenagem e
+bonificação do vale do Po na região de Gualtieri.
+
+![Cidade de Gualtieri. @teatro:gualtieri](https://www.integra.unb.br/s/8PekbYTA3mBiKZw/preview){#fig:gualtieri .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/JtjSYECZK5iWWfG/preview"}
+
+:::notes
+![Giovan Battista Aleotti. Piazza Bentivoglio, Gualtieri, 1585. @alandini1969:2015piazza](https://www.integra.unb.br/s/JtjSYECZK5iWWfG/preview){#fig:bentivoglio-drone .stretch}
+:::
+
+## {data-background-image="https://www.integra.unb.br/s/ynPfdoJNYQPipJi/preview"}
+
+:::notes
+![Piazza Bentivoglio. Vista do palácio para a torre municipal. @rita:2013viaggio](https://www.integra.unb.br/s/ynPfdoJNYQPipJi/preview){#fig:bentivoglio-torre .stretch}
+:::
+
+## {data-background-image=""}
+
+:::notes
+![Carlos Gonzaga, duque de Mântua e conde de Nevers](){#fig:gonzaga .stretch}
+:::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg"}
+
+:::notes
+![Charleville, fundada em 1606. @moreau:1625charleville](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg){#fig:charleville .stretch}
+:::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg"}
+
+:::notes
+![Praça ducal, Charleville. @velvet:2013place](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .stretch}
+:::
+
+## Place Royale (place des Vosges) ##
+
+## Covent Garden ##
+
+## Plazas mayores ##
+
 # Bioclimatismo e arquitetura clássica #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

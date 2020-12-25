@@ -5,8 +5,6 @@ layout  : default
 abstract: |
   -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
   -- Academias de arte: redefinindo a formação e o ofício da arquitetura
-parallaxBackgroundImage: 'https://www.integra.unb.br/s/tau6-09-bg/preview'
-parallaxBackgroundSize: '5120px 4534px'
 ---
 
 # Colunata do Louvre #
