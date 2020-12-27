@@ -62,8 +62,8 @@ layout  : page
 |  7 | **Clássico anticlássico**                                            | Processo:                            | 23/03 e 25/03     |
 |    | -- Três momentos na reconstrução do classicismo                      |                                      |                   |
 |    | -- Terceiro: articulação do espaço em Bramante e Rafael              |                                      |                   |
-|    | -- Classicismo universal: Serlio, Vinhola e Palladio                 | Livro-texto 539--547,                |                   |
-|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro    | Summerson 39--62                     |                   |
+|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro    |  Livro-texto 539--547,               |                   |
+|    | -- Classicismo universal: Serlio, Vinhola e Palladio                 |  Summerson 39--62                    |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 |  8 | **Barroco e classicismo**                                            | Processo:                            | 29/03 e 01/04     |
 |    | -- Da tipologia espacial ao projeto geométrico                       |                                      |                   |
@@ -107,7 +107,7 @@ layout  : page
 |    | -- Tradição, correção e inovação como problemas da crítica           |                                      |                   |
 |    | -- Arquitetura dos engenheiros                                       |                                      |                   |
 |    | -- Autoridade da teoria sobre a prática                              |                                      |                   |
-|    | -- Manuais de carpintaria e estampas populares                       | Livro-texto 619--627                 |                   |
+|    | -- Manuais de carpintaria e estampas populares                       | Livro-texto 619--627, Ficher         |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 | 15 | **Territórios e viação**                                             | Revisão final dos trabalhos          | 18/05 e 20/05     |
 |    | -- Reorganização espacial no mundo ibérico                           |                                      |                   |

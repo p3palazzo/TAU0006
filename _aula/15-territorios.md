@@ -1,15 +1,11 @@
 ---
 title   : "Territórios e viação"
-subtitle: "História da Arquitetura e da Arte II"
-date    : "Tópico XIV"
 author  : "Pedro P. Palazzo"
-layout  : default
 abstract: |
   -- Reorganização espacial no mundo ibérico
-  -- Arquitetura da cidadania: projetos urbanos na América do Norte
-  -- Viação como estratégia de poder: École des Ponts et Chaussées e Tōkaidō
-  -- Topografia, agrimensura e representação:
-  do *Methodo lusitanico* de Serrão Pimentel à Malha continental de Jefferson.
+  -- Projetos urbanos na América do Norte
+  -- Viação como estratégia de poder | Sambricio
+  -- Topografia, agrimensura e representação
 ---
 
 # Viação como estratégia espacial #

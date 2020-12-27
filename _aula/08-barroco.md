@@ -1,13 +1,11 @@
 ---
 title   : "Barroco e classicismo"
 author  : "Pedro P. Palazzo"
-layout  : default
 abstract: |
-  -- Da tipologia espacial ao projeto geométrico: Bernini, Borromini e Guarini | 548--551
+  -- Da tipologia espacial ao projeto geométrico | 548--551
   -- Espaços urbanos e rurais da colonização | 552--553
   -- Plaza Mayor, place Royale, Squares ingleses | 556--562
-  -- Elementos de arquitetura ou elementos de decoração: dilemas franceses
-  -- Bioclimatismo e arquitetura clássica: iluminação, ventilação, sombreamento
+  -- Bioclimatismo e arquitetura clássica
 ---
 
 # Da tipologia espacial ao projeto geométrico #

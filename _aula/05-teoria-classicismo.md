@@ -1,6 +1,5 @@
 ---
-title   : "Clássico anticlássico"
-subtitle: "História da Arquitetura e da Arte II"
+title   : "Teoria do classicismo"
 author  : "Pedro P. Palazzo"
 abstract: |
   -- Gramática e vocabulário da arquitetura clássica | Summerson 17--37

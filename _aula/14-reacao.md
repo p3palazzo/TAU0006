@@ -4,7 +4,7 @@ author  : "Pedro P. Palazzo e Sylvia Ficher"
 abstract: |
   -- Tradição, correção e inovação como problemas da crítica
   -- Arquitetura dos engenheiros
-  -- Manuais de carpintaria e estampas populares
+  -- Manuais de carpintaria e estampas populares | Ficher
   -- Autoridade da teoria sobre a prática | 619--627
 ---
 
