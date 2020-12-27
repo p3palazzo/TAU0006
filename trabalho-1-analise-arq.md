@@ -5,9 +5,12 @@ subtitle: "Trabalho I"
 
 # Ementa #
 
-Análise da implantação urbana e da composição espacial numa edificação
-clássica dos séculos XV a XVIII, apresentada na forma de um estudo de
-repertório.
+A tipologia edilícia e a forma urbana se influenciam mutuamente. A
+arquitetura responde simultaneamente às condições singulares da sua
+implantação no lugar, e gera condicionantes para intervenções futuras.
+Explore este diálogo analisando a implantação urbana e da composição
+espacial numa edificação clássica dos séculos XV a XVIII, apresentada na
+forma de um estudo de repertório.
 
 ## Objetivo ##
 
@@ -17,22 +20,26 @@ arquitetônicas da era moderna.
 
 # Processo (10 pontos) #
 
-## Documentação gráfica e bibliográfica (3 pontos) ##
+## Documentação e estratégias (3 pontos) ##
 
-Coletar desenhos técnicos, modelos existentes, vistas e textos
+Escolha uma edificação urbana dos séculos XV a XVIII no questionário
+proposto no Moodle. 
+Recolha desenhos técnicos, modelos existentes, vistas e textos
 publicados referentes à edificação escolhida.
 
 - Carregue os arquivos coletados na [pasta compartilhada do Microsoft
   Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY);
 - Indique as referências bibliográficas de *todas* as imagens e
-  informações colhidas no campo de texto da tarefa no Moodle.
+  informações colhidas no campo de texto da tarefa no Moodle;
+- Para o encontro de terça-feira, reflita sobre possíveis estratégias
+  de desenvolvimento das análises.
 
 ## Desenvolvimento das análises (5 pontos) ##
 
-Desenvolver uma sequência de diagramas demonstrando a implantação urbana
+Desenvolva uma sequência de diagramas demonstrando a implantação urbana
 e a composição dos espaços nos interiores da edificação. A execução
 dessas análises deve visar aos produtos indicados mais abaixo.
-Apresentar em forma de rascunho, podendo incluir croquis, anotações e
+Apresente em forma de rascunho, podendo incluir croquis, anotações e
 qualquer outra informação pertinente.
 
 - Carregue os arquivos gerados na [pasta compartilhada do Microsoft
@@ -104,9 +111,9 @@ Sugere-se representar os diagramas em vistas isométricas (30 × 30°, 30 ×
 - Aproveite os modelos digitais de edifícios famosos disponíveis em
   repositórios online como ponto de partida, mas verifique sempre se os
   espaços interiores e as proporções estão corretas;
-- Proporções são importantes, inclusive no Produto 2! Use o manual de
-  ordens clássicas do Chitham para se familiarizar com as proporções
-  habituais da arquitetura clássica.
+- Dê especial atenção às medidas e dimensões físicas, e ao que elas
+  permitem como implantação, distribuição de espaços, iluminação e
+  ventilação.
 
 # Referências #
 

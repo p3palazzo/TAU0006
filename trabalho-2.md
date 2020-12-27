@@ -1,110 +1,97 @@
 ---
-title   : "Arquitetura clássica"
+title   : "Permutações"
 subtitle: "Trabalho II"
-layout  : default
 ---
 
 # Ementa #
 
-Análise da composição espacial e da articulação dos elementos de
-arquitetura nos interiores de uma edificação clássica dos séculos XV a
-XVIII.
+A arquitetura clássica é um sistema de ordenamento global do ambiente
+construído, fornecendo ao mesmo tempo harmonia entre edificações graças
+a uma linguagem partilhada e uma variedade de soluções possíveis para
+cada problema arquitetônico. Demonstre essa afirmação permutando uma
+fachada clássica em outra, através de cinco passos intermediários.
 
-# Objetivo #
+## Objetivo ##
 
 Dominar e ser capaz de empregar os elementos do vocabulário e a
 gramática das tradições arquitetônicas da era moderna, com ênfase na
 linguagem clássica.
 
-# Produto #
+# Processo (10 pontos) #
 
-## Conteúdo ##
+## Documentação e estratégias (3 pontos) ##
 
-Sequência de diagramas demonstrando a composição dos espaços e a
-elaboração de elementos de arquitetura nos interiores da edificação,
-assim como as operações aditivas ou subtrativas realizadas em cada
-passo. O produto será, portanto, dividido em duas partes:
+Escolha duas fachadas de edificações do século XV ao XVIII,
+caracterizadas pelo uso correto e competente de uma ou mais ordens
+clássicas.
 
-### Produto 1: análise de espaços ###
+- Elas **não devem** ser muito semelhantes entre si, e podem pertencer a
+  diferentes períodos, estilos, países ou tipos edilícios;
+- Elas **devem** ter, cada uma, pelo menos dois pavimentos em altura,
+  três vãos em largura, e uma ordem clássica com colunas ou pilastras e
+  seus entablamentos;
+- Elas **podem** ser comparáveis em escala, de modo a facilitar a
+  transformação;
+- Uma das fachadas **pode** pertencer à edificação que
+  você analisou no trabalho 1.
 
-Realizar uma sequência de diagramas tridimensionais, obtidos a partir de
-modelagem com operações de sólidos ou desenhados à mão. Os diagramas
-devem evidenciar claramente a sequência de operações espaciais e o seu
-caráter aditivo ou subtrativo --- provavelmente uma operação, ou
-conjunto de operações simétricas, por diagrama. Esses diagramas devem
-demonstrar, também, a hierarquia entre os espaços. Usar tantos diagramas
-quanto necessário.
+Recolha desenhos técnicos, modelos existentes, vistas e textos
+publicados referentes às edificações escolhidas.
 
-Sugere-se representar os diagramas em vistas isométricas (30 × 30°, 30 ×
-60° ou 45 × 45°), de cima para baixo ou de baixo para cima. 
+- Carregue os arquivos coletados na [pasta compartilhada do Microsoft
+  Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY);
+- Indique as referências bibliográficas de *todas* as imagens e
+  informações colhidas no campo de texto da tarefa no Moodle;
+- Para o encontro de terça-feira, reflita sobre possíveis estratégias
+  de desenvolvimento das permutações e dificuldades previstas.
 
-### Produto 2: análise de elementos da arquitetura ###
+## Esboço das permutações (5 pontos) ##
 
-Os diagramas devem mostrar a sucessão de camadas --- no sentido literal
-ou figurado --- de elementos na superfície das colunatas, arcadas,
-paredes e tetos que compõem alguns dos principais espaços interiores da
-edificação. Começar com a superfície nua e suas aberturas, ou com o
-esqueleto estrutural, e desenvolver passo a passo as camadas de
-elementos que dão volume ao sistema. As proporções dos elementos sobre o
-plano da parede ou a superfície do teto, assim como a espessura desses
-elementos (em relevo ou reentrância), devem ser enfatizadas. Usar tantos
-diagramas quanto necessário.
+Esboce, por meio de croquis à mão livre, os passos necessários para
+transformar uma fachada em outra.
 
-## Apresentação ##
+- Cada passo intermediário deve ser, ele próprio, uma fachada verossímil
+  de uma composição clássica correta;
+- Estamos visando a um total de 5 passos intermediários (sem contar as
+  duas edificações originais no início e no final);
+- Atente sempre para a planta e o corte na espessura da fachada,
+  acompanhando a elevação;
+- Carregue os arquivos gerados na [pasta compartilhada do Microsoft
+  Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY);
+- Tenha certeza de que os arquivos enviados para a orientação são
+  amplamente compatíveis (PDF, JPG, MP4, etc.);
+- Caso deseje, poderá também compartilhar a tela do seu computador no
+  dia da orientação.
 
-Diagramas extraídos de modelagens tridimensionais digitais, colagens
-e/ou desenhos técnicos à mão (livre ou não) conforme apropriado para
-cada produto. Os diagramas devem ser apresentados num formato amplamente
-acessível, compatível, e de fácil visualização, por exemplo:
+## Um produto para revisão (2 pontos) ##
 
-- Pranchas em formato PDF (um ou mais diagramas por prancha);
-- Vídeo em formato MP4 ou no YouTube;
-- Site estático com sequências de imagens;
-- No caso de o produto ter sido modelado, enviar também o arquivo do
-  modelo tridimensional.
+Escolha um dos passos da permutação (provavelmente o do meio) e
+apresente-o suficientemente completo para revisão preliminar. As
+indicações de entrega são as mesmas da etapa anterior.
 
-Em todos os casos, atentar para a resolução das imagens e para a
-facilidade de "manuseio" do produto. Evitar a entrega em formatos que
-dependam de um software específico para serem lidos/usados (não se
-aplica ao arquivo do modelo 3D; usem o bom-senso). O suporte escolhido
-deverá apresentar todas as informações de identificação relevantes
-(trabalho, disciplina, edificação, seu nome, legendas, etc.).
+# Produto (10 pontos) #
 
-# Critérios de avaliação #
+Sete pranchas de desenhos técnicos, compreendendo as duas edificações
+originais e os cinco passos intermediários da permutação, mostrando a
+elevação das fachadas assim como a sua espessura em planta e corte.
 
-## Pesquisa (30 pontos) ##
+- Um passo por prancha;
+- O nível de detalhe será equivalente ao de pranchas impressas na escala
+  1:50, mostrando as proporções e os detalhes corretos das ordens
+  clássicas e dos demais elementos construtivos;
+- Usar sempre margem da prancha, carimbo e escala gráfica, compondo
+  esses elementos com apuro e elegância junto aos desenhos;
+- Outras técnicas de apresentação (modelagem 3D, colagem, vídeo, site,
+  etc.) são permitidas desde que respeitem as demais indicações de
+  execução deste trabalho e resultem numa visualização clara, homogênea
+  e correta de todas as fachadas.
 
-- Capacidade de levantar e organizar material bibliográfico e
-  referências visuais pertinentes ao tema do trabalho e de refletir
-  criticamente sobre elas;
-- Formas gerais e proporções refletem corretamente a aparência da
-  edificação analisada;
-- Clareza na organização e apresentação das informações pesquisadas.
-
-## Análise (50 pontos) ##
-
-- Sequência lógica e clara dos desenhos e das pranchas, progredindo,
-  conforme apropriado, do exterior para o interior, do centro para a
-  periferia, da frente para os fundos, da base para o topo, do plano da
-  parede para as projeções e reentrâncias, etc.;
-- Separação dos diagramas conforme passos lógicos, sem sobrepor
-  excessiva quantidade de transformações num mesmo desenho;
-- Uso correto e eficaz das projeções geométricas.
-
-## Representação (20 pontos) ##
-
-- Domínio aplicado das convenções de projeção geométrica e de desenho
-  arquitetônico;
-- Correspondência do enquadramento e da orientação ao longo das
-  pranchas;
-- Uso das convenções gráficas de modo claro, regular e eficaz,
-  permitindo reconhecer os elementos arquitetônicos e as relações
-  espaciais, distinguindo perfis rasos e profundos, linhas de corte,
-  etc.;
-- Clareza e capacidade informativa dos croquis;
-- Uso equilibrado de informações textuais onde necessário;
-- Aspecto claro, limpo e elegante das pranchas, com emprego
-  consistente de meios e técnicas (desenho à mão ou modelagem digital).
+| Critério                                  | Pontuação |
+|-------------------------------------------|----------:|
+| Equilíbrio geral da permutação            |         3 |
+| Verossimilhança e qualidade de cada passo |         5 |
+| Apresentação visual                       |         2 |
+| **Total**                                 |    **10** |
 
 # Recursos e apoio #
 
@@ -114,7 +101,7 @@ deverá apresentar todas as informações de identificação relevantes
 - Aproveite os modelos digitais de edifícios famosos disponíveis em
   repositórios online como ponto de partida, mas verifique sempre se os
   espaços interiores e as proporções estão corretas;
-- Proporções são importantes, inclusive no Produto 2! Use o manual de
+- Proporções são importantes! Use o manual de
   ordens clássicas do Chitham para se familiarizar com as proporções
   habituais da arquitetura clássica.
 
@@ -126,13 +113,11 @@ Teams](https://teams.microsoft.com/_#/school/files/Geral?threadId=19%3A4a57708d3
 ou na "Minha biblioteca" eletrônica acessível pelo catálogo integrado da
 [Biblioteca Central](http://www.bce.unb.br) da UnB.
 
-- Ching, Francis D. K. *Arquitetura, forma, espaço e ordem.* São Paulo:
-  Martins Fontes, 1998.
 - Chitham, Robert. *The Classical Orders of Architecture.* 2nd ed.
   Amsterdam: Architectural Press, 2005.
 - Schumacher, Thomas L. “The Palladio variations, on reconciling
   convention, parti, and space”. *Cornell Journal of Architecture* 3
   (Fall 1987): 12–29.
-- Unwin, Simon. *Análise da arquitetura*. Trad. Alexandre Salvaterra.
-  Porto Alegre: Bookman, 2015.
+
+Consultar também a bibliografia indicada para o primeiro trabalho.
 
