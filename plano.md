@@ -169,6 +169,10 @@ Modernidade.
   -- Autoridade da teoria sobre a prática
 
 15. **Territórios e viação**
+  -- Reorganização espacial no mundo ibérico
+  -- Projetos urbanos na América do Norte
+  -- Viação como estratégia de poder
+  -- Topografia, agrimensura e representação
 
 # Metodologia #
 
@@ -263,9 +267,9 @@ orientação ou resenha) correspondente, dentro do prazo indicado acima.
 Dadas as circunstâncias atuais, o cronograma pode sofrer alterações
 seguindo eventuais decisões da FAU ou dos órgãos superiores da UnB.
 *Respeitando o prazo previsto para cada unidade e o cronograma de
-leituras semanais,* você pode cumprir o conteúdo (leituras e videoaulas)
-e fazer as atividades (participação nos fóruns e entrega dos trabalhos)
-no tempo e horário que for mais conveniente.
+resenhas e orientações semanais,* você pode cumprir o conteúdo (leituras
+e videoaulas) e fazer as atividades (participação nos fóruns e entrega
+dos trabalhos) no tempo e horário que for mais conveniente.
 
 # Apoio ao aluno #
 
