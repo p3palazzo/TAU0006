@@ -23,8 +23,8 @@ layout  : page
 |    | -- Problemas de historiografia e crítica                             | Livro-texto 455--459                 |                   |
 |    | -- Construção medieval                                               | Summerson 1--15                      |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
-|  2 | **Rotas comerciais e paradigmas urbanísticos**                       | Processo: coligir documentação       | 09/02 e 11/02     |
-|    | -- Formas urbanas tradicionais                                       |                                      |                   |
+|  2 | **Rotas comerciais e paradigmas urbanísticos**                       | Processo: documentação gráfica e     | 09/02 e 11/02     |
+|    | -- Formas urbanas tradicionais                                       | bibliográfica                        |                   |
 |    | -- Cidades mercantes da rota da Seda e do oceano Índico              |                                      |                   |
 |    | -- Praças e pontos focais no mundo veneziano--bizantino              |                                      |                   |
 |    | -- Infraestrutura hidráulica na América                              | Livro-texto 325, 436, 460--473       |                   |
@@ -62,8 +62,8 @@ layout  : page
 |  7 | **Clássico anticlássico**                                            | Processo:                            | 23/03 e 25/03     |
 |    | -- Três momentos na reconstrução do classicismo                      |                                      |                   |
 |    | -- Terceiro: articulação do espaço em Bramante e Rafael              |                                      |                   |
-|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro    |  Livro-texto 539--547,               |                   |
-|    | -- Classicismo universal: Serlio, Vinhola e Palladio                 |  Summerson 39--62                    |                   |
+|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro    | Livro-texto 539--547,                |                   |
+|    | -- Classicismo universal: Serlio, Vinhola e Palladio                 | Summerson 39--62                     |                   |
 +----+----------------------------------------------------------------------+--------------------------------------+-------------------+
 |  8 | **Barroco e classicismo**                                            | Processo:                            | 29/03 e 01/04     |
 |    | -- Da tipologia espacial ao projeto geométrico                       |                                      |                   |
