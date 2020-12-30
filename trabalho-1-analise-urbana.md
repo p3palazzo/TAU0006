@@ -101,58 +101,53 @@ podemos extrair dela e dos outros documentos coletados. A análise dos
 tecidos urbanos se divide, segundo Panerai, em três âmbitos: malha
 viária, parcelamento do solo e edificação.
 
-Em cada um desses âmbitos, esboce as quatro ou cinco análises listadas,
+Em cada um desses três âmbitos, esboce as três análises listadas,
 prevendo uma ou duas pranchas para cada análise.
 
 ### Tecido urbano e malha viária ###
 
-1. Marcar a geometria do traçado regulador ou os caminhos geradores da
-   malha viária;
+1. Marcar a geometria do traçado regulador e/ou os caminhos geradores da
+   malha viária, apontando as relações com pontos focais e marcos
+   visuais;
 2. Mostrar as etapas sucessivas de formação, crescimento e transformação
    do tecido urbano ao longo do tempo;
 3. Analisar em corte (escala 1:500) as dimensões e proporções das caixas
    de vias (espaço delimitado pelas edificações) de algumas ruas e
-   praças representativas de padrões diversos;
-4. Diagramar (croquis) as relações entre pontos focais, marcos visuais,
-   e a estrutura da malha viária;
-5. Mostrar a relação da malha viária com a topografia e a água.
+   praças representativas de padrões diversos.
 
 ### Parcelamento do solo ###
 
-1. Classificar as dimensões e proporções de quarteirões e lotes em
+4. Classificar as dimensões e proporções de quarteirões e lotes em
    padrões predominantes e apontar as exceções significativas;
-2. Destacar as diferenças entre centro e periferia, loteamentos
+5. Reconstituir o processo histórico de extensão do parcelamento do solo
+   e sinalizar eventuais remembramentos e desmembramentos,
+   destacando as diferenças entre centro e periferia, loteamentos
    planejados, etc.;
-3. Reconstituir o processo histórico de extensão do parcelamento do solo
-   e sinalizar eventuais remembramentos e desmembramentos;
-4. Mostrar a relação do parcelamento com a topografia e a água.
+6. Mostrar a relação do parcelamento com a topografia e a água.
 
 ### Edificações ###
 
-1. Situar e analisar as características dos tipos edilícios de base (a
+7. Situar e analisar as características dos tipos edilícios de base (a
    "casa" residencial e comercial predominante na área e na época
    estudada), usando croquis ampliados em planta, corte e fachada;
-2. Contrastar com os tipos edilícios especializados (edifícios
+8. Contrastar com os tipos edilícios especializados (edifícios
    diferenciados na malha urbana), usando croquis ampliados em planta,
    corte e fachada;
-3. Diagramar a relação dos diferentes tipos com o parcelamento do solo
-   e com o espaço público;
-4. Analisar em corte e em fachada alguns aspectos bioclimáticos da
+9. Analisar em croquis de corte e fachada alguns aspectos bioclimáticos da
    edilícia de base: ventilação, sombreamento, interação com a
    vegetação e com a água.
 
 ## Semana 4: um produto desenvolvido (1 ponto) ##
 
 Apresente ao menos um dos três grupos de análises (malha viária,
-parcelamento ou edificações) suficientemente desenvolvido para revisão e
-orientação.
+parcelamento ou edificações) completo para revisão e orientação.
 
 # Produto (10 pontos) #
 
-1. Planta de base e informações gerais;
+1. Planta de base e informações gerais do trabalho (1 prancha);
 2. Pranchas de análise nas três categorias (malha viária, parcelamento e
-   edificações);
-3. Bibliografia e referências da iconografia.
+   edificações), 9 ou mais pranchas;
+3. Bibliografia e referências da iconografia, 1 ou mais pranchas.
 
 ## Pesquisa (3 pontos) ##
 
