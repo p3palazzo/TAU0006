@@ -27,6 +27,10 @@ deploy : _site $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 # {{{1 Produtos PDF
 #      ============
 
+tau0006-plano-20_2.pdf : plano.pdf cronograma.pdf
+	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
+		-sOutputFile=$@ $<
+
 %.pdf : %.tex biblio.bib
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
