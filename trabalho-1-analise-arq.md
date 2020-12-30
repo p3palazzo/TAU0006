@@ -34,7 +34,7 @@ publicados referentes à edificação escolhida.
 - Para o encontro de terça-feira, reflita sobre possíveis estratégias
   de desenvolvimento das análises.
 
-## Desenvolvimento das análises (5 pontos) ##
+## Desenvolvimento das análises (4 pontos) ##
 
 Desenvolva uma sequência de diagramas demonstrando a implantação urbana
 e a composição dos espaços nos interiores da edificação. A execução
@@ -49,13 +49,37 @@ qualquer outra informação pertinente.
 - Caso deseje, poderá também compartilhar a tela do seu computador no
   dia da orientação.
 
-## Um produto para revisão (2 pontos) ##
+## Um produto para revisão (3 pontos) ##
 
 Escolha um dos dois produtos e apresente-o suficientemente completo para
 revisão preliminar. As indicações de entrega são as mesmas da etapa
 anterior.
 
 # Produto (10 pontos) #
+
+## Implantação urbana (5 pontos) ##
+
+Em planta, corte e fachada, mostrar a situação da edificação no seu
+entorno urbano imediato. Indicar, entre outros, dimensões do lote e da
+edificação, densidade da ocupação no lote, eventuais afastamentos ou
+quintais, proporções de cheios e vazios, traçados reguladores,
+alinhamentos com edificações vizinhas e com o volume do espaço público.
+Comparar com as edificações vizinhas.
+
+## Espaços interiores (5 pontos) ##
+
+Realizar uma sequência de diagramas tridimensionais, obtidos a partir de
+modelagem com operações de sólidos, ou desenhados à mão. Os diagramas
+devem evidenciar claramente a sequência de operações espaciais e o seu
+caráter aditivo ou subtrativo --- provavelmente uma operação, ou
+conjunto de operações simétricas, por diagrama. Esses diagramas devem
+demonstrar, também, a hierarquia entre os espaços. Usar tantos diagramas
+quanto necessário.
+
+Sugere-se representar os diagramas em vistas isométricas (30 × 30°, 30 ×
+60° ou 45 × 45°), de cima para baixo ou de baixo para cima. 
+
+## Apresentação ##
 
 Diagramas extraídos de modelagens tridimensionais digitais, colagens
 e/ou desenhos técnicos (à mão livre ou com instrumentos) conforme
@@ -80,28 +104,6 @@ dependam de um software específico para serem lidos/usados (não se
 aplica ao arquivo do modelo 3D; usem o bom-senso). O suporte escolhido
 deverá apresentar todas as informações de identificação relevantes
 (trabalho, disciplina, edificação, seu nome, legendas, etc.).
-
-## Implantação urbana (5 pontos) ##
-
-Em planta, corte e fachada, mostrar a situação da edificação no seu
-entorno urbano imediato. Indicar, entre outros, dimensões do lote e da
-edificação, densidade da ocupação no lote, eventuais afastamentos ou
-quintais, proporções de cheios e vazios, traçados reguladores,
-alinhamentos com edificações vizinhas e com o volume do espaço público.
-Comparar com as edificações vizinhas.
-
-## Espaços interiores (5 pontos) ##
-
-Realizar uma sequência de diagramas tridimensionais, obtidos a partir de
-modelagem com operações de sólidos, ou desenhados à mão. Os diagramas
-devem evidenciar claramente a sequência de operações espaciais e o seu
-caráter aditivo ou subtrativo --- provavelmente uma operação, ou
-conjunto de operações simétricas, por diagrama. Esses diagramas devem
-demonstrar, também, a hierarquia entre os espaços. Usar tantos diagramas
-quanto necessário.
-
-Sugere-se representar os diagramas em vistas isométricas (30 × 30°, 30 ×
-60° ou 45 × 45°), de cima para baixo ou de baixo para cima. 
 
 # Recursos e apoio #
 
