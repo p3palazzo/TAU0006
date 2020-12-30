@@ -61,8 +61,8 @@ layout  : page
 +----+--------------------------------------------------------------------+--------------------------------------+-------------------+
 |  7 | **Clássico anticlássico**                                          | Processo: esboço                     | 23/03             |
 |    | -- Três momentos na reconstrução do classicismo                    |                                      |                   |
-|    | -- Terceiro: articulação do espaço em Bramante e Rafael            |                                      |                   |
-|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro  | Livro-texto 539--547,                | 25/03             |
+|    | -- Terceiro: articulação do espaço em Bramante e Rafael            | Livro-texto 539--547                 | 25/03             |
+|    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro  |                                      |                   |
 |    | -- Classicismo universal: Serlio, Vinhola e Palladio               | Summerson 39--62                     |                   |
 +----+--------------------------------------------------------------------+--------------------------------------+-------------------+
 |  8 | **Barroco e classicismo**                                          | Processo: um produto desenvolvido    | 29/03             |
