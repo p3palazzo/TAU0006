@@ -28,124 +28,161 @@ arquitetônicas da era moderna.
 
 # Processo (10 pontos) #
 
-## Documentação e estratégias (3 pontos) ##
+## Semana 1: Documentação e estratégias (3 pontos) ##
 
 1. Escolha um trecho de tecido urbano consolidado entre o século XV e o
    XVIII, numa cidade de qualquer região do mundo (exceto Brasil).
 
-   - O trecho escolhido deve ser um quadrado com 400 × 400 metros de
+   - O trecho escolhido deve ser um quadrado com 500 × 500 metros de
      extensão, cujas arestas apontam para os pontos cardeais;
-   - O trecho escolhido deve compreender uma hierarquia viária
-     diversificada e uma área significativa com parcelamento do solo
-     privado (lotes para casas, comércios, etc.);
+   - O trecho escolhido deve compreender um tecido urbano diversificado,
+     com uma área significativa de parcelamento do solo privado (lotes
+     para casas, comércios, etc.);
    - Você deve poder localizar ou compilar uma base cartográfica
-     precisa, mostrando no mínimo a largura real das ruas, a divisão de
-     lotes e a implantação das edificações.
+     precisa, mostrando no mínimo a largura real das caixas de vias, o
+     parcelamento do solo e a projeção das edificações;
+   - Melhor ainda se conseguir também uma representação semelhante à do
+     [mapa de Nolli](https://commons.wikimedia.org/wiki/Nuova_Topografia_di_Roma_di_Giovanni_Battista_Nolli_(1748)),
+     mostrando os espaços interiores públicos.
 
 2. Recolha também outros desenhos técnicos, modelos existentes, vistas e
    textos publicados referentes à área escolhida.
 
-   - Certifique-se de que 
+   - Certifique-se de que a documentação existente se refere à situação
+     do trecho urbano entre o século XV e o XVIII, ou que as condições
+     atuais da área sejam relativamente próximas às do século XVIII;
+   - Registre a fonte de todas as imagens e plantas, identificando,
+     conforme o caso, as pessoas ou instituições responsáveis pelo site
+     consultado, assim como a referência e autoria original de cada
+     planta, desenho ou foto.
 
-Produto
-=======
+3. Carregue os arquivos coletados na [pasta compartilhada do Microsoft
+   Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY).
 
-Conteúdo
---------
+   - Indique, do modo que for mais claro e conveniente, as referências
+     bibliográficas de *todas* as imagens e informações colhidas.
 
-Análise de uma área urbana da cidade selecionada, evidenciando o seu
-estado entre os séculos XV e XVIII (não o estado atual!) e as
-transformações sofridas até o período estudado. A área deve ser um
-quadrado com 400 metros de lado, cujas arestas apontam para os quatro
-pontos cardeais.
+4. Para o encontro de terça-feira, posicione preliminarmente sobre uma
+   das plantas pesquisadas o quadrado de 500 × 500 metros a ser
+   analisado.
 
-Organizar o produto em três partes sequenciais:
+## Semana 2: Desenho da planta de base (3 pontos) ##
 
-### Planta base ###
+Na orientação da semana 1, confirmamos o posicionamento do quadrado de
+500 × 500 metros a ser analisado. Agora, devemos representar essa área
+de modo padronizado, para permitir as análises.
 
-Planta de cheios e vazios, à maneira do [Mapa de Nolli][], do trecho
-urbano escolhido, na escala 1:750, com o norte para cima, mostrando para
-uma data representativa dentro do recorte cronológico da disciplina:
+1. **Planta de cheios e vazios** do trecho urbano escolhido, na escala
+   1:2000, com o norte para cima, mostrando:
 
-- Projeção das edificações no solo, muros altos, etc., evidenciando
-  sempre que possível os espaços abertos interiores (pátios e quintais)
-  e os principais espaços públicos ou cívicos cobertos (galerias e
-  arcadas, naves de igrejas, salões de uso coletivo, etc.);
-- Elementos de urbanização (meio-fio, mobiliário urbano, pequenas
-  construções, etc.);
-- Divisas de lotes, texturas de superfície.
+   - Parcelamento do solo (divisas de lotes);
+   - Projeção das edificações no solo e outras barreiras arquitetônicas,
+     tais como muros altos, fortificações, etc.;
+   - Monumentos, portais, fontes, escadarias, colunatas;
+   - Evidenciar sempre que possível os espaços abertos interiores
+     (pátios e quintais) e os principais espaços públicos ou cívicos
+     cobertos (galerias e arcadas, naves de igrejas, salões de uso
+     coletivo, etc.), à maneira do [Mapa de Nolli][];
+   - Barreiras não arquitetônicas importantes: topografia acentuada,
+     massas de água, parques, etc.;
+   - *Não representar* elementos menores tais como: separação de
+     calçamento e meio-fio nas ruas, mobiliário urbano, faixas de
+     rolamento --- a ênfase da planta base deve estar em evidenciar a
+     delimitação do espaço público pela projeção das edificações;
+   - Observe as margens e a tabela de cores e pesos de linhas indicadas
+     no modelo de prancha anexo: use o quadrado grande para a planta e o
+     espaço vertical do lado direito para as legendas, norte e escala
+     gráfica.
 
-A ênfase da planta base deve estar em evidenciar a delimitação do espaço
-público pela projeção das edificações.
+## Semana 3: planejamento das análises (3 pontos) ##
 
-Observar a tabela de cores e pesos de linhas indicada no Modelo de
-prancha anexo. Representar os elementos do sítio físico (água,
-topografia, vegetação) conforme relevante para a análise do espaço
-urbano. Usar esta planta como ponto de partida para elaborar as análises
-nas demais pranchas, sempre que a escala do desenho for a mesma.
+De posse da planta de base, é hora de refletir sobre as informações que
+podemos extrair dela e dos outros documentos coletados. A análise dos
+tecidos urbanos se divide, segundo Panerai, em três âmbitos: malha
+viária, parcelamento do solo e edificação.
 
-### Análise morfológica em planta ###
+Em cada um desses âmbitos, esboce as quatro ou cinco análises listadas,
+prevendo uma ou duas pranchas para cada análise.
 
-Quantas pranchas forem necessárias, começando com a situação da área no
-conjunto urbano, na escala 1:2000 ou menor, se necessário. As demais
-pranchas de análise devem esta na escala 1:750, usando o mesmo recorte
-geográfico da planta base. Analisar, sucessivamente:
+### Tecido urbano e malha viária ###
 
-1. **Malha viária**
+1. Marcar a geometria do traçado regulador ou os caminhos geradores da
+   malha viária;
+2. Mostrar as etapas sucessivas de formação, crescimento e transformação
+   do tecido urbano ao longo do tempo;
+3. Analisar em corte (escala 1:500) as dimensões e proporções das caixas
+   de vias (espaço delimitado pelas edificações) de algumas ruas e
+   praças representativas de padrões diversos;
+4. Diagramar (croquis) as relações entre pontos focais, marcos visuais,
+   e a estrutura da malha viária;
+5. Mostrar a relação da malha viária com a topografia e a água.
 
-   - Traçado regulador ou percursos geradores;
-   - Formação e transformação do espaço público ao longo do tempo;
-   - Padrões geométricos e proporções;
-   - Tipos de espaços, suas hierarquias e articulações, campos visuais e
-     percursos;
-   - Elementos de infraestrutura (fontes, chafarizes, coretos,
-     monumentos e esculturas, escadarias e guarda-corpos);
-   - Relação da malha viária com a topografia e a água.
+### Parcelamento do solo ###
 
-2. **Parcelamento do solo**
+1. Classificar as dimensões e proporções de quarteirões e lotes em
+   padrões predominantes e apontar as exceções significativas;
+2. Destacar as diferenças entre centro e periferia, loteamentos
+   planejados, etc.;
+3. Reconstituir o processo histórico de extensão do parcelamento do solo
+   e sinalizar eventuais remembramentos e desmembramentos;
+4. Mostrar a relação do parcelamento com a topografia e a água.
 
-   - Quarteirões e lotes;
-   - Processo histórico de parcelamento e adensamento;
-   - Relação dos quarteirões e lotes com a malha viária;
-   - Tipos de lotes segundo suas dimensões e proporções;
-   - Relação do parcelamento com a topografia e a água.
+### Edificações ###
 
-3. **Edificações**
+1. Situar e analisar as características dos tipos edilícios de base (a
+   "casa" residencial e comercial predominante na área e na época
+   estudada), usando croquis ampliados em planta, corte e fachada;
+2. Contrastar com os tipos edilícios especializados (edifícios
+   diferenciados na malha urbana), usando croquis ampliados em planta,
+   corte e fachada;
+3. Diagramar a relação dos diferentes tipos com o parcelamento do solo
+   e com o espaço público;
+4. Analisar em corte e em fachada alguns aspectos bioclimáticos da
+   edilícia de base: ventilação, sombreamento, interação com a
+   vegetação e com a água.
 
-   - Situar e analisar as características dos tipos edilícios de base (a
-     "casa" predominante na área e na época estudada);
-   - Caracterizar os tipos edilícios especializados (edifícios
-     diferenciados na malha urbana);
-   - Relação dos diferentes tipos com o parcelamento do solo e com o
-     espaço público;
-   - Aspectos bioclimáticos da edilícia de base: orientação solar,
-     ventilação, sombreamento, interação com a vegetação e com a água.
+## Semana 4: um produto desenvolvido (1 ponto) ##
 
-Os itens listados em cada parte são indicativos de um tratamento
-*mínimo* do objeto. Complementar com outras informações conforme
-apropriado.
+Apresente ao menos um dos três grupos de análises (malha viária,
+parcelamento ou edificações) suficientemente desenvolvido para revisão e
+orientação.
 
-### Contextualização e explicação ###
+# Produto (10 pontos) #
 
-Quantas pranchas forem necessárias, em qualquer modo de representação
-que for apropriado (cortes, fachadas, croquis diversos, linhas do tempo,
-etc.), detalhando e complementando a Análise morfológica em planta.
+1. Planta de base e informações gerais;
+2. Pranchas de análise nas três categorias (malha viária, parcelamento e
+   edificações);
+3. Bibliografia e referências da iconografia.
 
-A última prancha deve listar a bibliografia e iconografia pesquisada,
-usando sempre um formato padronizado de referência (por exemplo, a ABNT
-NBR 6023). No caso de mapas ou desenhos históricos importantes, incluir
-uma vinheta reduzida da imagem. Esta prancha não precisa seguir o Modelo
-de prancha, mas use uma margem compatível.
+## Pesquisa (3 pontos) ##
 
-Apresentação
-------------
+Demonstre claramente a sua capacidade de:
+
+- Levantar e organizar material bibliográfico pertinente
+  ao tema do trabalho e de refletir criticamente sobre ele;
+- Apresentar corretamente os dados históricos e morfológicos, com
+  plantas refletindo a realidade histórica e a forma física da área,
+  especialmente no que diz respeito à planta base;
+- Documentar e referenciar de modo sistemático, completo e correto as
+  fontes das informações e da cartografia utilizada.
+
+## Análise (4 pontos) ##
+
+- Sequência lógica e clara das pranchas, progredindo, onde apropriado,
+  do geral para o particular e do mais antigo ao mais recente;
+- Tratamento aprofundado e equilibrado dos três níveis da análise
+  morfológica --- malha viária, parcelamento, edificações;
+- Uso correto e eficaz das plantas em escala 1:2000 e de outras formas
+  de representação.
+
+## Apresentação (3 pontos) ##
 
 Todas as pranchas num único arquivo em formato `.pdf`. Todas as plantas
 devem seguir o Modelo de prancha anexo. Essas convenções gráficas se
 baseiam na representação cartográfica habitual na Europa ocidental
 durante os séculos XVII e XVIII.
 
-- Plantas e desenhos no campo esquerdo da prancha, com o mínimo
+- Plantas, desenhos e croquis no campo esquerdo da prancha, com o mínimo
   necessário de títulos e legendas;
 - Legendas e textos no campo direito;
 - Título de cada prancha no topo do campo direito;
@@ -167,43 +204,22 @@ prioritariamente, por aquele desenho. Ajuste a forma de representação e
 as convenções gráficas para transmitir do modo mais claro possível a
 informação pretendida.
 
-Critérios de avaliação
-======================
 
-### Pesquisa (30 pontos) ###
+# Referências #
 
-- Capacidade de levantar e organizar material bibliográfico pertinente
-  ao tema do trabalho e de refletir criticamente sobre ele;
-- Dados históricos e morfológicos apresentados estão corretos, com
-  plantas refletindo a realidade histórica e a forma física da área,
-  especialmente no que diz respeito à planta base;
-- Clareza na organização e apresentação das informações pesquisadas.
+Os textos indicados abaixo, assim como o Modelo de prancha, estão
+disponíveis na [área de arquivos da disciplina no Microsoft
+Teams](https://teams.microsoft.com/_#/school/files/Geral?threadId=19%3A4a57708d384d465096a27eeeb24cbf44%40thread.tacv2&ctx=channel&context=Trabalho%25201&rootfolder=%252Fsites%252FTAU0006%252FMaterial%2520de%2520Aula%252FTrabalho%25201).
+Considere o material indicado abaixo como um ponto de partida importante
+para situar a abordagem da análise.
 
-### Análise (50 pontos) ###
+## Metodologia ##
 
-- Sequência lógica e clara das pranchas, progredindo, onde apropriado,
-  do geral para o particular e do mais antigo ao mais recente;
-- Tratamento aprofundado e equilibrado dos três níveis da análise
-  morfológica --- malha viária, parcelamento, edificações;
-- Uso correto e eficaz das plantas em escala 1:750 e de outras formas
-  de representação.
+- Bacon, Edmund N. *Design of Cities*. New York: Penguin, 1974.
+- Panerai, Philippe. *Análise urbana*. Traduzido por Francisco Leitão.
+  Brasília: Editora UnB, 2006.
 
-### Representação (20 pontos) ###
-
-- Domínio aplicado das convenções de projeção geométrica e de desenho
-  arquitetônico;
-- Correspondência do enquadramento e da orientação geográfica ao longo
-  das pranchas;
-- Uso das convenções gráficas de modo claro, regular e eficaz,
-  permitindo reconhecer os elementos urbanos e arquitetônicos de uma
-  prancha para a outra;
-- Clareza e capacidade informativa dos croquis;
-- Uso equilibrado de informações textuais onde necessário;
-- Aspecto claro, limpo e elegante das pranchas, com emprego
-  consistente de meios e técnicas (desenho à mão ou vetorial).
-
-Recursos e apoio
-================
+## Pesquisa ##
 
 - Use o fórum da unidade e o ambiente de construção colaborativa do
   conteúdo para tirar dúvidas, compartilhar informações e bibliografia
@@ -219,17 +235,6 @@ Recursos e apoio
 - O portal OpenStreetMap permite baixar arquivos vetoriais de
   praticamente qualquer lugar do mundo, mas com níveis de detalhe e
   precisão muito desiguais.
-
-Referências
-===========
-
-Os textos indicados abaixo, assim como o Modelo de prancha, estão
-disponíveis na [área de arquivos da disciplina no Microsoft
-Teams](https://teams.microsoft.com/_#/school/files/Geral?threadId=19%3A4a57708d384d465096a27eeeb24cbf44%40thread.tacv2&ctx=channel&context=Trabalho%25201&rootfolder=%252Fsites%252FTAU0006%252FMaterial%2520de%2520Aula%252FTrabalho%25201).
-
-- Bacon, Edmund N. *Design of Cities*. New York: Penguin, 1974.
-- Panerai, Philippe. *Análise urbana*. Traduzido por Francisco Leitão.
-  Brasília: Editora UnB, 2006.
 
 [convenções cartográficas da Wikipédia]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Maps/Conventions
 
