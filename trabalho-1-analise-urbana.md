@@ -1,22 +1,51 @@
 ---
 title   : "Análise urbana"
 subtitle: "Trabalho I"
-layout  : default
 ---
 
-Ementa
-======
+# Ementa #
+
+A tipologia edilícia e a forma urbana se influenciam mutuamente. A
+arquitetura responde simultaneamente às condições singulares da sua
+implantação no lugar, e gera condicionantes para intervenções futuras.
+Explore este diálogo analisando a implantação urbana e da composição
+espacial numa edificação clássica dos séculos XV a XVIII, apresentada na
+forma de um estudo de repertório.
 
 Análise morfológica de um conjunto urbanístico formado ou transformado
 entre os séculos XV e XVIII.
-
-Objetivo
-========
 
 Mostrar, explicar e reconstituir os processos de formação e
 transformação dos espaços públicos e do parcelamento do solo, produzindo
 desenhos autógrafos (originais) a partir da análise da cartografia
 existente e de pesquisa bibliográfica.
+
+## Objetivo ##
+
+Desenvolver uma visão de conjunto sobre os fundamentos urbanísticos e
+construtivos a partir dos quais se desenvolvem as culturas
+arquitetônicas da era moderna.
+
+# Processo (10 pontos) #
+
+## Documentação e estratégias (3 pontos) ##
+
+1. Escolha um trecho de tecido urbano consolidado entre o século XV e o
+   XVIII, numa cidade de qualquer região do mundo (exceto Brasil).
+
+   - O trecho escolhido deve ser um quadrado com 400 × 400 metros de
+     extensão, cujas arestas apontam para os pontos cardeais;
+   - O trecho escolhido deve compreender uma hierarquia viária
+     diversificada e uma área significativa com parcelamento do solo
+     privado (lotes para casas, comércios, etc.);
+   - Você deve poder localizar ou compilar uma base cartográfica
+     precisa, mostrando no mínimo a largura real das ruas, a divisão de
+     lotes e a implantação das edificações.
+
+2. Recolha também outros desenhos técnicos, modelos existentes, vistas e
+   textos publicados referentes à área escolhida.
+
+   - Certifique-se de que 
 
 Produto
 =======
