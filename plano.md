@@ -81,98 +81,98 @@ Modernidade.
 ### Unidade I · Redes urbanas na fundação do mundo moderno ###
 
 1. **Arquitetura do humanismo**
-  -- Introdução à arquitetura da Idade Moderna
-  -- Arquitetura clássica entre a prática e a teoria
-  -- Problemas de historiografia e crítica
-  -- Construção tradicional
+   -- Introdução à arquitetura da Idade Moderna
+   -- Arquitetura clássica entre a prática e a teoria
+   -- Problemas de historiografia e crítica
+   -- Construção tradicional
 
 2. **Rotas comerciais e paradigmas urbanísticos**
-  -- Formas urbanas tradicionais
-  -- Cidades mercantes da rota da Seda e do oceano Índico
-  -- Praças e pontos focais no mundo veneziano--bizantino
-  -- Infraestrutura hidráulica na América
+   -- Formas urbanas tradicionais
+   -- Cidades mercantes da rota da Seda e do oceano Índico
+   -- Praças e pontos focais no Mediterrâneo oriental
+   -- Infraestrutura hidráulica na América
 
 3. **Renascimento e historiografia**
-  -- Perspectiva e espaço arquitetônico
-  -- História da arquitetura como história da construção
-  -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
-  -- Cúpulas islâmicas e malhas espaciais
+   -- Perspectiva e espaço arquitetônico
+   -- História da arquitetura como história da construção
+   -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
+   -- Cúpulas islâmicas e malhas espaciais
 
 4. **Cidades ideais e cidades possíveis**
-  -- Vilas novas em Portugal e *jōkamachi* no Japão
-  -- Traçados reguladores: *chahār-bāgh* e quincúncia
-  -- O *boma*, paradigma urbanístico da África
-  -- Geometria e fortificação
+   -- Vilas novas em Portugal e *jōkamachi* no Japão
+   -- Traçados reguladores: *chahār-bāgh* e quincúncia
+   -- O *boma*, paradigma urbanístico da África
+   -- Geometria e fortificação
 
 ### Unidade II · Linguagens clássicas da arquitetura ###
 
 5. **Teoria do classicismo**
-  -- Gramática e vocabulário da arquitetura clássica
-  -- Compor espaços e articular superfícies
-  -- Proporções e metafísica da arquitetura
-  -- Classicismo como estilo internacional
+   -- Gramática e vocabulário da arquitetura clássica
+   -- Compor espaços e articular superfícies
+   -- Proporções e metafísica da arquitetura
+   -- Classicismo como estilo internacional
 
 6. **Arte clássica**
-  -- Tratadística italiana e ideal geométrico na China
-  -- Três momentos na reconstrução do classicismo
-  -- Primeiro: resgatar o vocabulário antigo
-  -- Segundo: estabelecer a gramática espacial clássica
+   -- Tratadística italiana e ideal geométrico na China
+   -- Três momentos na reconstrução do classicismo
+   -- Primeiro: resgatar o vocabulário antigo
+   -- Segundo: estabelecer a gramática espacial clássica
 
 7. **Clássico anticlássico**
-  -- Três momentos na reconstrução do classicismo
-  -- Terceiro: articulação do espaço em Bramante e Rafael
-  -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro
-  -- Classicismo universal: Serlio, Vinhola e Palladio
+   -- Três momentos na reconstrução do classicismo
+   -- Terceiro: articulação do espaço em Bramante e Rafael
+   -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro
+   -- Classicismo universal: Serlio, Vinhola e Palladio
 
 8. **Barroco e classicismo**
-  -- Da tipologia espacial ao projeto geométrico
-  -- Espaços urbanos e rurais da colonização
-  -- Plaza Mayor, place Royale, Squares ingleses
-  -- Bioclimatismo e arquitetura clássica
+   -- Da tipologia espacial ao projeto geométrico
+   -- Espaços urbanos e rurais da colonização
+   -- Plaza Mayor, place Royale, Squares ingleses
+   -- Bioclimatismo e arquitetura clássica
 
 9. **Arte acadêmica**
-  -- Desenho, colorido e a Querela dos Antigos e dos Modernos
-  -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo
-  -- Academias de arte e o ofício da arquitetura
-  -- Simetria, gosto, caráter
+   -- Desenho, colorido e a Querela dos Antigos e dos Modernos
+   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo
+   -- Academias de arte e o ofício da arquitetura
+   -- Simetria, gosto, caráter
 
 ### Unidade III · Estilo e território: inquietações da modernidade ###
 
 10. **Primeiros modernos**
-  -- Inquietações da modernidade
-  -- Teorias do barroco e do classicismo
-  -- Fim do "vitruvianismo" e ascensão do mecanicismo
-  -- Arqueologia e nacionalismo como fatores de ruptura
+   -- Inquietações da modernidade
+   -- Teorias do barroco e do classicismo
+   -- Fim do "vitruvianismo" e ascensão do mecanicismo
+   -- Arqueologia e nacionalismo como fatores de ruptura
 
 11. **Urbanismo como arquitetura**
-  -- Sincretismo arquitetônico na Etiópia
-  -- Espaços rurais e urbanos da colonização
-  -- O *hôtel* francês: soluções funcionais da modernidade
-  -- Desenhos desmedidos: Versalhes e seus êmulos
+   -- Sincretismo arquitetônico na Etiópia
+   -- Espaços rurais e urbanos da colonização
+   -- O *hôtel* francês: soluções funcionais da modernidade
+   -- Desenhos desmedidos: Versalhes e seus êmulos
 
 12. **Barroco internacional**
-  -- Presságios: arquitetura e razão na França e Inglaterra
-  -- Virtuosismo construtivo na Europa e na Ásia
-  -- Virtuosismo decorativo e o pitoresco
-  -- Cosmopolitismo dos jardins chineses à carpintaria japonesa
+   -- Presságios: arquitetura e razão na França e Inglaterra
+   -- Virtuosismo construtivo na Europa e na Ásia
+   -- Virtuosismo decorativo e o pitoresco
+   -- Cosmopolitismo dos jardins chineses à carpintaria japonesa
 
 13. **Universo em expansão**
-  -- Antiquarismo e história da arte
-  -- Lodoli, Milizia, Piranesi e o "neo" classicismo
-  -- Maturidade das tradições asiáticas
-  -- Ruínas e crise da unidade clássica
+   -- Antiquarismo e história da arte
+   -- Lodoli, Milizia, Piranesi e o "neo" classicismo
+   -- Maturidade das tradições asiáticas
+   -- Ruínas e crise da unidade clássica
 
 14. **Reação clássica**
-  -- Tradição, correção e inovação como problemas da crítica
-  -- Arquitetura dos engenheiros
-  -- Manuais de carpintaria e estampas populares
-  -- Autoridade da teoria sobre a prática
+   -- Tradição, correção e inovação como problemas da crítica
+   -- Arquitetura dos engenheiros
+   -- Manuais de carpintaria e estampas populares
+   -- Autoridade da teoria sobre a prática
 
 15. **Territórios e viação**
-  -- Reorganização espacial no mundo ibérico
-  -- Projetos urbanos na América do Norte
-  -- Viação como estratégia de poder
-  -- Topografia, agrimensura e representação
+   -- Reorganização espacial no mundo ibérico
+   -- Projetos urbanos na América do Norte
+   -- Viação como estratégia de poder
+   -- Topografia, agrimensura e representação
 
 # Metodologia #
 
@@ -367,8 +367,7 @@ gradual e naturalmente do seu modo de resolver o problema proposto.
 
 ## Critérios para aprovação na disciplina ##
 
-Os critérios de avaliação de cada atividade são apresentados com a
-respectiva ementa. Em linhas gerais, o que esperamos de todas as
+O que esperamos de todas as
 entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do
 material necessário à realização do trabalho, reflexão crítica, clareza
 e capricho na execução. Para obter aprovação na disciplina, você precisa
@@ -436,7 +435,7 @@ em quatro partes:
   de referências relevantes para a discussão dos tópicos do semestre, que
   forma a base da nossa abordagem didática.
 
-## Leituras obrigatórias ##
+## Leituras obrigatórias ## {.unnumbered}
 
 O livro-texto de base que nos acompanhará ao longo de todo o semestre
 foi concebido pelos fundadores do [Global Architectural History Teaching

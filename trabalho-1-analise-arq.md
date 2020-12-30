@@ -5,37 +5,95 @@ subtitle: "Trabalho I"
 
 # Ementa #
 
-Análise da composição espacial e da articulação dos elementos de
-arquitetura nos interiores de uma edificação clássica dos séculos XV a
-XVIII.
+A tipologia edilícia e a forma urbana se influenciam mutuamente. A
+arquitetura responde simultaneamente às condições singulares da sua
+implantação no lugar, e gera condicionantes para intervenções futuras.
+Explore este diálogo analisando a implantação urbana e da composição
+espacial numa edificação clássica dos séculos XV a XVIII, apresentada na
+forma de um estudo de repertório.
 
-# Objetivo #
+## Objetivo ##
 
 Desenvolver uma visão de conjunto sobre os fundamentos urbanísticos e
-construtivos sobre os quais se desenvolvem as culturas arquitetônicas da
-era moderna.
+construtivos a partir dos quais se desenvolvem as culturas
+arquitetônicas da era moderna.
 
-# Produto #
+# Processo (10 pontos) #
 
-## Conteúdo ##
+## Documentação e estratégias (3 pontos) ##
 
-Sequência de diagramas demonstrando a implantação, a composição dos
-espaços e a elaboração de elementos de arquitetura nos interiores da
-edificação, assim como as operações aditivas ou subtrativas realizadas
-em cada passo. O produto será, portanto, dividido em três partes:
+Escolha uma edificação urbana dos séculos XV a XVIII no questionário
+proposto no Moodle. 
+Recolha desenhos técnicos, modelos existentes, vistas e textos
+publicados referentes à edificação escolhida.
 
-### Produto 1: análise de implantação ###
+- Carregue os arquivos coletados na [pasta compartilhada do Microsoft
+  Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY);
+- Indique as referências bibliográficas de *todas* as imagens e
+  informações colhidas no campo de texto da tarefa no Moodle;
+- Para o encontro de terça-feira, reflita sobre possíveis estratégias
+  de desenvolvimento das análises.
+
+## Desenvolvimento das análises (5 pontos) ##
+
+Desenvolva uma sequência de diagramas demonstrando a implantação urbana
+e a composição dos espaços nos interiores da edificação. A execução
+dessas análises deve visar aos produtos indicados mais abaixo.
+Apresente em forma de rascunho, podendo incluir croquis, anotações e
+qualquer outra informação pertinente.
+
+- Carregue os arquivos gerados na [pasta compartilhada do Microsoft
+  Teams ou Sharepoint](https://unbbr.sharepoint.com/:f:/s/TAU0006/ElqNcO-3cTVFkFR9a2a8y3QBweGi_OThY0j9cB_awcaA-w?e=lc8XYY);
+- Tenha certeza de que os arquivos enviados para a orientação são
+  amplamente compatíveis (PDF, JPG, MP4, etc.);
+- Caso deseje, poderá também compartilhar a tela do seu computador no
+  dia da orientação.
+
+## Um produto para revisão (2 pontos) ##
+
+Escolha um dos dois produtos e apresente-o suficientemente completo para
+revisão preliminar. As indicações de entrega são as mesmas da etapa
+anterior.
+
+# Produto (10 pontos) #
+
+Diagramas extraídos de modelagens tridimensionais digitais, colagens
+e/ou desenhos técnicos (à mão livre ou com instrumentos) conforme
+apropriado para cada produto. Os diagramas devem ser apresentados num
+formato amplamente acessível, compatível, e de fácil visualização.
+Entregue o produto na tarefa do Moodle, usando o recurso apropriado:
+carregar um ou mais arquivos, postar um link no campo de texto, etc.
+
+Alguns formatos possíveis (não obrigatórios) são:
+
+- Pranchas em formato PDF (uma prancha densa por produto);
+- Vídeo em formato MP4 ou postado no YouTube;
+- Modelo interativo postado no [Sketchfab](http://sketchfab.com) ou
+  similar;
+- Site com sequências de imagens; etc.;
+- No caso de o produto ter sido modelado, anexar também o arquivo do
+  modelo.
+
+Em todos os casos, atentar para a resolução das imagens e para a
+facilidade de "manuseio" do produto. Evite a entrega em formatos que
+dependam de um software específico para serem lidos/usados (não se
+aplica ao arquivo do modelo 3D; usem o bom-senso). O suporte escolhido
+deverá apresentar todas as informações de identificação relevantes
+(trabalho, disciplina, edificação, seu nome, legendas, etc.).
+
+## Implantação urbana (5 pontos) ##
 
 Em planta, corte e fachada, mostrar a situação da edificação no seu
-entorno urbano imediato. Indicar, entre outros, a densidade da ocupação
-no lote, eventuais afastamentos ou quintais, proporções de cheios e
-vazios, traçados reguladores, alinhamentos com edificações vizinhas e
-com o volume do espaço público.
+entorno urbano imediato. Indicar, entre outros, dimensões do lote e da
+edificação, densidade da ocupação no lote, eventuais afastamentos ou
+quintais, proporções de cheios e vazios, traçados reguladores,
+alinhamentos com edificações vizinhas e com o volume do espaço público.
+Comparar com as edificações vizinhas.
 
-### Produto 2: análise de espaços ###
+## Espaços interiores (5 pontos) ##
 
 Realizar uma sequência de diagramas tridimensionais, obtidos a partir de
-modelagem com operações de sólidos ou desenhados à mão. Os diagramas
+modelagem com operações de sólidos, ou desenhados à mão. Os diagramas
 devem evidenciar claramente a sequência de operações espaciais e o seu
 caráter aditivo ou subtrativo --- provavelmente uma operação, ou
 conjunto de operações simétricas, por diagrama. Esses diagramas devem
@@ -45,75 +103,6 @@ quanto necessário.
 Sugere-se representar os diagramas em vistas isométricas (30 × 30°, 30 ×
 60° ou 45 × 45°), de cima para baixo ou de baixo para cima. 
 
-### Produto 3: análise de elementos da arquitetura ###
-
-Os diagramas devem mostrar a sucessão de camadas --- no sentido literal
-ou figurado --- de elementos na superfície das colunatas, arcadas,
-paredes e tetos que compõem alguns dos principais espaços interiores da
-edificação. Começar com a superfície nua e suas aberturas, ou com o
-esqueleto estrutural, e desenvolver passo a passo as camadas de
-elementos que dão volume ao sistema. As proporções dos elementos sobre o
-plano da parede ou a superfície do teto, assim como a espessura desses
-elementos (em relevo ou reentrância), devem ser enfatizadas. Usar tantos
-diagramas quanto necessário.
-
-## Apresentação ##
-
-Diagramas extraídos de modelagens tridimensionais digitais, colagens
-e/ou desenhos técnicos à mão (livre ou não) conforme apropriado para
-cada produto. Os diagramas devem ser apresentados num formato amplamente
-acessível, compatível, e de fácil visualização. Alguns formatos
-possíveis são:
-
-- Pranchas em formato PDF (uma prancha por produto);
-- Vídeo em formato MP4 ou no YouTube;
-- Site com sequências de imagens;
-- No caso de o produto ter sido modelado, enviar também o arquivo do
-  modelo tridimensional.
-
-Em todos os casos, atentar para a resolução das imagens e para a
-facilidade de "manuseio" do produto. Evitar a entrega em formatos que
-dependam de um software específico para serem lidos/usados (não se
-aplica ao arquivo do modelo 3D; usem o bom-senso). O suporte escolhido
-deverá apresentar todas as informações de identificação relevantes
-(trabalho, disciplina, edificação, seu nome, legendas, etc.).
-
-# Critérios de avaliação #
-
-## Pesquisa (30 pontos) ##
-
-- Capacidade de levantar e organizar material bibliográfico e
-  referências visuais pertinentes ao tema do trabalho e de refletir
-  criticamente sobre elas;
-- Formas gerais e proporções refletem corretamente a aparência da
-  edificação analisada;
-- Clareza na organização e apresentação das informações pesquisadas.
-
-## Análise (50 pontos) ##
-
-- Sequência lógica e clara dos desenhos e das pranchas, progredindo,
-  conforme apropriado, do exterior para o interior, do centro para a
-  periferia, da frente para os fundos, da base para o topo, do plano da
-  parede para as projeções e reentrâncias, etc.;
-- Separação dos diagramas conforme passos lógicos, sem sobrepor
-  excessiva quantidade de transformações num mesmo desenho;
-- Uso correto e eficaz das projeções geométricas.
-
-## Representação (20 pontos) ##
-
-- Domínio aplicado das convenções de projeção geométrica e de desenho
-  arquitetônico;
-- Correspondência do enquadramento e da orientação ao longo das
-  pranchas;
-- Uso das convenções gráficas de modo claro, regular e eficaz,
-  permitindo reconhecer os elementos arquitetônicos e as relações
-  espaciais, distinguindo perfis rasos e profundos, linhas de corte,
-  etc.;
-- Clareza e capacidade informativa dos croquis;
-- Uso equilibrado de informações textuais onde necessário;
-- Aspecto claro, limpo e elegante das pranchas, com emprego
-  consistente de meios e técnicas (desenho à mão ou modelagem digital).
-
 # Recursos e apoio #
 
 - Use o fórum da unidade e o ambiente de construção colaborativa do
@@ -122,11 +111,13 @@ deverá apresentar todas as informações de identificação relevantes
 - Aproveite os modelos digitais de edifícios famosos disponíveis em
   repositórios online como ponto de partida, mas verifique sempre se os
   espaços interiores e as proporções estão corretas;
-- Proporções são importantes, inclusive no Produto 2! Use o manual de
-  ordens clássicas do Chitham para se familiarizar com as proporções
-  habituais da arquitetura clássica.
+- Dê especial atenção às medidas e dimensões físicas, e ao que elas
+  permitem como implantação, distribuição de espaços, iluminação e
+  ventilação.
 
 # Referências #
+
+## Metodologia de análise ##
 
 Os textos indicados abaixo estão disponíveis na [área de arquivos da
 disciplina no Microsoft
@@ -144,15 +135,34 @@ ou na "Minha biblioteca" eletrônica acessível pelo catálogo integrado da
 - Unwin, Simon. *Análise da arquitetura*. Trad. Alexandre Salvaterra.
   Porto Alegre: Bookman, 2015.
 
-# Grupos e temas #
+## Material de pesquisa ##
 
-## Grupo 1: Itália ##
+Lista não exaustiva de fontes onde se podem encontrar levantamentos
+arquitetônicos de edificações relevantes para este trabalho. Ver também
+a bibliografia no plano de ensino.
 
-## Grupo 2: França ##
-
-## Grupo 3: Mundo ibérico ##
-
-## Grupo 4: Mundo germânico ##
-
-## Grupo 5: Mundo britânico ##
+- Blondel, Jacques-François. *Architecture françoise,* ou Recueil des
+  plans, élévations, coupes et profils des églises, maisons royales,
+  palais, hôtels  édifices les plus considérables de Paris. 4 vols.
+  Paris: Charles-Antoine Jombert, 1752.
+  http://www.e-rara.ch/zut/2783140.
+- Campbell, Colen. *Vitruvius Britannicus,* or, the British Architect :
+  Containing the Plans, Elevations, and Sections of the Regular
+  Buildings, Both Publick and Private, in Great Britain. 5 vols. London:
+  J. Taylor at the Architectural Library, 1715.
+  http://www.e-rara.ch/zut/3274460.
+- Letarouilly, Paul Marie. *Édifices de Rome moderne* ou recueil des
+  palais, maisons, églises, couvents et autres monuments publics et
+  praticuliers les plus remarquables. 6 vols. Paris: Firmin-Didot
+  frères, 1840. http://www.e-rara.ch/zut/8787968.
+- Palladio, Andrea. *The Four Books of Architecture.* Traduzido por Isaac
+  Ware. London: R. Ware, 1738.
+  http://archive.org/details/gri_33125011569684.
+- Swan, Abraham. *A Collection of Designs in Architecture :* Containing
+  New Plans and Elevations of Houses for General Use : With a Great
+  Variety of Sections of Rooms ... to Which Are Added, Curious Designs
+  of Stone and Timber Bridges ... in Two Volumes, Each Containing Sixty
+  Plates Engraved on Copper. London: Printed for and sold by the author
+  ... by Mr. Brotherton ... Mr. Buckland ... H. Piers and Partner, 1758.
+  http://archive.org/details/gri_33125009310208.
 
