@@ -2,7 +2,7 @@ from                   : markdown+raw_tex
 to                     : html
 bibliography           : biblio.bib
 cite-method            : citeproc
-css                    : "assets/main.css"
+css                    : "/tau0006/assets/main.css"
 fail-if-warnings       : true
 file-scope             : true
 number-sections        : false
@@ -15,5 +15,6 @@ metadata:
   csl                  : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
   cssLabelSep          : "&ndash;"
   figureTitle          : Figura
+  tableTitle           : Tabela
   lang                 : pt-BR
   suppress-bibliography: true

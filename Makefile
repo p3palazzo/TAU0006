@@ -6,6 +6,8 @@ vpath %.csl _csl
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss assets/css
 vpath %.xml _site
+vpath default.% _lib
+vpath %.yaml _spec:.
 
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.11.2
@@ -19,15 +21,15 @@ FONTS   = $(wildcard assets/fonts/*)
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
 DOCS    = $(wildcard _aula/*.md)
-SLIDES := $(patsubst _aula/%.md,_site/aula/%/index.html,$(DOCS))
-NOTAS  := $(patsubst _aula/%.md,_site/aula/%/notas.html,$(DOCS))
+SLIDES := $(patsubst _aula/%.md,slides/%.html,$(DOCS))
+NOTAS  := $(patsubst _aula/%.md,_notas/%.html,$(DOCS))
 
 deploy : _site $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
 
 # {{{1 Produtos PDF
 #      ============
 
-tau0006-plano-20_2.pdf : plano.pdf cronograma.pdf
+tau0006-plano.pdf : plano.pdf cronograma.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $<
 
@@ -37,36 +39,31 @@ tau0006-plano-20_2.pdf : plano.pdf cronograma.pdf
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
 %.tex : %.md latex.yaml default.latex
-	$(PANDOC/LATEX) -o $@ -d latex.yaml $<
+	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
 .pages : $(PAGES)
-	touch .pages
 
 .notas : $(NOTAS)
-	touch .notas
 
 .slides : $(SLIDES)
-	touch .slides
 
-_site/%.html : html.yaml %.md | _csl
+_site/%.html : %.md html.yaml | _csl _site
 	@mkdir -p _site
-	$(PANDOC/CROSSREF) -o $@ -d $^
+	$(PANDOC/CROSSREF) -o $@ -d _spec/html.yaml $<
 
-_site/aula/%/index.html : revealjs.yaml _aula/%.md | _csl
-	@mkdir -p _site/aula/$*
-	$(PANDOC/CROSSREF) -o $@ -d $^
+slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
+	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 # Para ativar o Multiplex, incluir as linhas abaixo no comando acima:
 #-V multiplexSecret=$(multiplexSecret) \
 #-V multiplexSocketId=$(multiplexSocketId) \
 #-V multiplexUrl=$(multiplexUrl) \
 
-_site/aula/%/notas.html : html.yaml _aula/%.md | _csl
-	@mkdir -p _site/aula/$*
-	$(PANDOC/CROSSREF) -o $@ -d $^ --css ../../assets/main.css
+_notas/%.html : _aula/%.md biblio.bib html.yaml | _csl _notas
+	$(PANDOC/CROSSREF) -o $@ -d _spec/html.yaml $<
 
 _site/package-lock.json : package.json | _site
 	cp package.json _site/
@@ -81,6 +78,12 @@ _site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS)
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
+
+_notas :
+	mkdir -p _notas
+
+slides :
+	mkdir -p slides
 
 serve : | _site
 	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
