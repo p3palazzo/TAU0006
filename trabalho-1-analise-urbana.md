@@ -8,17 +8,8 @@ subtitle: "Trabalho I"
 A tipologia edilícia e a forma urbana se influenciam mutuamente. A
 arquitetura responde simultaneamente às condições singulares da sua
 implantação no lugar, e gera condicionantes para intervenções futuras.
-Explore este diálogo analisando a implantação urbana e da composição
-espacial numa edificação clássica dos séculos XV a XVIII, apresentada na
-forma de um estudo de repertório.
-
-Análise morfológica de um conjunto urbanístico formado ou transformado
-entre os séculos XV e XVIII.
-
-Mostrar, explicar e reconstituir os processos de formação e
-transformação dos espaços públicos e do parcelamento do solo, produzindo
-desenhos autógrafos (originais) a partir da análise da cartografia
-existente e de pesquisa bibliográfica.
+Explore este diálogo analisando um conjunto urbanístico formado ou
+transformado entre os séculos XV e XVIII.
 
 ## Objetivo ##
 
@@ -42,15 +33,14 @@ arquitetônicas da era moderna.
      precisa, mostrando no mínimo a largura real das caixas de vias, o
      parcelamento do solo e a projeção das edificações;
    - Melhor ainda se conseguir também uma representação semelhante à do
-     [mapa de Nolli](https://commons.wikimedia.org/wiki/Nuova_Topografia_di_Roma_di_Giovanni_Battista_Nolli_(1748)),
-     mostrando os espaços interiores públicos.
+     [mapa de Nolli][], mostrando os espaços interiores públicos.
 
 2. Recolha também outros desenhos técnicos, modelos existentes, vistas e
    textos publicados referentes à área escolhida.
 
    - Certifique-se de que a documentação existente se refere à situação
      do trecho urbano entre o século XV e o XVIII, ou que as condições
-     atuais da área sejam relativamente próximas às do século XVIII;
+     atuais da área sejam próximas às do século XVIII;
    - Registre a fonte de todas as imagens e plantas, identificando,
      conforme o caso, as pessoas ou instituições responsáveis pelo site
      consultado, assim como a referência e autoria original de cada

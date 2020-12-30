@@ -19,7 +19,7 @@ linguagem clássica.
 
 # Processo (10 pontos) #
 
-## Documentação e estratégias (3 pontos) ##
+## Semana 1: documentação e estratégias (3 pontos) ##
 
 Escolha duas fachadas de edificações do século XV ao XVIII,
 caracterizadas pelo uso correto e competente de uma ou mais ordens
@@ -45,7 +45,7 @@ publicados referentes às edificações escolhidas.
 - Para o encontro de terça-feira, reflita sobre possíveis estratégias
   de desenvolvimento das permutações e dificuldades previstas.
 
-## Esboço das permutações (5 pontos) ##
+## Semana 2: Esboço das permutações (4 pontos) ##
 
 Esboce, por meio de croquis à mão livre, os passos necessários para
 transformar uma fachada em outra.
@@ -63,7 +63,7 @@ transformar uma fachada em outra.
 - Caso deseje, poderá também compartilhar a tela do seu computador no
   dia da orientação.
 
-## Um produto para revisão (2 pontos) ##
+## Semana 3: um produto para revisão (3 pontos) ##
 
 Escolha um dos passos da permutação (provavelmente o do meio) e
 apresente-o suficientemente completo para revisão preliminar. As
