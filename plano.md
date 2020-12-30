@@ -201,8 +201,7 @@ Na área geral do Aprender 3, você vai encontrar:
 O conteúdo da disciplina deve ser cumprido ao longo de
 15 semanas. A matéria se divide em três Unidades com cinco semanas de
 duração cada uma, e cada semana corresponde a um tópico de conteúdo.
-Cada Unidade privilegia um dos três [Objetivos de
-aprendizagem](plano.md#objetivos-de-aprendizagem) da disciplina
+Cada Unidade privilegia um dos três Objetivos de aprendizagem da disciplina
 --- leia atentamente a exposição dos objetivos: são os conhecimentos e
 as competências que esperamos de vocês ao final do semestre. As Unidades
 estão organizadas, aproximadamente, em ordem cronológica. Em cada
@@ -239,6 +238,11 @@ Toda terça e quinta-feira às 20h50 (horário de Brasília) teremos uma
 videoconferência ao vivo na plataforma [Microsoft Teams][] da UnB. Essa
 é uma ocasião para tirar dúvidas sobre o conteúdo, as leituras e os
 trabalhos em andamento.
+
+As atividades do semestre foram dimensionadas para ocuparem, em média, 4
+horas de trabalho extraclasse por semana, *além* das 4 "horas-aula" na
+grade horária. Sugerimos dedicar 2 horas ao conteúdo (leituras e
+videoaulas) e às resenhas, e 2 horas ao desenvolvimento dos trabalhos.
 
 #### Terça-feira ####
 
@@ -340,29 +344,28 @@ videoconferência *não substitui* a discussão dos textos por escrito.
    -a caso.
    -->
 
-#### Plágio ####
+Necessidades especiais na realização das atividades da disciplina e no
+acompanhamento do semestre devem ser apontadas ao professor da turma o
+mais cedo possível, e serão analisadas caso a caso à luz das regras em
+vigor.
+
+## Sobre plágio e originalidade ##
 
 Integridade e reconhecimento são valores éticos fundamentais da
-cidadania e da profissão. Apropriação do trabalho alheio --- seja de
-colegas de turma, da bibliografia, ou de material "garimpado" na
+cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+seja de colegas de turma, da bibliografia, ou de material "garimpado" na
 Internet --- é uma prática inaceitável e resultará em atribuição da nota
-0 (zero) ao trabalho que incorrer nela. Dependendo da gravidade do fato,
+0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
 podemos relatar o ocorrido ao colegiado de graduação da FAU.
 
-#### Um esclarecimento sobre criatividade e originalidade ####
+Dito isso, você não tem obrigação de ser *original* no sentido artístico
+da palavra. Em cada trabalho você precisa atender a uma exigência
+pontual e demonstrar compreensão *correta* da construção tradicional e
+da arquitetura clássica. Não complique desnecessariamente o processo
+buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
+gradual e naturalmente do seu modo de resolver o problema proposto.
 
-Numa faculdade de Arquitetura, somos muitas vezes instados a inventar
-uma "expressão individual" e a demonstrar "originalidade". Em se
-tratando de arquitetura e urbanismo tradicionais e da pesquisa
-histórica, contudo, a nossa exigência de originalidade é simples: não
-copiar o trabalho alheio e não se apropriar das ideias de outrem sem dar
-o devido crédito. Aspiramos à *qualidade* antes que à *novidade*, e
-consideramos que a criatividade consiste em resolver com apuro e
-propriedade um determinado problema de projeto ou pesquisa, baseando-se
-nos repertórios das tradições arquitetônicas e nos métodos e referências
-da pesquisa histórica.
-
-## Critérios de avaliação ##
+## Critérios para aprovação na disciplina ##
 
 Os critérios de avaliação de cada atividade são apresentados com a
 respectiva ementa. Em linhas gerais, o que esperamos de todas as
@@ -371,18 +374,18 @@ material necessário à realização do trabalho, reflexão crítica, clareza
 e capricho na execução. Para obter aprovação na disciplina, você precisa
 atender a *todos* os três requisitos seguintes:
 
-- Pontuar em 10 das 15 resenhas (entregar a resenha e obter menção
-  satisfatória);
-- Entregar os três trabalhos das Unidades.
+- Entregar e pontuar em 10 das 15 resenhas (entregar a resenha e obter
+  menção satisfatória);
+- Entregar **todos** trabalhos das Unidades.
 - Obter a média ponderada final 50 (MM).
 - Cumprir a frequência mínima exigida de 75 % das aulas.
 
-#### Resenha e discussão de texto ####
+## Critérios de avaliação da resenha (3 pontos cada) ##
 
 Demonstrar compreensão do texto e reflexão crítica sobre o conteúdo e o
 modo de apresentação deste.
 
-#### Trabalhos das Unidades ####
+## Critérios de avaliação dos trabalhos das unidades ##
 
 Demonstrar capacidade de ir além do conteúdo mínimo das leituras,
 pesquisando e aprofundando o entendimento sobre a arquitetura e o
@@ -396,7 +399,7 @@ Cada trabalho é avaliado segundo duas componentes: **processo** e
 **produto**. O processo se refere à regularidade no desenvolvimento do
 trabalho, e o produto à qualidade da apresentação final.
 
-#### Processo ####
+## Processo (10 pontos) ##
 
 Metade da nota de cada trabalho é dada pelo processo de desenvolvimento
 que você seguir. Trabalhe com regularidade, buscando orientação em aula
@@ -404,7 +407,7 @@ e apresentando o seu esforço em andamento. A sua exploração da linguagem
 clássica e reflexão crítica sobre o conteúdo são os fatores
 preponderantes nesta componente da nota.
 
-#### Produto ####
+## Produto (10 pontos) ##
 
 A outra metade da nota é dada pelo resultado final de cada trabalho, tal
 como apresentado e entregue na data estipulada no cronograma. O capricho
@@ -475,11 +478,17 @@ completa e de fácil compreensão sobre as ordens clássicas:
 
 \nocite{*}
 
-\printbibliography[title={Tratados e fontes primárias},heading=subbibintoc,keyword={tau0006-fontes}]
+## Tratados e fontes primárias ##
 
-\printbibliography[title={Bibliografia básica},heading=subbibintoc,keyword={tau0006-basica}]
+\printbibliography[heading=none,keyword={tau0006-fontes}]
 
-\printbibliography[title={Bibliografia complementar},heading=subbibintoc,keyword={tau0006-complementar}]
+## Bibliografia básica ##
+
+\printbibliography[heading=none,keyword={tau0006-basica}]
+
+## Bibliografia complementar ##
+
+\printbibliography[heading=none,keyword={tau0006-complementar}]
 
 [Aprender 3]: https://aprender3.unb.br/course/view.php?id=2766
 
