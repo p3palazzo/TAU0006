@@ -70,7 +70,7 @@ _site/package-lock.json : package.json | _site
 	cd _site && npm install
 
 _site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS)
-	docker run -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.2.0 \
+	docker run -v "`pwd`:/srv/jekyll" palazzo/jekyll-pandoc:4.2.0-2.11.3.2 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 # {{{1 PHONY
@@ -87,7 +87,7 @@ slides :
 
 serve : | _site
 	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
-		jekyll/jekyll:4.2.0 jekyll serve --skip-initial-build
+		palazzo/jekyll-pandoc:4.2.0-2.11.3.2 jekyll serve --skip-initial-build
 
 clean :
 	rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
