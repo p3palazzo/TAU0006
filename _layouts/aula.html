@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{% assign filename = page.id | split: '/' | last %}
+
+<div><a href="../slides/{{ filename }}">Slides</a></div>
+
+{{ content }}

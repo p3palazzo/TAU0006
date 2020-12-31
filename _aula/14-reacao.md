@@ -1,12 +1,12 @@
 ---
 title   : "Reação clássica"
 author  : "Pedro P. Palazzo e Sylvia Ficher"
+layout: aula
 abstract: |
   -- Tradição, correção e inovação como problemas da crítica
   -- Arquitetura dos engenheiros
   -- Manuais de carpintaria e estampas populares | Ficher
   -- Autoridade da teoria sobre a prática | 619--627
-layout: page
 ---
 
 # Classicismo para o povo #

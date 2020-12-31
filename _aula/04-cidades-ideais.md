@@ -1,12 +1,12 @@
 ---
 title   : "Cidades ideais e cidades possíveis"
 author  : "Pedro P. Palazzo"
+layout: aula
 abstract: |
   -- Vilas novas em Portugal e *jōkamachi* no Japão | 501--519, 562
   -- Traçados reguladores: *chahār-bāgh* e quincúncia | 520--536
   -- O *boma*, paradigma urbanístico da África | 436, 537--538
   -- Geometria e fortificação | 554--555
-layout: page
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

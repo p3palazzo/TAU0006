@@ -1,12 +1,12 @@
 ---
 title   : "Urbanismo como arquitetura"
 author  : "Pedro P. Palazzo"
+layout: aula
 abstract: |
   -- Sincretismo arquitetônico na Etiópia
   -- Espaços rurais e urbanos da colonização | 552--553, 568--571
   -- O *hôtel* francês: soluções funcionais da modernidade | 574--575
   -- Desenhos desmedidos: Versalhes e seus êmulos | 576--579
-layout: page
 ---
 
 # Sincretismo cultural na Etiópia #

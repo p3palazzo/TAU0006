@@ -1,12 +1,12 @@
 ---
 title   : "Clássico Anticlássico"
 author  : "Pedro P. Palazzo"
+layout: aula
 abstract: |
   -- Três momentos na reconstrução do classicismo
   -- Terceiro: articulação do espaço em Bramante e Rafael
   -- Classicismo universal: Serlio, Vinhola e Palladio | 539--541
   -- Classicismo ilimitado: Miguel Ângelo e os projetos para a basílica de São Pedro | 542--547
-layout: page
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
