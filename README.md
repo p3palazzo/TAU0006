@@ -1,3 +1,8 @@
+---
+title: "Início"
+layout: home
+---
+
 # História da Arquitetura e da Arte II #
 
 ![Website Build](https://github.com/actions/hello-world/workflows/Website/badge.svg)
@@ -55,3 +60,4 @@ International License.
 
 You should have received a copy of the license along with this work. If
 not, see http://creativecommons.org/licenses/by/4.0/.
+

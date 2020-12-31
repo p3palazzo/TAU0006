@@ -14,7 +14,7 @@ lang: pt-BR
 
 # Content {{{1
 collections:
-  notas:
+  aula:
     output: true
 
 # Build settings {{{1
@@ -31,6 +31,10 @@ minima:
     instagram : arqtrad
 
 # Build parameters {{{2
+markdown: Pandoc
+pandoc:
+  extensions:
+    - defaults: "_spec/html.yaml"
 timezone: America/Sao_Paulo
 sass_dir:
   load_paths:
@@ -43,10 +47,6 @@ readme_index:
   enabled         : true
   remove_originals: true
   with_frontmatter: true
-kramdown:
-  #header_offset   : 1
-  parse_block_html: true
-  parse_span_html : true
 
 # Plugins {{{2
 plugins:
@@ -67,29 +67,6 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
-  - "*.aux"
-  - "*.bbl"
-  - "*.bcf"
-  - "*.bib"
-  - "*.blg"
-  - "*.cb"
-  - "*.cb2"
-  - "*.csv"
-  - "*.fdb_latexmk"
-  - "*.fls"
-  - "*.fmt"
-  - "*.fot"
-  - "*.lof"
-  - "*.log"
-  - "*.lot"
-  - "*.md"
-  - "*.out"
-  - "*.run.xml"
-  - "*.toc"
 include:
   - README.md
-  - package.json
-keep_files:
-  - node_modules
-  - aula
 # vim: set foldmethod=marker :

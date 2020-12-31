@@ -1,13 +1,8 @@
-from                   : markdown+raw_tex
-to                     : html
 bibliography           : biblio.bib
 cite-method            : citeproc
-css                    : "/tau0006/assets/main.css"
 fail-if-warnings       : true
-file-scope             : true
 number-sections        : false
 shift-heading-level-by : 1
-standalone             : true
 filters:
   - pandoc-crossref
   - citeproc
