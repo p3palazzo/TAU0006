@@ -6,6 +6,7 @@ abstract: |
   -- Arquitetura clássica entre a prática e a teoria | Summerson 1--15
   -- Problemas de historiografia e crítica
   -- Construção tradicional
+layout: page
 ---
 
 # Introdução à arquitetura da Idade Moderna #

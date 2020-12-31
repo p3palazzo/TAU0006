@@ -6,6 +6,7 @@ abstract: |
   -- Arquitetura dos engenheiros
   -- Manuais de carpintaria e estampas populares | Ficher
   -- Autoridade da teoria sobre a prática | 619--627
+layout: page
 ---
 
 # Classicismo para o povo #

@@ -1,6 +1,7 @@
 ---
 title   : "Permutações"
 subtitle: "Trabalho II"
+layout: page
 ---
 
 # Ementa #

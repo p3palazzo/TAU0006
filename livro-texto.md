@@ -1,5 +1,6 @@
 ---
 title: Páginas do livro-texto
+layout: page
 ---
 
 | Era  | páginas  |    | Tópico                                                            | Un. | Mód. |   Aula |

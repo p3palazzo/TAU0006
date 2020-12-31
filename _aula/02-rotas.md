@@ -6,6 +6,7 @@ abstract: |
   -- Cidades mercantes da rota da Seda e do oceano Índico | 325, 436
   -- Praças e pontos focais no mundo veneziano--bizantino | 469--473
   -- Infraestrutura hidráulica na América | 460--468
+layout: page
 ---
 
 # Kampung malaio #

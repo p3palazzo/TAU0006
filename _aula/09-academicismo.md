@@ -6,6 +6,7 @@ abstract: |
   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573
   -- Academias de arte e o ofício da arquitetura
   -- Simetria, gosto, caráter
+layout: page
 ---
 
 # Colunata do Louvre #

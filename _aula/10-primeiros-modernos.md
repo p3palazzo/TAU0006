@@ -6,4 +6,6 @@ abstract: |
   -- Teorias do barroco e do classicismo
   -- Fim do "vitruvianismo" e ascensão do mecanicismo
   -- Arqueologia e nacionalismo como fatores de ruptura
+layout: page
 ---
+

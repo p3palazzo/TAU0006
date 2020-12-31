@@ -1,6 +1,6 @@
 ---
 title: Resenha e discussão de texto
-lang : pt-BR
+layout: page
 ---
 
 # Ementa #

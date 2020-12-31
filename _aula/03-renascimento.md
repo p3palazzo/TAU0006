@@ -6,6 +6,7 @@ abstract: |
   -- História da arquitetura como história da construção
   -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
   -- Cúpulas islâmicas e malhas espaciais
+layout: page
 ---
 
 # 

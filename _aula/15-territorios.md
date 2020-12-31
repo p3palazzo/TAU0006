@@ -6,6 +6,7 @@ abstract: |
   -- Projetos urbanos na América do Norte
   -- Viação como estratégia de poder | Sambricio
   -- Topografia, agrimensura e representação
+layout: page
 ---
 
 # Viação como estratégia espacial #

@@ -6,6 +6,7 @@ abstract: |
   -- Compor espaços e articular superfícies
   -- Proporções e metafísica da arquitetura
   -- Classicismo como estilo internacional
+layout: page
 ---
 
 # Teoria das ordens #

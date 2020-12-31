@@ -6,6 +6,7 @@ abstract: |
   -- Três momentos na reconstrução do classicismo | Summerson 1--37
   -- Primeiro: resgatar o vocabulário antigo
   -- Segundo: estabelecer a gramática espacial clássica
+layout: page
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

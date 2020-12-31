@@ -6,6 +6,7 @@ abstract: |
   -- Espaços urbanos e rurais da colonização | 552--553
   -- Plaza Mayor, place Royale, Squares ingleses | 556--562
   -- Bioclimatismo e arquitetura clássica
+layout: page
 ---
 
 # Da tipologia espacial ao projeto geométrico #

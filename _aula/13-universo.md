@@ -6,6 +6,7 @@ abstract: |
   -- Lodoli, Milizia, Piranesi e o "neo" classicismo
   -- Maturidade das tradições asiáticas | 610--615
   -- Ruínas e crise da unidade clássica | 616--618
+layout: page
 ---
 
 # Nascimento da história da arte e fronteiras da arquitetura #

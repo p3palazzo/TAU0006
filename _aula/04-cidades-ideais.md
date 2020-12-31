@@ -6,6 +6,7 @@ abstract: |
   -- Traçados reguladores: *chahār-bāgh* e quincúncia | 520--536
   -- O *boma*, paradigma urbanístico da África | 436, 537--538
   -- Geometria e fortificação | 554--555
+layout: page
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

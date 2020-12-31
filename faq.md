@@ -1,6 +1,6 @@
 ---
 title: "Perguntas frequentes"
-layout: default
+layout: page
 ---
 
 <details>
