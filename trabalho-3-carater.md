@@ -5,6 +5,8 @@ subtitle: "Trabalho III"
 
 # Ementa #
 
+> Converter uma composição murária em colunatas?
+
 ## Objetivo ##
 
 Refletir criticamente sobre a tradição historiográfica da arquitetura, e

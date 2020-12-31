@@ -17,8 +17,11 @@ componentes elementares da composição arquitetônica.
 O estudo da composição arquitetônica por meio de volumes espaciais com
 formas geométricas definidas é especialmente relevante hoje em dia, de
 modo a ressaltar a diferença desse modo de compor com respeito ao
-"antiespaço" fluido e sem forma do modernismo. Portanto, neste trabalho
-vamos direto ao ponto e:
+"antiespaço" fluido e sem forma do modernismo. Reconhecer essa diferença
+fundamental não implica afirmar qualquer superioridade do "espaço" sobre
+o "antiespaço" ou vice-versa, mas adquirir a capacidade de reconhecer e
+aplicar ambas estratégias espaciais conforme o caso. Para tanto, neste
+trabalho vamos nos concentrar na leitura da espacialidade Renascentista:
 
 > Analisar uma edificação clássica dos séculos XV ao XVIII por meio da
 > forma geométrica dos seus espaços, analisando as operações que dão

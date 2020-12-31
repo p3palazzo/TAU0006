@@ -65,7 +65,7 @@ layout  : page
 |    | -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro  |                                      |                   |
 |    | -- Classicismo universal: Serlio, Vinhola e Palladio               | Summerson 39--62                     |                   |
 +----+--------------------------------------------------------------------+--------------------------------------+-------------------+
-|  8 | **Barroco e classicismo**                                          | Processo: um produto desenvolvido    | 29/03             |
+|  8 | **Barroco e classicismo**                                          | Processo: desenvolvimento da análise | 29/03             |
 |    | -- Da tipologia espacial ao projeto geométrico                     |                                      |                   |
 |    | -- Espaços urbanos e rurais da colonização                         |                                      |                   |
 |    | -- Plaza Mayor, place Royale, Squares ingleses                     |                                      |                   |
