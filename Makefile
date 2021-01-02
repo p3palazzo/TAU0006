@@ -22,16 +22,15 @@ ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
 DOCS    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,slides/%.html,$(DOCS))
-NOTAS  := $(patsubst _aula/%.md,_notas/%.html,$(DOCS))
 
-deploy : _site $(PAGES) $(SLIDES) $(NOTAS) _site/package-lock.json
+deploy : _site $(SLIDES)
 
 # {{{1 Produtos PDF
 #      ============
 
-tau0006-plano.pdf : plano.pdf cronograma.pdf
+tau0006.pdf : plano.pdf cronograma.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
-		-sOutputFile=$@ $<
+		-sOutputFile=$@ $^
 
 %.pdf : %.tex biblio.bib
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -44,17 +43,9 @@ tau0006-plano.pdf : plano.pdf cronograma.pdf
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
-.pages : $(PAGES)
-
-.notas : $(NOTAS)
-
 .slides : $(SLIDES)
 
-_site/%.html : %.md html.yaml | _csl _site
-	@mkdir -p _site
-	$(PANDOC/CROSSREF) -o $@ -d _spec/html.yaml $<
-
-slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
+_site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 # Para ativar o Multiplex, incluir as linhas abaixo no comando acima:
@@ -62,14 +53,7 @@ slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
 #-V multiplexSocketId=$(multiplexSocketId) \
 #-V multiplexUrl=$(multiplexUrl) \
 
-_notas/%.html : _aula/%.md biblio.bib html.yaml | _csl _notas
-	$(PANDOC/CROSSREF) -o $@ -d _spec/html.yaml $<
-
-_site/package-lock.json : package.json | _site
-	cp package.json _site/
-	cd _site && npm install
-
-_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS)
+_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS) | _csl clean
 	docker run -v "`pwd`:/srv/jekyll" palazzo/jekyll-pandoc:4.2.0-2.11.3.2 \
 		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
@@ -79,18 +63,15 @@ _site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS)
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
 
-_notas :
-	mkdir -p _notas
-
-slides :
-	mkdir -p slides
+_site/slides :
+	-mkdir -p _site/slides
 
 serve : | _site
 	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
 		palazzo/jekyll-pandoc:4.2.0-2.11.3.2 jekyll serve --skip-initial-build
 
 clean :
-	rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
-		_csl _site tau0006-*.tex
+	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
+		tau0006-*.tex
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
