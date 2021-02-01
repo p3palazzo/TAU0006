@@ -49,9 +49,7 @@ Estagiário docente
 Monitores
 : 
 
-# Objetivos e programa #
-
-## Objetivos de aprendizagem ##
+# Objetivos de aprendizagem #
 
 O objetivo geral da disciplina é adquirir um domínio operativo da
 arquitetura e do urbanismo da [Idade Moderna][] (séculos XV a XVIII)
@@ -77,103 +75,43 @@ Refletir criticamente sobre a tradição historiográfica da arquitetura, e
 especialmente sobre os debates a respeito das noções de Antiguidade e
 Modernidade.
 
-## Programa ##
+# Programa #
 
-### Unidade I · Redes urbanas na fundação do mundo moderno ###
+## Unidade I · Redes urbanas na fundação do mundo moderno ##
 
-1. **Arquitetura do humanismo**
-   -- Introdução à arquitetura da Idade Moderna
-   -- Arquitetura clássica entre a prática e a teoria
-   -- Problemas de historiografia e crítica
-   -- Construção tradicional
+1. Arquitetura do humanismo
 
-2. **Rotas comerciais e paradigmas urbanísticos**
-   -- Formas urbanas tradicionais
-   -- Cidades mercantes da rota da Seda e do oceano Índico
-   -- Praças e pontos focais no Mediterrâneo oriental
-   -- Infraestrutura hidráulica na América
+2. Rotas comerciais e paradigmas urbanísticos
 
-3. **Renascimento e historiografia**
-   -- Perspectiva e espaço arquitetônico
-   -- História da arquitetura como história da construção
-   -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
-   -- Cúpulas islâmicas e malhas espaciais
+3. Renascimento e historiografia
 
-4. **Cidades ideais e cidades possíveis**
-   -- Vilas novas em Portugal e *jōkamachi* no Japão
-   -- Traçados reguladores: *chahār-bāgh* e quincúncia
-   -- O *boma*, paradigma urbanístico da África
-   -- Geometria e fortificação
+4. Cidades ideais e cidades possíveis
 
-### Unidade II · Linguagens clássicas da arquitetura ###
+## Unidade II · Linguagens clássicas da arquitetura ##
 
-5. **Teoria do classicismo**
-   -- Gramática e vocabulário da arquitetura clássica
-   -- Compor espaços e articular superfícies
-   -- Proporções e metafísica da arquitetura
-   -- Classicismo como estilo internacional
+5. Teoria do classicismo
 
-6. **Arte clássica**
-   -- Tratadística italiana e ideal geométrico na China
-   -- Três momentos na reconstrução do classicismo
-   -- Primeiro: resgatar o vocabulário antigo
-   -- Segundo: estabelecer a gramática espacial clássica
+6. Arte clássica
 
-7. **Clássico anticlássico**
-   -- Três momentos na reconstrução do classicismo
-   -- Terceiro: articulação do espaço em Bramante e Rafael
-   -- Classicismo ilimitado: Miguel Ângelo e a basílica de São Pedro
-   -- Classicismo universal: Serlio, Vinhola e Palladio
+7. Clássico anticlássico
 
-8. **Barroco e classicismo**
-   -- Da tipologia espacial ao projeto geométrico
-   -- Espaços urbanos e rurais da colonização
-   -- Plaza Mayor, place Royale, Squares ingleses
-   -- Bioclimatismo e arquitetura clássica
+8. Barroco e classicismo
 
-9. **Arte acadêmica**
-   -- Desenho, colorido e a Querela dos Antigos e dos Modernos
-   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo
-   -- Academias de arte e o ofício da arquitetura
-   -- Simetria, gosto, caráter
+9. Arte acadêmica
 
-### Unidade III · Estilo e território: inquietações da modernidade ###
+## Unidade III · Estilo e território: inquietações da modernidade ##
 
-10. **Primeiros modernos**
-   -- Inquietações da modernidade
-   -- Teorias do barroco e do classicismo
-   -- Fim do "vitruvianismo" e ascensão do mecanicismo
-   -- Arqueologia e nacionalismo como fatores de ruptura
+10. Primeiros modernos
 
-11. **Urbanismo como arquitetura**
-   -- Sincretismo arquitetônico na Etiópia
-   -- Espaços rurais e urbanos da colonização
-   -- O *hôtel* francês: soluções funcionais da modernidade
-   -- Desenhos desmedidos: Versalhes e seus êmulos
+11. Urbanismo como arquitetura
 
-12. **Barroco internacional**
-   -- Presságios: arquitetura e razão na França e Inglaterra
-   -- Virtuosismo construtivo na Europa e na Ásia
-   -- Virtuosismo decorativo e o pitoresco
-   -- Cosmopolitismo dos jardins chineses à carpintaria japonesa
+12. Barroco internacional
 
-13. **Universo em expansão**
-   -- Antiquarismo e história da arte
-   -- Lodoli, Milizia, Piranesi e o "neo" classicismo
-   -- Maturidade das tradições asiáticas
-   -- Ruínas e crise da unidade clássica
+13. Universo em expansão
 
-14. **Reação clássica**
-   -- Tradição, correção e inovação como problemas da crítica
-   -- Arquitetura dos engenheiros
-   -- Manuais de carpintaria e estampas populares
-   -- Autoridade da teoria sobre a prática
+14. Reação clássica
 
-15. **Territórios e viação**
-   -- Reorganização espacial no mundo ibérico
-   -- Projetos urbanos na América do Norte
-   -- Viação como estratégia de poder
-   -- Topografia, agrimensura e representação
+15. Territórios e viação
 
 # Metodologia #
 
@@ -476,19 +414,37 @@ completa e de fácil compreensão sobre as ordens clássicas:
 > Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
 > Amsterdam: Architectural Press, 2005.
 
-\nocite{*}
-
 ## Tratados e fontes primárias ##
 
+```{=latex}
+\nocite{*}
+
 \printbibliography[heading=none,keyword={tau0006-fontes}]
+```
+
+```{=html}
+{% include biblio-fontes.html %}
+```
 
 ## Bibliografia básica ##
 
+```{=latex}
 \printbibliography[heading=none,keyword={tau0006-basica}]
+```
+
+```{=html}
+{% include biblio-basica.html %}
+```
 
 ## Bibliografia complementar ##
 
+```{=latex}
 \printbibliography[heading=none,keyword={tau0006-complementar}]
+```
+
+```{=html}
+{% include biblio-complementar.html %}
+```
 
 [Aprender 3]: https://aprender3.unb.br/course/view.php?id=2766
 
