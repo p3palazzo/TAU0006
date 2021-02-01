@@ -1,11 +1,13 @@
+from                   : "markdown+tex_math_single_backslash"
 bibliography           : biblio.bib
-cite-method            : citeproc
 fail-if-warnings       : true
+file-scope             : true
 number-sections        : false
 shift-heading-level-by : 1
 filters:
   - pandoc-crossref
   - citeproc
+  - pandoc-sidenote
 metadata:
   csl                  : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
   cssLabelSep          : "&ndash;"
