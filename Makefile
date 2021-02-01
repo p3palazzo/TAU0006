@@ -25,6 +25,11 @@ SLIDES := $(patsubst _aula/%.md,slides/%.html,$(DOCS))
 
 deploy : _site $(SLIDES)
 
+manual : _site | _csl
+	@cd _site \
+		&& bundle install \
+		&& bundle exec jekyll build
+
 # {{{1 Produtos PDF
 #      ============
 
@@ -53,9 +58,12 @@ _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
 #-V multiplexSocketId=$(multiplexSocketId) \
 #-V multiplexUrl=$(multiplexUrl) \
 
-_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS) | _csl clean
-	docker run -v "`pwd`:/srv/jekyll" palazzo/jekyll-pandoc:4.2.0-2.11.3.2 \
-		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+#_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS) | _csl clean
+	#docker run -v "`pwd`:/srv/jekyll" palazzo/jekyll-pandoc:4.2.0-2.11.3.2 \
+		#/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+_site :
+	@gh repo clone tau0006 _site -- -b gh-pages --depth=1
 
 # {{{1 PHONY
 #      =====
@@ -66,12 +74,12 @@ _csl :
 _site/slides :
 	-mkdir -p _site/slides
 
-serve : | _site
+serve : manual
 	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
 		palazzo/jekyll-pandoc:4.2.0-2.11.3.2 jekyll serve --skip-initial-build
 
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
-		tau0006-*.tex
+		tau0006-*.tex _site
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
