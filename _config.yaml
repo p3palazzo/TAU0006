@@ -1,7 +1,7 @@
 # General {{{1
 title: História da Arquitetura e da Arte II
 author:
-  name: Pedro Paulo Palazzo
+  name: Pedro P. Palazzo
   email: palazzo@unb.br
 description: >-
   História das cidades, dos edifícios e da edificação na tradição
@@ -9,17 +9,28 @@ description: >-
   XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
   Europa para as colônias americanas de fala inglesa e francesa.
 baseurl: "/tau0006"
-url: "https://p3palazzo.github.io"
+url: "https://palazzo.arq.br"
 lang: pt-BR
+include_before: |
+  <div class="site-title">
+    <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" />
+  </div>
 
 # Content {{{1
 collections:
   aula:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+
 # Build settings {{{1
 # Theme {{{2
-theme: minima
+theme: tufte-pandoc-jekyll
 header_pages:
   - plano.md
   - cronograma.md
@@ -35,18 +46,21 @@ markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
-timezone: America/Sao_Paulo
-sass_dir:
-  load_paths:
-    - _sass
-    - reveal.js/css/theme/template
-relative_links:
-  enabled         : true
-  collections     : true
+    - section-divs
 readme_index:
   enabled         : true
   remove_originals: true
   with_frontmatter: true
+relative_links:
+  enabled         : true
+  collections     : true
+sass_dir:
+  load_paths:
+    - _sass
+    - assets
+    - assets/css
+    - reveal.js/css/theme/template
+timezone: America/Sao_Paulo
 
 # Plugins {{{2
 plugins:
@@ -60,13 +74,19 @@ plugins:
   - jekyll-paginate
   - jekyll-readme-index
   - jekyll-relative-links
-  # Plugins incompatible with GitHub Pages
-  #- jekyll-scholar
 
 # Keep and Exclude {{{2
 exclude:
   - LICENSE
   - Makefile
+  - outcomes.csv
+  - "*.bib"
+  - "default.*"
+  - "*.fdb_latexmk"
+  - "*.run.xml"
 include:
   - README.md
+keep_files:
+  - .git
+  - slides
 # vim: set foldmethod=marker :
