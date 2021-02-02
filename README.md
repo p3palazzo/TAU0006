@@ -16,14 +16,14 @@ layout: index
 
 # Programa #
 
-## Unidade I. Redes urbanas na fundação do mundo moderno ##
+## Unidade I · Redes urbanas na fundação do mundo moderno ##
 
  1. [Arquitetura do humanismo](_aula/01-humanismo.md) <!--_,-->
  2. [Rotas comerciais e paradigmas urbanísticos](_aula/02-rotas.md) <!--_,-->
  3. [Renascimento e historiografia](_aula/03-renascimento.md) <!--_,-->
  4. [Cidades ideais e cidades possíveis](_aula/04-cidades-ideais.md) <!--_,-->
 
-## Unidade II. Linguagens clássicas da arquitetura ##
+## Unidade II · Linguagens clássicas da arquitetura ##
 
  5. [Teoria do classicismo](_aula/05-teoria-classicismo.md) <!--_,-->
  6. [Arte clássica](_aula/06-arte-classica.md) <!--_,-->
@@ -31,7 +31,7 @@ layout: index
  8. [Barroco e classicismo](_aula/08-barroco.md) <!--_,-->
  9. [Arte acadêmica](_aula/09-academicismo.md) <!--_,-->
 
-## Unidade III. Estilo e território: inquietações da modernidade ##
+## Unidade III · Estilo e território: inquietações da modernidade ##
 
 10. [Primeiros modernos](_aula/10-primeiros-modernos.md) <!--_,-->
 11. [Urbanismo como arquitetura](_aula/11-urb-como-arq.md) <!--_,-->
