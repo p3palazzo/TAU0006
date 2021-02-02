@@ -1,131 +1,99 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+<meta name="generator" content="pandoc">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="author" content="Pedro P. Palazzo">
 
-	<head>
-		<meta charset="utf-8">
 
-		<title>reveal.js - Markdown Example</title>
 
-		<link rel="stylesheet" href="../dist/reveal.css">
-		<link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+<title> – História da Arquitetura e da Arte II</title>
 
-        <link rel="stylesheet" href="../plugin/highlight/monokai.css">
-	</head>
 
-	<body>
+<!-- TODO(jez): canonical URL -->
+<!-- TODO(jez): OpenGraph tags -->
 
-		<div class="reveal">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/font-et-book/0.1/et-book.min.css">
+<link rel="stylesheet" href="/tau0006/assets/css/main.css">
 
-			<div class="slides">
+<!-- -->
 
-                <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
-                <section data-markdown="markdown.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
 
-                <!-- Slides are separated by three dashes (quick 'n dirty regular expression) -->
-                <section data-markdown data-separator="---">
-                    <script type="text/template">
-                        ## Demo 1
-                        Slide 1
-                        ---
-                        ## Demo 1
-                        Slide 2
-                        ---
-                        ## Demo 1
-                        Slide 3
-                    </script>
-                </section>
 
-                <!-- Slides are separated by newline + three dashes + newline, vertical slides identical but two dashes -->
-                <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
-                    <script type="text/template">
-                        ## Demo 2
-                        Slide 1.1
+<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+<![endif]-->
 
-                        --
 
-                        ## Demo 2
-                        Slide 1.2
 
-                        ---
 
-                        ## Demo 2
-                        Slide 2
-                    </script>
-                </section>
 
-                <!-- No "extra" slides, since there are no separators defined (so they'll become horizontal rulers) -->
-                <section data-markdown>
-                    <script type="text/template">
-                        A
+</head>
+<body>
+  
+  
+    <div class="site-title">
+  <img src="https://repository-images.githubusercontent.com/277311883/0b465300-64d2-11eb-9ef5-97c6d5e4ca1c" />
+</div>
 
-                        ---
+  
 
-                        B
 
-                        ---
 
-                        C
-                    </script>
-                </section>
 
-                <!-- Slide attributes -->
-                <section data-markdown>
-                    <script type="text/template">
-                        <!-- .slide: data-background="#000000" -->
-                        ## Slide attributes
-                    </script>
-                </section>
 
-                <!-- Element attributes -->
-                <section data-markdown>
-                    <script type="text/template">
-                        ## Element attributes
-                        - Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-                        - Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-                    </script>
-                </section>
 
-                <!-- Code -->
-                <section data-markdown>
-                    <script type="text/template">
-                        ```php [1|3-5]
-                        public function foo()
-                        {
-                            $foo = array(
-                                'bar' => 'bar'
-                            )
-                        }
-                        ```
-                    </script>
-                </section>
+  <article>
+    
 
-                <!-- Images -->
-                <section data-markdown>
-                    <script type="text/template">
-                        ![Sample image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
-                    </script>
-                </section>
 
-            </div>
-		</div>
+    <section id="markdown-demo" class="level2">
+<h2>Markdown Demo</h2>
+<section id="external-1.1" class="level3">
+<h3>External 1.1</h3>
+<p>Content 1.1</p>
+<p>Note: This will only appear in the speaker notes window.</p>
+</section>
+<section id="external-1.2" class="level3">
+<h3>External 1.2</h3>
+<p>Content 1.2</p>
+</section>
+<section id="external-2" class="level3">
+<h3>External 2</h3>
+<p>Content 2.1</p>
+</section>
+<section id="external-3.1" class="level3">
+<h3>External 3.1</h3>
+<p>Content 3.1</p>
+</section>
+<section id="external-3.2" class="level3">
+<h3>External 3.2</h3>
+<p>Content 3.2</p>
+</section>
+<section id="external-3.3" class="level3">
+<h3>External 3.3</h3>
+<figure>
+<img src="https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png" alt="External Image" /><figcaption aria-hidden="true">External Image</figcaption>
+</figure>
+</section>
+</section>
 
-		<script src="../dist/reveal.js"></script>
-        <script src="../plugin/markdown/markdown.js"></script>
-        <script src="../plugin/highlight/highlight.js"></script>
-        <script src="../plugin/notes/notes.js"></script>
 
-		<script>
+    
+    <section>
+      <p class="signoff"><em><a href="https://aprender3.unb.br/course/view.php?id=5673">Voltar ao Moodle 2.º/2020</a></em></p>
+    </section>
+    
+  </article>
 
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
+  
 
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
 
-		</script>
 
-	</body>
+
+  
+
+</body>
 </html>
+
