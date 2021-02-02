@@ -10,8 +10,6 @@ abstract: |
 
 # Introdução à arquitetura da Idade Moderna #
 
-## 1420 ##
-
 <!--Câmera-->
 O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
 para menos, mas isso não importa. Exatamente em 1420, termina a
@@ -24,14 +22,16 @@ arquitetura *correta* herdada da Antiguidade.
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Detalhe do rolo pintado do palácio, Pequim, século XV [@beijing:palacescroll]](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei height=640px}
-:::
-::: {.column width=50%}
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. [@cigoli:1613duomo]](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29._Duomo_di_Firenze.png){#fig:smfiore height=640px}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![↑ Detalhe do rolo pintado do palácio, [Pequim, século XV
+](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .marginnote}
+
+![← Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
+Desenho: [Cigoli, 1613
+](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png#Licenciamento)
+](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29._Duomo_di_Firenze.png){#fig:smfiore}
+
+<!--_,-->
 
 Esses dois projetos dão o tom para um processo de consolidação das
 tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
@@ -41,10 +41,11 @@ arquitetônico imperial em Pequim e as novas construções do século XV em
 Florença dão a partida numa exploração de configurações cada vez mais
 diversificadas do espaço interior e exterior.
 
-## Interpretação do passado e prática profissional ##
+## {data-background-image=""}
 
 <!--Câmera-->
-A busca por justificação teórica no passado é libertadora para a criação
+[A busca por justificação teórica]{.newthought} no passado é libertadora
+para a criação
 artística: ela demanda interpretação das fontes escritas e arqueológicas
 e, por meio dessa interpretação, permite ir além das convenções e
 técnicas consagradas no presente. Quanto mais se afirma a autoridade do
@@ -62,9 +63,16 @@ filosofia escolástica e o estilo gótico desde o século XII
 um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
 
-![Anônimo do século XV. Perspectiva arquitetônica com porto [@perspectiva:1495]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .stretch}
+![[Atribuído a Giuliano da
+Sangallo
+](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
+Perspectiva arquitetônica com porto, c.
+1495
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
 
-## Espaço artístico e arquitetônico como problema intelectual {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"} ##
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
 
 <!--Câmera-->
 Dois temas dominam a teoria e a prática da arquitetura e da pintura,
@@ -79,7 +87,7 @@ forma no desenho e na pintura se tornam centrais na China da dinastia
 Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
 partir de meados do século XIV ([@fig:buongoverno]).
 
-![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han height=100%}
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
 
 ## {.unlisted}
 
