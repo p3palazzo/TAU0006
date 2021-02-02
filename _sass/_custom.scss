@@ -20,7 +20,7 @@ dd {
   margin: 0;
 }
 
-em, strong,
+em, i, strong, b,
 p.subtitle,
 .epigraph > blockquote > p,
 .epigraph > blockquote > footer {
@@ -127,9 +127,6 @@ div.csl-bib-body {
 .csl-entry {
   @extend p;
   margin: 0;
-  i {
-    font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  }
 }
 
 .marginnote {
