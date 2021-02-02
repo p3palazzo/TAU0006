@@ -20,14 +20,10 @@ CSS     = $(wildcard assets/css/*)
 FONTS   = $(wildcard assets/fonts/*)
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
-DOCS    = $(wildcard _aula/*.md)
-SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(DOCS))
+AULA    = $(wildcard _aula/*.md)
+SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
 deploy : _site $(SLIDES)
-
-manual : _site .slides | _csl
-	@bundle install \
-		&& bundle exec jekyll build
 
 # {{{1 Produtos PDF
 #      ============
@@ -47,6 +43,10 @@ tau0006.pdf : plano.pdf cronograma.pdf
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
+manual : _site .slides | _csl
+	@bundle install \
+		&& bundle exec jekyll build
+
 .slides : $(SLIDES) | _site
 
 _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl _site/slides
@@ -62,7 +62,8 @@ _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl _site/slides
 		#/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 _site :
-	@gh repo clone tau0006 _site -- -b gh-pages --depth=1
+	@gh repo clone tau0006 _site -- -b gh-pages --depth=1 \
+		|| cd _site && git pull
 
 # {{{1 PHONY
 #      =====
