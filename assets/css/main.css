@@ -290,7 +290,7 @@ dl dt { line-height: 1.4em; }
 
 dd { margin: 0; }
 
-em, strong, p.subtitle, .subtitle.csl-entry, .epigraph > blockquote > p, .epigraph > blockquote > .csl-entry, .epigraph > blockquote > footer { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+em, i, strong, b, p.subtitle, .subtitle.csl-entry, .epigraph > blockquote > p, .epigraph > blockquote > .csl-entry, .epigraph > blockquote > footer { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
 figcaption { max-width: 50%; }
 
@@ -302,7 +302,11 @@ dt, h5 { float: left; margin: 0 1.4rem 0 0; padding-bottom: 0; }
 
 h5 { line-height: 1.2em; }
 
-header > div.epigraph { width: 55%; }
+div.incremental, header > div.epigraph { width: 55%; }
+
+div.columns { clear: both; width: 90%; }
+
+div.column { float: left; }
 
 hr { border: 0; text-align: center; font-size: 2em; padding: 2rem 0 2rem 0; }
 
@@ -332,10 +336,8 @@ figure > img.fullwidth { clear: both; max-width: 164%; }
 /* Fixes for Zotero export to HTML */
 .csl-entry { margin: 0; }
 
-.csl-entry i { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
-
 .marginnote, figure > figcaption { padding-bottom: 1rem; }
 
-@media (max-width: 760px) { header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } }
+@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } }
 
 /*# sourceMappingURL=main.css.map */
