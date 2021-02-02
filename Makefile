@@ -21,13 +21,12 @@ FONTS   = $(wildcard assets/fonts/*)
 ROOT    = $(filter-out README.md,$(wildcard *.md))
 PAGES  := $(patsubst %.md,_site/%.html,$(ROOT))
 DOCS    = $(wildcard _aula/*.md)
-SLIDES := $(patsubst _aula/%.md,slides/%.html,$(DOCS))
+SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(DOCS))
 
 deploy : _site $(SLIDES)
 
-manual : _site | _csl
-	@cd _site \
-		&& bundle install \
+manual : _site .slides | _csl
+	@bundle install \
 		&& bundle exec jekyll build
 
 # {{{1 Produtos PDF
@@ -48,9 +47,9 @@ tau0006.pdf : plano.pdf cronograma.pdf
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
-.slides : $(SLIDES)
+.slides : $(SLIDES) | _site
 
-_site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl slides
+_site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 # Para ativar o Multiplex, incluir as linhas abaixo no comando acima:
@@ -75,8 +74,8 @@ _site/slides :
 	-mkdir -p _site/slides
 
 serve : manual
-	docker run -v "`pwd`:/srv/jekyll" -p 4000:4000 -h 127.0.0.1 \
-		palazzo/jekyll-pandoc:4.2.0-2.11.3.2 jekyll serve --skip-initial-build
+	@bundle install \
+		&& bundle exec jekyll serve
 
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \

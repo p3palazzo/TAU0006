@@ -1,9 +1,11 @@
 source "https://rubygems.org"
-# Downgrade Jekyll from 4.1.0 to 3.8.5, Jekyll-feed from 0.12 to 0.11,
+# Downgrade Jekyll from 4.2.0 to 3.8.5, Jekyll-feed from 0.12 to 0.11,
 # remove gem "sassc" and gem "stringex" if using gem "github-pages"
 # See https://stackoverflow.com/questions/58598084/how-does-one-downgrade-jekyll-to-work-with-github-pages
-gem "jekyll", "~> 4.1.1"
-gem "minima"
+gem "jekyll", "~> 4.2.0"
+gem "tufte-pandoc-jekyll"
+# Gem required by Ruby 3
+gem "webrick"
 #gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
@@ -18,8 +20,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
-  # Gems incompatible with GitHub Pages
-  #gem "jekyll-scholar"
   # Gems required by Jekyll 4
   gem "stringex"
 end

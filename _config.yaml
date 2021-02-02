@@ -1,8 +1,7 @@
 # General {{{1
 title: História da Arquitetura e da Arte II
-author:
-  name: Pedro P. Palazzo
-  email: palazzo@unb.br
+author: Pedro P. Palazzo
+email: palazzo@unb.br
 description: >-
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
@@ -13,7 +12,7 @@ url: "https://palazzo.arq.br"
 lang: pt-BR
 include_before: |
   <div class="site-title">
-    <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" />
+    <img src="https://repository-images.githubusercontent.com/277311883/0b465300-64d2-11eb-9ef5-97c6d5e4ca1c" />
   </div>
 
 # Content {{{1
@@ -88,5 +87,6 @@ include:
   - README.md
 keep_files:
   - .git
+  - reveal.js
   - slides
 # vim: set foldmethod=marker :
