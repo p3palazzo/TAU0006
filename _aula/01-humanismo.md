@@ -20,16 +20,18 @@ dois monumentos se apresentam como resgate e renovação de uma
 arquitetura *correta* herdada da Antiguidade.
 <!--/Câmera-->
 
-## {.unlisted}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg"}
 
 ![↑ Detalhe do rolo pintado do palácio, [Pequim, século XV
 ](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .marginnote}
 
+## {data-background-image="https://i.pinimg.com/originals/44/ad/da/44adda4c28cfc9a7a6cd7f43d1ebdc34.jpg"}
+
 ![← Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
 Desenho: [Cigoli, 1613
 ](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png#Licenciamento)
-](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_%281559%E2%80%941613%29._Duomo_di_Firenze.png){#fig:smfiore}
+](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png){#fig:smfiore}
 
 <!--_,-->
 
@@ -55,7 +57,7 @@ autoritárias. Assim se desenvolve o conceito das artes visuais como
 trabalho *intelectual*.
 <!--/Câmera-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
 Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
 filosofia escolástica e o estilo gótico desde o século XII
@@ -63,12 +65,10 @@ filosofia escolástica e o estilo gótico desde o século XII
 um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
 
-![[Atribuído a Giuliano da
-Sangallo
+![[Atribuído a Giuliano da Sangallo
 ](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
-Perspectiva arquitetônica com porto, c.
-1495
-](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_%28attributed%29_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
+Perspectiva arquitetônica com porto, c. 1495
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
 
 <!--_,-->
 
@@ -89,9 +89,9 @@ partir de meados do século XIV ([@fig:buongoverno]).
 
 ![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
 
-## {.unlisted}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .stretch}
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
 
 Nos dois casos, o desenvolvimento de
 técnicas espaciais vem associado a uma discussão sobre o lugar dos
@@ -100,7 +100,7 @@ conhecimentos artísticos e arquitetônicos no campo dos saberes
 arquiteto numa sociedade letrada e no contexto das chamadas *artes
 liberais*.
 
-## Artes visuais como artes liberais ##
+## {.unlisted}
 
 . . .
 
@@ -114,16 +114,20 @@ liberais*.
   mundo formulada pelo conhecimento intelectual, mas também pelo poder
   político.
 
+## {.unlisted}
+
 Com o Renascimento, a distinção entre *artes liberais* --- os produtos
 do raciocínio lógico e da retórica, como História, Geometria, Música e
 Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
 que nós hoje consideramos como *artísticas* --- vai então sendo
 questionada e reformulada.
 
-## A disciplina da arquitetura ##
+## {.unlisted}
 
 <!--Câmera-->
-Na Ásia oriental e na Europa ocidental, a partir do século XV, as artes
+[Na Ásia oriental e na Europa ocidental,]{.newthought}
+
+a partir do século XV, as arte
 visuais em geral e a arquitetura em particular se consolidam como um
 *corpo de conhecimentos* teóricos e técnicos registrados por escrito em
 *tratados*: livros impressos que reivindicam uma autoridade normativa
@@ -158,14 +162,15 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi height=640px} 
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi .stretch}
 :::
 ::: {.column width=50%}
-![Cinco ordens de arquitetura por Claude Perrault [@perrault:1683ordonnance]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg/689px-Claude_Perrault%2C_Ordonnance_des_cinq_esp%C3%A8ces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance height=640px}
+![Cinco ordens de arquitetura por Claude Perrault
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance .stretch} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Domínio do espaço {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"} ##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
 
 Se o domínio global do espaço é a preocupação dominante das artes
 visuais e da arquitetura do século XV em diante, a cidade é onde esse
@@ -174,7 +179,7 @@ regionais ou nacionais no século XVIII. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
 literalmente, num só golpe de vista ([@fig:carnevale]).
 
-![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .stretch}
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
 
@@ -193,7 +198,7 @@ início do XVII, podem celebrar o fato efêmero da fragmentação do poder
 central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
 
-![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .stretch}
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
 
 <!--Câmera-->
 Por tudo isso, o espaço urbano na virada do século XIV é o ponto de
@@ -204,13 +209,8 @@ urbanas muito variadas.
 <!--/Câmera-->
 
 
-Mundos conectados no início do século XIV
-=========================================
+# Mundos conectados no início do século XIV #
 
-Sistemas mundiais
------------------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
@@ -228,30 +228,34 @@ visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
 na costa oeste do Atlântico norte.
 
 [Globalização]: https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Mundo nórdico, séculos X--XIV. [@redgeographics:2016map]](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
+![Mundo nórdico, séculos X--XIV. Desenho: [Redgeographics, 2016
+](https://commons.wikimedia.org/wiki/File:NorseExplorations-v2.png)
+](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
 :::
 ::: {.column width=50%}
-![Triângulo polinésio e migrações até o século X. [@eccles:2008polynesian]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
+![Triângulo polinésio e migrações até o século X. Desenho: [David
+Eccles, 2008
+](https://commons.wikimedia.org/wiki/File:Polynesian_Migration.svg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
 costa da América do Sul no século
 XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
 Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
 doce e ervas medicinais.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão polinésia até o século XIII [@benton:2012complete7]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png){width=100%}
+![Expansão polinésia até o século XIII. Desenho: [Miles Benton, 2012
+](https://doi.org/10.1371/journal.pone.0035026)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png){width=100%}
 
-## Difusionismo ##
+## {.unlisted}
 
 Um dos primeiros manuais de história da arquitetura a incluir a América
 precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
@@ -264,25 +268,26 @@ sendo capazes de criar arquitetura monumental.
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=70%}
-![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas [@choisy:1899histoire1, 198]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1%2C_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisy-pacific width=100%} 
+![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas [@choisy:1899histoire1, 198]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1,_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1,_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisy-pacific width=100% .stretch}
 :::
 ::: {.column width=30%}
-![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eug%C3%A8ne_Pirou.jpg){#fig:choisy width=100%}
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## História da arquitetura e colonialismo ##
+## {.unlisted}
 
-Por causa de interpretações como essa, a ideia de um mundo antigo e
+[Por causa de interpretações como essa,]{.newthought}
+a ideia de um mundo antigo e
 medieval globalmente conectado tende a ser olhada com uma desconfiança
 compreensível hoje em dia. Em mais de uma ocasião, o argumento da
 circulação mundial na Antiguidade foi usado para sustentar teses
 colonialistas, de que certos povos não seriam capazes de desenvolver uma
 arquitetura monumental sem ajuda externa ([@fig:aliens]).
 
-![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens}
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens .marginnote .stretch}
 
-## {data-background-image="https://www.integra.unb.br/s/jo9E5NQRfb7XFLF/preview"}
+## {data-background-image="https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg"}
 
 Para além disso, a hegemonia tecnológica e política que a Europa atingiu
 no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
@@ -296,7 +301,7 @@ no século XIV abrigam uma grande variedade de sociedades com modelos
 culturais e urbanísticos diversos. Esse conjunto forma a maior rede
 comercial do mundo no início da Idade Moderna.
 
-!["Árvore" tecnológica linear no jogo *Civilization VI*](https://www.integra.unb.br/s/jo9E5NQRfb7XFLF/preview){#fig:civ6 .stretch}
+!["Árvore" tecnológica linear no jogo *Civilization VI*](https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg){#fig:civ6 .fullwidth}
 
 ## {.unlisted}
 
@@ -322,7 +327,8 @@ muçulmanos.
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
 
-Uma combinação de mudanças climáticas, pandemias e reestruturações
+[Uma combinação de mudanças climáticas,]{.newthought}
+pandemias e reestruturações
 político-econômicas em todos os continentes afeta as redes comerciais e
 culturais em meados do século XIV e provoca a ruptura de muitas conexões
 globais. Um resfriamento global dá o pontapé
