@@ -85,7 +85,7 @@ de modo padronizado, para permitir as análises.
      espaço vertical do lado direito para as legendas, norte e escala
      gráfica.
 
-## Semana 3: planejamento das análises (3 pontos) ##
+## Semana 3: planejamento das análises (4 pontos) ##
 
 De posse da planta de base, é hora de refletir sobre as informações que
 podemos extrair dela e dos outros documentos coletados. A análise dos
@@ -128,12 +128,12 @@ prevendo uma ou duas pranchas para cada análise.
    edilícia de base: ventilação, sombreamento, interação com a
    vegetação e com a água.
 
-## Semana 4: um produto desenvolvido (1 ponto) ##
+## Semana 4: um produto desenvolvido (3 ponto) ##
 
 Apresente ao menos um dos três grupos de análises (malha viária,
 parcelamento ou edificações) completo para revisão e orientação.
 
-# Produto (10 pontos) #
+# Produto (12 pontos) #
 
 1. Planta de base e informações gerais do trabalho (1 prancha);
 2. Pranchas de análise nas três categorias (malha viária, parcelamento e
@@ -152,7 +152,7 @@ Demonstre claramente a sua capacidade de:
 - Documentar e referenciar de modo sistemático, completo e correto as
   fontes das informações e da cartografia utilizada.
 
-## Análise (4 pontos) ##
+## Análise (6 pontos) ##
 
 - Sequência lógica e clara das pranchas, progredindo, onde apropriado,
   do geral para o particular e do mais antigo ao mais recente;

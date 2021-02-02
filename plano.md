@@ -261,8 +261,8 @@ trabalhos que correspondem a cada uma das três Unidades do Programa.
 |     | Atividade                     | Processo | Produto | Subtotal |
 |----:|:------------------------------|---------:|--------:|---------:|
 |     | Resenha e discussão de textos |       -- |      30 |       30 |
-|   I | Análise de arquitetura        |       10 |      10 |       20 |
-|  II | Linguagens clássicas          |       10 |      10 |       20 |
+|   I | Análise urbana                |       13 |      12 |       25 |
+|  II | Análise de composição         |       10 |      15 |       25 |
 | III | Pesquisa e crítica            |       10 |      10 |       20 |
 |     | **Total**                     |          |         |  **100** |
 
@@ -337,17 +337,17 @@ Cada trabalho é avaliado segundo duas componentes: **processo** e
 **produto**. O processo se refere à regularidade no desenvolvimento do
 trabalho, e o produto à qualidade da apresentação final.
 
-## Processo (10 pontos) ##
+## Processo ##
 
-Metade da nota de cada trabalho é dada pelo processo de desenvolvimento
+Parte da nota de cada trabalho é dada pelo processo de desenvolvimento
 que você seguir. Trabalhe com regularidade, buscando orientação em aula
 e apresentando o seu esforço em andamento. A sua exploração da linguagem
 clássica e reflexão crítica sobre o conteúdo são os fatores
 preponderantes nesta componente da nota.
 
-## Produto (10 pontos) ##
+## Produto ##
 
-A outra metade da nota é dada pelo resultado final de cada trabalho, tal
+O restante da nota é dada pelo resultado final de cada trabalho, tal
 como apresentado e entregue na data estipulada no cronograma. O capricho
 na execução, a precisão de proporções e detalhes, e a clareza na
 apresentação visual são os fatores preponderantes nesta componente da
