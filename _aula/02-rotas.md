@@ -2,20 +2,44 @@
 title   : "Rotas comerciais e paradigmas urbanísticos"
 author  : "Pedro P. Palazzo"
 abstract: |
-  Formas urbanas tradicionais
+  Parcelamento do solo e paisagem urbana
   – Cidades mercantes da rota da Seda e do oceano Índico
   – Praças e pontos focais no mundo veneziano–bizantino
   – Infraestrutura hidráulica na América
 ---
 
+# Parcelamento do solo e paisagem urbana #
+
+Os elementos e objetos da arquitetura têm uma ordem de precedência
+específica. A tipologia edilícia determina os padrões de ocupação do
+espaço urbano e rural: isso porque os tipos de casas usados numa certa
+sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
+de precedência se aplica ao parcelamento originário do solo, por
+exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
+do império Romano, ou nas vilas planejadas da Europa medieval.
+
+## {data-background-image=""}
+
+Uma vez cumprido esse processo originário de urbanização num território
+desocupado, a ordem de precedência se inverte: o parcelamento do solo
+preexistente, tanto no espaço urbano quanto no rural, passa a restringir
+as tipologias edilícias possíveis. Esta é a condição dominante da
+urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
+século [XIV]{.smallcaps}.
+
+## {data-background-image=""}
+
+Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
+[XVI]{.smallcaps}, a realidade do território preexistente interferia com
+projetos políticos e ideológicos que visavam a reinstituir princípios
+teóricos da arquitetura e urbanísticos.
+
 # Kampung malaio #
 
 <!--Deixar claro por que o kampung é urbanismo bioclimático-->
 
-## Nem tanto ao mar, nem tanto à terra ##
-
 <!--Câmera-->
-A passagem do século [XIV]{.smallcaps} para o XV marca o último período de auge das
+A passagem do século [XIV]{.smallcaps} para o [XV]{.smallcaps} marca o último período de auge das
 cidades-estado marítimas no sistema mundial. Esses lugares controlam
 pontos estratégicos na passagem de mercadorias em rotas comerciais de
 longa distância. Por isso, se desenvolvem formando redes de acesso a
@@ -31,7 +55,7 @@ estruturantes e à volta de templos e palácios fortificados.
 
 ## {data-transition="fade-out"}
 
-No universo das cidades-estado mercantes dos séculos [XIV]{.smallcaps} e XV, os reinos
+No universo das cidades-estado mercantes dos séculos [XIV]{.smallcaps} e [XV]{.smallcaps}, os reinos
 do Sudeste asiático se destacam pela sua diversidade étnica e religiosa.
 O império hindu-budista de Majapahit com a sua capital Trowulan, na ilha
 de Java ([@fig:majapahit]), e o sultanato muçulmano de Malacca
@@ -45,14 +69,14 @@ urbano e de construir perfeitamente adaptados ao clima equatorial.
 
 ## {data-transition="fade-in"}
 
-![Sultanato de Malacca no final do século XV [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .stretch}
+![Sultanato de Malacca no final do século [XV]{.smallcaps} [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .stretch}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"}
 
 <!--Câmera-->
 Caracterizar a urbanização malaia esbarra no problema do vocabulário que
 se usa para definir e descrever o que é "urbano". Até a segunda metade
-do século XX, estava mais ou menos entendido que uma *civilização* que
+do século [XX]{.smallcaps}, estava mais ou menos entendido que uma *civilização* que
 se preze devia ter *cidades* --- e só contam como cidades os grandes
 assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 Índia e no "extremo Oriente".
@@ -61,7 +85,7 @@ assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
 de grandes cidades com um sistema cartorial de propriedade do solo e uma
 distinção nítida entre espaço público e espaço privado. Essa diferença
-já aparecia desde o século XV, com o assentamento dos primeiros
+já aparecia desde o século [XV]{.smallcaps}, com o assentamento dos primeiros
 comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
 [XVII]{.smallcaps} e [XIX]{.smallcaps}, quando os colonizadores europeus segregaram as cidades
 malaias em bairros ocidentais, chineses e "nativos".
@@ -145,7 +169,7 @@ budista se aglomeram em volta do *pura* ([@fig:hall-trowulan]).
 
 [À margem do império Majapahit]{.newthought} e depois do seu declínio no final do
 século [XIV]{.smallcaps}, uma série de cidades-estado independentes
-tomam o controle do comércio marítimo. Na Malásia islâmica, do século XV
+tomam o controle do comércio marítimo. Na Malásia islâmica, do século [XV]{.smallcaps}
 em diante, as mesquitas não ocupam o centro do poder político, mas
 funcionam como centros comunitários em cada *kampung*. A sede do poder
 político nas cidades-estado é o *kota raja*, ou cidadela real
@@ -155,7 +179,7 @@ político nas cidades-estado é o *kota raja*, ou cidadela real
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg"}
 
-Malacca foi um dos reinos muçulmanos mais poderosos do século XV. A
+Malacca foi um dos reinos muçulmanos mais poderosos do século [XV]{.smallcaps}. A
 cidade controlava o estreito marítimo por onde passava uma grande parte
 do comércio chinês e indiano. O palácio de Malacca ficava onde seria
 construída a fortaleza portuguesa (1511) e mais tarde a cidade holandesa
@@ -176,7 +200,7 @@ outra margem do rio [@plan:1656malacca].
 
 ![Reconstituições do palácio por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg){#fig:malacca-kotarajaC}
 :::
-O *kota raja* de Malacca no século XV
+O *kota raja* de Malacca no século [XV]{.smallcaps}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 O *kota raja* funciona ele próprio como um *kampung* centrado no palácio
@@ -186,7 +210,7 @@ e na sua mesquita ([@fig:malacca-kotaraja]).
 
 O Kampung Glam, em Cingapura, é outra antiga cidadela real malaia [@tajudeen:kampung].
 Durante a ocupação britânica, do início do século [XIX]{.smallcaps} até a metade do
-século XX ([@fig:raffles]), ele perdeu a função de centro político e se
+século [XX]{.smallcaps} ([@fig:raffles]), ele perdeu a função de centro político e se
 adensou como uma vila comercial ([@fig:kampongglam]).
 
 ![Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822--1829](https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg){#fig:raffles .stretch} 
@@ -273,7 +297,7 @@ com a influência cultural vinda dessas regiões.
 As principais cidades-estado suaíle, como Lamu, Quíloa e Sofala, se
 consolidam a partir do século VIII d.C., quando se convertem ao islã, e
 atingem o seu auge entre os séculos [XII]{.smallcaps} e [XIV]{.smallcaps}.
-Nos séculos [XVI]{.smallcaps} e XVII, as cidades suaíle perdem poder econômico para as
+Nos séculos [XVI]{.smallcaps} e [XV]{.smallcaps}II, as cidades suaíle perdem poder econômico para as
 grandes potências marítimas da época: Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
 antigas cidades-estado são abandonadas.
@@ -512,7 +536,7 @@ praça, contribuem para organização regular do espaço.
 
 ![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .fullwidth}
 
-Em qualquer caso, no século XV a pintura em perspectiva no centro da
+Em qualquer caso, no século [XV]{.smallcaps} a pintura em perspectiva no centro da
 Itália começa a propor não só uma sucessão de espaços contidos e
 delimitados, mas também a regularidade geométrica dos elementos que
 "povoam" esse espaço. Essa transformação está bem representada nas
@@ -528,7 +552,7 @@ modo de afirmar a perfeição geométrica do conjunto.
 
 <!--_,-->
 
-Num primeiro momento, na segunda metade do século XV, os próprios
+Num primeiro momento, na segunda metade do século [XV]{.smallcaps}, os próprios
 edifícios são as personagens principais da cena, talvez com uma
 construção dominante no centro da composição. O espaço é,
 principalmente, um recurso para ordenar a disposição desses edifícios,
@@ -542,7 +566,7 @@ auxiliado pela regularidade na paginação do piso sempre pavimentado.
 
 <!--_,-->
 
-Em pouco tempo, porém, antes mesmo do final do século XV, o interesse
+Em pouco tempo, porém, antes mesmo do final do século [XV]{.smallcaps}, o interesse
 artístico se desloca da representação de *construções no espaço* para a
 representação *do próprio espaço*. As construções passam de personagens
 principais, plenamente volumétricas, para simples instrumentos que dão
@@ -551,12 +575,12 @@ tangíveis e visualmente articuladas para o espaço.
 
 A busca pela representação do espaço, e pela articulação entre matéria e
 vazio, que na China do século [XII]{.smallcaps} assume a forma de um diálogo entre
-névoa e paisagem, na Itália do século XV resulta numa busca pela
+névoa e paisagem, na Itália do século [XV]{.smallcaps} resulta numa busca pela
 descrição e delimitação geométrica do espaço.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG"}
 
-A opção, feita pelos artistas da Itália central no final do século XV,
+A opção, feita pelos artistas da Itália central no final do século [XV]{.smallcaps},
 de representar prioritariamente *o espaço*, em detrimento da
 individualidade das edificações, representa talvez as duas
 características mais marcantes do urbanismo ocidental na Idade Moderna.
@@ -645,7 +669,7 @@ homem": a condição para um desenho urbano ser coerente e completo é que
 cada intervenção sucessiva acompanhe e fortaleça as realizações
 anteriores.
 
-![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV--[XVII]{.smallcaps}. Bacon, 1974](https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-sq/preview){#fig:annunziata-bacon}
+![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV]{.smallcaps}--[XVII]{.smallcaps}. Bacon, 1974](https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-sq/preview){#fig:annunziata-bacon}
 
 # Infraestrutura hidráulica na América #
 
@@ -682,7 +706,7 @@ para a agricultura intensiva.
 ## {data-background-image="http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Tenochtitlan no século XVI](http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg){#fig:tenochtitlan}
+![Tenochtitlan no século [XV]{.smallcaps}I](http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg){#fig:tenochtitlan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Milpa ##
