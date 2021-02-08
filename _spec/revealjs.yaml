@@ -20,12 +20,12 @@ toc             : true
 toc-depth       : 1
 variables:
   css           : "../assets/css/slide.css"
-  controls      : false
+  controls      : 0
   hash          : true
   hashOneBasedIndex: true
   height        : 1080
   width         : 1920
-  progress      : true
+  progress      : 0
   revealjs-url  : "../reveal.js"
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/23/Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
