@@ -79,6 +79,7 @@ exclude:
   - LICENSE
   - Makefile
   - outcomes.csv
+  - reveal.js
   - "*.aux"
   - "*.bbl"
   - "*.bcf"
