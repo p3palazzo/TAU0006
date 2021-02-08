@@ -1,7 +1,6 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   Formas urbanas tradicionais
   – Cidades mercantes da rota da Seda e do oceano Índico
