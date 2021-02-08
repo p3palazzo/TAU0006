@@ -1,25 +1,21 @@
+/*
+ * General tweaks for nicer appearance
+ */
 @import "settings";
 
+:root {
+  color-scheme: light dark; /* both supported */
+}
+
+// Let header image attach to the top of the screen.
 body {
   margin-top: 0;
 }
 
-blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote {
-  margin-right: -70%;
-}
-
-dl {
-  font-size: 1.4rem;
-  width: 55%;
-  dt {
-    line-height: 1.4em;
-  }
-}
-
-dd {
-  margin: 0;
-}
-
+/*
+ * Revert to default font in italics and bold because the oldstyle
+ * numerals font does not have these shapes.
+ */
 em, i, strong, b,
 p.subtitle,
 .epigraph > blockquote > p,
@@ -27,43 +23,67 @@ p.subtitle,
   font-family: $mainFont;
 }
 
-figcaption {
-  max-width: 50%;
+// Improve position + style of Pandoc citations
+blockquote > p {
+  & > span.citation > span.sidenote-wrapper > span.sidenote {
+    margin-right: -70%;
+    font-family: $mainFont;
+  }
 }
 
-h2 > em {
-  font-style: normal;
+// Correct width of some elements
+section > details,
+section > dl,
+header > div.epigraph {
+  width: 55%;
 }
 
+// Run-in definition lists
+section > dl {
+  font-size: 1.4rem;
+  dt {
+    line-height: 1.4em;
+  }
+  dd {
+    margin: 0;
+  }
+}
+
+// Uniform styling of lesser headings
 dt, h4, h5 {
   @extend .smallcaps;
   font-size: 1.4rem;
 }
 
+// Run-in definition lists and headings
 dt, h5 {
   float: left;
   margin: 0 1.4rem 0 0;
   padding-bottom: 0;
 }
 
+// Make captions align with sidenotes
+figcaption {
+  max-width: 50%;
+}
+
+/*
+ * Don't get headings caught in floats,
+ * reverse the emphasis since h2 uses italics.
+ */
+h2 {
+  clear: both;
+  em {
+      font-style: normal;
+    }
+}
+
+// Correct alignment of run-in headings
 h5 {
   line-height: 1.2em;
 }
 
-div.incremental,
-header > div.epigraph {
-  width: 55%;
-}
-
-div.columns {
-	clear:both;
-	width: 90%;
-}
-
-div.column {
-	float: left;
-}
-
+// Substitute asterisks for horizontal rule
 hr {
   border: 0;
   text-align: center;
@@ -74,15 +94,28 @@ hr {
   }
 }
 
+// Outset list markers (eyeball measurement)
+ol, ul {
+  margin-left: -2.5rem;
+}
+
+// Old-style figures
 p,
 figcaption {
   @extend .numeral;
 }
 
+// Don't enlarge new thoughts
+span.newthought {
+  font-size: 1.4rem;
+}
+
+// Proper alignment of details > summary
 summary > p {
   display: inline;
 }
 
+// Sensible table borders
 table {
   border-collapse: collapse;
   max-width: 90%;
@@ -93,10 +126,12 @@ td {
   border-top: 1px solid #111111;
 }
 
+// Flush table cell contents top even if it has a p
 td > p {
   margin-top: 0;
 }
 
+// Align header image with content
 .site-title {
   max-width: 1400px;
   & > img {
@@ -104,6 +139,7 @@ td > p {
   }
 }
 
+// When I say small caps, I mean it.
 .smallcaps,
 span.newthought {
   text-transform: lowercase;
@@ -111,25 +147,107 @@ span.newthought {
   font-weight: bold;
 }
 
-p > span.newthought {
-  font-size: 1em;
-}
+/******************************************************
+ * Fixes for pandoc-crossref
+ */
 
-details {
-  width: 55%;
-}
-
-/* Fixes for pandoc-crossref */
+// Correct handling of figures with captions
 figure > figcaption {
   @extend .marginnote;
 }
 
 figure > img.fullwidth {
   clear: both;
-  max-width: 164%;
+  max-width: 160%;
 }
 
-/* Fixes for Zotero export to HTML */
+/******************************************************
+ * Fixes for reveal.js elements
+ */
+div.columns {
+	clear:both;
+	width: 90%;
+  div.column {
+    float: left;
+  }
+}
+
+div.incremental {
+  width: 55%;
+}
+
+/*
+ * Hide Bibliography title because our style does not output a
+ * reference list.
+ */
+#refs,
+.allowframebreaks {
+  display: none;
+  visibility: hidden;
+}
+
+/******************************************************
+ * Light and Dark
+ */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fffff8;
+    background-color: #212121;
+    a:link {
+      background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
+      background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111;
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+    img {
+      // Prevents line drawings as transparent PNGs from disappearing
+      background-color: #fffff8;
+			filter: brightness(.8) contrast(1.2);
+    }
+  }
+}
+@media (prefers-color-scheme: no-preference) {
+	body {
+    color: #111111;
+    background-color: #fffff8;
+		a:link {
+			text-decoration: none;
+			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+			background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+			-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-repeat: no-repeat, no-repeat, repeat-x;
+			text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+			background-position: 0% 93%, 100% 93%, 0% 93%;
+		}
+	}
+}
+@media (prefers-color-scheme: light) {
+	body {
+    color: #111111;
+    background-color: #fffff8;
+		a:link {
+			text-decoration: none;
+			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+			background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+			-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-repeat: no-repeat, no-repeat, repeat-x;
+			text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+			background-position: 0% 93%, 100% 93%, 0% 93%;
+		}
+	}
+}
+
+/******************************************************
+ * Fixes for Zotero export to HTML
+ */
 div.csl-bib-body {
   @extend section;
 }
@@ -143,6 +261,9 @@ div.csl-bib-body {
   padding-bottom: 1rem;
 }
 
+/******************************************************
+ * Screen width overrides must come last.
+ */
 @media (max-width: 760px) {
   div.incremental,
   header > div.epigraph,
