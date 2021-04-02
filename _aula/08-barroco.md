@@ -155,7 +155,7 @@ Plautilla Bricci, fachadas laterais da villa Il Vascello
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png"}
 
-![Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant'Andrea al Quirinale, Roma, após 1658. Gravura por [Giovanni Battista Falda, 1667--1669][]](https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png){#fig:quirinale-falda}
+![Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant'Andrea al Quirinale, Roma, após 1658. Gravura por [Giovanni Battista Falda, 1667--1669][]](https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png){#fig:quirinale-falda .stretch}
 
 [Giovanni Battista Falda, 1667--1669]: https://commons.wikimedia.org/wiki/File:Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png
 
@@ -165,7 +165,7 @@ Plautilla Bricci, fachadas laterais da villa Il Vascello
 
 * * * *
 
-![Gianlorenzo Bernini, Sant'Andrea al Quirinale, Roma, após 1658. [Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art][]](https://collectionapi.metmuseum.org/api/collection/v1/iiif/397621/785949/main-image){#fig:quirinale-sez .stretch}
+![Gianlorenzo Bernini, Sant'Andrea al Quirinale, Roma, após 1658. [Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art][]](https://i.pinimg.com/originals/19/37/cc/1937ccca55120a73057d249de2f7b3b6.jpg){#fig:quirinale-sez .stretch}
 
 [Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art]: https://www.metmuseum.org/art/collection/search/397621
 
@@ -189,9 +189,7 @@ Plautilla Bricci, fachadas laterais da villa Il Vascello
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1280px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Nave da igreja de San Carlo alle quattro fontane. @livioandronico2013:2015carlino](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1024px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg){#fig:scarlino-navata}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Nave da igreja de San Carlo alle quattro fontane. @livioandronico2013:2015carlino](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1024px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg){#fig:scarlino-navata .stretch} 
 
 <!--_,-->
 
@@ -241,9 +239,7 @@ S. Carlino?
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1280px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Interior da cúpula de Sant'Ivo alla Sapienza. @architas:2018santivo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg){#fig:santivo-cupola}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Interior da cúpula de Sant'Ivo alla Sapienza. @architas:2018santivo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg){#fig:santivo-cupola .stretch}
 
 <!--_,-->
 
@@ -277,7 +273,7 @@ monumentais.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"}
 
-![Jacques Androuet Du Cerceau, castelo de Charleva, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade}
+![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade .stretch}
 
 <!--_,-->
 
