@@ -353,37 +353,27 @@ pátio Quadrado do Louvre,
 
 ## {data-background-image="https://i.pinimg.com/originals/3b/52/69/3b5269330e598abf0f9f16570c42e8b7.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Giovan Battista Aleotti encarregado de realizar obras de drenagem e
 bonificação do vale do Po na região de Gualtieri.
 
-![Cidade de Gualtieri. @teatro:gualtieri](https://i.pinimg.com/originals/3b/52/69/3b5269330e598abf0f9f16570c42e8b7.jpg){#fig:gualtieri .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cidade de Gualtieri. @teatro:gualtieri](https://i.pinimg.com/originals/3b/52/69/3b5269330e598abf0f9f16570c42e8b7.jpg){#fig:gualtieri}
 
 ## {data-background-image="https://i.pinimg.com/originals/88/08/fa/8808fa1a92eebe71e56a5390b8c100a5.jpg"}
 
-:::notes
 ![Giovan Battista Aleotti. Piazza Bentivoglio, Gualtieri, 1585. @alandini1969:2015piazza](https://i.pinimg.com/originals/88/08/fa/8808fa1a92eebe71e56a5390b8c100a5.jpg){#fig:bentivoglio-drone}
-:::
 
 ## {data-background-image="https://i.pinimg.com/originals/0a/6b/2e/0a6b2e0b11200ba09ba59427d81121b8.jpg"}
 
-:::notes
-![Piazza Bentivoglio. Vista do palácio para a torre municipal. @rita:2013viaggio](https://i.pinimg.com/originals/0a/6b/2e/0a6b2e0b11200ba09ba59427d81121b8.jpg){#fig:bentivoglio-torre .stretch}
-:::
+![Piazza Bentivoglio. Vista do palácio para a torre municipal. @rita:2013viaggio](https://i.pinimg.com/originals/0a/6b/2e/0a6b2e0b11200ba09ba59427d81121b8.jpg){#fig:bentivoglio-torre}
 
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg"}
 
-:::notes
-![Charleville, fundada em 1606. @moreau:1625charleville](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg){#fig:charleville .stretch}
-:::
+![Charleville, fundada em 1606. @moreau:1625charleville](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg){#fig:charleville}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg"}
 
-:::notes
-![Praça ducal, Charleville. @velvet:2013place](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .stretch}
-:::
+![Praça ducal, Charleville. @velvet:2013place](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville}
 
 ## Place Royale (place des Vosges) ##
 
@@ -399,13 +389,9 @@ bonificação do vale do Po na região de Gualtieri.
 - Confrontações: Itália, Espanha, França e Inglaterra
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
 ## {data-background-image="https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Robert Smythson, Hardwick hall, Ault Hucknall, 1590--1597](https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg){#fig:hardwick-ext}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Hôtel: soluções funcionais da modernidade #
 
