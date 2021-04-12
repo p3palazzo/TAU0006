@@ -2,7 +2,7 @@ name: Website
 on:
   pull_request:
   push:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   jekyll:
     runs-on: ubuntu-latest
