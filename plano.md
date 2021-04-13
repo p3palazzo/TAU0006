@@ -261,7 +261,7 @@ trabalhos que correspondem a cada uma das três Unidades do Programa.
 |     | Atividade                     | Processo | Produto | Subtotal |
 |----:|:------------------------------|---------:|--------:|---------:|
 |     | Resenha e discussão de textos |       -- |      30 |       30 |
-|   I | Análise urbana                |       13 |      12 |       25 |
+|   I | Análise urbana                |       10 |      15 |       25 |
 |  II | Análise de composição         |       10 |      15 |       25 |
 | III | Pesquisa e crítica            |       10 |      10 |       20 |
 |     | **Total**                     |          |         |  **100** |
