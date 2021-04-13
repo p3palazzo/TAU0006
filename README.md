@@ -45,7 +45,7 @@ layout: index
 - [Resenhas de leitura]()
 - [Trabalho 1: Análise urbana](trabalho-1-analise-urbana.md)
 - [Trabalho 2: Análise de arquitetura](trabalho-2-analise-arq.md)
-- [Trabalho 3: Caráter](trabalho-3-carater.md)
+- [Trabalho 3: Pesquisa e crítica](trabalho-3-wikipedia.md)
 
 # License #
 
