@@ -9,11 +9,11 @@ vpath %.xml _site
 vpath default.% _lib
 vpath %.yaml _spec:.
 
-PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
-	--user "`id -u`:`id -g`" pandoc/crossref:2.11.4
-PANDOC/LATEX    := docker run -v "`pwd`:/data" \
+PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
+	--user "`id -u`:`id -g`" pandoc/crossref:2.12
+PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 	-v "`pwd`/assets/fonts:/usr/share/fonts" \
-	--user "`id -u`:`id -g`" pandoc/latex:2.11.4
+	--user "`id -u`:`id -g`" pandoc/latex:2.12
 
 ASSETS  = $(wildcard assets/*)
 CSS     = $(wildcard assets/css/*)
@@ -54,10 +54,6 @@ _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl _site/slides
 #-V multiplexSocketId=$(multiplexSocketId) \
 #-V multiplexUrl=$(multiplexUrl) \
 
-#_site : README.md _config.yaml _sass reveal.js $(ASSETS) $(CSS) $(FONTS) | _csl clean
-	#docker run -v "`pwd`:/srv/jekyll" palazzo/jekyll-pandoc:4.2.0-2.11.3.2 \
-		#/bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-
 # {{{1 PHONY
 #      =====
 
@@ -66,7 +62,8 @@ _site :
 		|| cd _site && git pull
 
 _csl :
-	git clone https://github.com/citation-style-language/styles.git _csl
+	@gh repo clone citation-style-language/styles $@\
+		-- --depth=1
 
 _site/slides : _site
 	-mkdir -p _site/slides
