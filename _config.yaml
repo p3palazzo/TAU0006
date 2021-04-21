@@ -58,6 +58,7 @@ sass_dir:
     - _sass
     - assets
     - assets/css
+    - assets/css-slides
     - reveal.js/css/theme/template
 timezone: America/Sao_Paulo
 
@@ -78,7 +79,6 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
-  - outcomes.csv
   - reveal.js
   - "*.aux"
   - "*.bbl"
@@ -89,7 +89,6 @@ exclude:
   - "*.fls"
   - "*.log"
   - "*.run.xml"
-  - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
 include:
