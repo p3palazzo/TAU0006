@@ -489,6 +489,12 @@ definição da profissão de arquiteto.
 
 # Querela dos Antigos e dos Modernos #
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
+
+![Claude Perrault, ordenamento das cinco ordens de arquitetura, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:ordonnance}
+
+## {.unlisted}
+
 - Renascimento → Conceito de "artes do desenho"
 - Poussin vs. Rubens: Roger de Piles
 
