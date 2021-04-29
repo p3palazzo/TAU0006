@@ -76,9 +76,9 @@ Datam dessa época os vários mosteiros budistas na antiga capital, Nara,
 e seu entorno. O maior de todos é o Tōdaiji, ou "grande templo do
 leste", construído a partir de 743 para abrigar uma estátua monumental
 do Buda ([@Fig:todaiji-garan-model]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Maquete do *garan* (recinto) do Tōdaiji, Nara, 743. Projeto de Chōgen. Prefeitura de Nara, foto por [Nagoya (2020a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg/1024px-200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg){#fig:todaiji-garan-model}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -96,9 +96,9 @@ complexo, após a devastação causada pelas guerras civis.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando construído, o edifício principal do Tōdaiji --- o salão dourado
 ou salão do grande Buda --- era a maior construção em madeira do mundo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Maquete do salão dourado do Tōdaiji, Nara, 743--751. Foto: [Nagoya (2020b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/1024px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg){#fig:todaiji-kondo-model}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1280px-Tōdai-ji_Temple_in_Nara,_Japan.jpg"}
 
@@ -107,9 +107,9 @@ O salão dourado original foi destruído num incêndio provocado por um
 raio, e foi reconstruído em 1709. O novo edifício
 ([@Fig:todaiji-kondo-angle]) continuou sendo a maior estrutura em
 madeira do mundo até a inauguração do Parasol em Sevilha, em 2014.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Moïse (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1024px-Tōdai-ji_Temple_in_Nara,_Japan.jpg){#fig:todaiji-kondo-angle}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1280px-Buddha_in_Todai-ji,_Nara.JPG"}
 
@@ -117,15 +117,13 @@ madeira do mundo até a inauguração do Parasol em Sevilha, em 2014.
 A estátua colossal de Buda também foi quase inteiramente refeita, mas
 mantém as suas dimensões originais ([@Fig:daibutsu-front;
 @fig:daibutsu-side])
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Grande Buda do Tōdaiji, Nara, 741--752, restaurado em 1185 e 1692. [Løken (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1024px-Buddha_in_Todai-ji,_Nara.JPG){#fig:daibutsu-front}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1280px-Japan_070416_Todaiji_08.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Grande Buda do Tōdaiji. [Rozen (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1024px-Japan_070416_Todaiji_08.jpg){#fig:daibutsu-side}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1280px-Todaiji_daibutsuden1.jpg"}
 
@@ -138,9 +136,9 @@ Buda" (*daibutsuyō*).
 
 Mesmo o salão reconstruído no século XVIII permanece fiel ao estilo
 original ([@Fig:todaiji-kondo-front]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Kenpei (2009)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1024px-Todaiji_daibutsuden1.jpg){#fig:todaiji-kondo-front}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -160,9 +158,9 @@ dos poucos elementos da arquitetura budista a não ser de origem chinesa.
 O *karahafu* vai ser um motivo arquitetônico especialmente difundido
 durante o período Edo, do século XVII ao XIX, em vários tipos de
 edificações cívicas e religiosas ([@Fig:nijo-karamon]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![*Karamon* no Ninomaru, castelo Nijō, Quioto, 1626. [Chino (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NinomaruPalace.jpg/1020px-NinomaruPalace.jpg){#fig:nijo-karamon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -219,9 +217,9 @@ define as principais características desse estilo: os pilares são feitos
 com os troncos de árvores imensas, e todos os outros elementos
 estruturais --- das vigas aos *kumimono* --- são colossais em proporção
 aos pilares.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Portão sul do recinto do Tōdaiji, Nara, reconstruída em 1199--1203. [663highland (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1024px-Todaiji17s4592.jpg){#fig:todaiji-nandaimon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1280px-Todai_ji_dougong.JPG"}
 
@@ -235,9 +233,9 @@ muito grandes. No entanto, desde o século XVII as florestas antigas vão
 se tornando escassas e distantes. Em resposta a essa crise ambiental,
 tanto a casa Imperial quanto o governo dos xoguns estabelecem áreas
 protegidas para garantir a renovação dessas florestas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![*Tokyō* na fachada do salão dourado do Tōdaiji, Nara, 743. [Gisling (2007)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1024px-Todai_ji_dougong.JPG){#fig:todaiji-tokyo}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Nikkō Tōshōgū ##
 
@@ -265,7 +263,6 @@ mais modesta ([@Fig:toshogu-bn]).
 
 ![Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634--1636. [Acervo da Biblioteca nacional (Brasil)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg){#fig:toshogu-bn .stretch}
 
-<!--._-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1280px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg"}
 
@@ -275,9 +272,9 @@ com grande riqueza de materiais e de detalhes escultóricos e pintados. O
 Yōmeimon, o portão do recinto principal ([@Fig:yomeimon-front]), reúne
 um conjunto expressivo de motivos ornamentais, que valeram ao Tōshōgū a
 alcunha de "barroco japonês".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Yōmeimon, Tōshōgū. [Zairon (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1024px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg){#fig:yomeimon-front}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1280px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG"}
 
@@ -310,15 +307,13 @@ gama quase completa dos motivos ornamentais em uso no Japão
 ([@Fig:toshogu-karamon]). Pela sua riqueza e variedade, ela expressa,
 mesmo num contexto religioso, o espírito do "mundo fugaz" (*ukiyo*) que
 caracteriza a cultura urbana do Japão nos séculos XVII a XIX.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Tōshōgū, *karamon*. [Soramimi (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1024px-Karamon_of_Nikko_Tosho_Shrine.JPG){#fig:toshogu-karamon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/5483/11284487324_128c03e2f9_k_d.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Nikkō Tōshōgū, detalhe. [Berlin (2013)][]](https://live.staticflickr.com/5483/11284487324_62ce101314_c_d.jpg){#fig:toshogu-det}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Nagoya (2020a)]: https://commons.wikimedia.org/wiki/File:200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg
 
@@ -413,15 +408,11 @@ Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1280px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Fachada do palácio Carignano, Turim. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg){#fig:madama-dissegni}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/4e/df/20/4edf20972f0a3660fe2683e739f0688b.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Elevação interior do projeto para a igreja da Divina Providência, Lisboa. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg){#fig:lisboa-dissegni}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -436,9 +427,7 @@ Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 
 ## {data-background-image="https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Interior da cúpula da capela do Santo Sudário. [Bottallo][]](https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg){#fig:sindone-int}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -454,21 +443,19 @@ Turim.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1280px-Torino,_san_lorenzo,_10.JPG"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Interior da igreja de São Lourenço. [Sailko (2011a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1024px-Torino,_san_lorenzo,_10.JPG){#fig:slorenzo-int}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1280px-San_Lorenzo_(Turin)_-_Dome_interior.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Cúpula da igreja de São Lourenço. [Livioandronico2013 (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg){#fig:slorenzo-dome}
 
 <!--._-->
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1280px-Torino,_san_lorenzo,_cupola_09.JPG"}
 
 ![Cúpula da igreja de São Lourenço. [Sailko (2011b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG){#fig:slorenzo-dome-persp}
+
 
 ## Arquitetura à francesa ##
 
@@ -479,9 +466,9 @@ O historiador da arquitetura Jean-Marie Pérouse de Montclos deu a
 alcunha de "arquitetura à francesa" a um conjunto de conhecimentos
 técnicos e de práticas construtivas herdadas do período gótico e
 plenamente integradas à arquitetura do Renascimento na França.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cadernos de Villard de Honnecourt, século XIII. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Cour_Philibert_Delorme_Lyon.jpg"}
 
@@ -489,9 +476,9 @@ plenamente integradas à arquitetura do Renascimento na França.
 Philibert de L'Orme, contemporâneo de Serlio, foi um dos principais
 responsáveis por codificar e difundir por escrito a arquitetura à
 francesa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Philibert de l'Orme, Hôtel Bullioud, Lião, século XVI. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg"}
 
@@ -500,19 +487,19 @@ A sua atuação prática e teórica em torno da metade do século
 XVI marca o início de um processo de transferência e apropriação de
 conhecimentos das corporações de ofício da construção para os
 arquitetos.
-
-![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. @roland:2008letude](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg/1280px-P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg"}
+![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. @roland:2008letude](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1280px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A difusão dos conhecimentos técnicos das corporações de ofício para os
 arquitetos vem associada à transposição da autoridade para fazer e,
 sobretudo, falar de arquitetura entre esses dois grupos.
-
-![Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. [Mbzt (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg){#fig:hardouin-arles}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. [Mbzt (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg){#fig:hardouin-arles}
 
 * * * *
 
@@ -550,7 +537,7 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 
 [Belzunce (2012)]: https://commons.wikimedia.org/wiki/File:Cour_Philibert_Delorme_Lyon.jpg
 
-[Mbzt (2012)]: https://commons.wikimedia.org/wiki/File:P1140835_Arles_h%C3%B4tel_de_ville_salle_RdC_rwk.jpg?uselang=fr
+[Mbzt (2012)]: https://commons.wikimedia.org/wiki/File:P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg
 
 <!--._-->
 
