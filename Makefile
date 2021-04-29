@@ -25,7 +25,7 @@ ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
-deploy : _site $(SLIDES) \
+deploy : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) jekyll build
@@ -52,7 +52,7 @@ _csl/%.csl : | _csl
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
-.slides : $(SLIDES) | _site
+.slides : $(SLIDES)
 
 _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml \
 	| _csl/chicago-author-date.csl _site/slides
@@ -63,7 +63,7 @@ _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml \
 #-VmultiplexSocketId=$(multiplexSocketId) \
 #-VmultiplexUrl=$(multiplexUrl) \
 
-_site/slides : _site
+_site/slides :
 	@test -e _site/slides || mkdir -p _site/slides
 
 # {{{1 PHONY
