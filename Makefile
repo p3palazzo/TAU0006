@@ -28,7 +28,7 @@ SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 deploy : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) jekyll build
+		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 # {{{1 Produtos PDF
 #      ============
