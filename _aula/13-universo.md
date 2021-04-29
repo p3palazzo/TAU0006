@@ -225,9 +225,7 @@ As vistas entrecruzadas oferecem perspectivas variadas em sucessão
 
 ## {data-background-image="https://live.staticflickr.com/5727/30484849063_9dfeed62e2_k_d.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Shi Zhengzhi, Wangshiyuan, Suzhou, 1140](https://live.staticflickr.com/5727/30484849063_3aeb806c12_c_d.jpg){#fig:wangshi-w}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cinco princípios de composição ##
 
@@ -406,9 +404,7 @@ Segundo Wong [-@wong:2016paradise, 14]:
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Yuanmingyuan_plan.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Lei Fada, Lei Jinyu e sucessores, Yuanmingyuan, Pequim, iniciado em 1700](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yuanmingyuan_plan.jpg/640px-Yuanmingyuan_plan.jpg){#fig:yuanmingyuan-plan}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1002_Qinzheng.jpg"}
 
