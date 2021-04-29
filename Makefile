@@ -22,9 +22,10 @@ ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
-deploy : _site $(SLIDES) $(AULA) $(ASSETS) $(CSS) $(ROOT)
-	@bundle install \
-		&& bundle exec jekyll build --future
+deploy : _site $(SLIDES) \
+	| _csl/chicago-fullnote-bibliography-with-ibid.csl
+	@bundle update \
+		&& bundle exec jekyll build
 
 # {{{1 Produtos PDF
 #      ============
@@ -41,37 +42,50 @@ tau0006.pdf : plano.pdf cronograma.pdf
 %.tex : %.md latex.yaml default.latex
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
+_csl/%.csl : | _csl
+	@cd _csl && git checkout master -- $(@F)
+	@echo "Checked out $(@F)."
+
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
 
 .slides : $(SLIDES) | _site
 
-_site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml | _csl _site/slides
+_site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml \
+	| _csl/chicago-author-date.csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 # Para ativar o Multiplex, incluir as linhas abaixo no comando acima:
-#-V multiplexSecret=$(multiplexSecret) \
-#-V multiplexSocketId=$(multiplexSocketId) \
-#-V multiplexUrl=$(multiplexUrl) \
+#-VmultiplexSecret=$(multiplexSecret) \
+#-VmultiplexSocketId=$(multiplexSocketId) \
+#-VmultiplexUrl=$(multiplexUrl) \
+
+_site/slides : _site
+	@test -e _site/slides || mkdir -p _site/slides
 
 # {{{1 PHONY
 #      =====
 
+.PHONY : _site
 _site :
-	@gh repo clone tau0006 _site -- -b gh-pages --depth=1 \
-		|| cd _site && git pull
+	@test -e _site/.git && cd _site && git pull || \
+		git clone --depth=1 git@github.com:p3palazzo/tau0006.git \
+		$@
 
+.PHONY : _csl
 _csl :
-	@gh repo clone citation-style-language/styles $@\
-		-- --depth=1
+	@echo "Fetching CSL styles..."
+	@test -e $@ || \
+		git clone --depth=1 --filter=blob:none --no-checkout \
+		https://github.com/citation-style-language/styles.git \
+		$@
 
-_site/slides : _site
-	-mkdir -p _site/slides
-
-serve :
-	@bundle install \
+.PHONY : serve
+serve : _site
+	@bundle update \
 		&& bundle exec jekyll serve
 
+.PHONY : clean
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
 		tau0006-*.tex _csl
