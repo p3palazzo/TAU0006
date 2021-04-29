@@ -54,9 +54,9 @@ oportunidade de abrir as tenazes da expansão islâmica
 ([@Fig:africa-1600]). Em 1520, o imperador Davi II recebe apoio militar
 direto de uma frota portuguesa contra o sultanato de Adal, aliado do
 império Otomano.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![África em 1600. @maparchive:africa-1600](https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg){#fig:africa-1600 .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -99,9 +99,9 @@ diplomática e apoio militar. Dentre essas expectativas, as mais
 relevantes do ponto de vista urbanístico são o estabelecimento de várias
 missões jesuíticas ([@Fig:patriarca]) e a construção de capitais
 fortificadas inspiradas nos castelos europeus.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ruínas da residência do Patriarca católico em Debsan, c. 1626--1627. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg){#fig:patriarca .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg"}
 
@@ -109,10 +109,9 @@ fortificadas inspiradas nos castelos europeus.
 A tradição de capitais fortificadas na Etiópia é antiga, e remonta ao
 reino de Aksum e ao palácio de Dungur, construído do século IV ao VI d.C.
 ([@Fig:dungur]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição do palácio fortificado de Dungur, Aksum, séculos IV--VI d.C.](https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg){#fig:dungur}
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -133,11 +132,11 @@ XVIII. A construção de palácios reais fortificados começa no reinado de
 Sisínio I (1572--1632) com a fortaleza de Dänqaz ([@Fig:danqaz]),
 inspirada na arquitetura militar europeia e construída pelo padre
 jesuíta espanhol Pedro Páez de 1625 a 1628.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Palácio fortificado de Dänqaz, 1625--1628. [Hgetnet (2010a)][]](https://upload.wikimedia.org/wikipedia/commons/8/83/Danqaz4.jpg){#fig:danqaz}
 
 [Hgetnet (2010a)]: https://commons.wikimedia.org/wiki/File:Danqaz4.jpg
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus-etiopia-wg-17.jpg"}
 
@@ -145,9 +144,9 @@ jesuíta espanhol Pedro Páez de 1625 a 1628.
 O complexo palaciano é alongado e ocupa duas colinas vizinhas, cada uma
 com a sua cerca autônoma: ao norte fica o palácio fortificado, e ao sul,
 a missão jesuítica ([@Fig:danqaz-plan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Implantação do palácio fortificado de Dänqaz, 1625--1628. [Metalocus (2016)][]](https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus-etiopia-wg-17.jpg){#fig:danqaz-plan}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -168,15 +167,15 @@ Esse complexo contém uma catedral católica, com uma nave abobadada
 ([@Fig:catedral-danqaz-wg]), que marca a introdução da construção
 arqueada e da argamassa de cal na Etiópia --- até então, as construções
 etíopes usavam pedra seca, argamassa de barro, e vãos arquitravados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Catedral católica de Dänqaz. [Metalocus (2016)][]](https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus-etiopia-wg-08.jpg){#fig:catedral-danqaz-wg}
 
 [Metalocus (2016)]: https://www.metalocus.es/es/noticias/restauracion-del-palacio-del-emperador-susenyos-y-la-catedral-jesuita-de-danqaz
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Fasil Ghebbi ##
 
-## {data-background-image="https://intranet.abaco-arquitetura.com.br/s/EdfWmoMWfKbdJJm/preview"}
+## {data-background-image="https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A maior e mais duradoura capital etíope da Idade Moderna é Fasil Ghebbi,
@@ -184,9 +183,9 @@ também na região de Gondar. Esse grande complexo murado começa a ser
 construído em 1634, sob o imperador Fasílidas I, filho de Sisínio I, e
 continua a ser incrementado até o século XIX
 ([@Fig:gondar-persp-monti]).
-
-![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por @monticorte:1938castelli](https://intranet.abaco-arquitetura.com.br/s/EdfWmoMWfKbdJJm/preview){#fig:gondar-persp-monti}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por @monticorte:1938castelli](https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png){#fig:gondar-persp-monti}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/1280px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg"}
 
@@ -195,19 +194,17 @@ Fasílidas expulsa os jesuítas, mas continua a se inspirar nos modelos
 arquitetônicos trazidos pelos europeus. O seu palácio em Fasil Ghebbi
 ([@Fig:fasil-castle]) tem torres de planta circular, ameias e um torreão
 à maneira portuguesa ([@Fig:fasil-zamani]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Castelo de Fasílidas, Fasil Ghebbi, 1634. [Savin (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/960px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg){#fig:fasil-castle}
 
 [Savin (2018)]: https://en.wikipedia.org/wiki/File:ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-iframe="https://youtube.com/embed/rGCT5fAeRIE?autoplay=1" data-background-interactive="false"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Modelo digital do palácio de Fasílidas. [Zamani Project (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/3D_model_of_Fasilides_Castle.jpg/893px-3D_model_of_Fasilides_Castle.jpg){#fig:fasil-zamani}
 
 [Zamani Project (2019)]: https://zamaniproject.org/site-ethiopia-gondar-fasil-ghebbi.html
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/1280px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg"}
 
