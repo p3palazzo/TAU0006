@@ -58,7 +58,7 @@ situar no centro, interrompendo as duas avenidas centrais, tendo dois
 mercados às suas costas, ao norte, e os templos à sua frente, ao Sul.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. @wang:2010imperial](https://www.integra.unb.br/s/Q4xWT4FdzMWdPkH/preview){#fig:wangcheng .stretch}
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. @wang:2010imperial](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .stretch}
 
 * * * *
 
