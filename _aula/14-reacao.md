@@ -545,6 +545,13 @@ eles são usados desse modo por estudantes e arquitetos!
 
 # Novidade e correção na crítica do século XVIII #
 
+Dois tipos de racionalismo:
+
+1. Eficiência técnica
+   - Politécnica, engenharia viária e de minas
+2. Abstração
+   - Ordonnance, Laugier
+
 # Maturidade das tradições #
 
 # Tradição e caráter nacional no Japão #
