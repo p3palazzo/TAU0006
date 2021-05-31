@@ -16,22 +16,27 @@ PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 	-v "`pwd`/assets/fonts:/usr/share/fonts" \
 	-u "`id -u`:`id -g`" pandoc/latex:$(PANDOC_VERSION)
-JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
+JEKYLL := docker run --rm -v "`pwd`:/srv/jekyll" \
+	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
+	palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-CSS     = $(wildcard assets/css/*)
-FONTS   = $(wildcard assets/fonts/*)
+CSS     = $(wildcard assets/css/*) $(wildcard assets/css-slides/*)
 ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
 deploy : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
-	docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+	$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 # {{{1 Produtos PDF
 #      ============
+.PHONY : _site
+_site : .slides \
+	| _csl/chicago-fullnote-bibliography-with-ibid.csl
+	@$(JEKYLL) /bin/bash -c \
+		"chmod 777 /srv/jekyll && jekyll build"
 
 tau0006.pdf : plano.pdf cronograma.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
@@ -51,7 +56,6 @@ _csl/%.csl : | _csl
 
 # {{{1 Slides, notas de aula e outros HTML
 #      ===================================
-
 .slides : $(SLIDES)
 
 _site/slides/%.html : _aula/%.md biblio.bib revealjs.yaml \
@@ -68,13 +72,6 @@ _site/slides :
 
 # {{{1 PHONY
 #      =====
-
-.PHONY : _site
-_site :
-	@test -e _site/.git && cd _site && git pull || \
-		git clone --depth=1 git@github.com:p3palazzo/tau0006.git \
-		$@
-
 .PHONY : _csl
 _csl :
 	@echo "Fetching CSL styles..."
@@ -84,11 +81,9 @@ _csl :
 		$@
 
 .PHONY : serve
-serve : _site $(SLIDES) \
+serve : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
-	docker run --rm -v "`pwd`:/srv/jekyll" \
-		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve
+	@$(JEKYLL) jekyll serve
 
 .PHONY : clean
 clean :
