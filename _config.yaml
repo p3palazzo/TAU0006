@@ -33,12 +33,6 @@ theme: tufte-pandoc-jekyll
 header_pages:
   - plano.md
   - cronograma.md
-minima:
-  date_format : "%e %B %Y"
-  social_links:
-    twitter   : p3palazzo
-    github    : p3palazzo
-    instagram : arqtrad
 
 # Build parameters {{{2
 markdown: Pandoc
