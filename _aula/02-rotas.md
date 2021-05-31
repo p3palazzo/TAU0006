@@ -8,6 +8,8 @@ abstract: |
   – Infraestrutura hidráulica na América
 ---
 
+<div class="sketchfab-embed-wrapper iframe-wrapper"> <iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> First terrestrial globe - Martin Behaim 1492 </a> by <a href="https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Drones Imaging </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
 # Parcelamento do solo e paisagem urbana #
 
 Os elementos e objetos da arquitetura têm uma ordem de precedência
