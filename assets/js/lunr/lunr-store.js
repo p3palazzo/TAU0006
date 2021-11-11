@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Primeiros modernos",
-        "excerpt":" ","categories": [],
+        "excerpt":" Bibliografia   ","categories": [],
         "tags": [],
         "url": "/tau0006/aula/10-primeiros-modernos/",
         "teaser": null
