@@ -2,12 +2,12 @@
 
 ## FAU–UnB
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.epigraph}
+![Website](https://github.com/p3palazzo/tau0006/workflows/Website/badge.svg)
+
 > História das cidades, dos edifícios e da edificação na tradição
 > europeia a partir do início do Renascimento na Itália até o século
 > XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
 > Europa para as colônias americanas de fala inglesa e francesa.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Sumário #
 
