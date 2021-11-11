@@ -10,7 +10,7 @@ abstract: |
 
 # Sincretismo cultural na Etiópia #
 
-## Etiópia até o século XVII
+## Etiópia até o século [XVII]{.smallcaps}
 
 * * * *
 
@@ -22,7 +22,7 @@ Armênia ([@Fig:africa-900-1500; @Fig:gospel-manuscript]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Estados Africanos até o século XVI. @maparchive:africa-900-1500](https://www.themaparchive.com/wp-content/uploads/2017/08/products-Ax00581.jpg){#fig:africa-900-1500 .stretch width=100%}
+![Estados Africanos até o século [XVI]{.smallcaps}. @maparchive:africa-900-1500](https://www.themaparchive.com/wp-content/uploads/2017/08/products-Ax00581.jpg){#fig:africa-900-1500 .stretch width=100%}
 :::
 ::: {.column width=50%}
 ![Padre na igreja de Giyorgis, Hawzen, com um manuscrito dos Evangelhos. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0004.jpg){#fig:gospel-manuscript .stretch width=100%}
@@ -36,7 +36,7 @@ Sucedendo ao antigo reino de Aksum, a Etiópia tem registros históricos
 como um estado unificado desde o século IV e perdura até os dias de
 hoje, desde 1974 como uma república. Mas essa longevidade esconde
 seguidas transformações políticas, reorganizações territoriais e
-processos urbanísticos variados. No século XVI, os imperadores etíopes
+processos urbanísticos variados. No século [XVI]{.smallcaps}, os imperadores etíopes
 controlam um planalto estreito, porém fértil. Esse território é
 pressionado ao norte e a leste por estados muçulmanos apoiados pelo
 império Otomano ([@Fig:horn-1500]).
@@ -67,7 +67,7 @@ engenharia militar. Aceitar a missionação dos jesuítas era também um
 gesto diplomático da parte dos imperadores etíopes que garantia o acesso
 a armas de fogo e ao apoio militar de Portugal.
 
-Mesmo assim, as relações entre etíopes e europeus azedam no século XVII,
+Mesmo assim, as relações entre etíopes e europeus azedam no século [XVII]{.smallcaps},
 sobretudo por causa de disputas religiosas e territoriais entre os
 missionários jesuítas ([@Fig:sosenyos-patriarca;
 @Fig:windmueller-jesuit-map]) e a nobreza amárica (o povo amárico é o
@@ -91,8 +91,8 @@ grupo étnico dominante na Etiópia, ao qual pertence a família imperial).
 A importância da influência cultural e religiosa europeia sobre a
 Etiópia nesse período tende a ser exagerada pela historiografia
 ocidental, sobretudo aquela de perfil colonialista, na primeira metade
-do século XX [@fernandez:2016jesuit]. O que acontece, de fato, é que os
-imperadores etíopes dos séculos XVI e XVII se acomodam algumas
+do século [XX]{.smallcaps} [@fernandez:2016jesuit]. O que acontece, de fato, é que os
+imperadores etíopes dos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps} se acomodam algumas
 expectativas culturais europeias para conseguirem legitimidade
 diplomática e apoio militar. Dentre essas expectativas, as mais
 relevantes do ponto de vista urbanístico são o estabelecimento de várias
@@ -126,8 +126,8 @@ do conjunto ([@Fig:dungur-plan]).
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/83/Danqaz4.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O sítio de Gondar abrigou as capitais da Etiópia nos séculos XVII e
-XVIII. A construção de palácios reais fortificados começa no reinado de
+O sítio de Gondar abrigou as capitais da Etiópia nos séculos [XVII]{.smallcaps} e
+[XVIII]{.smallcaps}. A construção de palácios reais fortificados começa no reinado de
 Sisínio I (1572--1632) com a fortaleza de Dänqaz ([@Fig:danqaz]),
 inspirada na arquitetura militar europeia e construída pelo padre
 jesuíta espanhol Pedro Páez de 1625 a 1628.
@@ -180,7 +180,7 @@ etíopes usavam pedra seca, argamassa de barro, e vãos arquitravados.
 A maior e mais duradoura capital etíope da Idade Moderna é Fasil Ghebbi,
 também na região de Gondar. Esse grande complexo murado começa a ser
 construído em 1634, sob o imperador Fasílidas I, filho de Sisínio I, e
-continua a ser incrementado até o século XIX
+continua a ser incrementado até o século [XIX]{.smallcaps}
 ([@Fig:gondar-persp-monti]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -262,7 +262,7 @@ O filho de Fasílidas, Yohannes I, amplia o complexo edificado com a
 construção de uma chancelaria (edifício administrativo) e uma biblioteca
 ([@Fig:chancery-library]).
 
-![Chancelaria e biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. [Gagnon (2012a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Library_and_Chancellery_of_Yohannes_I.jpg/1024px-Library_and_Chancellery_of_Yohannes_I.jpg){#fig:chancery-library}
+![Chancelaria e biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século [XVII]{.smallcaps}. [Gagnon (2012a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Library_and_Chancellery_of_Yohannes_I.jpg/1024px-Library_and_Chancellery_of_Yohannes_I.jpg){#fig:chancery-library}
 
 [Gagnon (2012a)]: https://commons.wikimedia.org/wiki/File:Library_and_Chancellery_of_Yohannes_I.jpg
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -276,7 +276,7 @@ também um dos que mais demonstram influência europeia
 Yohannes I, expulsou e executou missionários católicos para reafirmar a
 Igreja ortodoxa etíope.
 
-![Biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. [Gagnon (2012b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Library_of_Yohannes_I_02.jpg/1024px-Library_of_Yohannes_I_02.jpg){#fig:fasil-library}
+![Biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século [XVII]{.smallcaps}. [Gagnon (2012b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Library_of_Yohannes_I_02.jpg/1024px-Library_of_Yohannes_I_02.jpg){#fig:fasil-library}
 
 [Gagnon (2012b)]: https://commons.wikimedia.org/wiki/File:Library_of_Yohannes_I_02.jpg
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -285,14 +285,14 @@ Igreja ortodoxa etíope.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Sob os imperadores Yohannes IV e Menelik II, na segunda metade do século
-XIX, a Etiópia se aproveita do enfraquecimento dos reinos muçulmanos
+[XIX]{.smallcaps}, a Etiópia se aproveita do enfraquecimento dos reinos muçulmanos
 diante da colonização europeia e conquista as planícies a oeste e
 sudoeste, mas também o deserto a sudeste ([@Fig:et-menelik2]). Ao mesmo
 tempo, a Etiópia consegue repelir em 1875 um ataque egípcio e em 1885
 uma invasão italiana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão do império da Etiópia do século XVIII ao XIX. [Pethrus (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Menelik_II_conquests_map.svg/772px-Menelik_II_conquests_map.svg.png){#fig:et-menelik2 .stretch}
+![Expansão do império da Etiópia do século [XVIII]{.smallcaps} ao [XIX]{.smallcaps}. [Pethrus (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Menelik_II_conquests_map.svg/772px-Menelik_II_conquests_map.svg.png){#fig:et-menelik2 .stretch}
 
 [Pethrus (2010)]: https://commons.wikimedia.org/wiki/File:Menelik_II_conquests_map.svg
 
@@ -315,4 +315,6 @@ Os interiores do palácio de Versalhes como um percurso urbano.
 ## Isfahan ##
 
 # São Petersburgo #
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

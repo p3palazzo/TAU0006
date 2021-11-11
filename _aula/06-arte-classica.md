@@ -17,7 +17,7 @@ de colunas dos antigos gregos e romanos, e os seus princípios de
 composição, se estendem no tempo e no espaço, e se adaptam às mais
 variadas necessidades funcionais, simbólicas e construtivas.
 
-Assim como os intelectuais, artistas e construtores do século XV, nós
+Assim como os intelectuais, artistas e construtores do século [XV]{.smallcaps}, nós
 também vamos nos perguntar *o que* é a arquitetura clássica, *por que*
 ela tem essa capacidade de se adaptar a uma imensa variedade de lugares,
 culturas e funções, e, por fim, *como* fazer arquitetura clássica.
@@ -102,7 +102,7 @@ as coisas visíveis e invisíveis" ([@Fig:esferas]), mas também as leis
 que governam esse universo --- e o microcosmo --- qualquer criatura
 divina particular ou obra humana.
 
-![Iluminura do século XIV representando as esferas celestes](https://www.integra.unb.br/s/tau0006-041-sfera/preview){#fig:esferas .stretch}
+![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://www.integra.unb.br/s/tau0006-041-sfera/preview){#fig:esferas .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-luopan/preview"}
@@ -121,8 +121,8 @@ China ([@Fig:luopan]) e da Índia até as Américas.
 No caso específico do Renascimento europeu, porém, ele dá ensejo a
 várias analogias arquitetônicas. A mais conhecida é o antropomorfismo
 --- a aproximação das proporções e das partes da coluna clássica às do
-corpo humano. Temos vários exemplos desse pensamento nos séculos XV e
-XVI; talvez a mais conhecida seja a série de desenhos manuscritos
+corpo humano. Temos vários exemplos desse pensamento nos séculos [XV]{.smallcaps} e
+[XVI]{.smallcaps}; talvez a mais conhecida seja a série de desenhos manuscritos
 produzida pelo engenheiro militar e teórico Francesco di Giorgio Martini
 entre 1480 e 1490 ([@Fig:giorgio-capitel; @Fig:giorgio-ds48]).
 
@@ -149,7 +149,7 @@ em planta como em elevação ([@Fig:giorgio-basilica-plan;
 
 * * * *
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século XV](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv .stretch}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv .stretch}
 
 * * * *
 
@@ -169,7 +169,7 @@ vitruviana" e a teoria das "ordens clássicas".
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria das ordens aparece articulada por inteiro, na forma em que é
-familiar para nós hoje em dia, perto da metade do século XVI. A sua
+familiar para nós hoje em dia, perto da metade do século [XVI]{.smallcaps}. A sua
 expressão mais famosa é a *Regra das cinco ordens da arquitetura* de
 Vinhola ([@Fig:vignola-5ordini]), talvez o tratado de arquitetura mais
 vezes reeditado, mais consultado e mais imitado ([@Fig:chitham-tuscan])
@@ -211,7 +211,7 @@ clássicas coerentes, governadas por uma regra geral simples. Mas a
 reflexão sobre a natureza da arquitetura acontece tanto na prática,
 negociando e resolvendo os conflitos durante o processo de projeto e de
 execução, quanto no discurso teórico. O aumento do interesse
-*intelectual* no tratado de Vitrúvio a partir do século XV dá os
+*intelectual* no tratado de Vitrúvio a partir do século [XV]{.smallcaps} dá os
 parâmetros de base para os debates que se desenvolvem em torno da
 questão. Um dos elementos centrais nesse discurso teórico é a chamada
 "tríade vitruviana": a determinação de que a arquitetura deve equilibrar
@@ -237,10 +237,10 @@ medieval [@vaneck:1998structure57].
 ## Conclusão
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A introdução na Europa, em meados do século XV, da imprensa de tipos
+A introdução na Europa, em meados do século [XV]{.smallcaps}, da imprensa de tipos
 móveis, uma invenção coreana difundida pelos mongóis, multiplica a
 intensidade e o alcance desses debates. Veneza, com as suas centenas de
-casas de edição, se torna no final do século XV um dos principais
+casas de edição, se torna no final do século [XV]{.smallcaps} um dos principais
 centros de difusão do pensamento arquitetônico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -255,7 +255,7 @@ semelhança de Deus", e portanto partilhando em certa medida da perfeição
 divina, e, por outro lado, a experiência e as necessidades imperfeitas e
 conflitantes das obras humanas. Esse humanismo, entendido como
 conciliação dos aspectos contraditórios da natureza humana, é o cerne da
-cultura clássica que se desenvolve a partir do século XV. Dois sistemas
+cultura clássica que se desenvolve a partir do século [XV]{.smallcaps}. Dois sistemas
 conceituais ilustram a aplicação do pensamento humanístico nas artes: a
 perspectiva linear, na pintura, e a "linguagem clássica" da arquitetura,
 um método de composição que tem como características centrais as
@@ -299,7 +299,7 @@ solidez, à história social no caso da funcionalidade, ou num sentido
 mais amplo, do propósito social da arquitetura, e à história dos
 estilos, ou história da arte propriamente dita, no caso da estética.
 Nikolaus Pevsner, um dos mais importantes historiadores da arquitetura
-do século XX, corrobora essa divisão.
+do século [XX]{.smallcaps}, corrobora essa divisão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -427,7 +427,7 @@ ambiguidade espacial que decorre, muitas vezes, da aplicação dessas
 regras, acontece também na arquitetura. A adequação entre o sistema
 conceitual de ordenamento da estrutura por meio das ordens clássicas e a
 percepção visual do espaço delimitado por essa estrutura é um problema
-que já vimos na obra de Brunelleschi, na primeira metade do século XV
+que já vimos na obra de Brunelleschi, na primeira metade do século [XV]{.smallcaps}
 ([@Fig:pazzi]). Essa adequação vai ser um dos fios condutores da
 formulação teórica e da realização tangível da arquitetura do
 Renascimento.
@@ -445,7 +445,7 @@ conciliar a "tríade vitruviana", que é o fundamento do projeto
 arquitetônico em geral, com o domínio de técnicas para manipular o
 espaço e os elementos da arquitetura clássica condizentes com os modelos
 herdados da Antiguidade. Esse processo se desdobra em três momentos ao
-longo dos séculos XV e XVI:
+longo dos séculos [XV]{.smallcaps} e [XVI]{.smallcaps}:
 
 a) Aprendizado do vocabulário: reconstituir os elementos da arquitetura
    clássica e como montá-los. Malha contínua ou superfícies retilíneas
@@ -472,7 +472,7 @@ c) Aquisição da linguagem: resolve problemas de composição como cantos
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A reconstituição da linguagem clássica da arquitetura, que é feita na
-Itália a partir do século XV, é na verdade a *invenção* de um sistema
+Itália a partir do século [XV]{.smallcaps}, é na verdade a *invenção* de um sistema
 arquitetônico novo a partir da "tríade vitruviana" --- a divisão da
 arquitetura, proposta por Vitrúvio no século I a.C., em *firmitas,
 utilitas* e *venustas*, ou solidez, funcionalidade e beleza.
@@ -605,7 +605,7 @@ central e dominante que ele influencia, inclusive, o entendimento de
 outras culturas arquitetônicas. Os arquitetos chineses Lin Huiyin e
 Liang Sicheng esquematizaram mesmo uma "ordem chinesa"
 ([@Fig:liang-order]), inspirada nos seus estudos de arquitetura clássica
-nos Estados Unidos na primeira metade do século XX.
+nos Estados Unidos na primeira metade do século [XX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://www.integra.unb.br/s/tau0006-043-liang-order/preview){#fig:liang-order .stretch}
@@ -614,13 +614,13 @@ nos Estados Unidos na primeira metade do século XX.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas, antes de as ordens clássicas conquistarem o mundo, elas precisam
-existir --- e no século XV isso não é uma questão retórica. Na Itália, e
+existir --- e no século [XV]{.smallcaps} isso não é uma questão retórica. Na Itália, e
 especialmente na Toscana, a região onde fica Florença, a tradição
 arquitetônica romana persiste ao longo de toda a Idade Média. No século
-XII, uma sequência de construções monumentais demonstra o domínio de
+[XII]{.smallcaps}, uma sequência de construções monumentais demonstra o domínio de
 algumas composições básicas da Antiguidade tardia.
 
-![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século XII](https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg){#fig:badia-fiesolana .stretch}
+![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século [XII]{.smallcaps}](https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg){#fig:badia-fiesolana .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview" data-transition="fade-out"}
@@ -631,7 +631,7 @@ Monte ([@Fig:miniato-fac; @Fig:miniato-altar]), as arcadas repousando
 sobre colunas coríntias são enquadradas por pilastras da mesma espécie
 que sustentam entablamentos contínuos.
 
-![Fachada da basílica de San Miniato al Monte, século XII. @biesen:2017facade](https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview){#fig:miniato-fac}
+![Fachada da basílica de San Miniato al Monte, século [XII]{.smallcaps}. @biesen:2017facade](https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview){#fig:miniato-fac}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-det/preview" data-transition="fade-in"}
@@ -639,7 +639,7 @@ que sustentam entablamentos contínuos.
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-altar/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Capela-mor da basílica de San Miniato al Monte, século XII. @vvoevale:2016altar](https://www.integra.unb.br/s/tau0006-043-miniato-altar/preview){#fig:miniato-altar}
+![Capela-mor da basílica de San Miniato al Monte, século [XII]{.smallcaps}. @vvoevale:2016altar](https://www.integra.unb.br/s/tau0006-043-miniato-altar/preview){#fig:miniato-altar}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-backgroun-image="https://www.integra.unb.br/s/tau0006-043-battistero/preview"}
@@ -650,13 +650,13 @@ ordens coríntias sobrepostas, enquadrando arcadas jônicas
 ([@Fig:battsgiov]), demonstra que o conhecimento da linguagem clássica
 nunca se perdeu por inteiro.
 
-![Batistério de São João, Florença, século XII. @sailko:2008battistero](https://www.integra.unb.br/s/tau0006-043-battistero/preview){#fig:battsgiov}
+![Batistério de São João, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://www.integra.unb.br/s/tau0006-043-battistero/preview){#fig:battsgiov}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-annunziata/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mesmo assim, no início do século XV, a linguagem clássica não é um
+Mesmo assim, no início do século [XV]{.smallcaps}, a linguagem clássica não é um
 sistema corrente, e muito menos dominante, entre os arquitetos de
 Florença. O seu uso se restringe quase exclusivamente à ordem coríntia e
 a composições puramente lineares: arcadas e, às vezes, colunatas, em
@@ -681,7 +681,7 @@ elementos clássicos da arquitetura.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa busca por sistematizar as espécies de colunas acaba resultando nos
-três principais tratados de meados do século XVI: o de Sebastiano
+três principais tratados de meados do século [XVI]{.smallcaps}: o de Sebastiano
 Serlio, que é o primeiro a usar a expressão "ordens de colunas", o de
 Vinhola, publicado em 1563 ([@Fig:vignola-intro-2]), que vai ser o
 sistema mais difundido até os dias de hoje, e o de Palladio, publicado
@@ -798,13 +798,13 @@ de Baal-Shamin, em Palmira ([@Fig:baalshamin]).
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-sandrea-fac/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O século XV resgata a pilastra e faz dela um dos elementos mais usados
+O século [XV]{.smallcaps} resgata a pilastra e faz dela um dos elementos mais usados
 em composições de paredes ou arcadas. Praticamente desde os primeiros
 projetos clássicos de Brunelleschi, Rossellino e Alberti, as ordens de
 pilastras são o expediente dominante para articular as superfícies
 interiores das paredes assim como as fachadas ([@Fig:sandrea-facade]).
 Essa preferência pela superfície quase plana faz parte da busca dos
-arquitetos do século XV pela articulação clara de volumes espaciais com
+arquitetos do século [XV]{.smallcaps} pela articulação clara de volumes espaciais com
 geometrias primárias.
 
 ![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
@@ -824,11 +824,11 @@ superfícies que delimitam os espaços arquitetônicos.
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-044-slorenzo/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Num primeiro momento, até meados do século XV, a determinação do que é o
+Num primeiro momento, até meados do século [XV]{.smallcaps}, a determinação do que é o
 emprego "correto" dos elementos de arquitetura --- as ordens clássicas
 --- afeta, sobretudo, a composição de superfícies contínuas. Essa
 restrição é uma herança da arquitetura medieval, e principalmente do uso
-dos elementos clássicos na região de Florença durante o século XII.
+dos elementos clássicos na região de Florença durante o século [XII]{.smallcaps}.
 
 ![Filippo Brunelleschi, interior da basílica de San Lorenzo, Florença, 1442--1459](https://www.integra.unb.br/s/tau0006-044-slorenzo/preview){#fig:slorenzo}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -837,7 +837,7 @@ dos elementos clássicos na região de Florença durante o século XII.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso sistemático das ordens clássicas como elementos estruturantes da
-composição de fachadas é promovido por volta da metade do século XV, por
+composição de fachadas é promovido por volta da metade do século [XV]{.smallcaps}, por
 arquitetos como Alberti e Rossellino. Rossellino é o provável autor de
 dois palácios de fachadas quase idênticas, o Rucellai, em Floreça, e o
 Piccolomini, em Pienza, projetados por volta de 1460.
@@ -871,7 +871,7 @@ palácio Tarugi, de Antonio da Sangallo ([@Fig:tarugi]).
 O segundo tema é o da articulação horizontal da
 composição entre ordens clássicas, aberturas e superfície da parede.
 
-![Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi}
+![Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Espacialidade da planta
@@ -957,7 +957,7 @@ modelo.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os projetos de Alberti, assim como os dos seus contemporâneos em meados
-do século XV, têm uma distinção clara entre os volumes do espaço
+do século [XV]{.smallcaps}, têm uma distinção clara entre os volumes do espaço
 interior e os planos que delimitam esses volumes. Na basílica de Mântua,
 a marcação das ordens é feita com pilastras que se projetam muito pouco
 à frente dos maciços entre as capelas. Como já vimos, o uso das
@@ -1038,7 +1038,7 @@ Cesariano, 1521
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A experiência medieval com composições estritamente lineares é a
-primeira referência em vigor no século XV; quando usada com ordens
+primeira referência em vigor no século [XV]{.smallcaps}; quando usada com ordens
 clássicas, ela resulta em extremidades em geral pouco elegantes
 ([@Fig:spedale-prosp]).
 
@@ -1051,7 +1051,7 @@ clássicas, ela resulta em extremidades em geral pouco elegantes
 Além disso, a proporção de cheios e vazios na construção murária da
 Europa moderna é bem diversa daquela nas arcadas e colunatas das
 basílicas e dos pórticos da Roma antiga ([@Fig:piccolomini-murario]). A
-grande superfície de paredes na arquitetura do século XV gera,
+grande superfície de paredes na arquitetura do século [XV]{.smallcaps} gera,
 necessariamente, duas condições de articulação de superfícies distintas
 para a fachada e as paredes interiores. Na primeira, uma cadência de
 pilastras centralizadas entre as aberturas das janelas; na segunda,
@@ -1064,7 +1064,7 @@ extremidades.
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Até o início do século XVI, os principais espaços interiores das grandes
+Até o início do século [XVI]{.smallcaps}, os principais espaços interiores das grandes
 obras aderem à geometria estritamente ortogonal de paralelepípedos, a
 cilindros e esferas. Nos raros casos de construções com implantação
 isolada, o traçado do perímetro externo abraça sempre que possível os
@@ -1146,7 +1146,7 @@ entendido como um centro dinâmico.
 ## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ao longo do século XV, os princípios da arquitetura clássica são
+Ao longo do século [XV]{.smallcaps}, os princípios da arquitetura clássica são
 formulados na Itália central. Esses princípios se inspiram nas ruínas da
 Roma antiga e no tratado de Vitrúvio. Porém, em última análise, a
 arquitetura do Renascimento inventa uma teoria do classicismo
@@ -1154,7 +1154,9 @@ transformando uma base de práticas e de formas desenvolvidas ao longo da
 Idade Média. A constituição de uma regra para as ordens de colunas e a
 afirmação de uma sensibilidade espacial na clareza de volumes
 geométricos primários são os pontos de apoio dessa arquitetura clássica.
-No início do século XVI, os arquitetos italianos vão explorar formas
+No início do século [XVI]{.smallcaps}, os arquitetos italianos vão explorar formas
 cada vez mais elaboradas de articulação das ordens e dos espaços.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

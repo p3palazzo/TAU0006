@@ -42,9 +42,9 @@ constante reatualização do legado tradicional.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, embora a arquitetura de jardins na China seja, de fato, uma
 tradição milenar, o "jardim chinês" moderno é uma prática formulada e
-codificada sobretudo nas dinastias Ming e Qing, entre os séculos XIV e
-XVIII. Essa codificação, por sua vez, se inspira no ideal erudito dos
-séculos XI e XIII, que celebra o jardim como suporte estético para o
+codificada sobretudo nas dinastias Ming e Qing, entre os séculos [XIV]{.smallcaps} e
+[XVIII]{.smallcaps}. Essa codificação, por sua vez, se inspira no ideal erudito dos
+séculos [XI]{.smallcaps} e [XIII]{.smallcaps}, que celebra o jardim como suporte estético para o
 recolhimento intelectual e artístico [@steinhardt:2019chinese, 298].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -472,7 +472,7 @@ Com a construção do sistema de cinco jardins imperiais ao norte da
 cidade proibida, a família imperial se retira mais um passo para longe
 da sede oficial do governo. A construção de salões de audiência
 ([@fig:40yuanmingyuan01]) junto ao acesso principal do Yuanmingyuan
-demonstra que as principais decisões políticas do século XVIII têm lugar
+demonstra que as principais decisões políticas do século [XVIII]{.smallcaps} têm lugar
 na residência imperial dentro do jardim.
 
 ![Quarenta vistas do Yuanmingyuan, Salão de audiências](https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1001_Zhengda.jpg){#fig:40yuanmingyuan01}
@@ -491,4 +491,6 @@ desempenham os papéis centrais.
 
 ![Quarenta vistas do Yuanmingyuan, Belo cenário do vaso quadrado](https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1029_Fanghu.jpg){#fig:40yuanmingyuan29}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

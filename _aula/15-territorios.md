@@ -113,7 +113,7 @@ os feudos dos outros nobres.
 A coroa francesa aumenta o seu poder efetivo por meio da consolidação do
 território no feudo real. Isso acontece seja por meio de casamentos,
 seja pela destituição de senhores rebeldes, ou pela extinção completa de
-linhagens. No século XV, a família real detém a maior parte do
+linhagens. No século [XV]{.smallcaps}, a família real detém a maior parte do
 território do reino da França.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -124,7 +124,7 @@ território do reino da França.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ainda assim, esse território continua a ser dividido segundo critérios
 herdados do antigo reino franco do século VII: a maior parte do norte da
-França, no século XVIII, forma uma unidade alfandegária separada das
+França, no século [XVIII]{.smallcaps}, forma uma unidade alfandegária separada das
 regiões periféricas. Essa divisão se sobrepõe a outra, tributária, entre
 províncias estamentais --- que têm autonomia fiscal --- e províncias de
 eleição. Nestas, um intendente da coroa coleta os impostos em benefício
@@ -211,10 +211,10 @@ relacionadas ao poder político.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/JapanesePortolanMap.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Até a primeira metade do século XVII, mercadores japoneses participam
+Até a primeira metade do século [XVII]{.smallcaps}, mercadores japoneses participam
 ativamente das redes comerciais do Sudeste asiático.
 
-![[Portulano japonês do início do século XVII.][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JapanesePortolanMap.jpg/1024px-JapanesePortolanMap.jpg){#fig:portulano}
+![[Portulano japonês do início do século [XVII]{.smallcaps}.][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JapanesePortolanMap.jpg/1024px-JapanesePortolanMap.jpg){#fig:portulano}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kawahara_Nagasaki.jpg/1280px-Kawahara_Nagasaki.jpg"}
@@ -348,7 +348,7 @@ só os mais pobres viajavam a pé.
 
 [Kanō Sanraku (período Momoyama)]: https://commons.wikimedia.org/wiki/File:Attributed_to_Kano_Sanraku_-_Important_Cultural_Property_Namban_Screens_-_Google_Art_Project2.jpg
 
-[Portulano japonês do início do século XVII.]: https://commons.wikimedia.org/wiki/File:JapanesePortolanMap.jpg
+[Portulano japonês do início do século [XVII]{.smallcaps}.]: https://commons.wikimedia.org/wiki/File:JapanesePortolanMap.jpg
 
 [Kawahara (1820)]: https://commons.wikimedia.org/wiki/File:Kawahara_Nagasaki.jpg
 
@@ -374,3 +374,4 @@ só os mais pobres viajavam a pé.
 
 ## Malha continental ##
 
+# Bibliografia # {.allowframebreaks .unlisted}

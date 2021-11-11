@@ -9,7 +9,7 @@ abstract: |
 ---
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O início do século XVI na Itália é um período de consolidação e de
+O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
 aquisição de desenvoltura no manejo dos elementos arquitetônicos e
 espaciais clássicos. Essa consolidação resulta na livre manipulação
 plástica de superfícies construídas e de espaços e na exploração de
@@ -20,7 +20,7 @@ molduras, esculturas e pinturas.
 # Arquitetura clássica III › Superfícies e espaços #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A arquitetura clássica se firma na Itália do século XVI como a única
+A arquitetura clássica se firma na Itália do século [XVI]{.smallcaps} como a única
 linguagem erudita em uso corrente. A partir do momento em que o seu
 sistema de regras está codificado nos tratados impressos, os arquitetos
 se dedicam a explorar modos variados de articular espaços e elementos da
@@ -292,14 +292,14 @@ Donato Bramante, "Tempietto" (santuário de San Pietro in Montorio), 1502--1504
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A realização da arquitetura "perfeita" no Tempietto de Bramante é o
-último estágio de um processo que começou na segunda metade do século XV
+último estágio de um processo que começou na segunda metade do século [XV]{.smallcaps}
 com as tábuas de Urbino, Berlim e Baltimore. O Tempietto é a versão
 construída daquilo que as perspectivas de cidades ideais imaginaram.
 O tipo do pavilhão ideal vai ser constantemente revisitado na história
 da arquitetura, sobretudo em parques e jardins. No entanto, essa
 perfeição ideal é um caminho que não pode ser conciliado com o objetivo
 maior da arquitetura clássica: o ordenamento global do espaço construído
-na cidade real. Por isso, a arquitetura italiana do século XVI vai
+na cidade real. Por isso, a arquitetura italiana do século [XVI]{.smallcaps} vai
 explorar, sobretudo, a articulação de sequências de composições no
 espaço. Ela vai, por fim, se encaminhar para um sistema de composição
 que garanta a harmonia e continuidade do conjunto urbano.
@@ -387,7 +387,7 @@ e aplicação do sistema da arquitetura clássica.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1280px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Rodolfo Lanciani, planta histórica do Vaticano, em *Forma urbis Romae*, pr. XIII, 1893-1901](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1024px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg){#fig:lanciani}
+![Rodolfo Lanciani, planta histórica do Vaticano, em *Forma urbis Romae*, pr. [XIII]{.smallcaps}, 1893-1901](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg/1024px-Papal_Basilica_of_Saint_Peter_%28Lanciani%29.jpg){#fig:lanciani}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-054-golvin/preview"}
@@ -401,13 +401,13 @@ do Vaticano, 37--50 d.C.](https://www.integra.unb.br/s/tau6-054-golvin/preview){
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ![Basílica de São Pedro, construção original do século IV, estado
-provável no século XV, desenho por Hartmann Grisar, 1911](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg/640px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg){#fig:oldspietro-persp}
+provável no século [XV]{.smallcaps}, desenho por Hartmann Grisar, 1911](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg/640px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_%281911%29_%2814760945204%29.jpg){#fig:oldspietro-persp}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Tiberio Alfarano, planta da antiga basílica de São Pedro no século XV, 1590](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg/780px-Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg){#fig:alfarano-old}
+![Tiberio Alfarano, planta da antiga basílica de São Pedro no século [XV]{.smallcaps}, 1590](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg/780px-Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg){#fig:alfarano-old}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -540,7 +540,7 @@ Essa síntese leva a um problema que não existia antes: na igreja ideal,
 concebida como um objeto arquitetônico autônomo e introvertido, sem
 contrafortes exteriores e livre de um contexto urbano preexistente ao
 qual ela precisa se adaptar, como resolver as elevações exteriores? Os
-exemplares de igrejas centralizadas do início do século XVI, todos de
+exemplares de igrejas centralizadas do início do século [XVI]{.smallcaps}, todos de
 pequenas dimensões, não oferecem um precedente claro para a massa
 gigantesca da basílica de São Pedro.
 
@@ -557,5 +557,7 @@ que dialogam constantemente, esclarecendo-se mutuamente mas também
 levantando problemas e dificuldades recíprocas. O inventário de soluções
 estruturais, espaciais e plásticas que se condensa na reconstrução da de
 São Pedro no Vaticano constitui a matéria-prima para as explorações
-formais, espaciais e estruturais da arquitetura europeia no século XVII.
+formais, espaciais e estruturais da arquitetura europeia no século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Bibliografia # {.allowframebreaks .unlisted}

@@ -10,7 +10,7 @@ abstract: |
 
 # 
 
-Nesta sequência, vamos abordar a arquitetura do século XV na Europa e na
+Nesta sequência, vamos abordar a arquitetura do século [XV]{.smallcaps} na Europa e na
 Ásia central sob os pontos de vista da construção e da espacialidade. O
 desenvolvimento de sistemas e processos construtivos e a transformação
 nas configurações e relações espaciais são duas das principais questões
@@ -18,7 +18,7 @@ que pertencem ao domínio da história da arquitetura. Junto com o estudo
 da decoração dos edifícios, essas questões formam o tripé que constitui
 a chamada "história dos estilos" --- o modelo básico de pesquisa e
 ensino da história da arte nas universidades e escolas de arquitetura no
-mundo ocidental desde o final do século XIX.
+mundo ocidental desde o final do século [XIX]{.smallcaps}.
 
 História da arquitetura como história do espaço
 ===============================================
@@ -28,7 +28,7 @@ História da arquitetura como história do espaço
 O domínio do espaço é um dos temas estruturantes na nossa abordagem da
 arquitetura do Renascimento. Desde o início da construção da cúpula da
 catedral de Florença, em 1420, até as superfícies tortuosas do barroco
-tardio e do rococó, no século XVIII, a manipulação geométrica dos
+tardio e do rococó, no século [XVIII]{.smallcaps}, a manipulação geométrica dos
 espaços interiores é um critério central para interpretar, classificar e
 periodizar a arquitetura. No entanto, a importância que essa narrativa
 histórica centrada no espaço tem para um estudo estético da arquitetura
@@ -39,7 +39,7 @@ Esses dois problemas --- o domínio do espaço no ofício da arquitetura e
 a representação do espaço na pintura --- dialogam nas suas
 transformações ao longo do tempo. Na História da Arte, o problema da
 representação do espaço na pintura chinesa e italiana é uma das questões
-clássicas. Alguns dos principais autores de meados do século XX, como
+clássicas. Alguns dos principais autores de meados do século [XX]{.smallcaps}, como
 Erwin Panofsky e Rudolf Wittkower para a Itália ou Liang Sicheng e James
 Cahill para a China, elaboraram teorias explicativas sistemáticas sobre
 essa questão. Mais adiante, essas teorias acabariam questionadas por
@@ -69,7 +69,7 @@ espaço pictórico. De modo muito resumido, essas articulações passam de
 figuras isoladas, na dinastia Han (séculos I--III d.C.), a células
 espaciais formando uma narrativa sequencial, na dinastia Tang (séculos
 VII--X), até composições espaciais completas e contínuas na dinastia
-Song (séculos X--XIII), quando se desenvolve a pintura de paisagens e de
+Song (séculos [X--XIII]{.smallcaps}), quando se desenvolve a pintura de paisagens e de
 cenas urbanas.
 
 ![Gu Kaizhi. Nymph of the Lo river](){#fig:gukaizhi}
@@ -82,12 +82,12 @@ pelo qual cada cultura ou período histórico realiza essa projeção é,
 essencialmente, uma convenção cultural. Na China, a perspectiva
 cavaleira se firma desde cedo como o modo preferencial de projeção das
 formas geométricas na pintura. Na pintura de paisagem, duas escolas se
-formam por volta do século XII. A chamada escola do Norte favorece uma
+formam por volta do século [XII]{.smallcaps}. A chamada escola do Norte favorece uma
 construção gradual da profundidade em múltiplo planos pictóricos; Já na
 escola do Sul, há um salto entre o plano de fundo e o primeiro plano,
 preenchido com névoa.
 
-Nos séculos XIII e XIV, a própria névoa se torna objeto da pintura.
+Nos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}, a própria névoa se torna objeto da pintura.
 Representar o vazio é uma das principais conquistas conceituais e
 características definidoras da Ásia oriental. O vazio na pintura chinesa
 vai ser entendido como representação de refinamento e autonomia
@@ -122,16 +122,16 @@ de objetos materiais.
 
 ![Artista da escola de Ma. Fragrant Spring](){#fig:fragspring}
 
-O período da dinastia Song é considerado pelos chineses do século XIV
+O período da dinastia Song é considerado pelos chineses do século [XIV]{.smallcaps}
 como o ponto alto da sua cultura e uma espécie de período clássico. As
 tradições artísticas e arquitetônicas da China se estabilizam do século
-XII em diante. Ao longo de todos as transformações subsequentes, os
+[XII]{.smallcaps} em diante. Ao longo de todos as transformações subsequentes, os
 artistas chineses sempre voltam periodicamente a fazer referência aos
 padrões estabelecidos na dinastia Song.
 
-![Ao longo do rio durante o festival Qingming. Dinastia Song do Sul, século XII](){#fig:qingming-song}
+![Ao longo do rio durante o festival Qingming. Dinastia Song do Sul, século [XII]{.smallcaps}](){#fig:qingming-song}
 
-![Ao longo do rio durante o festival Qingming. Cópia por cinco artistas de corte durante a dinastia Qing, século XVII](){#fig:qingming-qing}
+![Ao longo do rio durante o festival Qingming. Cópia por cinco artistas de corte durante a dinastia Qing, século [XVII]{.smallcaps}](){#fig:qingming-qing}
 
 Perspectiva linear e arquitetura
 --------------------------------
@@ -146,19 +146,19 @@ A pintura na Roma antiga segue um percurso semelhante ao da pintura
 chinesa, começando com figuras isolados e desenvolvendo uma
 representação do espaço arquitetônico baseada numa perspectiva cônica
 com linhas de fuga, concluindo com a inserção de figuras no espaço
-arquitetônico. A pintura bizantina até o século XIV não se ocupa da
+arquitetônico. A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
 representação do espaço, predominantemente preocupada com a apresentação
 de figuras com significado transcendental. É a pintura gótica no séculos
-XIV e XV que vai operar um resgate da inserção de figuras no espaço,
+[XIV]{.smallcaps} e [XV]{.smallcaps} que vai operar um resgate da inserção de figuras no espaço,
 começando na França e seguindo para Itália já na primeira metade do
-século XIV com a obra de artistas como Giotto. 
+século [XIV]{.smallcaps} com a obra de artistas como Giotto. 
 
 O movimento franciscano dá um impulso decisivo para essa demanda por
 representação de figuras no espaço, aproximando a iconografia religiosa
 do cotidiano dos devotos. As figuras de Anunciação são um dos principais
 instrumentos desse desenvolvimento da lógica espacial. A partir do
 modelo bizantino de figuras de Maria e o anjo desprovidas de contexto,
-geralmente com fundo dourado, os artistas italianos dos séculos XIV e XV
+geralmente com fundo dourado, os artistas italianos dos séculos [XIV]{.smallcaps} e [XV]{.smallcaps}
 começam a incluir a ambientação espacial e, gradualmente, uma
 delimitação maior dos ambientes onde se desenvolve a cena. Na obra de
 Simone Martini e Pietro Lorenzetti, temos um dos primeiros
@@ -174,7 +174,7 @@ Ambrogio Lorenzetti é um dos primeiros artistas --- talvez o primeiro
 onde a Anunciação se desenrola. Na suas obras porém o espaço físico
 ainda é determinado pelas necessidades narrativas da cena. 
 
-No final do século XIV para primeira metade do XV, ocorre um salto
+No final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
 técnico na representação do espaço caracterizado pela introdução da
 perspectiva linear com ponto de fuga. A principal característica
 da perspectiva com ponto de fuga é uniformizar o tratamento do espaço e
@@ -227,7 +227,7 @@ arquitetura do Choisy é um marco na afirmação do espaço arquitetônico
 como característica determinante das construções. As famosas vistas
 isométricas de baixo para cima que ilustram o livro ([@fig:choisy])
 representam uma busca pela visualização desse espaço de modo
-sistemático. Muitos arquitetos europeus do século XX, entre eles Le
+sistemático. Muitos arquitetos europeus do século [XX]{.smallcaps}, entre eles Le
 Corbusier, vão ser fortemente influenciados por essas ilustrações. Para
 autores como Alan Colquhoun, Reyner Banham, Sigfried Giedion, e o
 próprio Le Corbusier, o espaço abstrato substitui a construção e o
@@ -275,7 +275,7 @@ estrutural, mas sobretudo as ideias renascentistas sobre geometria e
 pureza formal. No período barroco e sobretudo na obra de Borromini, o
 espaço passa a ser criado pela manipulação projetual arbitrária da
 geometria do próprio espaço, livre de tipologias formais *a priori*.
-Argan salta os séculos XVIII e XIX como sendo períodos de estagnação, ou
+Argan salta os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps} como sendo períodos de estagnação, ou
 mesmo retrocesso, na concepção espacial. A história do espaço retoma,
 como era de se esperar, com o modernismo, que leva adiante o processo de
 libertação formal e criativa iniciado pelo barroco.
@@ -291,7 +291,7 @@ interpretação elitista e diletante do ofício da arquitetura como
 libertação progressiva do "gênio criativo" manipulando o seu objeto como
 cada vez menos restrições. Além disso, a narrativa continua sendo
 eurocêntrica, porque subentende que só a arquitetura erudita de matriz
-europeia, a partir da segunda metade do século XVII, passa a ter a
+europeia, a partir da segunda metade do século [XVII]{.smallcaps}, passa a ter a
 capacidade de manipular arbitrariamente o espaço por meio da intenção
 projetual. Outras tradições arquitetônicas permanecem presas à tipologia
 e à tradição  [@bozdogan:1999architectural].
@@ -311,7 +311,7 @@ espaço contido tem alguma abertura para a expansão.
 
 A introdução dos sistemas espaciais finitos no Renascimento não se
 explica apenas por uma maior liberdade criativa ou por um
-desenvolvimento da técnica no século XV. Na verdade, os sistemas
+desenvolvimento da técnica no século [XV]{.smallcaps}. Na verdade, os sistemas
 espaciais finitos feitos de formas geométricas primárias criam maiores
 restrições à composição do que os sistemas lineares ilimitados da
 arquitetura gótica. Trata-se portanto de uma escolha artística
@@ -345,7 +345,7 @@ conclui a composição das arcadas e pilastras do pavimento térreo
 rotacionando a arquitrave que trava a extremidade da composição,
 formando uma moldura gráfica na parede e descendo até atingir o chão. O
 elemento central formado pelas arcadas segue o padrão compositivo da
-arquitetura românica na Toscana desde o século XII. Porém, ao encontrar
+arquitetura românica na Toscana desde o século [XII]{.smallcaps}. Porém, ao encontrar
 a composição das pilastras, os medalhões situados entre os arcos são
 truncados, de modo a manter a regularidade geométrica dos elementos.
 
@@ -396,7 +396,7 @@ sentido para os processos históricos como um todo. Na China, essa busca
 por sentido se expressa desde a Antiguidade num plano político, em
 livros que tentam explicar a sucessão de acontecimentos e de dinastias.
 
-Na Europa do século XVIII em diante, os métodos de pesquisa e escrita da
+Na Europa do século [XVIII]{.smallcaps} em diante, os métodos de pesquisa e escrita da
 história se transformam em paralelo com o desenvolvimento do conceito
 político de *nação*. Segundo o filósofo iluminista alemão Immanuel Kant,
 a *Pátria* é uma das três únicas ideias inatas na mente humana (as
@@ -408,10 +408,10 @@ Essa redefinição da pesquisa histórica em torno de coletivos
 transcendentais é propulsada, em primeiro lugar, pela História da Arte.
 Ela emerge como campo de estudos a partir da *História da arte na
 Antiguidade*, escrita pelo alemão [Johann Joachim Winckelmann][] na
-primeira metade do século XVIII. Na esteira dessa obra, o
+primeira metade do século [XVIII]{.smallcaps}. Na esteira dessa obra, o
 modelo predominante segundo o qual se ensina a História da Arte e da
 Arquitetura hoje em dia foi formulado, nas suas linhas gerais, durante
-os séculos XVIII e XIX. Esse modelo organiza a história como um sistema
+os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps}. Esse modelo organiza a história como um sistema
 de "caixas" mais ou menos estanques, separadas por país ou cultura,
 período cronológico e "estilo" ou movimento artístico.
 
@@ -419,7 +419,7 @@ período cronológico e "estilo" ou movimento artístico.
 
 Por trás desse sistema de "caixas" está a descoberta e o interesse na
 diversidade artística global, que se manifesta na Europa a partir do
-final do século XVII. Esse método de organização e explicação da
+final do século [XVII]{.smallcaps}. Esse método de organização e explicação da
 História --- assim como a preocupação com a validade universal do método
 --- é, portanto, um fenômeno especificamente europeu. Por conseguinte, é
 um sistema que acaba por privilegiar a própria Europa enquanto portadora
@@ -458,7 +458,7 @@ fundador do caráter arquitetônico. Segundo, ela erige explicitamente a
 arquitetura europeia como superior a todas as outras tradições
 arquitetônicas globais. O debate sobre o lugar da construção na história
 da arquitetura ainda vai dar muitas voltas depois de Quatremère. Na
-metade do século XIX, o alemão Gottfried Semper propõe que a construção
+metade do século [XIX]{.smallcaps}, o alemão Gottfried Semper propõe que a construção
 é secundária diante da organização comunitária do espaço
 [@semper:2004style], lançando as bases para a história social da
 arquitetura que domina a pesquisa hoje em dia.
@@ -468,7 +468,7 @@ cultura e por período histórico é situar a obra dos grandes mestres no
 contexto da sua cultura e do seu período, ou mesmo afirmar que esta obra
 não vai além de ser reflexo da cultura e do período em questão. A partir
 daí, o paradigma fundador e marco explicativo da disciplina
-(eminentemente europeia) da História da Arquitetura nos séculos XIX e XX
+(eminentemente europeia) da História da Arquitetura nos séculos [XIX]{.smallcaps} e [XX]{.smallcaps}
 passa a ser uma história dos estilos como resposta artística à evolução
 da técnica construtiva.
 
@@ -477,7 +477,7 @@ Historicidade da construção como critério de base na História da Arquitetura
 
 Desse ponto de vista, é a manipulação de soluções construtivas que
 impulsiona a transformação dos estilos. A consequência fundamental desse
-entendimento, para os historiadores do século XIX, é a eliminação do
+entendimento, para os historiadores do século [XIX]{.smallcaps}, é a eliminação do
 acontecimento aleatório e do arbítrio do artista na explicação do
 processo histórico. A história da arquitetura passa ser vista como um
 processo coletivo e inevitável que leva da Antiguidade clássica à
@@ -486,13 +486,13 @@ modernidade europeia. O caso extremo desse entendimento é o conceito de
 [Heinrich Wölfflin][]. Assim, construção e estilo se unem numa síntese
 explicativa orgânica.
 
-O auge desse paradigma ocorre no final do século XIX com as histórias da
+O auge desse paradigma ocorre no final do século [XIX]{.smallcaps} com as histórias da
 arquitetura ditas "comparativas" de 1896 pelos ingleses Banister
 Fletcher e Banister F. Fletcher e de 1899 pelo francês Auguste Choisy.
 Desse ponto de vista, o Renascimento seria a realização plena da
 história dos estilos, unindo o avanço tecnológico da construção à
 continuidade da tradição clássica. Esse Renascimento é entendido na
-longa duração como *toda* a arquitetura europeia do século XV em diante.
+longa duração como *toda* a arquitetura europeia do século [XV]{.smallcaps} em diante.
 Essa proposição dá sentido à história da arquitetura europeia: sentido que
 é amplamente desejado e demandado do ponto de vista de uma arquitetura que
 se pretende continuidade e conclusão desse Renascimento. As culturas "não
@@ -505,7 +505,7 @@ apresentar de modo mais realizado:
 > the case in Europe from the Classic period to that of the Renaissance.
 > [@fletcher:1905history, 604]
 
-A História da construção se renova a partir do final do século XX. Ela
+A História da construção se renova a partir do final do século [XX]{.smallcaps}. Ela
 passa a considerar não só a relação entre técnica e forma, mas também os
 processos de produção do ambiente construído, as relações de trabalho e
 o mecenato artístico. Essas abordagens não olham para a história como um
@@ -520,10 +520,10 @@ as diversas culturas construtivas são irredutíveis umas às outras
 não enxergam seu passado segundo o paradigma historiográfico ocidental?
 Por fim, é possível elaborar uma narrativa coerente e inclusiva na
 escala global, se as diferentes culturas do mundo são incomensuráveis
-entre si? A resposta dada na segunda metade do século XX a essas
+entre si? A resposta dada na segunda metade do século [XX]{.smallcaps} a essas
 perguntas colocou o espaço no centro do debate. Tratar do espaço
 arquitetônico envolve, por um lado, um grau de abstração que era
-atraente para os autores modernistas de meados do século XX. Por outro
+atraente para os autores modernistas de meados do século [XX]{.smallcaps}. Por outro
 lado, essa abstração induz ao uso de metodologias quantitativas, como a
 sintaxe espacial, que trazem uma impressão de precisão e universalidade
 das interpretações.
@@ -548,7 +548,7 @@ Vasari têm, portanto, um plano narrativo claro: demonstrar a evolução
 artística durante o Renascimento e a superioridade de Miguel Ângelo
 sobre seus predecessores e contemporâneos. Mesmo assim, essa narrativa
 se firma como o paradigma explicativo central do Renascimento até meados
-do século XX. O entendimento de que o Renascimento começa com uma
+do século [XX]{.smallcaps}. O entendimento de que o Renascimento começa com uma
 ruptura com respeito ao período medieval que o antecede e termina com
 outra ruptura, no advento do barroco, permanece um critério de
 periodização corrente ainda hoje.
@@ -599,7 +599,7 @@ arquitetura clássica na Grécia...
 
 Para quem se encontra no início, por assim dizer, de um desses
 ciclos, não existe o clássico e muito menos decadente. A obra de
-Brunelleschi no início do século XV não é a premonição do classicismo de
+Brunelleschi no início do século [XV]{.smallcaps} não é a premonição do classicismo de
 Bramante, mas a própria obra de Brunelleschi plenamente realizada
 [@scott:1914architecture].
 
@@ -613,7 +613,7 @@ as preexistências construídas condicionam ainda mais aquilo que pode ser
 executado. Completar um tecido edificado existente com continuidade e
 harmonia pode ser uma demonstração de sucesso mais marcante do que
 realizar uma obra singular e isolada. Esse é o caso da cúpula da
-catedral de Florença --- uma edificação iniciada no século XIII seguindo
+catedral de Florença --- uma edificação iniciada no século [XIII]{.smallcaps} seguindo
 projetos cada vez mais ambiciosos a ponto de, num certo momento, serem
 considerados impossíveis.
 
@@ -770,9 +770,9 @@ autoportantes são algumas das principais contribuições do gótico tardio
 na França para a solução de problemas construtivos.
 
 O estudo da arquitetura do Renascimento na França está marcado, desde o
-início do século XIX, por narrativas que tomam como premissa busca das
+início do século [XIX]{.smallcaps}, por narrativas que tomam como premissa busca das
 raízes da nacionalidade. A afirmação do estado-nação e o embate político
-e militar com a Alemanha na segunda metade do século XIX direcionam a
+e militar com a Alemanha na segunda metade do século [XIX]{.smallcaps} direcionam a
 escrita da história da arte na França para uma exaltação da autonomia,
 unidade continuidade da cultura nacional. Por trás desse chauvinismo
 cultural, há um fundo de verdade na afirmação da continuidade
@@ -792,7 +792,7 @@ Edifícios administrativos como o erário da Normandia em Ruão ou o Paço
 municipal em Compiègne apresentam uma maior regularidade na articulação
 das suas fachadas do que construções civis mais antigas. No entanto, é,
 de fato, a importação de esquemas decorativos do Renascimento italiano,
-a partir da segunda metade do século XV e sobretudo no início do XVI,
+a partir da segunda metade do século [XV]{.smallcaps} e sobretudo no início do [XVI]{.smallcaps},
 que impulsiona uma renovação marcante na arquitetura francesa. O
 escultor Jean Bullant e o arquiteto Philibert de L’Orme estão entre os
 primeiros franceses a viajarem para Itália com o objetivo de adquirirem
@@ -802,7 +802,7 @@ opera uma síntese mais profunda entre os princípios teóricos do
 classicismo italiano e as técnicas construtivas herdadas da tradição
 francesa. Outros, como o escultor Jean Goujon e o arquiteto Pierre
 Lescot, aproveitam a presença de artistas e arquitetos italianos na
-França do início do século XVI.
+França do início do século [XVI]{.smallcaps}.
 
 Ao contrário de Brunelleschi e outros polímatas do Renascimento
 italiano, de l’Orme é antes de tudo um construtor. Esse fato permite
@@ -825,14 +825,14 @@ renascentista na França é a gradual diminuição das nervuras que
 caracterizavam o gótico, resultando em superfícies abobadadas contínuas
 e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
 profundamente debatido ao longo do arco renascentista na França, até bem
-entrado o século XIX.
+entrado o século [XIX]{.smallcaps}.
 
 ## A autoimagem da arquitetura francesa enquanto solução técnica ##
 
 A relevância das contribuições técnicas de de l'Orme não pode ser
 subestimada. O seu tratado continua a ser citado como pertinente para a
 prática mais de 100 anos depois da sua publicação. Até o final do século
-XIX, ele é citado como exemplo da competência técnica dos artesãos e
+[XIX]{.smallcaps}, ele é citado como exemplo da competência técnica dos artesãos e
 arquitetos franceses.
 
 As novas descobertas para construir bem e com baixo custo se destacam no
@@ -866,10 +866,10 @@ nos Estados Unidos durante vários séculos.
 
 Essa contribuição sedimenta uma autoimagem da arquitetura francesa como
 especialmente capaz de oferecer soluções técnicas adequadas, eficientes
-e belas. A partir daí se desenvolve, de finais do século XVI em diante,
+e belas. A partir daí se desenvolve, de finais do século [XVI]{.smallcaps} em diante,
 um discurso que enxerga a arquitetura francesa como intrinsecamente
 superior aos arroubos artísticos do classicismo italiano. Autores do
-séculos XVII e XVIII vão, corretamente, associar essa desenvoltura
+séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps} vão, corretamente, associar essa desenvoltura
 estrutural a herança dos ofícios construtivos góticos.
 
 A outra grande contribuição de de l'Orme nos seus escritos é explicitar
@@ -888,25 +888,25 @@ construção universal do sistema arquitetônico clássico.
 ## A arquitetura "à maneira francesa" como tema historiográfico ##
 
 Junto com a emergência de uma historiografia nacional na França do
-século XIX, a arquitetura à maneira francesa ganha definitivamente a sua
+século [XIX]{.smallcaps}, a arquitetura à maneira francesa ganha definitivamente a sua
 legitimidade enquanto tema historiográfico. Servindo inicialmente para
 exaltar a particularidade e a pretensa excepcionalidade da nação
 francesa na Europa, o tema histórico da arquitetura à francesa se
-reinventa no século XX para caracterizar o emprego e a valorização
+reinventa no século [XX]{.smallcaps} para caracterizar o emprego e a valorização
 teórica de certos procedimentos construtivos ao longo do tempo.
 
 Essa leitura na longa duração, ao gosto da Nova história francesa da
-primeira metade do século XX, pode assim ser desvinculada da exaltação
+primeira metade do século [XX]{.smallcaps}, pode assim ser desvinculada da exaltação
 nacionalista para se tornar um marco explicativo de uma característica
-legítima do contexto construtivo na França do século XV até o século
-XIX.
+legítima do contexto construtivo na França do século [XV]{.smallcaps} até o século
+[XIX]{.smallcaps}.
 
 A imagem do "bom arquiteto" ilustrada por de l'Orme, combinando o
 conhecimento histórico e literário com o domínio prático de problemas
 construtivos concretos, deixa de ser um ícone chauvinista para
 representar um ideal de formação e organização profissional que será
 resgatado na busca pela regulamentação do exercício profissional a
-partir da segunda metade do século XIX.
+partir da segunda metade do século [XIX]{.smallcaps}.
 
 Cúpulas islâmicas e malhas espaciais
 ====================================
@@ -957,7 +957,7 @@ Soluções espaciais da Ásia central
 ----------------------------------
 
 A expansão e islamização dos impérios turcos e mongóis na Ásia central,
-entre os séculos XI e XIII, leva ao desenvolvimento de uma síntese entre
+entre os séculos [XI]{.smallcaps} e [XIII]{.smallcaps}, leva ao desenvolvimento de uma síntese entre
 formas arquitetônicas de origem árabe e bizantina e a herança
 construtiva persa e indiana.
 
@@ -1000,7 +1000,7 @@ cúpulas, são usados os salões hipóstilos da tradição indiana.
 
 A última onda de conquista mongol na Ásia Central e no norte da Índia,
 pelos reinos timúridas, estabelece os paradigmas urbanísticos e
-arquitetônicos que vão dominar essas regiões do século XVI ao XVIII. As
+arquitetônicos que vão dominar essas regiões do século [XVI]{.smallcaps} ao [XVIII]{.smallcaps}. As
 cidades de Samarcanda e Herat são os exemplares canônicos desse
 paradigma. Samarcanda é uma cidade amuralhada, com uma cidadela tangente
 à muralha da cidade. A avenida principal da cidade é um grande mercado
@@ -1025,7 +1025,7 @@ que se moldam ao perímetro do espaço disponível e tocam o restante da
 malha urbana, formando um tecido construído contínuo.
 
 A diferenciação da arquitetura islâmica entre a Pérsia, a Ásia Central e
-a Índia deu origem, no século XIX, a teoria sobre o determinismo racial
+a Índia deu origem, no século [XIX]{.smallcaps}, a teoria sobre o determinismo racial
 no desenvolvimento de tipologias arquitetônicas. É certo que, em cada
 uma dessas regiões, arquitetura tanto monumental quanto cotidiana assume
 configurações diferenciadas. No caso da Índia, se verifica uma distinção
@@ -1105,8 +1105,6 @@ formal da ambiência urbana passa a exigir, assim, não mais a
 continuidade física entre edificações, mas analogias formais entre
 construções que não se tocam.
 
-
-Referências
-===========
+# Bibliografia # {.allowframebreaks .unlisted}
 
 [Johann Joachim Winckelmann]: https://pt.wikipedia.org/wiki/Johann_Joachim_Winckelmann

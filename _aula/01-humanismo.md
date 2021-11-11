@@ -22,7 +22,7 @@ arquitetura *correta* herdada da Antiguidade.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg"}
 
-![ Detalhe do rolo pintado do palácio, [Pequim, século XV
+![ Detalhe do rolo pintado do palácio, [Pequim, século [XV]{.smallcaps}
 ](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .align-right}
 
@@ -39,7 +39,7 @@ Esses dois projetos dão o tom para um processo de consolidação das
 tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
 tradições se estabilizam em torno de de uma concepção do ofício da
 arquitetura inspirada em antigos tratados. Ao mesmo tempo, o conjunto
-arquitetônico imperial em Pequim e as novas construções do século XV em
+arquitetônico imperial em Pequim e as novas construções do século [XV]{.smallcaps} em
 Florença dão a partida numa exploração de configurações cada vez mais
 diversificadas do espaço interior e exterior.
 
@@ -60,8 +60,8 @@ trabalho *intelectual*.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
 Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
-filosofia escolástica e o estilo gótico desde o século XII
-[@panofsky:2001arquitetura]. A partir do século XV, ela passa a ocupar
+filosofia escolástica e o estilo gótico desde o século [XII]{.smallcaps}
+[@panofsky:2001arquitetura]. A partir do século [XV]{.smallcaps}, ela passa a ocupar
 um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
 
@@ -76,7 +76,7 @@ Perspectiva arquitetônica com porto, c. 1495
 
 <!--Câmera-->
 Dois temas dominam a teoria e a prática da arquitetura e da pintura,
-desde o século XV até o XVIII: constituir um campo de *saber
+desde o século [XV]{.smallcaps} até o [XVIII]{.smallcaps}: constituir um campo de *saber
 disciplinar* para a profissão e explorar maneiras de organizar e
 representar o *espaço*. Essas duas preocupações se iluminam mutuamente
 tanto na Ásia oriental quanto na Europa ocidental.
@@ -85,9 +85,9 @@ tanto na Ásia oriental quanto na Europa ocidental.
 Os problemas de como *dar forma* ao espaço e como *representar* essa
 forma no desenho e na pintura se tornam centrais na China da dinastia
 Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
-partir de meados do século XIV ([@fig:buongoverno]).
+partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
 
-![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século XVI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
@@ -127,7 +127,7 @@ questionada e reformulada.
 <!--Câmera-->
 [Na Ásia oriental e na Europa ocidental,]{.newthought}
 
-a partir do século XV, as arte
+a partir do século [XV]{.smallcaps}, as arte
 visuais em geral e a arquitetura em particular se consolidam como um
 *corpo de conhecimentos* teóricos e técnicos registrados por escrito em
 *tratados*: livros impressos que reivindicam uma autoridade normativa
@@ -141,14 +141,14 @@ fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
 ([@fig:yingzao-fashi]), um livro impresso e ilustrado do ano 1103 --- 350
 anos antes do primeiro tratado do Renascimento italiano. O autor do
 *Yingzao fashi* é Li Jie (1065--1110), um arquiteto da casa Imperial na
-dinastia Song, um período que os chineses do século XIV em diante
+dinastia Song, um período que os chineses do século [XIV]{.smallcaps} em diante
 consideravam como o ponto alto das letras e das artes
 [@liang:2005chinese].
 
 Enquanto isso, na Europa, o tratado de arquitetura de Vitrúvio, escrito
 por volta de 15 a.C., sobrevive em cópias manuscritas nos mosteiros
 medievais [@conant:1968after-life27]. O interesse europeu por esse texto
-clássico só *renasce* de fato na metade do século XV. Por essa época, as
+clássico só *renasce* de fato na metade do século [XV]{.smallcaps}. Por essa época, as
 poucas figuras que faziam parte do tratado já tinham desaparecido, e o
 Renascimento italiano começa justamente com um esforço *colossal* de
 reconstituir a interpretação considerada correta do conhecimento antigo.
@@ -157,7 +157,7 @@ Uma das interpretações mais refinadas dessa arquitetura inspirada na
 Antiguidade clássica é o *Sistema das cinco espécies de colunas segundo
 o método dos Antigos*, publicado em 1683 pelo francês Claude Perrault
 (1613--1688). Mas o *Sistema* de Perrault é também um dos últimos desse
-gênero: no século XVIII, a universalidade do conhecimento arquitetônico
+gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquitetônico
 *clássico* enfrenta uma crise de legitimidade.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -173,9 +173,9 @@ gênero: no século XVIII, a universalidade do conhecimento arquitetônico
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
 
 Se o domínio global do espaço é a preocupação dominante das artes
-visuais e da arquitetura do século XV em diante, a cidade é onde esse
+visuais e da arquitetura do século [XV]{.smallcaps} em diante, a cidade é onde esse
 domínio se exercita antes de se ampliar para a escala de territórios
-regionais ou nacionais no século XVIII. No início desse processo, o
+regionais ou nacionais no século [XVIII]{.smallcaps}. No início desse processo, o
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
 literalmente, num só golpe de vista ([@fig:carnevale]).
 
@@ -183,7 +183,7 @@ literalmente, num só golpe de vista ([@fig:carnevale]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
 
-Esse golpe de vista pode ser simbólico: nos séculos XV a XVII as vistas
+Esse golpe de vista pode ser simbólico: nos séculos [XV]{.smallcaps} a [XVII]{.smallcaps} as vistas
 panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
 do território ([@fig:versailles-patel]).
@@ -193,37 +193,37 @@ do território ([@fig:versailles-patel]).
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
-Outras vezes, como na pintura da escola *tosa* no Japão do século XVI e
-início do XVII, podem celebrar o fato efêmero da fragmentação do poder
+Outras vezes, como na pintura da escola *tosa* no Japão do século [XVI]{.smallcaps} e
+início do [XVII]{.smallcaps}, podem celebrar o fato efêmero da fragmentação do poder
 central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
 
 ![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
 
 <!--Câmera-->
-Por tudo isso, o espaço urbano na virada do século XIV é o ponto de
+Por tudo isso, o espaço urbano na virada do século [XIV]{.smallcaps} é o ponto de
 partida e a base indispensável para o estudo da arquitetura até o final
-do século XVIII. Durante todo esse período, as redes mundiais de
+do século [XVIII]{.smallcaps}. Durante todo esse período, as redes mundiais de
 comércio e de trocas culturais ainda permite o desenvolvimento de formas
 urbanas muito variadas.
 <!--/Câmera-->
 
 
-# Mundos conectados no início do século XIV #
+# Mundos conectados no início do século [XIV]{.smallcaps} #
 
 A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
-XVI a XIX, foi tão brutal que às vezes perdemos de vista o quanto essas
+[XVI]{.smallcaps} a [XIX]{.smallcaps}, foi tão brutal que às vezes perdemos de vista o quanto essas
 redes e relações já eram globais desde a Idade Média.
 
 Mesmo a América não estava tão isolada dos outros continentes quanto
-parece: pelo menos até o início do século XIV, os navegadores vikings e
+parece: pelo menos até o início do século [XIV]{.smallcaps}, os navegadores vikings e
 polinésios tinham algum contato, ainda que não muito intenso, com os
 povos do litoral americano.
 
 No início do século X, os vikings se estabeleceram na Groenlândia, de
-onde faziam comércio com os povos do Ártico. Do século XI ao XIV, eles
+onde faziam comércio com os povos do Ártico. Do século [XI]{.smallcaps} ao [XIV]{.smallcaps}, eles
 visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
 na costa oeste do Atlântico norte.
 
@@ -231,7 +231,7 @@ na costa oeste do Atlântico norte.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Mundo nórdico, séculos X--XIV. Desenho: [Redgeographics, 2016
+![Mundo nórdico, séculos [X--XIV]{.smallcaps}. Desenho: [Redgeographics, 2016
 ](https://commons.wikimedia.org/wiki/File:NorseExplorations-v2.png)
 ](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
 :::
@@ -247,11 +247,11 @@ Eccles, 2008
 
 No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
 costa da América do Sul no século
-XIII](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
+[XIII]{.smallcaps}](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
 Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
 doce e ervas medicinais.
 
-![Expansão polinésia até o século XIII. Desenho: [Miles Benton, 2012
+![Expansão polinésia até o século [XIII]{.smallcaps}. Desenho: [Miles Benton, 2012
 ](https://doi.org/10.1371/journal.pone.0035026)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png){width=100%}
 
@@ -262,7 +262,7 @@ precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
 adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
 "pirâmides" dos maias e astecas como uma importação dos terraplenos
 chineses ([@fig:choisy-pacific]). Na cabeça de um europeu do final do
-século XIX, chineses atravessando o oceano Pacífico na mais remota
+século [XIX]{.smallcaps}, chineses atravessando o oceano Pacífico na mais remota
 Antiguidade parecia mais provável do que uns "índios no meio da selva"
 sendo capazes de criar arquitetura monumental.
 
@@ -290,14 +290,14 @@ arquitetura monumental sem ajuda externa ([@fig:aliens]).
 ## {data-background-image="https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg"}
 
 Para além disso, a hegemonia tecnológica e política que a Europa atingiu
-no século XIX ajudou a cultivar um conceito distorcido de evolução. Na
+no século [XIX]{.smallcaps} ajudou a cultivar um conceito distorcido de evolução. Na
 visão europeia da época, a evolução seria essencialmente linear
 ([@fig:civ6]), e todas as sociedades que seguiram outro percurso cultural
 e tecnológico que não o europeu seriam, portanto, "primitivas".
 
 Desmentindo essa visão linear que tende a justificar a colonização dos
 "primitivos" pelos "modernos", os territórios em volta do oceano Índico
-no século XIV abrigam uma grande variedade de sociedades com modelos
+no século [XIV]{.smallcaps} abrigam uma grande variedade de sociedades com modelos
 culturais e urbanísticos diversos. Esse conjunto forma a maior rede
 comercial do mundo no início da Idade Moderna.
 
@@ -305,7 +305,7 @@ comercial do mundo no início da Idade Moderna.
 
 ## {.unlisted}
 
-Nas redes globais do século XIV em diante, o oceano Índico ocupa um
+Nas redes globais do século [XIV]{.smallcaps} em diante, o oceano Índico ocupa um
 lugar privilegiado como articulador de trocas econômicas, culturais e
 religiosas. Segundo a historiadora da urbanização [Janet Lippman
 Abu-Lughod (1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), o
@@ -325,18 +325,18 @@ muçulmanos.
 
 ## {.unlisted}
 
-![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
 
 [Uma combinação de mudanças climáticas,]{.newthought}
 pandemias e reestruturações
 político-econômicas em todos os continentes afeta as redes comerciais e
-culturais em meados do século XIV e provoca a ruptura de muitas conexões
+culturais em meados do século [XIV]{.smallcaps} e provoca a ruptura de muitas conexões
 globais. Um resfriamento global dá o pontapé
 inicial numa sequência de choques que levam à reorganização econômica e
 política da era moderna. O mais famoso desses choques é a pandemia de
 peste que se espalha da China para a Europa no ano de 1348.
 
-Na nova ordem econômica e política do século XV, a rota da Seda,
+Na nova ordem econômica e política do século [XV]{.smallcaps}, a rota da Seda,
 terrestre, e o sistema de navegação com as monções, no oceano Índico,
 continuam sendo os caminhos estruturantes. Os mercadores muçulmanos
 escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
@@ -349,9 +349,11 @@ Nas margens desse sistema de rotas, várias cidades-estado prosperam
 graças ao controle de pontos de passagem obrigatórios. Trowulan e
 Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
 costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
-especializadas no comércio durante os séculos XIV e XV. A forma urbana
+especializadas no comércio durante os séculos [XIV]{.smallcaps} e [XV]{.smallcaps}. A forma urbana
 dessas cidades reflete as diferentes respostas que cada uma dá às
 necessidades funcionais do comércio e às condições geográficas e
 climáticas onde elas se desenvolvem.
 <!--/Câmera-->
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

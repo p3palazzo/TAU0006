@@ -10,7 +10,7 @@ abstract: |
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Neste tópico nós vamos tratar do pensamento e da prática de produção das
-cidades na Europa e na Ásia dos séculos XV e XVI. A primeira parte
+cidades na Europa e na Ásia dos séculos [XV]{.smallcaps} e [XVI]{.smallcaps}. A primeira parte
 aborda o que se convencionou chamar de cidades ideais na teoria da
 arquitetura na Itália e na China. A segunda parte observa a realidade
 da implantação de espaços urbanos em Portugal e no Japão. Essas práticas
@@ -103,7 +103,7 @@ Yongle manda restaurar as muralhas e o centro administrativo de Pequim
 fronteira norte da China.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg/522px-Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
+![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg/522px-Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
 
 ## {data-background-image="https://www.integra.unb.br/s/Ry4GBKrd6Jtzj7n/preview"}
 
@@ -139,7 +139,7 @@ dos rios e das principais estradas que ligam a capital ao restante do
 império.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão do tecido urbano de Pequim no século XVI. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
+![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg"}
 
@@ -199,7 +199,7 @@ comerciantes no pavimento superior.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mesmo assim, a partir dos séculos X a XII, o comércio se desenvolve
+Mesmo assim, a partir dos séculos X a [XII]{.smallcaps}, o comércio se desenvolve
 intensamente na China. O tipo do mercado murado em vigor até a dinastia
 Tang acaba substituído, na dinastia Song, por mercados lineares e
 abertos implantados ao longo das principais avenidas. A implantação de
@@ -224,7 +224,7 @@ prático, visando a desafogar a circulação de pessoas e veículos em
 pontos estratégicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ao longo do rio no festival Qingming, imitação de Suzhou, século XVI](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg){#fig:qingming .stretch}
+![Ao longo do rio no festival Qingming, imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28Suzhou_Imitation%29_11.jpg){#fig:qingming .stretch}
 
 * * * *
 
@@ -242,7 +242,7 @@ definidoras da urbanização na China.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A urbanização do território Português é uma política da coroa que se
-desenrola a partir de meados do século XIII. Os objetivos dessa política
+desenrola a partir de meados do século [XIII]{.smallcaps}. Os objetivos dessa política
 são povoar as fronteiras, melhorando a defesa do território, e
 racionalizar o abastecimento de alimentos, criando novas frentes
 agrícolas.
@@ -256,7 +256,7 @@ agrícolas.
 
 ## {data-background-image=""}
 
-![Vila nova de Caminha, Portugal, século XIII. @trindade:2009urbanismo](){#fig:vilanova}
+![Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. @trindade:2009urbanismo](){#fig:vilanova}
 
 ## 
 
@@ -278,7 +278,7 @@ comerciais ou defensivas.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em contraste com a busca incessante por atingir um ideal teórico na
 China e na Itália, o desenvolvimento urbano no Japão e em Portugal se
-pauta pela organização do espaço possível. Entre os séculos XIV e XVII,
+pauta pela organização do espaço possível. Entre os séculos [XIV]{.smallcaps} e [XVII]{.smallcaps},
 governantes e construtores portugueses e japoneses têm como preocupação
 central o controle e povoamento do território. Nesse contexto, os
 traçados geométricos são uma indicação a ser seguida de modo aproximado.
@@ -317,7 +317,7 @@ A diminuição na população urbana durante o período medieval e as
 condições desiguais do sítio físico fazem com que a metade leste da
 capital, em terreno plano e com acesso ao rio Yodo, se desenvolva muito
 mais que a metade oeste. Até a sede do poder --- o palácio imperial e,
-na segunda metade do século XVI, o castelo do xogum --- se desloca do
+na segunda metade do século [XVI]{.smallcaps}, o castelo do xogum --- se desloca do
 eixo central para a parte oriental da cidade.
 
 ![Planta de Quioto. @hayashi:1686large](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg/566px-Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg){#fig:kyoto-1686 .stretch}
@@ -337,7 +337,7 @@ construção de casas geminadas, as *machiya*.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nos séculos XVI e XVII, a construção de castelos controlando rotas
+Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de castelos controlando rotas
 comerciais e pontos de passagem estratégicos leva ao desenvolvimento do
 paradigma urbano moderno no Japão: a vila de castelo (*jōkamachi*).
 
@@ -417,7 +417,7 @@ Em muitos casos, o processo de adensamento não respeita a profundidade
 de cada lote, e as edificações se sobrepõem às divisas. Somente a
 construção ou ala implantada junto à testada tende a aderir às divisas.
 Essa discrepância é um fator de adaptação importante na emergente
-complexidade social e arquitetônica dos séculos XVII a XIX.
+complexidade social e arquitetônica dos séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
 
 ![Discrepância entre lotes registrados e edificações efetivamente construídas. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -426,7 +426,7 @@ complexidade social e arquitetônica dos séculos XVII a XIX.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 À medida que o Japão se urbaniza e que um governo central reafirma o seu
-poder, na primeira metade do século XVII, as cidades crescem e as redes
+poder, na primeira metade do século [XVII]{.smallcaps}, as cidades crescem e as redes
 de transporte se integram na escala do país inteiro. A logística de
 abastecimento, comércio e circulação de pessoas passa a ser o foco das
 políticas territoriais japonesas.
@@ -480,9 +480,9 @@ No Alcorão, os jardins aparecem sempre como uma versão terrena do
 paraíso, incorporando aos jardins também essa distinção religiosa. A
 dignidade religiosa, por sua vez, se rebate na grandeza dos palácios
 reais, como o Generalife, na Alhambra de Granada, construído no século
-XIV ([@fig:alhambra]).
+[XIV]{.smallcaps} ([@fig:alhambra]).
 
-![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século XIV. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
+![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século [XIV]{.smallcaps}. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Chahār-bāgh ##
@@ -526,7 +526,7 @@ cruzamento dos eixos precisa estar no centro do jardim
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tapeçaria é um dos mecanismos de difusão do tipo do *chahār-bāgh*,
-sobretudo a partir do século XVI. Tapetes persas representando jardins
+sobretudo a partir do século [XVI]{.smallcaps}. Tapetes persas representando jardins
 viajam por todo o mundo islâmico e além, como o chamado "tapete de
 Jaipur" de 1622, na verdade produzido em Quermã, no leste da Pérsia,
 como um produto de exportação ([@fig:jaipur-carpet]).
@@ -539,13 +539,13 @@ como um produto de exportação ([@fig:jaipur-carpet]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tapeçarias mais estilizadas, como o tapete persa da segunda metade do
-século XVIII da [@fig:rug-met], reduzem o *chahār-bāgh* às suas
+século [XVIII]{.smallcaps} da [@fig:rug-met], reduzem o *chahār-bāgh* às suas
 características fundamentais e mostram como a simetria do conjunto pode
 ser relativizada. Os dois eixos estruturantes não precisam ser
 idênticos, e essa é uma das principais fontes de variedade nos projetos
 de jardins persas e indianos.
 
-![Tapete persa, segunda metade do século XVIII. Metropolitan Museum of Art](https://www.integra.unb.br/s/tau6-063-rug-met/preview){#fig:rug-met}
+![Tapete persa, segunda metade do século [XVIII]{.smallcaps}. Metropolitan Museum of Art](https://www.integra.unb.br/s/tau6-063-rug-met/preview){#fig:rug-met}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w"}
@@ -568,14 +568,14 @@ plantas em climas tão áridos como o do Irã.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os impérios multiétnicos da Ásia central são os principais veículos de
-expansão da cultura persa nos séculos XV a XVIII. Os turcos e mongóis da
+expansão da cultura persa nos séculos [XV]{.smallcaps} a [XVIII]{.smallcaps}. Os turcos e mongóis da
 dinastia Timúrida, que governam desde o Oriente Médio até o oeste da
-Índia nos séculos XIV e XV ([@fig:timur]), criam uma vasta zona de
+Índia nos séculos [XIV]{.smallcaps} e [XV]{.smallcaps} ([@fig:timur]), criam uma vasta zona de
 comércio e trocas culturais na região. É nessa época que a cultura persa
 --- nas artes visuais, na arquitetura e até na literatura --- se
 estabelece como o padrão erudito e elegante em toda a Ásia central.
 
-![Império Timúrida no final do século XIV. @stuntelaar:2008timur](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg){#fig:timur}
+![Império Timúrida no final do século [XIV]{.smallcaps}. @stuntelaar:2008timur](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg){#fig:timur}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg"}
@@ -587,7 +587,7 @@ na hegemonia cultural persa ([@fig:gibault]). Eles substituem o domínio
 dos nômades Timúridas por estados com administrações estáveis, que
 realizam obras públicas monumentais.
 
-![Impérios Otomano, Safávida e Mogol no século XVII. @gibault:2011chapter21](https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg){#fig:gibault}
+![Impérios Otomano, Safávida e Mogol no século [XVII]{.smallcaps}. @gibault:2011chapter21](https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg){#fig:gibault}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -606,7 +606,7 @@ Apesar dessa origem étnica, o império
 Mogol promove uma cultura de corte inspirada na Pérsia. Essa cultura de
 elite se mistura gradualmente com o substrato indiano, que sobreviveu
 aos primeiros séculos de islamização sob o sultanato de Delhi. Os
-manuscritos iluminados do século XVII demonstram essa combinação de uma
+manuscritos iluminados do século [XVII]{.smallcaps} demonstram essa combinação de uma
 cultura iconográfica indiana com temas literários persas ([@fig:babur]).
 
 Os Safávidas na Pérsia, por sua vez, multiplicam os contatos com a
@@ -621,7 +621,7 @@ sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
 ![Representação do imperador Babur, c. 1640, montada numa página decorada c. 1650--1658. Do álbum do xá Jahan, Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg/538px-Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg){#fig:babur}
 :::
 ::: {.column width=50%}
-![Retrato do xá Abbas I por um pintor de escola italiana, talvez Júlio, o Grego, final do século XVI ou início do XVII](https://upload.wikimedia.org/wikipedia/commons/2/2e/ShahAbbasPortraitFromItalianPainter.jpg){#fig:abbas}
+![Retrato do xá Abbas I por um pintor de escola italiana, talvez Júlio, o Grego, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/2/2e/ShahAbbasPortraitFromItalianPainter.jpg){#fig:abbas}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -629,12 +629,12 @@ sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um *chahār-bāgh* na Pérsia e outro na Índia exemplificam o
-desenvolvimento dessa tipologia no século XVII e a sua adaptação aos
+desenvolvimento dessa tipologia no século [XVII]{.smallcaps} e a sua adaptação aos
 métodos modernos de planejamento da cidade e do território: o conjunto
 urbanístico de Isfahan e o complexo funerário do Taj Mahal, na cidade de
 Agra ([@fig:isfahan-agra]).
 
-![Impérios Safávida e Mogol no século XVII com a localização de Isfahan e Agra](https://www.integra.unb.br/s/tau6-063-isfahan-agra/preview){#fig:isfahan-agra}
+![Impérios Safávida e Mogol no século [XVII]{.smallcaps} com a localização de Isfahan e Agra](https://www.integra.unb.br/s/tau6-063-isfahan-agra/preview){#fig:isfahan-agra}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg"}
@@ -643,12 +643,12 @@ Agra ([@fig:isfahan-agra]).
 Isfahan é uma das várias capitais históricas da Pérsia, tanto do ponto
 de vista político quanto cultural. Quando o xá Abbas I restabelece
 Isfahan como capital, em 1598, a maior parte da cidade estava destruída
-e abandonada desde a conquista turco-mongol do século XIV. O intelectual
+e abandonada desde a conquista turco-mongol do século [XIV]{.smallcaps}. O intelectual
 xiita, matemático, arquiteto e astrônomo, Bahā al-Dīn
 ([@fig:baha-al-din]) é o autor do projeto para a reconstrução monumental
 de Isfahan, e também de vários dos seus edifícios emblemáticos.
 
-![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século XVI](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din}
+![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-063-mawer-layout/preview"}
@@ -674,7 +674,7 @@ ser um jardim ou o "paraíso" e, portanto, ter o *chahār-bāgh* como
 princípio organizador de todo o conjunto urbanístico
 ([@fig:isfahan-schema]).
 
-![Configuração urbana de Isfahan no século XVII](https://www.integra.unb.br/s/tau6-063-isfahan-plan/preview){#fig:isfahan-schema}
+![Configuração urbana de Isfahan no século [XVII]{.smallcaps}](https://www.integra.unb.br/s/tau6-063-isfahan-plan/preview){#fig:isfahan-schema}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-063-isfahan-plan-charbagh/preview"}
@@ -686,7 +686,7 @@ norte--sul é uma nova avenida monumental ligando a praça Naqsh-e Jahan,
 também parte do novo projeto urbanístico, aos jardins reais, do outro
 lado do rio ([@fig:isfahan-schema-charbagh]).
 
-![Configuração urbana de Isfahan no século XVII mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh](https://www.integra.unb.br/s/tau6-063-isfahan-plan-charbagh/preview){#fig:isfahan-schema-charbagh}
+![Configuração urbana de Isfahan no século [XVII]{.smallcaps} mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh](https://www.integra.unb.br/s/tau6-063-isfahan-plan-charbagh/preview){#fig:isfahan-schema-charbagh}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg"}
@@ -695,7 +695,7 @@ lado do rio ([@fig:isfahan-schema-charbagh]).
 A própria avenida é conhecida até hoje pelo nome de Chahar Bagh, e
 continua a ser um dos principais eixos viários de Isfahan. O conjunto
 monumental da cidade foi admirado pelos vários viajantes europeus que
-visitaram a cidade nos séculos XVII e XVIII, como o holandês Cornelis de
+visitaram a cidade nos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}, como o holandês Cornelis de
 Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
 ![Vista da avenida Charbagh por Cornelis de Bruyn, 1705](https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg){#fig:cornelis}
@@ -715,7 +715,7 @@ Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 O princípio do *chahār bāgh* se origina na Pérsia antiga, onde ele
 persiste até a atualidade. No entanto, é o seu uso na Índia sob o
 império Mogol e a descoberta dessa tipologia pelos colonizadores
-britânicos que estabelecem a sua fama mundial. A partir do século XIX, a
+britânicos que estabelecem a sua fama mundial. A partir do século [XIX]{.smallcaps}, a
 configuração quadripartida do *chahār bāgh* passa a ser conhecida, no
 Ocidente, com o nome de "jardim mogol". O primeiro estudo histórico
 sobre esses jardins, *The Gardens of the Great Mughals*
@@ -743,7 +743,7 @@ legitimar a sua autoridade. O cosmopolitismo que resulta dessa mistura
 tem o seu ponto alto na construção de mausoléus ajardinados. O uso de
 mausoléus monumentais para enterrar membros da família real vem da Ásia
 central muçulmana. Ela tem o seu ponto alto no gur e-Amir, a tumba de
-Tamerlão, construída em Samarcanda no início do século XV
+Tamerlão, construída em Samarcanda no início do século [XV]{.smallcaps}
 ([@fig:gur-e-amir]).
 
 ![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1024px-Samarcanda%2C_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
@@ -867,7 +867,7 @@ Mahal ([@fig:taj-watercolor]). Esse jardim sugere que o complexo se
 estendia para além do rio; o Taj Mahal seria, literalmente, refletido
 num espelho d'água octogonal, tornando a composição completa.
 
-![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
+![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"}
@@ -897,7 +897,7 @@ Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
 Originalmente o jardim continha uma enorme variedade de plantas e
 flores, pois eles remetiam a ideia de fartura e prosperidade que deveria
 estar presente no "paraíso" ([@fig:taj-1890]). Mas, com o domínio
-britânico no século XIX, não só o jardim do Taj Mahal, mas de diversos
+britânico no século [XIX]{.smallcaps}, não só o jardim do Taj Mahal, mas de diversos
 outros jardins mogóis foram transformados em extensos gramados
 ([@fig:taj-lawn]).
 
@@ -1006,7 +1006,7 @@ redes extensas de relações políticas que controlam territórios mais
 vastos.
 <!--/Câmera-->
 O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
-floresceu entre os séculos XI e XV. Essa rede tinha importância
+floresceu entre os séculos [XI]{.smallcaps} e [XV]{.smallcaps}. Essa rede tinha importância
 estratégica no comércio suaíle, porque controlava as minas de ouro no
 sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
 superfície de 730 hectares e pode ter abrigado até dez mil habitantes no
@@ -1051,7 +1051,7 @@ perímetro do complexo, delimitando um pátio quadrado ou pouco alongado.
 <!--/Câmera-->
 
 O paradigma desse adensamento é a cidade de Benim, capital do império
-Edo, que atingiu o seu auge nos séculos XVI e XVII. Em 1897, durante a
+Edo, que atingiu o seu auge nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}. Em 1897, durante a
 conquista colonial da atual Nigéria, Benin foi destruída pelo exército
 britânico.
 
@@ -1087,7 +1087,7 @@ Máxima densidade urbana: Kumasi
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
 provavelmente, em Kumasi, a capital da federação e reino Asante desde o
-final do século XVIII. Assim como Benim, Kumasi é uma cidade fortemente
+final do século [XVIII]{.smallcaps}. Assim como Benim, Kumasi é uma cidade fortemente
 adensada ([@fig:kumasi-plan]) em torno do palácio real
 ([@fig:kumasi-palace]). No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
@@ -1126,7 +1126,7 @@ Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das
 regiões tropicais desenvolve respostas convergentes para o problema da
 organização familiar e política do espaço. O ponto comum entre eles é a
 formação de redes edificadas no território que se adensam gradualmente
-do século XIV ao XVIII.
+do século [XIV]{.smallcaps} ao [XVIII]{.smallcaps}.
 
 Nesse universo, o urbanismo africano é peculiar porque delimita o
 traçado urbano a partir da expansão das habitações, e não o inverso.
@@ -1139,7 +1139,7 @@ Um terceiro caso de urbanismo orgânico, desta vez na Europa, faz os dois
 movimentos em sequência --- primeiro de dentro para fora, ocupando o
 espaço a partir de uma praça central, e depois novamente de fora para
 dentro, adensando o tecido edificado quando este chega ao limite da
-expansão. Esse processo acontece em Veneza, do século IX ao XVI.
+expansão. Esse processo acontece em Veneza, do século IX ao [XVI]{.smallcaps}.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1158,7 +1158,7 @@ crescimento *para fora*, só resta crescer *para dentro*, ocupando o
 interior dos lotes.
 <!--/Câmera-->
 
-Veneza também é, até o final do século XV, praticamente o único porto
+Veneza também é, até o final do século [XV]{.smallcaps}, praticamente o único porto
 europeu com acesso ao comércio da rota da Seda e do oceano Índico. A
 riqueza financeira e cultural que essa posição garante é um dos motores
 para o desenvolvimento artístico do Renascimento. O paradoxo do
@@ -1374,7 +1374,7 @@ Em Veneza, não há espaço para grandes traçados autorais. A cidade se
 renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.
 
-![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século XVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
+![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Urbanismo europeu e historicidade ##
@@ -1451,13 +1451,13 @@ centralização administrativa do poder real.
 ## {data-background-image=""}
 
 :::notes
-![Fort Belgica, ilha Neira, arquipélago de Banda, primeira metade do século XVII](){#fig:banda .stretch}
+![Fort Belgica, ilha Neira, arquipélago de Banda, primeira metade do século [XVII]{.smallcaps}](){#fig:banda .stretch}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Forte e cidade de Nova Amsterdã, primeira metade do século XVII](){#fig:n-amsterdam}
+![Forte e cidade de Nova Amsterdã, primeira metade do século [XVII]{.smallcaps}](){#fig:n-amsterdam}
 :::
 
 ## Realização da técnica ##
@@ -1528,4 +1528,6 @@ bonificação do vale do Po na região de Gualtieri.
 ## Covent Garden ##
 
 ## Plazas mayores ##
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

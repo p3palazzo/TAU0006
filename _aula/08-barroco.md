@@ -22,7 +22,7 @@ abstract: |
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na Itália da segunda metade do século XVI, há uma gradual elaboração das
+Na Itália da segunda metade do século [XVI]{.smallcaps}, há uma gradual elaboração das
 fachadas, sobretudo nas igrejas. Esse processo é análogo ao que acontece
 com os volumes e a articulação de superfícies interiores das edificações
 monumentais. A fachada deixa de ser um anteparo plano --- ou *em planos*
@@ -397,3 +397,5 @@ bonificação do vale do Po na região de Gualtieri.
 - Parcelamento urbano periférico e as cinturas marginais.
 
 - Blondel [@etlin:1978dedans]
+
+# Bibliografia # {.allowframebreaks .unlisted}

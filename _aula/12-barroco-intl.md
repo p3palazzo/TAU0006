@@ -16,11 +16,11 @@ uma disciplina essencialmente europeia, tanto nos seus métodos e autores
 mais consagrados, quanto nos seus objetos de estudo mais comuns. Desde a
 consolidação da História da Arte como disciplina universitária e campo
 de pesquisa acadêmica, na Alemanha e na Áustria da segunda metade do
-século XIX, alguns fios condutores dominam a narrativa global que
+século [XIX]{.smallcaps}, alguns fios condutores dominam a narrativa global que
 continua presente nos livros-texto até os dias de hoje. Um desses fios
 condutores é a oposição entre "clássico" e "barroco".
 
-Para autores do começo do século XX como o nosso já conhecido Heinrich
+Para autores do começo do século [XX]{.smallcaps} como o nosso já conhecido Heinrich
 Wölfflin (1864--1945), esses dois conceitos têm uma existência imanente,
 quase transcendental. Segundo Wölfflin, clássico e barroco formam dois
 momentos essenciais no ciclo da arte europeia na Idade Moderna. Antes de
@@ -44,7 +44,7 @@ artística foi, felizmente, desacreditado na prática atual da história da
 arte. Hoje em dia, o termo "barroco" é usado como um recorte mais
 utilitário do que essencialista; ele caracteriza uma parte da produção
 artística sobretudo na Europa católica e nas suas colônias, durante os
-séculos XVII e XVIII. A contraposição atualmente aceita é mais restrita,
+séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}. A contraposição atualmente aceita é mais restrita,
 opondo o "classicismo" francês e inglês, com a sua rígida aderência a
 uma leitura simples dos tratados renascentistas, ao "barroco"
 Mediterrâneo e alemão, caracterizado pelo virtuosismo volumétrico mas
@@ -52,7 +52,7 @@ também estrutural [@bazin:2010barroco; @tapie:1974barroco].
 
 Mesmo assim, livres de qualquer interpretação metafísica sobre o
 significado de "clássico" e "barroco", podemos explorar como diversas
-culturas dos séculos XVII e XVIII pelo mundo afora expressaram o
+culturas dos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps} pelo mundo afora expressaram o
 contraste entre uma estética severa e monumental e outra estética
 exuberante e inovadora.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -84,7 +84,7 @@ do Buda ([@Fig:todaiji-garan-model]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Tōdaiji, como a maioria dos mosteiros budistas na China e no Japão,
 foi certamente concebido por um monge especializado. No final do século
-XII, outro monge, Chōgen, foi responsável pela primeira reconstrução do
+[XII]{.smallcaps}, outro monge, Chōgen, foi responsável pela primeira reconstrução do
 complexo, após a devastação causada pelas guerras civis.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -133,7 +133,7 @@ não tem qualquer relação de parentesco com a arquitetura da Índia
 propriamente dita, hoje em dia ele é conhecido como "estilo do grande
 Buda" (*daibutsuyō*).
 
-Mesmo o salão reconstruído no século XVIII permanece fiel ao estilo
+Mesmo o salão reconstruído no século [XVIII]{.smallcaps} permanece fiel ao estilo
 original ([@Fig:todaiji-kondo-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -145,7 +145,7 @@ original ([@Fig:todaiji-kondo-front]).
 A diferença mais marcante da antiga construção para a atual é o tímpano
 curvo marcando o eixo de simetria da fachada. Esse motivo é conhecido
 como *[karahafu][]* ou "empena chinesa" ([@Fig:karahafu]). Apesar do
-nome, ele foi criado no Japão no início do século XII. Portanto, é um
+nome, ele foi criado no Japão no início do século [XII]{.smallcaps}. Portanto, é um
 dos poucos elementos da arquitetura budista a não ser de origem chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -155,7 +155,7 @@ dos poucos elementos da arquitetura budista a não ser de origem chinesa.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *karahafu* vai ser um motivo arquitetônico especialmente difundido
-durante o período Edo, do século XVII ao XIX, em vários tipos de
+durante o período Edo, do século [XVII]{.smallcaps} ao [XIX]{.smallcaps}, em vários tipos de
 edificações cívicas e religiosas ([@Fig:nijo-karamon]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -183,7 +183,7 @@ A forma e o emprego dos *dougong* está documentada no *Yingzao fashi*, o
 tratado de arquitetura escrito por Li Jie e completado em 1093. São
 justamente os padrões da dinastia Song, estabelecidos nessa época, que
 constituem um sistema "clássico" da arquitetura chinesa. Esse sistema é
-adotado no Japão do século XIII em diante.
+adotado no Japão do século [XIII]{.smallcaps} em diante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -199,7 +199,7 @@ adotado no Japão do século XIII em diante.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa combinação ressalta o virtuosismo da carpintaria japonesa no século
-XVIII e as possibilidades expressivas da estrutura típica do "estilo
+[XVIII]{.smallcaps} e as possibilidades expressivas da estrutura típica do "estilo
 grande Buda" ([@Fig:todaiji-kondo-under]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -228,7 +228,7 @@ sobreposição acentuam a impressão de monumentalidade da arquitetura
 ([@Fig:todaiji-tokyo]). O virtuosismo arquitetônico do Tōdaiji depende,
 é claro, tanto do refinamento técnico dos seus carpinteiros quanto da
 possibilidade de se obter os elementos construtivos a partir de árvores
-muito grandes. No entanto, desde o século XVII as florestas antigas vão
+muito grandes. No entanto, desde o século [XVII]{.smallcaps} as florestas antigas vão
 se tornando escassas e distantes. Em resposta a essa crise ambiental,
 tanto a casa Imperial quanto o governo dos xoguns estabelecem áreas
 protegidas para garantir a renovação dessas florestas.
@@ -241,7 +241,7 @@ protegidas para garantir a renovação dessas florestas.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por causa da escassez de grandes árvores, desde o século XVI a
+Por causa da escassez de grandes árvores, desde o século [XVI]{.smallcaps} a
 carpintaria japonesa desenvolve técnicas e motivos arquitetônicos
 aproveitando peças de madeira menores e mais esbeltas. Um dos ícones da
 capacidade técnica e expressiva desse modo de construir é o santuário
@@ -254,7 +254,7 @@ Tōshōgū, em Nikkō, no leste do Japão ([@Fig:toshogu-view]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Tōshōgū é um santuário xintoísta oferecido por um senhor feudal do
-início do século XVII à memória do primeiro xogum da dinastia Tokugawa,
+início do século [XVII]{.smallcaps} à memória do primeiro xogum da dinastia Tokugawa,
 Ieyasu. Como grande parte da arquitetura xintoísta, ele se caracteriza
 por uma sucessão de recintos --- murados ou não --- e por uma escala
 mais modesta ([@Fig:toshogu-bn]).
@@ -305,7 +305,7 @@ A combinação de elementos figurativos, geométricos e arabescos explora a
 gama quase completa dos motivos ornamentais em uso no Japão
 ([@Fig:toshogu-karamon]). Pela sua riqueza e variedade, ela expressa,
 mesmo num contexto religioso, o espírito do "mundo fugaz" (*ukiyo*) que
-caracteriza a cultura urbana do Japão nos séculos XVII a XIX.
+caracteriza a cultura urbana do Japão nos séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Tōshōgū, *karamon*. [Soramimi (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1024px-Karamon_of_Nikko_Tosho_Shrine.JPG){#fig:toshogu-karamon}
@@ -369,7 +369,7 @@ caracteriza a cultura urbana do Japão nos séculos XVII a XIX.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A exploração das formas estruturais tornadas possíveis graças ao
 desenvolvimento da tecnologia e da matemática no Renascimento se
-associa, desde a segunda metade do século XVII, a um interesse renovado
+associa, desde a segunda metade do século [XVII]{.smallcaps}, a um interesse renovado
 pelo estudo das ruínas da Antiguidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -467,7 +467,7 @@ técnicos e de práticas construtivas herdadas do período gótico e
 plenamente integradas à arquitetura do Renascimento na França.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cadernos de Villard de Honnecourt, século XIII. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
+![Cadernos de Villard de Honnecourt, século [XIII]{.smallcaps}. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Cour_Philibert_Delorme_Lyon.jpg"}
 
@@ -477,13 +477,13 @@ responsáveis por codificar e difundir por escrito a arquitetura à
 francesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Philibert de l'Orme, Hôtel Bullioud, Lião, século XVI. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
+![Philibert de l'Orme, Hôtel Bullioud, Lião, século [XVI]{.smallcaps}. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
 
 ## {data-background-image="https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sua atuação prática e teórica em torno da metade do século
-XVI marca o início de um processo de transferência e apropriação de
+[XVI]{.smallcaps} marca o início de um processo de transferência e apropriação de
 conhecimentos das corporações de ofício da construção para os
 arquitetos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -503,7 +503,7 @@ sobretudo, falar de arquitetura entre esses dois grupos.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Este último movimento se estende, a partir do final do século XVII, com
+Este último movimento se estende, a partir do final do século [XVII]{.smallcaps}, com
 a gradual transferência de autoridade teórica dos arquitetos para os
 intelectuais letrados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -549,4 +549,6 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
 Guarini e tinha um interesse semelhante pela relação entre construção e
 matemática.
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

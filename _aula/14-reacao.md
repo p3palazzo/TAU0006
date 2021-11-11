@@ -22,7 +22,7 @@ legitimação conceitual da disciplina.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A partir da segunda metade do século XVI é que aparecem os primeiros
+A partir da segunda metade do século [XVI]{.smallcaps} é que aparecem os primeiros
 livros com informações práticas para os arquitetos práticos e os
 profissionais da construção, apresentadas de modo direto e resumido. O
 tratado das cinco ordens do Vinhola, de 1563 ([@Fig:vignola-front]), é a
@@ -40,7 +40,7 @@ difundir sobretudo no norte da Europa, muitas vezes em edições de bolso.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O livro ilustrado de Wendel Dietterlin, publicado no final do século XVI
+O livro ilustrado de Wendel Dietterlin, publicado no final do século [XVI]{.smallcaps}
 na Bavária, é um dos mais difundidos nesse gênero ([@Fig:dietterlin]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -179,7 +179,7 @@ variedade de motivos presentes em várias pranchas diferentes.
 Assim como os livros de estampas alemães, os livros de padrões ingleses
 são referências gerais para serem recompostas pelos construtores
 conforme o caso específico. Essa linhagem de obras, iniciada no final do
-século XVII, persiste até hoje na arquitetura do Reino Unido e dos
+século [XVII]{.smallcaps}, persiste até hoje na arquitetura do Reino Unido e dos
 Estados Unidos ([@Fig:uda-pattern]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -231,7 +231,7 @@ de plantas de moradas nobres ([Fig:dellatorre]).
 A primeira tradução de Palladio diretamente do italiano para o inglês é
 feita por Isaac Ware, e publicada em 1738 ([@Fig:ware]). No entanto, o
 original italiano era conhecido na Inglaterra desde a época de Inigo
-Jones, no início do século XVII.
+Jones, no início do século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:ware}
@@ -327,7 +327,7 @@ construídas em madeira na cultura construtiva britânica.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O escopo do livro de Price mostra o alcance do ofício da carpintaria e a
-autonomia que essa profissão detinha no mundo britânico do século XVIII,
+autonomia que essa profissão detinha no mundo britânico do século [XVIII]{.smallcaps},
 comparável ao dos pedreiros na França da mesma época.
 
 ![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster .stretch}
@@ -542,7 +542,7 @@ eles são usados desse modo por estudantes e arquitetos!
 
 <!--,_-->
 
-# Novidade e correção na crítica do século XVIII #
+# Novidade e correção na crítica do século [XVIII]{.smallcaps} #
 
 Dois tipos de racionalismo:
 
@@ -557,4 +557,6 @@ Dois tipos de racionalismo:
 
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

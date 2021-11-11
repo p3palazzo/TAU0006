@@ -754,3 +754,5 @@ cereais colhidos, o plantio de novas lavouras é relativamente raro.
 
 ## Hidráulica incaica na montanha e na planície ##
 
+# Bibliografia # {.allowframebreaks .unlisted}
+

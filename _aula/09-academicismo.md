@@ -14,7 +14,7 @@ abstract: |
 
 A contínua reconstrução e ampliação do Louvre é um retrato dos sistemas
 de poder político e cultural na França, e de como eles se transformam
-desde o século XII até o presente.
+desde o século [XII]{.smallcaps} até o presente.
 
 ![Palácio do Louvre, vista aérea. [Kabel (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/1024px-Louvre_Paris_from_top.jpg){#fig:louvre-aerial}
 
@@ -22,7 +22,7 @@ desde o século XII até o presente.
 
 * * * *
 
-![Fases de construção dos palácios do Louvre e das Tulherias, séculos XII a XIX. [Baseado em A.D.F. Hamlin (1915)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg.png){#fig:louvre-hamlin .stretch}
+![Fases de construção dos palácios do Louvre e das Tulherias, séculos [XII]{.smallcaps} a [XIX]{.smallcaps}. [Baseado em A.D.F. Hamlin (1915)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg.png){#fig:louvre-hamlin .stretch}
 
 [Baseado em A.D.F. Hamlin (1915)]: https://commons.wikimedia.org/wiki/File:Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg
 
@@ -33,7 +33,7 @@ desde o século XII até o presente.
 O Louvre é um dos edifícios mais bem documentados da história,
 comparecendo em desenhos, pinturas e documentos administrativos quase
 continuamente desde a sua construção até os dias de hoje. É o caso dessa
-iluminura criada no início do século XV pelos irmãos Limbourg, três
+iluminura criada no início do século [XV]{.smallcaps} pelos irmãos Limbourg, três
 artistas holandeses, para o livro de horas (ou seja, de orações) do
 duque de Berry ([@Fig:louvre-berry]).
 
@@ -47,7 +47,7 @@ O castelo do Louvre foi construído pelo rei da França Filipe Augusto em
 1190, como parte da muralha da cidade e defesa contra ataques subindo o
 rio Sena ([@fig:paris-golvin]).
 
-![Paris no século XV, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-vue-moyen-age-jc-golvin.jpg){#fig:paris-golvin}
+![Paris no século [XV]{.smallcaps}, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-vue-moyen-age-jc-golvin.jpg){#fig:paris-golvin}
 
 [Jean-Claude Golvin]: https://jeanclaudegolvin.com/paris/
 
@@ -57,23 +57,23 @@ rio Sena ([@fig:paris-golvin]).
 
 ## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg" data-background-position="top"}
 
-Mas a cidade de Paris cresce tanto, que no início do século XV, sob o
+Mas a cidade de Paris cresce tanto, que no início do século [XV]{.smallcaps}, sob o
 rei Carlos V, o Louvre já foi totalmente cercado pelo tecido urbano. Uma
 nova muralha acaba sendo construída mais para oeste, e o castelo perde a
 sua função militar.
 
-![Louvre no século XV, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg){#fig:louvre-golvin}
+![Louvre no século [XV]{.smallcaps}, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg){#fig:louvre-golvin}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg"}
 
 A partir daí, ele passa a funcionar sobretudo como um satélite do
 palácio da cidade, abrigando a biblioteca real --- uma coleção que dá
 origem à Biblioteca nacional da França --- e um salão de audiência
-construído no século XIII. Esse salão ficou enterrado até o século XIX
+construído no século [XIII]{.smallcaps}. Esse salão ficou enterrado até o século [XIX]{.smallcaps}
 debaixo das sucessivas reconstruções do palácio
 ([@Fig:louvre-saintlouis]).
 
-![Salão de audiências de São Luís, Louvre, século XIII. [Tangopaso (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg){#fig:louvre-saintlouis .stretch}
+![Salão de audiências de São Luís, Louvre, século [XIII]{.smallcaps}. [Tangopaso (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg){#fig:louvre-saintlouis .stretch}
 
 [Tangopaso (2016)]: https://commons.wikimedia.org/wiki/File:New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg
 
@@ -81,10 +81,10 @@ debaixo das sucessivas reconstruções do palácio
 
 * * * *
 
-Na primeira metade do século XVI, o rei Francisco I decide transformar o
+Na primeira metade do século [XVI]{.smallcaps}, o rei Francisco I decide transformar o
 antigo castelo do Louvre num palácio urbano inspirado no palácio real de
 Madri. Essa decisão dá a partida numa sequência de reconstruções e
-ampliações do quadrado original, que prossegue até o século XVII
+ampliações do quadrado original, que prossegue até o século [XVII]{.smallcaps}
 ([@Fig:louvre-remplace]).
 
 ::::::::::::::::::::::::::::: {.columns .r-stretch #fig:louvre-remplace}
@@ -104,7 +104,7 @@ Reconstrução e ampliação do Pátio Quadrado do Louvre. [Tangopaso (2017)][]
 
 O passo crucial nesse processo é a decisão de dobrar o comprimento de
 cada ala, no chamado *grande desígnio* do rei Henrique IV no início do
-século XVII. Essa transformação é, primeiro, representada num afresco de
+século [XVII]{.smallcaps}. Essa transformação é, primeiro, representada num afresco de
 Louis Poisson no castelo de Fontainebleau ([@Fig:louvre-poisson]). Essa
 pintura propõe, para a fachada exterior de cada ala, uma configuração
 típica dos castelos franceses inspirados no manuscrito de Serlio. Mais
@@ -159,7 +159,7 @@ Entretanto, o problema da fachada oriental do Louvre continua em aberto.
 O próprio Lemercier, poucos anos da sua morte em 1654, faz uma proposta,
 reproduzida no catálogo de *Arquitetura francesa* de Jean Marot
 ([@Fig:louvre-lemercier-orientale]). Esse projeto tem um caráter severo,
-ao gosto das primeiras décadas do século XVII.
+ao gosto das primeiras décadas do século [XVII]{.smallcaps}.
 
 ![Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. [Jean Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg){#fig:louvre-lemercier-orientale .stretch}
 
@@ -168,7 +168,7 @@ ao gosto das primeiras décadas do século XVII.
 * * * *
 
 Lemercier ([@Fig:lemercier-champaigne]) representa tanto o gosto
-estético quanto as relações profissionais do início do século XVII. Como
+estético quanto as relações profissionais do início do século [XVII]{.smallcaps}. Como
 "primeiro arquiteto do Rei", ele detém acesso privilegiado, às vezes
 direto, a Luís XIII ([@Fig:louisxiii-champaigne]). Nesse sistema, a
 representação arquitetônica do poder e do prestígio da Coroa emanam
@@ -223,7 +223,7 @@ centralizado, administrado por profissionais, indutor do desenvolvimento
 industrial e comercial, mas também do progresso científico e do
 prestígio cultural. Todos esses aspectos são indissociáveis uns dos
 outros na política mercantilista e absolutista da segunda metade do
-século XVII.
+século [XVII]{.smallcaps}.
 
 ![[Henri Testelin][], Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675--1680)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg){#fig:testelin .stretch}
 
@@ -287,7 +287,7 @@ públicas.
 Quanto à fachada do Louvre, Le Vau e todos os seus contemporâneos que
 ensaiaram propostas --- e foram muitos --- enfrentam um problema quase
 impossível de resolver: conciliar o gosto dominante na corte francesa da
-segunda metade do século XVII pela monumentalidade da arquitetura
+segunda metade do século [XVII]{.smallcaps} pela monumentalidade da arquitetura
 romana, com as suas ordens colossais, unidade horizontal, ênfase no
 andar nobre, coroamento horizontal e volumetria pronunciada na espessura
 das fachadas, com as características do Renascimento francês nas alas já
@@ -353,8 +353,8 @@ obra de Vitrúvio. Ao contrário de Le Vau, que detém um cargo de
 confiança perante o rei, os cargos de Colbert e Charles Perrault são o
 que se conhece no Antigo Regime como *venais*: posições "compradas" e
 (teoricamente) vitalícias. Isso pode parecer, aos nossos olhos do século
-XXI, um modo estranho e potencialmente corrupto de "profissionalizar" a
-administração do Estado. Mas, no século XVII, funcionando à margem dos
+[XXI]{.smallcaps}, um modo estranho e potencialmente corrupto de "profissionalizar" a
+administração do Estado. Mas, no século [XVII]{.smallcaps}, funcionando à margem dos
 privilégios jurídicos da nobreza e do absolutismo do rei, era um
 primeiro passo no sentido de uma relativa autonomia da burocracia
 estatal diante das pressões políticas.
@@ -464,7 +464,7 @@ A obra é ocasião de chamar a atenção para alguns feitos de engenharia,
 como o içamento das duas imensas cornijas monolíticas do frontão, por
 meio de um guindaste projetado por Claude Perrault. Essa conquista vira
 motivo para um debate que se intensifica na França do final do século
-XVII sobre os méritos relativos da Antiguidade e da modernidade --- um
+[XVII]{.smallcaps} sobre os méritos relativos da Antiguidade e da modernidade --- um
 episódio conhecido como Querela dos Antigos e dos Modernos.
 
 ![Colocação das cornijas inclinadas na fachada leste do Louvre. Gravura por [Sébastien Leclerc (1677)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg/1024px-Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg){#fig:louvre-pediment}
@@ -477,7 +477,7 @@ episódio conhecido como Querela dos Antigos e dos Modernos.
 
 Por fim, a resolução do projeto na famosa Colunata do Louvre tem
 consequências tanto para a orientação estética da arquitetura francesa
-do final do século XVII até meados do século XVIII, quanto para a
+do final do século [XVII]{.smallcaps} até meados do século [XVIII]{.smallcaps}, quanto para a
 definição da profissão de arquiteto.
 
 ![Fachada oriental do Louvre, projeto "definitivo" (construído com alterações). Publicado na [Enciclopédia (1762)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg/1018px-Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg){#fig:colonnade-encyclopedie}
@@ -507,3 +507,5 @@ definição da profissão de arquiteto.
 # Ensino formal na Académie royale d'Architecture #
 
 - Prix de Rome
+
+# Bibliografia # {.allowframebreaks .unlisted}

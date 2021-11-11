@@ -26,7 +26,7 @@ tempo. A configuração atual das cinco ordens clássicas e os
 procedimentos de desenho arquitetônico dominantes hoje em dia --- seja
 no classicismo, seja no modernismo --- são resultado de um processo de
 codificação da arquitetura clássica que ocorre, sobretudo, nos séculos
-XVI e XVII.
+[XVI]{.smallcaps} e [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Perspectiva e projeção ortográfica ##
@@ -233,7 +233,7 @@ Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
 batistério de Florença ([@fig:battistero-nord]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Batistério de San Giovanni, Florença, século XII. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG){#fig:battistero-nord .stretch}
+![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG){#fig:battistero-nord .stretch}
 
 * * * *
 
@@ -433,4 +433,6 @@ Gianfranco Caniggia e Gian Luigi Maffei, *Lettura dell'edilizia di base*, 1979
 ## Permutações ##
 
 ## Dos *Quatro Livros* a Scamozzi ##
+
+# Bibliografia # {.allowframebreaks .unlisted}
 

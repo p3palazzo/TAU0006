@@ -10,7 +10,7 @@ Boas-vindas
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Esta é a Turma C da disciplina História da Arquitetura e da Arte
-II. Vamos acompanhar vocês num percurso que vai do século XV ao XVIII.
+II. Vamos acompanhar vocês num percurso que vai do século [XV]{.smallcaps} ao [XVIII]{.smallcaps}.
 Começamos falando um pouco sobre como a disciplina vai ser desenvolvida
 este semestre --- se você está com dúvidas sobre o funcionamento das
 aulas e das avaliações, ou mesmo sobre o acesso às plataformas digitais,
@@ -93,7 +93,7 @@ Neste primeiro semestre de 2020, toda a disciplina vai ser realizada com
 distanciamento social, por motivos de: P E S T E (a propósito, esse
 "uniforme" de médico europeu, que alguns de vocês já devem ter visto
 associado à história das epidemias de peste, foi inventado no século
-XVII, bem no meio do período que vamos estudar).
+[XVII]{.smallcaps}, bem no meio do período que vamos estudar).
 
 O ensino *remoto* é uma adaptação de emergência do conteúdo que sempre
 ofertamos presencialmente. Essa adaptação tem sido um desafio para todos
@@ -503,8 +503,7 @@ Explorem o ambiente virtual, e nos vemos na quinta-feira. Até lá.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-Referências
-===========
+# Bibliografia # {.allowframebreaks .unlisted}
 
 [Aprender 3]: https://aprender3.unb.br
 
