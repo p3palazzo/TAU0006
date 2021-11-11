@@ -28,6 +28,9 @@ jobs:
       with:
         ref : 'gh-pages'
         submodules: 'recursive'
+    - name: Clear previous site
+      run: |
+        cd ${{ github.workspace }} && rm -r *
     - name: Download site
       uses: actions/download-artifact@v2
       with:
@@ -40,5 +43,5 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}" -a || git status
-        git pull --ff-only
+        git pull --rebase
         git push
