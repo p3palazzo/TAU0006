@@ -5,7 +5,6 @@ fontsize: 11pt
 header-includes:
   - \usepackage{csquotes}
 indent  : true
-layout  : page
 nocite  : "@*"
 suppress-bibliography: true
 abstract: |

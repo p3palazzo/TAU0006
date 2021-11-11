@@ -1,7 +1,6 @@
 ---
 title   : "Clássico Anticlássico"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Três momentos na reconstrução do classicismo
   -- Terceiro: articulação do espaço em Bramante e Rafael

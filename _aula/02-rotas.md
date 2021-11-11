@@ -92,7 +92,7 @@ comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
 [XVII]{.smallcaps} e [XIX]{.smallcaps}, quando os colonizadores europeus segregaram as cidades
 malaias em bairros ocidentais, chineses e "nativos".
 
-![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers .marginnote} 
+![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers .align-right} 
 
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior
@@ -151,9 +151,9 @@ firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 
 ## {.unlisted}
 
-![*Pura* de Trowulan, século [XIV]{.smallcaps}. Hall, 1996, 99 ↑](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan .marginnote}
+![*Pura* de Trowulan, século [XIV]{.smallcaps}. Hall, 1996, 99 ](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan .align-right}
 
-![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século [XIV]{.smallcaps}. Hall, 1996, 97 ←](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java}
+![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século [XIV]{.smallcaps}. Hall, 1996, 97 ](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java}
 
 Partindo do *kampung* como unidade social e urbanística *de base*, os
 estados malaios organizam o território em redes de poder político e

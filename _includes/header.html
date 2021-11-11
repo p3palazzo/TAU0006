@@ -2,15 +2,35 @@
   <header>
     <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle -%}
-      <p class="subtitle">{{ page.subtitle }}</p>
+      <p class="subtitle">{{ page.subtitle }} {% if page.item %}{{ page.item | prepend: " · " }}{%- endif -%}</p>
     {%- endif %}
+    {%- if page.author %}
     <p class="byline"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
       <span class="p-author h-card" itemprop="name">
-        {%- if page.author -%}{{ page.author }}{%- else -%}{{ site.author }}{%- endif -%}
+        {{ page.author }}
       </span></span>
     </p>
-    {%if page.abstract -%}
-      <div class="epigraph"><blockquote>{{ page.abstract }}</blockquote></div>
-    {%- endif %}
+    {% endif -%}
+    {%- if page.abstract %}
+      <div class="epigraph">
+        <blockquote>
+          <p>
+            {{ page.abstract | markdownify }}
+          </p>
+        </blockquote>
+      </div>
+    {% endif -%}
+    {%- if page.toc %}
+      <div class="epigraph">
+        <blockquote>
+          <p>
+            {% for topic in page.toc -%}
+              <a href="#{{ topic | downcase | replace: ' ', '-' | remove: ':' | remove: ',' }}">{{ topic }}</a>
+              {% unless forloop.last %} &mdash; {% endunless %}
+            {%- endfor %}
+          </p>
+        </blockquote>
+      </div>
+    {% endif -%}
   </header>
-{%- endif %}
+{% endif %}

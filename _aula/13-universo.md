@@ -1,7 +1,6 @@
 ---
 title   : "Universo em expansão"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Antiquarismo e história da arte | 605--609
   -- Lodoli, Milizia, Piranesi e o "neo" classicismo

@@ -1,6 +1,5 @@
 ---
 title: Resenha e discussão de texto
-layout: page
 ---
 
 # Ementa #

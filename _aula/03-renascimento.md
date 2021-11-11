@@ -1,7 +1,6 @@
 ---
 title   : "Renascimento e historiografia"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Perspectiva e espaço arquitetônico | 474--490
   -- História da arquitetura como história da construção

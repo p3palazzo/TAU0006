@@ -1,7 +1,6 @@
 ---
 title   : "Barroco e classicismo"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   Da tipologia espacial ao projeto geométrico
   – Espaços urbanos e rurais da colonização

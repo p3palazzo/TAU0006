@@ -1,7 +1,6 @@
 ---
 title: "Caráter"
 subtitle: "Trabalho III"
-layout: page
 ---
 
 # Ementa #

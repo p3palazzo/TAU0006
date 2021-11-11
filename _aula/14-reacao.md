@@ -1,7 +1,6 @@
 ---
 title   : "Reação clássica"
 author  : "Pedro P. Palazzo e Sylvia Ficher"
-layout: aula
 abstract: |
   -- Tradição, correção e inovação como problemas da crítica
   -- Arquitetura dos engenheiros

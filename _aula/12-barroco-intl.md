@@ -1,7 +1,6 @@
 ---
 title   : "Barroco internacional"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Presságios: arquitetura e razão na França e Inglaterra | 580--581, 599--604
   -- Virtuosismo construtivo na Europa e na Ásia | 598

@@ -1,7 +1,6 @@
 ---
 title   : "Arquitetura acadêmica"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573
@@ -495,7 +494,7 @@ definição da profissão de arquiteto.
 
 ## {.unlisted}
 
-- Renascimento → Conceito de "artes do desenho"
+- Renascimento  Conceito de "artes do desenho"
 - Poussin vs. Rubens: Roger de Piles
 
 # Academias e a redefinição do ofício da arquitetura #

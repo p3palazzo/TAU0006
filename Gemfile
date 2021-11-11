@@ -1,27 +1,21 @@
 source "https://rubygems.org"
-# Downgrade Jekyll from 4.2.0 to 3.8.5, Jekyll-feed from 0.12 to 0.11,
-# remove gem "sassc" and gem "stringex" if using gem "github-pages"
-# See https://stackoverflow.com/questions/58598084/how-does-one-downgrade-jekyll-to-work-with-github-pages
-gem "jekyll", "~> 4.2.0"
-gem "tufte-pandoc-jekyll"
-# Gem required by Ruby 3
-gem "webrick"
-#gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.2"
+gem "minimal-mistakes-jekyll", "~> 4.24"
+gem "bibtex-ruby"
+gem "sassc"
+gem "stringex"
+gem "webrick" #required by ruby 3.0
 group :jekyll_plugins do
+  gem "jekyll-data"
   gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
+  gem "jekyll-gist"
+  gem "jekyll-include-cache"
+  #gem "jekyll-paginate"
   gem "jekyll-pandoc"
-  # Sassc is preferred to the legacy ruby-sass
-  gem "sassc"
-  # Required GitHub Pages plugins below
-  gem "jekyll-coffeescript"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-paginate"
-  gem "jekyll-readme-index"
   gem "jekyll-relative-links"
-  # Gems required by Jekyll 4
-  gem "stringex"
+  gem "jekyll-scholar"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

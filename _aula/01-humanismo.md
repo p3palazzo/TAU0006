@@ -22,13 +22,13 @@ arquitetura *correta* herdada da Antiguidade.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg"}
 
-![↑ Detalhe do rolo pintado do palácio, [Pequim, século XV
+![ Detalhe do rolo pintado do palácio, [Pequim, século XV
 ](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .marginnote}
+](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .align-right}
 
 ## {data-background-image="https://i.pinimg.com/originals/44/ad/da/44adda4c28cfc9a7a6cd7f43d1ebdc34.jpg"}
 
-![← Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
+![ Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
 Desenho: [Cigoli, 1613
 ](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png#Licenciamento)
 ](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png){#fig:smfiore}
@@ -285,7 +285,7 @@ circulação mundial na Antiguidade foi usado para sustentar teses
 colonialistas, de que certos povos não seriam capazes de desenvolver uma
 arquitetura monumental sem ajuda externa ([@fig:aliens]).
 
-![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens .marginnote .stretch}
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens .align-right .stretch}
 
 ## {data-background-image="https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg"}
 

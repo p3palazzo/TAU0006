@@ -1,7 +1,6 @@
 ---
 title   : "Análise urbana"
 subtitle: "Trabalho I"
-layout: page
 ---
 
 # Ementa #

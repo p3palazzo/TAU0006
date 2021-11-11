@@ -1,7 +1,6 @@
 ---
 title: "Roteiro para análise urbana"
 author: "Ricardo Trevisan (modificado por Pedro Paulo Palazzo)"
-layout: page
 ---
 
 Roteiro para análise urbana

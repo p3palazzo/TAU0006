@@ -1,7 +1,6 @@
 ---
 title   : "Análise de composição"
 subtitle: "Trabalho II"
-layout: page
 ---
 
 # Ementa #

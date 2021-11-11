@@ -1,7 +1,6 @@
 ---
 title   : "Teoria do classicismo"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Gramática e vocabulário da arquitetura clássica | Summerson 17--37
   -- Compor espaços e articular superfícies

@@ -1,7 +1,6 @@
 ---
 title   : "Cidades ideais e cidades possíveis"
 author  : "Pedro P. Palazzo"
-layout: aula
 abstract: |
   -- Vilas novas em Portugal e *jōkamachi* no Japão | 501--519, 562
   -- Traçados reguladores: *chahār-bāgh* e quincúncia | 520--536
@@ -250,7 +249,7 @@ agrícolas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - Vilas de fundação em Portugal e na Índia e América portuguesas.
-- São Jorge da Mina → Fortificação
+- São Jorge da Mina  Fortificação
 - Mazagão
 - Goa, Damão e Diu
 - Malacca
