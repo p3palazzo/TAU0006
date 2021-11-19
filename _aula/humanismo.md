@@ -1,11 +1,14 @@
 ---
 title   : "Arquitetura do humanismo"
-author  : "Pedro P. Palazzo"
-abstract: |
-  Introdução à arquitetura da Idade Moderna
-  – Arquitetura clássica entre a prática e a teoria
-  – Problemas de historiografia e crítica
-  – Construção tradicional
+subtitle: "Redes urbanas na fundação do mundo moderno"
+item    : "I"
+author  : Pedro P. Palazzo
+date    : 2022-01-18
+toc:
+  - Introdução à arquitetura da Idade Moderna
+  - Arquitetura clássica entre a prática e a teoria
+  - Problemas de historiografia e crítica
+  - Construção tradicional
 ---
 
 # Introdução à arquitetura da Idade Moderna #
@@ -93,6 +96,8 @@ partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
 
 ![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
 
+<!--_,-->
+
 Nos dois casos, o desenvolvimento de
 técnicas espaciais vem associado a uma discussão sobre o lugar dos
 conhecimentos artísticos e arquitetônicos no campo dos saberes
@@ -100,7 +105,7 @@ conhecimentos artísticos e arquitetônicos no campo dos saberes
 arquiteto numa sociedade letrada e no contexto das chamadas *artes
 liberais*.
 
-## {.unlisted}
+##
 
 . . .
 
@@ -114,7 +119,7 @@ liberais*.
   mundo formulada pelo conhecimento intelectual, mas também pelo poder
   político.
 
-## {.unlisted}
+##
 
 Com o Renascimento, a distinção entre *artes liberais* --- os produtos
 do raciocínio lógico e da retórica, como História, Geometria, Música e
@@ -122,7 +127,7 @@ Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
 que nós hoje consideramos como *artísticas* --- vai então sendo
 questionada e reformulada.
 
-## {.unlisted}
+##
 
 <!--Câmera-->
 [Na Ásia oriental e na Europa ocidental,]{.newthought}
@@ -134,7 +139,7 @@ visuais em geral e a arquitetura em particular se consolidam como um
 herdada da cultura clássica [@choay:1986regra].
 <!--/Câmera-->
 
-## {.unlisted}
+##
 
 A China sai em vantagem com o [*Yingzao
 fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
@@ -171,6 +176,8 @@ gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquit
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
+
+<!--_,-->
 
 Se o domínio global do espaço é a preocupação dominante das artes
 visuais e da arquitetura do século [XV]{.smallcaps} em diante, a cidade é onde esse
@@ -211,6 +218,8 @@ urbanas muito variadas.
 
 # Mundos conectados no início do século [XIV]{.smallcaps} #
 
+##
+
 A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
 relações de poder em escala mundial, com a expansão europeia dos séculos
@@ -243,7 +252,7 @@ Eccles, 2008
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
 costa da América do Sul no século
@@ -255,7 +264,9 @@ doce e ervas medicinais.
 ](https://doi.org/10.1371/journal.pone.0035026)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png){width=100%}
 
-## {.unlisted}
+<!--_,-->
+
+##
 
 Um dos primeiros manuais de história da arquitetura a incluir a América
 precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
@@ -275,7 +286,7 @@ sendo capazes de criar arquitetura monumental.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 [Por causa de interpretações como essa,]{.newthought}
 a ideia de um mundo antigo e
@@ -303,7 +314,7 @@ comercial do mundo no início da Idade Moderna.
 
 !["Árvore" tecnológica linear no jogo *Civilization VI*](https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg){#fig:civ6 .fullwidth}
 
-## {.unlisted}
+##
 
 Nas redes globais do século [XIV]{.smallcaps} em diante, o oceano Índico ocupa um
 lugar privilegiado como articulador de trocas econômicas, culturais e
@@ -323,9 +334,11 @@ muçulmanos.
 :::
 ::::::
 
-## {.unlisted}
+##
 
 ![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
+
+<!--_,-->
 
 [Uma combinação de mudanças climáticas,]{.newthought}
 pandemias e reestruturações
@@ -355,5 +368,5 @@ necessidades funcionais do comércio e às condições geográficas e
 climáticas onde elas se desenvolvem.
 <!--/Câmera-->
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Bibliografia # {- .allowframebreaks .unlisted}
 

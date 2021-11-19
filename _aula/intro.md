@@ -1,7 +1,7 @@
 ---
 title   : "Apresentação e acolhimento"
-subtitle: "História da Arquitetura e da Arte II › 2.º/2020 › Turma C"
-author  : 'Pedro P. Palazzo'
+subtitle: "Introdução à disciplina"
+author  : Pedro P. Palazzo
 ---
 
 Boas-vindas
