@@ -1925,6 +1925,28 @@ references:
   URL: http://www.jstor.org/stable/20061696
   volume: '34'
 
+- id: derfel73:2011thirteenth
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: Transferido de en.wikipedia para a wiki Commons por SreeBot.
+  author:
+    - literal: Derfel73
+  issued:
+    - year: 2011
+      month: 7
+      day: 3
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Thirteenth century globalization according to the world-system theory; based
+    on the Janet Abu-Lughod Before European Hegemony: The World System A.D.
+    1250–1350 and the File:WorldMap.svg
+  title-short: Thirteenth century globalization according to the world-system theory
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg
+
 - id: derntl:2004
   abstract: >-
     Este trabalho trata de duas praças - Place des Vosges, em Paris e Covent
@@ -7799,6 +7821,41 @@ references:
   type: chapter
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781107110274%23c04652-4-1/type/book_part
+
+- id: zolberg:2013remembering
+  abstract: >-
+    Twenty-thirteen is a sad year for the social sciences and history. With the
+    death of Janet Lippman Abu-Lughod (b. 1928) last Saturday, the best of
+    academic learning has suffered another blow. Her passing joins the recent
+    loss of her New School colleagues Eric Hobsbawm, Aristide Zolberg and
+    Charles Tilly. Each in his way enriched the historically oriented social
+    study of the modern world. Among them, known for their dedication to
+    intellectual excellence, as well as versatility and originality, Abu-Lughod
+    distinguished herself as a very rare scholar who could range across
+    centuries and continents, from the thirteenth century to the current moment,
+    from the North Africa and the Middle East to Central Asia and North America.
+    She was to the end a Chicago School urbanist whose methodological approach
+    combined a unique ability to expand its scope into comparative studies that
+    brought a needed political dimension. Upon her arrival to the New School for
+    Social Research in 1987, she had already achieved a phenomenal output of
+    well over a hundred articles and more than thirteen books......Read More
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  author:
+    - family: Zolberg
+      given: Vera
+  container-title: Public Seminar
+  issued:
+    - year: 2013
+      month: 12
+      day: 18
+  language: en-US
+  source: publicseminar.org
+  title: Remembering Janet Lippman Abu-Lughod
+  type: webpage
+  URL: https://publicseminar.org/2013/12/remembering-janet-lippman-abu-lughod/
 
 - id: zucker:1970town
   author:

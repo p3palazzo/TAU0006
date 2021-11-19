@@ -9,6 +9,7 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -202,7 +203,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: kramdown
+  input: GFM
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -213,7 +214,6 @@ kramdown:
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
-    - bibliography: "_data/biblio.yaml"
     - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
     - section-divs
     #- toc
@@ -221,11 +221,6 @@ pandoc:
 relative_links:
   enabled: true
   collections: true
-scholar:
-  locale: pt-BR
-  sort_by: author,editor,year
-  order: ascending,ascending,descending
-  style: "chicago-fullnote-bibliography-with-ibid"
 
 
 # Sass/SCSS
@@ -244,18 +239,20 @@ date_format: "%d/%m/%Y"
 
 # Plugins (previously gems:)
 plugins:
+  #- jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
   - jekyll-pandoc
   - jekyll-relative-links
-  - jekyll-scholar
   - jekyll-seo-tag
   - jekyll-sitemap
 
 # mimic GitHub Pages with --safe
 whitelist:
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
