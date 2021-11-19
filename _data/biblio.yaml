@@ -13,12 +13,14 @@ references:
   ISBN: 978-0-19-506774-3
   issued:
     - year: 1989
-  language: eng
+  language: en
   number-of-pages: '443'
   publisher: Oxford University Press
   publisher-place: 'New York : Oxford'
   source: Gemeinsamer Bibliotheksverbund ISBN
-  title: 'Before European hegemony: the world system A. D. 1250 - 1350'
+  title: >-
+    Before European hegemony: the world system <span
+    class="smallcaps">A.D.</span> 1250 - 1350
   title-short: Before European hegemony
   type: book
   URL: http://archive.org/details/beforeeuropeanhe00abul_1
@@ -30,7 +32,7 @@ references:
   event-place: New York
   issued:
     - year: 1961
-  language: English
+  language: en-US
   publisher: Viking
   publisher-place: New York
   source: Open WorldCat
@@ -51,7 +53,7 @@ references:
   issue: '3'
   issued:
     - year: 1962
-  language: English
+  language: en-US
   page: 227-237
   source: JSTOR
   title: A theory of style
@@ -86,6 +88,7 @@ references:
   issue: '1'
   issued:
     - year: 1983
+  language: en-US
   page: 15–34
   source: JSTOR
   title: >-
@@ -104,7 +107,7 @@ references:
   event-place: Chicago
   issued:
     - year: 1986
-  language: English
+  language: en-US
   publisher: University of Chicago Press
   publisher-place: Chicago
   source: Open WorldCat
@@ -126,7 +129,7 @@ references:
   event-place: Paris
   issued:
     - year: 1512
-  language: Latin
+  language: la
   number-of-pages: '381'
   publisher: >-
     in Sole aureo vici Sancti Iacobi [Berthold Rembolt]. Et in intersignio trium
@@ -168,7 +171,7 @@ references:
   issue: '28'
   issued:
     - year: 2005
-  language: English
+  language: en
   page: 58-74
   source: JSTOR
   title: >-
@@ -193,6 +196,7 @@ references:
   issue: '2'
   issued:
     - year: 1981
+  language: en
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
@@ -211,7 +215,7 @@ references:
   event-place: Buenos Aires
   issued:
     - year: 1973
-  language: Spanish
+  language: es-AR
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -235,7 +239,7 @@ references:
   issued:
     - year: 1983
       month: 11
-  language: Spanish
+  language: es-ES
   page: 2-14
   title: Tipología
   type: article-journal
@@ -249,7 +253,7 @@ references:
   ISBN: 978-85-336-0927-3
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -269,7 +273,7 @@ references:
   ISBN: 978-85-7164-833-3
   issued:
     - year: 1999
-  language: Portuguese
+  language: pt-BR
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Open WorldCat
@@ -287,7 +291,7 @@ references:
   ISBN: 85-359-0579-0
   issued:
     - year: 2004
-  language: Portuguese
+  language: pt-BR
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Open WorldCat
@@ -319,7 +323,7 @@ references:
     - year: 2013
       month: 4
       day: 15
-  language: English
+  language: en-GB
   number-of-pages: '316'
   publisher: Routledge
   source: Google Books
@@ -339,7 +343,7 @@ references:
   ISBN: 978-1-4443-3851-5
   issued:
     - year: 2017
-  language: English
+  language: en-US
   page: 15.1–15.29
   publisher: 'Wiley : Blackwell'
   publisher-place: Chichester, West Sussex ; Malden, Mass.
@@ -379,7 +383,7 @@ references:
   issue: '190'
   issued:
     - year: 2009
-  language: English
+  language: en-ZA
   page: 148-155
   source: Scopus
   title: >-
@@ -415,7 +419,7 @@ references:
   issue: '2'
   issued:
     - year: 2007
-  language: English
+  language: en-GB
   page: 296-316
   publisher: Cambridge University Press
   source: JSTOR
@@ -432,8 +436,8 @@ references:
   ISBN: 978-85-232-0995-7
   issued:
     - year: 2012
-  language: Portuguese
-  publisher: 'EDUFBA : PPGAU'
+  language: pt-BR
+  publisher: '<span class="smallcaps">EDUFBA : PPGAU</span>'
   publisher-place: Salvador
   source: Open WorldCat
   title: Teoria do Barroco
@@ -447,7 +451,7 @@ references:
   ISBN: 978-0-691-00186-9
   issued:
     - year: 1999
-  language: French
+  language: en-US
   publisher: Princeton Architectural Press
   publisher-place: Princeton
   source: Open WorldCat
@@ -480,7 +484,7 @@ references:
     - year: 2015
       month: 1
       day: 7
-  language: English
+  language: en-GB
   number: '1'
   page: Art. 2
   publisher: Ubiquity Press
@@ -503,7 +507,7 @@ references:
   issue: '35'
   issued:
     - year: 1998
-  language: English
+  language: en-US
   page: 7-17
   source: JSTOR
   title: >-
@@ -520,7 +524,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1969
-  language: Portuguese
+  language: pt-PT
   publisher: Bertrand
   publisher-place: Lisboa
   source: Open WorldCat
@@ -534,7 +538,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1989
-  language: Portuguese
+  language: pt-BR
   number-of-pages: '545'
   publisher: Martins Fontes
   publisher-place: São Paulo
@@ -554,7 +558,7 @@ references:
   ISBN: 978-0-500-20018-6
   issued:
     - year: 2010
-  language: Portuguese
+  language: pt-BR
   publisher: WMF Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -571,7 +575,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1972
-  language: Portuguese
+  language: pt-BR
   publisher: Mestre Jou
   publisher-place: São Paulo
   source: Open WorldCat
@@ -617,7 +621,7 @@ references:
   issued:
     - year: 2015
       month: 6
-  language: English
+  language: en-GB
   page: 59-75
   source: Zotero
   title: >-
@@ -649,7 +653,7 @@ references:
     - year: 2012
       month: 12
       day: 1
-  language: English
+  language: en
   publisher: 'SAGE PublicationsSage UK: London, England'
   source: journals.sagepub.com
   title: >-
@@ -667,7 +671,7 @@ references:
   event-place: University Park, Penn.
   issued:
     - year: 1993
-  language: English
+  language: en-US
   publisher: Pennsylvania State University Press
   publisher-place: University Park, Penn.
   title: 'The Palace of the Sun: The Louvre of Louis XIV'
@@ -729,7 +733,7 @@ references:
     - year: 1990
       month: 1
       day: 1
-  language: English
+  language: en
   page: 9-21
   source: JSTOR
   title: Jan Białostocki, Formalism, and Iconology
@@ -752,7 +756,7 @@ references:
   issue: '2'
   issued:
     - year: 1961
-  language: German
+  language: de-DE
   page: '128'
   source: DOI.org (Crossref)
   title: >-
@@ -793,7 +797,7 @@ references:
   event-place: Paris
   issued:
     - year: 1698
-  language: French
+  language: fr-FR
   number-of-pages: '519'
   publisher: Chez l'auteur
   publisher-place: Paris
@@ -833,7 +837,7 @@ references:
   event-place: Paris
   issued:
     - year: 1698
-  language: French
+  language: fr-FR
   number-of-pages: '513'
   publisher: Chez l'auteur
   publisher-place: Paris
@@ -858,7 +862,7 @@ references:
   event-place: Paris
   issued:
     - year: 1737
-  language: French
+  language: fr-FR
   publisher: Charles-Antoine Jombert
   publisher-place: Paris
   source: www.e-rara.ch
@@ -888,7 +892,7 @@ references:
   event-place: Paris
   issued:
     - year: 1752
-  language: French
+  language: fr-FR
   number-of-volumes: '4'
   publisher: Charles-Antoine Jombert
   publisher-place: Paris
@@ -910,7 +914,7 @@ references:
   issue: '1'
   issued:
     - year: 1944
-  language: English
+  language: en-US
   page: 22-33
   source: JSTOR
   title: Russian City Planning of the 18th and Early 19th Centuries
@@ -926,7 +930,7 @@ references:
   issue: 3/4
   issued:
     - year: 1958
-  language: English
+  language: en-US
   page: 256–287
   title: >-
     The Palazzo Barberini: The Contributions of Maderno, Bernini and Pietro da
@@ -945,7 +949,7 @@ references:
   event-place: Ware, Hertfordshire
   issued:
     - year: 1988
-  language: English
+  language: en-GB
   publisher: Wordsworth
   publisher-place: Ware, Hertfordshire
   source: Open WorldCat
@@ -973,7 +977,7 @@ references:
   ISBN: 978-0-300-07735-3
   issued:
     - year: 1999
-  language: English
+  language: en-US
   publisher: Yale University Press
   publisher-place: New Haven
   source: Open WorldCat
@@ -987,9 +991,9 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1963
-  language: Portuguese
+  language: pt-BR
   number-of-volumes: '5'
-  publisher: Escola de Arquitetura da U.M.G.
+  publisher: Escola de Arquitetura da <span class="smallcaps">U.M.G.</span>
   publisher-place: Belo Horizonte
   source: Open WorldCat
   title: História da arquitetura
@@ -1003,7 +1007,7 @@ references:
   issue: '4'
   issued:
     - year: 1975
-  language: French
+  language: fr-FR
   page: 773–818
   title: >-
     Tissu urbain et architecture. L’analyse parcellaire comme base de l’histoire
@@ -1023,7 +1027,7 @@ references:
   event-place: London
   issued:
     - year: 1819
-  language: English
+  language: en-GB
   number-of-pages: '568'
   publisher: J. Murray
   publisher-place: London
@@ -1064,7 +1068,7 @@ references:
   issued:
     - year: 1999
       month: 5
-  language: English
+  language: en-US
   page: 207–215
   source: JSTOR
   title: >-
@@ -1083,7 +1087,7 @@ references:
   ISBN: 978-85-359-1096-4
   issued:
     - year: 2007
-  language: Portuguese
+  language: pt-BR
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1107,7 +1111,7 @@ references:
   issue: '2'
   issued:
     - year: 1934
-  language: English
+  language: en
   page: 91-119
   source: JSTOR
   title: The Tendency Toward Platonism in Neo-Classical Esthetics
@@ -1124,7 +1128,7 @@ references:
   ISBN: 978-2-213-67111-6
   issued:
     - year: 2016
-  language: French
+  language: fr-FR
   number-of-pages: '444'
   number-of-volumes: '3'
   publisher: Fayard Louvre éditions
@@ -1147,7 +1151,7 @@ references:
   issue: '131'
   issued:
     - year: 1991
-  language: English
+  language: en
   page: 38-88
   source: JSTOR
   title: The Académie Royale des Sciences and the Pursuit of Utility
@@ -1162,6 +1166,7 @@ references:
   issue: '2'
   issued:
     - year: 1982
+  language: en
   page: 379-404
   title: 'The Classic Is the Baroque: On the Principle of Wölfflin’s Art History'
   type: article-journal
@@ -1184,10 +1189,12 @@ references:
     - year: 1964
       month: 4
       day: 1
-  language: English
+  language: en-US
   page: 303-313
   source: JSTOR
-  title: 'The Baroque S-T-O-R-M: A Study in the Limits of the Culture-Epoch Theory'
+  title: >-
+    The Baroque <span class="smallcaps">S-T-O-R-M</span>: A Study in the Limits
+    of the Culture-Epoch Theory
   title-short: The Baroque S-T-O-R-M
   type: article-journal
   URL: http://www.jstor.org/stable/427234
@@ -1201,7 +1208,7 @@ references:
   ISBN: 978-0-300-05153-7
   issued:
     - year: 1994
-  language: Portuguese
+  language: pt-BR
   publisher: J. Zahar
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1217,7 +1224,7 @@ references:
   ISBN: 978-85-378-0143-7
   issued:
     - year: 2009
-  language: Portuguese
+  language: pt-BR
   publisher: J. Zahar
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1254,7 +1261,7 @@ references:
   issued:
     - year: 2010
       month: 12
-  language: English
+  language: en
   page: 434-451
   publisher: Cambridge University Press
   source: Cambridge University Press
@@ -1285,7 +1292,7 @@ references:
   issued:
     - year: 1715
     - year: 1771
-  language: English
+  language: en-GB
   number-of-volumes: '5'
   publisher: J. Taylor at the Architectural Library
   publisher-place: London
@@ -1318,7 +1325,7 @@ references:
   issue: '2'
   issued:
     - year: 2001
-  language: English
+  language: en-GB
   page: 240-258
   source: JSTOR
   title: 'The City''s New Clothes: Ambrogio Lorenzetti and the Poetics of Peace'
@@ -1355,7 +1362,7 @@ references:
     - year: 2002
       month: 12
       day: 1
-  language: English
+  language: en-GB
   page: 596-620
   source: JSTOR
   title: >-
@@ -1401,7 +1408,7 @@ references:
   ISBN: 978-88-8125-191-9
   issued:
     - year: 1997
-  language: Italian
+  language: it
   original-date:
     - year: 1981
   page: 9–46
@@ -1450,7 +1457,7 @@ references:
   ISBN: 978-0-415-53492-5
   issued:
     - year: 2016
-  language: English
+  language: en-US
   number-of-pages: '526'
   publisher: Routledge
   publisher-place: New York
@@ -1489,7 +1496,7 @@ references:
   ISBN: 978-0-262-26991-9
   issued:
     - year: 2001
-  language: English
+  language: en-US
   source: Open WorldCat
   title: >-
     Architecture in the age of printing: orality, writing, typography, and
@@ -1513,7 +1520,7 @@ references:
   issued:
     - year: 2003
       month: 12
-  language: English
+  language: en-US
   page: 448-469
   source: Crossref
   title: >-
@@ -1553,7 +1560,7 @@ references:
   issue: '2'
   issued:
     - year: 1993
-  language: English
+  language: en-US
   page: 179-188
   source: JSTOR
   title: >-
@@ -1594,7 +1601,7 @@ references:
     - year: 2014
       month: 3
       day: 1
-  language: French
+  language: fr-FR
   page: 13-35
   source: journals.openedition.org
   title: Saverio Muratori (1910-1973). La ville comme seul modèle
@@ -1609,7 +1616,7 @@ references:
   ISBN: 978-0-7007-1113-0
   issued:
     - year: 1998
-  language: English
+  language: en-US
   number-of-pages: '212'
   publisher: Curzon
   publisher-place: Richmond
@@ -1625,7 +1632,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   number-of-pages: '399'
   publisher: Martins Fontes
   publisher-place: São Paulo
@@ -1655,7 +1662,7 @@ references:
   ISBN: 978-0-470-40257-3
   issued:
     - year: 2011
-  language: English
+  language: en-US
   number-of-pages: '848'
   publisher: Wiley
   publisher-place: Hoboken, N.J
@@ -1688,7 +1695,7 @@ references:
     - year: 2016
       month: 4
       day: 20
-  language: Portuguese
+  language: pt-BR
   publisher: Senac São Paulo
   publisher-place: São Paulo
   source: Amazon
@@ -1707,7 +1714,7 @@ references:
   ISBN: 978-0-7506-6124-9
   issued:
     - year: 2005
-  language: English
+  language: en-GB
   number-of-pages: '228'
   publisher: Architectural Press
   publisher-place: Amsterdam
@@ -1722,7 +1729,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1986
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1737,7 +1744,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: French
+  language: fr-FR
   number-of-volumes: '2'
   publisher: Gauthier-Villars
   publisher-place: Paris
@@ -1751,7 +1758,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: French
+  language: fr-FR
   publisher: Gauthier-Villars
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -1766,7 +1773,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: French
+  language: fr-FR
   publisher: Gauthier-Villars
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -1774,7 +1781,7 @@ references:
   URL: https://gallica.bnf.fr/ark:/12148/bpt6k6584016q
   volume: '2'
 
-- id: chuecagoitia:1977breve
+- id: chueca:1977breve
   author:
     - family: Chueca Goitia
       given: Fernando
@@ -1783,7 +1790,7 @@ references:
   ISBN: 978-84-206-3519-4
   issued:
     - year: 1977
-  language: Spanish
+  language: es-ES
   publisher: Alianza
   publisher-place: Madrid
   source: Open WorldCat
@@ -1804,7 +1811,7 @@ references:
   issue: '1'
   issued:
     - year: 1968
-  language: English
+  language: en-US
   page: 33-38
   source: JSTOR
   title: The after-Life of Vitruvius in the Middle Ages
@@ -1825,7 +1832,7 @@ references:
   ISBN: 978-0-521-83823-8
   issued:
     - year: 2010
-  language: English
+  language: en-GB
   number-of-pages: '6'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -1841,7 +1848,7 @@ references:
   ISBN: 978-85-230-0579-5
   issued:
     - year: 2000
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -1861,8 +1868,8 @@ references:
   ISBN: 978-972-24-1140-0
   issued:
     - year: 2001
-  language: Portuguese
-  publisher: 'Horizonte : Faculdade de Arquitectura, UTL'
+  language: pt-PT
+  publisher: 'Horizonte : Faculdade de Arquitectura, <span class="smallcaps">UTL</span>'
   publisher-place: Lisboa
   source: Open WorldCat
   title: 'O triunfo da virtude: as origens do desenho arquitectónico'
@@ -1881,7 +1888,7 @@ references:
   issue: '1'
   issued:
     - year: 1982
-  language: English
+  language: en-US
   page: 24-25
   source: JSTOR
   title: Principles of classical composition in architecture and urban design
@@ -1906,6 +1913,7 @@ references:
     - year: 2003
       month: 12
       day: 1
+  language: en
   page: 1184-1185
   source: JSTOR
   title: >-
@@ -1941,7 +1949,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2004
-  language: Portuguese
+  language: pt-BR
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
@@ -1977,7 +1985,7 @@ references:
   issued:
     - year: 2006
       month: 12
-  language: Portuguese
+  language: pt-BR
   page: 140–157
   title: >-
     O início da história de duas praças do século 17: a Place des Vosges, em
@@ -2056,7 +2064,7 @@ references:
   genre: Tese (Doutoramento em História da Arte)
   issued:
     - year: 2008
-  language: Portuguese
+  language: pt-PT
   publisher: Universidade de Lisboa, Faculdade de Letras
   publisher-place: Lisboa
   title: >-
@@ -2089,7 +2097,7 @@ references:
   ISBN: 978-0-415-72439-5
   issued:
     - year: 2015
-  language: English
+  language: en-US
   number-of-pages: '214'
   publisher: Routledge, Taylor & Francis Group
   publisher-place: London ; New York
@@ -2097,6 +2105,39 @@ references:
   title: 'Architectural temperance: Spain and Rome, 1700-1759'
   title-short: Architectural temperance
   type: book
+
+- id: di:2007golden2
+  accessed:
+    - year: 2020
+      month: 5
+      day: 8
+  author:
+    - family: Di Dio
+      given: Cinzia
+    - family: Macaluso
+      given: Emiliano
+    - family: Rizzolatti
+      given: Giacomo
+  container-title: PLoS ONE
+  container-title-short: PLoS ONE
+  DOI: 10.1371/journal.pone.0001201
+  editor:
+    - family: Rustichini
+      given: Aldo
+  ISSN: 1932-6203
+  issue: '11'
+  issued:
+    - year: 2007
+      month: 11
+      day: 21
+  language: en-US
+  page: e1201
+  source: DOI.org (Crossref)
+  title: 'The Golden Beauty: Brain Response to Classical and Renaissance Sculptures'
+  title-short: The Golden Beauty
+  type: article-journal
+  URL: https://dx.plos.org/10.1371/journal.pone.0001201
+  volume: '2'
 
 - id: dias:2011
   abstract: >-
@@ -2139,7 +2180,7 @@ references:
   genre: Dissertação (Mestrado em Conservação e Restauro)
   issued:
     - year: 2011
-  language: por
+  language: pt-PT
   publisher: Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia
   publisher-place: Lisboa
   title: >-
@@ -2147,39 +2188,6 @@ references:
     séc. XVI. Estudo da descoloração do azul de esmalte
   type: thesis
   URL: http://hdl.handle.net/10362/8541
-
-- id: didio:2007golden2
-  accessed:
-    - year: 2020
-      month: 5
-      day: 8
-  author:
-    - family: Di Dio
-      given: Cinzia
-    - family: Macaluso
-      given: Emiliano
-    - family: Rizzolatti
-      given: Giacomo
-  container-title: PLoS ONE
-  container-title-short: PLoS ONE
-  DOI: 10.1371/journal.pone.0001201
-  editor:
-    - family: Rustichini
-      given: Aldo
-  ISSN: 1932-6203
-  issue: '11'
-  issued:
-    - year: 2007
-      month: 11
-      day: 21
-  language: English
-  page: e1201
-  source: DOI.org (Crossref)
-  title: 'The Golden Beauty: Brain Response to Classical and Renaissance Sculptures'
-  title-short: The Golden Beauty
-  type: article-journal
-  URL: https://dx.plos.org/10.1371/journal.pone.0001201
-  volume: '2'
 
 - id: dors:1990barroco
   author:
@@ -2190,7 +2198,7 @@ references:
   ISBN: 972-699-238-9
   issued:
     - year: 1990
-  language: Portuguese
+  language: pt-PT
   publisher: Vega
   publisher-place: Lisboa
   source: Open WorldCat
@@ -2225,14 +2233,16 @@ references:
       dropping-particle: van
     - family: Bussels
       given: Stijn
+  event-place: Hoboken, N.J.
   ISBN: 978-1-4443-9673-7
   issued:
     - year: 2011
       month: 4
       day: 12
-  language: English
+  language: en-US
   number-of-pages: '197'
   publisher: John Wiley & Sons
+  publisher-place: Hoboken, N.J.
   source: Google Books
   title: Theatricality in Early Modern Art and Architecture
   type: book
@@ -2241,12 +2251,12 @@ references:
   author:
     - family: Egbert
       given: Donald Drew
-  event-place: Princeton
+  event-place: Princeton, N.J.
   issued:
     - year: 1980
-  language: English
+  language: en-US
   publisher: Princeton University Press
-  publisher-place: Princeton
+  publisher-place: Princeton, N.J.
   title: The Beaux-Arts Tradition in French Architecture
   type: book
 
@@ -2267,7 +2277,7 @@ references:
     - year: 1950
       month: 2
       day: 1
-  language: English
+  language: en-GB
   page: 34-39
   source: JSTOR
   title: Antoine Caron
@@ -2293,7 +2303,7 @@ references:
   issued:
     - year: 1978
       month: 4
-  language: English
+  language: en-US
   page: 137–147
   title: '"Les dedans," Jacques-François Blondel and the system of the home'
   title-short: Les Dedans
@@ -2309,9 +2319,9 @@ references:
   ISBN: 978-0-262-55038-3
   issued:
     - year: 1995
-  language: English
+  language: en-US
   number-of-pages: '413'
-  publisher: MIT Press
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: 'The projective cast: architecture and its three geometries'
@@ -2348,7 +2358,7 @@ references:
   issue: '3'
   issued:
     - year: 1977
-  language: English
+  language: en
   page: 205-216
   publisher: The Institute, Inc.
   source: JSTOR
@@ -2373,7 +2383,7 @@ references:
   ISBN: 978-0-521-20981-6
   issued:
     - year: 1975
-  language: English
+  language: en-GB
   number-of-pages: '8'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -2390,13 +2400,15 @@ references:
     - family: Fauvelle
       given: François-Xavier
   DOI: 10.2307/j.ctvc77kzq
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-18394-7
   issued:
     - year: 2018
       month: 12
       day: 4
-  language: English
+  language: en-US
   publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
   title: 'The Golden Rhinoceros: Histories of the African Middle Ages'
   title-short: The Golden Rhinoceros
@@ -2417,7 +2429,7 @@ references:
   ISBN: 978-2-7467-5114-9
   issued:
     - year: 2019
-  language: French
+  language: fr-FR
   number-of-pages: '1'
   publisher: Autrement
   publisher-place: Paris
@@ -2441,7 +2453,7 @@ references:
   ISBN: 978-85-8055-038-2
   issued:
     - year: 2011
-  language: Portuguese
+  language: pt-BR
   publisher: Bookman
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -2460,7 +2472,7 @@ references:
   ISBN: 978-1-933330-26-6
   issued:
     - year: 2007
-  language: English
+  language: en-US
   number-of-pages: '676'
   publisher: Stone Bridge Classics [u.a.]
   publisher-place: Berkeley, Calif.
@@ -2531,7 +2543,7 @@ references:
   issued:
     - year: 1988
       month: 7
-  language: Portuguese
+  language: pt-BR
   page: 129-130
   title: O ensino da construção no domínio da arquitetura
   title-short: O Ensino da Construção
@@ -2544,7 +2556,7 @@ references:
   event-place: Bruxelles
   issued:
     - year: 1979
-  language: French
+  language: fr-BE
   publisher: Mardaga
   publisher-place: Bruxelles
   title: "La théorie architecturale à l’âge classique\_: essai d’anthologie critique"
@@ -2617,7 +2629,7 @@ references:
     - year: 2014
       month: 9
       day: 1
-  language: English
+  language: en
   page: 1-22
   source: ScienceDirect
   title: The complexity of public space at the Swahili town of Songo Mnara, Tanzania
@@ -2640,7 +2652,7 @@ references:
   event-place: 'London : New York'
   issued:
     - year: 1905
-  language: English
+  language: en-GB
   number-of-pages: '808'
   publisher: 'Batsford : Scribner''s sons'
   publisher-place: 'London : New York'
@@ -2658,7 +2670,7 @@ references:
   event-place: London
   issued:
     - year: 1961
-  language: English
+  language: en-GB
   publisher: University of London
   publisher-place: London
   title: History of architecture on the comparative method
@@ -2672,7 +2684,7 @@ references:
   event-place: Valencia
   issued:
     - year: 1857
-  language: Spanish
+  language: es-ES
   publisher: Mariano Cabrerizo
   publisher-place: Valencia
   source: Open WorldCat
@@ -2687,11 +2699,13 @@ references:
   ISBN: 978-972-23-1276-9
   issued:
     - year: 1990
-  language: Portuguese
+  language: pt-PT
   publisher: Presença
   publisher-place: Lisboa
   source: Open WorldCat
-  title: Dórico, jónico e coríntio na arquitectura dos séculos XVI-XVIII
+  title: >-
+    Dórico, jónico e coríntio na arquitectura dos séculos <span
+    class="smallcaps">XVI-XVIII</span>
   title-short: Dórico, jónico e coríntio
   type: book
 
@@ -2707,7 +2721,7 @@ references:
   event-place: Leipzig, Berlin
   issued:
     - year: 1914
-  language: German
+  language: de-DE
   number-of-pages: '224'
   publisher: B. G. Teubner
   publisher-place: Leipzig, Berlin
@@ -2720,13 +2734,13 @@ references:
   author:
     - family: Frankl
       given: Paul
-  event-place: '[Cambridge, Mass.]'
+  event-place: Cambridge, Mass.
   ISBN: 0-262-56013-5
   issued:
     - year: 1968
-  language: English
-  publisher: '[MIT Press]'
-  publisher-place: '[Cambridge, Mass.]'
+  language: en-US
+  publisher: <span class="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
   source: Open WorldCat
   title: >-
     Principles of architectural history: the four phases of architectural style,
@@ -2745,7 +2759,7 @@ references:
   event-place: Milano
   issued:
     - year: 1984
-  language: Italian
+  language: it
   publisher: Electa
   publisher-place: Milano
   source: Open WorldCat
@@ -2784,14 +2798,14 @@ references:
   editor:
     - family: Steinhardt
       given: Nancy Shatzman
-  event-place: Princeton
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-15999-7
   issued:
     - year: 2017
-  language: English
+  language: en-US
   number-of-pages: '390'
   publisher: Princeton University Press
-  publisher-place: Princeton
+  publisher-place: Princeton, N.J.
   source: Library of Congress ISBN
   title: 'Traditional Chinese architecture: twelve essays'
   title-short: Traditional Chinese architecture
@@ -2830,6 +2844,7 @@ references:
   ISBN: 978-0-691-15999-7
   issued:
     - year: 2017
+  language: en-US
   page: 315-348
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -2849,7 +2864,7 @@ references:
   ISBN: 978-0-393-73076-0
   issued:
     - year: 2004
-  language: English
+  language: en-US
   publisher: >-
     W. W. Norton & Co. in association with the Institute of Classical
     Architecture and Classical America
@@ -2876,11 +2891,13 @@ references:
       given: Alice
     - family: Bergdol
       given: Barry
+  event-place: Paris
   ISBN: 978-2-917902-64-6
   issued:
     - year: 2005
-  language: French
+  language: fr-FR
   publisher: Publications de l’Institut national d’histoire de l’art
+  publisher-place: Paris
   source: DOI.org (Crossref)
   title: >-
     Le néoclassicisme n’est pas un classicisme. Une mutation dans les livres
@@ -2907,7 +2924,7 @@ references:
     - year: 2016
       month: 6
       day: 10
-  language: English
+  language: en-US
   page: 1-15
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
@@ -2962,7 +2979,7 @@ references:
     - year: 2017
       month: 4
       day: 22
-  language: French
+  language: fr-FR
   publisher: INHA
   publisher-place: Paris
   source: journals.openedition.org
@@ -2986,7 +3003,7 @@ references:
     - year: 2002
       month: 1
       day: 1
-  language: English
+  language: en-GB
   page: 289-324
   source: JSTOR
   title: The Library of François Blondel 1618-1686
@@ -3002,7 +3019,7 @@ references:
   ISBN: 978-1-135-69487-6
   issued:
     - year: 2010
-  language: English
+  language: en-GB
   number-of-pages: '346'
   publisher: Routledge
   source: Google Books
@@ -3010,7 +3027,7 @@ references:
   title-short: François Blondel
   type: book
 
-- id: 'ghaidan:1974lamu:'
+- id: ghaidan:1974lamu
   author:
     - family: Ghaidan
       given: Usam Isa
@@ -3018,7 +3035,7 @@ references:
   genre: Thesis (M.A. in Architecture)
   issued:
     - year: 1974
-  language: Eng
+  language: en-GB
   publisher: University of Nairobi
   publisher-place: Nairobi
   source: Zotero
@@ -3041,6 +3058,7 @@ references:
     - year: 2017
       month: 11
       day: 16
+  language: en-GB
   publisher: Penn State University Press
   publisher-place: University Park, Penn.
   source: DOI.org (Crossref)
@@ -3061,7 +3079,7 @@ references:
     - year: 1998
       month: 1
       day: 1
-  language: pt
+  language: pt-BR
   number-of-pages: '288'
   publisher: EdUSP
   publisher-place: São Paulo
@@ -3081,7 +3099,7 @@ references:
   event-place: New York
   issued:
     - year: 1996
-  language: English
+  language: en-US
   page: 464-465
   publisher: Grove’s Dictionaries
   publisher-place: New York
@@ -3097,7 +3115,7 @@ references:
   ISBN: 978-85-200-0826-3
   issued:
     - year: 2008
-  language: Portuguese
+  language: pt-BR
   publisher: Civilização Brasileira
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -3117,7 +3135,7 @@ references:
   ISBN: 978-0-521-20413-2
   issued:
     - year: 2000
-  language: English
+  language: en-GB
   number-of-pages: '738'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -3139,7 +3157,7 @@ references:
   ISSN: 0079-0958
   issued:
     - year: 1955
-  language: English
+  language: en-US
   page: 9-80
   source: JSTOR
   title: Architecture in Japan
@@ -3161,7 +3179,7 @@ references:
   ISSN: 0066-622X
   issued:
     - year: 1998
-  language: English
+  language: en-GB
   page: 1-13
   source: JSTOR
   title: 'Yingzao Fashi: twelfth-century Chinese building manual'
@@ -3194,7 +3212,7 @@ references:
     - year: 1999
       month: 2
       day: 1
-  language: English
+  language: en
   page: 51-55
   source: ScienceDirect
   title: >-
@@ -3214,7 +3232,7 @@ references:
   issued:
     - year: 2010
       month: 3
-  language: English
+  language: en-GB
   page: '6'
   source: Zotero
   title: The generative nature of islamic rules for the built environment
@@ -3234,7 +3252,7 @@ references:
   issue: '1'
   issued:
     - year: 1996
-  language: English
+  language: en
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -3274,7 +3292,7 @@ references:
     - year: 2016
       month: 9
       day: 13
-  language: English
+  language: en-US
   number-of-pages: '243'
   publisher: Routledge
   publisher-place: 'London : New York'
@@ -3296,7 +3314,7 @@ references:
   issue: '1'
   issued:
     - year: 2000
-  language: English
+  language: en-US
   title: Who Put the ‘ism’ in Classicism? A Theory of Authority
   type: article-journal
   URL: http://www.classicist.org/archive/c1p012.html
@@ -3329,7 +3347,7 @@ references:
   ISBN: 978-1-86189-435-9
   issued:
     - year: 2009
-  language: English
+  language: en-GB
   number-of-pages: '287'
   publisher: Reaktion Books
   publisher-place: London
@@ -3345,7 +3363,7 @@ references:
   issue: 4, The Crisis in the Discipline
   issued:
     - year: 1982
-  language: English
+  language: en-US
   page: 292-300
   title: 'Reinterpreting Wölfflin: neo-Kantianism and hermeneutics'
   type: article-journal
@@ -3368,7 +3386,7 @@ references:
     - year: 1944
       month: 6
       day: 1
-  language: English
+  language: en-GB
   page: 67-94
   source: JSTOR
   title: 'Raphael and Giulio Romano: With Notes on the Raphael School'
@@ -3385,7 +3403,7 @@ references:
   ISBN: 978-85-336-0326-4
   issued:
     - year: 1995
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3406,7 +3424,7 @@ references:
   ISBN: 978-1-55442-177-0
   issued:
     - year: 2005
-  language: French
+  language: fr-CA
   publisher: J.-M. Tremblay
   publisher-place: Chicoutimi
   source: Crossref
@@ -3430,7 +3448,7 @@ references:
   ISSN: '00790958'
   issued:
     - year: 1969
-  language: English
+  language: en-US
   page: '153'
   source: DOI.org (Crossref)
   title: >-
@@ -3455,7 +3473,7 @@ references:
   issue: '1'
   issued:
     - year: 1958
-  language: English
+  language: en-GB
   page: 23-53
   source: JSTOR
   title: Antoine Desgodets and the Académie Royale d'Architecture
@@ -3470,7 +3488,7 @@ references:
   event-place: Bruxelles
   issued:
     - year: 1980
-  language: French
+  language: fr-BE
   publisher: Mardaga
   publisher-place: Bruxelles
   title: La théorie de Claude Perrault
@@ -3491,7 +3509,7 @@ references:
   issue: '1'
   issued:
     - year: 1970
-  language: English
+  language: en-US
   page: 71-89
   source: JSTOR
   title: Associationism and Sensibility in Eighteenth-Century Architecture
@@ -3506,7 +3524,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3533,7 +3551,7 @@ references:
   ISBN: 978-0-500-20305-7
   issued:
     - year: 1999
-  language: English
+  language: en-US
   publisher: Thames and Hudson
   publisher-place: New York
   source: Open WorldCat
@@ -3555,7 +3573,7 @@ references:
   issued:
     - year: 2003
       month: 9
-  language: English
+  language: en-US
   page: 306-325
   source: Crossref
   title: >-
@@ -3582,7 +3600,7 @@ references:
     - year: 1990
       month: 1
       day: 1
-  language: English
+  language: en
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -3619,7 +3637,7 @@ references:
     - year: 2009
       month: 3
       day: 1
-  language: English
+  language: en
   page: 37-54
   source: ScienceDirect
   title: >-
@@ -3649,7 +3667,7 @@ references:
   issued:
     - year: 2011
       month: 12
-  language: English
+  language: en
   page: 189-206
   source: DOI.org (Crossref)
   title: Khami and the Venda in the Mapungubwe Landscape
@@ -3657,7 +3675,7 @@ references:
   URL: https://brill.com/abstract/journals/jaa/9/2/article-p189_5.xml
   volume: '9'
 
-- id: 'james-chakraborty:2014africa:'
+- id: james-chakraborty:2014africa
   abstract: >-
     Because extensive European acquaintance with the African interior dates only
     to the nineteenth century, it is often assumed that this is territory
@@ -3680,6 +3698,7 @@ references:
   ISBN: 978-0-8166-7397-1
   issued:
     - year: 2014
+  language: en-US
   page: 411-423
   publisher: University of Minnesota Press
   source: JSTOR
@@ -3703,7 +3722,7 @@ references:
   issued:
     - year: 1994
       month: 4
-  language: en
+  language: en-US
   page: 28–69
   source: Crossref
   title: >-
@@ -3730,7 +3749,7 @@ references:
   ISBN: 978-90-04-16240-2
   issued:
     - year: 2008
-  language: English
+  language: en-GB
   number-of-volumes: '2'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -3753,7 +3772,7 @@ references:
   issue: '3'
   issued:
     - year: 1952
-  language: English
+  language: en-US
   page: 431-564
   publisher: American Philosophical Society
   source: JSTOR
@@ -3793,7 +3812,7 @@ references:
   issue: '3'
   issued:
     - year: 2001
-  language: English
+  language: en-US
   page: 260-289
   source: JSTOR
   title: >-
@@ -3812,7 +3831,7 @@ references:
   ISBN: 978-85-336-0493-3
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3823,7 +3842,7 @@ references:
       dropping-particle: de
   type: book
 
-- id: 'kostof:1986architect:'
+- id: kostof:1986architect
   call-number: NA1995 .A73 1986
   editor:
     - family: Kostof
@@ -3832,7 +3851,7 @@ references:
   ISBN: 978-0-19-504044-9
   issued:
     - year: 1986
-  language: English
+  language: en-US
   number-of-pages: '371'
   publisher: Oxford University Press
   publisher-place: New York
@@ -3851,7 +3870,7 @@ references:
   ISBN: 978-0-19-508378-1
   issued:
     - year: 1995
-  language: English
+  language: en-US
   number-of-pages: '792'
   publisher: Oxford University Press
   publisher-place: New York
@@ -3889,7 +3908,7 @@ references:
   ISBN: 978-989-26-1015-3
   issued:
     - year: 2015
-  language: Portuguese
+  language: pt-PT
   page: 443-471
   publisher: Imprensa da Universidade de Coimbra
   source: Crossref
@@ -3914,7 +3933,7 @@ references:
   issue: '10'
   issued:
     - year: 2013
-  language: English
+  language: en-GB
   title: Proportion and Traditional Architecture
   type: article-journal
   URL: >-
@@ -3938,7 +3957,7 @@ references:
   event-place: Paris
   issued:
     - year: 1753
-  language: French
+  language: fr-FR
   number-of-pages: '340'
   publisher: Duchesne
   publisher-place: Paris
@@ -3973,7 +3992,7 @@ references:
   event-place: Paris
   issued:
     - year: 1755
-  language: French
+  language: fr-FR
   number-of-pages: '394'
   publisher: Duchesne
   publisher-place: Paris
@@ -3999,7 +4018,7 @@ references:
   ISBN: 978-0-912158-92-1
   issued:
     - year: 1977
-  language: English
+  language: en-US
   number-of-pages: '196'
   publisher: Hennessey & Ingalls
   publisher-place: Los Angeles
@@ -4021,7 +4040,7 @@ references:
   event-place: Paris
   issued:
     - year: 1714
-  language: French
+  language: fr-FR
   number-of-volumes: '2'
   publisher: Giffart
   publisher-place: Paris
@@ -4041,7 +4060,7 @@ references:
   event-place: Paris
   issued:
     - year: 2001
-  language: French
+  language: fr-FR
   publisher: Gallimard
   publisher-place: Paris
   title: La Querelle des Anciens et des Modernes
@@ -4053,6 +4072,7 @@ references:
   event-place: Paris
   issued:
     - year: 1977
+  language: fr-FR
   publisher: Arthaud
   publisher-place: Paris
   title: Vers une architecture
@@ -4065,7 +4085,7 @@ references:
   event-place: Paris
   issued:
     - year: 1804
-  language: French
+  language: fr-FR
   publisher: H.L. Peronneau
   publisher-place: Paris
   source: Open WorldCat
@@ -4085,7 +4105,7 @@ references:
   event-place: Liège
   issued:
     - year: 1842
-  language: French
+  language: fr-BE
   publisher: Avanzo
   publisher-place: Liège
   title: >-
@@ -4114,7 +4134,7 @@ references:
   issued:
     - year: 1840
     - year: 1857
-  language: French
+  language: fr-FR
   number-of-volumes: '6'
   publisher: Firmin-Didot frères
   publisher-place: Paris
@@ -4136,7 +4156,7 @@ references:
   ISBN: 978-0-486-43999-0
   issued:
     - year: 1984
-  language: English
+  language: en-US
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
@@ -4158,7 +4178,7 @@ references:
   ISBN: 978-0-486-43999-0
   issued:
     - year: 2005
-  language: English
+  language: en-US
   number-of-pages: '200'
   publisher: Dover Publications
   publisher-place: Mineola, N.Y.
@@ -4194,7 +4214,7 @@ references:
     - year: 2004
       month: 9
       day: 1
-  language: English
+  language: en-GB
   page: 477-504
   source: JSTOR
   title: >-
@@ -4213,7 +4233,7 @@ references:
   ISBN: 978-85-86374-10-4
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4238,7 +4258,7 @@ references:
     - year: 1969
       month: 3
       day: 1
-  language: English
+  language: en-US
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -4337,7 +4357,7 @@ references:
   ISBN: 978-0-521-79306-3
   issued:
     - year: 2005
-  language: English
+  language: en-GB
   number-of-pages: '503'
   publisher: Cambridge University Press
   publisher-place: Cambridge [UK] ; New York, NY
@@ -4355,7 +4375,7 @@ references:
   ISBN: 978-1-4051-0257-5
   issued:
     - year: 2006
-  language: English
+  language: en-US
   publisher: Blackwell
   publisher-place: Malden, Mass.
   source: Library of Congress ISBN
@@ -4371,7 +4391,7 @@ references:
   ISBN: 978-1-4443-3851-5
   issued:
     - year: 2017
-  language: English
+  language: en-GB
   number-of-pages: '4'
   publisher: 'Wiley : Blackwell'
   publisher-place: Chichester, West Sussex ; Malden, Mass.
@@ -4413,7 +4433,7 @@ references:
   ISBN: 978-9956-550-05-0
   issued:
     - year: 2019
-  language: English
+  language: en
   page: 177-200
   publisher: Langaa RPCIG
   publisher-place: Mankon
@@ -4449,7 +4469,7 @@ references:
   event-place: Roma
   issued:
     - year: 1786
-  language: Italian
+  language: it
   number-of-pages: '304'
   number-of-volumes: '2'
   publisher: Pagliarini
@@ -4476,7 +4496,7 @@ references:
   issued:
     - year: 1959
       month: 12
-  language: English
+  language: en-US
   page: 140-148
   source: Crossref
   title: Jacques François Blondel and the "Cours d'Architecture"
@@ -4491,7 +4511,7 @@ references:
   event-place: London
   issued:
     - year: 1982
-  language: English
+  language: en-GB
   publisher: Thames & Hudson
   publisher-place: London
   title: The Beaux-Arts and Nineteenth-Century French Architecture
@@ -4510,7 +4530,7 @@ references:
   issue: '9'
   issued:
     - year: 1985
-  language: English
+  language: en-GB
   page: 54-64
   source: JSTOR
   title: >-
@@ -4535,7 +4555,7 @@ references:
   event-place: Roma
   issued:
     - year: 1768
-  language: Italian
+  language: it
   number-of-pages: '526'
   publisher: Venanzio Monaldini
   publisher-place: Roma
@@ -4577,7 +4597,7 @@ references:
     - family: Millon
       given: Henry A.
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/988682
   ISSN: 0037-9808
   issue: '2'
@@ -4585,7 +4605,7 @@ references:
     - year: 1972
       month: 5
       day: 1
-  language: English
+  language: en-US
   page: 83-91
   source: JSTOR
   title: >-
@@ -4596,7 +4616,7 @@ references:
   URL: http://www.jstor.org/stable/988682
   volume: '31'
 
-- id: monticorte:1938castelli
+- id: monti:1938castelli
   abstract: >-
     Description of the castles found in Gondar, Ethiopia by the then chief of
     ethiopian studies of the Ahmara in 1938
@@ -4610,7 +4630,7 @@ references:
   event-place: Roma
   issued:
     - year: 1938
-  language: Italian
+  language: it
   publisher: Società Italiana Arti Grafiche
   publisher-place: Roma
   source: Internet Archive
@@ -4626,6 +4646,7 @@ references:
   ISBN: 978-3-319-21884-7
   issued:
     - year: 2015
+  language: en-US
   publisher: Springer Science+Business Media
   publisher-place: New York
   source: Library of Congress ISBN
@@ -4647,7 +4668,7 @@ references:
   issue: '4'
   issued:
     - year: 1992
-  language: English
+  language: en-US
   page: 669-685
   source: JSTOR
   title: >-
@@ -4688,7 +4709,7 @@ references:
   ISBN: 978-84-252-1181-2
   issued:
     - year: 1985
-  language: Spanish
+  language: es-ES
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -4713,7 +4734,7 @@ references:
   issued:
     - year: 1998
       month: 3
-  language: English
+  language: en-US
   page: 6-29
   source: Crossref
   title: >-
@@ -4740,7 +4761,7 @@ references:
   issued:
     - year: 1968
       month: 10
-  language: English
+  language: en-US
   page: 202-208
   source: Crossref
   title: The Authenticity of Guarini's Stereotomy in His "Architettura Civile"
@@ -4756,7 +4777,7 @@ references:
   ISBN: 978-84-206-6204-6
   issued:
     - year: 1995
-  language: Spanish
+  language: es-ES
   number-of-volumes: '2'
   publisher: Alianza
   publisher-place: Madrid
@@ -4779,7 +4800,7 @@ references:
   ISBN: 978-0-15-618035-1
   issued:
     - year: 1966
-  language: en
+  language: en-GB
   number-of-pages: '788'
   publisher: Pelican
   publisher-place: Harmondsworth
@@ -4796,7 +4817,7 @@ references:
   ISBN: 978-85-336-0847-4
   issued:
     - year: 1998
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4828,7 +4849,7 @@ references:
   event-place: Madrid
   issued:
     - year: 1972
-  language: Spanish
+  language: es-ES
   publisher: Aguilar
   publisher-place: Madrid
   source: Open WorldCat
@@ -4846,7 +4867,7 @@ references:
   issue: '3'
   issued:
     - year: 2005
-  language: English
+  language: en-GB
   page: 403-415
   source: Zotero
   title: Toward a new model of Renaissance anachronism
@@ -4865,7 +4886,7 @@ references:
   ISBN: 978-4-7700-1992-9
   issued:
     - year: 1996
-  language: English
+  language: en-US
   number-of-pages: '144'
   publisher: Kodansha International
   publisher-place: Tokyo
@@ -4887,6 +4908,7 @@ references:
   ISBN: 978-0-8478-0693-5
   issued:
     - year: 1986
+  language: en-GB
   number-of-pages: '223'
   publisher: Electa ; Rizzoli
   publisher-place: 'Milan : New York'
@@ -4902,7 +4924,7 @@ references:
   ISBN: 978-84-03-60123-9
   issued:
     - year: 1989
-  language: Spanish
+  language: es-ES
   publisher: Aguilar-Asuri
   publisher-place: Madrid
   source: Open WorldCat
@@ -4917,7 +4939,7 @@ references:
   ISBN: 978-84-03-33092-4
   issued:
     - year: 1989
-  language: Spanish
+  language: es-ES
   publisher: Aguilar
   publisher-place: Madrid
   source: Open WorldCat
@@ -4936,7 +4958,7 @@ references:
   ISBN: 978-85-7652-127-3
   issued:
     - year: 2010
-  language: Portuguese
+  language: pt-BR
   publisher: Unesco
   publisher-place: Brasília
   title: África do Século XVI ao XVIII
@@ -4983,7 +5005,7 @@ references:
   event-place: London
   issued:
     - year: 1774
-  language: English
+  language: en-GB
   number-of-pages: '124'
   publisher: I. Taylor
   publisher-place: London
@@ -5036,7 +5058,7 @@ references:
   event-place: Venezia
   issued:
     - year: 1570
-  language: Italian
+  language: it
   publisher: Dominico de’ Franceschi
   publisher-place: Venezia
   title: I quattro libri dell’architettura
@@ -5065,7 +5087,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: English
+  language: en-GB
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -5104,7 +5126,7 @@ references:
   ISBN: 978-85-336-1467-3
   issued:
     - year: 2001
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -5138,7 +5160,7 @@ references:
   event-place: Paris
   issued:
     - year: 1769
-  language: French
+  language: fr-FR
   number-of-pages: '446'
   publisher: Rozet
   publisher-place: Paris
@@ -5175,7 +5197,7 @@ references:
     - family: Payne
       given: Alina A.
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/990940
   ISSN: 0037-9808
   issue: '3'
@@ -5183,7 +5205,7 @@ references:
     - year: 1994
       month: 9
       day: 1
-  language: English
+  language: en-US
   page: 322-342
   source: JSTOR
   title: Rudolf Wittkower and Architectural Principles in the Age of Modernism
@@ -5206,7 +5228,7 @@ references:
   issued:
     - year: 1992
       month: 12
-  language: English
+  language: en-US
   page: 377-416
   source: Crossref
   title: >-
@@ -5225,9 +5247,9 @@ references:
   ISBN: 978-0-262-66055-6
   issued:
     - year: 1983
-  language: English
+  language: en-US
   number-of-pages: '400'
-  publisher: MIT Press
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Architecture and the crisis of modern science
@@ -5239,16 +5261,16 @@ references:
       month: 5
       day: 15
   author:
-    - family: Perez-Gomez
+    - family: Pérez-Gómez
       given: Alberto
-  container-title: JAE
+  container-title: Journal of Architectural Education
   DOI: 10.2307/1424613
   ISSN: '01492993'
   issue: '2'
   issued:
     - year: 24
     - year: 1982
-  language: English
+  language: en-US
   page: '2'
   source: Crossref
   title: Architecture as Drawing
@@ -5272,7 +5294,7 @@ references:
   issued:
     - year: 1977
       month: 12
-  language: French
+  language: fr-FR
   page: 223-240
   source: JSTOR
   title: >-
@@ -5291,7 +5313,7 @@ references:
   ISBN: 978-2-7084-0960-6
   issued:
     - year: 2001
-  language: French
+  language: fr-FR
   publisher: Picard
   publisher-place: Paris
   source: Open WorldCat
@@ -5308,7 +5330,7 @@ references:
   event-place: Paris
   issued:
     - year: 1989
-  language: French
+  language: fr-FR
   publisher: Mengès / Caisse nationale des monuments historiques et des sites
   publisher-place: Paris
   title: Histoire de l’Architecture Française
@@ -5322,7 +5344,7 @@ references:
   event-place: Paris
   issued:
     - year: 1683
-  language: French
+  language: fr-FR
   publisher: J.-B. Coignard
   publisher-place: Paris
   title: Ordonnance des cinq espèces de colonnes selon la méthode des anciens
@@ -5341,7 +5363,7 @@ references:
     - year: 1996
       month: 8
       day: 22
-  language: English
+  language: en-US
   number-of-pages: '208'
   publisher: Getty
   publisher-place: Santa Monica
@@ -5399,7 +5421,7 @@ references:
   ISBN: 978-1-136-85131-5
   issued:
     - year: 2013
-  language: English
+  language: en-GB
   publisher: Taylor and Francis
   publisher-place: Florence
   source: Open WorldCat
@@ -5417,6 +5439,7 @@ references:
   ISBN: 978-0-7391-7536-1
   issued:
     - year: 2015
+  language: en-GB
   number-of-pages: '225'
   publisher: Lexington Books
   publisher-place: Lanham
@@ -5434,7 +5457,7 @@ references:
   event-place: München
   issued:
     - year: 2000
-  language: German
+  language: de-DE
   publisher: Deutscher Kunstverlag
   publisher-place: München
   title: Claude Perrault und die Architektur des Sonnenkönigs
@@ -5469,7 +5492,7 @@ references:
   ISBN: 978-85-359-0587-8
   issued:
     - year: 2005
-  language: Portuguese
+  language: pt-BR
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Open WorldCat
@@ -5489,7 +5512,7 @@ references:
   issue: '1'
   issued:
     - year: 1958
-  language: German
+  language: de-DE
   page: 233-236
   reviewed-author:
     - family: Forssman
@@ -5533,7 +5556,7 @@ references:
   event-place: Roma
   issued:
     - year: 1769
-  language: Italian
+  language: it
   publisher: Salomoni
   publisher-place: Roma
   source: Internet Archive
@@ -5550,7 +5573,7 @@ references:
   ISBN: 978-0-300-02862-1
   issued:
     - year: 1982
-  language: English
+  language: en-US
   publisher: Yale University Press
   publisher-place: New Haven
   source: Open WorldCat
@@ -5573,7 +5596,7 @@ references:
   issue: 1/2
   issued:
     - year: 1973
-  language: English
+  language: en
   page: 123–132
   source: JSTOR
   title: Cloister, Court and City Square
@@ -5649,7 +5672,7 @@ references:
       given: Eric
   issued:
     - year: 2018
-  language: French
+  language: fr-FR
   page: 153-168
   publisher: Archaeopress
   source: JSTOR
@@ -5677,7 +5700,7 @@ references:
   event-place: London
   issued:
     - year: 1735
-  language: English
+  language: en-GB
   number-of-pages: '218'
   publisher: Printed by C. Ackers ... ; and sold by the Author
   publisher-place: London
@@ -5705,7 +5728,7 @@ references:
   issue: '2'
   issued:
     - year: 1968
-  language: English
+  language: en
   page: 32-74
   source: JSTOR
   title: The Architecture of Islam in West Africa
@@ -5728,7 +5751,7 @@ references:
   event-place: Paris
   issued:
     - year: 1788
-  language: French
+  language: fr-FR
   page: 477–518
   publisher: Panckouke
   publisher-place: Paris
@@ -5772,11 +5795,13 @@ references:
     - family: Richardson
       given: George
   call-number: '9926626840001551'
+  event-place: London
   issued:
     - year: 1802
-  language: English
+  language: en-GB
   number-of-pages: '183'
-  publisher: 'London : Printed by T. Bensley for the author : sold by J. Taylor'
+  publisher: 'Printed by T. Bensley for the author : sold by J. Taylor'
+  publisher-place: London
   source: Internet Archive
   title: >-
     The new Vitruvius britannicus : consisting of plans and elevations of modern
@@ -5802,11 +5827,13 @@ references:
     - family: Richardson
       given: George
   call-number: '9926626840001551'
+  event-place: London
   issued:
     - year: 1802
-  language: English
+  language: en-GB
   number-of-pages: '167'
-  publisher: 'London : Printed by T. Bensley for the author : sold by J. Taylor'
+  publisher: 'Printed by T. Bensley for the author : sold by J. Taylor'
+  publisher-place: London
   source: Internet Archive
   title: >-
     The new Vitruvius britannicus : consisting of plans and elevations of modern
@@ -5834,7 +5861,7 @@ references:
     - year: 1931
       month: 4
       day: 1
-  language: German
+  language: de-DE
   page: 202-203
   source: JSTOR
   title: Manierismus
@@ -5851,7 +5878,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 2013
-  language: Portuguese
+  language: pt-BR
   number-of-pages: '170'
   publisher: Rio Books
   publisher-place: Rio de Janeiro
@@ -5863,7 +5890,7 @@ references:
   title-short: A estratégia da aranha
   type: book
 
-- id: roland:2008l'etude
+- id: roland:2008letude
   abstract: >-
     L'étude des charpentes constitue un moyen de datation de l'architecture
     rurale, du moins à l'échelle d'une région. A Genève, les maisons paysannes
@@ -5890,7 +5917,7 @@ references:
     - year: 2008
       month: 4
       day: 17
-  language: fr
+  language: fr-FR
   number: '9'
   publisher: >-
     Ministère de la culture et de la communication, direction générale des
@@ -5918,7 +5945,7 @@ references:
   issued:
     - year: 1969
       month: 10
-  language: English
+  language: en-US
   page: 155-172
   source: Crossref
   title: >-
@@ -5943,7 +5970,7 @@ references:
   issued:
     - year: 1964
       month: 5
-  language: English
+  language: en-US
   page: 55-74
   source: Crossref
   title: The Antecedents of Bramante's Tempietto
@@ -6008,7 +6035,7 @@ references:
     - year: 2017
       month: 2
       day: 15
-  language: Portuguese
+  language: pt-BR
   publisher: Gustavo Gili Brasil
   publisher-place: Barcelona
   source: Amazon
@@ -6034,7 +6061,7 @@ references:
   issued:
     - year: 1994
       month: 3
-  language: English
+  language: en-GB
   page: '81'
   source: Crossref
   title: Raphael, Angelo Colocci, and the Genesis of the Architectural Orders
@@ -6049,7 +6076,7 @@ references:
   event-place: New York
   issued:
     - year: 2002
-  language: English
+  language: en-US
   publisher: Scribner
   publisher-place: New York
   title: 'The Perfect House: A journey with the Renaissance architect Andrea Palladio'
@@ -6063,7 +6090,7 @@ references:
   ISBN: 978-0-262-68039-4
   issued:
     - year: 1991
-  language: English
+  language: en-US
   publisher: The MIT Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
@@ -6080,7 +6107,7 @@ references:
   ISBN: 978-0-262-68101-8
   issued:
     - year: 1998
-  language: English
+  language: en-US
   number-of-pages: '598'
   publisher: The MIT Press
   publisher-place: Cambridge, Mass.
@@ -6124,7 +6151,7 @@ references:
     - year: 2008
       month: 6
       day: 1
-  language: English
+  language: en
   page: 121-144
   publisher: SAGE Publications
   source: SAGE Journals
@@ -6165,7 +6192,7 @@ references:
       given: Elane Ribeiro
   type: chapter
 
-- id: 'santanna:2000barroco:'
+- id: santanna:2000barroco
   author:
     - family: Sant'Anna
       given: Affonso Romano
@@ -6174,7 +6201,7 @@ references:
   ISBN: 978-85-325-1191-1
   issued:
     - year: 2000
-  language: Portuguese
+  language: pt-BR
   publisher: Rocco
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -6202,7 +6229,7 @@ references:
   issue: '4'
   issued:
     - year: 1998
-  language: English
+  language: en
   page: 217-234
   publisher: Alexandrine Press
   source: JSTOR
@@ -6230,7 +6257,7 @@ references:
   issued:
     - year: 24
     - year: 1970
-  language: English
+  language: en
   page: '113'
   source: Crossref
   title: Criteria of Periodization in the History of European Art
@@ -6246,7 +6273,7 @@ references:
   issue: 359-360
   issued:
     - year: 1971
-  language: Italian
+  language: it
   page: 78-87
   title: 'Contestualismo: ideali urbani deformati'
   title-short: Contestualismo
@@ -6260,7 +6287,7 @@ references:
   issue: '1'
   issued:
     - year: 1987
-  language: English
+  language: en-US
   page: 37-42
   title: Deep Space Shallow Space
   type: article-journal
@@ -6279,7 +6306,7 @@ references:
   issued:
     - year: 1987
       season: 3
-  language: English
+  language: en-US
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
@@ -6308,7 +6335,7 @@ references:
   ISSN: 2042-4752
   issued:
     - year: 2016
-  language: English
+  language: en-US
   page: 14-KJ1
   source: Open WorldCat
   title: >-
@@ -6331,7 +6358,7 @@ references:
   ISBN: 978-0-89236-597-5
   issued:
     - year: 2004
-  language: English
+  language: en-US
   number-of-pages: '980'
   publisher: Getty Research Institute
   publisher-place: Los Angeles
@@ -6354,7 +6381,7 @@ references:
   issued:
     - year: 1547
     - year: 1550
-  language: Italian
+  language: it
   publisher-place: Lyon
   title: 'Sesto libro d''architettura: Delle habitationi fuori e dentro delle città'
   title-short: Sesto libro d'architettura
@@ -6376,7 +6403,7 @@ references:
   ISBN: 978-0-486-29352-3
   issued:
     - year: 1997
-  language: English
+  language: en-US
   number-of-pages: '184'
   publisher: Dover
   publisher-place: New York
@@ -6395,7 +6422,7 @@ references:
   ISBN: 978-0-9788728-1-6
   issued:
     - year: 2008
-  language: English
+  language: en-US
   publisher: Preservation Institute
   publisher-place: Berkeley, Calif.
   source: Open WorldCat
@@ -6450,7 +6477,7 @@ references:
   ISBN: 978-0-300-09559-3
   issued:
     - year: 2002
-  language: English
+  language: en-US
   publisher: Yale University Press
   publisher-place: New Haven
   source: Open WorldCat
@@ -6484,14 +6511,14 @@ references:
     - family: Steinhardt
       given: Nancy Shatzman
   call-number: NA1540 .S738 2019
-  event-place: Princeton
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-16998-9
   issued:
     - year: 2019
-  language: English
+  language: en-US
   number-of-pages: '388'
   publisher: Princeton University Press
-  publisher-place: Princeton
+  publisher-place: Princeton, N.J.
   source: Library of Congress ISBN
   title: 'Chinese architecture: a history'
   title-short: Chinese architecture
@@ -6508,7 +6535,7 @@ references:
   ISBN: 978-0-500-20177-0
   issued:
     - year: 1980
-  language: English
+  language: en-GB
   number-of-pages: '144'
   publisher: Thames and Hudson
   publisher-place: London
@@ -6523,7 +6550,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1997
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   title: A linguagem clássica da arquitetura
@@ -6551,7 +6578,7 @@ references:
   event-place: London
   issued:
     - year: 1758
-  language: English
+  language: pt-BR
   number-of-pages: '288'
   publisher: >-
     Printed for and sold by the author ... by Mr. Brotherton ... Mr. Buckland
@@ -6574,7 +6601,7 @@ references:
   event-place: Paris
   issued:
     - year: 1986
-  language: French
+  language: fr-FR
   publisher: Picard
   publisher-place: Paris
   title: "Symétrie goût caractère\_: théorie et terminologie de l’architecture à l’âge classique 1550–1800"
@@ -6592,13 +6619,13 @@ references:
   issue: IX
   issued:
     - year: 1967
-  language: Italian
+  language: it
   page: 369-388
   title: L’idea di architettura nella letteratura teorica del Manierismo
   type: article-journal
   URL: https://www.palladiomuseum.org/annali/1967/29/pdf
 
-- id: tafuri:1967j.
+- id: tafuri:1967j
   accessed:
     - year: 2019
       month: 12
@@ -6610,7 +6637,7 @@ references:
   issue: IX
   issued:
     - year: 1967
-  language: Italian
+  language: it
   page: 385-398
   title: J. Barozzi da Vignola e la crisi del Manierismo a Roma
   type: article-journal
@@ -6628,7 +6655,7 @@ references:
   issue: XI
   issued:
     - year: 1969
-  language: Italian
+  language: it
   page: 120-136
   title: Committenza e tipologia nelle ville palladiane
   type: article-journal
@@ -6645,7 +6672,7 @@ references:
   ISBN: 978-88-06-58891-5
   issued:
     - year: 1985
-  language: Italian
+  language: it
   number-of-pages: '313'
   publisher: Giulio Einaudi
   publisher-place: Torino
@@ -6665,7 +6692,7 @@ references:
   ISBN: 978-88-06-12843-2
   issued:
     - year: 1992
-  language: Italian
+  language: it
   number-of-pages: '384'
   publisher: Giulio Einaudi
   publisher-place: Torino
@@ -6690,7 +6717,7 @@ references:
     - year: 2006
       month: 8
       day: 1
-  language: English
+  language: en-US
   page: 46–52
   source: escholarship.org
   title: >-
@@ -6709,7 +6736,7 @@ references:
   container-title: Journal of Southeast Asian Architecture
   issued:
     - year: 2005
-  language: English
+  language: en
   page: 1-25
   title: >-
     Reading the Traditional City of Maritime Southeast Asia: Reconstructing the
@@ -6725,7 +6752,7 @@ references:
   event-place: 'Lisboa : São Paulo'
   issued:
     - year: 1974
-  language: Portuguese
+  language: pt-PT
   publisher: 'Presença : Martins Fontes'
   publisher-place: 'Lisboa : São Paulo'
   source: Open WorldCat
@@ -6747,7 +6774,7 @@ references:
   issued:
     - year: 24
     - year: 1972
-  language: English
+  language: en-US
   page: '165'
   source: Crossref
   title: The great theory of beauty and its decline
@@ -6770,7 +6797,7 @@ references:
       given: Bruno
   issued:
     - year: 1936
-  language: English
+  language: en
   number-of-pages: '52'
   publisher: Kokusai bunka shinkokai (The Society for International Cultural Relations)
   source: Google Books
@@ -6787,7 +6814,7 @@ references:
   ISBN: 978-0-415-47385-9
   issued:
     - year: 2011
-  language: English
+  language: en-GB
   number-of-pages: '349'
   publisher: Routledge
   publisher-place: London ; New York
@@ -6812,7 +6839,7 @@ references:
   issue: '1'
   issued:
     - year: 2004
-  language: English
+  language: en
   page: 32-94
   source: JSTOR
   title: Origin Traditions and History in Central Africa
@@ -6857,7 +6884,7 @@ references:
   issue: '2'
   issued:
     - year: 1983
-  language: English
+  language: en-US
   page: 101-120
   source: JSTOR
   title: 'Arnolfo''s S. Maria del Fiore: a working hypothesis'
@@ -6873,7 +6900,7 @@ references:
   event-place: Colonia
   issued:
     - year: 1997
-  language: Spanish
+  language: es-ES
   publisher: Könemann
   publisher-place: Colonia
   source: Open WorldCat
@@ -6912,7 +6939,7 @@ references:
     - year: 2014
       month: 6
       day: 20
-  language: English
+  language: en-GB
   number: '1'
   page: Art. 13
   publisher: Ubiquity Press
@@ -6937,7 +6964,7 @@ references:
   event-place: New York
   issued:
     - year: 1996
-  language: eng
+  language: en-US
   number-of-pages: '954'
   publisher: Grove's Dictionaries
   publisher-place: New York
@@ -6982,7 +7009,7 @@ references:
   issue: '1'
   issued:
     - year: 1980
-  language: English
+  language: en-US
   page: 7-10
   title: History is returning to design
   type: article-journal
@@ -6998,8 +7025,8 @@ references:
   ISBN: 978-0-262-70031-3
   issued:
     - year: 1986
-  language: English
-  publisher: MIT Press
+  language: en-US
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   title: 'Classical architecture: the poetics of order'
   title-short: Classical architecture
@@ -7014,7 +7041,7 @@ references:
   ISBN: 978-0-415-14477-3
   issued:
     - year: 1997
-  language: English
+  language: en-GB
   number-of-pages: '208'
   publisher: Routledge
   publisher-place: London ; New York
@@ -7022,7 +7049,7 @@ references:
   title: Analysing architecture
   type: book
 
-- id: vaneck:1998structure57
+- id: van:1998structure57
   abstract: >-
     Despite Alberti's well-known doubts about the usefulness of Vitruvius as a
     guide for the study of architecture, most architectural historians have
@@ -7052,7 +7079,7 @@ references:
   issue: '3'
   issued:
     - year: 1998
-  language: English
+  language: en-US
   page: 280-297
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -7072,7 +7099,7 @@ references:
   container-title: rocinante
   issued:
     - literal: sábado, 19 de janeiro de 2013
-  language: Portuguese
+  language: pt-BR
   title: Paris das Luzes segundo o Plano de Turgot (1739)
   title-short: rocinante
   type: post-weblog
@@ -7114,7 +7141,7 @@ references:
     - year: 1989
       month: 6
       day: 1
-  language: French
+  language: fr-FR
   page: 3-10
   source: JSTOR
   title: >-
@@ -7137,7 +7164,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1876
-  language: Portuguese
+  language: pt-PT
   number-of-pages: '362'
   publisher: Typographia Universal
   publisher-place: Lisboa
@@ -7168,7 +7195,7 @@ references:
   event-place: Boston, Mass.
   issued:
     - year: 1890
-  language: English
+  language: en-US
   number-of-pages: '182'
   publisher: Bates & Guild co.
   publisher-place: Boston, Mass.
@@ -7191,7 +7218,7 @@ references:
   event-place: London
   issued:
     - year: 1913
-  language: English
+  language: en-GB
   number-of-pages: '372'
   publisher: A. and C. Black
   publisher-place: London
@@ -7220,7 +7247,7 @@ references:
   event-place: Paris
   issued:
     - year: 1673
-  language: French
+  language: fr-FR
   number-of-pages: '377'
   publisher: Jean Baptiste Coignard
   publisher-place: Paris
@@ -7242,7 +7269,7 @@ references:
   event-place: Paris
   issued:
     - year: 1684
-  language: French
+  language: fr-FR
   publisher: J. B. Coignard
   publisher-place: Paris
   source: Open WorldCat
@@ -7261,7 +7288,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt-PT
   publisher: IST Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
@@ -7277,7 +7304,7 @@ references:
   ISBN: 978-85-7707-003-9
   issued:
     - year: 2007
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7295,7 +7322,7 @@ references:
   event-place: Bogotá
   issued:
     - year: 1993
-  language: Spanish
+  language: es-CO
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -7316,7 +7343,7 @@ references:
   container-title: Middle Eastern Natural Environments J
   issued:
     - year: 1997
-  language: English
+  language: en
   page: 330–348
   source: Google Scholar
   title: 'Between paradise and political capital: the semiotics of Safavid Isfahan'
@@ -7334,7 +7361,7 @@ references:
   ISBN: 978-0-393-73233-7
   issued:
     - year: 2007
-  language: English
+  language: en-US
   publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
@@ -7354,7 +7381,7 @@ references:
   event-place: London
   issued:
     - year: 1911
-  language: English
+  language: en-GB
   number-of-pages: '320'
   number-of-volumes: '2'
   publisher: B.T. Batsford
@@ -7376,7 +7403,7 @@ references:
   ISBN: 978-3-8290-2142-5
   issued:
     - year: 2001
-  language: Spanish
+  language: es-ES
   publisher: Könemann
   publisher-place: Barcelona
   source: Open WorldCat
@@ -7396,7 +7423,7 @@ references:
   event-place: New Haven
   issued:
     - year: 1991
-  language: English
+  language: en-US
   publisher: Yale University Press
   publisher-place: New Haven
   title: Architectural principles in the age of historicism
@@ -7417,13 +7444,13 @@ references:
   author:
     - family: Westfall
       given: Carroll William
-  container-title: Journal of Architectural Education (1984-)
+  container-title: Journal of Architectural Education
   DOI: 10.2307/40480871
   ISSN: 1046-4883
   issue: '4'
   issued:
     - year: 2008
-  language: English
+  language: en-US
   page: 95-107
   source: JSTOR
   title: Why the Orders Belong in Studio
@@ -7440,7 +7467,7 @@ references:
   ISBN: 978-1-4724-5653-3
   issued:
     - year: 2015
-  language: English
+  language: en-US
   number-of-pages: '205'
   publisher: Ashgate
   publisher-place: Burlington, Ver.
@@ -7510,7 +7537,7 @@ references:
   ISSN: 0078-7809
   issued:
     - year: 1982
-  language: English
+  language: en
   page: 201-219
   publisher: Frobenius Institute
   source: JSTOR
@@ -7551,7 +7578,7 @@ references:
     - year: 2015
       month: 4
       day: 9
-  language: English
+  language: en
   page: 223-247
   publisher: Brill
   section: Journal of Jesuit Studies
@@ -7571,7 +7598,7 @@ references:
   event-place: London
   issued:
     - year: 1962
-  language: English
+  language: en-GB
   number-of-pages: '173'
   publisher: Alec Tiranti
   publisher-place: London
@@ -7585,7 +7612,7 @@ references:
   event-place: Buenos Aires
   issued:
     - year: 1968
-  language: Spanish
+  language: es-AR
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -7599,7 +7626,7 @@ references:
   event-place: Harmondsworth, Middlesex
   issued:
     - year: 1973
-  language: English
+  language: en-GB
   publisher: Penguin Books
   publisher-place: Harmondsworth, Middlesex
   source: Open WorldCat
@@ -7615,7 +7642,7 @@ references:
   ISBN: 978-0-8076-0704-6
   issued:
     - year: 1974
-  language: English
+  language: en-US
   publisher: G. Braziller
   publisher-place: New York
   source: Open WorldCat
@@ -7630,7 +7657,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1989
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7652,7 +7679,7 @@ references:
   ISBN: 978-85-336-1202-0
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7690,7 +7717,7 @@ references:
     - year: 2007
       month: 6
       day: 1
-  language: English
+  language: en
   page: 368-380
   source: DOI.org (Crossref)
   title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
@@ -7734,7 +7761,7 @@ references:
     - year: 2013
       month: 12
       day: 1
-  language: English
+  language: en
   page: 759-773
   source: ScienceDirect
   title: The public life of the Swahili stonehouse, 14th–15th centuries AD
@@ -7763,7 +7790,7 @@ references:
   ISBN: 978-1-107-11027-4
   issued:
     - year: 2014
-  language: English
+  language: en-GB
   page: 111-144
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -7777,13 +7804,13 @@ references:
   author:
     - family: Zucker
       given: Paul
-  event-place: Cambridge
+  event-place: Cambridge, Mass.
   issued:
     - year: 1970
-  language: English
+  language: en-US
   number-of-pages: xxiii, 287 p.
-  publisher: MIT Press
-  publisher-place: Cambridge
+  publisher: <span class="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
   title: 'Town and Square: From the Agora to the Village Green'
   type: book
 
@@ -7804,6 +7831,7 @@ references:
     - year: 1953
       month: 12
       day: 1
+  language: en-GB
   page: 302-306
   source: JSTOR
   title: The "Aesthetics" of the Early Mannerists
@@ -7826,7 +7854,7 @@ references:
   issued:
     - year: 21
     - year: 1961
-  language: English
+  language: en-US
   page: '263'
   source: Crossref
   title: The Iconology of Style (Or Wolfflin Reconsidered)

@@ -9,7 +9,6 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -79,8 +78,6 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-head_scripts:
-  - https://kit.fontawesome.com/eddf3d9a63.js
 
 # Social Sharing
 twitter:
@@ -216,6 +213,7 @@ kramdown:
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
+    - bibliography: "_data/biblio.yaml"
     - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
     - section-divs
     #- toc
@@ -246,8 +244,6 @@ date_format: "%d/%m/%Y"
 
 # Plugins (previously gems:)
 plugins:
-  #- jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
@@ -260,7 +256,6 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -346,42 +341,25 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
-      - processos.md
-      - arqtrad.md
-      - taipa.md
-      - arquitravada.md
-      - muraria.md
-      - arcos.md
-      - coberturas.md
-      - clima.md
-      - tipos.md
-      - volumes.md
-      - urbanismo.md
-      - completar.md
-      - ordenar.md
-      - articular.md
-      - caracterizar.md
-      - proporcionar.md
+      - intro.md
+      - humanismo.md
+      - rotas.md
+      - renascimento.md
+      - cidades-ideais.md
+      - teoria.md
+      - arte-classica.md
+      - anticlassico.md
+      - barroco.md
+      - academicismo.md
+      - primeiros-modernos.md
+      - urb-como-arq.md
+      - barroco-intl.md
+      - universo.md
+      - reacao.md
+      - territorio.md
   plano:
     output: true
     permalink: /:collection/:name/
-    order:
-      - por-que-historia.md
-      - sobre-disciplina.md
-      - objetivos.md
-      - metodologia.md
-      - apoio.md
-      - avalia.md
-      - bibliografia.md
   trabalho:
     output: true
     permalink: /:collection/:name/
-    order:
-      - cabana.md
-      - vernacular.md
-      - volumes.md
-      - classico.md
-      - materiais.md
-      - desenho.md
-      - digitalizar.md
-      - maquete.md

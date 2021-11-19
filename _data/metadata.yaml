@@ -1,5 +1,5 @@
 lang: pt-BR
-crossrefYaml: "_crossref.yaml"
+crossrefYaml: "_data/crossref.yaml"
 link-citations: true
 linkReferences: true
 suppress-bibliography: false
