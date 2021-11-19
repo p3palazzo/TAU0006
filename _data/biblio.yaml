@@ -215,7 +215,7 @@ references:
   event-place: Buenos Aires
   issued:
     - year: 1973
-  language: es-AR
+  language: es
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -239,7 +239,7 @@ references:
   issued:
     - year: 1983
       month: 11
-  language: es-ES
+  language: es
   page: 2-14
   title: Tipología
   type: article-journal
@@ -4731,7 +4731,7 @@ references:
   ISBN: 978-84-252-1181-2
   issued:
     - year: 1985
-  language: es-ES
+  language: es
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -4997,7 +4997,7 @@ references:
   ISBN: 978-84-922594-3-4
   issued:
     - year: 1998
-  language: es-ES
+  language: es
   number-of-pages: '288'
   publisher: Fundación Caja de Arquitectos
   publisher-place: Barcelona
@@ -7344,7 +7344,7 @@ references:
   event-place: Bogotá
   issued:
     - year: 1993
-  language: es-CO
+  language: es
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -7634,7 +7634,7 @@ references:
   event-place: Buenos Aires
   issued:
     - year: 1968
-  language: es-AR
+  language: es
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat

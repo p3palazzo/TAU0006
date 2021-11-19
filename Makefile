@@ -4,7 +4,7 @@ VPATH = . assets
 vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
-vpath %.yaml . _spec
+vpath %.yaml . _spec _data
 
 PANDOC_VERSION  := 2.16.1
 JEKYLL_VERSION  := 4.2.0
@@ -27,7 +27,7 @@ _site : $(SLIDES)
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 slides/%/index.html : _aula/%.md revealjs.yaml \
-	revealjs-crossref.yaml references.bib $(SASS) \
+	revealjs-crossref.yaml biblio.yaml $(SASS) \
 	assets/css/revealjs-main.scss
 	@-mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
