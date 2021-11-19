@@ -7,12 +7,15 @@ title: "Perguntas frequentes"
 
 A UnB considera oficialmente esta disciplina como sendo "presencial",
 portanto temos que controlar a "frequência" ao longo do semestre. Assim,
-você deve se fazer "presente" em pelo menos 75 % das semanas do semestre
-(12 de 15), **participando** ativa e produtivamente das discussões com a
-turma. Para tanto, manifeste-se *com propriedade* nos diversos fóruns
-disponíveis no ambiente virtual de aprendizagem ou na própria
-videoconferência (apenas estar "logado" na reunião, sem participar
-ativamente, não conta).
+você deve se fazer "presente" em pelo menos 75 % da carga horária do
+semestre (45 de 60), **participando** ativa e produtivamente das
+discussões com a turma. Para tanto, responda à atividade de
+[Leitura e discussão de texto][] de cada semana.
+
+A presença da primeira semana está garantida para a turma toda, já que
+não há nenhuma entrega previsa. Além disso, há uma 16.ª semana de
+"bônus" na qual você pode pontuar presença extra, mas que não conta para
+fins de cálculo da carga horária total da disciplina.
 
 </details>
 
@@ -66,8 +69,8 @@ para experimentar sem medo de "errar"!
 <details><summary>O que acontece se eu deixar de entregar algum
 trabalho?</summary>
 
-**Leitura e discussão de textos:** você precisa obter no mínimo 10
-pontos nas 15 atividades de leitura e discussão de texto ao longo do
+**Leitura e discussão de textos:** você precisa obter no mínimo 45
+pontos nas 16 atividades de leitura e discussão de texto ao longo do
 semestre (cada atividade vale 1 ponto; a primeira, na semana de
 adaptação inicial *antes* da Unidade I, não conta para essas 10, mas
 vale ponto extra). Atingidos os 10 pontos, você não precisa postar mais
@@ -78,7 +81,7 @@ trabalhos (um para cada unidade). Não há pontuação mínima para *cada*
 trabalho desde que você obtenha a menção final MM, considerando todas as
 notas do semestre e seus pesos.
 
-Se você não obtiver 10 pontos nas atividades de Leitura e discussão de
+Se você não obtiver 45 pontos nas atividades de Leitura e discussão de
 textos, ou deixar de entregar qualquer um dos três trabalhos de unidade,
 você ficará com a menção final `SR` **independentemente da média
 alcançada**.

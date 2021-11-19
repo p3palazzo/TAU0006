@@ -1,5 +1,6 @@
 ---
 title: Páginas do livro-texto
+date: 2022-01-18
 ---
 
 | Era  | páginas  |    | Tópico                                                            | Un. | Mód. |   Aula |
