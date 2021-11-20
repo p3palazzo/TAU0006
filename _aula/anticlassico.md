@@ -1,12 +1,16 @@
 ---
 title   : "Clássico Anticlássico"
-author  : "Pedro P. Palazzo"
+subtitle: "Linguagens clássicas da arquitetura"
+item    : "III"
+author  : Pedro P. Palazzo
 abstract: |
   -- Três momentos na reconstrução do classicismo
   -- Terceiro: articulação do espaço em Bramante e Rafael
   -- Classicismo universal: Serlio, Vinhola e Palladio | 539--541
   -- Classicismo ilimitado: Miguel Ângelo e os projetos para a basílica de São Pedro | 542--547
 ---
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
@@ -15,294 +19,6 @@ espaciais clássicos. Essa consolidação resulta na livre manipulação
 plástica de superfícies construídas e de espaços e na exploração de
 combinações cada vez mais elaboradas das ordens da arquitetura com
 molduras, esculturas e pinturas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Arquitetura clássica III › Superfícies e espaços #
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A arquitetura clássica se firma na Itália do século [XVI]{.smallcaps} como a única
-linguagem erudita em uso corrente. A partir do momento em que o seu
-sistema de regras está codificado nos tratados impressos, os arquitetos
-se dedicam a explorar modos variados de articular espaços e elementos da
-arquitetura. Os caminhos mais explorados nesse processo são a busca por
-"desmanchar" as paredes, visualmente mas *não* fisicamente, e a
-resolução de quinas reentrantes e salientes usando as ordens clássicas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-1. Dissolução da parede: tramos alternados
-2. Volumes articulados
-3. Solução de quinas
-   a) Reentrantes
-   b) Salientes
-
-## Tramos alternados ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Progressiva dissolução da parede contínua.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-051-laurana-urbino/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Extensas superfícies murárias da arquitetura italiana tornam a cadência
-regular das colunatas de pilastras uma solução pouco interessante
-visualmente e muito diferente dos pórticos romanos que ela pretende
-imitar.
-
-![Luciano Laurana, palácio ducal de Urbino, pátio](){#fig:urbino}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Alberti dá a deixa ao articular os pilares da nave da igreja de
-Sant'Andrea, em Mântua, com pilastras. Essa composição, assim como a
-fachada, é baseada nos arcos de triunfo da Roma antiga. A composição
-albertiana introduz um ritmo A--B--A que dá variedade à superfície
-lateral da nave.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::: {.columns #fig:sandrea-lesene}
-::: {.column width=50%}
-![fachada](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png/747px-Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png){#fig:sandrea-leseneA}
-:::
-::: {.column width=50%}
-![nave [@mykaul:2007basilica]](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:sandrea-leseneB}
-:::
-
-Leon Battista Alberti, nave da igreja de Sant'Andrea, Mântua, 1470--1790
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Francesco di Giorgio traduz a composição do arco triunfal para fachadas
-com janelas. A superfície contínua da parede começa a perder
-protagonismo para o ritmo das pilastras emparelhadas e das janelas.
-
-![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513. @monti:1979palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg){#fig:cancelleria}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500. @pelagalli:2010roma](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg){#fig:torlonia}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-051-caprini/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No palácio Caprini, Bramante opta por colunas acopladas à parede em vez
-de pilastras. Essa solução projeta sombras mais demarcadas sobre a
-parede, contribuindo para a desmaterializar.
-
-![Donato Bramante, palácio Caprini dito "casa de Rafael", Vaticano,
-1501--1510](https://www.integra.unb.br/s/tau6-051-caprini/preview){#fig:caprini}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Casa_Sancta_Lauretana.jpg/1280px-Casa_Sancta_Lauretana.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, escrínio da Santa Casa, Loreto, 1509. @flavus:2012santuario](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Casa_Sancta_Lauretana.jpg/640px-Casa_Sancta_Lauretana.jpg){#fig:loreto}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Claustro_Pace_09.JPG/1280px-Claustro_Pace_09.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504. @cuesta:2014roma](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Claustro_Pace_09.JPG/640px-Claustro_Pace_09.JPG){#fig:claustro-pace-travee}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Superfícies com volumetria ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Farnesina_Loggia_di_Psiche._11.jpg/1280px-Farnesina_Loggia_di_Psiche._11.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Rafael Sanzio, villa Farnesina, loggia, 1518. @cuesta:2011roma](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Farnesina_Loggia_di_Psiche._11.jpg/640px-Farnesina_Loggia_di_Psiche._11.jpg){#fig:farnesina-loggia}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1280px-Chiostro_SM_della_Pace.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504. @jastrow:2006cloister](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg){#fig:claustro-pace-volume}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Observar a transição espacial.
-
-![Rafael Sanzio, Escola de Atenas, afresco na stanza della Segnatura, palácio do Vaticano, 1509](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/990px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg){#fig:atenas}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-051-madama-restit/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Transições espaciais. Observar assimetria localizada.
-
-![Rafael Sanzio, villa Madama, Roma, iniciada em 1518. Reconstituição do projeto inicial](https://www.integra.unb.br/s/tau6-051-madama-restit/preview){#fig:madama-restit}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Busca pela unificação das composições nas fachadas romanas. Ao contrário
-da sobreposição de níveis do Renascimento toscano, simples distinção
-entre pedestal (térreo e sobreloja) e elemento dominante (andar nobre e
-acréscimos).
-
-![Giulio Romano, palácio Maccarani, Roma, 1519--1520](){#fig:maccarani}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-051-tarugi/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ordem colossal como solução última de unificação da fachada.
-
-![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](https://www.integra.unb.br/s/tau6-051-tarugi/preview){#fig:tarugi}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mas isto é uma história para depois...
-
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/849px-Palazzo_d%27Antica_Zecca.jpg){#fig:zecca}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Quinas reentrantes ##
-
-* * * *
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420--1429. @monti:1975basilica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia width=100%}
-:::
-::: {.column width=50%}
-![Cesare Cesariano, esquema de templo *in antis* da tradução do tratado *Da arquitetura* de Vitrúvio, 1521](https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview){#fig:cesariano-in-antis width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita%2C_cappella_capponi_11.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. @sailko:2008santa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita%2C_cappella_capponi_11.JPG/576px-Santa_felicita%2C_cappella_capponi_11.JPG){#fig:capponi}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/1280px-Chiesa_delle_carceri%2C_int.%2C_01.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. @sailko:2013santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/640px-Chiesa_delle_carceri%2C_int.%2C_01.JPG){#fig:carceri-int}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/1280px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492--1495. @sailko:2017santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/640px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg){#fig:carceri-fregio}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Giuliano da Sangallo e Simone del Pollaiolo, sacristia da igreja de Santo Spirito, Florença, 1489--1492. Crucifixo por Miguel Ângelo Buonarroti. Albino Todeschini](https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview){#fig:santo-spirito-sagrestia}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1280px-Chiostro_SM_della_Pace.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500--1504. @jastrow:2006cloister](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg){#fig:claustro-pace-lesene}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Quinas salientes ##
-
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Leon Battista Alberti, igreja de Sant'Andrea, Mântua, iniciada em 1470](){#fig:sandrea-outcorner}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-051-ssatiro/preview"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Trompe l'oeil
-
-![Donato Bramante, igreja de Santa Maria presso San Satiro, Milão, 1485](https://www.integra.unb.br/s/tau6-051-ssatiro/preview){#fig:smaria-satiro}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cupole_interne.jpg/1280px-Cupole_interne.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Cola da Caprarola e outros, capela de Santa Maria della Consolazione, Todi, iniciada em 1508. @puggioni:2014santa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cupole_interne.jpg/640px-Cupole_interne.jpg){#fig:consolazione-cupole}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Maria_del_Popolo_Capella_Chigi.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Quinas reentrantes se tornam salientes com concavidade.
-
-![Rafael Sanzio, capela Chigi, igreja de Santa Maria del Popolo, Roma, 1513. @peter1936f:2014santa](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Maria_del_Popolo_Capella_Chigi.jpg/640px-Santa_Maria_del_Popolo_Capella_Chigi.jpg){#fig:cap-chigi}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-![Rafael, planta da capela Chigi, c. 1512](https://upload.wikimedia.org/wikipedia/commons/0/0d/Chigi_raphael_plan.jpg){#fig:chigi-plan .stretch}
-
-## {data-background-image="https://mapio.net/images-p/9469284.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Rafael Sanzio, villa Madama, Roma](https://mapio.net/images-p/9469284.jpg){#fig:madama}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Montepulciano_-_Madonna_di_San_Biagio.JPG/1280px-Montepulciano_-_Madonna_di_San_Biagio.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Antonio da Sangallo, o velho, Madonna di San Biagio, Montepulciano, 1518. @renalias:2003montepulciano](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Montepulciano_-_Madonna_di_San_Biagio.JPG/640px-Montepulciano_-_Madonna_di_San_Biagio.JPG){#fig:sbiagio-ext}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:sbiagio-int}
-::: {.column width=50%}
-![vista](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Character_of_Renaissance_Architecture_0108.jpg/737px-Character_of_Renaissance_Architecture_0108.jpg){#fig:sbiagio-intA}
-:::
-::: {.column width=50%}
-![planta](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Character_of_Renaissance_Architecture_0107.jpg/663px-Character_of_Renaissance_Architecture_0107.jpg){#fig:sbiagio-intB}
-:::
-Antonio da Sangallo, o velho, Madonna di San Biagio, Montepulciano, 1518
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Arquitetura sem quinas ##
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Solução última para o problema das quinas é não ter quinas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:tempietto}
-::: {.column width=50%}
-![elevação](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tempietto-1.jpg/572px-Tempietto-1.jpg){#fig:tempiettoA}
-:::
-::: {.column width=50%}
-![vista. @peter1936f:2016san](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/San_Pietro_in_Montorio%3B_Tempietto_del_Bramante.jpg/576px-San_Pietro_in_Montorio%3B_Tempietto_del_Bramante.jpg){#fig:tempiettoB} 
-:::
-Donato Bramante, "Tempietto" (santuário de San Pietro in Montorio), 1502--1504
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Conclusão ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A realização da arquitetura "perfeita" no Tempietto de Bramante é o
-último estágio de um processo que começou na segunda metade do século [XV]{.smallcaps}
-com as tábuas de Urbino, Berlim e Baltimore. O Tempietto é a versão
-construída daquilo que as perspectivas de cidades ideais imaginaram.
-O tipo do pavilhão ideal vai ser constantemente revisitado na história
-da arquitetura, sobretudo em parques e jardins. No entanto, essa
-perfeição ideal é um caminho que não pode ser conciliado com o objetivo
-maior da arquitetura clássica: o ordenamento global do espaço construído
-na cidade real. Por isso, a arquitetura italiana do século [XVI]{.smallcaps} vai
-explorar, sobretudo, a articulação de sequências de composições no
-espaço. Ela vai, por fim, se encaminhar para um sistema de composição
-que garanta a harmonia e continuidade do conjunto urbano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tratamento escultórico do espaço #
@@ -355,6 +71,14 @@ o que se entende normalmente como espaço interior --- por isso Tempietto
 - Demarca espessura da parede e permite inserção de espaços de serviço
 - Manipulações plásticas do primeiro Miguel Ângelo em Florença
 - Escadarias
+
+## Palladio ##
+
+## Registro bucólico ##
+
+## Permutações ##
+
+## Dos *Quatro Livros* a Scamozzi ##
 
 ## Conclusão ##
 
@@ -560,4 +284,244 @@ São Pedro no Vaticano constitui a matéria-prima para as explorações
 formais, espaciais e estruturais da arquitetura europeia no século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Da tipologia espacial ao projeto geométrico #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Segundo Argan, mas alertar sobre noção de "progresso"
+- Bernini: Classicismo para além do clássico
+- Borromini e Guarini
+- Plautilla Bricci: círculo de Elpidio Benedetti
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Fachadas, plano e recessão ##
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na Itália da segunda metade do século [XVI]{.smallcaps}, há uma gradual elaboração das
+fachadas, sobretudo nas igrejas. Esse processo é análogo ao que acontece
+com os volumes e a articulação de superfícies interiores das edificações
+monumentais. A fachada deixa de ser um anteparo plano --- ou *em planos*
+sobrepostos com nítida distinção entre si --- para se tornar um jogo
+cada vez mais complexo de massas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Leon Battista Alberti, fachada da igreja de Santa Maria Novella, Florença, 1450--1470. @otrebski:2009florence](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Firenze_kosciol_Santa_Maria_Novella_3.jpg/576px-Firenze_kosciol_Santa_Maria_Novella_3.jpg){#fig:sm-novella width=100% .stretch}
+:::
+::: {.column width=50%}
+![Andrea Palladio, fachada da igreja de San Giorgio Maggiore, Veneza, 1566--1610. @ribeiro:2016facade](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg/600px-Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg){#fig:sgiorgiomag-1 width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Andrea Palladio, fachada da igreja de San Giorgio Maggiore, Veneza, 1566--1610. @ribeiro:2016facade](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg/600px-Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg){#fig:sgiorgiomag-2 width=100% .stretch}
+:::
+::: {.column width=50%}
+![Andrea Palladio, fachada da igreja do Redentor, Veneza, 1577--1592. @redentore:2017](https://64.media.tumblr.com/b73266a9b3b97a6df19a336dd7701912/tumblr_osmsalVOMt1uue6sco1_1280.jpg){#fig:redentore width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Jacopo Barozzi da Vignola, projeto para a fachada da igreja do Gesù, Roma, 1568. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Character_of_Renaissance_Architecture_0123.jpg/649px-Character_of_Renaissance_Architecture_0123.jpg){#fig:gesu-vignola width=100% .stretch}
+:::
+::: {.column width=50%}
+![Giacomo Della Porta, projeto para a fachada da igreja do Gesù, Roma, 1575? @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Character_of_Renaissance_Architecture_0124.jpg/599px-Character_of_Renaissance_Architecture_0124.jpg){#fig:gesu-dellaporta-dis width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Giacomo Della Porta, fachada da igreja do Gesù, Roma, 1575--1584. @damato:2013church](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Church_of_the_Gesù,_Rome.jpg/666px-Church_of_the_Gesù,_Rome.jpg){#fig:gesu-dellaporta width=100% .stretch}
+:::
+::: {.column width=50%}
+![Carlo Maderno, igreja de Santa Susanna, Roma, 1585--1603. @architas:2018susanna](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Santa_Susanna_(Rome)_-_Front.jpg/525px-Santa_Susanna_(Rome)_-_Front.jpg){#fig:susanna-1 width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Carlo Maderno, igreja de Santa Susanna, Roma, 1585--1603. @architas:2018susanna](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Santa_Susanna_(Rome)_-_Front.jpg/525px-Santa_Susanna_(Rome)_-_Front.jpg){#fig:susanna-2 width=100% .stretch}
+:::
+::: {.column width=50%}
+![Giovanni Battista Soria, fachada da igreja de Santa Maria della Vittoria, Roma, 1624--1626. @architas:2018vittoria](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg/539px-Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg){#fig:vittoria width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Pietro Perugino, Anunciação, igreja de Santa Maria Nuova, Fano, 1489](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pietro_Perugino_cat23.jpg/529px-Pietro_Perugino_cat23.jpg){#fig:perugino-annunciazione width=100% .stretch}
+:::
+::: {.column width=50%}
+![Artemisia Gentileschi, Anunciação, 1630](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/529px-Verk%C3%BCndigung_an_maria.jpg){#fig:artemisia-annunciazione width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Geometria e pintura ##
+
+![Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568. @fletcher:1905history](http://www.wikitecnica.com/wp-content/uploads/2013/11/725_chiesa_del_gesù-1024x814.jpg){#fig:gesu-fletcher .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/3864px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568--1584. @gemini:2019chiesa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/576px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg){#fig:gesu-nave}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1280px-Gesù-Cupola01-SteO153.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Cúpula da igreja do Gesù, Roma, estrutura de Giacomo Della Porta, afrescos de Giovan Battista Gaulli « il Baccicio », 1674--1679. @steo153:2007dome](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1024px-Gesù-Cupola01-SteO153.JPG){#fig:gesu-cupola}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1280px-Triumph_St_Ignatius_Pozzo.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Andrea Pozzo, Apoteose de Santo Inácio de Loiola, 1685. Afresco na abóbada da nave da igreja de Santo Inácio, Roma](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1024px-Triumph_St_Ignatius_Pozzo.jpg){#fig:pozzo-apoteosi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg"}
+
+![Plautilla Bricci, villa Il Vascello (o navio), Roma, 1647, fachada principal](http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg){#fig:vascello-fac}
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:vascello-lat}
+::: {.column width=50%}
+![norte](https://archipendolo.files.wordpress.com/2015/11/fig-3.jpg){#fig:vascello-latA width=100% .stretch}
+:::
+::: {.column width=50%}
+![sul](https://archipendolo.files.wordpress.com/2015/11/fig.-2.jpg){#fig:vascello-latB width=100% .stretch}
+:::
+
+Plautilla Bricci, fachadas laterais da villa Il Vascello
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Espaço e projeto ##
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Miguel Ângelo Buonarroti, Pietà, 1499](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Michelangelo's_Pieta_5450_cropncleaned_edit.jpg/733px-Michelangelo's_Pieta_5450_cropncleaned_edit.jpg){#fig:pieta width=100% .stretch}
+:::
+::: {.column width=50%}
+![Gianlorenzo Bernini, Êxtase de Santa Teresa, igreja de Santa Maria della Vittoria, Roma, 1647--1652](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ecstasy_of_Saint_Teresa_September_2015-2a.jpg/484px-Ecstasy_of_Saint_Teresa_September_2015-2a.jpg){#fig:estasi width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1280px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Carlo Rainaldi, Santa Maria dei Miracoli, Roma, 1675 (direita). Gianlorenzo Bernini, Santa Maria in Montesanto, 1679 (esquerda). @halun:2014twin](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1024px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg){#fig:miracoli-montesanto}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png"}
+
+![Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant'Andrea al Quirinale, Roma, após 1658. Gravura por [Giovanni Battista Falda, 1667--1669][]](https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png){#fig:quirinale-falda .stretch}
+
+[Giovanni Battista Falda, 1667--1669]: https://commons.wikimedia.org/wiki/File:Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png
+
+* * * *
+
+![Gianlorenzo Bernini, Sant'Andrea al Quirinale, Roma, após 1658. Desenho autógrafo](https://en.wikiarquitectura.com/wp-content/uploads/2017/01/SantAndrea_al_Quirinale_28329_-_Plano_de_Bernini-1024x768.jpg){#fig:quirinale-pianta .stretch}
+
+* * * *
+
+![Gianlorenzo Bernini, Sant'Andrea al Quirinale, Roma, após 1658. [Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art][]](https://i.pinimg.com/originals/19/37/cc/1937ccca55120a73057d249de2f7b3b6.jpg){#fig:quirinale-sez .stretch}
+
+[Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art]: https://www.metmuseum.org/art/collection/search/397621
+
+* * * *
+
+![Esquema dos espaços interiores da igreja de Sant'Andrea al Quirinale. [Wikiarquitectura][]](https://en.wikiarquitectura.com/wp-content/uploads/2017/01/SantAndrea_al_Quirinale_28729-1024x779.jpg){#fig:quirinale-3d .stretch}
+
+[Wikiarquitectura]: https://es.wikiarquitectura.com/edificio/sant-andrea-al-quirinale/
+
+* * * *
+
+![Francesco Castelli, dito Borromini, San Carlo alle quattro fontane, Roma, 1638--1641. @fadu:san](http://www.aidfadu.com/imagenes/grandes/033506.jpg){#fig:scarlino-plan .stretch}
+
+## {data-background-image="https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Vista da cúpula da igreja de San Carlo alle quattro fontane](https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg){#fig:scarlino-cupola}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1280px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg"}
+
+![Nave da igreja de San Carlo alle quattro fontane. @livioandronico2013:2015carlino](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1024px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg){#fig:scarlino-navata .stretch} 
+
+<!--_,-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta explora mais radicalmente a geometria do que o corte. Será por
+isso que um modernista como Argan tem mais apreço pela "modernidade" de
+S. Carlino?
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Corte da igreja de San Carlo alle quattro fontane. Desenho de [Sebastiano Giannini (1730)] *ap.* @cheng:2012radical](https://jonathanchengfolio.files.wordpress.com/2012/08/san-carlo-section.jpg){#fig:scarlino-sez width=100% .stretch}
+:::
+::: {.column width=50%}
+![Análise geométrica da planta da igreja de San Carlo alle quattro fontane. @barocco:2017](https://4.bp.blogspot.com/-AqzPXafjpdI/WHd9pmmVYFI/AAAAAAAAPWE/ceB9PZalE-QblnH-m97-O6Ix61Y_FROjACLcB/s1600/Borromini_sancarlino_05.jpg){#fig:scarlino-analisi width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Sebastiano Giannini (1730)]: https://en.wikipedia.org/wiki/File:Borromini_Drawing_02-2009-23-01-retouched.jpg
+
+* * * *
+
+![Fachada da igreja de San Carlo alle quattro fontane. @monti:1950chiesa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6346853.jpg){#fig:scarlino-monti .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Francesco Borromini, capela universitária de Sant'Ivo alla Sapienza, Roma, 1642--1660. @lesnov:2010archivio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1024px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:santivo-court}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--_,-->
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Planta de Sant'Ivo alla Sapienza, desenho por [Sebastiano Giannini (1720)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/SantIvo_Drawing_08.jpg/575px-SantIvo_Drawing_08.jpg){#fig:santivo-plan width=100% .stretch}
+:::
+::: {.column width=50%}
+![Análise geométrica da planta de Sant'Ivo alla Sapienza](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SantIvo_Geometry.svg/799px-SantIvo_Geometry.svg.png){#fig:santivo-analisi width=100% .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Sebastiano Giannini (1720)]: https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_08.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1280px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg"}
+
+![Interior da cúpula de Sant'Ivo alla Sapienza. @architas:2018santivo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg){#fig:santivo-cupola .stretch}
+
+<!--_,-->
+
+* * * *
+
+![Análise volumétrica de Sant'Ivo alla Sapienza. *Ap.* @barocco:2017](https://3.bp.blogspot.com/-OS3tn3t3ZmU/WHd_rocyYGI/AAAAAAAAPWw/eUGsRrjGP78DZItYstQL689fDEajF6zzgCLcB/s1600/Borromini_santivo_04.jpg){#fig:santivo-spaccato .stretch}
+
+
+# Bibliografia # {- .allowframebreaks .unlisted}
+

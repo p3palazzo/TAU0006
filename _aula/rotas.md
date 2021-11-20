@@ -1,6 +1,9 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
-author  : "Pedro P. Palazzo"
+subtitle: "Cidades e redes na fundação do mundo moderno"
+item    : "I"
+author  : Pedro P. Palazzo
+date    : 2022-01-18
 abstract: |
   Parcelamento do solo e paisagem urbana
   – Cidades mercantes da rota da Seda e do oceano Índico
@@ -8,33 +11,368 @@ abstract: |
   – Infraestrutura hidráulica na América
 ---
 
+# Mundos conectados no início do século [XIV]{.smallcaps} #
+
+## Introdução à arquitetura da Idade Moderna ##
+
 <div class="sketchfab-embed-wrapper iframe-wrapper"> <iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> First terrestrial globe - Martin Behaim 1492 </a> by <a href="https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Drones Imaging </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-# Parcelamento do solo e paisagem urbana #
+##
 
-Os elementos e objetos da arquitetura têm uma ordem de precedência
-específica. A tipologia edilícia determina os padrões de ocupação do
-espaço urbano e rural: isso porque os tipos de casas usados numa certa
-sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
-de precedência se aplica ao parcelamento originário do solo, por
-exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
-do império Romano, ou nas vilas planejadas da Europa medieval.
+<!--Câmera-->
+O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
+para menos, mas isso não importa. Exatamente em 1420, termina a
+reconstrução do palácio imperial em Pequim, conhecido no Ocidente como a
+"Cidade proibida" ([@fig:danei]). No mesmo ano, começa a ser erigida a
+cúpula da catedral Santa Maria del Fiore, em Florença ([@fig:smfiore]). Os
+dois monumentos se apresentam como resgate e renovação de uma
+arquitetura *correta* herdada da Antiguidade.
+<!--/Câmera-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg"}
+
+![ Detalhe do rolo pintado do palácio, [Pequim, século [XV]{.smallcaps}
+](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .align-right}
+
+## {data-background-image="https://i.pinimg.com/originals/44/ad/da/44adda4c28cfc9a7a6cd7f43d1ebdc34.jpg"}
+
+![ Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
+Desenho: [Cigoli, 1613
+](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png#Licenciamento)
+](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png){#fig:smfiore}
+
+<!--_,-->
+
+Esses dois projetos dão o tom para um processo de consolidação das
+tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
+tradições se estabilizam em torno de de uma concepção do ofício da
+arquitetura inspirada em antigos tratados. Ao mesmo tempo, o conjunto
+arquitetônico imperial em Pequim e as novas construções do século [XV]{.smallcaps} em
+Florença dão a partida numa exploração de configurações cada vez mais
+diversificadas do espaço interior e exterior.
 
 ## {data-background-image=""}
 
-Uma vez cumprido esse processo originário de urbanização num território
-desocupado, a ordem de precedência se inverte: o parcelamento do solo
-preexistente, tanto no espaço urbano quanto no rural, passa a restringir
-as tipologias edilícias possíveis. Esta é a condição dominante da
-urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
-século [XIV]{.smallcaps}.
+<!--Câmera-->
+[A busca por justificação teórica]{.newthought} no passado é libertadora
+para a criação
+artística: ela demanda interpretação das fontes escritas e arqueológicas
+e, por meio dessa interpretação, permite ir além das convenções e
+técnicas consagradas no presente. Quanto mais se afirma a autoridade do
+modelo dito *clássico*, tanto mais a livre interpretação desse modelo
+passa a ser uma forma de resistência intelectual contra imposições
+autoritárias. Assim se desenvolve o conceito das artes visuais como
+trabalho *intelectual*.
+<!--/Câmera-->
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
-Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
-[XVI]{.smallcaps}, a realidade do território preexistente interferia com
-projetos políticos e ideológicos que visavam a reinstituir princípios
-teóricos da arquitetura e urbanísticos.
+Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
+filosofia escolástica e o estilo gótico desde o século [XII]{.smallcaps}
+[@panofsky:2001arquitetura]. A partir do século [XV]{.smallcaps}, ela passa a ocupar
+um lugar central na reflexão sobre o trabalho artístico e o lugar da
+criação humana na ordem do mundo ([@fig:veduta1495]).
+
+![[Atribuído a Giuliano da Sangallo
+](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
+Perspectiva arquitetônica com porto, c. 1495
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
+
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
+
+<!--Câmera-->
+Dois temas dominam a teoria e a prática da arquitetura e da pintura,
+desde o século [XV]{.smallcaps} até o [XVIII]{.smallcaps}: constituir um campo de *saber
+disciplinar* para a profissão e explorar maneiras de organizar e
+representar o *espaço*. Essas duas preocupações se iluminam mutuamente
+tanto na Ásia oriental quanto na Europa ocidental.
+<!--/Câmera-->
+
+Os problemas de como *dar forma* ao espaço e como *representar* essa
+forma no desenho e na pintura se tornam centrais na China da dinastia
+Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
+partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
+
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
+
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
+
+<!--_,-->
+
+Nos dois casos, o desenvolvimento de
+técnicas espaciais vem associado a uma discussão sobre o lugar dos
+conhecimentos artísticos e arquitetônicos no campo dos saberes
+*intelectuais*, e portanto sobre o papel do próprio artista e do
+arquiteto numa sociedade letrada e no contexto das chamadas *artes
+liberais*.
+
+##
+
+. . .
+
+- As artes *liberais* --- como História, Matemática --- fornecem
+  conhecimentos e métodos que legitimam as artes plásticas e a
+  arquitetura.
+
+. . .
+
+- A arquitetura e as artes plásticas ilustram e interpretam a visão de
+  mundo formulada pelo conhecimento intelectual, mas também pelo poder
+  político.
+
+##
+
+Com o Renascimento, a distinção entre *artes liberais* --- os produtos
+do raciocínio lógico e da retórica, como História, Geometria, Música e
+Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
+que nós hoje consideramos como *artísticas* --- vai então sendo
+questionada e reformulada.
+
+##
+
+<!--Câmera-->
+[Na Ásia oriental e na Europa ocidental,]{.newthought}
+
+a partir do século [XV]{.smallcaps}, as arte
+visuais em geral e a arquitetura em particular se consolidam como um
+*corpo de conhecimentos* teóricos e técnicos registrados por escrito em
+*tratados*: livros impressos que reivindicam uma autoridade normativa
+herdada da cultura clássica [@choay:1986regra].
+<!--/Câmera-->
+
+##
+
+A China sai em vantagem com o [*Yingzao
+fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
+([@fig:yingzao-fashi]), um livro impresso e ilustrado do ano 1103 --- 350
+anos antes do primeiro tratado do Renascimento italiano. O autor do
+*Yingzao fashi* é Li Jie (1065--1110), um arquiteto da casa Imperial na
+dinastia Song, um período que os chineses do século [XIV]{.smallcaps} em diante
+consideravam como o ponto alto das letras e das artes
+[@liang:2005chinese].
+
+Enquanto isso, na Europa, o tratado de arquitetura de Vitrúvio, escrito
+por volta de 15 a.C., sobrevive em cópias manuscritas nos mosteiros
+medievais [@conant:1968after-life27]. O interesse europeu por esse texto
+clássico só *renasce* de fato na metade do século [XV]{.smallcaps}. Por essa época, as
+poucas figuras que faziam parte do tratado já tinham desaparecido, e o
+Renascimento italiano começa justamente com um esforço *colossal* de
+reconstituir a interpretação considerada correta do conhecimento antigo.
+
+Uma das interpretações mais refinadas dessa arquitetura inspirada na
+Antiguidade clássica é o *Sistema das cinco espécies de colunas segundo
+o método dos Antigos*, publicado em 1683 pelo francês Claude Perrault
+(1613--1688). Mas o *Sistema* de Perrault é também um dos últimos desse
+gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquitetônico
+*clássico* enfrenta uma crise de legitimidade.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi .stretch}
+:::
+::: {.column width=50%}
+![Cinco ordens de arquitetura por Claude Perrault
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance .stretch} 
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
+
+<!--_,-->
+
+Se o domínio global do espaço é a preocupação dominante das artes
+visuais e da arquitetura do século [XV]{.smallcaps} em diante, a cidade é onde esse
+domínio se exercita antes de se ampliar para a escala de territórios
+regionais ou nacionais no século [XVIII]{.smallcaps}. No início desse processo, o
+espaço ordenado pela arquitetura é aquele que pode ser abarcado,
+literalmente, num só golpe de vista ([@fig:carnevale]).
+
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
+
+Esse golpe de vista pode ser simbólico: nos séculos [XV]{.smallcaps} a [XVII]{.smallcaps} as vistas
+panorâmicas de cidades aparecem associadas à afirmação da justiça
+municipal, da conquista militar ou da capacidade política de ordenamento
+do território ([@fig:versailles-patel]).
+
+![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
+
+Às vezes os panoramas urbanos afirmam a unidade do poder político.
+Outras vezes, como na pintura da escola *tosa* no Japão do século [XVI]{.smallcaps} e
+início do [XVII]{.smallcaps}, podem celebrar o fato efêmero da fragmentação do poder
+central, que por um breve momento dá lugar à autonomia burguesa
+([@fig:funaki]).
+
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
+
+<!--Câmera-->
+Por tudo isso, o espaço urbano na virada do século [XIV]{.smallcaps} é o ponto de
+partida e a base indispensável para o estudo da arquitetura até o final
+do século [XVIII]{.smallcaps}. Durante todo esse período, as redes mundiais de
+comércio e de trocas culturais ainda permite o desenvolvimento de formas
+urbanas muito variadas.
+<!--/Câmera-->
+
+
+## Mundos conectados no início do século [XIV]{.smallcaps} ##
+
+##
+
+A "[Globalização][]"
+é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
+relações de poder em escala mundial, com a expansão europeia dos séculos
+[XVI]{.smallcaps} a [XIX]{.smallcaps}, foi tão brutal que às vezes perdemos de vista o quanto essas
+redes e relações já eram globais desde a Idade Média.
+
+Mesmo a América não estava tão isolada dos outros continentes quanto
+parece: pelo menos até o início do século [XIV]{.smallcaps}, os navegadores vikings e
+polinésios tinham algum contato, ainda que não muito intenso, com os
+povos do litoral americano.
+
+No início do século X, os vikings se estabeleceram na Groenlândia, de
+onde faziam comércio com os povos do Ártico. Do século [XI]{.smallcaps} ao [XIV]{.smallcaps}, eles
+visitaram a América do Norte temperada e fundaram pelo menos uma aldeia
+na costa oeste do Atlântico norte.
+
+[Globalização]: https://pt.wikipedia.org/wiki/Globaliza%C3%A7%C3%A3o
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Mundo nórdico, séculos [X--XIV]{.smallcaps}. Desenho: [Redgeographics, 2016
+](https://commons.wikimedia.org/wiki/File:NorseExplorations-v2.png)
+](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100%} 
+:::
+::: {.column width=50%}
+![Triângulo polinésio e migrações até o século X. Desenho: [David
+Eccles, 2008
+](https://commons.wikimedia.org/wiki/File:Polynesian_Migration.svg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100%} 
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+No oceano Pacífico, os navegantes polinésios parecem ter [atingido a
+costa da América do Sul no século
+[XIII]{.smallcaps}](https://en.wikipedia.org/wiki/Pre-Columbian_trans-oceanic_contact_theories#Claims_of_Polynesian_contact).
+Eles podem ter introduzido a Cúrcuma na América, e levado de lá a batata
+doce e ervas medicinais.
+
+![Expansão polinésia até o século [XIII]{.smallcaps}. Desenho: [Miles Benton, 2012
+](https://doi.org/10.1371/journal.pone.0035026)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png){width=100%}
+
+<!--_,-->
+
+##
+
+Um dos primeiros manuais de história da arquitetura a incluir a América
+precolombiana foi o do francês Auguste Choisy em 1899. Esse texto era
+adotado na prestigiosa Escola de Belas-Artes de Paris. Ele explicava as
+"pirâmides" dos maias e astecas como uma importação dos terraplenos
+chineses ([@fig:choisy-pacific]). Na cabeça de um europeu do final do
+século [XIX]{.smallcaps}, chineses atravessando o oceano Pacífico na mais remota
+Antiguidade parecia mais provável do que uns "índios no meio da selva"
+sendo capazes de criar arquitetura monumental.
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=70%}
+![Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas [@choisy:1899histoire1, 198]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architectures_du_Nouveau-Monde_fig._1,_from_Histoire_de_l%27architecture_t._I_p._198.png/1280px-Architectures_du_Nouveau-Monde_fig._1,_from_Histoire_de_l%27architecture_t._I_p._198.png){#fig:choisy-pacific width=100% .stretch}
+:::
+::: {.column width=30%}
+![Auguste Choisy fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+[Por causa de interpretações como essa,]{.newthought}
+a ideia de um mundo antigo e
+medieval globalmente conectado tende a ser olhada com uma desconfiança
+compreensível hoje em dia. Em mais de uma ocasião, o argumento da
+circulação mundial na Antiguidade foi usado para sustentar teses
+colonialistas, de que certos povos não seriam capazes de desenvolver uma
+arquitetura monumental sem ajuda externa ([@fig:aliens]).
+
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer, não quer dizer que foram alienígenas"](https://www.integra.unb.br/s/JiwpkE4QWCnCfnS/preview){#fig:aliens .align-right .stretch}
+
+## {data-background-image="https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg"}
+
+Para além disso, a hegemonia tecnológica e política que a Europa atingiu
+no século [XIX]{.smallcaps} ajudou a cultivar um conceito distorcido de evolução. Na
+visão europeia da época, a evolução seria essencialmente linear
+([@fig:civ6]), e todas as sociedades que seguiram outro percurso cultural
+e tecnológico que não o europeu seriam, portanto, "primitivas".
+
+Desmentindo essa visão linear que tende a justificar a colonização dos
+"primitivos" pelos "modernos", os territórios em volta do oceano Índico
+no século [XIV]{.smallcaps} abrigam uma grande variedade de sociedades com modelos
+culturais e urbanísticos diversos. Esse conjunto forma a maior rede
+comercial do mundo no início da Idade Moderna.
+
+!["Árvore" tecnológica linear no jogo *Civilization VI*](https://i.pinimg.com/originals/ac/5f/fc/ac5ffc68fce5e875ed1574ffa73efdc6.jpg){#fig:civ6 .fullwidth}
+
+##
+
+Nas redes globais do século [XIV]{.smallcaps} em diante, o oceano Índico ocupa um
+lugar privilegiado como articulador de trocas econômicas, culturais e
+religiosas. Segundo a historiadora da urbanização [Janet Lippman
+Abu-Lughod (1928--2013)](https://en.wikipedia.org/wiki/Janet_Abu-Lughod), o
+"sistema mundial" centrado no comércio marítimo do oceano Índico dominou
+o comércio internacional entre 1250 e 1350. A Europa e a China ocupavam
+uma posição periférica nesse sistema, controlado por mercadores
+muçulmanos.
+
+:::::: {.columns}
+::: {.column width=30%}
+![Janet Lippman Abu-Lughod [@zolberg:2013remembering]](https://i1.wp.com/publicseminar.org/wp-content/uploads/2013/12/Janet-Lippman-Abu-Lughod.jpg){#fig:lippman width=100%}
+::: 
+::: {.column width=70%}
+![Esferas econômico-culturais, 1250--1350 [@derfel73:2011thirteenth]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png){#fig:esferas width=100%}
+:::
+::::::
+
+##
+
+![Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%8Dndico_e_rota_da_Seda_s%C3%A9culo_XIV.png){#fig:indico-redes height=640px}
+
+<!--_,-->
+
+[Uma combinação de mudanças climáticas,]{.newthought}
+pandemias e reestruturações
+político-econômicas em todos os continentes afeta as redes comerciais e
+culturais em meados do século [XIV]{.smallcaps} e provoca a ruptura de muitas conexões
+globais. Um resfriamento global dá o pontapé
+inicial numa sequência de choques que levam à reorganização econômica e
+política da era moderna. O mais famoso desses choques é a pandemia de
+peste que se espalha da China para a Europa no ano de 1348.
+
+Na nova ordem econômica e política do século [XV]{.smallcaps}, a rota da Seda,
+terrestre, e o sistema de navegação com as monções, no oceano Índico,
+continuam sendo os caminhos estruturantes. Os mercadores muçulmanos
+escoam produtos sobretudo de leste para oeste, ouro e prata fluem no
+sentido oposto. Especiarias das ilhas indonésias, porcelana e seda da
+China, tapeçarias da Ásia central chegam à costa leste da África e ao
+Mediterrâneo ([@fig:indico-redes]).
+
+<!--Câmera-->
+Nas margens desse sistema de rotas, várias cidades-estado prosperam
+graças ao controle de pontos de passagem obrigatórios. Trowulan e
+Malacca nos estreitos malaios do Sudeste asiático, Lamu e Quíloa na
+costa suaíle da África, e Veneza na Europa mediterrânea são totalmente
+especializadas no comércio durante os séculos [XIV]{.smallcaps} e [XV]{.smallcaps}. A forma urbana
+dessas cidades reflete as diferentes respostas que cada uma dá às
+necessidades funcionais do comércio e às condições geográficas e
+climáticas onde elas se desenvolvem.
+<!--/Câmera-->
 
 # Kampung malaio #
 
@@ -455,223 +793,274 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 
 ![Interior da mesquita maior de Quíloa Quisiuane. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int}
 
-# Cidade e praça na Europa #
-
-## {data-background-image="https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg"}
-
-Ao contrário da China, na Europa a praça pública se reveste desde as
-suas origens de um caráter essencialmente político. A ágora grega e o
-fórum romano são os lugares do exercício da cidadania, representando a
-governança colegiada --- ainda que elitista --- das cidades. O fórum das
-cidades romanas tem uma configuração morfológica bastante precisa: um
-retângulo alongado, delimitado por colunatas, com o templo principal da
-cidade numa das cabeceiras, e os edifícios da administração municipal
-geralmente ocupando a outra extremidade.
-
-![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg){#fig:pompei}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
-
-<!--_,-->
-
-![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
-
-No entanto, mais do que a forma desse espaço, o que importa na cidade
-romana e medieval é o seu papel de centro das decisões políticas. A
-"praça pública" representa, desde então, a esfera da vida coletiva e das
-decisões políticas. O seu papel como centro da gestão municipal e da
-vivência comunitária se torna a sua característica principal.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png"}
-
-Por isso, as praças medievais funcionam como articulação de espaços
-necessários à vida urbana. O espaço urbano é contido nele mesmo, e a
-crescente complexidade das atividades políticas e comerciais da cidade
-se resolve numa sucessão de praças conectadas entre si. A forma urbana
-ideal, desse ponto de vista, não é necessariamente uma geometria
-impecavelmente regular, mas si uma hierarquia espacial clara.
-
-![Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena}
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-031-bacon-todi-98/preview"}
-
-![Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974](https://www.integra.unb.br/s/tau0006-031-bacon-todi-98/preview){#fig:todi}
-
-A importância desses grupos de praças articuladas entre si e com os
-principais edifícios cívicos foi percebida pelo urbanista austríaco
-Camillo Sitte no seu livro *A construção das cidades segundo seus
-princípios artísticos*, publicado em 1901. Sitte alertou que essas
-articulações geometricamente irregulares de praças e ruas estavam
-desaparecendo em toda a Europa diante do avanço das reformas urbanas do
-final do século [XIX]{.smallcaps}. Ele alertou para o fato de que os grupos de praças
-eram uma forma simples e conveniente de separar o tráfego de veículos
-dos espaços pedonais, protegendo os pedestres, ao contrário das grandes
-avenidas contemporâneas, cheias de cruzamentos perigosos.
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-031-vallardi-modena/preview"}
-
-As sequências de ruas estreitas e praças pequenas oferecem cenários
-pitorescos, com campos visuais claramente delimitados. Esse controle dos
-pontos de vista possíveis numa praça europeia poderia ser uma das
-origens da perspectiva linear na pintura do Renascimento?
-
-![Módena, planta Vallardi de 1870](https://www.integra.unb.br/s/tau0006-031-vallardi-modena/preview){#fig:modena}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg"}
-
-<!--_,-->
-
-![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg){#fig:bellotto-signoria}
-
-Os monumentos, estátuas ou fontes, livremente dispostos no interior da
-praça, contribuem para organização regular do espaço.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg"}
-
-<!--_,-->
-
-![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg){#fig:zocchi-signoria}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg"}
-
-<!--_,-->
-
-![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .fullwidth}
-
-Em qualquer caso, no século [XV]{.smallcaps} a pintura em perspectiva no centro da
-Itália começa a propor não só uma sucessão de espaços contidos e
-delimitados, mas também a regularidade geométrica dos elementos que
-"povoam" esse espaço. Essa transformação está bem representada nas
-tábuas de Urbino, Baltimore e Berlim --- uma sequência de três pinturas
-em têmpera sobre madeira, cada uma com cerca de 2 metros de largura,
-representando vistas urbanas imaginárias.
-
-A disposição ortogonal de todos os edifícios entre e si e com respeito
-ao ponto de vista da imagem é não só uma conveniência técnica, mas um
-modo de afirmar a perfeição geométrica do conjunto.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg/1280px-Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
-
-<!--_,-->
-
-Num primeiro momento, na segunda metade do século [XV]{.smallcaps}, os próprios
-edifícios são as personagens principais da cena, talvez com uma
-construção dominante no centro da composição. O espaço é,
-principalmente, um recurso para ordenar a disposição desses edifícios,
-auxiliado pela regularidade na paginação do piso sempre pavimentado.
-
-![Giuliano da Sangallo (atribuição), Cidade ideal. Tábua de Baltimore, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg/1280px-Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
-
-![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin .fullwidth}
-
-<!--_,-->
-
-Em pouco tempo, porém, antes mesmo do final do século [XV]{.smallcaps}, o interesse
-artístico se desloca da representação de *construções no espaço* para a
-representação *do próprio espaço*. As construções passam de personagens
-principais, plenamente volumétricas, para simples instrumentos que dão
-forma ao espaço, contornando seus limites e criando superfícies
-tangíveis e visualmente articuladas para o espaço.
-
-A busca pela representação do espaço, e pela articulação entre matéria e
-vazio, que na China do século [XII]{.smallcaps} assume a forma de um diálogo entre
-névoa e paisagem, na Itália do século [XV]{.smallcaps} resulta numa busca pela
-descrição e delimitação geométrica do espaço.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG"}
-
-A opção, feita pelos artistas da Itália central no final do século [XV]{.smallcaps},
-de representar prioritariamente *o espaço*, em detrimento da
-individualidade das edificações, representa talvez as duas
-características mais marcantes do urbanismo ocidental na Idade Moderna.
-Primeiro, ela sustenta que o projeto da edificação e o projeto da cidade
-são uma coisa só: segundo o tratado *Da arte de edificar*, completado em
-1452 por Leon Battista Alberti, todas as escalas de intervenção
-pertencem ao mesmo domínio da "cosa mentale" --- a operação intelectual
-do desenho. Segundo, nesse gradiente contínuo do projeto da casa para o
-projeto da cidade, ela estabelece que a forma do espaço urbano vem
-primeiro, domina e determina a forma da edificação.
-
-![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .stretch}
-
-## {.unlisted}
-
-Essa ideologia do projeto do espaço confere à praça um novo significado
-político e simbólico. A praça é entendida como uma composição completa
-em si mesma --- uma sala ao ar livre. Se, ao final deste semestre, vocês
-só se lembrarem de uma única frase de tudo o que dissemos aqui,
-lembrem-se desta:
-
-. . .
-
-### A praça é
-
-. . .
-
-### U M A   S A L A   A O   A R   L I V R E.
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-031-pienza-rilievo/preview"}
-
-![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://www.integra.unb.br/s/tau0006-031-pienza-rilievo/preview){#fig:pienza-plan}
-
-Em Pienza, a cidade do papa Pio II, o arquiteto Bernardo Rossellino
-projeta um centro urbano "monumental" (isto é, geometricamente
-ordenado). A praça de Pienza tem um caráter episódico e interiorizado,
-em concordância com a lógica da praça medieval europeia. As construções
-são subordinadas ao conjunto e uniformizadas pela necessidade de criarem
-um espaço harmonioso. O espaço vazio tem a sua forma claramente
-definida, mesmo que a sua planta não seja perfeitamente retangular. A
-regularidade geométrica é sempre um objetivo *ideal* a ser atingido, mas
-nunca impede a realização da simetria *possível*.
-
-## {data-background-image="https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg"}
-
-Em espaços que se desenvolvem gradualmente ao longo do tempo, a reforma
-das fachadas, geralmente com a introdução de arcadas, é um dos
-expedientes mais comuns para se atingir a regularidade formal. Na praça
-ducal de Vigevano, remanescente de um antigo hipódromo romano, todos os
-edifícios --- mesmo os mais importantes, como a catedral --- se submetem
-à forma do espaço.
-
-![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .fullwidth}
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-031-vigevano-veduta/preview"}
-
-![Praça ducal, Vigevano](https://www.integra.unb.br/s/tau0006-031-vigevano-veduta/preview){#fig:vigevano-plan .fullwidth}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"}
-
-![Praça ducal, Vigevano, vista para a catedral. Foto: [Alien66, 2012](https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo}
-
-A form geométrica do espaço, mais uma vez, pode se acomodar não sendo
-absolutamente ortogonal ou simétrica, desde que mantenha regularidade
-suficiente.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paolo_Monti_-_Servizio_fotografico_(Vigevano,_1980)_-_BEIC_6330819.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_(Vigevano,_1980)_-_BEIC_6330819.jpg"}
-
-![Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paolo_Monti_-_Servizio_fotografico_(Vigevano,_1980)_-_BEIC_6330819.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_(Vigevano,_1980)_-_BEIC_6330819.jpg){#fig:vigevano-monti}
-
-<!--_,-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"}
-
-![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .fullwidth}
-
-Muitos desses espaços urbanos adquirem a sua forma ao longo de décadas
-ou mesmo séculos. É o caso da praça da SS. Annunziata, em Florença. A
-sequência de arcadas que delimitam o espaço urbano é executada
-gradualmente, do século [XIV]{.smallcaps} até o [XVII]{.smallcaps}.
-
-## {data-background-image="https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-bg/preview"}
-
-A praça ilustra o que Edmund Bacon chamou de "princípio do segundo
-homem": a condição para um desenho urbano ser coerente e completo é que
-cada intervenção sucessiva acompanhe e fortaleça as realizações
-anteriores.
-
-![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV]{.smallcaps}--[XVII]{.smallcaps}. Bacon, 1974](https://www.integra.unb.br/s/tau0006-031-bacon-annunziata-sq/preview){#fig:annunziata-bacon}
+# Campo e canal em Veneza #
+
+## Parcelamento do solo e paisagem urbana ##
+
+Os elementos e objetos da arquitetura têm uma ordem de precedência
+específica. A tipologia edilícia determina os padrões de ocupação do
+espaço urbano e rural: isso porque os tipos de casas usados numa certa
+sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
+de precedência se aplica ao parcelamento originário do solo, por
+exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
+do império Romano, ou nas vilas planejadas da Europa medieval.
+
+## {data-background-image=""}
+
+Uma vez cumprido esse processo originário de urbanização num território
+desocupado, a ordem de precedência se inverte: o parcelamento do solo
+preexistente, tanto no espaço urbano quanto no rural, passa a restringir
+as tipologias edilícias possíveis. Esta é a condição dominante da
+urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
+século [XIV]{.smallcaps}.
+
+## {data-background-image=""}
+
+Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
+[XVI]{.smallcaps}, a realidade do território preexistente interferia com
+projetos políticos e ideológicos que visavam a reinstituir princípios
+teóricos da arquitetura e urbanísticos.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Veneza é uma das cidades mais densas do mundo, por força da necessidade
+da sua implantação. Edificada em ilhas pantanosas de uma laguna, a
+cidade sempre teve limites bastante claros para a sua expansão. Mesmo a
+verticalização é limitada pela qualidade do solo. Chegando ao limite do
+crescimento *para fora*, só resta crescer *para dentro*, ocupando o
+interior dos lotes.
+<!--/Câmera-->
+
+Veneza também é, até o final do século [XV]{.smallcaps}, praticamente o único porto
+europeu com acesso ao comércio da rota da Seda e do oceano Índico. A
+riqueza financeira e cultural que essa posição garante é um dos motores
+para o desenvolvimento artístico do Renascimento. O paradoxo do
+Renascimento em Veneza é justamente esse: uma cidade sem espaço para
+realizar os projetos ideais que as suas editoras publicam, mas que se
+renova pouco a pouco com esse ideal no horizonte.
+
+![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg){#fig:embaixadores .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Parcelamento urbano europeu
+---------------------------
+
+## {data-background-image="https://www.integra.unb.br/s/bJA6Bi5tjZbdtZG/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
+fundadora da urbanização europeia desde a Idade Média
+[@panerai:2006analise]. Nesse processo, as povoações se desenvolvem ao
+longo de um eixo estruturante no território ([@fig:trudaine]). Ao mesmo
+tempo que os núcleos urbanos se estendem ao longo dos caminhos, eles se
+*espessam* para os fundos das glebas e se *adensam* para aproveitar com
+maior eficiência a proximidade aos equipamentos e espaços públicos mais
+demandados.
+
+![Folha do atlas de viação da França [@trudaine:1745atlas]](https://www.integra.unb.br/s/bJA6Bi5tjZbdtZG/preview){#fig:trudaine .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Campo como gerador do traçado em Veneza
+---------------------------------------
+
+## {data-background-image="https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
+caminho estruturante que domine a formação de um espaço urbano linear.
+Em vez disso, portanto, a estruturação do traçado urbanístico é
+centralizada em pontos focais: a praça de bairro, chamada *campo* em
+Veneza. Observada essa diferença, o processo de crescimento e
+adensamento em Veneza segue o mesmo padrão.
+
+![Bernardo e Gaetano Combatti, planta de Veneza [@combatti:1847nuova]](https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview){#fig:combatti .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg" data-transition="fade-out"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Edmund Bacon, o urbanismo de Veneza estabelece um esquema de
+temas dominantes --- as praças cívicas e igrejas principais --- e
+subdominantes --- os *campi* com a igreja paroquial de cada ilha
+[@bacon:1974design, 101]. O conjunto urbano é hierarquizado segundo a
+importância simbólica dos diferentes espaços, mas os *campi* também
+refletem, num registro mais modesto, a dignidade cívica das grandes
+praças ([@fig:canaletto1730; @fig:querena1878]).
+
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg){#fig:canaletto1730}
+
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg){#fig:querena1878}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg" data-transition="fade-in"}
+
+Tipologia e historicidade
+-------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+A unidade básica da urbanização na Europa é o lote. A dimensão da
+testada do lote urbano tende a se padronizar em diferentes regiões; essa
+padronização segue as dimensões do tipo edilício de base ou *tipo
+portante* que domina o tecido urbano em cada região
+[@caniggia:1997metodologia]. Portanto, os requisitos do tipo portante
+determinam o módulo habitual da testada do lote, e o lote então
+condiciona as configurações arquitetônicas possíveis, favorecendo por
+sua vez a continuidade do tipo portante.
+<!--/Câmera-->
+
+Na Itália, a influência do império Romano deixou como legado um módulo
+de parcelamento do solo planejado, com lotes de 50 pés (17 metros) de
+testada ideal para casas-pátio suburbanas. Com o adensamento das
+colônias romanas, esses lotes tendem a ser subdivididos em duas ou três
+frações. A testada resultante, com 6 a 8,5 metros de largura, funciona
+tanto para as casas romanas com átrio quanto para as casas geminadas
+medievais, com corredor lateral ([@fig:caniggia]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Evolução dos tipos portantes na Itália [@caniggia:2008lettura]](https://hcommons.org/app/uploads/sites/1001018/2018/08/caniggia_cataldi_107.png){#fig:caniggia .stretch}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
+<!--Câmera--> 
+O estudo da tipologia como instrumento de *projeto* foi fundado na
+Itália por Saverio Muratori, que era professor de projeto na
+Universidade de Veneza no final da década de 1950. Como muitos dos seus
+contemporâneos, Muratori procurava uma justificativa teórica para
+combater a destruição dos centros históricos em nome do "progresso" ou
+dos "problemas da modernidade".
+<!--/Câmera-->
+
+Nas décadas de 1950 e 60, o discurso historiográfico em autores como
+Arnold Hauser e Henri Lefebvre se caracterizava por uma espécie de
+determinismo histórico simplório. Essa interpretação era vagamente
+inspirada na *Filosofia da História* do filósofo alemão Hegel. Em linhas
+gerais, Hauser propõe, na *História social da arte e da literatura*
+([@fig:hauser-social; @fig:hauser]), que toda arte é um produto do seu
+tempo. Isto é, haveria --- segundo ele --- uma identidade perfeita entre
+as condições sociais ou materiais de uma época e as formas artísticas
+que essa época produz.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Arnold Hauser. *História social da arte*](https://www.integra.unb.br/s/YzLyH5p8Pp4tycY/preview){#fig:hauser-social .stretch} 
+:::
+::: {.column width=50%}
+![Arnold Hauser](https://www.integra.unb.br/s/x4DPzJN48cLpg5A/preview){#fig:hauser .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/xRbi43xLgAcBbnX/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Contra essa identidade simplória entre *artefato* e período histórico,
+Muratori afirma que a cidade e a arquitetura são *processos* que
+atravessam várias épocas. Não se trata só de reconhecer que um ambiente
+urbano qualquer é formado por edifícios de várias datas. Cada uma dessas
+construções, por mais singular que seja, contém no seu partido
+arquitetônico o resultado de um longo encadeamento de transformações
+tipológicas. A arqueologia urbana de Veneza, que Muratori publica em
+1959, demonstra esse acúmulo de transformações na sua própria forma.
+<!--/Câmera-->
+
+Originalmente, o *campo* era a horta, mercado e praça pública da
+comunidade. As primeiras casas são construídas no perímetro da ilha,
+deixando todo o interior livre para o *campo* e começando por
+estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
+igreja ocupa uma posição central na ilha.
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1100 [@muratori:1959studiIX]](https://www.integra.unb.br/s/xRbi43xLgAcBbnX/preview){#fig:grisostomo1100 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/T5xCF9e7YNLaF4H/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao mesmo tempo que se completa o perímetro da ilha, os edifícios começam
+a ser ampliados para os fundos, "consumindo" o espaço do *campo*. Os
+lotes se tornam estreitos e profundos à medida que eles avançam sobre o
+*campo*. Essas proporções motivam o desenvolvimento de um novo tipo de
+morada nobre: o palácio com *portego*, um salão no primeiro andar que
+atravessa toda a profundidade do edifício de frente a fundos. O
+*portego* fornece iluminação e ventilação indiretas para várias salas no
+interior do edifício ([@fig:grisostomo1200]).
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1200 [@muratori:1959studiIX]](https://www.integra.unb.br/s/T5xCF9e7YNLaF4H/preview){#fig:grisostomo1200 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/LYmZKyPGZqH7M6Q/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
+O processo de adensamento é gradual, e nenhum agente tem poder econômico
+ou político suficiente para impor grandes transformações de uma só
+tacada. O resultado é um mosaico de propriedade fundiária onde palácios
+ficam lado a lado com prédios de aluguel ([@fig:grisostomo1350]).
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1350 [@muratori:1959studiIX]](https://www.integra.unb.br/s/LYmZKyPGZqH7M6Q/preview){#fig:grisostomo1350 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/8Z6FHZ98CNHfiJS/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As construções privadas tendem a ocupar a totalidade dos seus lotes;
+portanto, elas assumem no seu interior a irregularidade geométrica dos
+lotes. Para isso, pode-se usar as articulações do espaço construído com
+os pátios, ou mesmo espaços secundários dentro da edificação
+([@fig:grisostomo1450]).
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1450 [@muratori:1959studiIX]](https://www.integra.unb.br/s/8Z6FHZ98CNHfiJS/preview){#fig:grisostomo1450 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://www.integra.unb.br/s/C5srNckdcMKfajk/preview"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A essa altura, o *campo* já foi pavimentado e tem o seu espaço muito
+reduzido e nitidamente delimitado ([@fig:grisostomo1500]). Todo o processo
+aconteceu por meio de transformações sucessivas onde cada passo preserva
+a coerência das etapas anteriores. Não existe um urbanismo
+exclusivamente representativo da "Veneza medieval" ou da "Veneza do
+Renascimento": cada estágio na consolidação urbana evidencia o
+*conjunto* de períodos históricos acumulados até então.
+
+![Campo S. Giovanni Grisostomo, Veneza, c. 1500 [@muratori:1959studiIX]](https://www.integra.unb.br/s/C5srNckdcMKfajk/preview){#fig:grisostomo1500 .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Urbanismo como palimpsesto
+--------------------------
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na leitura de Muratori, a cidade é ao mesmo tempo *artefato* e
+*processo*. Por um lado, a forma urbana e o tecido edificado são
+*artefatos*: cada nova construção, reforma ou agenciamento do espaço
+urbano é um produto intencional e planejado do trabalho humano. Por
+outro lado, eles são, também, a evidência tangível de um *processo* que
+se desenvolve ao longo do tempo. Qualquer ambiência urbana é o resultado
+do trabalho acumulado de gerações; em grande medida, o mesmo vale para
+os edifícios, especialmente os mais antigos.
+
+Em Veneza, não há espaço para grandes traçados autorais. A cidade se
+renova aos poucos, confiando na coerência de projetos sucessivos movidos
+por um mesmo propósito.
+
+![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Urbanismo europeu e historicidade ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outro modo de interpretar essa coerência urbana emergente é olhar para
+as redes de transmissão de conhecimentos arquitetônicos e para as
+condições materiais de produção do ambiente construído. Essas abordagens
+vêm dominando o estudo da arquitetura do Renascimento ao longo das
+últimas décadas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Infraestrutura hidráulica na América #
 
@@ -754,5 +1143,5 @@ cereais colhidos, o plantio de novas lavouras é relativamente raro.
 
 ## Hidráulica incaica na montanha e na planície ##
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Bibliografia # {- .allowframebreaks .unlisted}
 

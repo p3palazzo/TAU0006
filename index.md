@@ -30,30 +30,56 @@ toc: false
 {% include programa.html %}
 ```
 
+# Prelúdio #
 
-# Unidade I · Redes urbanas na fundação do mundo moderno #
+[Mundos conectados no século [XIV]{.smallcaps}]()
 
- 1. [Arquitetura do humanismo](_aula/01-humanismo.md) <!--_,-->
- 2. [Rotas comerciais e paradigmas urbanísticos](_aula/02-rotas.md) <!--_,-->
- 3. [Renascimento e historiografia](_aula/03-renascimento.md) <!--_,-->
- 4. [Cidades ideais e cidades possíveis](_aula/04-cidades-ideais.md) <!--_,-->
+# Unidade I · Cidades e redes na fundação do mundo moderno #
+
+ 1. [Rotas comerciais e paradigmas urbanísticos](_aula/rotas.md) <!--_,-->
+    p. 455--468, 519 (15 páginas)
+ 2. [Cidades ideais](_aula/cidades-ideais.md) <!--_,-->
+    p. 425, 491--500 (11 páginas)
+ 3. [Arquitetura do humanismo](_aula/humanismo.md) <!--_,-->
+    p. 501--518, 537--538 (20 páginas)
+ 4. [Sistemas espaciais e abóbadas](_aula/renascimento.md) <!--_,-->
+    p. 474--490 (17 páginas)
+
+# Interlúdio A #
+
+ 5. [Arte clássica](_aula/arte-classica.md) <!--_,-->
+    Summerson
 
 # Unidade II · Linguagens clássicas da arquitetura #
 
- 5. [Teoria do classicismo](_aula/05-teoria-classicismo.md) <!--_,-->
- 6. [Arte clássica](_aula/06-arte-classica.md) <!--_,-->
- 7. [Clássico anticlássico](_aula/07-anticlassico.md) <!--_,-->
- 8. [Barroco e classicismo](_aula/08-barroco.md) <!--_,-->
- 9. [Arte acadêmica](_aula/09-academicismo.md) <!--_,-->
+ 6. [Teoria do classicismo](_aula/teoria.md) <!--_,-->
+    p. 520--536 (18 páginas)
+ 7. [Clássico anticlássico](_aula/anticlassico.md) <!--_,-->
+    p. 539--551 (13 páginas)
+ 8. [Cidade clássica](_aula/barroco.md) <!--_,-->
+    p. 552--567 (16 páginas)
+ 9. [Arte acadêmica](_aula/academicismo.md) <!--_,-->
+    p. 568--584 (17 páginas)
 
-# Unidade III · Estilo e território: inquietações da modernidade #
+# Interlúdio B #
 
-10. [Primeiros modernos](_aula/10-primeiros-modernos.md) <!--_,-->
-11. [Urbanismo como arquitetura](_aula/11-urb-como-arq.md) <!--_,-->
-12. [Barroco internacional](_aula/12-barroco-intl.md) <!--_,-->
-13. [Universo em expansão](_aula/13-universo.md) <!--_,-->
-14. [Reação clássica](_aula/14-reacao.md) <!--_,-->
-15. [Territórios e viação](_aula/15-territorios.md) <!--_,-->
+10. [Urbanismo como arquitetura](_aula/urb-como-arq.md) <!--_,-->
+    Summerson
+
+# Unidade III · Engenharia, viação e território: inquietações contemporâneas #
+
+11. [Primeiros modernos](_aula/primeiros-modernos.md) <!--_,-->
+    p. 585--598 (14 páginas)
+12. [Barroco internacional](_aula/barroco-intl.md) <!--_,-->
+13. [Universo em expansão](_aula/universo.md) <!--_,-->
+    p. 599--609 (11 páginas)
+14. [Reação clássica](_aula/reacao.md) <!--_,-->
+    p. 610--625 (16 páginas)
+
+# Coda #
+
+15. [Territórios e viação](_aula/territorios.md) <!--_,-->
+    Sambricio
 
 # Atividades #
 

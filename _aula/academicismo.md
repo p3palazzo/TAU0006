@@ -1,6 +1,8 @@
 ---
 title   : "Arquitetura acadêmica"
-author  : "Pedro P. Palazzo"
+subtitle: "Linguagens clássicas da arquitetura"
+item    : "V"
+author  : Pedro P. Palazzo
 abstract: |
   -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
   -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573
@@ -486,7 +488,9 @@ definição da profissão de arquiteto.
 
 <!--._-->
 
-# Querela dos Antigos e dos Modernos #
+# Arquitetura acadêmica #
+
+## Querela dos Antigos e dos Modernos ##
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
 
@@ -497,15 +501,22 @@ definição da profissão de arquiteto.
 - Renascimento  Conceito de "artes do desenho"
 - Poussin vs. Rubens: Roger de Piles
 
-# Academias e a redefinição do ofício da arquitetura #
+## Academias e a redefinição do ofício da arquitetura ##
 
 - Accademia di S. Luca
 - Académie royale d'Architecture
 - Quem pode ser arquiteto? Do polímata renascentista ao gestor público
   classicista.
 
-# Ensino formal na Académie royale d'Architecture #
+## Ensino formal na Académie royale d'Architecture ##
 
 - Prix de Rome
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Hôtel: soluções funcionais da modernidade #
+
+- Parcelamento urbano periférico e as cinturas marginais.
+
+- Blondel [@etlin:1978dedans]
+
+# Bibliografia # {- .allowframebreaks .unlisted}
+

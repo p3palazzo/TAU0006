@@ -1,6 +1,7 @@
 ---
 title   : "Urbanismo como arquitetura"
-author  : "Pedro P. Palazzo"
+subtitle: "Interlúdio B"
+author  : Pedro P. Palazzo
 abstract: |
   -- Sincretismo arquitetônico na Etiópia
   -- Espaços rurais e urbanos da colonização | 552--553, 568--571
