@@ -1,7 +1,6 @@
-
 <section id="programa" class="level2">
   <ol type="I">
-  {%- assign topicos = site.aula | sort: "date" -%}
+  {%- assign topicos = site.aula -%}
   {% for aula in topicos -%}
     {%- assign anterior = forloop.index0 | minus: 1 -%}
     {%- if forloop.first or aula.subtitle != topicos[anterior].subtitle -%}

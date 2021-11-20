@@ -1,13 +1,14 @@
 ---
 title   : "Clássico Anticlássico"
 subtitle: "Linguagens clássicas da arquitetura"
-item    : "III"
+item    : III
 author  : Pedro P. Palazzo
-abstract: |
-  -- Três momentos na reconstrução do classicismo
-  -- Terceiro: articulação do espaço em Bramante e Rafael
-  -- Classicismo universal: Serlio, Vinhola e Palladio | 539--541
-  -- Classicismo ilimitado: Miguel Ângelo e os projetos para a basílica de São Pedro | 542--547
+date    : 2022-03-08
+toc:
+  - Tratamento escultórico do espaço
+  - Vicissitudes da basílica de São Pedro
+  - Da tipologia espacial ao projeto geométrico
+leitura: 539--551
 ---
 
 ##

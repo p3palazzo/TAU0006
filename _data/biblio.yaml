@@ -114,6 +114,24 @@ references:
   title: The architecture of Michelangelo
   type: book
 
+- id: alam:2014layout
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Alam
+      given: Muhammad Atique
+  issued:
+    - literal: 11 de setembro de 2014, 15:41:23
+  language: en
+  source: Wikimedia Commons
+  title: Layout of the Charbagh at the Tomb of Jahangir in Lahore, Pakistan
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg
+
 - id: alberti:1512re
   abstract: >-
     Leonis Baptistae Alberti Florentini ... Libri de re aedificatoria decem.
@@ -157,6 +175,23 @@ references:
     - family: Krüger
       given: Mário Júlio Teixeira
   type: book
+
+- id: aldrighetti:2014tempio
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Aldrighetti
+      given: Danile
+  issued:
+    - literal: 11 de outubro de 2014, 14:22:27
+  source: Wikimedia Commons
+  title: Tempio di Santa Maria della Consolazione
+  title-short: Italiano
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Vista_della_cupola.JPG
 
 - id: allais:2005ordering
   accessed:
@@ -204,6 +239,131 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/218047
   volume: '14'
+
+- id: anotherbeliever:2015humble26
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Another Believer
+  issued:
+    - year: 2015
+      month: 12
+      day: 7
+  language: en
+  source: Wikimedia Commons
+  title: Humble Administrator's Garden in Suzhou, China [26]
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_in_Suzhou,_China_(2015)_-_26.JPG
+
+- id: anotherbeliever:2015humble30
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Another Believer
+  issued:
+    - year: 2015
+      month: 12
+      day: 7
+  language: en
+  source: Wikimedia Commons
+  title: Humble Administrator's Garden in Suzhou, China [30]
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_in_Suzhou,_China_(2015)_-_30.JPG
+
+- id: anotherbeliever:2015humble34
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Another Believer
+  issued:
+    - year: 2015
+      month: 12
+      day: 7
+  language: en
+  source: Wikimedia Commons
+  title: Humble Administrator's Garden in Suzhou, China [34]
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_in_Suzhou,_China_(2015)_-_34.JPG
+
+- id: architas:2018san
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Architas
+  issued:
+    - literal: 18 de junho de 2018, 11:51:23
+  language: English
+  source: Wikimedia Commons
+  title: San Carlo alle Quattro Fontane (Rome) Dome
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_-_Dome.jpg
+
+- id: architas:2018santivo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Architas
+  issued:
+    - literal: 2018-03-04, 21:24:38
+  source: Wikimedia Commons
+  title: Sant'Ivo alla Sapienza (Roma) Dome interior
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Sant%27Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg
+
+- id: architas:2018susanna
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Architas
+  issued:
+    - year: 2018
+      month: 6
+      day: 1
+  source: Wikimedia Commons
+  title: Santa Susanna (Rome) - Front
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Santa_Susanna_(Rome)_-_Front.jpg
+
+- id: architas:2018vittoria
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Architas
+  issued:
+    - year: 2018
+      month: 6
+      day: 1
+  source: Wikimedia Commons
+  title: Santa Maria della Vittoria in Rome - Front
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg
 
 - id: argan:1973concepto
   author:
@@ -351,6 +511,26 @@ references:
   title: The Académie Royale d’Architecture (1671–1793)
   type: chapter
 
+- id: arqueas:2014chinampa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Arqueas
+      given: David
+  issued:
+    - year: 2014
+      month: 11
+      day: 9
+  language: es
+  source: Wikimedia Commons
+  title: Chinampa con cultivo de rábano en el Lago de Xochimilco
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Chinampa_con_cultivo_de_r%C3%A1bano_en_el_Lago_de_Xochimilco.jpg
+
 - id: bacon:1974design
   author:
     - family: Bacon
@@ -459,6 +639,23 @@ references:
   title-short: Louis Le Vau
   type: book
 
+- id: banerjee:view
+  abstract: View of Taj Mahal from Mehtab Bagh
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Getty Images
+  archive_location: '978615838'
+  author:
+    - family: Banerjee
+      given: Mukul
+  language: en
+  title: View of Taj Mahal from Mehtab Bagh
+  type: graphic
+  URL: >-
+    https://www.gettyimages.pt/detail/foto/view-of-taj-mahal-from-mehtab-bagh-imagem-royalty-free/978615838
+
 - id: barbieri:2015scamozzi3
   abstract: >-
     While many studies have addressed the issue of proportions in the work of
@@ -496,6 +693,20 @@ references:
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.ce/
   volume: '3'
+
+- id: barocco:2017
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  container-title: Potenziamento Arte Immagine
+  issued:
+    - year: 2017
+      month: 1
+      day: 12
+  title: Il Barocco - parte prima
+  type: post-weblog
+  URL: https://potenziamentolanzi.blogspot.com/2017/01/il-barocco-parte-1.html
 
 - id: baydar:1998postcolonial
   author:
@@ -567,6 +778,28 @@ references:
     - family: Cabral
       given: Álvaro
   type: book
+
+- id: bellotto:1742capriccio
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Galleria nazionale di Parma
+  author:
+    - family: Bellotto
+      given: Bernardo
+  dimensions: 134,0 × 118,0 cm
+  issued:
+    - year: 1742
+    - year: 1747
+  language: it
+  medium: Óleo sobre tela
+  source: Wikimedia Commons
+  title: Capriccio Romano
+  title-short: Capriccio Romanolabel QS
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto,_Capriccio_Romano,_Colosseum.jpg
 
 - id: benevolo:1972introducao
   author:
@@ -766,6 +999,63 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/10.2307/1481515?origin=crossref
   volume: '24'
+
+- id: biesen:2017facade
+  abstract: >-
+    Photo about The facade of the San medieval Miniato al Monte Church in
+    Romanesque style in Florence, Firenze, Italy, Italia. Image of italia,
+    toscany, romanesque
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Dreamstime
+  archive_location: '95663784'
+  author:
+    - family: Biesen
+      given: Ivan Vander
+  issued:
+    - year: 2017
+  language: en
+  title: Facade San Miniato Al Monte, Florence
+  type: graphic
+  URL: >-
+    https://www.dreamstime.com/stock-photo-facade-san-miniato-al-monte-florence-firenze-toscany-italy-medieval-church-romanesque-style-italia-image95663784
+
+- id: blond:2007atlas
+  abstract: >-
+    En France, le XVIIIe siècle est marqué par une importante rénovation du
+    réseau routier et par la création de nouveaux itinéraires. Ce que l’on sait
+    rarement, c’est que cette vaste politique s’appuie sur la réalisation d’un
+    volumineux recueil de cartes, communément appelé Atlas de Trudaine. Certes,
+    les historiens connaissent la valeur de ce document pour la connaissance des
+    paysages ruraux, des villages et des villes d’antan. Pourtant, la vocation
+    de cette importante série de cartes n’est pas ...
+  accessed:
+    - year: 2020
+      month: 8
+      day: 24
+  author:
+    - family: Blond
+      given: Stéphane
+  container-title: Siècles. Cahiers du Centre d’histoire « Espaces et Cultures »
+  ISBN: '9782845163652'
+  ISSN: 1266-6726
+  issue: '25'
+  issued:
+    - year: 2007
+      month: 6
+      day: 1
+  language: fr-FR
+  number: '25'
+  page: 66-82
+  publisher: Centre d'Histoire "Espaces et Cultures"
+  source: journals.openedition.org
+  title: >-
+    L'atlas des routes royales de Trudaine. La carte, instrument de la politique
+    routière des lumières
+  type: article-journal
+  URL: http://journals.openedition.org/siecles/1386
 
 - id: blondel:1698cours1
   abstract: >-
@@ -1608,6 +1898,25 @@ references:
   type: article-journal
   URL: http://journals.openedition.org/crau/446
 
+- id: castor:2008taj
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Castor
+      given: David
+  issued:
+    - year: 2008
+      month: 9
+      day: 18
+  language: en
+  source: Wikimedia Commons
+  title: Taj Mahal world heritage site in Agra, India
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg
+
 - id: chakrabarti:1998indian
   author:
     - family: Chakrabarti
@@ -1625,6 +1934,336 @@ references:
   title-short: Indian architectural theory
   type: book
 
+- id: chambers:1757desseins
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  archive: >-
+    https://www.flickr.com/photos/internetarchivebookimages/14595113408/ Source
+    book page:
+    https://archive.org/stream/gri_33125008481588/gri_33125008481588#page/n44/mode/1up
+  author:
+    - family: Chambers
+      given: William
+  issued:
+    - year: 1757
+  language: fr-FR
+  source: Wikimedia Commons
+  title: >-
+    Desseins des edifices, meubles, habits, machines, et ustenciles des Chinois
+    pl. VI
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Desseins_des_edifices,_meubles,_habits,_machines,_et_ustenciles_des_Chinois_(1757)_(14595113408).jpg
+
+- id: chambers:1759primitive
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  archive: https://archive.org/details/gri_33125011135288/page/n17/mode/2up
+  author:
+    - family: Chambers
+      given: William
+  issued:
+    - year: 1759
+  language: en-GB
+  source: Wikimedia Commons
+  title: >-
+    The Primitive Buildings: The first sort of huts — The second sort of huts –
+    The third sort of huts which gave birth to the Doric order – The Doric order
+    in its improved state – Origin of the Corinthian capital – The Doric profile
+    of the temple of Theseus in Athens
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Treatise_on_civil_architecture_0017.jpg#Descri%C3%A7%C3%A3o_do_arquivo
+
+- id: chambers:1759treatise
+  abstract: >-
+    Library's copy lacks 8th and 14th leaves of plates at end of book. Cf.
+    Directions to binder, p. [86]
+  accessed:
+    - year: 2020
+      month: 7
+      day: 19
+  author:
+    - family: Chambers
+      given: William
+  event-place: London
+  issued:
+    - year: 1759
+  language: en-GB
+  publisher: Printed for the author by J. Haberkorn
+  publisher-place: London
+  source: archive.org
+  title: >-
+    A treatise on civil architecture : in which the principles of that art are
+    laid down, and illustrated by a great number of plates accurately designed,
+    and elegantly engraved by the best hands
+  title-short: A treatise on civil architecture
+  type: book
+  URL: https://archive.org/details/gri_33125011135288
+
+- id: chandigarh:2017mughal
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Chandigarh
+      given: Harvinder
+  issued:
+    - literal: 7 de março de 2017, 11:38:54
+  language: en
+  source: Wikimedia Commons
+  title: Mughal Garden Delhi, India, spring season, 7th March 2017
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Mughal_Garden_Delhi,_India_08.jpg
+
+- id: chen:2020tracing9
+  abstract: >-
+    Coming to Suzhou, China, an old town known for its canals, bridges and
+    classical Chinese gardens. We are deeply inspired by the cultural values
+    coming from this town, and we are taking you to experience it from modern to
+    ancient times through a famous poem "A Night Mooring by Maple Bridge"
+
+
+    Through the Gate to the East Building that represents modern China, we
+    arrive in the heart of Suzhou, welcoming by the sleek and modern setting at
+    W Suzhou that is inspired by traditional local elements. We indulge
+    ourselves with gourmet Chinese dishes including the roasted duck and famous
+    Yangcheng Lake Crab at Su Yan. It is the epitome of modern Chinese dining
+    with wonderful hospitality and experience above the city lights.   
+
+
+    While we are fully charged after the retreat at the rooftop pool, we join
+    with W insiders and visit Sung He Lou, founded in 1757, to taste the notable
+    noodle culture that goes from breakfast to dinner. You get to choose your
+    toppings for the noodles in either red or clear broth. We also visit the
+    nearby YangCheng Lake to experience the “Cult of Crab”, an autumnal
+    obsession for the hairy crabs from the region. 
+
+
+    Then we arrive at Suzhou Museum, one of the latest masterpieces of acclaimed
+    architect I.M. Pei. As a tribute to his hometown, the architect brought
+    together both his modernist sensibilities and the Suzhou vernacular to house
+    the impressive treasures across many dynasties. 
+
+
+    Suddenly, we find ourselves in between the canals in Zhouzhuang, noted for
+    its profound cultural background, well preserved ancient houses and elegant
+    watery views. The "Oriental Venice" has long been a haven for scholars,
+    poets, artists, and skilled craftsmen, and it still is today. We make our
+    way through the stone bridges across the canals on the rowing boat,
+    witnessing the distinctive views and ways of life in the water town. 
+                                       
+    Follow the nostalgic atmosphere, we settle into the exclusive TongLi House
+    for a hidden retreat. This historic mansion was once abandoned and now given
+    a new life as a five-room-only guest house with impeccable and luxurious
+    details. We enjoy practicing Tai Chi exercise with a pure state of mind and
+    strength in the bamboo courtyard followed by the performance of Chinese
+    Ballad singing, Pingtan.
+
+
+    As the chilly wind blows through the foliage in Tianping Mountain in the
+    morning, we start a series of cultural discoveries around the old town of
+    Suzhou: from the largest Buddhist bell at the famous Hanshan Temple and
+    Monastery; to the exquisite architecture, elegant art form and delicate
+    beauty at Humble Administrator’s Garden and Tuisi Garden which are among the
+    four most important Chinese gardens in history. 
+
+
+    Through the bamboo forest, we arrive at Tiger Hill, a site as the final
+    resting place of Wu King HeLu, the founding father of Suzhou. A legend
+    states that a white tiger appeared on the hill to guard the tomb following
+    his burial, hence the name. We make it to the top of the hill by the leaning
+    Yunyan Pagoda that has been serving as a symbol of ancient Suzhou for years.
+
+
+    The water town comes alive at night at PingJiang Road, along with Kunqu
+    Opera performance by the famous master Lu. Kunqu is one of the oldest
+    Chinese operas and the only ancient theater work that remains alive in the
+    world.
+
+
+    At the end of the night, we are left in the cold with the moonlight, empty
+    canals, and the street light reflections on the water. The scenery described
+    from the poem, "A Night Mooring by Maple Bridge” by Tang Poet JiangJi,
+    pretty much sums up the elements and the elegance we have encountered in
+    Suzhou, with a bit of loneliness and sadness as the night falls.
+
+
+    The poem describes:
+
+    The moon is going down
+
+    And the crows make a ruckus
+
+    The sky is covered with frost
+
+    There are maples on the riverbank
+
+    And the lights of fishing boats
+
+    Drift with the current
+
+    I fall into a sad sleep
+
+    from the monastery on Cold Mountain
+
+    The sound of the bell
+
+    Reaches the guest boat at midnight
+
+
+    #Suzhou #China #MyInspireProject
+
+
+
+    Special Thanks To:
+
+
+    W Hotel Suzhou
+
+    https://www.marriott.com/hotels/trave...
+
+
+    隱盧 TongLi House by Hidden Place Hotels
+
+    http://www.yinhotel.cn/
+
+
+    苏州博物馆 Suzhou Museum 
+
+    http://www.szmuseum.com/En/Home/Index
+
+
+    SU YAN Restaurant
+
+
+    Wang Li Ling
+
+    https://www.wangliling.fashion
+
+
+    呂成芳 - Fuxi Guqin Cultural Clubhouse
+
+
+    Grace Yang
+
+
+
+    Music - 
+
+
+    - Dancing with Myself by FAS Sounds
+
+    - In waves by Ethan Rank
+
+    - Kalimbo by Ethan Rank
+
+    - Soid Out City (Instrumental) by Michael Shynes
+
+    - Sunrise on the Old Celtic Port by Max H
+
+    - The Way of The Warrior by Yi Nantiro
+
+
+
+    Credit - 
+
+
+    My Inspire Project
+
+    Copyright of Gloren Co.
+
+
+    Publisher | Producer - Henry Hu
+
+    Creative Director | Executive Producer - Andrew Chen
+
+    Cinematographer | Photographer – Dennis Schmelz
+
+    (https://dennisschmelz.de)
+
+    Writer - Andrew Chen
+
+    Editor - Pascal Blaurock
+
+
+
+    Follow us!
+
+
+    Website - https://www.myinspireproject.com
+
+    Youtube - https://www.youtube.com/c/myinspirepr...
+
+    Instagram - https://www.instagram.com/myinspirepr...
+  accessed:
+    - year: 2020
+      month: 9
+      day: 10
+  collection-title: My Inspire Project
+  dimensions: '7:36'
+  director:
+    - family: Chen
+      given: Andrew
+  issued:
+    - year: 2020
+      month: 2
+      day: 15
+  language: en
+  publisher: Gloren
+  source: YouTube
+  title: Tracing The Poetic Heritage of Water Town Suzhou
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=ikYW3G4xRaY
+  volume: '9'
+
+- id: cheng:2012radical
+  abstract: >-
+    written for First Year Histories and Theories at the Architectural
+    Association, 2012 “The movement from a view of life as essentially simple
+    and orderly to a view of life as complex and ironic is w…
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  author:
+    - family: Cheng
+      given: Jonathan
+  container-title: Jonathan Cheng
+  issued:
+    - year: 2012
+      month: 8
+      day: 9
+  language: en
+  title: 'Radical Architecture: Complexity Revealed'
+  title-short: Radical Architecture
+  type: post-weblog
+  URL: https://jonathanchengfolio.wordpress.com/2012/08/09/hello-world/
+
+- id: china:2010canglang
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: China Travel Savvy
+  issued:
+    - year: 2010
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Canglang Pavilion (Surging Wave Pavilion) - a classical Ming Dynasty garden
+    in Suzhou.
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Canglang_Pavilion_2.jpg
+
 - id: ching:1998arquitetura
   author:
     - family: Ching
@@ -1637,6 +2276,69 @@ references:
   publisher: Martins Fontes
   publisher-place: São Paulo
   title: Arquitetura, forma, espaço e ordem
+  type: book
+
+- id: ching:2007architecture
+  author:
+    - family: Ching
+      given: Francis D. K.
+  edition: '3'
+  event-place: Hoboken, N.J.
+  ISBN: 978-0-471-75216-5
+  issued:
+    - year: 2007
+  language: English
+  number-of-pages: '431'
+  publisher: Wiley
+  publisher-place: Hoboken, N.J.
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Architecture: form, space, & order'
+  title-short: Architecture
+  type: book
+
+- id: ching:2007global
+  abstract: >-
+    "Organized along a global timeline, A Global History of Architecture
+    presents an innovative approach to the study of architectural history.
+    Spanning from 3,500 B.C.E. to the present, this unique guide is written by
+    an all-star team of architectural experts in their fields who emphasize the
+    connections, contrasts, and influences of architectural movements throughout
+    history. The architectural history of the world comes to life through a
+    unified framework for interpreting and understanding architecture,
+    supplemented by drawings from the renowned Frank Ching as well as
+    photographs."--Jacket.
+  author:
+    - family: Ching
+      given: Francis D. K
+    - family: Jarzombek
+      given: Mark
+    - family: Prakash
+      given: Vikramaditya
+  event-place: Hoboken, N.J.
+  ISBN: 978-0-471-26892-5
+  issued:
+    - year: 2007
+  language: English
+  publisher: J. Wiley & Sons
+  publisher-place: Hoboken, N.J.
+  source: Open WorldCat
+  title: A global history of architecture
+  type: book
+
+- id: ching:2008building
+  author:
+    - family: Ching
+      given: Francis D. K.
+  edition: '4'
+  event-place: Hoboken, N.J.
+  ISBN: 978-1-118-74007-1
+  issued:
+    - year: 2008
+  language: English
+  publisher: John Wiley & Sons
+  publisher-place: Hoboken, N.J.
+  source: Open WorldCat
+  title: Building construction illustrated
   type: book
 
 - id: ching:2011global
@@ -1797,6 +2499,32 @@ references:
   title: Breve historia del urbanismo
   type: book
 
+- id: combatti:1847nuova
+  accessed:
+    - year: 2020
+      month: 8
+      day: 21
+  archive_location: http://asa.archiviostudiadriatici.it/islandora/object/cartea:3
+  author:
+    - family: Combatti
+      given: Bernardo
+    - family: Combatti
+      given: Gaetano
+  call-number: Richelieu - Cartes et plans - Magasin - GE D-25454
+  event-place: Venise
+  issued:
+    - year: 1847
+  language: it
+  publisher: Bernardo & Gaetano Combatti
+  publisher-place: Venise
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: >-
+    Nuova planimetria della R.Citta di Venezia.. . Rilenata sul Imago e
+    designata nel 1846 da Bernardo e Gaetano Combatti... Opera compilata in
+    memoria degli Scienziati Italiani riuniti in Venezia nel Settembre 1847
+  type: map
+  URL: http://gallica.bnf.fr/ark:/12148/btv1b53075148q
+
 - id: conant:1968after-life27
   accessed:
     - year: 2019
@@ -1895,6 +2623,73 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1424604
   volume: '36'
+
+- id: cuesta:2011roma
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Opera propria
+  author:
+    - family: Cuesta
+      given: Miguel Hermoso
+  issued:
+    - literal: 23 maggio 2011, 10:12:23
+  source: Wikimedia Commons
+  title: Roma. Farnesina. Loggia di Psiche
+  title-short: Español
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Farnesina_Loggia_di_Psiche._11.jpg?uselang=it
+
+- id: cuesta:2014roma
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - family: Cuesta
+      given: Miguel Hermoso
+  issued:
+    - literal: 30 March 2014, 11:49:41
+  source: Wikimedia Commons
+  title: Roma. Santa Maria della Pace. Claustro. 09
+  title-short: Español
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Claustro_Pace_09.JPG
+
+- id: cuesta:2015capilla
+  accessed:
+    - year: 2020
+      month: 9
+      day: 24
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Cuesta
+      given: Miguel Hermoso
+  issued:
+    - literal: 22 de julho de 2015, 17:17:08
+  medium: Photo
+  source: Wikimedia Commons
+  title: Capilla Pazzi
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Capilla_Pazzi_03.JPG
+
+- id: damato:2013church
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  author:
+    - family: Damato
+      given: Alessio
+  issued:
+    - literal: 7 de setembro de 2013, 16:55:32
+  source: Wikimedia Commons
+  title: Church of the Gesù, Rome
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Church_of_the_Ges%C3%B9,_Rome.jpg
 
 - id: dellaneva:2003
   accessed:
@@ -2207,7 +3002,8 @@ references:
   publisher-place: Lisboa
   title: >-
     Caracterização da paleta de Diogo de Torres. Quatro pinturas Retabulares do
-    séc. XVI. Estudo da descoloração do azul de esmalte
+    séc. <span class="smallcaps">XVI</span>. Estudo da descoloração do azul de
+    esmalte
   type: thesis
   URL: http://hdl.handle.net/10362/8541
 
@@ -2230,6 +3026,111 @@ references:
       given: Luís Alves
       dropping-particle: da
   type: book
+
+- id: dr:2011persian
+  abstract: >-
+    English: This is a schematic drawing of a traditional Persian style garden.
+    Note the water structure most notably a pond or a fountain, almost always
+    connected via four perpendicular connections or waterways named in Old
+    Persian "jubs" or basically aqueducts. The structure is almost always
+    pivoted at the long axis of this "cross" or quadripartite format so that the
+    magnificent palace or the dwelling is looking upon the long axis of the
+    waterway and the foundation. The walkways are often incorporated close and
+    parallel to the long arm of the aqueduct, with trees ornating the sides and
+    beautiful herbs, plants or domestic animals filling the inside space.
+    Traditionally, when the property was not an issue to acquire you find these
+    gardens surrounded by the wild space, utilized as a place for the nob and
+    the nobility to hunt wild exotic creatures, if not go out in wild
+    adventures.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Dr Persi
+  issued:
+    - year: 2011
+      month: 2
+      day: 7
+  language: en
+  source: Wikimedia Commons
+  title: Persian Garden
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:PersianGarden.png
+
+- id: dunzhen:1982traditional10
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Dunzhen
+      given: Liu
+  container-title: Garden History
+  DOI: 10.2307/1586743
+  ISSN: 0307-1243
+  issue: '2'
+  issued:
+    - year: 1982
+  language: en
+  page: 108-141
+  publisher: The Garden History Society
+  source: JSTOR
+  title: The Traditional Gardens of Suzhou ("Su zhou gu dian yuan lin")
+  translator:
+    - family: Wood
+      given: Frances
+  type: article-journal
+  URL: https://www.jstor.org/stable/1586743
+  volume: '10'
+
+- id: eccles:2008polynesian
+  abstract: >-
+    An orthographic projection of Polynesia, created from the same data as
+    File:Worldmap_location_NED_50m.svg with gringer's perlshaper script.
+    Inkscape was used to add colour, clip the land, and add migration arrows.
+
+
+    Trabalho próprio pelo carregador. Dates and arrows are based on Chambers
+    (2008), with additional colouring and styling guided by discussion with
+    Geoff Chambers 2008-2011 as part of my PhD project: Chambers, G (2008).
+    Genetics and the Origins of the Polynesians, In: Encylopedia of Life
+    Sciences. doi:10.1002/9780470015902.a0020808 Eccles, D (2011). Genomic
+    Analysis of Human Population Structure, PhD Thesis, Victoria University of
+    Wellington, New Zealand. Migration arrows are supported by the following
+    sources: From Taiwan through Melanesia to Polynesia, and earlier migration
+    to Australia and New Guinea: Yoshan Moodley, Bodo Linz, Yoshio Yamaoka,
+    Helen M. Windsor, Sebastien Breurec, Jeng-Yih Wu, Ayas Maady, Steffie
+    Bernhöft, Jean-Michel Thiberge, Suparat Phuanukoonnon, Gangolf Jobb, Peter
+    Siba, David Y. Graham, Barry J. Marshall, and Mark Achtman (2009). The
+    Peopling of the Pacific from a Bacterial Perspective, Science 23 January
+    2009: 323 (5913), 527-530. doi:10.1126/science.1166083 Colonisation of East
+    Polynesia, and dispersal to more remote islands (including Hawaii, Easter
+    Island, and New Zealand): Janet M. Wilmshurst, Terry L. Hunt, Carl P. Lipo,
+    and Atholl J. Anderson (2011). High-precision radiocarbon dating shows
+    recent and rapid initial human colonization of East Polynesia, Proceedings
+    of the National Academy of Sciences of the United States of America,
+    February 1, 2011, vol. 108 no. 5, 1815-1820. doi:10.1073/pnas.1015876108
+  accessed:
+    - year: 2020
+      month: 7
+      day: 31
+  archive: doi:10.1073/pnas.1015876108
+  author:
+    - family: Eccles
+      given: David
+  issued:
+    - year: 2008
+      month: 8
+      day: 5
+  language: en
+  source: Wikimedia Commons
+  title: Polynesian Migration
+  title-short: An orthographic projection of Polynesia, created from the same data as File
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Polynesian_Migration.svg
 
 - id: eck:2011theatricality
   abstract: >-
@@ -2391,6 +3292,17 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
+
+- id: fadu:san
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  container-title: AID•FADU•UBA
+  title: San Carlo alle quattro fontane
+  type: webpage
+  URL: >-
+    http://www.aidfadu.com/ver_imagen.php?id_imagen=33506&volver=/listar.php&pagina=4
 
 - id: fage:1975cambridge
   call-number: DT20 .C28
@@ -2583,6 +3495,23 @@ references:
   publisher-place: Bruxelles
   title: "La théorie architecturale à l’âge classique\_: essai d’anthologie critique"
   type: book
+
+- id: flavus:2012santuario
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: "Questo file deriva da:\_ Santuario della Santa Casa in Loreto - Casa Santa.jpg:"
+  author:
+    - family: Flavus
+      given: Rabanus
+    - literal: Zorro2212
+  issued:
+    - literal: 5 luglio 2012, 11:19:33
+  source: Wikimedia Commons
+  title: Santuario della Santa Casa in Loreto - Casa Santa
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Casa_Sancta_Lauretana.jpg?uselang=it
 
 - id: fleisher:2012finding29
   accessed:
@@ -3009,6 +3938,23 @@ references:
   type: chapter
   URL: http://journals.openedition.org/inha/3399
 
+- id: gemini:2019chiesa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Gemini
+      given: Nicholas
+  issued:
+    - literal: 18 de abril de 2019, 10:28:17
+  source: Wikimedia Commons
+  title: Chiesa del Gesù
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Chiesa_del_Ges%C3%B9_-_aprile_2019_-_12.jpg
+
 - id: gerbino:2002library45
   accessed:
     - year: 2015
@@ -3090,6 +4036,50 @@ references:
   title-short: Gardens of Renaissance Europe and the Islamic Empires
   type: book
   URL: http://www.jstor.org/stable/10.5325/j.ctv14gpbt3
+
+- id: gibault:2011chapter21
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  author:
+    - literal: Gibault
+  container-title: Mr. G's AP World History
+  issued:
+    - year: 2011
+      month: 1
+      day: 17
+  language: en
+  title: 'Chapter 21. The Muslim Empires: the Ottomans, Safavids, & Mughals'
+  title-short: Chapter 21
+  type: post-weblog
+  URL: https://gibaulthistory.wordpress.com/chapter-21/
+
+- id: gibson:2017wutopia
+  abstract: >-
+    Folded perforated white aluminium screens clad this circular Shanghai arts
+    and crafts museum, which was designed by Wutopia Lab, and features a rockery
+    and pool in front.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  author:
+    - family: Gibson
+      given: Eleanor
+  container-title: Dezeen
+  issued:
+    - year: 2017
+      month: 3
+      day: 24
+  language: en-US
+  section: all
+  title: >-
+    Wutopia Lab clads circular cultural centre in "folding fan-style" perforated
+    white aluminium
+  type: webpage
+  URL: >-
+    https://www.dezeen.com/2017/03/24/eight-tenths-garden-wutopia-lab-shanghai-china-arts-crafts-museum/
 
 - id: gomesjr:1998palavra
   author:
@@ -3322,6 +4312,61 @@ references:
   title: Vernacular Architecture in the Pre-Columbian Americas
   type: book
 
+- id: halun:2009humble
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Hałun
+      given: Jakub
+  issued:
+    - year: 2009
+      month: 7
+      day: 5
+  source: Wikimedia Commons
+  title: Humble Administrator's Garden in Suzhou
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg
+
+- id: halun:2014twin
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Hałun
+      given: Jakub
+  issued:
+    - literal: 3 de agosto de 2014, 16:43:29
+  source: Wikimedia Commons
+  title: >-
+    The "twin" churches of Santa Maria di Montesanto (left) and Santa Maria dei
+    Miracoli (right), seen from Piazza del Popolo
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg
+
+- id: halun:2019taj
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Hałun
+      given: Jakub
+  issued:
+    - literal: 4 de dezembro de 2019, 06:22:00
+  source: Wikimedia Commons
+  title: Taj Mahal, Agra
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg
+
 - id: hancock:2000who
   accessed:
     - year: 2005
@@ -3455,6 +4500,30 @@ references:
   type: book
   URL: >-
     http://www.uqac.ca/zone30/Classiques_des_sciences_sociales/classiques/hazard_paul/crise_conscience_europe/crise_conscience.html
+
+- id: healy:2020jaipur
+  abstract: >-
+    Three quarters of a century have passed since an early south Persian chahar
+    bagh design carpet of unprecedented size and complexity was discovered in
+    the Amber Palace of the Maharajas of Jaipur. Stored in the city’s Albert
+    Hall Museum, at long last we are able to publish this extraordinary Safavid
+    ‘garden’ carpet in its entirety for the first time.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  author:
+    - family: Healy
+      given: Bruce
+  container-title: HALI
+  issued:
+    - year: 2020
+      month: 3
+      day: 30
+  language: en-US
+  title: The Jaipur Garden Carpet
+  type: webpage
+  URL: https://hali.com/articles/the-jaipur-garden-carpet/
 
 - id: hernandez:1969jnl12
   accessed:
@@ -3697,6 +4766,42 @@ references:
   URL: https://brill.com/abstract/journals/jaa/9/2/article-p189_5.xml
   volume: '9'
 
+- id: humayuns:2017
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  container-title: Archnet
+  issued:
+    - year: 2017
+  title: Humayun's Tomb Garden Revitalisation
+  title-short: en
+  type: webpage
+  URL: https://archnet.org/sites/4144/media_contents/126094
+
+- id: inaji:1998garden
+  author:
+    - family: Inaji
+      given: Toshirō
+  edition: '1'
+  event-place: Tokyo
+  ISBN: 978-4-7700-1712-3
+  issued:
+    - year: 1998
+  language: en
+  number-of-pages: '204'
+  publisher: Kodansha International
+  publisher-place: Tokyo
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: >-
+    The garden as architecture: form and spirit in the gardens of Japan, China
+    and Korea
+  title-short: The garden as architecture
+  translator:
+    - family: Virgilio
+      given: Pamela
+  type: book
+
 - id: james-chakraborty:2014africa
   abstract: >-
     Because extensive European acquaintance with the African interior dates only
@@ -3754,6 +4859,21 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3171230?origin=crossref
 
+- id: jastrow:2006cloister
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - literal: Jastrow
+  issued:
+    - year: 2006
+  source: Wikimedia Commons
+  title: Cloister of Santa Maria della Pace in Rome, designed by Bramante (1503)
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Chiostro_SM_della_Pace.jpg
+
 - id: jayyusi:2008city
   call-number: HT147.5 .C59 2008
   collection-number: '94'
@@ -3779,6 +4899,42 @@ references:
   title: The city in the Islamic world
   type: book
 
+- id: jensens:2008palazzo
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - literal: Jensens
+  issued:
+    - year: 2008
+      month: 7
+      day: 6
+  source: Wikimedia Commons
+  title: >-
+    Palazzo d'Antica Zecca, Largo Ottavio Tassoni, Rome. A sinistra, via dei
+    Banchi nuovi.
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Palazzo_d%27Antica_Zecca.jpg
+
+- id: kamal:2018early
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Kamal
+      given: Maaz
+  issued:
+    - literal: 19 de março de 2018, 02:28:05
+  language: en
+  source: Wikimedia Commons
+  title: Early morning at Jahangir's Tomb
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jahangir_Tomb.jpg
+
 - id: kaufmann:1952three42
   accessed:
     - year: 2020
@@ -3803,6 +4959,80 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/1005689
   volume: '42'
+
+- id: kelly:2009babur
+  accessed:
+    - year: 2020
+      month: 10
+      day: 14
+  archive: Flickr - Babur Gardens
+  author:
+    - family: Kelly
+      given: Jim
+  issued:
+    - literal: 19 de outubro de 2009, 03:59
+  source: Wikimedia Commons
+  title: Babur Gardens from a mountain top
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Babur_Gardens_from_a_mountain_top_CROPPED.jpg
+
+- id: king:2017hall
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: King of Hearts
+  issued:
+    - year: 2017
+      month: 11
+      day: 27
+  language: en
+  source: Wikimedia Commons
+  title: Hall of Elegance, Humble Administrator's Garden, Suzhou, China
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg
+
+- id: king:2017mountain
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: King of Hearts
+  issued:
+    - year: 2017
+      month: 11
+      day: 27
+  language: en
+  source: Wikimedia Commons
+  title: Mountain View Tower, Humble Administrator's Garden, Suzhou, China
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg
+
+- id: king:2017view
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: King of Hearts
+  issued:
+    - year: 2017
+      month: 11
+      day: 27
+  language: en
+  source: Wikimedia Commons
+  title: View of Beisi Pagoda from Humble Administrator's Garden, Suzhou, China.
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg
 
 - id: kisacky:2001history60
   abstract: >-
@@ -3901,6 +5131,23 @@ references:
   title-short: A history of architecture
   type: book
 
+- id: kovacs:2014alhambra
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  archive: _MG_1326-Edit.jpg
+  author:
+    - family: Kovacs
+      given: Tibor
+  issued:
+    - literal: 17 de agosto de 2014, 06:06
+  language: en
+  source: Wikimedia Commons
+  title: Alhambra Granada Spain
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Alhambra_granada_spain.jpeg
+
 - id: krier:1988architectural
   author:
     - family: Krier
@@ -3942,6 +5189,22 @@ references:
     clássica em Portugal
   type: chapter
   URL: https://digitalis.uc.pt/handle/10316.2/36685
+
+- id: lamassu:2009entry
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Image by Author
+  author:
+    - literal: Lamassu Design
+  issued:
+    - year: 2009
+  language: en
+  source: Wikimedia Commons
+  title: Entry Hall [Canglangting]
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Canglangting_entry_hall.jpg
 
 - id: langhein:2013proportion
   accessed:
@@ -4139,6 +5402,26 @@ references:
   URL: >-
     https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10059299_00007.html
 
+- id: lesnov:2010archivio
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: >-
+    https://web.archive.org/web/20161017122928/http://www.panoramio.com/photo/43223919
+  author:
+    - family: Lesnov
+      given: Vlad
+  issued:
+    - year: 2010
+      month: 4
+      day: 22
+  source: Wikimedia Commons
+  title: Archivio di stato di Roma
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg
+
 - id: letarouilly:1840edifices
   abstract: >-
     ETH-Bibliothek (NEBIS). Edifices de Rome moderne ou recueil des palais,
@@ -4166,6 +5449,65 @@ references:
     et autres monuments publics et praticuliers les plus remarquables
   type: book
   URL: http://www.e-rara.ch/zut/8787968
+
+- id: li:2003reconstituting
+  abstract: >-
+    In this paper, I analyze several early-twentieth-century attempts to
+    reprint, edit, and annotate a Northern Song dynasty (960-1127) construction
+    manual, the Yingzao fashi (1103), each one revealing an aspect of the
+    project to define Chinese architecture. As manifested in the research on the
+    Yingzao fashi by a number of Chinese scholars and architects, the project to
+    reconstitute and understand the text was closely connected to broader
+    intellectual issues in early-twentieth-century China: nationalism,
+    philological scholarship, and modern historiography. The Yingzao fashi was
+    rediscovered in 1919 by politician and scholar Zhu Qiqian, who saw it as an
+    important text that provided crucial knowledge of the tradition of Chinese
+    architecture. It also became a central document in the construction of a
+    modern Chinese architectural history by Liang Sicheng, Lin Huiyin, and Liu
+    Dunzhen, which was founded on a historiography strongly influenced by the
+    European Enlightenment tradition. Interest in the Yingzao fashi declined in
+    the latter half of the twentieth century due to a Communist cultural policy
+    germinated at Yan'an in the 1940s. The reappearance of the Yingzao fashi in
+    the early twentieth century played a much broader intellectual role than the
+    book originally had as a manual of construction and administration.
+  accessed:
+    - year: 2017
+      month: 6
+      day: 9
+  author:
+    - family: Li
+      given: Shiqiao
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/3592498
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 2003
+  language: en
+  page: 470-489
+  source: JSTOR
+  title: >-
+    Reconstituting Chinese Building Tradition: The Yingzao fashi in the Early
+    Twentieth Century
+  title-short: Reconstituting Chinese Building Tradition
+  type: article-journal
+  URL: http://www.jstor.org/stable/3592498
+  volume: '62'
+
+- id: li:yuanmingyuan
+  accessed:
+    - year: 2020
+      month: 10
+      day: 10
+  author:
+    - family: Li
+      given: Lillian M.
+  container-title: MIT Visualizing Cultures
+  language: en
+  title: The Yuanmingyuan as imperial paradise (1700–1860)
+  type: webpage
+  URL: >-
+    https://visualizingcultures.mit.edu/garden_perfect_brightness/ymy1_essay03.html
 
 - id: liang:1984pictorial
   author:
@@ -4209,6 +5551,97 @@ references:
   title-short: Chinese architecture
   type: book
 
+- id: lim:1991malay
+  abstract: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
+  author:
+    - family: Lim
+      given: Jee Yuan
+  event-place: Pinang
+  ISBN: 978-967-9966-04-6
+  issued:
+    - year: 1991
+      month: 7
+      day: 30
+  language: en
+  number-of-pages: '152'
+  publisher: 'Institut Masyarakat : Central Books'
+  publisher-place: Pinang
+  source: Amazon
+  title: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
+  title-short: The Malay House
+  type: book
+
+- id: linares:2013chard
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Linares Garcia
+      given: Alejandro
+  issued:
+    - literal: 20 de janeiro de 2013, 16:06:03
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Chard growing on a chinampa along one of the canals connected to the Lago de
+    los Reyes Aztecas in Tláhuac, Mexico City
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:LagoReyesTlahuac76.JPG
+
+- id: livioandronico2013:2015carlino
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Livioandronico2013
+  issued:
+    - literal: 19 de julho de 2015, 12:22:58
+  source: Wikimedia Commons
+  title: San Carlo alle Quattro Fontane (Rome) - Intern
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg
+
+- id: livioandronico2013:2015san
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Livioandronico2013
+  issued:
+    - literal: 19 de julho de 2015, 12:22:58
+  language: Italian
+  source: Wikimedia Commons
+  title: San Carlo alle Quattro Fontane (Rome) - Interno
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg
+
+- id: livioandronico2013:2016dome
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  archive: Transferido de en.wikipedia para a wiki Commons.
+  author:
+    - literal: Livioandronico2013
+  issued:
+    - year: 2016
+      month: 9
+      day: 11
+  language: English
+  source: Wikimedia Commons
+  title: Dome of Cattedrale di Santa Maria del Fiore (Florence)
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg
+
 - id: loh:2004new
   abstract: >-
     In 1614 Padovanino, a virtually unknown artist, arrived in Rome, where he
@@ -4247,6 +5680,38 @@ references:
   URL: http://www.jstor.org/stable/4134443
   volume: '86'
 
+- id: lorenzetti:1344annunciazione
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  author:
+    - family: Lorenzetti
+      given: Ambrogio
+  issued:
+    - year: 1344
+  language: Italian
+  source: Wikimedia Commons
+  title: Annunciazione dal palazzo Pubblico
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Ambrogio_lorenzetti,_annunciazione,_dal_palazzo_pubblico,_1344_(si,_pinacoteca_nazionale)_01.jpg
+
+- id: lorenzetti:legenda
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  author:
+    - family: Lorenzetti
+      given: Ambrogio
+  language: Italian
+  source: Wikimedia Commons
+  title: Legenda di San Nicola
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Ambrogio_lorenzetti,_storie_di_san_nicola,_da_s._procolo_a_firenze,_1332-34_ca._(uffizi)_02_elemosina_della_dote_per_tre_fanciulle_povere_00.jpg
+
 - id: lotz:1998arquitetura
   author:
     - family: Lotz
@@ -4262,6 +5727,23 @@ references:
   title: 'Arquitetura na Itália: 1500-1600'
   title-short: Arquitetura na Italia
   type: book
+
+- id: luiselli:2013chinampas
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  author:
+    - family: Luiselli
+      given: Daniela
+  container-title: Clio-Mexico-luiselli
+  issued:
+    - literal: jueves, 19 de septiembre de 2013
+  language: es-MX
+  title: Chinampas
+  title-short: Clio-Mexico-luiselli
+  type: post-weblog
+  URL: http://clio-mexico-luiselli.blogspot.com/2013/09/chinampas.html
 
 - id: maass:1969where
   accessed:
@@ -4467,6 +5949,193 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvgc61mv.11
 
+- id: maparchive:africa-1600
+  abstract: >-
+    The Saadi dynasty of Morocco, would, in a decade, sound the death knell for
+    two African empires. Their campaign (1590–91) destroyed the Songhay and
+    annexed their lucrative trading networks; earlier the crushing of the
+    ‘crusade’ of King Sebastian (1578) ha
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  author:
+    - literal: The Map Archive
+  language: en-GB
+  title: Africa in 1600
+  type: map
+  URL: https://themaparchive.com/product/africa-in-1600/
+
+- id: maparchive:africa-900-1500
+  abstract: >-
+    The Muslim conquest of the North African Mediterranean coastline was
+    completed in the early 8th century: the territory divided into separate
+    caliphates, with shifting borders and spheres of influence. To their south,
+    Ghana, Mali, then Songhay would succes
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  author:
+    - literal: The Map Archive
+  language: en-GB
+  title: The Empires of Africa 900–1500
+  type: map
+  URL: https://www.themaparchive.com/product/the-empires-of-africa-9001500/
+
+- id: maparchive:central-africa-1884
+  abstract: >-
+    The Berlin Conference (1884–85) fired the starting gun for the ‘Scramble for
+    Africa’. Britain was the most ubiquitous, with Cecil Rhodes (‘I would annex
+    planets if I could’) carrying out a concerted land grab from the south,
+    while a network of British pro
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  author:
+    - literal: The Map Archive
+  language: en-GB
+  title: Central Africa 1884–94
+  type: map
+  URL: https://www.themaparchive.com/product/central-africa-188494/
+
+- id: maparchive:horn-1500
+  abstract: >-
+    The Christian Kingdom of Ethiopia could already claim a lineage of over a
+    thousand years by the 15th century: it sent envoys to Henry IV of England
+    and established diplomatic relations with Portugal. However, as the century
+    progressed it was increasingly
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  author:
+    - literal: The Map Archive
+  language: en-GB
+  title: The Horn of Africa c. 1500
+  type: map
+  URL: https://www.themaparchive.com/product/the-horn-of-africa-c-1500/
+
+- id: maparchive:northeast-africa-1840
+  abstract: >-
+    In the early 19th century, Northeast Africa largely comprised a motley and
+    shifting hotchpotch of sultanates loosely within the sphere of influence of
+    the decaying Ottoman Empire. The khedives (‘viceroys’) of Egypt were
+    virtually autonomous, and territori
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  author:
+    - literal: The Map Archive
+  language: en-GB
+  title: Northeast Africa 1840–98
+  type: map
+  URL: https://www.themaparchive.com/product/northeast-africa-184098/
+
+- id: mappo:2010tempio
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Mappo
+  issued:
+    - year: 2010
+      month: 4
+      day: 21
+  source: Wikimedia Commons
+  title: Il tempio di Baalshamin a Palmira
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Temple_of_Baal-Shamin_in_Palmyra_2010.jpg
+
+- id: marcos:2011mausoleo
+  accessed:
+    - year: 2020
+      month: 10
+      day: 14
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Marcos
+      given: Luis Bartolomé
+  issued:
+    - literal: 26 de abril de 2011, 17:39:02
+  language: es
+  source: Wikimedia Commons
+  title: Mausoleo de Tamerlán [Gur-e Amir]. Samarcanda (Uzbekistán)
+  title-short: Español
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Samarcanda,_Gur-e_Amir_19.jpg
+
+- id: mawer:2013isfahan
+  abstract: >-
+    From 1590/1 onwards, the city of Isfahan was transformed in a magnificent
+    royal building programme. The dense urban agglomeration that had grown up
+    since
+  accessed:
+    - year: 2020
+      month: 10
+      day: 14
+  author:
+    - family: Mawer
+      given: Caroline
+  container-title: Caroline Mawer
+  issued:
+    - year: 2013
+      month: 3
+      day: 7
+  language: en-US
+  title: >-
+    Isfahan is half the world, they say. But by so saying, they only go half the
+    way
+  type: post-weblog
+  URL: >-
+    http://www.carolinemawer.com/isfahan-is-half-the-world-they-say-but-by-so-saying-they-only-go-half-the-way/
+
+- id: mcgill:2011humble
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: KAM_7193
+  author:
+    - family: McGill
+      given: Kevin
+  issued:
+    - year: 2011
+      month: 11
+      day: 25
+  language: en
+  source: Wikimedia Commons
+  title: Humble Administrator's Garden, Suzhou
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_7193_(6399187813).jpg
+
+- id: mcginnly:2007taj
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Mcginnly
+  issued:
+    - year: 2007
+      month: 7
+      day: 23
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Taj Mahal Site Plan: The Taj Mahal complex can be conveniently divided into
+    5 sections:
+  title-short: Taj Mahal Site Plan
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Taj_site_plan.png
+
 - id: memmo:1786elementi
   abstract: >-
     Final page blank; Errata: [1] folded leaf placed between p. IV and V;
@@ -4562,6 +6231,57 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/29543451
 
+- id: miguel:2013mesoamerica
+  abstract: >-
+    Mesoamérica y toda América Central prehispanica en el siglo XVI (16) — antes
+    de la llegada de los españoles. En lo referente a la simbología, se tomaron
+    en cuenta las siguientes consideraciones: Reinos, todas aquellas entidades
+    territoriales (llamadas comúnmente señoríos o cacicazgos) que contaban con
+    una capital y un señor principal; confederación, todas aquellas entidades
+    conformadas por señoríos o poblaciones que aunque eran independientes tenían
+    algún tipo de integración o alianza; territorio, todas aquellas regiones
+    conformadas por varios señoríos o poblaciones (ya sean sedentarias, nómadas
+    o seminómadas) que no contaban con algún tipo de integración o alianza, y de
+    las que hay nula o escasa información de como estaban constituidos o de como
+    se encontraban delimitados los territorios de todos o algunas entidades que
+    se encontraban en esa región; como poblaciones importantes se toman en
+    cuenta aquellas poblaciones que eran parte de la organización administrativa
+    de alguna entidad, aquellas poblaciones que tuvieron un papel destacado en
+    la conquista española de alguna entidad (como aquellas en las que se
+    libraron batallas importantes), y las poblaciones donde se hablaban o donde
+    aún se hablan algunas lenguas o dialectos; por último, es de mencionar que
+    las otras etnias o culturas mostradas podrían haber estado sometidas a la
+    entidad donde se mencionan o podrían ser independientes de dicha entidad.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  archive: >-
+    Trabalho próprio pelo carregador, for the elaboration of this picture were
+    usted the next resources: This files of wikimedia commons: For great part of
+    Mexico: the original version of this file (there version you can see it
+    here):    For the chichimecas nations: this image:    For the huastec
+    territory: this image:    For Jalisco: this image:    For Yucatan: this
+    image:    For centroamerica: this file:    And, pictures or information of
+    the nexts documents, publications or books: "Los Chontales de
+    Acalán-Tixchel" of France Vinton Scholes and Ralph L. Roys "Acalán y la
+    Chontalpa en el siglo XVI: su geografía política" of Ana Luisa Izquierdo
+    "Nueva perspectiva sobre la geografía política de los mayas" of Lorraine
+    Annette Williams-Beck "I. Aztatlán: frontera prehispánica mesoamericana en
+    la costa del pacífico" of Ignacio Guzmán Betancourt
+  author:
+    - family: Miguel
+      given: Juan
+  issued:
+    - literal: 14 de dezembro de 2013, 13:12:20
+  language: es
+  medium: SVG
+  source: Wikimedia Commons
+  title: Mesoamérica y Centroamérica prehispánica siglo XVI
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Mesoam%C3%A9rica_y_Centroamerica_prehispanica_siglo_XVI.svg
+
 - id: milizia:1768vite
   abstract: >-
     The author is named in the 3rd ed. of the work: Memorie degli architetti
@@ -4638,6 +6358,87 @@ references:
   URL: http://www.jstor.org/stable/988682
   volume: '31'
 
+- id: mirfendereski:architectural
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  author:
+    - family: Mirfendereski
+      given: Afsaneh
+  container-title: Afsaneh Architecture LLC
+  language: en-US
+  title: Architectural Inspirations
+  type: webpage
+  URL: http://www.afsaneharchitecture.com/architectural-photography
+
+- id: mohd:2012establishment
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  author:
+    - family: Mohd Sahabuddin
+      given: Mohd Firrdhaus
+  container-title: Firrbudi aka Lensahijau
+  issued:
+    - year: 2012
+      month: 10
+      day: 18
+  language: en
+  source: Blogger
+  title: 'The Establishment of ''Air House'' Standard in Tropical Countries : Part 2'
+  type: post-weblog
+  URL: >-
+    http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
+
+- id: mohd:2015traditional9
+  abstract: >-
+    Large migration from rural areas to urban areas like Kuala Lumpur has led to
+    some implications for economic, social and cultural development. This high
+    population has placed enormous demand on the existing housing stocks,
+    especially for low-income groups. However, some issues arise, one of which
+    is overheated indoor air temperature. This problem contributes to the
+    high-energy usage that forces huge sums of money to be spent on cooling the
+    house by using mechanical equipment. Therefore, this study focuses on
+    thermal comfort in social housing, and incorporates traditional values into
+    its design to achieve a certain measurement of natural ventilation in a
+    house. From the study, the carbon emission and energy consumption for an
+    air-conditioned house is 67%, 66% higher than a naturally ventilated house.
+    Therefore, this research has come up with a new typology design, which has a
+    large exposed wall area and full-length openings on the opposite walls to
+    increase cross ventilation. At the end of this research, the measurement of
+    thermal comfort for a naturally ventilated building called 'Air House' has
+    been identified.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  author:
+    - family: Mohd Sahabuddin
+      given: Mohd Firrdhaus
+    - family: Gonzalez-Longo
+      given: Cristina
+  container-title: 'ArchNet-IJAR: International Journal of Architectural Research'
+  ISSN: 1938-7806
+  issue: '2'
+  issued:
+    - year: 2015
+      month: 7
+      day: 31
+  language: en
+  number: '2'
+  number-of-pages: '14'
+  page: 31-44
+  source: strathprints.strath.ac.uk
+  title: >-
+    Traditional values and their adaptation in social housing design : towards a
+    new typology and establishment of 'Air House' standard in Malaysia
+  title-short: Traditional values and their adaptation in social housing design
+  type: article-journal
+  URL: https://strathprints.strath.ac.uk/53996/
+  volume: '9'
+
 - id: monti:1938castelli
   abstract: >-
     Description of the castles found in Gondar, Ethiopia by the then chief of
@@ -4660,6 +6461,99 @@ references:
   type: book
   URL: http://archive.org/details/ICastelliDiGondar
 
+- id: monti:1950chiesa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Biblioteca Europeia de Informação e Cultura
+  author:
+    - family: Monti
+      given: Paolo
+  issued:
+    - year: 1950
+  source: Wikimedia Commons
+  title: Chiesa di S. Carlino alle Quattro Fontane
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_-_BEIC_6346853.jpg
+
+- id: monti:1975basilica
+  abstract: >-
+    Negativo b/n, gelatina bromuro d'argento/ pellicola ; 35 mm. - ((Sul
+    portanegativi: N[I]K[MA]T FP4. - All'interno del portanegativi: la serie è
+    anche identificata anche da una linea orizzontale a pennarello nero che
+    separa la suddetta serie dalla successiva di soggetto diverso. - Confronta
+    Scheda 2729Lpbn01-14. - Occasione: Documentazione per la pubblicazione:
+    Battisti Eugenio, "Filippo Brunelleschi", Milano, Electa, edizione italiana,
+    1976. - : IV. Commesse/ Fattura n. 19 (1975/08/18), presso Archivio Paolo
+    Monti. - Fonte: Agenda di Paolo Monti: Leica 1501-3000 Controllo numerazione
+    (1950-1978), presso Archivio Paolo Monti. - Fonte: Monografia di Battisti,
+    Eugenio: Filippo Brunelleschi, Milano, Electa, edizione italiana (1976). -
+    Fonte: Fattura di Paolo Monti
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: >-
+    Servizio fotografico (Firenze, 1975). Biblioteca Europeia de Informação e
+    Cultura
+  archive_location: BEIC 6348989
+  author:
+    - family: Monti
+      given: Paolo
+  dimensions: 35 mm
+  issued:
+    - year: 1975
+  language: Italian
+  medium: 'Strisce: 4, Fotogrammi complessivi: 19'
+  source: Wikimedia Commons
+  title: >-
+    Basilica di San Lorenzo. Sacrestia Vecchia: interno con particolari
+    architettonici e decorativi.
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg
+
+- id: monti:1979palazzo
+  accessed:
+    - year: 2020
+      month: 10
+      day: 6
+  archive: Biblioteca Europea di Informazione e Cultura
+  archive_location: BEIC 6363891
+  author:
+    - family: Monti
+      given: Paolo
+  dimensions: 24 × 30 cm
+  issued:
+    - year: 1979
+  medium: Positivo b/n, gelatina bromuro d'argento/ carta
+  source: Wikimedia Commons
+  title: Palazzo della Cancelleria. Servizio fotografico (Roma, 1979)
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg
+
+- id: monti:1980servizio
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  archive: Biblioteca Europeia de Informação e Cultura
+  author:
+    - family: Monti
+      given: Paolo
+  dimensions: 35 mm
+  issued:
+    - year: 1980
+  medium: 'Strisce: 7, Fotogrammi complessivi: 36'
+  source: Wikimedia Commons
+  title: Servizio fotografico (Vigevano, 1980)
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Vigevano,_1980)_-_BEIC_6330819.jpg
+
 - id: monton-subias:2015archaeologies
   author:
     - family: Monton-Subias
@@ -4674,6 +6568,112 @@ references:
   source: Library of Congress ISBN
   title: Archaeologies of early modern Spanish colonialism
   type: book
+
+- id: moore:1905character
+  abstract: >-
+    Introduction.--The dome of Florence.--Church architecture of the Florentine
+    renaissance.--The dome of St. Peter's.--Church architecture of the Roman
+    renaissance.--Palace architecture of the Florentine renaissance.--Palace
+    architecture of the Roman renaissance.--Church architecture of the
+    renaissance in north Italy.--Palace architecture of the renaissance in north
+    Italy.--Architectural carving of the renaissance.--Architecture of the early
+    renaissance in France.--Lescot and De l'Orme.--Architecture of the
+    renaissance in England. I. Elizabethan art.--Architecture of the renaissance
+    in England. II. Jones and Wren.--Conclusion
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  author:
+    - family: Moore
+      given: Charles Herbert
+  call-number: SRLF:LAGE-2344011
+  issued:
+    - year: 1905
+  language: eng
+  number-of-pages: '328'
+  publisher: 'New York, London : The Macmillan Company'
+  source: Internet Archive
+  title: Character of renaissance architecture
+  type: book
+  URL: http://archive.org/details/characterofrenai00mooriala
+
+- id: moore:1905floorplan
+  accessed:
+    - year: 2020
+      month: 9
+      day: 27
+  archive: Character of Renaissance Architecture
+  author:
+    - family: Moore
+      given: Charles Herbert
+  issued:
+    - year: 1905
+  source: Wikimedia Commons
+  title: >-
+    Floorplan of Sant' Andrea, Mantua, figure 18 from "Character of Renaissance
+    Architecture"
+  title-short: English
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Floorplan_of_Sant%27_Andrea,_Mantua_(Character_of_Renaissance_Architecture).png
+
+- id: moore:1905palazzo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Character of Renaissance Architecture
+  author:
+    - family: Moore
+      given: Charles Herbert
+  issued:
+    - year: 1905
+  source: Wikimedia Commons
+  title: Palazzo Riccardi, from "Character of Renaissance Architecture"
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Palazzo_Riccardi_(Character_of_Renaissance_Architecture).jpg
+
+- id: moore:1905part
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Character of Renaissance Architecture
+  author:
+    - family: Moore
+      given: Charles Herbert
+  issued:
+    - year: 1905
+  source: Wikimedia Commons
+  title: >-
+    Part Plan, Florence Cathedral, figure 9 from "Character of Renaissance
+    Architecture"
+  title-short: English
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Part_Plan,_Florence_Cathedral_(Character_of_Renaissance_Architecture).png
+
+- id: moore:1905vignola
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: >-
+    https://archive.org/stream/characterofrenai00mooriala#page/28/mode/1up
+    Character of Renaissance Architecture
+  author:
+    - family: Moore
+      given: Charles Herbert
+  issued:
+    - year: 1905
+  source: Wikimedia Commons
+  title: '[Vignola, façade of the Gesù]'
+  title-short: English
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Character_of_Renaissance_Architecture_0123.jpg
 
 - id: morgan:1992concepts53
   accessed:
@@ -4879,6 +6879,102 @@ references:
   title-short: Arquitectura del renacimiento
   type: book
 
+- id: mwenje:2019case
+  abstract: >-
+    This chapter discusses the urban challenges experienced by Lamu Old Town, a
+    World Heritage site in Kenya. The paper reviews the interventions being
+    undertaken jointly by Government of Kenya, the National Museums of Kenya,
+    the County Government of Lamu and its predecessor the County Council of Lamu
+    in trying to safeguard the Outstanding Universal Value while also enhancing
+    the attributes and functionality of the historic old town as it struggles to
+    meet the challenges associated with urban growth and development. The
+    chapter highlights the potential of Historic Urban Landscape tools in
+    enhancing the future development of the town.Lamu Old Town is regarded as
+    the oldest and best preserved of the Swahili settlements in East Africa, and
+    it still retains its traditional character and functions. The town received
+    national recognition in 1986 and was subsequently inscribed on the UNESCO
+    World Heritage list in 2001. Over the last 10 years, Lamu Town has
+    experienced an inordinate population increase resulting from an influx of
+    immigrant job seekers. The ensuing high demand for housing has resulted in
+    the development of informal settlements around the old town, which now
+    impacts negatively on the character and attributes of the town. Mega
+    infrastructural developments earmarked for development within the precincts
+    of the adjacent mainland coastline also pose a threat to the integrity of
+    the old town.Previous partnerships on the implementation of the UNESCO
+    supported programmes on Historic Urban Landscapes have enabled site managers
+    to argue for the integration of conservation initiatives into the broader
+    development agenda of the county government. In order to enhance the quality
+    of life within the town for both visitors and residents, the County
+    Government of Lamu (CGL) has initiated a number of ongoing infrastructural
+    improvement projects. The projects include paving of open public spaces,
+    pedestrian walkways and provision of street lights.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 16
+  author:
+    - family: Mwenje
+      given: Mohammed Ali
+    - family: Bunu
+      given: Salim Mohammed
+  collection-title: Creativity, Heritage and the City
+  container-title: >-
+    Reshaping Urban Conservation: The Historic Urban Landscape Approach in
+    Action
+  DOI: 10.1007/978-981-10-8887-2_17
+  editor:
+    - family: Pereira Roders
+      given: Ana
+    - family: Bandarin
+      given: Francesco
+  event-place: Cham
+  ISBN: 978-981-10-8887-2
+  issued:
+    - year: 2019
+  language: en
+  page: 313-327
+  publisher: Springer
+  publisher-place: Cham
+  source: Springer Link
+  title: 'Case Study: Lamu Old Town'
+  title-short: Case Study
+  type: chapter
+  URL: https://doi.org/10.1007/978-981-10-8887-2_17
+
+- id: mykaul:2007basilica
+  accessed:
+    - year: 2020
+      month: 9
+      day: 27
+  author:
+    - literal: Mykaul
+  issued:
+    - year: 2007
+      month: 8
+      day: 25
+  medium: photo
+  source: Flickr
+  title: Basilica of St. Andrea, Mantova
+  type: graphic
+  URL: https://www.flickr.com/photos/mykaul/1336317266/
+
+- id: mykaul:2007light
+  accessed:
+    - year: 2020
+      month: 9
+      day: 27
+  author:
+    - literal: mykaul
+  issued:
+    - year: 2007
+      month: 8
+      day: 25
+  medium: photo
+  source: Flickr
+  title: Light beams in St. Andrea, Mantova
+  type: graphic
+  URL: https://www.flickr.com/photos/mykaul/1335531115/
+
 - id: nagel:2005new87
   author:
     - family: Nagel
@@ -5004,6 +7100,23 @@ references:
   source: Library of Congress ISBN
   title: Nuevas poblaciones en la España de la Ilustración
   type: book
+
+- id: otrebski:2009florence
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Otrębski
+      given: Andrzej
+  issued:
+    - literal: 28 de agosto de 2009, 15:10:04
+  source: Wikimedia Commons
+  title: Florence - Santa Maria Novella church
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Firenze_kosciol_Santa_Maria_Novella_3.jpg
 
 - id: overton:1774
   abstract: >-
@@ -5235,6 +7348,45 @@ references:
   URL: http://www.jstor.org/stable/990940
   volume: '53'
 
+- id: pazzaglia:2013tempio
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Pazzaglia
+      given: Giovanni
+  issued:
+    - literal: 26 de setembro de 2013, 17:11:55
+  source: Wikimedia Commons
+  title: Tempio di Santa Maria della Consolazione
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Consolazione_interno.jpg
+
+- id: pelagalli:2010roma
+  accessed:
+    - year: 2020
+      month: 10
+      day: 6
+  archive: >-
+    https://web.archive.org/web/20161017164449/http://www.panoramio.com/photo/43056567
+  author:
+    - family: Pelagalli
+      given: Carlo
+  issued:
+    - year: 2010
+      month: 11
+      day: 1
+  source: Wikimedia Commons
+  title: >-
+    Roma, Città del Vaticano: Palazzo Giraud-Torlonia, in via della
+    Conciliazione.
+  title-short: Roma, Città del Vaticano
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg
+
 - id: pellecchia:1992architects51
   accessed:
     - year: 2019
@@ -5395,6 +7547,38 @@ references:
     - family: McEwen
       given: Indra Kagis
   type: book
+
+- id: peter1936f:2014santa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - literal: Peter1936F
+  issued:
+    - literal: 16 February 2014, 12:20:48
+  source: Wikimedia Commons
+  title: Santa Maria del Popolo Capella Chigi
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi.jpg
+
+- id: peter1936f:2016san
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - literal: Peter1936F
+  issued:
+    - literal: 3 June 2016, 10:49:27
+  source: Wikimedia Commons
+  title: San Pietro in Montorio (Rom); Tempietto des Bramante
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:San_Pietro_in_Montorio;_Tempietto_del_Bramante.jpg
 
 - id: petruccioli:1998typological
   accessed:
@@ -5587,6 +7771,29 @@ references:
   URL: >-
     http://archive.org/details/McGillLibrary-rbsc_monumenta_piranesi_diverse-maniere-cammini_elfWFKP66cutter-18760
 
+- id: plan:1656malacca
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  archive: Nationaal Archief
+  archive_location: >-
+    No. 28 / genomen uit de brieven en papieren van Malakka 1656 portefeuille
+    1656 no. IV / 598 a.
+  dimensions: 73 × 52 cm
+  issued:
+    - year: 1656
+      circa: true
+  language: nl
+  medium: ingekleurde tekening op papier
+  source: Wikimedia Commons
+  title: >-
+    Plan van alle de bolwerken ofte punten, oock alle andere principale platesen
+    en Packhuysen binnen de stadt en fortresse Malacca enz.
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
+
 - id: podro:1982a
   author:
     - family: Podro
@@ -5758,6 +7965,22 @@ references:
   URL: http://www.jstor.org/stable/3334324
   volume: '1'
 
+- id: puggioni:2014santa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 4
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Puggioni
+      given: Rossella
+  issued:
+    - literal: 30 de abril de 2014, 11:54:01
+  source: Wikimedia Commons
+  title: Santa Maria della Consolazione, cupole interne
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Cupole_interne.jpg
+
 - id: quatremere:1788caractere
   author:
     - family: Quatremère de Quincy
@@ -5801,6 +8024,59 @@ references:
   title: 'The meaning of the built environment: a nonverbal communication approach'
   title-short: The meaning of the built environment
   type: book
+
+- id: redentore:2017
+  abstract: Il Redentore, Palladio Venice, Italy.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  container-title: The Wandering Wahoo
+  issued:
+    - year: 2017
+      month: 7
+      day: 5
+  language: English
+  title: Il Redentore, Palladio Venice, Italy
+  type: post-weblog
+  URL: >-
+    https://the-wandering-wahoo.tumblr.com/post/162652863048/architecturebuff-il-redentore-palladio-venice
+
+- id: renalias:2003montepulciano
+  accessed:
+    - year: 2020
+      month: 10
+      day: 7
+  archive: Own work
+  author:
+    - family: Renalias
+      given: Josep
+  issued:
+    - year: 2003
+      month: 7
+      day: 22
+  source: Wikimedia Commons
+  title: Montepulciano - Madonna di San Biagio
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Montepulciano_-_Madonna_di_San_Biagio.JPG
+
+- id: ribeiro:2016facade
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Ribeiro
+      given: José Luiz Bernardes
+  issued:
+    - literal: 13 de setembro de 2016, 14:51:13
+  source: Wikimedia Commons
+  title: Facade - San Giorgio Maggiore - Venice
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg
 
 - id: richardson:1802new1
   abstract: >-
@@ -5890,6 +8166,70 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/864644
   volume: '58'
+
+- id: rigaud:1782sir
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  archive: National Portrait Gallery
+  author:
+    - family: Rigaud
+      given: John Francis
+  dimensions: 118,1 × 143,5 cm
+  issued:
+    - year: 1782
+  language: en-GB
+  medium: Óleo sobre tela
+  source: Wikimedia Commons
+  title: Sir William Chambers; Joseph Wilton; Sir Joshua Reynolds
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Sir_William_Chambers;_Joseph_Wilton;_Sir_Joshua_Reynolds_by_John_Francis_Rigaud.jpg
+
+- id: rocchi:1884chiesa
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Università degli Studi di Firenze-Biblioteca di Scienze tecnologiche
+  archive_location: TO00193721_1_1884_7_1-12_sp034
+  author:
+    - family: Rocchi
+      given: V.
+  issued:
+    - year: 1884
+  medium: >-
+    Ricordi di architettura : raccolti autografati e pubblicati da una società
+    di architetti fiorentini serie1, vol. 7, fasc. 6
+  title: >-
+    Chiesa di S. M. delle Carceri. Prato (Toscana). Opera di Giuliano da S.
+    Gallo (sec. XVI). Alzato e pianta
+  type: graphic
+  URL: >-
+    http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&rpnquery=%40attrset+bib-1++%40attr+1%3D1016+%40attr+4%3D6+%22Prato%22&totalResult=42&select_db=solr_unifi&nentries=1&rpnlabel=+Tutti+i+campi+%3D+Prato+%28Parole+tutte%29+&resultForward=opac%2Funifi%2Ffull.jsp&searchForm=opac%2Funifi%2Ffull.jsp&do_cmd=search_show_cmd&fname=none&from=23&search_text=
+
+- id: rocchi:1884sezione
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Università degli Studi di Firenze-Biblioteca di Scienze tecnologiche
+  archive_location: TO00193721_1_1884_7_1-12_sp035
+  author:
+    - family: Rocchi
+      given: V.
+  issued:
+    - year: 1884
+  medium: >-
+    Ricordi di architettura : raccolti autografati e pubblicati da una società
+    di architetti fiorentini serie1, vol. 7, fasc. 6
+  title: >-
+    Sezione della Chiesa di S. M. delle Carceri in Prato (Toscana). Opera di
+    Giuliano da S. Gallo (sec. XVI)
+  type: graphic
+  URL: >-
+    http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&rpnquery=%40attrset+bib-1++%40attr+1%3D1016+%40attr+4%3D6+%22Prato%22&totalResult=42&select_db=solr_unifi&nentries=1&rpnlabel=+Tutti+i+campi+%3D+Prato+%28Parole+tutte%29+&resultForward=opac%2Funifi%2Ffull.jsp&searchForm=opac%2Funifi%2Ferror.jsp&do_cmd=search_show_cmd&fname=none&from=26&search_text=
 
 - id: rochapeixoto:2013estrategia
   author:
@@ -6182,6 +8522,237 @@ references:
   URL: https://doi.org/10.1260/147807708785850113
   volume: '6'
 
+- id: sailko:2006santo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 7
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - year: 2006
+      month: 6
+      day: 29
+  language: English
+  source: Wikimedia Commons
+  title: Santo Spirito church, inside view, in Florence Italy
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Santo_Spirito,_inside_1.JPG
+
+- id: sailko:2008battistero
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Fotografia própria
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 30 de agosto de 2008, 16:41:02
+  source: Wikimedia Commons
+  title: Battistero di firenze, interno 04, porta nord
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Battistero_di_firenze,_interno_04,_porta_nord.JPG
+
+- id: sailko:2008santa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 4
+  archive: Self-photographed
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 23 June 2008, 10:07:16
+  source: Wikimedia Commons
+  title: Santa Felicità, cappella Capponi
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Santa_felicita,_cappella_capponi_11.JPG
+
+- id: sailko:2008spedale
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Fotografia própria
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 2008-04-26, 15:38:57
+  language: Italian
+  source: Wikimedia Commons
+  title: Spedale degli innocenti, tondo Andrea della Robbia 02-03
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Spedale_degli_innocenti,_tondo_andrea_della_robbia_02-03.JPG
+
+- id: sailko:2011parco
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 11 de janeiro de 2011, 23:26:53
+  source: Wikimedia Commons
+  title: >-
+    Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
+    con laterizi a spina di pesce 02
+  title-short: Italiano
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_02.JPG
+
+- id: sailko:2011parcoa
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 11 de janeiro de 2011, 23:26:40
+  source: Wikimedia Commons
+  title: >-
+    Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
+    con laterizi a spina di pesce 01
+  title-short: Italiano
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_01.JPG
+
+- id: sailko:2013pianta
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: sailko
+  issued:
+    - literal: 13 de julho de 2013, 19:09:13
+  source: Wikimedia Commons
+  title: Pianta del buonsignori, 1594,
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_1594,_26.JPG
+
+- id: sailko:2013santa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 4
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 25 de outubro de 2013, 15:45:26
+  source: Wikimedia Commons
+  title: Santa Maria delle Carceri, interno
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Chiesa_delle_carceri,_int.,_01.JPG
+
+- id: sailko:2015museo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 5 de novembro de 2015, 12:45:36
+  source: Wikimedia Commons
+  title: Museo dell'Opera del Duomo (Florence)
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Filippo_brunelleschi_(attr.),_modello_architettonico_della_cupola_e_due_tribune,_1420-36.JPG
+
+- id: sailko:2016interior
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 7 de julho de 2016, 21:45:16
+  language: English
+  source: Wikimedia Commons
+  title: Interior of the Basilica of San Lorenzo (Florence)
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Sagrestia_vecchia,_veduta_00.jpg
+
+- id: sailko:2016spedale
+  accessed:
+    - year: 2020
+      month: 9
+      day: 8
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 9 de julho de 2016, 10:53:57
+  source: Wikimedia Commons
+  title: Spedale degli Innocenti
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Spedale_degli_innocenti,_cortile_delle_donne,_di_brunelleschi,_02.jpg
+
+- id: sailko:2017mostra
+  accessed:
+    - year: 2020
+      month: 9
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 30 de dezembro de 2017, 11:43:37
+  source: Wikimedia Commons
+  title: Mostra di modelli dell'alberti, tempio malatestiano 01
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Mostra_di_modelli_dell%27alberti,_tempio_malatestiano_01.jpg
+
+- id: sailko:2017santa
+  accessed:
+    - year: 2020
+      month: 10
+      day: 4
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 23 de abril de 2017, 15:49:38
+  source: Wikimedia Commons
+  title: Santa Maria delle Carceri, interno, Fregio di Andrea della Robbia
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg
+
+- id: sailko:2018fasiladas-interno-02
+  accessed:
+    - year: 2020
+      month: 11
+      day: 9
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Sailko
+  issued:
+    - literal: 11 de novembro de 2018, 15:55:49
+  source: Wikimedia Commons
+  title: Gondar, cittadella, palazzo di re fasiladas, interno 02
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg
+
 - id: sambricio:2014projetos
   author:
     - family: Sambricio
@@ -6336,6 +8907,32 @@ references:
   URL: http://issuu.com/cornelljournal/docs/cja003-optimized/17
   volume: '3'
 
+- id: scott:1914architecture
+  abstract: >-
+    The metadata below describe the original scanning. Follow the "All Files:
+    HTTP" link in the "View the book" box to the left to find XML files that
+    contain more metadata about the original images and the derived formats (OCR
+    results, PDF etc.). See also the What is the directory structure for the
+    texts? FAQ for information about file content and naming conventions.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 23
+  author:
+    - family: Scott
+      given: Geoffrey
+  event-place: Boston
+  issued:
+    - year: 1914
+  language: en-US
+  number-of-pages: '296'
+  publisher: Houghton Mifflin
+  publisher-place: Boston
+  source: Internet Archive
+  title: The architecture of humanism; a study in the history of taste
+  type: book
+  URL: http://archive.org/details/cu31924014760353
+
 - id: sedlmayr:2016architecture14
   abstract: >-
     Hans Sedlmayr published two editions of Die Architektur Borrominis in 1930
@@ -6474,6 +9071,32 @@ references:
   type: webpage
   URL: https://www.culturesofwestafrica.com/tata-somba-batammaliba-architecture/
 
+- id: soul:2019map
+  accessed:
+    - year: 2020
+      month: 7
+      day: 31
+  archive: >-
+    M. Benton M; D. Macartney-Coxson; D. Eccles; L. Griffiths; G. Chambers; R.
+    Lea (13 April 2012). "Complete Mitochondrial Genome Sequencing Reveals Novel
+    Haplotypes in a Polynesian Population". PLoS ONE 7 (4): e35026.
+    DOI:10.1371/journal.pone.0035026.
+  author:
+    - family: Soul
+      given: Obsidian
+  issued:
+    - year: 2019
+      month: 1
+      day: 16
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Map outlining migratory paths of Austronesian speaking populations,
+    including estimated dates. Adapted from Benton et al., (2012)
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png
+
 - id: steinhardt:2002chinese
   abstract: >-
     This illustrated book is a comprehensive and authoritative study of Chinese
@@ -6545,6 +9168,84 @@ references:
   title: 'Chinese architecture: a history'
   title-short: Chinese architecture
   type: book
+
+- id: steo153:2007dome
+  accessed:
+    - year: 2020
+      month: 10
+      day: 27
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: SteO153
+  issued:
+    - year: 2007
+      month: 7
+      day: 20
+  source: Wikimedia Commons
+  title: the Dome, Il Gesù, Rome
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Ges%C3%B9-Cupola01-SteO153.JPG
+
+- id: stokes:2013view
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Flickr
+  author:
+    - family: Stokes
+      given: Bruce
+  issued:
+    - literal: 27 de agosto de 2013, 13:16:55
+  language: en
+  source: Wikimedia Commons
+  title: View of Santa Maria del Fiore
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg
+
+- id: stoughton:1962view
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: http://www.jfklibrary.org/JFK/Media-Gallery/JBK-Trip-1962.aspx
+  author:
+    - family: Stoughton
+      given: Cecil W.
+  issued:
+    - year: 1962
+      month: 3
+      day: 11
+    - year: 1962
+      month: 3
+      day: 26
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    View of the Mughal Garden of Rashtrapati Bhavan, official residence of the
+    President of India, in New Delhi, India
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg
+
+- id: stuntelaar:2008timur
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Stuntelaar
+  issued:
+    - year: 2008
+      month: 11
+      day: 15
+  language: en
+  source: Wikimedia Commons
+  title: Timur's empire at his death, vasals aren't shown
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Timur_Empire.jpg
 
 - id: summerson:1980classical
   author:
@@ -6628,6 +9329,30 @@ references:
   publisher-place: Paris
   title: "Symétrie goût caractère\_: théorie et terminologie de l’architecture à l’âge classique 1550–1800"
   type: book
+
+- id: tadgell:1980claude122
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Tadgell
+      given: Christopher
+  container-title: The Burlington Magazine
+  container-title-short: The Burlington Magazine
+  ISSN: 0007-6287
+  issue: '926'
+  issued:
+    - year: 1980
+      month: 5
+      day: 1
+  language: English
+  page: 326-337
+  source: JSTOR
+  title: Claude Perrault, François Le Vau and the Louvre Colonnade
+  type: article-journal
+  URL: http://www.jstor.org/stable/879970
+  volume: '122'
 
 - id: tafuri:1967idea
   accessed:
@@ -6767,6 +9492,56 @@ references:
   type: article-journal
   volume: '8'
 
+- id: tajudeen:2012racialized
+  abstract: >-
+    By juxtaposing case studies from various colonial and postcolonial settings
+    from around the world, this edited volume provides a comprehensive and
+    diachronic investigation of the ways in which architecture and urban space
+    mediate the intersections of colonialism, nationalism, and modernity.
+    Besides offering unique historical perspectives on colonialism, nationalism
+    and modernity, each case-study also reassesses theories regarding memory and
+    monumentalization; the appropriation and deployment of tradition in the
+    service of nationalism; and the institutions of modernity.
+  author:
+    - family: Tajudeen
+      given: Imran
+      dropping-particle: bin
+  container-title: >-
+    Colonial Frames, Nationalist Histories: Imperial Legacies, Architecture and
+    Modernity
+  editor:
+    - family: Rajagopalan
+      given: Mrinalini
+    - family: Desai
+      given: Madhuri Shrikant
+  ISBN: 978-0-7546-7880-9
+  issued:
+    - year: 2012
+  language: en
+  publisher: Ashgate Publishing, Ltd.
+  source: Google Books
+  title: >-
+    Beyond Racialized Representation: Architectural Linguæ Francæ and Urban
+    Histories in the Kampung Houses and Shophouses of Melaka and Singapore
+  type: chapter
+
+- id: tajudeen:kampung
+  accessed:
+    - year: 2020
+      month: 8
+      day: 4
+  author:
+    - family: Tajudeen
+      given: Imran
+      dropping-particle: bin
+  container-title: Singapura Stories
+  language: en
+  source: singapurastories.com
+  title: Kampung Gelam & Kampung Rochor – morphological changes
+  type: webpage
+  URL: >-
+    http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/
+
 - id: tapie:1974barroco
   author:
     - family: Tapié
@@ -6868,6 +9643,26 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3338010
   volume: '37'
+
+- id: tibaldi:2016suzhou
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  author:
+    - family: Tibaldi
+      given: Allison
+  container-title: Dave's Travel Corner
+  issued:
+    - year: 2016
+      month: 12
+      day: 4
+  language: en-US
+  title: 'Suzhou, China: An Edible Garden of Eden'
+  title-short: Suzhou, China
+  type: post-weblog
+  URL: >-
+    http://www.davestravelcorner.com/journals/destination-asia/suzhou-china-edible-garden-eden/
 
 - id: toker:1983arnolfo
   abstract: >-
@@ -6973,6 +9768,25 @@ references:
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.bp/
   volume: '2'
+
+- id: trudaine:1745atlas
+  accessed:
+    - year: 2020
+      month: 8
+      day: 24
+  archive: Archives nationales (France)
+  archive_location: versements des ministères ; Travaux publics
+  author:
+    - family: Trudaine
+      given: Daniel-Charles
+  issued:
+    - year: 1745
+    - year: 1780
+  language: fr-FR
+  title: Atlas de Trudaine CP/F/14/8447
+  type: manuscript
+  URL: >-
+    http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&FIELD_2=Cote&VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&NUMBER=4&GRP=0&REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&USRNAME=nobody&USRPWD=4%24%2534P&SPEC=9&SYN=1&IMLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All
 
 - id: turner:1996dictionary
   abstract: Includes bibliographical references and index
@@ -7335,6 +10149,47 @@ references:
     - family: Maciel
       given: M. Justino
   type: book
+
+- id: vvoevale:2016altar
+  abstract: >-
+    Ltar of Basilica San Miniato al Monte in Florence. Photo about mountain,
+    indoor, landmark, ceiling, inside, decor, italy, italian, altar, cathedral,
+    journey, basilica
+  accessed:
+    - year: 2020
+      month: 9
+      day: 25
+  archive: Dreamstime
+  archive_location: '82670261'
+  author:
+    - literal: Vvoevale
+  issued:
+    - year: 2016
+  language: en
+  title: Altar of Basilica San Miniato al Monte in Florence
+  type: graphic
+  URL: >-
+    https://www.dreamstime.com/editorial-photo-ltar-basilica-san-miniato-al-monte-florence-italy-november-altar-st-minias-mountain-one-few-medieval-churches-image82670261
+
+- id: waikhom:2012view
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Waikhom
+      given: Herojit
+  issued:
+    - year: 2012
+      month: 2
+      day: 26
+  language: en
+  source: Wikimedia Commons
+  title: A view of Taj Mahal from the south-western side
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:A_view_of_Taj_Mahal_from_the_south-western_side..jpg
 
 - id: waisman:1993interior
   author:
@@ -7714,6 +10569,41 @@ references:
       given: João
   type: book
 
+- id: wong:2016paradise
+  author:
+    - family: Wong
+      given: Young-tsu
+  collection-title: China Academy Library
+  event-place: Singapore
+  ISBN: 978-981-10-1880-0
+  issued:
+    - year: 2016
+  language: en
+  publisher: Springer Singapore
+  publisher-place: Singapore
+  source: Library of Congress ISBN
+  title: A paradise lost
+  type: book
+
+- id: woo:2012suzhou
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - family: Woo
+      given: Hector
+  issued:
+    - year: 2012
+      month: 4
+      day: 22
+  language: zh
+  source: Wikimedia Commons
+  title: 苏州 沧浪亭
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:%E6%B2%A7%E6%B5%AA%E4%BA%AD.jpg
+
 - id: wynne-jones:2007creating81
   abstract: >-
     Urban communities on the medieval East African coast have been previously
@@ -7822,6 +10712,25 @@ references:
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781107110274%23c04652-4-1/type/book_part
 
+- id: zairon:2018facade
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Zairon
+  issued:
+    - literal: 2 de outubro de 2018, 10:02:44
+  language: en
+  source: Wikimedia Commons
+  title: >-
+    Facade of the Co-Cathedral of St. Andrew, Mantua, Province of Mantua, Region
+    of Lombardy, Italy
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg
+
 - id: zolberg:2013remembering
   abstract: >-
     Twenty-thirteen is a sad year for the social sciences and history. With the
@@ -7856,6 +10765,23 @@ references:
   title: Remembering Janet Lippman Abu-Lughod
   type: webpage
   URL: https://publicseminar.org/2013/12/remembering-janet-lippman-abu-lughod/
+
+- id: zossolino:2015suzhou
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Zossolino
+  issued:
+    - literal: 24 de setembro de 2015, 13:02:35
+  language: en
+  source: Wikimedia Commons
+  title: Suzhou, The Humble Administrator’s Garden
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg
 
 - id: zucker:1970town
   author:

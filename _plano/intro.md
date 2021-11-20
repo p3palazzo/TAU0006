@@ -2,6 +2,7 @@
 title   : "Apresentação e acolhimento"
 subtitle: "Introdução à disciplina"
 author  : Pedro P. Palazzo
+date    : 2022-01-18
 ---
 
 Boas-vindas
@@ -189,7 +190,7 @@ Livro-texto
 O livro-texto de base que vai nos acompanhar ao longo de todo o semestre
 foi concebido pelos fundadores do [Global Architectural History Teaching
 Collaborative (GAHTC)][GAHTC], os historiadores da arquitetura Mark
-Jarzombek e Vikramaditya Prakash, em parceria com o famoso autor de
+Jarzombek e Vikramāditya Prakāsh, em parceria com o famoso autor de
 manuais técnicos Francis D. K. Ching. Aproveitem para conhecer os
 recursos que o site do GAHTC oferece! Esse site é uma das nossas
 inspirações para organizar o conteúdo da disciplina.
@@ -197,7 +198,7 @@ inspirações para organizar o conteúdo da disciplina.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Ching, Francis D. K., Mark M. Jarzombek, e Vikramaditya Prakash. *História global da arquitetura.* 3.ª ed. São Paulo: Senac São Paulo, 2016.](https://www.integra.unb.br/s/qxJXm4jene6LkJJ/preview){height=640px}
+![Ching, Francis D. K., Mark M. Jarzombek, e Vikramāditya Prakāsh. *História global da arquitetura.* 3.ª ed. São Paulo: Senac São Paulo, 2016.](https://www.integra.unb.br/s/qxJXm4jene6LkJJ/preview){height=640px}
 :::
 ::: {.column width=50%}
 Global Architectural History Teaching Collaborative
@@ -385,7 +386,7 @@ semana.
 
 | Unidade | Conteúdo                                         | Trabalho                        | Nota |
 |--------:|:-------------------------------------------------|:--------------------------------|-----:|
-|       I | Redes urbanas na fundação do mundo moderno       | Análise de conjunto urbano      | 30 % |
+|       I | Cidades e redes na fundação do mundo moderno     | Análise de conjunto urbano      | 30 % |
 |      II | Linguagens clássicas da arquitetura              | Projeto de arquitetura clássica | 30 % |
 |     III | Estilo e território: inquietações da modernidade | Artigo de pesquisa em história  | 30 % |
 |   Todas | Contexto histórico e cultura geral               | Leitura e discussão de textos   | 10 % |

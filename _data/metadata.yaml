@@ -1,6 +1,6 @@
 bibliography: "_data/biblio.yaml"
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
-crossrefYaml: "_data/crossref.yaml"
+crossrefYaml: "_data/metadata-crossref.yaml"
 lang: pt-BR
 link-citations: true
 linkReferences: true

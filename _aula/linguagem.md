@@ -1,12 +1,15 @@
 ---
-title   : "Arte clássica"
-subtitle: "Interlúdio A"
+title   : "Linguagem clássica"
+subtitle: "Linguagens clássicas da arquitetura"
+item    : I
 author  : Pedro P. Palazzo
-abstract: |
-  -- Tratadística italiana e ideal geométrico na China | 425, 491--500
-  -- Três momentos na reconstrução do classicismo | Summerson 1--37
-  -- Primeiro: resgatar o vocabulário antigo
-  -- Segundo: estabelecer a gramática espacial clássica
+date    : 2022-02-15
+toc:
+  - Invenção do classicismo
+  - Arquitetura clássica I › Elementos
+  - Arquitetura clássica II › Espaço
+  - Arquitetura clássica III › Superfícies e volumes
+leitura: Summerson 1--37, ver também o Glossário ao final
 ---
 
 # Invenção do classicismo #
@@ -694,7 +697,7 @@ O problema da relação entre as ordens na fachada e os pisos no interior
 da edificação é o reverso do problema da relação da fachada com o espaço
 público. Nós vamos revisitar essa questão algumas vezes ao longo do
 Renascimento, como na origem das chamadas "ordens colossais" a partir do
-palácio Tarugi, de Antonio da Sangallo ([@Fig:tarugi]).
+palácio Tarugi, de Antonio da Sangallo ([@fig:tarugi]).
 
 O segundo tema é o da articulação horizontal da
 composição entre ordens clássicas, aberturas e superfície da parede.
@@ -898,20 +901,19 @@ cilindros e esferas. Nos raros casos de construções com implantação
 isolada, o traçado do perímetro externo abraça sempre que possível os
 volumes internos. Esse é o caso da igreja da Madonna delle Carceri, em
 Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo
-([@Fig:carceri-ext; @Fig:carceri-int]).
+([@fig:carceri-ext; @fig:carceri-dwg]).
 
 ![Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485](https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview){#fig:carceri-ext}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::: {#fig:carceri-int .columns}
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:carceri-dwg .columns}
 ::: {.column width=50%}
-![planta](https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview){#fig:carceri-intA .stretch}
-:::
-::: {.column width=50%}
-![corte](https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview){#fig:carceri-intB width=100%}
-:::
+![planta](https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview){#fig:carceri-plan
+.stretch} ::: ::: {.column width=50%}
+![corte](https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview){#fig:carceri-sez
+width=100%} :::
 
 Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485.
 @rocchi:1884chiesa
@@ -1127,7 +1129,7 @@ acréscimos).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ordem colossal como solução última de unificação da fachada.
 
-![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](https://www.integra.unb.br/s/tau6-051-tarugi/preview){#fig:tarugi}
+![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](https://www.integra.unb.br/s/tau6-051-tarugi/preview){#fig:tarugi-colossal}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg"}

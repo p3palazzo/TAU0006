@@ -1,14 +1,20 @@
 ---
 title   : "Barroco internacional"
-author  : "Pedro P. Palazzo"
-abstract: |
-  -- Presságios: arquitetura e razão na França e Inglaterra | 580--581, 599--604
-  -- Virtuosismo construtivo na Europa e na Ásia | 598
-  -- Virtuosismo decorativo e o pitoresco | 582--587
-  -- Cosmopolitismo dos jardins chineses à carpintaria japonesa | 588--597
+subtitle: "Viação e território, inquietações contemporâneas"
+item    : II
+author  : Pedro P. Palazzo
+date    : 2022-04-05
+toc:
+  - Teorias do barroco
+  - Carpintaria japonesa
+  - Virtuosismo estrutural
+  - Presságios
+leitura: 
 ---
 
 # Teorias do barroco #
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A história da arte e da arquitetura que temos acompanhado até agora é

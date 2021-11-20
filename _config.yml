@@ -338,17 +338,15 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
-      - intro.md
-      - humanismo.md
       - rotas.md
-      - renascimento.md
       - cidades-ideais.md
+      - cidades-possiveis.md
+      - sistemas-espaciais.md
+      - linguagem.md
       - teoria.md
-      - arte-classica.md
       - anticlassico.md
-      - barroco.md
+      - cidade-classica.md
       - academicismo.md
-      - primeiros-modernos.md
       - urb-como-arq.md
       - barroco-intl.md
       - universo.md

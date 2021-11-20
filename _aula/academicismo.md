@@ -1,13 +1,14 @@
 ---
 title   : "Arquitetura acadêmica"
 subtitle: "Linguagens clássicas da arquitetura"
-item    : "V"
+item    : V
 author  : Pedro P. Palazzo
-abstract: |
-  -- Desenho, colorido e a Querela dos Antigos e dos Modernos | Summerson 63--88
-  -- Colunata do Louvre, ponte entre o Renascimento e o Neoclassicismo | 573
-  -- Academias de arte e o ofício da arquitetura
-  -- Simetria, gosto, caráter
+date    : 2022-03-22
+toc:
+  - Colunata do Louvre
+  - Academias de arte e o ofício da arquitetura
+  - "Hôtel: soluções funcionais da modernidade"
+leitura: 573--575, Summerson 63--88
 ---
 
 # Colunata do Louvre #
@@ -488,7 +489,7 @@ definição da profissão de arquiteto.
 
 <!--._-->
 
-# Arquitetura acadêmica #
+# Academias de arte e o fício da arquitetura #
 
 ## Querela dos Antigos e dos Modernos ##
 

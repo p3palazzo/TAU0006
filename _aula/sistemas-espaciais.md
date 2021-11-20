@@ -1,14 +1,15 @@
 ---
 title   : "Sistemas espaciais e abóbadas"
 subtitle: "Cidades e redes na fundação do mundo moderno"
-item    : "IV"
+item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-02-08
-abstract: |
-  -- Perspectiva e espaço arquitetônico | 474--490
-  -- História da arquitetura como história da construção
-  -- Explorações da técnica: as cúpulas de Brunelleschi e De L'Orme
-  -- Cúpulas islâmicas e malhas espaciais
+toc:
+  - Introdução à arquitetura da Idade Moderna
+  - História da arquitetura como história da construção
+  - A cúpula de Brunelleschi
+  - Cúpulas islâmicas e malhas espaciais
+leitura: 474--490, 530--536
 ---
 
 # 
@@ -22,6 +23,215 @@ da decoração dos edifícios, essas questões formam o tripé que constitui
 a chamada "história dos estilos" --- o modelo básico de pesquisa e
 ensino da história da arte nas universidades e escolas de arquitetura no
 mundo ocidental desde o final do século [XIX]{.smallcaps}.
+
+# Introdução à arquitetura da Idade Moderna #
+
+##
+
+<div class="sketchfab-embed-wrapper iframe-wrapper"> <iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> First terrestrial globe - Martin Behaim 1492 </a> by <a href="https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Drones Imaging </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+<!--Câmera-->
+O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
+para menos, mas isso não importa. Exatamente em 1420, termina a
+reconstrução do palácio imperial em Pequim, conhecido no Ocidente como a
+"Cidade proibida" ([@fig:danei]). No mesmo ano, começa a ser erigida a
+cúpula da catedral Santa Maria del Fiore, em Florença ([@fig:smfiore]). Os
+dois monumentos se apresentam como resgate e renovação de uma
+arquitetura *correta* herdada da Antiguidade.
+<!--/Câmera-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg"}
+
+![ Detalhe do rolo pintado do palácio, [Pequim, século [XV]{.smallcaps}
+](https://commons.wikimedia.org/wiki/File:Verbotene-Stadt1500.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/6/6e/Verbotene-Stadt1500.jpg){#fig:danei .align-right}
+
+## {data-background-image="https://i.pinimg.com/originals/44/ad/da/44adda4c28cfc9a7a6cd7f43d1ebdc34.jpg"}
+
+![ Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420.
+Desenho: [Cigoli, 1613
+](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png#Licenciamento)
+](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559%E2%80%941613)._Duomo_di_Firenze.png){#fig:smfiore}
+
+<!--_,-->
+
+Esses dois projetos dão o tom para um processo de consolidação das
+tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
+tradições se estabilizam em torno de de uma concepção do ofício da
+arquitetura inspirada em antigos tratados. Ao mesmo tempo, o conjunto
+arquitetônico imperial em Pequim e as novas construções do século [XV]{.smallcaps} em
+Florença dão a partida numa exploração de configurações cada vez mais
+diversificadas do espaço interior e exterior.
+
+## {data-background-image=""}
+
+<!--Câmera-->
+[A busca por justificação teórica]{.newthought} no passado é libertadora
+para a criação
+artística: ela demanda interpretação das fontes escritas e arqueológicas
+e, por meio dessa interpretação, permite ir além das convenções e
+técnicas consagradas no presente. Quanto mais se afirma a autoridade do
+modelo dito *clássico*, tanto mais a livre interpretação desse modelo
+passa a ser uma forma de resistência intelectual contra imposições
+autoritárias. Assim se desenvolve o conceito das artes visuais como
+trabalho *intelectual*.
+<!--/Câmera-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
+
+Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
+filosofia escolástica e o estilo gótico desde o século [XII]{.smallcaps}
+[@panofsky:2001arquitetura]. A partir do século [XV]{.smallcaps}, ela passa a ocupar
+um lugar central na reflexão sobre o trabalho artístico e o lugar da
+criação humana na ordem do mundo ([@fig:veduta1495]).
+
+![[Atribuído a Giuliano da Sangallo
+](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
+Perspectiva arquitetônica com porto, c. 1495
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
+
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
+
+<!--Câmera-->
+Dois temas dominam a teoria e a prática da arquitetura e da pintura,
+desde o século [XV]{.smallcaps} até o [XVIII]{.smallcaps}: constituir um campo de *saber
+disciplinar* para a profissão e explorar maneiras de organizar e
+representar o *espaço*. Essas duas preocupações se iluminam mutuamente
+tanto na Ásia oriental quanto na Europa ocidental.
+<!--/Câmera-->
+
+Os problemas de como *dar forma* ao espaço e como *representar* essa
+forma no desenho e na pintura se tornam centrais na China da dinastia
+Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
+partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
+
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
+
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
+
+<!--_,-->
+
+Nos dois casos, o desenvolvimento de
+técnicas espaciais vem associado a uma discussão sobre o lugar dos
+conhecimentos artísticos e arquitetônicos no campo dos saberes
+*intelectuais*, e portanto sobre o papel do próprio artista e do
+arquiteto numa sociedade letrada e no contexto das chamadas *artes
+liberais*.
+
+##
+
+. . .
+
+- As artes *liberais* --- como História, Matemática --- fornecem
+  conhecimentos e métodos que legitimam as artes plásticas e a
+  arquitetura.
+
+. . .
+
+- A arquitetura e as artes plásticas ilustram e interpretam a visão de
+  mundo formulada pelo conhecimento intelectual, mas também pelo poder
+  político.
+
+##
+
+Com o Renascimento, a distinção entre *artes liberais* --- os produtos
+do raciocínio lógico e da retórica, como História, Geometria, Música e
+Astronomia --- e *ofícios manuais* --- que incluíam todas as disciplinas
+que nós hoje consideramos como *artísticas* --- vai então sendo
+questionada e reformulada.
+
+##
+
+<!--Câmera-->
+[Na Ásia oriental e na Europa ocidental,]{.newthought}
+
+a partir do século [XV]{.smallcaps}, as arte
+visuais em geral e a arquitetura em particular se consolidam como um
+*corpo de conhecimentos* teóricos e técnicos registrados por escrito em
+*tratados*: livros impressos que reivindicam uma autoridade normativa
+herdada da cultura clássica [@choay:1986regra].
+<!--/Câmera-->
+
+##
+
+A China sai em vantagem com o [*Yingzao
+fashi*](https://en.wikipedia.org/wiki/Yingzao_Fashi)
+([@fig:yingzao-fashi]), um livro impresso e ilustrado do ano 1103 --- 350
+anos antes do primeiro tratado do Renascimento italiano. O autor do
+*Yingzao fashi* é Li Jie (1065--1110), um arquiteto da casa Imperial na
+dinastia Song, um período que os chineses do século [XIV]{.smallcaps} em diante
+consideravam como o ponto alto das letras e das artes
+[@liang:2005chinese].
+
+Enquanto isso, na Europa, o tratado de arquitetura de Vitrúvio, escrito
+por volta de 15 a.C., sobrevive em cópias manuscritas nos mosteiros
+medievais [@conant:1968after-life27]. O interesse europeu por esse texto
+clássico só *renasce* de fato na metade do século [XV]{.smallcaps}. Por essa época, as
+poucas figuras que faziam parte do tratado já tinham desaparecido, e o
+Renascimento italiano começa justamente com um esforço *colossal* de
+reconstituir a interpretação considerada correta do conhecimento antigo.
+
+Uma das interpretações mais refinadas dessa arquitetura inspirada na
+Antiguidade clássica é o *Sistema das cinco espécies de colunas segundo
+o método dos Antigos*, publicado em 1683 pelo francês Claude Perrault
+(1613--1688). Mas o *Sistema* de Perrault é também um dos últimos desse
+gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquitetônico
+*clássico* enfrenta uma crise de legitimidade.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi .stretch}
+:::
+::: {.column width=50%}
+![Cinco ordens de arquitetura por Claude Perrault
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance .stretch} 
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg"}
+
+<!--_,-->
+
+Se o domínio global do espaço é a preocupação dominante das artes
+visuais e da arquitetura do século [XV]{.smallcaps} em diante, a cidade é onde esse
+domínio se exercita antes de se ampliar para a escala de territórios
+regionais ou nacionais no século [XVIII]{.smallcaps}. No início desse processo, o
+espaço ordenado pela arquitetura é aquele que pode ser abarcado,
+literalmente, num só golpe de vista ([@fig:carnevale]).
+
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
+
+Esse golpe de vista pode ser simbólico: nos séculos [XV]{.smallcaps} a [XVII]{.smallcaps} as vistas
+panorâmicas de cidades aparecem associadas à afirmação da justiça
+municipal, da conquista militar ou da capacidade política de ordenamento
+do território ([@fig:versailles-patel]).
+
+![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
+
+Às vezes os panoramas urbanos afirmam a unidade do poder político.
+Outras vezes, como na pintura da escola *tosa* no Japão do século [XVI]{.smallcaps} e
+início do [XVII]{.smallcaps}, podem celebrar o fato efêmero da fragmentação do poder
+central, que por um breve momento dá lugar à autonomia burguesa
+([@fig:funaki]).
+
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
+
+<!--Câmera-->
+Por tudo isso, o espaço urbano na virada do século [XIV]{.smallcaps} é o ponto de
+partida e a base indispensável para o estudo da arquitetura até o final
+do século [XVIII]{.smallcaps}. Durante todo esse período, as redes mundiais de
+comércio e de trocas culturais ainda permite o desenvolvimento de formas
+urbanas muito variadas.
+<!--/Câmera-->
+
 
 História da arquitetura como história da construção
 ===================================================
@@ -386,166 +596,6 @@ construídas segundo o sistema construtivo da catedral de Florença. Mais
 importante ainda, muitos arquitetos vão seguir o procedimento de
 Brunelleschi e desenvolver concepções estruturais singulares como
 solução para problemas construtivos específicos.
-
-# Saberes corporativos e tratadística na França #
-
-## Resiliência das tradições construtivas ##
-
-Na França, a tradição técnica do gótico é suficientemente forte para se
-desenvolver de modo independente da representação pictórica do espaço.
-Os ofícios da construção --- a carpintaria e a alvenaria --- absorvem as
-formas decorativas clássicas importadas da Itália sem alterar
-fundamentalmente o seus processos produtivos. Desse modo, a primeira
-lição do Renascimento fora da Itália diz respeito à fluidez das relações
-entre espaço, construção e decoração.
-
-Nesse contexto, o desenvolvimento das soluções construtivas espaciais
-ocorre na forma de aprimoramentos graduais sem contestar os princípios
-fundamentais da construção gótica. Os avanços ocorrem sobretudo no
-contexto da invenção de soluções mais eficientes na carpintaria de pisos
-e telhados e no aprimoramento da estereotomia — a resolução formal e
-estrutural de abóbadas em pedra. Abóbadas falsas em madeira e escadarias
-autoportantes são algumas das principais contribuições do gótico tardio
-na França para a solução de problemas construtivos.
-
-O estudo da arquitetura do Renascimento na França está marcado, desde o
-início do século [XIX]{.smallcaps}, por narrativas que tomam como premissa busca das
-raízes da nacionalidade. A afirmação do estado-nação e o embate político
-e militar com a Alemanha na segunda metade do século [XIX]{.smallcaps} direcionam a
-escrita da história da arte na França para uma exaltação da autonomia,
-unidade continuidade da cultura nacional. Por trás desse chauvinismo
-cultural, há um fundo de verdade na afirmação da continuidade
-construtiva e formal da arquitetura gótica para a versão francesa do
-Renascimento.
-
-Essa continuidade é mais um argumento contra o determinismo
-historicista, que busca um pretenso “esgotamento“ da arquitetura gótica
-como pré-condição para o florescimento da arte renascentista. Ao mesmo
-tempo que a construção de igrejas góticas mantém toda sua vitalidade, a
-pacificação Militar do território, a centralização política das
-instituições administrativas, e a reconstrução física e econômica das
-cidades após a guerra de Cem anos (1337–1453) permitem, ou mesmo
-demandam, um enriquecimento da arquitetura civil.
-
-Edifícios administrativos como o erário da Normandia em Ruão ou o Paço
-municipal em Compiègne apresentam uma maior regularidade na articulação
-das suas fachadas do que construções civis mais antigas. No entanto, é,
-de fato, a importação de esquemas decorativos do Renascimento italiano,
-a partir da segunda metade do século [XV]{.smallcaps} e sobretudo no início do [XVI]{.smallcaps},
-que impulsiona uma renovação marcante na arquitetura francesa. O
-escultor Jean Bullant e o arquiteto Philibert de L’Orme estão entre os
-primeiros franceses a viajarem para Itália com o objetivo de adquirirem
-conhecimento direto da arquitetura clássica. Bullant traduz esse
-conhecimento em obras refinadas e delicadas. De l’Orme, por outro lado,
-opera uma síntese mais profunda entre os princípios teóricos do
-classicismo italiano e as técnicas construtivas herdadas da tradição
-francesa. Outros, como o escultor Jean Goujon e o arquiteto Pierre
-Lescot, aproveitam a presença de artistas e arquitetos italianos na
-França do início do século [XVI]{.smallcaps}.
-
-Ao contrário de Brunelleschi e outros polímatas do Renascimento
-italiano, de l’Orme é antes de tudo um construtor. Esse fato permite
-tratar a sua obra em paralelo com a solução construtiva da cúpula de
-Brunelleschi, apesar do descompasso cronológico entre elas e de toda a
-influência exercida pelo renascimento italiano mais tardio sobre a
-arquitetura francesa. O tratado mais famoso de de l’Orme, intitulado
-*Novas descobertas para construir bem e com baixo custo*, incorpora
-sobretudo o acervo de práticas e saberes técnicos da tradição
-construtiva francesa. Apesar da formação italiana aprofundada do seu
-autor, esse livro tem apenas um verniz superficial e uma forma de
-organização inspirados nos tratados italianos.
-
-As contribuições mais marcantes desse tratado são uma técnica para a
-construção de arcos em carpintaria usando elementos de pequenas
-dimensões, e os estudos de estereotomia — a técnica de desenhar e
-executar estruturas em pedra, especialmente abóbadas, descrevendo
-geometricamente a sua curvatura. Um processo marcante na estereotomia
-renascentista na França é a gradual diminuição das nervuras que
-caracterizavam o gótico, resultando em superfícies abobadadas contínuas
-e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
-profundamente debatido ao longo do arco renascentista na França, até bem
-entrado o século [XIX]{.smallcaps}.
-
-## A autoimagem da arquitetura francesa enquanto solução técnica ##
-
-A relevância das contribuições técnicas de de l'Orme não pode ser
-subestimada. O seu tratado continua a ser citado como pertinente para a
-prática mais de 100 anos depois da sua publicação. Até o final do século
-[XIX]{.smallcaps}, ele é citado como exemplo da competência técnica dos artesãos e
-arquitetos franceses.
-
-As novas descobertas para construir bem e com baixo custo se destacam no
-panorama teórico do Renascimento por que o texto não coloca em questão a
-legitimidade teórica ou intelectual da disciplina da arquitetura. Ao
-mesmo tempo, o autor dá acesso a um público amplo os conhecimentos
-técnicos que são do domínio dos ofícios da construção. Esse ato coloca
-em xeque os limites disciplinares vigentes até então, sem tecer
-considerações teóricas a respeito desse reposicionamento. Também se
-destaca como um dos primeiros arquitetos do Renascimento a colocar em
-primeiro plano a sua preocupação com os aspectos práticos, técnicos e
-logísticos da construção.
-
-O fato de se tratar de um texto técnico sobre a construção pode dar a
-impressão de que o autor estava transmitindo o conhecimento corrente da
-sua época. Essa distinção entre formulações teóricas autorais e a
-suposta trivialidade do conhecimento técnico, porém, enganosa. A
-contribuição de de l'Orme consiste, de fato, em novas descobertas ou,
-melhor dizendo, invenções para aprimorar os procedimentos construtivos
-então em vigor ou a conveniência da sua execução.
-
-O elemento central desse tratado é uma discussão sobre as possibilidades
-estruturais da carpintaria. Ele apresenta uma nova técnica que substitui
-grandes vigas e barrotes com montagens de pequenas peças de madeira
-organizados em estruturas funcionando à compressão. Assim, ele propõe
-substituir grandes treliças tracionadas por arcos em madeira cujas peças
-podem ser substituídas com mais facilidade ao longo do tempo sem
-comprometer a estrutura como um todo. As coberturas a maneira de de
-l'Orme foram amplamente adotados não só na França mas na Europa e até
-nos Estados Unidos durante vários séculos.
-
-Essa contribuição sedimenta uma autoimagem da arquitetura francesa como
-especialmente capaz de oferecer soluções técnicas adequadas, eficientes
-e belas. A partir daí se desenvolve, de finais do século [XVI]{.smallcaps} em diante,
-um discurso que enxerga a arquitetura francesa como intrinsecamente
-superior aos arroubos artísticos do classicismo italiano. Autores do
-séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps} vão, corretamente, associar essa desenvoltura
-estrutural a herança dos ofícios construtivos góticos.
-
-A outra grande contribuição de de l'Orme nos seus escritos é explicitar
-procedimentos de traçado e execução de abóbadas em pedra. Codificar e
-ilustrar no papel tais procedimentos permite debater as suas
-características formais estruturais, levando a uma diversificação e ao
-aprimoramento de soluções técnicas e estéticas. de l'Orme reconhece e
-defende a validade técnica das soluções construtivas herdadas da
-tradição gótica, e pretende tornar essas soluções válidas também no
-contexto das formas arquitetônicas clássicas do Renascimento. Desse
-ponto de vista, fica evidente a necessidade de não apenas transmitir
-conhecimento no contexto da aprendizagem da profissão, mas codificar e
-tornar público esse conhecimento para que ele possa participar da
-construção universal do sistema arquitetônico clássico.
-
-## A arquitetura "à maneira francesa" como tema historiográfico ##
-
-Junto com a emergência de uma historiografia nacional na França do
-século [XIX]{.smallcaps}, a arquitetura à maneira francesa ganha definitivamente a sua
-legitimidade enquanto tema historiográfico. Servindo inicialmente para
-exaltar a particularidade e a pretensa excepcionalidade da nação
-francesa na Europa, o tema histórico da arquitetura à francesa se
-reinventa no século [XX]{.smallcaps} para caracterizar o emprego e a valorização
-teórica de certos procedimentos construtivos ao longo do tempo.
-
-Essa leitura na longa duração, ao gosto da Nova história francesa da
-primeira metade do século [XX]{.smallcaps}, pode assim ser desvinculada da exaltação
-nacionalista para se tornar um marco explicativo de uma característica
-legítima do contexto construtivo na França do século [XV]{.smallcaps} até o século
-[XIX]{.smallcaps}.
-
-A imagem do "bom arquiteto" ilustrada por de l'Orme, combinando o
-conhecimento histórico e literário com o domínio prático de problemas
-construtivos concretos, deixa de ser um ícone chauvinista para
-representar um ideal de formação e organização profissional que será
-resgatado na busca pela regulamentação do exercício profissional a
-partir da segunda metade do século [XIX]{.smallcaps}.
 
 Cúpulas islâmicas e malhas espaciais
 ====================================

@@ -1,14 +1,14 @@
 ---
-title   : "Arquitetura do humanismo"
+title   : "Cidades possíveis"
 subtitle: "Cidades e redes na fundação do mundo moderno"
-item    : "III"
+item    : III
 author  : Pedro P. Palazzo
 date    : 2022-02-01
 toc:
-  - Introdução à arquitetura da Idade Moderna
-  - Arquitetura clássica entre a prática e a teoria
-  - Problemas de historiografia e crítica
-  - Construção tradicional
+  - História da arquitetura como história do espaço
+  - Cidades e castelos em Portugal e no Japão
+  - Do boma banto às cidades da Guiné
+leitura: 501--518, 537--538
 ---
 
 História da arquitetura como história do espaço
@@ -372,7 +372,7 @@ de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
 
 
-# Cidades possíveis: Portugal e Japão #
+# Cidades e castelos em Portugal e no Japão #
 
 ## 
 

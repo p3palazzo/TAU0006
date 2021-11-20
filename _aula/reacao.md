@@ -1,11 +1,13 @@
 ---
 title   : "Reação clássica"
-author  : "Pedro P. Palazzo e Sylvia Ficher"
-abstract: |
-  -- Tradição, correção e inovação como problemas da crítica
-  -- Arquitetura dos engenheiros
-  -- Manuais de carpintaria e estampas populares | Ficher
-  -- Autoridade da teoria sobre a prática | 619--627
+subtitle: "Viação e território, inquietações contemporâneas"
+item    : IV
+author  : Pedro P. Palazzo
+date    : 2022-04-19
+toc:
+  - Classicismo para o povo
+  - Novidade e correção na crítica do século XVIII
+leitura: 599--625
 ---
 
 # Classicismo para o povo #
@@ -542,7 +544,7 @@ eles são usados desse modo por estudantes e arquitetos!
 
 <!--,_-->
 
-# Novidade e correção na crítica do século [XVIII]{.smallcaps} #
+# Novidade e correção na crítica do século XVIII #
 
 Dois tipos de racionalismo:
 
@@ -551,9 +553,9 @@ Dois tipos de racionalismo:
 2. Abstração
    - Ordonnance, Laugier
 
-# Maturidade das tradições #
+## Maturidade das tradições ##
 
-# Tradição e caráter nacional no Japão #
+## Tradição e caráter nacional no Japão ##
 
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência

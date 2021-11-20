@@ -1,11 +1,14 @@
 ---
 title   : "Territórios e viação"
-author  : "Pedro P. Palazzo"
-abstract: |
-  -- Reorganização espacial no mundo ibérico
-  -- Projetos urbanos na América do Norte
-  -- Viação como estratégia de poder | Sambricio
-  -- Topografia, agrimensura e representação
+subtitle: "Viação e território, inquietações contemporâneas"
+item    : V
+author  : Pedro P. Palazzo
+date    : 2022-05-03
+toc:
+  - Viação como estratégia espacial
+  - Reorganização espacial no mundo ibérico
+  - Projetos urbanos na América do Norte
+  - Agrimensura e representação
 ---
 
 # Viação como estratégia espacial #
