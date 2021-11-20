@@ -317,5 +317,5 @@ Os interiores do palácio de Versalhes como um percurso urbano.
 
 # São Petersburgo #
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Bibliografia # {- .allowframebreaks .unlisted}
 
