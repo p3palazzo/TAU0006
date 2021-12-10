@@ -1683,7 +1683,7 @@ references:
   publisher-place: Firenze
   source: Open WorldCat
   title: 'Analisi tipologica: la corte matrice dell’insediamento'
-  title-short: Metodologia del recupero
+  title-short: Analisi tipologica
   type: chapter
 
 - id: caniggia:1997metodologia
@@ -1854,7 +1854,7 @@ references:
   page: 179-188
   source: JSTOR
   title: >-
-    Speaking of Architecture: The Evolution of a Vocabulary in Vasari, Jones,
+    Speaking of architecture: the evolution of a vocabulary in Vasari, Jones,
     and Sir John Vanbrugh
   title-short: Speaking of Architecture
   type: article-journal
@@ -2287,7 +2287,7 @@ references:
   ISBN: 978-0-471-75216-5
   issued:
     - year: 2007
-  language: English
+  language: en-US
   number-of-pages: '431'
   publisher: Wiley
   publisher-place: Hoboken, N.J.
@@ -4382,7 +4382,7 @@ references:
   issued:
     - year: 2000
   language: en-US
-  title: Who Put the ‘ism’ in Classicism? A Theory of Authority
+  title: Who put the ‘ism’ in classicism? A theory of authority
   type: article-journal
   URL: http://www.classicist.org/archive/c1p012.html
   volume: '1'
@@ -5174,12 +5174,14 @@ references:
       given: Mário
   container-title: 'Na génese das racionalidades modernas II: em torno de Alberti e do Humanismo'
   DOI: 10.14195/978-989-26-1015-3_23
+  event-place: Coimbra
   ISBN: 978-989-26-1015-3
   issued:
     - year: 2015
   language: pt-PT
   page: 443-471
   publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
   source: Crossref
   title: >-
     A relevância do *De re aedificatoria* na herança disciplinar da arquitetura
@@ -6321,7 +6323,7 @@ references:
   event-place: Milano
   issued:
     - year: 1832
-  language: Italian
+  language: it
   number-of-pages: '726'
   publisher: V. Ferrario
   publisher-place: Milano
@@ -6862,7 +6864,7 @@ references:
   title: Studi per una operante storia urbana di Venezia. I
   title-short: Studi per una operante storia urbana di Venezia
   type: article-journal
-  volume: IX
+  volume: <span class="smallcaps">IX</span>
 
 - id: murray:1972arquitectura
   author:
