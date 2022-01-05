@@ -8,6 +8,7 @@ references:
   author:
     - family: Abu-Lughod
       given: Janet L.
+  citation-key: abu-lughod:1989european
   edition: First issued as an Oxford University Press paperback
   event-place: 'New York : Oxford'
   ISBN: 978-0-19-506774-3
@@ -29,6 +30,7 @@ references:
   author:
     - family: Ackerman
       given: James S.
+  citation-key: ackerman:1961architecture
   event-place: New York
   issued:
     - year: 1961
@@ -47,6 +49,7 @@ references:
   author:
     - family: Ackerman
       given: James S.
+  citation-key: ackerman:1962theory20
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/427321
   ISSN: 0021-8529
@@ -82,6 +85,7 @@ references:
   author:
     - family: Ackerman
       given: James S.
+  citation-key: ackerman:1983tuscan42
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/989854
   ISSN: 0037-9808
@@ -103,6 +107,7 @@ references:
   author:
     - family: Ackerman
       given: James S.
+  citation-key: ackerman:1986architecture
   edition: '2'
   event-place: Chicago
   issued:
@@ -123,6 +128,7 @@ references:
   author:
     - family: Alam
       given: Muhammad Atique
+  citation-key: alam:2014layout
   issued:
     - literal: 11 de setembro de 2014, 15:41:23
   language: en
@@ -144,6 +150,7 @@ references:
   author:
     - family: Alberti
       given: Leon Battista
+  citation-key: alberti:1512re
   event-place: Paris
   issued:
     - year: 1512
@@ -162,6 +169,7 @@ references:
   author:
     - family: Alberti
       given: Leon Battista
+  citation-key: alberti:2011arte
   event-place: Lisboa
   ISBN: 978-972-31-1374-7
   issued:
@@ -185,6 +193,7 @@ references:
   author:
     - family: Aldrighetti
       given: Danile
+  citation-key: aldrighetti:2014tempio
   issued:
     - literal: 11 de outubro de 2014, 14:22:27
   source: Wikimedia Commons
@@ -201,6 +210,7 @@ references:
   author:
     - family: Allais
       given: Lucia
+  citation-key: allais:2005ordering
   container-title: Thresholds
   ISSN: 1091-711X
   issue: '28'
@@ -225,6 +235,7 @@ references:
   author:
     - family: Allen
       given: James de Vere
+  citation-key: allen:1981swahili14
   container-title: The International Journal of African Historical Studies
   DOI: 10.2307/218047
   ISSN: 0361-7882
@@ -248,6 +259,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Another Believer
+  citation-key: anotherbeliever:2015humble26
   issued:
     - year: 2015
       month: 12
@@ -267,6 +279,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Another Believer
+  citation-key: anotherbeliever:2015humble30
   issued:
     - year: 2015
       month: 12
@@ -286,6 +299,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Another Believer
+  citation-key: anotherbeliever:2015humble34
   issued:
     - year: 2015
       month: 12
@@ -305,6 +319,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Architas
+  citation-key: architas:2018san
   issued:
     - literal: 18 de junho de 2018, 11:51:23
   language: English
@@ -322,6 +337,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Architas
+  citation-key: architas:2018santivo
   issued:
     - literal: 2018-03-04, 21:24:38
   source: Wikimedia Commons
@@ -338,6 +354,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Architas
+  citation-key: architas:2018susanna
   issued:
     - year: 2018
       month: 6
@@ -355,6 +372,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Architas
+  citation-key: architas:2018vittoria
   issued:
     - year: 2018
       month: 6
@@ -369,6 +387,7 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:1973concepto
   collection-title: >-
     Curso dictado en el Instituto Universitario de Historia de la Arquitectura,
     Tucumán, 1961
@@ -394,6 +413,7 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:1983tipologia
   container-title: Sumarios
   issue: '71'
   issued:
@@ -409,6 +429,7 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:1998historia
   event-place: São Paulo
   ISBN: 978-85-336-0927-3
   issued:
@@ -429,6 +450,7 @@ references:
       given: Giulio Carlo
     - family: Mammi
       given: Lorenzo
+  citation-key: argan:1999classico
   event-place: São Paulo
   ISBN: 978-85-7164-833-3
   issued:
@@ -447,6 +469,7 @@ references:
       given: Giulio Carlo
     - family: Contardi
       given: Bruno
+  citation-key: argan:2004imagem
   event-place: São Paulo
   ISBN: 85-359-0579-0
   issued:
@@ -478,6 +501,7 @@ references:
   author:
     - family: Armstrong
       given: Christopher Drew
+  citation-key: armstrong:2013leroy
   ISBN: 978-1-135-76396-1
   issued:
     - year: 2013
@@ -495,6 +519,7 @@ references:
     - family: Armstrong
       given: Christopher Drew
   call-number: NA200 .C64 2017
+  citation-key: armstrong:2017academie
   container-title: The companions to the history of architecture
   editor:
     - family: Mallgrave
@@ -520,6 +545,7 @@ references:
   author:
     - family: Arqueas
       given: David
+  citation-key: arqueas:2014chinampa
   issued:
     - year: 2014
       month: 11
@@ -535,6 +561,7 @@ references:
   author:
     - family: Bacon
       given: Edmund N.
+  citation-key: bacon:1974design
   event-place: New York
   issued:
     - year: 1974
@@ -559,6 +586,7 @@ references:
   author:
     - family: Badenhorst
       given: S.
+  citation-key: badenhorst:2009central64
   container-title: South African Archaeological Bulletin
   issue: '190'
   issued:
@@ -594,6 +622,7 @@ references:
   author:
     - family: Baer
       given: William C.
+  citation-key: baer:2007speculative34
   container-title: Urban History
   ISSN: 0963-9268
   issue: '2'
@@ -612,6 +641,7 @@ references:
   author:
     - family: Baeta
       given: Rodrigo Espinha
+  citation-key: baeta:2012teoria
   event-place: Salvador
   ISBN: 978-85-232-0995-7
   issued:
@@ -627,6 +657,7 @@ references:
   author:
     - family: Ballon
       given: Hilary
+  citation-key: ballon:1999louis
   event-place: Princeton
   ISBN: 978-0-691-00186-9
   issued:
@@ -650,6 +681,7 @@ references:
   author:
     - family: Banerjee
       given: Mukul
+  citation-key: banerjee:view
   language: en
   title: View of Taj Mahal from Mehtab Bagh
   type: graphic
@@ -673,6 +705,7 @@ references:
   author:
     - family: Barbieri
       given: Franco
+  citation-key: barbieri:2015scamozzi3
   container-title: Architectural Histories
   DOI: 10.5334/ah.ce
   ISSN: 2050-5833
@@ -699,6 +732,7 @@ references:
     - year: 2020
       month: 10
       day: 27
+  citation-key: barocco:2017
   container-title: Potenziamento Arte Immagine
   issued:
     - year: 2017
@@ -712,6 +746,7 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
+  citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
   ISSN: 0889-3012
@@ -732,6 +767,7 @@ references:
   author:
     - family: Bazin
       given: Germain
+  citation-key: bazin:1969historia
   event-place: Lisboa
   issued:
     - year: 1969
@@ -746,6 +782,7 @@ references:
   author:
     - family: Bazin
       given: Germain
+  citation-key: bazin:1989historia
   event-place: São Paulo
   issued:
     - year: 1989
@@ -765,6 +802,7 @@ references:
   author:
     - family: Bazin
       given: Germain
+  citation-key: bazin:2010barroco
   event-place: São Paulo
   ISBN: 978-0-500-20018-6
   issued:
@@ -788,6 +826,7 @@ references:
   author:
     - family: Bellotto
       given: Bernardo
+  citation-key: bellotto:1742capriccio
   dimensions: 134,0 × 118,0 cm
   issued:
     - year: 1742
@@ -805,6 +844,7 @@ references:
   author:
     - family: Benevolo
       given: Leonardo
+  citation-key: benevolo:1972introducao
   event-place: São Paulo
   issued:
     - year: 1972
@@ -849,6 +889,7 @@ references:
       given: Zuhairi Abd
     - family: Hung
       given: Foo Chee
+  citation-key: beng:2015unleashing16
   container-title: Malaysian Construction Research Journal
   issue: '1'
   issued:
@@ -880,6 +921,7 @@ references:
       given: José P.
     - family: Hanna
       given: Sean
+  citation-key: benros:2012new
   container-title: International Journal of Architectural Computing
   ISSN: 1478-0771
   issued:
@@ -901,6 +943,7 @@ references:
   author:
     - family: Berger
       given: Robert W.
+  citation-key: berger:1993palace
   event-place: University Park, Penn.
   issued:
     - year: 1993
@@ -957,6 +1000,7 @@ references:
   author:
     - family: Bernabei
       given: Franco
+  citation-key: bernabei:1990jan
   container-title: Artibus et Historiae
   container-title-short: Artibus et Historiae
   DOI: 10.2307/1483396
@@ -982,6 +1026,7 @@ references:
   author:
     - family: Bialostocki
       given: Jan
+  citation-key: bialostocki:1961modusproblem24
   container-title: Zeitschrift für Kunstgeschichte
   container-title-short: Zeitschrift für Kunstgeschichte
   DOI: 10.2307/1481515
@@ -1014,6 +1059,7 @@ references:
   author:
     - family: Biesen
       given: Ivan Vander
+  citation-key: biesen:2017facade
   issued:
     - year: 2017
   language: en
@@ -1038,6 +1084,7 @@ references:
   author:
     - family: Blond
       given: Stéphane
+  citation-key: blond:2007atlas
   container-title: Siècles. Cahiers du Centre d’histoire « Espaces et Cultures »
   ISBN: '9782845163652'
   ISSN: 1266-6726
@@ -1083,6 +1130,7 @@ references:
     - family: Blondel
       given: François
   call-number: '9924288140001551'
+  citation-key: blondel:1698cours1
   edition: '2'
   event-place: Paris
   issued:
@@ -1123,6 +1171,7 @@ references:
     - family: Blondel
       given: François
   call-number: '9924288140001551'
+  citation-key: blondel:1698cours2
   edition: '2'
   event-place: Paris
   issued:
@@ -1149,6 +1198,7 @@ references:
   author:
     - family: Blondel
       given: Jacques-François
+  citation-key: blondel:1737distribution
   event-place: Paris
   issued:
     - year: 1737
@@ -1179,6 +1229,7 @@ references:
   author:
     - family: Blondel
       given: Jacques-François
+  citation-key: blondel:1752architecture
   event-place: Paris
   issued:
     - year: 1752
@@ -1198,6 +1249,7 @@ references:
   author:
     - family: Blumenfeld
       given: Hans
+  citation-key: blumenfeld:1944russian
   container-title: Journal of the American Society of Architectural Historians
   DOI: 10.2307/901141
   ISSN: 1544-9890
@@ -1216,11 +1268,12 @@ references:
   author:
     - family: Blunt
       given: Anthony
+  citation-key: blunt:1958palazzo
   container-title: Journal of the Warburg and Courtauld Institutes
   issue: 3/4
   issued:
     - year: 1958
-  language: en-US
+  language: en-GB
   page: 256–287
   title: >-
     The Palazzo Barberini: The Contributions of Maderno, Bernini and Pietro da
@@ -1236,6 +1289,7 @@ references:
   author:
     - family: Blunt
       given: Anthony
+  citation-key: blunt:1988baroque
   event-place: Ware, Hertfordshire
   issued:
     - year: 1988
@@ -1263,6 +1317,7 @@ references:
       given: Anthony
     - family: Beresford
       given: Richard
+  citation-key: blunt:1999art
   event-place: New Haven
   ISBN: 978-0-300-07735-3
   issued:
@@ -1278,6 +1333,7 @@ references:
   author:
     - family: Boltshauser
       given: João
+  citation-key: boltshauser:1963historia
   event-place: Belo Horizonte
   issued:
     - year: 1963
@@ -1293,6 +1349,7 @@ references:
   author:
     - family: Boudon
       given: Françoise
+  citation-key: boudon:1975tissu
   container-title: Annales. Economies, Sociétés, Civilisations
   issue: '4'
   issued:
@@ -1314,6 +1371,7 @@ references:
     - family: Bowdich
       given: T. Edward
   call-number: '31735060219965'
+  citation-key: bowdich:1819mission
   event-place: London
   issued:
     - year: 1819
@@ -1350,6 +1408,7 @@ references:
     - family: Bozdoğan
       given: Sibel
   call-number: 72.03:378
+  citation-key: bozdogan:1999architectural
   container-title: Journal of Architectural Education
   container-title-short: JAE
   DOI: 10.2307/1425410
@@ -1373,6 +1432,7 @@ references:
   author:
     - family: Braudel
       given: Fernand
+  citation-key: braudel:2007modelo
   event-place: São Paulo
   ISBN: 978-85-359-1096-4
   issued:
@@ -1395,6 +1455,7 @@ references:
   author:
     - family: Bredvold
       given: Louis I.
+  citation-key: bredvold:1934tendency
   container-title: ELH
   DOI: 10.2307/2871691
   ISSN: 0013-8304
@@ -1411,6 +1472,7 @@ references:
 
 - id: bresc-bautier:2016histoire
   call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2016-241820
+  citation-key: bresc-bautier:2016histoire
   editor:
     - family: Bresc-Bautier
       given: Geneviève
@@ -1436,6 +1498,7 @@ references:
   author:
     - family: Briggs
       given: Robin
+  citation-key: briggs:1991academie
   container-title: Past & Present
   ISSN: 0031-2746
   issue: '131'
@@ -1444,7 +1507,7 @@ references:
   language: en
   page: 38-88
   source: JSTOR
-  title: The Académie Royale des Sciences and the Pursuit of Utility
+  title: The Académie Royale des Sciences and the pursuit of utility
   type: article-journal
   URL: https://www.jstor.org/stable/650870
 
@@ -1452,6 +1515,7 @@ references:
   author:
     - family: Brown
       given: Marshall
+  citation-key: brown:1982classic
   container-title: Critical Inquiry
   issue: '2'
   issued:
@@ -1470,6 +1534,7 @@ references:
   author:
     - family: Buker
       given: Alden
+  citation-key: buker:1964baroque
   container-title: The Journal of Aesthetics and Art Criticism
   container-title-short: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/427234
@@ -1494,6 +1559,7 @@ references:
   author:
     - family: Burke
       given: Peter
+  citation-key: burke:1994fabricacao
   event-place: Rio de Janeiro
   ISBN: 978-0-300-05153-7
   issued:
@@ -1502,7 +1568,8 @@ references:
   publisher: J. Zahar
   publisher-place: Rio de Janeiro
   source: Open WorldCat
-  title: A Fabricação do rei a construção da imagem publica de Luís XIV
+  title: 'A fabricação do rei: a construção da imagem publica de Luís XIV'
+  title-short: A Fabricação do rei
   type: book
 
 - id: byington:2009projeto
@@ -1510,6 +1577,7 @@ references:
     - family: Byington
       given: Elisa
   call-number: '7.034'
+  citation-key: byington:2009projeto
   event-place: Rio de Janeiro
   ISBN: 978-85-378-0143-7
   issued:
@@ -1544,6 +1612,7 @@ references:
   author:
     - family: Cafà
       given: Valeria
+  citation-key: cafa:2010papalis37
   container-title: Urban History
   DOI: 10.1017/S0963926810000556
   ISSN: 1469-8706, 0963-9268
@@ -1578,6 +1647,7 @@ references:
   author:
     - family: Campbell
       given: Colen
+  citation-key: campbell:1715vitruvius
   event-place: London
   issued:
     - year: 1715
@@ -1609,6 +1679,7 @@ references:
   author:
     - family: Campbell
       given: C. Jean
+  citation-key: campbell:2001citys
   container-title: The Art Bulletin
   DOI: 10.2307/3177208
   ISSN: 0004-3079
@@ -1643,6 +1714,7 @@ references:
   author:
     - family: Campbell
       given: Stephen J.
+  citation-key: campbell:2002fare
   container-title: The Art Bulletin
   container-title-short: The Art Bulletin
   DOI: 10.2307/3177286
@@ -1668,6 +1740,7 @@ references:
     - family: Caniggia
       given: Gianfranco
   call-number: '72.02'
+  citation-key: caniggia:1997analisi
   container-title: >-
     Ragionamenti di tipologia: operatività della tipologia processuale in
     architettura
@@ -1691,6 +1764,7 @@ references:
     - family: Caniggia
       given: Gianfranco
   call-number: '72.02'
+  citation-key: caniggia:1997metodologia
   container-title: >-
     Ragionamenti di tipologia: operatività della tipologia processuale in
     architettura
@@ -1725,6 +1799,7 @@ references:
       given: Gianfranco
     - family: Maffei
       given: Gian Luigi
+  citation-key: caniggia:2008lettura
   edition: '2'
   event-place: Firenze
   ISBN: 978-88-6055-182-5
@@ -1743,6 +1818,7 @@ references:
     - family: Cardinal-Pett
       given: Clare
   call-number: NA2543.S6 C349 2016
+  citation-key: cardinal-pett:2016history
   event-place: New York
   ISBN: 978-0-415-53492-5
   issued:
@@ -1783,6 +1859,7 @@ references:
   author:
     - family: Carpo
       given: Mario
+  citation-key: carpo:2001architecture
   ISBN: 978-0-262-26991-9
   issued:
     - year: 2001
@@ -1803,6 +1880,7 @@ references:
   author:
     - family: Carpo
       given: Mario
+  citation-key: carpo:2003drawing62
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/3592497
   ISSN: 00379808, 21505926
@@ -1844,6 +1922,7 @@ references:
   author:
     - family: Cast
       given: David
+  citation-key: cast:1993speaking
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/990784
   ISSN: 0037-9808
@@ -1883,6 +1962,7 @@ references:
   author:
     - family: Castex
       given: Jean
+  citation-key: castex:2014saverio
   container-title: Les Cahiers de la recherche architecturale et urbaine
   DOI: 10.4000/crau.446
   ISSN: 1296-4077
@@ -1907,6 +1987,7 @@ references:
   author:
     - family: Castor
       given: David
+  citation-key: castor:2008taj
   issued:
     - year: 2008
       month: 9
@@ -1921,6 +2002,7 @@ references:
   author:
     - family: Chakrabarti
       given: Vibhuti
+  citation-key: chakrabarti:1998indian
   event-place: Richmond
   ISBN: 978-0-7007-1113-0
   issued:
@@ -1946,6 +2028,7 @@ references:
   author:
     - family: Chambers
       given: William
+  citation-key: chambers:1757desseins
   issued:
     - year: 1757
   language: fr-FR
@@ -1966,6 +2049,7 @@ references:
   author:
     - family: Chambers
       given: William
+  citation-key: chambers:1759primitive
   issued:
     - year: 1759
   language: en-GB
@@ -1990,6 +2074,7 @@ references:
   author:
     - family: Chambers
       given: William
+  citation-key: chambers:1759treatise
   event-place: London
   issued:
     - year: 1759
@@ -2014,6 +2099,7 @@ references:
   author:
     - family: Chandigarh
       given: Harvinder
+  citation-key: chandigarh:2017mughal
   issued:
     - literal: 7 de março de 2017, 11:38:54
   language: en
@@ -2206,6 +2292,7 @@ references:
     - year: 2020
       month: 9
       day: 10
+  citation-key: chen:2020tracing9
   collection-title: My Inspire Project
   dimensions: '7:36'
   director:
@@ -2235,6 +2322,7 @@ references:
   author:
     - family: Cheng
       given: Jonathan
+  citation-key: cheng:2012radical
   container-title: Jonathan Cheng
   issued:
     - year: 2012
@@ -2254,6 +2342,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: China Travel Savvy
+  citation-key: china:2010canglang
   issued:
     - year: 2010
   language: en
@@ -2268,6 +2357,7 @@ references:
   author:
     - family: Ching
       given: Francis D. K.
+  citation-key: ching:1998arquitetura
   event-place: São Paulo
   issued:
     - year: 1998
@@ -2282,6 +2372,7 @@ references:
   author:
     - family: Ching
       given: Francis D. K.
+  citation-key: ching:2007architecture
   edition: '3'
   event-place: Hoboken, N.J.
   ISBN: 978-0-471-75216-5
@@ -2314,11 +2405,12 @@ references:
       given: Mark
     - family: Prakash
       given: Vikramaditya
+  citation-key: ching:2007global
   event-place: Hoboken, N.J.
   ISBN: 978-0-471-26892-5
   issued:
     - year: 2007
-  language: English
+  language: en-US
   publisher: J. Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Open WorldCat
@@ -2329,6 +2421,7 @@ references:
   author:
     - family: Ching
       given: Francis D. K.
+  citation-key: ching:2008building
   edition: '4'
   event-place: Hoboken, N.J.
   ISBN: 978-1-118-74007-1
@@ -2359,6 +2452,7 @@ references:
     - family: Prakash
       given: Vikramaditya
   call-number: NA200 .C493 2011
+  citation-key: ching:2011global
   edition: 2nd ed
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
@@ -2390,6 +2484,7 @@ references:
       given: Mark M.
     - family: Prakāsh
       given: Vikramāditya
+  citation-key: ching:2016historia
   edition: 3.ª ed.
   event-place: São Paulo
   ISBN: 978-85-396-0903-1
@@ -2411,6 +2506,7 @@ references:
   author:
     - family: Chitham
       given: Robert
+  citation-key: chitham:2005classical
   edition: 2. ed.
   event-place: Amsterdam
   ISBN: 978-0-7506-6124-9
@@ -2428,6 +2524,7 @@ references:
   author:
     - family: Choay
       given: Françoise
+  citation-key: choay:1986regra
   event-place: São Paulo
   issued:
     - year: 1986
@@ -2443,6 +2540,7 @@ references:
   author:
     - family: Choisy
       given: Auguste
+  citation-key: choisy:1899histoire
   event-place: Paris
   issued:
     - year: 1899
@@ -2457,6 +2555,7 @@ references:
   author:
     - family: Choisy
       given: Auguste
+  citation-key: choisy:1899histoire1
   event-place: Paris
   issued:
     - year: 1899
@@ -2472,6 +2571,7 @@ references:
   author:
     - family: Choisy
       given: Auguste
+  citation-key: choisy:1899histoire2
   event-place: Paris
   issued:
     - year: 1899
@@ -2487,6 +2587,7 @@ references:
   author:
     - family: Chueca Goitia
       given: Fernando
+  citation-key: chueca:1977breve
   edition: '4'
   event-place: Madrid
   ISBN: 978-84-206-3519-4
@@ -2511,6 +2612,7 @@ references:
     - family: Combatti
       given: Gaetano
   call-number: Richelieu - Cartes et plans - Magasin - GE D-25454
+  citation-key: combatti:1847nuova
   event-place: Venise
   issued:
     - year: 1847
@@ -2533,6 +2635,7 @@ references:
   author:
     - family: Conant
       given: Kenneth J.
+  citation-key: conant:1968after-life27
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/988426
   ISSN: 0037-9808
@@ -2549,6 +2652,7 @@ references:
 
 - id: cook:2010western
   call-number: DS35.6 .N49 2010
+  citation-key: cook:2010western
   collection-editor:
     - family: Cook
       given: Michael
@@ -2572,6 +2676,7 @@ references:
   author:
     - family: Corona Martínez
       given: Alfonso
+  citation-key: corona:2000ensaio
   event-place: Brasília
   ISBN: 978-85-230-0579-5
   issued:
@@ -2592,6 +2697,7 @@ references:
   author:
     - family: Côrte-Real
       given: Eduardo
+  citation-key: cortereal:2001triunfo
   event-place: Lisboa
   ISBN: 978-972-24-1140-0
   issued:
@@ -2610,6 +2716,7 @@ references:
       given: Raúl Arnaldo Gómez
     - family: Martinez
       given: Alfonso Corona
+  citation-key: crespo:1982principlesa
   container-title: Journal of Architectural Education
   DOI: 10.2307/1424604
   ISSN: 0149-2993
@@ -2633,6 +2740,7 @@ references:
   author:
     - family: Cuesta
       given: Miguel Hermoso
+  citation-key: cuesta:2011roma
   issued:
     - literal: 23 maggio 2011, 10:12:23
   source: Wikimedia Commons
@@ -2651,6 +2759,7 @@ references:
   author:
     - family: Cuesta
       given: Miguel Hermoso
+  citation-key: cuesta:2014roma
   issued:
     - literal: 30 March 2014, 11:49:41
   source: Wikimedia Commons
@@ -2668,6 +2777,7 @@ references:
   author:
     - family: Cuesta
       given: Miguel Hermoso
+  citation-key: cuesta:2015capilla
   issued:
     - literal: 22 de julho de 2015, 17:17:08
   medium: Photo
@@ -2684,6 +2794,7 @@ references:
   author:
     - family: Damato
       given: Alessio
+  citation-key: damato:2013church
   issued:
     - literal: 7 de setembro de 2013, 16:55:32
   source: Wikimedia Commons
@@ -2699,6 +2810,7 @@ references:
   author:
     - family: DellaNeva
       given: JoAnn
+  citation-key: dellaneva:2003
   container-title: The Sixteenth Century Journal
   container-title-short: The Sixteenth Century Journal
   DOI: 10.2307/20061696
@@ -2728,6 +2840,7 @@ references:
   archive: Transferido de en.wikipedia para a wiki Commons por SreeBot.
   author:
     - literal: Derfel73
+  citation-key: derfel73:2011thirteenth
   issued:
     - year: 2011
       month: 7
@@ -2763,6 +2876,7 @@ references:
   author:
     - family: Derntl
       given: Maria Fernanda
+  citation-key: derntl:2004
   event-place: São Paulo
   issued:
     - year: 2004
@@ -2793,6 +2907,7 @@ references:
   author:
     - family: Derntl
       given: Maria Fernanda
+  citation-key: derntl:2006inicio
   container-title: >-
     Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da
     FAUUSP
@@ -2877,6 +2992,7 @@ references:
   author:
     - family: Desterro
       given: Maria
+  citation-key: desterro:2008
   event-place: Lisboa
   genre: Tese (Doutoramento em História da Arte)
   issued:
@@ -2909,6 +3025,7 @@ references:
     - family: Deupi
       given: Victor
   call-number: NA2543.S6 D475 2015
+  citation-key: deupi:2015architectural
   collection-title: Routledge research in architecture
   event-place: London ; New York
   ISBN: 978-0-415-72439-5
@@ -2935,6 +3052,7 @@ references:
       given: Emiliano
     - family: Rizzolatti
       given: Giacomo
+  citation-key: di:2007golden2
   container-title: PLoS ONE
   container-title-short: PLoS ONE
   DOI: 10.1371/journal.pone.0001201
@@ -2993,6 +3111,7 @@ references:
   author:
     - family: Dias
       given: Joana Isabel Lampreia de Almeida
+  citation-key: dias:2011
   event-place: Lisboa
   genre: Dissertação (Mestrado em Conservação e Restauro)
   issued:
@@ -3012,6 +3131,7 @@ references:
     - family: Ors
       given: Eugenio
       non-dropping-particle: d'
+  citation-key: dors:1990barroco
   event-place: Lisboa
   ISBN: 972-699-238-9
   issued:
@@ -3049,6 +3169,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Dr Persi
+  citation-key: dr:2011persian
   issued:
     - year: 2011
       month: 2
@@ -3068,6 +3189,7 @@ references:
   author:
     - family: Dunzhen
       given: Liu
+  citation-key: dunzhen:1982traditional10
   container-title: Garden History
   DOI: 10.2307/1586743
   ISSN: 0307-1243
@@ -3121,6 +3243,7 @@ references:
   author:
     - family: Eccles
       given: David
+  citation-key: eccles:2008polynesian
   issued:
     - year: 2008
       month: 8
@@ -3156,6 +3279,7 @@ references:
       dropping-particle: van
     - family: Bussels
       given: Stijn
+  citation-key: eck:2011theatricality
   event-place: Hoboken, N.J.
   ISBN: 978-1-4443-9673-7
   issued:
@@ -3174,6 +3298,7 @@ references:
   author:
     - family: Egbert
       given: Donald Drew
+  citation-key: egbert:1980beauxarts
   event-place: Princeton, N.J.
   issued:
     - year: 1980
@@ -3191,6 +3316,7 @@ references:
   author:
     - family: Ehrmann
       given: Jean
+  citation-key: ehrmann:1950
   container-title: The Burlington Magazine
   container-title-short: The Burlington Magazine
   DOI: 10.2307/870245
@@ -3221,6 +3347,7 @@ references:
   author:
     - family: Etlin
       given: Richard A.
+  citation-key: etlin:1978dedans
   container-title: Gazette des Beaux-Arts
   issue: '91'
   issued:
@@ -3238,6 +3365,7 @@ references:
   author:
     - family: Evans
       given: Robin
+  citation-key: evans:1995projective
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-55038-3
   issued:
@@ -3276,6 +3404,7 @@ references:
   author:
     - family: Evers
       given: Hans-Dieter
+  citation-key: evers:1977culture6
   container-title: Urban Anthropology
   ISSN: 0363-2024
   issue: '3'
@@ -3298,6 +3427,7 @@ references:
     - year: 2020
       month: 10
       day: 27
+  citation-key: fadu:san
   container-title: AID•FADU•UBA
   title: San Carlo alle quattro fontane
   type: webpage
@@ -3306,6 +3436,7 @@ references:
 
 - id: fage:1975cambridge
   call-number: DT20 .C28
+  citation-key: fage:1975cambridge
   collection-editor:
     - family: Fage
       given: J. D.
@@ -3333,6 +3464,7 @@ references:
   author:
     - family: Fauvelle
       given: François-Xavier
+  citation-key: fauvelle:2018golden
   DOI: 10.2307/j.ctvc77kzq
   event-place: Princeton, N.J.
   ISBN: 978-0-691-18394-7
@@ -3354,6 +3486,7 @@ references:
 
 - id: fauvelle:2019atlas
   call-number: G2446.S1 B3 2019
+  citation-key: fauvelle:2019atlas
   editor:
     - family: Fauvelle
       given: François-Xavier
@@ -3383,6 +3516,7 @@ references:
       given: Marian
     - family: Wodehouse
       given: Lawrence
+  citation-key: fazio:2011historia
   event-place: Porto Alegre
   ISBN: 978-85-8055-038-2
   issued:
@@ -3401,6 +3535,7 @@ references:
   author:
     - family: Fenollosa
       given: Ernest Francisco
+  citation-key: fenollosa:2007epochs
   edition: New and rev. ed
   event-place: Berkeley, Calif.
   ISBN: 978-1-933330-26-6
@@ -3441,6 +3576,7 @@ references:
   author:
     - family: Fernández
       given: Victor M.
+  citation-key: fernandez:2016jesuit
   collection-title: Contributions To Global Historical Archaeology
   container-title: Archaeologies of Early Modern Spanish Colonialism
   DOI: 10.1007/978-3-319-21885-4_7
@@ -3472,6 +3608,7 @@ references:
     - family: Ficher
       given: Sylvia
   call-number: 72.02:378:69
+  citation-key: ficher:1988construcao
   container-title: Projeto
   issue: '112'
   issued:
@@ -3487,6 +3624,7 @@ references:
   author:
     - family: Fichet
       given: Françoise
+  citation-key: fichet:1979theorie
   event-place: Bruxelles
   issued:
     - year: 1979
@@ -3506,6 +3644,7 @@ references:
     - family: Flavus
       given: Rabanus
     - literal: Zorro2212
+  citation-key: flavus:2012santuario
   issued:
     - literal: 5 luglio 2012, 11:19:33
   source: Wikimedia Commons
@@ -3523,6 +3662,7 @@ references:
       given: Jeffrey
     - family: Wynne-Jones
       given: Stephanie
+  citation-key: fleisher:2012finding29
   container-title: African Archaeological Review
   container-title-short: Afr Archaeol Rev
   DOI: 10.1007/s10437-012-9121-0
@@ -3572,6 +3712,7 @@ references:
   author:
     - family: Fleisher
       given: Jeffrey
+  citation-key: fleisher:2014complexity35
   container-title: Journal of Anthropological Archaeology
   container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2014.04.002
@@ -3599,6 +3740,7 @@ references:
     - family: Fletcher
       given: Banister F.
   call-number: b12340145
+  citation-key: fletcher:1905history
   edition: 5. ed.
   event-place: 'London : New York'
   issued:
@@ -3618,6 +3760,7 @@ references:
   author:
     - family: Fletcher
       given: Banister F.
+  citation-key: fletcher:1961history
   event-place: London
   issued:
     - year: 1961
@@ -3631,6 +3774,7 @@ references:
   author:
     - family: Fornés Gurrea
       given: Manuel
+  citation-key: fornes:1857manual
   edition: '2'
   event-place: Valencia
   issued:
@@ -3646,6 +3790,7 @@ references:
   author:
     - family: Forssman
       given: Erik
+  citation-key: forssman:1990dorico
   event-place: Lisboa
   ISBN: 978-972-23-1276-9
   issued:
@@ -3669,6 +3814,7 @@ references:
     - family: Frankl
       given: Paul
   call-number: SRLF_UCLA:LAGE-1334174
+  citation-key: frankl:1914entwicklungsphasen
   event-place: Leipzig, Berlin
   issued:
     - year: 1914
@@ -3685,6 +3831,7 @@ references:
   author:
     - family: Frankl
       given: Paul
+  citation-key: frankl:1968principles
   event-place: Cambridge, Mass.
   ISBN: 0-262-56013-5
   issued:
@@ -3700,6 +3847,7 @@ references:
   type: book
 
 - id: frommel:1984raffaello
+  citation-key: frommel:1984raffaello
   editor:
     - family: Frommel
       given: Christoph Luitpold
@@ -3745,6 +3893,7 @@ references:
     - family: Fu
       given: Xinian
   call-number: NA1540 .F82513 2017
+  citation-key: fu:2017traditional
   collection-title: The Princeton-China series
   editor:
     - family: Steinhardt
@@ -3786,6 +3935,7 @@ references:
   author:
     - family: Fu
       given: Xinian
+  citation-key: fu:2017typical
   container-title: 'Traditional Chinese Architecture: Twelve Essays'
   DOI: 10.2307/j.ctt21668kt.20
   editor:
@@ -3811,6 +3961,7 @@ references:
   author:
     - family: Gabriel
       given: J. François
+  citation-key: gabriel:2004classical
   event-place: New York
   ISBN: 978-0-393-73076-0
   issued:
@@ -3835,6 +3986,7 @@ references:
   author:
     - family: Garric
       given: Jean-Philippe
+  citation-key: garric:2005neoclassicisme
   container-title: "Repenser les limites\_: l’architecture à travers l’espace, le temps et les disciplines"
   DOI: 10.4000/books.inha.713
   editor:
@@ -3864,6 +4016,7 @@ references:
   author:
     - family: Garric
       given: Jean-Philippe
+  citation-key: garric:2016french
   container-title: Companion to the History of Architecture
   DOI: 10.1002/9781118887226.wbcha080
   editor:
@@ -3914,6 +4067,7 @@ references:
   author:
     - family: Garric
       given: Jean-Philippe
+  citation-key: garric:2017decadence
   collection-title: >-
     Collections électroniques de l’INHA. Actes de colloques et livres en ligne
     de l’Institut national d'histoire de l'art
@@ -3947,6 +4101,7 @@ references:
   author:
     - family: Gemini
       given: Nicholas
+  citation-key: gemini:2019chiesa
   issued:
     - literal: 18 de abril de 2019, 10:28:17
   source: Wikimedia Commons
@@ -3963,6 +4118,7 @@ references:
   author:
     - family: Gerbino
       given: Anthony
+  citation-key: gerbino:2002library45
   container-title: Architectural History
   container-title-short: Architectural History
   DOI: 10.2307/1568786
@@ -3984,6 +4140,7 @@ references:
   author:
     - family: Gerbino
       given: Anthony
+  citation-key: gerbino:2010francois
   ISBN: 978-1-135-69487-6
   issued:
     - year: 2010
@@ -3999,6 +4156,7 @@ references:
   author:
     - family: Ghaidan
       given: Usam Isa
+  citation-key: ghaidan:1974lamu
   event-place: Nairobi
   genre: Thesis (M.A. in Architecture)
   issued:
@@ -4016,6 +4174,7 @@ references:
     - year: 2020
       month: 10
       day: 13
+  citation-key: gharipour:2017gardens
   DOI: 10.5325/j.ctv14gpbt3
   editor:
     - family: Gharipour
@@ -4044,6 +4203,7 @@ references:
       day: 13
   author:
     - literal: Gibault
+  citation-key: gibault:2011chapter21
   container-title: Mr. G's AP World History
   issued:
     - year: 2011
@@ -4067,6 +4227,7 @@ references:
   author:
     - family: Gibson
       given: Eleanor
+  citation-key: gibson:2017wutopia
   container-title: Dezeen
   issued:
     - year: 2017
@@ -4085,6 +4246,7 @@ references:
   author:
     - family: Gomes, Júnior
       given: Guilherme Simões
+  citation-key: gomesjr:1998palavra
   event-place: São Paulo
   ISBN: 978-85-314-0450-4
   issued:
@@ -4104,6 +4266,7 @@ references:
   author:
     - family: Gournay
       given: Isabelle
+  citation-key: gournay:1996beauxarts
   container-title: Dictionary of Art
   editor:
     - family: Turner
@@ -4123,6 +4286,7 @@ references:
     - family: Grammont
       given: Guiomar
       dropping-particle: de
+  citation-key: grammont:2008aleijadinho
   event-place: Rio de Janeiro
   ISBN: 978-85-200-0826-3
   issued:
@@ -4138,6 +4302,7 @@ references:
   type: book
 
 - id: gray:2000cambridge
+  citation-key: gray:2000cambridge
   collection-number: '4'
   edition: Reprinted
   editor:
@@ -4163,6 +4328,7 @@ references:
   author:
     - family: Gropius
       given: Walter
+  citation-key: gropius:1955architecture
   container-title: Perspecta
   container-title-short: Perspecta
   DOI: 10.2307/1566830
@@ -4186,6 +4352,7 @@ references:
   author:
     - family: Guo
       given: Qinghua
+  citation-key: guo:1998yingzao41
   container-title: Architectural History
   DOI: 10.2307/1568644
   ISSN: 0066-622X
@@ -4215,6 +4382,7 @@ references:
   author:
     - family: Hakim
       given: Besim Selim
+  citation-key: hakim:1999urban16
   container-title: Cities
   container-title-short: Cities
   DOI: 10.1016/S0264-2751(98)00054-7
@@ -4239,6 +4407,7 @@ references:
   author:
     - family: Hakim
       given: Besim Selim
+  citation-key: hakim:2010generative4
   container-title: International Journal of Architectural Research
   issue: '1'
   issued:
@@ -4259,6 +4428,7 @@ references:
   author:
     - family: Hall
       given: Kenneth
+  citation-key: hall:1996ritual52
   container-title: Archipel
   DOI: 10.3406/arch.1996.3357
   issue: '1'
@@ -4293,6 +4463,7 @@ references:
     addition to the growing body of scholarship on the indigenous architecture
     of the Americas and is a key contribution to our archaeological
     understandings of past built environments.
+  citation-key: halperin:2016vernacular
   editor:
     - family: Halperin
       given: Christina
@@ -4321,6 +4492,7 @@ references:
   author:
     - family: Hałun
       given: Jakub
+  citation-key: halun:2009humble
   issued:
     - year: 2009
       month: 7
@@ -4340,6 +4512,7 @@ references:
   author:
     - family: Hałun
       given: Jakub
+  citation-key: halun:2014twin
   issued:
     - literal: 3 de agosto de 2014, 16:43:29
   source: Wikimedia Commons
@@ -4359,6 +4532,7 @@ references:
   author:
     - family: Hałun
       given: Jakub
+  citation-key: halun:2019taj
   issued:
     - literal: 4 de dezembro de 2019, 06:22:00
   source: Wikimedia Commons
@@ -4377,6 +4551,7 @@ references:
     - family: Hancock
       given: John E.
   call-number: '7.01'
+  citation-key: hancock:2000who
   container-title: The Classicist
   issue: '1'
   issued:
@@ -4391,6 +4566,7 @@ references:
   author:
     - family: Harbeson
       given: John F.
+  citation-key: harbeson:1927study
   event-place: New York
   issued:
     - year: 1926
@@ -4410,6 +4586,7 @@ references:
     - family: Harbison
       given: Robert
   call-number: NA200 .H45 2009
+  citation-key: harbison:2009travels
   event-place: London
   ISBN: 978-1-86189-435-9
   issued:
@@ -4426,6 +4603,7 @@ references:
   author:
     - family: Hart
       given: Joan
+  citation-key: hart:1982reinterpreting
   container-title: Art Journal
   issue: 4, The Crisis in the Discipline
   issued:
@@ -4444,6 +4622,7 @@ references:
   author:
     - family: Hartt
       given: Frederick
+  citation-key: hartt:1944raphael26
   container-title: The Art Bulletin
   container-title-short: The Art Bulletin
   DOI: 10.2307/3046936
@@ -4466,6 +4645,7 @@ references:
   author:
     - family: Hauser
       given: Arnold
+  citation-key: hauser:1995historia
   event-place: São Paulo
   ISBN: 978-85-336-0326-4
   issued:
@@ -4485,6 +4665,7 @@ references:
   author:
     - family: Hazard
       given: Paul
+  citation-key: hazard:2005crise
   collection-title: Classiques des sciences sociales
   DOI: 10.1522/cla.hap.cri
   event-place: Chicoutimi
@@ -4515,6 +4696,7 @@ references:
   author:
     - family: Healy
       given: Bruce
+  citation-key: healy:2020jaipur
   container-title: HALI
   issued:
     - year: 2020
@@ -4533,6 +4715,7 @@ references:
   author:
     - family: Hernandez
       given: Antonio
+  citation-key: hernandez:1969jnl12
   container-title: Perspecta
   container-title-short: Perspecta
   DOI: 10.2307/1566963
@@ -4558,6 +4741,7 @@ references:
   author:
     - family: Herrmann
       given: W.
+  citation-key: herrmann:1958antoine40
   container-title: The Art Bulletin
   DOI: 10.2307/3047746
   ISSN: 0004-3079
@@ -4576,6 +4760,7 @@ references:
   author:
     - family: Herrmann
       given: Wolfgang
+  citation-key: herrmann:1980theorie
   event-place: Bruxelles
   issued:
     - year: 1980
@@ -4594,6 +4779,7 @@ references:
   author:
     - family: Hersey
       given: G. L.
+  citation-key: hersey:1970associationism4
   container-title: Eighteenth-Century Studies
   DOI: 10.2307/2737614
   ISSN: 0013-2586
@@ -4612,6 +4798,7 @@ references:
   author:
     - family: Heydenreich
       given: Ludwig H.
+  citation-key: heydenreich:1998arquitetura
   event-place: São Paulo
   issued:
     - year: 1998
@@ -4638,6 +4825,7 @@ references:
   author:
     - family: Hillenbrand
       given: Robert
+  citation-key: hillenbrand:1999islamic
   event-place: New York
   ISBN: 978-0-500-20305-7
   issued:
@@ -4657,6 +4845,7 @@ references:
   author:
     - family: Howard
       given: Deborah
+  citation-key: howard:2003venice62
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/3592517
   ISSN: 00379808, 21505926
@@ -4683,6 +4872,7 @@ references:
   author:
     - family: Huffman
       given: Thomas N.
+  citation-key: huffman:1990broederstroom49
   container-title: African Studies
   DOI: 10.1080/00020189008707724
   ISSN: 0002-0184
@@ -4719,6 +4909,7 @@ references:
   author:
     - family: Huffman
       given: Thomas N.
+  citation-key: huffman:2009mapungubwe28
   container-title: Journal of Anthropological Archaeology
   container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2008.10.004
@@ -4750,6 +4941,7 @@ references:
     - family: Piesanie
       given: Justin
       non-dropping-particle: du
+  citation-key: huffman:2011khami9
   container-title: Journal of African Archaeology
   container-title-short: JAA
   DOI: 10.3213/2191-5784-10197
@@ -4771,11 +4963,12 @@ references:
     - year: 2020
       month: 10
       day: 15
+  citation-key: humayuns:2017
   container-title: Archnet
   issued:
     - year: 2017
+  language: en
   title: Humayun's Tomb Garden Revitalisation
-  title-short: en
   type: webpage
   URL: https://archnet.org/sites/4144/media_contents/126094
 
@@ -4783,6 +4976,7 @@ references:
   author:
     - family: Inaji
       given: Toshirō
+  citation-key: inaji:1998garden
   edition: '1'
   event-place: Tokyo
   ISBN: 978-4-7700-1712-3
@@ -4821,6 +5015,7 @@ references:
   author:
     - family: James-Chakraborty
       given: Kathleen
+  citation-key: james-chakraborty:2014africa
   container-title: Architecture since 1400
   ISBN: 978-0-8166-7397-1
   issued:
@@ -4829,7 +5024,7 @@ references:
   page: 411-423
   publisher: University of Minnesota Press
   source: JSTOR
-  title: 'Africa: Villages and Cities'
+  title: 'Africa: villages and cities'
   title-short: Africa
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctt9qh39w.30
@@ -4842,6 +5037,7 @@ references:
   author:
     - family: Jarzombek
       given: Mark
+  citation-key: jarzombek:1994de-scribing
   container-title: Assemblage
   DOI: 10.2307/3171230
   ISSN: '08893012'
@@ -4867,6 +5063,7 @@ references:
   archive: Own work
   author:
     - literal: Jastrow
+  citation-key: jastrow:2006cloister
   issued:
     - year: 2006
   source: Wikimedia Commons
@@ -4876,6 +5073,7 @@ references:
 
 - id: jayyusi:2008city
   call-number: HT147.5 .C59 2008
+  citation-key: jayyusi:2008city
   collection-number: '94'
   collection-title: Handbook of Oriental studies. Section 1, The Near and Middle East
   editor:
@@ -4907,6 +5105,7 @@ references:
   archive: Own work
   author:
     - literal: Jensens
+  citation-key: jensens:2008palazzo
   issued:
     - year: 2008
       month: 7
@@ -4927,6 +5126,7 @@ references:
   author:
     - family: Kamal
       given: Maaz
+  citation-key: kamal:2018early
   issued:
     - literal: 19 de março de 2018, 02:28:05
   language: en
@@ -4944,6 +5144,7 @@ references:
   author:
     - family: Kaufmann
       given: Emil
+  citation-key: kaufmann:1952three42
   container-title: Transactions of the American Philosophical Society
   DOI: 10.2307/1005689
   ISSN: 0065-9746
@@ -4969,6 +5170,7 @@ references:
   author:
     - family: Kelly
       given: Jim
+  citation-key: kelly:2009babur
   issued:
     - literal: 19 de outubro de 2009, 03:59
   source: Wikimedia Commons
@@ -4985,6 +5187,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: King of Hearts
+  citation-key: king:2017hall
   issued:
     - year: 2017
       month: 11
@@ -5004,6 +5207,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: King of Hearts
+  citation-key: king:2017mountain
   issued:
     - year: 2017
       month: 11
@@ -5023,6 +5227,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: King of Hearts
+  citation-key: king:2017view
   issued:
     - year: 2017
       month: 11
@@ -5058,6 +5263,7 @@ references:
   author:
     - family: Kisacky
       given: Jeanne
+  citation-key: kisacky:2001history60
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991756
   ISSN: 0037-9808
@@ -5079,6 +5285,7 @@ references:
   author:
     - family: Koch
       given: Wilfried
+  citation-key: koch:1998dicionario
   event-place: São Paulo
   ISBN: 978-85-336-0493-3
   issued:
@@ -5096,6 +5303,7 @@ references:
 
 - id: kostof:1986architect
   call-number: NA1995 .A73 1986
+  citation-key: kostof:1986architect
   editor:
     - family: Kostof
       given: Spiro
@@ -5117,6 +5325,7 @@ references:
     - family: Kostof
       given: Spiro
   call-number: NA200 .K65 1995
+  citation-key: kostof:1995history
   edition: '2'
   event-place: New York
   ISBN: 978-0-19-508378-1
@@ -5140,6 +5349,7 @@ references:
   author:
     - family: Kovacs
       given: Tibor
+  citation-key: kovacs:2014alhambra
   issued:
     - literal: 17 de agosto de 2014, 06:06
   language: en
@@ -5152,6 +5362,7 @@ references:
   author:
     - family: Krier
       given: Rob
+  citation-key: krier:1988architectural
   event-place: New York
   issued:
     - year: 1988
@@ -5169,6 +5380,7 @@ references:
   author:
     - family: Krüger
       given: Mário
+  citation-key: kruger:2015relevancia
   container-author:
     - family: Kruger
       given: Mário
@@ -5200,6 +5412,7 @@ references:
   archive: Image by Author
   author:
     - literal: Lamassu Design
+  citation-key: lamassu:2009entry
   issued:
     - year: 2009
   language: en
@@ -5216,6 +5429,7 @@ references:
   author:
     - family: Langhein
       given: Joachim
+  citation-key: langhein:2013proportion
   container-title: INTBAU Ideas and Opinions
   issue: '10'
   issued:
@@ -5241,6 +5455,7 @@ references:
     - family: Laugier
       given: Marc-Antoine
   call-number: '270792'
+  citation-key: laugier:1753essai
   event-place: Paris
   issued:
     - year: 1753
@@ -5275,6 +5490,7 @@ references:
     - family: Laugier
       given: Marc-Antoine
   call-number: '9579'
+  citation-key: laugier:1755essai
   edition: 2^e^ éd.
   event-place: Paris
   issued:
@@ -5301,6 +5517,7 @@ references:
   author:
     - family: Laugier
       given: Marc-Antoine
+  citation-key: laugier:1977essay
   event-place: Los Angeles
   ISBN: 978-0-912158-92-1
   issued:
@@ -5324,6 +5541,7 @@ references:
   author:
     - family: Leclerc
       given: Sébastien
+  citation-key: leclerc:1714traite
   event-place: Paris
   issued:
     - year: 1714
@@ -5341,6 +5559,7 @@ references:
     http://digi.ub.uni-heidelberg.de/diglit/leclerc1714ga?sid=2e58a9e997f4a7f535d7434aa176d322
 
 - id: lecoq:2001querelle
+  citation-key: lecoq:2001querelle
   editor:
     - family: Lecoq
       given: Anne-Marie
@@ -5356,6 +5575,7 @@ references:
 - id: lecorbusier:1977vers
   author:
     - literal: Le Corbusier
+  citation-key: lecorbusier:1977vers
   event-place: Paris
   issued:
     - year: 1977
@@ -5369,6 +5589,7 @@ references:
   author:
     - family: Ledoux
       given: Claude Nicolas
+  citation-key: ledoux:1804larchitecture
   event-place: Paris
   issued:
     - year: 1804
@@ -5389,6 +5610,7 @@ references:
   author:
     - family: Legrand
       given: Jacques Guillaume
+  citation-key: legrand:1842essai
   event-place: Liège
   issued:
     - year: 1842
@@ -5414,6 +5636,7 @@ references:
   author:
     - family: Lesnov
       given: Vlad
+  citation-key: lesnov:2010archivio
   issued:
     - year: 2010
       month: 4
@@ -5437,6 +5660,7 @@ references:
   author:
     - family: Letarouilly
       given: Paul Marie
+  citation-key: letarouilly:1840edifices
   event-place: Paris
   issued:
     - year: 1840
@@ -5479,6 +5703,7 @@ references:
   author:
     - family: Li
       given: Shiqiao
+  citation-key: li:2003reconstituting
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/3592498
   ISSN: 0037-9808
@@ -5504,6 +5729,7 @@ references:
   author:
     - family: Li
       given: Lillian M.
+  citation-key: li:yuanmingyuan
   container-title: MIT Visualizing Cultures
   language: en
   title: The Yuanmingyuan as imperial paradise (1700–1860)
@@ -5515,6 +5741,7 @@ references:
   author:
     - family: Liang
       given: Sicheng
+  citation-key: liang:1984pictorial
   editor:
     - family: Fairbank
       given: Wilma
@@ -5537,6 +5764,7 @@ references:
     - family: Liang
       given: Sicheng
   call-number: NA1540 .L536 2005
+  citation-key: liang:2005chinese
   editor:
     - family: Fairbank
       given: Wilma
@@ -5558,6 +5786,7 @@ references:
   author:
     - family: Lim
       given: Jee Yuan
+  citation-key: lim:1991malay
   event-place: Pinang
   ISBN: 978-967-9966-04-6
   issued:
@@ -5582,6 +5811,7 @@ references:
   author:
     - family: Linares Garcia
       given: Alejandro
+  citation-key: linares:2013chard
   issued:
     - literal: 20 de janeiro de 2013, 16:06:03
   language: en
@@ -5600,6 +5830,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Livioandronico2013
+  citation-key: livioandronico2013:2015carlino
   issued:
     - literal: 19 de julho de 2015, 12:22:58
   source: Wikimedia Commons
@@ -5616,6 +5847,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Livioandronico2013
+  citation-key: livioandronico2013:2015san
   issued:
     - literal: 19 de julho de 2015, 12:22:58
   language: Italian
@@ -5633,6 +5865,7 @@ references:
   archive: Transferido de en.wikipedia para a wiki Commons.
   author:
     - literal: Livioandronico2013
+  citation-key: livioandronico2013:2016dome
   issued:
     - year: 2016
       month: 9
@@ -5662,6 +5895,7 @@ references:
   author:
     - family: Loh
       given: Maria H.
+  citation-key: loh:2004new
   container-title: The Art Bulletin
   container-title-short: The Art Bulletin
   DOI: 10.2307/4134443
@@ -5690,6 +5924,7 @@ references:
   author:
     - family: Lorenzetti
       given: Ambrogio
+  citation-key: lorenzetti:1344annunciazione
   issued:
     - year: 1344
   language: Italian
@@ -5707,6 +5942,7 @@ references:
   author:
     - family: Lorenzetti
       given: Ambrogio
+  citation-key: lorenzetti:legenda
   language: Italian
   source: Wikimedia Commons
   title: Legenda di San Nicola
@@ -5718,6 +5954,7 @@ references:
   author:
     - family: Lotz
       given: Wolfgang
+  citation-key: lotz:1998arquitetura
   event-place: São Paulo
   ISBN: 978-85-86374-10-4
   issued:
@@ -5738,6 +5975,7 @@ references:
   author:
     - family: Luiselli
       given: Daniela
+  citation-key: luiselli:2013chinampas
   container-title: Clio-Mexico-luiselli
   issued:
     - literal: jueves, 19 de septiembre de 2013
@@ -5755,6 +5993,7 @@ references:
   author:
     - family: Maass
       given: John
+  citation-key: maass:1969where
   container-title: The Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988523
@@ -5794,6 +6033,7 @@ references:
     - year: 2020
       month: 8
       day: 4
+  citation-key: majapahit:2020
   container-title: Wikipedia
   issued:
     - year: 2020
@@ -5843,6 +6083,7 @@ references:
     - year: 2020
       month: 8
       day: 4
+  citation-key: malacca:2020
   container-title: Wikipedia
   issued:
     - year: 2020
@@ -5859,6 +6100,7 @@ references:
     - family: Mallgrave
       given: Harry Francis
   call-number: NA2500 .M28 2005
+  citation-key: mallgrave:2005modern
   event-place: Cambridge [UK] ; New York, NY
   ISBN: 978-0-521-79306-3
   issued:
@@ -5874,6 +6116,7 @@ references:
 
 - id: mallgrave:2006architectural
   call-number: NA2500 .A7115 2006
+  citation-key: mallgrave:2006architectural
   editor:
     - family: Mallgrave
       given: Harry Francis
@@ -5890,6 +6133,7 @@ references:
 
 - id: mallgrave:2017companions
   call-number: NA200 .C64 2017
+  citation-key: mallgrave:2017companions
   editor:
     - family: Mallgrave
       given: Harry Francis
@@ -5928,6 +6172,7 @@ references:
       given: Charity
     - family: Muzenda
       given: Archimedes
+  citation-key: manyeruke:2019politics
   collection-title: Cases and Experiences from Zimbabwe
   container-title: Community Resilience under the Impact of Urbanisation and Climate Change
   editor:
@@ -5963,6 +6208,7 @@ references:
       day: 9
   author:
     - literal: The Map Archive
+  citation-key: maparchive:africa-1600
   language: en-GB
   title: Africa in 1600
   type: map
@@ -5980,6 +6226,7 @@ references:
       day: 9
   author:
     - literal: The Map Archive
+  citation-key: maparchive:africa-900-1500
   language: en-GB
   title: The Empires of Africa 900–1500
   type: map
@@ -5997,6 +6244,7 @@ references:
       day: 9
   author:
     - literal: The Map Archive
+  citation-key: maparchive:central-africa-1884
   language: en-GB
   title: Central Africa 1884–94
   type: map
@@ -6014,6 +6262,7 @@ references:
       day: 9
   author:
     - literal: The Map Archive
+  citation-key: maparchive:horn-1500
   language: en-GB
   title: The Horn of Africa c. 1500
   type: map
@@ -6031,6 +6280,7 @@ references:
       day: 9
   author:
     - literal: The Map Archive
+  citation-key: maparchive:northeast-africa-1840
   language: en-GB
   title: Northeast Africa 1840–98
   type: map
@@ -6044,6 +6294,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Mappo
+  citation-key: mappo:2010tempio
   issued:
     - year: 2010
       month: 4
@@ -6063,6 +6314,7 @@ references:
   author:
     - family: Marcos
       given: Luis Bartolomé
+  citation-key: marcos:2011mausoleo
   issued:
     - literal: 26 de abril de 2011, 17:39:02
   language: es
@@ -6084,6 +6336,7 @@ references:
   author:
     - family: Mawer
       given: Caroline
+  citation-key: mawer:2013isfahan
   container-title: Caroline Mawer
   issued:
     - year: 2013
@@ -6106,6 +6359,7 @@ references:
   author:
     - family: McGill
       given: Kevin
+  citation-key: mcgill:2011humble
   issued:
     - year: 2011
       month: 11
@@ -6125,6 +6379,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Mcginnly
+  citation-key: mcginnly:2007taj
   issued:
     - year: 2007
       month: 7
@@ -6159,6 +6414,7 @@ references:
     - family: Vitali
       given: Pietro
   call-number: '317318'
+  citation-key: memmo:1786elementi
   event-place: Roma
   issued:
     - year: 1786
@@ -6182,6 +6438,7 @@ references:
   author:
     - family: Middleton
       given: Robin
+  citation-key: middleton:1959jacques18
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/987903
   ISSN: 00379808, 21505926
@@ -6198,6 +6455,7 @@ references:
   volume: '18'
 
 - id: middleton:1982beauxarts
+  citation-key: middleton:1982beauxarts
   editor:
     - family: Middleton
       given: Robin
@@ -6218,6 +6476,7 @@ references:
   author:
     - family: Middleton
       given: Robin
+  citation-key: middleton:1985architects
   container-title: AA Files
   ISSN: 0261-6823
   issue: '9'
@@ -6274,6 +6533,7 @@ references:
   author:
     - family: Miguel
       given: Juan
+  citation-key: miguel:2013mesoamerica
   issued:
     - literal: 14 de dezembro de 2013, 13:12:20
   language: es
@@ -6296,6 +6556,7 @@ references:
     - family: Milizia
       given: Francesco
   call-number: '67743'
+  citation-key: milizia:1768vite
   event-place: Roma
   issued:
     - year: 1768
@@ -6320,6 +6581,7 @@ references:
     - family: Milizia
       given: Francesco
   call-number: '212788'
+  citation-key: milizia:1832principj
   event-place: Milano
   issued:
     - year: 1832
@@ -6340,6 +6602,7 @@ references:
   author:
     - family: Millon
       given: Henry A.
+  citation-key: millon:1972rudolf
   container-title: Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988682
@@ -6368,6 +6631,7 @@ references:
   author:
     - family: Mirfendereski
       given: Afsaneh
+  citation-key: mirfendereski:architectural
   container-title: Afsaneh Architecture LLC
   language: en-US
   title: Architectural Inspirations
@@ -6382,6 +6646,7 @@ references:
   author:
     - family: Mohd Sahabuddin
       given: Mohd Firrdhaus
+  citation-key: mohd:2012establishment
   container-title: Firrbudi aka Lensahijau
   issued:
     - year: 2012
@@ -6421,6 +6686,7 @@ references:
       given: Mohd Firrdhaus
     - family: Gonzalez-Longo
       given: Cristina
+  citation-key: mohd:2015traditional9
   container-title: 'ArchNet-IJAR: International Journal of Architectural Research'
   ISSN: 1938-7806
   issue: '2'
@@ -6452,6 +6718,7 @@ references:
   author:
     - family: Monti della Corte
       given: Alessandro Augusto
+  citation-key: monti:1938castelli
   event-place: Roma
   issued:
     - year: 1938
@@ -6472,6 +6739,7 @@ references:
   author:
     - family: Monti
       given: Paolo
+  citation-key: monti:1950chiesa
   issued:
     - year: 1950
   source: Wikimedia Commons
@@ -6504,6 +6772,7 @@ references:
   author:
     - family: Monti
       given: Paolo
+  citation-key: monti:1975basilica
   dimensions: 35 mm
   issued:
     - year: 1975
@@ -6527,6 +6796,7 @@ references:
   author:
     - family: Monti
       given: Paolo
+  citation-key: monti:1979palazzo
   dimensions: 24 × 30 cm
   issued:
     - year: 1979
@@ -6546,6 +6816,7 @@ references:
   author:
     - family: Monti
       given: Paolo
+  citation-key: monti:1980servizio
   dimensions: 35 mm
   issued:
     - year: 1980
@@ -6560,6 +6831,7 @@ references:
   author:
     - family: Monton-Subias
       given: Sandra
+  citation-key: monton-subias:2015archaeologies
   event-place: New York
   ISBN: 978-3-319-21884-7
   issued:
@@ -6590,6 +6862,7 @@ references:
     - family: Moore
       given: Charles Herbert
   call-number: SRLF:LAGE-2344011
+  citation-key: moore:1905character
   issued:
     - year: 1905
   language: eng
@@ -6609,6 +6882,7 @@ references:
   author:
     - family: Moore
       given: Charles Herbert
+  citation-key: moore:1905floorplan
   issued:
     - year: 1905
   source: Wikimedia Commons
@@ -6629,6 +6903,7 @@ references:
   author:
     - family: Moore
       given: Charles Herbert
+  citation-key: moore:1905palazzo
   issued:
     - year: 1905
   source: Wikimedia Commons
@@ -6646,6 +6921,7 @@ references:
   author:
     - family: Moore
       given: Charles Herbert
+  citation-key: moore:1905part
   issued:
     - year: 1905
   source: Wikimedia Commons
@@ -6668,6 +6944,7 @@ references:
   author:
     - family: Moore
       given: Charles Herbert
+  citation-key: moore:1905vignola
   issued:
     - year: 1905
   source: Wikimedia Commons
@@ -6686,6 +6963,7 @@ references:
   author:
     - family: Morgan
       given: David
+  citation-key: morgan:1992concepts53
   container-title: Journal of the History of Ideas
   DOI: 10.2307/2709943
   ISSN: 0022-5037
@@ -6710,6 +6988,7 @@ references:
   author:
     - family: Morris
       given: Ellen K.
+  citation-key: morris:1980teaching
   container-title: Journal of Architectural Education
   container-title-short: JAE
   DOI: 10.2307/1424728
@@ -6729,6 +7008,7 @@ references:
   author:
     - family: Morris
       given: A. E. J
+  citation-key: morris:1985historia
   event-place: Barcelona
   ISBN: 978-84-252-1181-2
   issued:
@@ -6751,6 +7031,7 @@ references:
   author:
     - family: Morrogh
       given: Andrew
+  citation-key: morrogh:1998guarini57
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991402
   ISSN: 00379808, 21505926
@@ -6777,6 +7058,7 @@ references:
   author:
     - family: Müller
       given: Werner
+  citation-key: muller:1968authenticity27
   container-title: Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988502
@@ -6797,6 +7079,7 @@ references:
   author:
     - family: Müller
       given: Werner
+  citation-key: muller:1995atlas
   event-place: Madrid
   ISBN: 978-84-206-6204-6
   issued:
@@ -6820,6 +7103,7 @@ references:
   author:
     - family: Mumford
       given: Lewis
+  citation-key: mumford:1966city
   event-place: Harmondsworth
   ISBN: 978-0-15-618035-1
   issued:
@@ -6837,6 +7121,7 @@ references:
   author:
     - family: Mumford
       given: Lewis
+  citation-key: mumford:1998cidade
   event-place: São Paulo
   ISBN: 978-85-336-0847-4
   issued:
@@ -6854,6 +7139,7 @@ references:
   author:
     - family: Muratori
       given: Saverio
+  citation-key: muratori:1959studiIX
   container-title: Palladio
   issue: 3–4
   issued:
@@ -6870,6 +7156,7 @@ references:
   author:
     - family: Murray
       given: Peter
+  citation-key: murray:1972arquitectura
   event-place: Madrid
   issued:
     - year: 1972
@@ -6919,6 +7206,7 @@ references:
       given: Mohammed Ali
     - family: Bunu
       given: Salim Mohammed
+  citation-key: mwenje:2019case
   collection-title: Creativity, Heritage and the City
   container-title: >-
     Reshaping Urban Conservation: The Historic Urban Landscape Approach in
@@ -6950,6 +7238,7 @@ references:
       day: 27
   author:
     - literal: Mykaul
+  citation-key: mykaul:2007basilica
   issued:
     - year: 2007
       month: 8
@@ -6967,6 +7256,7 @@ references:
       day: 27
   author:
     - literal: mykaul
+  citation-key: mykaul:2007light
   issued:
     - year: 2007
       month: 8
@@ -6983,6 +7273,7 @@ references:
       given: Alexander
     - family: Wood
       given: Christopher S.
+  citation-key: nagel:2005new87
   container-title: The Art Bulletin
   issue: '3'
   issued:
@@ -7001,6 +7292,7 @@ references:
       given: Kazuo
     - family: Hozumi
       given: Kazuo
+  citation-key: nishi:1996what
   edition: '1'
   event-place: Tokyo
   ISBN: 978-4-7700-1992-9
@@ -7023,6 +7315,7 @@ references:
     - family: Norberg-Schulz
       given: Christian
   call-number: NA590 .N6 1986
+  citation-key: norberg-schulz:1986baroque
   collection-title: History of world architecture
   event-place: 'Milan : New York'
   ISBN: 978-0-8478-0693-5
@@ -7040,6 +7333,7 @@ references:
   author:
     - family: Norberg-Schulz
       given: Christian
+  citation-key: norberg-schulz:1989arquitectura
   event-place: Madrid
   ISBN: 978-84-03-60123-9
   issued:
@@ -7055,6 +7349,7 @@ references:
   author:
     - family: Norberg-Schulz
       given: Christian
+  citation-key: norberg-schulz:1989arquitecturaa
   event-place: Madrid
   ISBN: 978-84-03-33092-4
   issued:
@@ -7068,6 +7363,7 @@ references:
 
 - id: ogot:2010africa
   call-number: 960"15/17"
+  citation-key: ogot:2010africa
   collection-number: '5'
   collection-title: História Geral da África
   edition: '2'
@@ -7089,6 +7385,7 @@ references:
     - family: Oliveras
       given: Jordi
   call-number: HT169.57.S7 O4 1998
+  citation-key: oliveras:1998nuevas
   collection-number: '2'
   collection-title: Arquíthesis
   event-place: Barcelona
@@ -7112,6 +7409,7 @@ references:
   author:
     - family: Otrębski
       given: Andrzej
+  citation-key: otrebski:2009florence
   issued:
     - literal: 28 de agosto de 2009, 15:10:04
   source: Wikimedia Commons
@@ -7139,6 +7437,7 @@ references:
     - family: Taylor
       given: Isaac
   call-number: '283927'
+  citation-key: overton:1774
   event-place: London
   issued:
     - year: 1774
@@ -7163,6 +7462,7 @@ references:
     - family: Palazzo
       given: Pedro P.
   call-number: D13 .C638 2014
+  citation-key: palazzo:2014louvre
   container-title: >-
     A construção da narrativa histórica: séculos <span
     class="smallcaps">XIX</span> e <span class="smallcaps">XX</span>
@@ -7192,6 +7492,7 @@ references:
   author:
     - family: Palladio
       given: Andrea
+  citation-key: palladio:1570quattro
   event-place: Venezia
   issued:
     - year: 1570
@@ -7221,6 +7522,7 @@ references:
     - family: Palladio
       given: Andrea
   call-number: '9925412010001551'
+  citation-key: palladio:1738four
   event-place: London
   issued:
     - year: 1738
@@ -7241,6 +7543,7 @@ references:
     - family: Panerai
       given: Philippe
   call-number: '718.04'
+  citation-key: panerai:2006analise
   event-place: Brasília
   ISBN: 978-85-230-0923-6
   issued:
@@ -7259,6 +7562,7 @@ references:
   author:
     - family: Panofsky
       given: Erwin
+  citation-key: panofsky:2001arquitetura
   event-place: São Paulo
   ISBN: 978-85-336-1467-3
   issued:
@@ -7294,6 +7598,7 @@ references:
     - family: Patte
       given: Pierre
   call-number: '72198'
+  citation-key: patte:1769memoires
   event-place: Paris
   issued:
     - year: 1769
@@ -7333,6 +7638,7 @@ references:
   author:
     - family: Payne
       given: Alina A.
+  citation-key: payne:1994rudolf
   container-title: Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/990940
@@ -7359,6 +7665,7 @@ references:
   author:
     - family: Pazzaglia
       given: Giovanni
+  citation-key: pazzaglia:2013tempio
   issued:
     - literal: 26 de setembro de 2013, 17:11:55
   source: Wikimedia Commons
@@ -7376,6 +7683,7 @@ references:
   author:
     - family: Pelagalli
       given: Carlo
+  citation-key: pelagalli:2010roma
   issued:
     - year: 2010
       month: 11
@@ -7397,6 +7705,7 @@ references:
   author:
     - family: Pellecchia
       given: Linda
+  citation-key: pellecchia:1992architects51
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/990736
   ISSN: 00379808, 21505926
@@ -7419,6 +7728,7 @@ references:
   author:
     - family: Pérez-Gómez
       given: Alberto
+  citation-key: perez-gomez:1983architecture
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-66055-6
   issued:
@@ -7439,6 +7749,7 @@ references:
   author:
     - family: Pérez-Gómez
       given: Alberto
+  citation-key: perez-gomez:24architecture36
   container-title: Journal of Architectural Education
   DOI: 10.2307/1424613
   ISSN: '01492993'
@@ -7462,6 +7773,7 @@ references:
   author:
     - family: Pérouse de Montclos
       given: Jean-Marie
+  citation-key: perouse:1977sixieme36
   container-title: Journal of the Society of Architectural Historians
   container-title-short: Journal of the Society of Architectural Historians
   DOI: 10.2307/989279
@@ -7484,6 +7796,7 @@ references:
   author:
     - family: Pérouse de Montclos
       given: Jean-Marie
+  citation-key: perouse:2001architecture
   edition: '2'
   event-place: Paris
   ISBN: 978-2-7084-0960-6
@@ -7503,6 +7816,7 @@ references:
   author:
     - family: Pérouse de Montclos
       given: Jean-Marie
+  citation-key: perousedemontclos:1989histoire
   event-place: Paris
   issued:
     - year: 1989
@@ -7517,6 +7831,7 @@ references:
   author:
     - family: Perrault
       given: Claude
+  citation-key: perrault:1683ordonnance
   event-place: Paris
   issued:
     - year: 1683
@@ -7533,6 +7848,7 @@ references:
   author:
     - family: Perrault
       given: Claude
+  citation-key: perrault:1996ordonnance
   event-place: Santa Monica
   ISBN: 978-0-89236-232-5
   issued:
@@ -7558,6 +7874,7 @@ references:
   archive: Own work
   author:
     - literal: Peter1936F
+  citation-key: peter1936f:2014santa
   issued:
     - literal: 16 February 2014, 12:20:48
   source: Wikimedia Commons
@@ -7574,6 +7891,7 @@ references:
   archive: Own work
   author:
     - literal: Peter1936F
+  citation-key: peter1936f:2016san
   issued:
     - literal: 3 June 2016, 10:49:27
   source: Wikimedia Commons
@@ -7587,6 +7905,7 @@ references:
     - year: 2020
       month: 1
       day: 15
+  citation-key: petruccioli:1998typological
   collection-title: Procedings of the international symposium ... March 1995
   editor:
     - family: Petruccioli
@@ -7620,6 +7939,7 @@ references:
     architecture, education and socio-economic aspects of various Muslim
     countries. Illustrated throughout, this book will appeal to students and
     scholars, practising architects and planners alike.
+  citation-key: petruccioli:2013understanding
   editor:
     - family: Petruccioli
       given: Attilo
@@ -7643,6 +7963,7 @@ references:
     - family: Petto
       given: Christine Marie
   call-number: GA793.5 .P47 2015
+  citation-key: petto:2015mapping
   event-place: Lanham
   ISBN: 978-0-7391-7536-1
   issued:
@@ -7662,6 +7983,7 @@ references:
   author:
     - family: Petzet
       given: Michael
+  citation-key: petzet:2000claude
   event-place: München
   issued:
     - year: 2000
@@ -7675,6 +7997,7 @@ references:
   author:
     - family: Pevsner
       given: Nikolaus
+  citation-key: pevsner:2002panorama
   event-place: São Paulo
   ISBN: 978-85-336-1492-5
   issued:
@@ -7696,6 +8019,7 @@ references:
   author:
     - family: Pevsner
       given: Nikolaus
+  citation-key: pevsner:2005academias
   event-place: São Paulo
   ISBN: 978-85-359-0587-8
   issued:
@@ -7714,6 +8038,7 @@ references:
   author:
     - family: Philippot
       given: Paul
+  citation-key: philippot:1958saeule36
   container-title: Revue belge de philologie et d'histoire
   container-title-short: RBPH
   ISSN: 0035-0818
@@ -7735,6 +8060,7 @@ references:
 
 - id: piotrowski:2001discipline
   call-number: NA2750 .D485 2001
+  citation-key: piotrowski:2001discipline
   editor:
     - family: Piotrowski
       given: Andrzej
@@ -7761,6 +8087,7 @@ references:
   author:
     - family: Piranesi
       given: Giovanni Battista
+  citation-key: piranesi:1769diverse
   event-place: Roma
   issued:
     - year: 1769
@@ -7782,6 +8109,7 @@ references:
   archive_location: >-
     No. 28 / genomen uit de brieven en papieren van Malakka 1656 portefeuille
     1656 no. IV / 598 a.
+  citation-key: plan:1656malacca
   dimensions: 73 × 52 cm
   issued:
     - year: 1656
@@ -7796,10 +8124,11 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
 
-- id: podro:1982a
+- id: podro:1982critical
   author:
     - family: Podro
       given: Michael
+  citation-key: podro:1982critical
   event-place: New Haven
   ISBN: 978-0-300-02862-1
   issued:
@@ -7820,6 +8149,7 @@ references:
     - family: Posner
       given: Kathleen Weil-Garris
   call-number: 711.034.4(45)
+  citation-key: posner:1973
   container-title: Gesta
   container-title-short: Gesta
   DOI: 10.2307/766639
@@ -7889,6 +8219,7 @@ references:
       given: Donald
     - family: Zareie
       given: Farzaneh
+  citation-key: pradines:2018nouveau
   collection-title: Hommage à Monik Kervran
   container-title: 'Sur les chemins d’Onagre: Histoire et archéologie orientales'
   DOI: 10.2307/j.ctvndv7rf.18
@@ -7928,6 +8259,7 @@ references:
     - family: Price
       given: Francis
   call-number: '9926429080001551'
+  citation-key: price:1735british
   event-place: London
   issued:
     - year: 1735
@@ -7952,6 +8284,7 @@ references:
   author:
     - family: Prussin
       given: Labelle
+  citation-key: prussin:1968architecture
   container-title: African Arts
   container-title-short: African Arts
   DOI: 10.2307/3334324
@@ -7976,6 +8309,7 @@ references:
   author:
     - family: Puggioni
       given: Rossella
+  citation-key: puggioni:2014santa
   issued:
     - literal: 30 de abril de 2014, 11:54:01
   source: Wikimedia Commons
@@ -7987,6 +8321,7 @@ references:
   author:
     - family: Quatremère de Quincy
       given: Antoine Chrysosthome
+  citation-key: quatremere:1788caractere
   collection-editor:
     - family: Diderot
       given: Denis
@@ -8015,6 +8350,7 @@ references:
   author:
     - family: Rapoport
       given: Amos
+  citation-key: rapoport:1990meaning
   event-place: Tucson, Ariz.
   ISBN: 978-0-8165-1176-1
   issued:
@@ -8033,6 +8369,7 @@ references:
     - year: 2020
       month: 10
       day: 27
+  citation-key: redentore:2017
   container-title: The Wandering Wahoo
   issued:
     - year: 2017
@@ -8053,6 +8390,7 @@ references:
   author:
     - family: Renalias
       given: Josep
+  citation-key: renalias:2003montepulciano
   issued:
     - year: 2003
       month: 7
@@ -8072,6 +8410,7 @@ references:
   author:
     - family: Ribeiro
       given: José Luiz Bernardes
+  citation-key: ribeiro:2016facade
   issued:
     - literal: 13 de setembro de 2016, 14:51:13
   source: Wikimedia Commons
@@ -8095,6 +8434,7 @@ references:
     - family: Richardson
       given: George
   call-number: '9926626840001551'
+  citation-key: richardson:1802new1
   event-place: London
   issued:
     - year: 1802
@@ -8127,6 +8467,7 @@ references:
     - family: Richardson
       given: George
   call-number: '9926626840001551'
+  citation-key: richardson:1802new2
   event-place: London
   issued:
     - year: 1802
@@ -8152,6 +8493,7 @@ references:
   author:
     - family: Richter
       given: G. M.
+  citation-key: richter:1931manierismus58
   container-title: The Burlington Magazine for Connoisseurs
   container-title-short: The Burlington Magazine for Connoisseurs
   DOI: 10.2307/864644
@@ -8178,6 +8520,7 @@ references:
   author:
     - family: Rigaud
       given: John Francis
+  citation-key: rigaud:1782sir
   dimensions: 118,1 × 143,5 cm
   issued:
     - year: 1782
@@ -8199,6 +8542,7 @@ references:
   author:
     - family: Rocchi
       given: V.
+  citation-key: rocchi:1884chiesa
   issued:
     - year: 1884
   medium: >-
@@ -8221,6 +8565,7 @@ references:
   author:
     - family: Rocchi
       given: V.
+  citation-key: rocchi:1884sezione
   issued:
     - year: 1884
   medium: >-
@@ -8238,6 +8583,7 @@ references:
     - family: Rocha-Peixoto
       given: Gustavo
   call-number: 720.907 R582e
+  citation-key: rochapeixoto:2013estrategia
   collection-title: Coleção Proarq
   event-place: Rio de Janeiro
   issued:
@@ -8273,6 +8619,7 @@ references:
   author:
     - family: Roland
       given: Isabelle
+  citation-key: roland:2008letude
   container-title: In Situ. Revue des patrimoines
   DOI: 10.4000/insitu.3619
   ISSN: 1630-7305
@@ -8302,6 +8649,7 @@ references:
   author:
     - family: Rosenfeld
       given: Myra Nan
+  citation-key: rosenfeld:1969sebastiano28
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/988555
   ISSN: 00379808, 21505926
@@ -8327,6 +8675,7 @@ references:
   author:
     - family: Rosenthal
       given: Earl
+  citation-key: rosenthal:1964antecedents23
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/988161
   ISSN: 00379808, 21505926
@@ -8364,6 +8713,7 @@ references:
   author:
     - family: Roth
       given: Leland M.
+  citation-key: roth:1993understanding
   event-place: New York
   issued:
     - year: 1993
@@ -8393,6 +8743,7 @@ references:
   author:
     - family: Roth
       given: Leland M.
+  citation-key: roth:2017entender
   event-place: Barcelona
   ISBN: 978-85-8452-069-5
   issued:
@@ -8418,6 +8769,7 @@ references:
   author:
     - family: Rowland
       given: Ingrid D.
+  citation-key: rowland:1994raphael76
   container-title: The Art Bulletin
   DOI: 10.2307/3046004
   ISSN: '00043079'
@@ -8437,6 +8789,7 @@ references:
   author:
     - family: Rybczynski
       given: Witold
+  citation-key: rybczynski:2002perfect
   event-place: New York
   issued:
     - year: 2002
@@ -8450,6 +8803,7 @@ references:
   author:
     - family: Rykwert
       given: Joseph
+  citation-key: rykwert:1991first
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-68039-4
   issued:
@@ -8466,6 +8820,7 @@ references:
   author:
     - family: Rykwert
       given: Joseph
+  citation-key: rykwert:1998dancing
   edition: '1'
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-68101-8
@@ -8506,6 +8861,7 @@ references:
       given: Suzana
     - family: Embi
       given: Mohamed R.
+  citation-key: said:2008parametric6
   container-title: International Journal of Architectural Computing
   container-title-short: International Journal of Architectural Computing
   DOI: 10.1260/147807708785850113
@@ -8532,6 +8888,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2006santo
   issued:
     - year: 2006
       month: 6
@@ -8550,6 +8907,7 @@ references:
   archive: Fotografia própria
   author:
     - literal: Sailko
+  citation-key: sailko:2008battistero
   issued:
     - literal: 30 de agosto de 2008, 16:41:02
   source: Wikimedia Commons
@@ -8566,6 +8924,7 @@ references:
   archive: Self-photographed
   author:
     - literal: Sailko
+  citation-key: sailko:2008santa
   issued:
     - literal: 23 June 2008, 10:07:16
   source: Wikimedia Commons
@@ -8582,6 +8941,7 @@ references:
   archive: Fotografia própria
   author:
     - literal: Sailko
+  citation-key: sailko:2008spedale
   issued:
     - literal: 2008-04-26, 15:38:57
   language: Italian
@@ -8599,6 +8959,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2011parco
   issued:
     - literal: 11 de janeiro de 2011, 23:26:53
   source: Wikimedia Commons
@@ -8618,6 +8979,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2011parcoa
   issued:
     - literal: 11 de janeiro de 2011, 23:26:40
   source: Wikimedia Commons
@@ -8637,6 +8999,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: sailko
+  citation-key: sailko:2013pianta
   issued:
     - literal: 13 de julho de 2013, 19:09:13
   source: Wikimedia Commons
@@ -8652,6 +9015,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2013santa
   issued:
     - literal: 25 de outubro de 2013, 15:45:26
   source: Wikimedia Commons
@@ -8667,6 +9031,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2015museo
   issued:
     - literal: 5 de novembro de 2015, 12:45:36
   source: Wikimedia Commons
@@ -8683,6 +9048,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2016interior
   issued:
     - literal: 7 de julho de 2016, 21:45:16
   language: English
@@ -8699,6 +9065,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2016spedale
   issued:
     - literal: 9 de julho de 2016, 10:53:57
   source: Wikimedia Commons
@@ -8715,6 +9082,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2017mostra
   issued:
     - literal: 30 de dezembro de 2017, 11:43:37
   source: Wikimedia Commons
@@ -8731,6 +9099,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2017santa
   issued:
     - literal: 23 de abril de 2017, 15:49:38
   source: Wikimedia Commons
@@ -8747,6 +9116,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Sailko
+  citation-key: sailko:2018fasiladas-interno-02
   issued:
     - literal: 11 de novembro de 2018, 15:55:49
   source: Wikimedia Commons
@@ -8759,6 +9129,7 @@ references:
   author:
     - family: Sambricio
       given: Carlos
+  citation-key: sambricio:2014projetos
   container-title: 'Tempos e escalas da cidade e do urbanismo: quatro palestras'
   editor:
     - family: Peixoto
@@ -8792,6 +9163,7 @@ references:
     - family: Sant'Anna
       given: Affonso Romano
       dropping-particle: de
+  citation-key: santanna:2000barroco
   event-place: Rio de Janeiro
   ISBN: 978-85-325-1191-1
   issued:
@@ -8818,6 +9190,7 @@ references:
   author:
     - family: Satoh
       given: Shigeru
+  citation-key: satoh:1998urban24
   container-title: Built Environment
   DOI: 10.2307/23289158
   ISSN: 0263-7960
@@ -8845,6 +9218,7 @@ references:
       given: H. W.
     - family: Gombrich
       given: E. H.
+  citation-key: schapiro:24criteria1
   container-title: New Literary History
   DOI: 10.2307/468623
   ISSN: '00286087'
@@ -8864,6 +9238,7 @@ references:
   author:
     - family: Schumacher
       given: Thomas L.
+  citation-key: schumacher:1971contestualismo
   container-title: Casabella
   issue: 359-360
   issued:
@@ -8878,6 +9253,7 @@ references:
   author:
     - family: Schumacher
       given: Thomas L.
+  citation-key: schumacher:1987deep
   container-title: Architectural Record
   issue: '1'
   issued:
@@ -8897,6 +9273,7 @@ references:
     - family: Schumacher
       given: Thomas L.
   call-number: '72.034.6(45) : 72:4'
+  citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
   issued:
     - year: 1987
@@ -8923,6 +9300,7 @@ references:
   author:
     - family: Scott
       given: Geoffrey
+  citation-key: scott:1914architecture
   event-place: Boston
   issued:
     - year: 1914
@@ -8952,6 +9330,7 @@ references:
       given: Hans
     - family: Johns
       given: Karl
+  citation-key: sedlmayr:2016architecture14
   container-title: Journal of Art Historiography
   ISSN: 2042-4752
   issued:
@@ -8960,7 +9339,7 @@ references:
   page: 14-KJ1
   source: Open WorldCat
   title: >-
-    The Architecture of Borromini, Munich: Piper 1930, introduced, edited and
+    The architecture of Borromini, Munich: Piper 1930, introduced, edited and
     translated by Karl Johns
   title-short: Hans Sedlmayr, The Architecture of Borromini, Munich
   translator:
@@ -8974,6 +9353,7 @@ references:
     - family: Semper
       given: Gottfried
   call-number: NA2500 .S46213 2004
+  citation-key: semper:2004style
   collection-title: Texts & documents
   event-place: Los Angeles
   ISBN: 978-0-89236-597-5
@@ -8998,6 +9378,7 @@ references:
   author:
     - family: Serlio
       given: Sebastiano
+  citation-key: serlio:1547sesto
   event-place: Lyon
   issued:
     - year: 1547
@@ -9020,6 +9401,7 @@ references:
   author:
     - family: Serlio
       given: Sebastiano
+  citation-key: serlio:1997serlio
   event-place: New York
   ISBN: 978-0-486-29352-3
   issued:
@@ -9039,6 +9421,7 @@ references:
   author:
     - family: Siegel
       given: Charles
+  citation-key: siegel:2008architecture
   event-place: Berkeley, Calif.
   ISBN: 978-0-9788728-1-6
   issued:
@@ -9062,6 +9445,7 @@ references:
   author:
     - family: Sogoba
       given: Mia
+  citation-key: sogoba:2019tata
   container-title: Cultures of West Africa
   issued:
     - year: 2019
@@ -9086,6 +9470,7 @@ references:
   author:
     - family: Soul
       given: Obsidian
+  citation-key: soul:2019map
   issued:
     - year: 2019
       month: 1
@@ -9120,6 +9505,7 @@ references:
   author:
     - family: Steinhardt
       given: Nancy Shatzman
+  citation-key: steinhardt:2002chinese
   event-place: New Haven
   ISBN: 978-0-300-09559-3
   issued:
@@ -9158,6 +9544,7 @@ references:
     - family: Steinhardt
       given: Nancy Shatzman
   call-number: NA1540 .S738 2019
+  citation-key: steinhardt:2019chinese
   event-place: Princeton, N.J.
   ISBN: 978-0-691-16998-9
   issued:
@@ -9179,6 +9566,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: SteO153
+  citation-key: steo153:2007dome
   issued:
     - year: 2007
       month: 7
@@ -9197,6 +9585,7 @@ references:
   author:
     - family: Stokes
       given: Bruce
+  citation-key: stokes:2013view
   issued:
     - literal: 27 de agosto de 2013, 13:16:55
   language: en
@@ -9215,6 +9604,7 @@ references:
   author:
     - family: Stoughton
       given: Cecil W.
+  citation-key: stoughton:1962view
   issued:
     - year: 1962
       month: 3
@@ -9239,6 +9629,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Stuntelaar
+  citation-key: stuntelaar:2008timur
   issued:
     - year: 2008
       month: 11
@@ -9254,6 +9645,7 @@ references:
     - family: Summerson
       given: John
   call-number: NA31 .S86 1980
+  citation-key: summerson:1980classical
   collection-title: World of art library
   edition: Rev. and enl. ed
   event-place: London
@@ -9272,6 +9664,7 @@ references:
   author:
     - family: Summerson
       given: John
+  citation-key: summerson:1997linguagem
   event-place: São Paulo
   issued:
     - year: 1997
@@ -9300,6 +9693,7 @@ references:
     - family: Swan
       given: Abraham
   call-number: '9923324080001551'
+  citation-key: swan:1758collection
   event-place: London
   issued:
     - year: 1758
@@ -9323,6 +9717,7 @@ references:
   author:
     - family: Szambien
       given: Werner
+  citation-key: szambien:1986symetrie
   event-place: Paris
   issued:
     - year: 1986
@@ -9340,6 +9735,7 @@ references:
   author:
     - family: Tadgell
       given: Christopher
+  citation-key: tadgell:1980claude122
   container-title: The Burlington Magazine
   container-title-short: The Burlington Magazine
   ISSN: 0007-6287
@@ -9364,6 +9760,7 @@ references:
   author:
     - family: Tafuri
       given: Manfredo
+  citation-key: tafuri:1967idea
   container-title: Bollettino del Centro Internazionale di Studi Andrea Palladio
   issue: IX
   issued:
@@ -9382,6 +9779,7 @@ references:
   author:
     - family: Tafuri
       given: Manfredo
+  citation-key: tafuri:1967j
   container-title: Bollettino del Centro Internazionale di Studi Andrea Palladio
   issue: IX
   issued:
@@ -9400,6 +9798,7 @@ references:
   author:
     - family: Tafuri
       given: Manfredo
+  citation-key: tafuri:1969committenza
   container-title: Bollettino del Centro Internazionale di Studi Andrea Palladio
   issue: XI
   issued:
@@ -9415,6 +9814,7 @@ references:
     - family: Tafuri
       given: Manfredo
   call-number: '72.034'
+  citation-key: tafuri:1985venezia
   collection-number: '686'
   collection-title: Saggi
   event-place: Torino
@@ -9435,6 +9835,7 @@ references:
     - family: Tafuri
       given: Manfredo
   call-number: NA1115 .T35 1992
+  citation-key: tafuri:1992ricerca
   collection-number: '760'
   collection-title: Saggi
   event-place: Torino
@@ -9459,6 +9860,7 @@ references:
   author:
     - family: Tagliaventi
       given: Gabriele
+  citation-key: tagliaventi:2006european18
   container-title: Places
   ISSN: 0731-0455
   issue: '1'
@@ -9482,6 +9884,7 @@ references:
     - family: Tajudeen
       given: Imran
       dropping-particle: bin
+  citation-key: tajudeen:2005reading8
   container-title: Journal of Southeast Asian Architecture
   issued:
     - year: 2005
@@ -9508,6 +9911,7 @@ references:
     - family: Tajudeen
       given: Imran
       dropping-particle: bin
+  citation-key: tajudeen:2012racialized
   container-title: >-
     Colonial Frames, Nationalist Histories: Imperial Legacies, Architecture and
     Modernity
@@ -9536,6 +9940,7 @@ references:
     - family: Tajudeen
       given: Imran
       dropping-particle: bin
+  citation-key: tajudeen:kampung
   container-title: Singapura Stories
   language: en
   source: singapurastories.com
@@ -9548,6 +9953,7 @@ references:
   author:
     - family: Tapié
       given: Victor Lucien
+  citation-key: tapie:1974barroco
   event-place: 'Lisboa : São Paulo'
   issued:
     - year: 1974
@@ -9566,6 +9972,7 @@ references:
   author:
     - family: Tatarkiewicz
       given: Wladyslaw
+  citation-key: tatarkiewicz:24great31
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/429278
   ISSN: '00218529'
@@ -9594,6 +10001,7 @@ references:
   author:
     - family: Taut
       given: Bruno
+  citation-key: taut:1936fundamentals
   issued:
     - year: 1936
   language: en
@@ -9608,6 +10016,7 @@ references:
     - family: Temple
       given: Nicholas
   call-number: NA9204.R7 T46 2011
+  citation-key: temple:2011renovatio
   collection-title: The classical tradition in architecture
   event-place: London ; New York
   ISBN: 978-0-415-47385-9
@@ -9633,6 +10042,7 @@ references:
   author:
     - family: Thornton
       given: John K.
+  citation-key: thornton:2004origin37
   container-title: African Arts
   ISSN: 0001-9933
   issue: '1'
@@ -9654,6 +10064,7 @@ references:
   author:
     - family: Tibaldi
       given: Allison
+  citation-key: tibaldi:2016suzhou
   container-title: Dave's Travel Corner
   issued:
     - year: 2016
@@ -9696,6 +10107,7 @@ references:
   author:
     - family: Toker
       given: Franklin
+  citation-key: toker:1983arnolfo
   container-title: Journal of the Society of Architectural Historians
   container-title-short: Journal of the Society of Architectural Historians
   DOI: 10.2307/989825
@@ -9716,6 +10128,7 @@ references:
   author:
     - family: Toman
       given: Rolf
+  citation-key: toman:1997barroco
   event-place: Colonia
   issued:
     - year: 1997
@@ -9750,6 +10163,7 @@ references:
   author:
     - family: Trachtenberg
       given: Marvin
+  citation-key: trachtenberg:2014build2
   container-title: Architectural Histories
   DOI: 10.5334/ah.bp
   ISSN: 2050-5833
@@ -9781,6 +10195,7 @@ references:
   author:
     - family: Trudaine
       given: Daniel-Charles
+  citation-key: trudaine:1745atlas
   issued:
     - year: 1745
     - year: 1780
@@ -9799,6 +10214,7 @@ references:
   author:
     - family: Turner
       given: Jane
+  citation-key: turner:1996dictionary
   event-place: New York
   issued:
     - year: 1996
@@ -9821,6 +10237,7 @@ references:
       given: Alexander
     - family: Lefaivre
       given: Liane
+  citation-key: tzonis:1975mechanical
   container-title: Journal of Architectural Education
   DOI: 10.2307/1424316
   ISSN: 0149-2993
@@ -9842,6 +10259,7 @@ references:
       given: Alexander
     - family: Lefaivre
       given: Liane
+  citation-key: tzonis:1980history
   collection-title: How Not to Teach Architectural History
   container-title: Journal of Architectural Education
   issue: '1'
@@ -9859,6 +10277,7 @@ references:
       given: Alexander
     - family: Lefaivre
       given: Liane
+  citation-key: tzonis:1986classical
   event-place: Cambridge, Mass.
   ISBN: 978-0-262-70031-3
   issued:
@@ -9875,6 +10294,7 @@ references:
     - family: Unwin
       given: Simon
   call-number: NA2750 .U58 1997
+  citation-key: unwin:1997analysing
   event-place: London ; New York
   ISBN: 978-0-415-14477-3
   issued:
@@ -9911,6 +10331,7 @@ references:
     - family: Eck
       given: Caroline
       non-dropping-particle: van
+  citation-key: van:1998structure57
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991347
   ISSN: 0037-9808
@@ -9934,6 +10355,7 @@ references:
   author:
     - family: Vélez-rodríguez
       given: Ricardo
+  citation-key: velez-rodriguez:2013
   container-title: rocinante
   issued:
     - literal: sábado, 19 de janeiro de 2013
@@ -9970,6 +10392,7 @@ references:
   author:
     - family: Vendrix
       given: Philippe
+  citation-key: vendrix:1989proportions20
   container-title: International Review of the Aesthetics and Sociology of Music
   container-title-short: International Review of the Aesthetics and Sociology of Music
   DOI: 10.2307/836548
@@ -9999,6 +10422,7 @@ references:
       given: Giacomo Barozzi
       dropping-particle: da
   call-number: '9929069290001551'
+  citation-key: vignola:1876regras
   event-place: Lisboa
   issued:
     - year: 1876
@@ -10030,6 +10454,7 @@ references:
       given: 1507-1573
     - family: Esquié
       given: Pierre
+  citation-key: vignola:1890five
   event-place: Boston, Mass.
   issued:
     - year: 1890
@@ -10053,6 +10478,7 @@ references:
     - family: Villiers-Stuart
       given: Constance Mary
   call-number: srlf_ucla:LAGE-3410869
+  citation-key: villiers-stuart:1913gardens
   event-place: London
   issued:
     - year: 1913
@@ -10082,6 +10508,7 @@ references:
   author:
     - literal: Vitruve
   call-number: '9927019110001551'
+  citation-key: vitruve:1673dix
   event-place: Paris
   issued:
     - year: 1673
@@ -10103,6 +10530,7 @@ references:
 - id: vitruve:1684dix
   author:
     - literal: Vitruve
+  citation-key: vitruve:1684dix
   edition: '2'
   event-place: Paris
   issued:
@@ -10123,6 +10551,7 @@ references:
 - id: vitruvio:2006tratado
   author:
     - literal: Vitrúvio
+  citation-key: vitruvio:2006tratado
   event-place: Lisboa
   issued:
     - year: 2006
@@ -10138,6 +10567,7 @@ references:
 - id: vitruvio:2007tratado
   author:
     - literal: Vitrúvio
+  citation-key: vitruvio:2007tratado
   event-place: São Paulo
   ISBN: 978-85-7707-003-9
   issued:
@@ -10165,6 +10595,7 @@ references:
   archive_location: '82670261'
   author:
     - literal: Vvoevale
+  citation-key: vvoevale:2016altar
   issued:
     - year: 2016
   language: en
@@ -10182,6 +10613,7 @@ references:
   author:
     - family: Waikhom
       given: Herojit
+  citation-key: waikhom:2012view
   issued:
     - year: 2012
       month: 2
@@ -10197,6 +10629,7 @@ references:
   author:
     - family: Waisman
       given: Manno
+  citation-key: waisman:1993interior
   edition: '2'
   event-place: Bogotá
   issued:
@@ -10219,6 +10652,7 @@ references:
   author:
     - family: Walcher
       given: Heidi A.
+  citation-key: walcher:1997paradise
   container-title: Middle Eastern Natural Environments J
   issued:
     - year: 1997
@@ -10236,6 +10670,7 @@ references:
   author:
     - family: Walker
       given: Charles Howard
+  citation-key: walker:2007theory
   event-place: New York
   ISBN: 978-0-393-73233-7
   issued:
@@ -10257,6 +10692,7 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
+  citation-key: ward:1911architecture
   event-place: London
   issued:
     - year: 1911
@@ -10278,6 +10714,7 @@ references:
   author:
     - family: Watkin
       given: David
+  citation-key: watkin:2001historia
   event-place: Barcelona
   ISBN: 978-3-8290-2142-5
   issued:
@@ -10299,6 +10736,7 @@ references:
     - family: Pelt
       given: Robert Jan
       non-dropping-particle: van
+  citation-key: westfall:1991architectural
   event-place: New Haven
   issued:
     - year: 1991
@@ -10323,6 +10761,7 @@ references:
   author:
     - family: Westfall
       given: Carroll William
+  citation-key: westfall:2008why
   container-title: Journal of Architectural Education
   DOI: 10.2307/40480871
   ISSN: 1046-4883
@@ -10332,7 +10771,7 @@ references:
   language: en-US
   page: 95-107
   source: JSTOR
-  title: Why the Orders Belong in Studio
+  title: Why the orders belong in studio
   type: article-journal
   URL: http://www.jstor.org/stable/40480871
   volume: '61'
@@ -10342,6 +10781,7 @@ references:
     - family: Westfall
       given: Carroll William
   call-number: NA2543.H55 W47 2015
+  citation-key: westfall:2015architecture
   event-place: Burlington, Ver.
   ISBN: 978-1-4724-5653-3
   issued:
@@ -10392,6 +10832,7 @@ references:
     - year: 2020
       month: 7
       day: 31
+  citation-key: wikipedia:2020pequena
   container-title: Wikipédia, a enciclopédia livre
   issued:
     - year: 2020
@@ -10412,6 +10853,7 @@ references:
   author:
     - family: WIlson
       given: Thomas H.
+  citation-key: wilson:1982spatial28
   container-title: Paideuma
   ISSN: 0078-7809
   issued:
@@ -10449,6 +10891,7 @@ references:
   author:
     - family: Windmuller-Luna
       given: Kristen
+  citation-key: windmuller-luna:2015guerra2
   container-title: Journal of Jesuit Studies
   DOI: 10.1163/22141332-00202004
   ISSN: 2214-1324, 2214-1332
@@ -10474,6 +10917,7 @@ references:
   author:
     - family: Wittkower
       given: Rudolf
+  citation-key: wittkower:1962architectural
   event-place: London
   issued:
     - year: 1962
@@ -10488,6 +10932,7 @@ references:
   author:
     - family: Wittkower
       given: Rudolf
+  citation-key: wittkower:1968arquitectura
   event-place: Buenos Aires
   issued:
     - year: 1968
@@ -10502,6 +10947,7 @@ references:
   author:
     - family: Wittkower
       given: Rudolf
+  citation-key: wittkower:1973art
   event-place: Harmondsworth, Middlesex
   issued:
     - year: 1973
@@ -10517,6 +10963,7 @@ references:
   author:
     - family: Wittkower
       given: Rudolf
+  citation-key: wittkower:1974gothic
   event-place: New York
   ISBN: 978-0-8076-0704-6
   issued:
@@ -10533,6 +10980,7 @@ references:
   author:
     - family: Wölfflin
       given: Heinrich
+  citation-key: wolfflin:1989renascenca
   event-place: São Paulo
   issued:
     - year: 1989
@@ -10554,6 +11002,7 @@ references:
   author:
     - family: Wölfflin
       given: Heinrich
+  citation-key: wolfflin:2006conceitos
   event-place: São Paulo
   ISBN: 978-85-336-1202-0
   issued:
@@ -10567,7 +11016,7 @@ references:
     estilos na arte mais recente
   title-short: Conceitos fundamentais da história da arte
   translator:
-    - family: Azenha Jr
+    - family: Azenha Jr.
       given: João
   type: book
 
@@ -10575,6 +11024,7 @@ references:
   author:
     - family: Wong
       given: Young-tsu
+  citation-key: wong:2016paradise
   collection-title: China Academy Library
   event-place: Singapore
   ISBN: 978-981-10-1880-0
@@ -10596,6 +11046,7 @@ references:
   author:
     - family: Woo
       given: Hector
+  citation-key: woo:2012suzhou
   issued:
     - year: 2012
       month: 4
@@ -10622,6 +11073,7 @@ references:
   author:
     - family: Wynne-Jones
       given: Stephanie
+  citation-key: wynne-jones:2007creating81
   container-title: Antiquity
   container-title-short: Antiquity
   DOI: 10.1017/S0003598X00095247
@@ -10666,6 +11118,7 @@ references:
   author:
     - family: Wynne-Jones
       given: Stephanie
+  citation-key: wynne-jones:2013public32
   container-title: Journal of Anthropological Archaeology
   container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2013.05.003
@@ -10693,6 +11146,7 @@ references:
       given: Stephanie
     - family: Fleisher
       given: Jeffrey
+  citation-key: wynne-jones:2014swahili
   container-title: Making Ancient Cities
   DOI: 10.1017/CBO9781107110274.005
   editor:
@@ -10722,6 +11176,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Zairon
+  citation-key: zairon:2018facade
   issued:
     - literal: 2 de outubro de 2018, 10:02:44
   language: en
@@ -10757,6 +11212,7 @@ references:
   author:
     - family: Zolberg
       given: Vera
+  citation-key: zolberg:2013remembering
   container-title: Public Seminar
   issued:
     - year: 2013
@@ -10776,6 +11232,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Zossolino
+  citation-key: zossolino:2015suzhou
   issued:
     - literal: 24 de setembro de 2015, 13:02:35
   language: en
@@ -10789,6 +11246,7 @@ references:
   author:
     - family: Zucker
       given: Paul
+  citation-key: zucker:1970town
   event-place: Cambridge, Mass.
   issued:
     - year: 1970
@@ -10807,6 +11265,7 @@ references:
   author:
     - family: Zupnick
       given: I. L.
+  citation-key: zupnick:1953aesthetics35
   container-title: The Art Bulletin
   container-title-short: The Art Bulletin
   DOI: 10.2307/3047511
@@ -10832,6 +11291,7 @@ references:
   author:
     - family: Zupnick
       given: Irving L.
+  citation-key: zupnick:21iconology19
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/428069
   ISSN: '00218529'
