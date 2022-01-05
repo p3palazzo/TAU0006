@@ -1,6 +1,6 @@
 ---
 title   : "Cidade clássica"
-subtitle: "Linguagens clássicas da arquitetura"
+subtitle: "Gramática, vocabulário, dialetos"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-03-15

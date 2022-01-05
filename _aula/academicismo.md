@@ -1,6 +1,6 @@
 ---
 title   : "Arquitetura acadêmica"
-subtitle: "Linguagens clássicas da arquitetura"
+subtitle: "Gramática, vocabulário, dialetos"
 item    : V
 author  : Pedro P. Palazzo
 date    : 2022-03-22

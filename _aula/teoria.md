@@ -1,6 +1,6 @@
 ---
 title   : "Teoria do classicismo"
-subtitle: "Linguagens clássicas da arquitetura"
+subtitle: "Gramática, vocabulário, dialetos"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-02-22

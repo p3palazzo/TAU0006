@@ -1,6 +1,6 @@
 ---
 title   : "Clássico Anticlássico"
-subtitle: "Linguagens clássicas da arquitetura"
+subtitle: "Gramática, vocabulário, dialetos"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-03-08

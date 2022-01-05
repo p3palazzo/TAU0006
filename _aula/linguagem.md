@@ -1,6 +1,6 @@
 ---
 title   : "Linguagem clássica"
-subtitle: "Linguagens clássicas da arquitetura"
+subtitle: "Gramática, vocabulário, dialetos"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-02-15
