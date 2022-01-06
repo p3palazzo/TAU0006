@@ -28,10 +28,10 @@ centralização administrativa do poder real.
 
 ![Aigas-Mòrtas, França, 1248. @circhirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide .stretch}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_a%C3%A9rienne_de_Monpazier.jpg/1280px-Vue_a%C3%A9rienne_de_Monpazier.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg"}
 
 :::notes
-![Monpazier, possessões inglesas na França, 1285. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_a%C3%A9rienne_de_Monpazier.jpg/1280px-Vue_a%C3%A9rienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
+![Monpazier, possessões inglesas na França, 1285. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
 :::
 
 ## Ensaios ideais ##

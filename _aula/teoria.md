@@ -258,7 +258,7 @@ centros de difusão do pensamento arquitetônico.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin%2C_1924.png){#fig:woelfflin-1924 width=100%}
+![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png){#fig:woelfflin-1924 width=100%}
 :::
 ::: {.column width=50%}
 ![Giulio Carlo Argan (1909--1992). [Artribune][]](https://cdn07.artribune.com/wp-content/uploads/2015/09/Giulio-Carlo-Argan-negli-anni-80.jpg){#fig:argan-senato width=100%}
@@ -286,7 +286,7 @@ https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthis
 
 * * * *
 
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia .stretch}
+![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze,_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia .stretch}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Composição quase plana.
@@ -325,7 +325,7 @@ Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
 espírito prático à visão do classicismo como sistema global.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l%27architecture%2C_sur_les_cincq_manieres_d%27edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l%27architecture%2C_sur_les_cincq_manieres_d%27edifices_MET_DP291981.jpg){#fig:serlio-orders .stretch}
+![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg){#fig:serlio-orders .stretch}
 
 * * * *
 
@@ -336,7 +336,7 @@ a caracterização dos diferentes tipos de cenários segundo o caráter da
 peça.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio%2C_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio%2C_69.jpg){#fig:serlio-tragica .stretch}
+![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg){#fig:serlio-tragica .stretch}
 
 * * * *
 
@@ -414,7 +414,7 @@ Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
 batistério de Florença ([@fig:battistero-nord]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG){#fig:battistero-nord .stretch}
+![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG){#fig:battistero-nord .stretch}
 
 * * * *
 
@@ -447,13 +447,13 @@ A ordem colossal é usada desde então como estratégia de unificação da
 fachada, uma solução especialmente popular em Roma.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg){#fig:zecca .stretch}
+![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca .stretch}
 
 * * * *
 
-![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg/1280px-Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg){#fig:capitolium .stretch}
+![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_%28musée_de_la_civilisation_romaine,_Rome%29_%285911810278%29.jpg/1280px-Maquette_de_Rome_%28musée_de_la_civilisation_romaine,_Rome%29_%285911810278%29.jpg){#fig:capitolium .stretch}
 
-[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(mus%C3%A9e_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
+[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
 
 * * * *
 
@@ -800,7 +800,7 @@ Villiers-Stuart, Constance Mary. *Gardens of the Great Mughals.* London: A. and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1280px-Samarcanda%2C_Gur-e_Amir_19.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1280px-Samarcanda,_Gur-e_Amir_19.jpg"}
 
 O império Mogol é um estado governado por uma dinastia originária da
 Ásia central, instalado no norte da Índia, e usando a cultura persa para
@@ -811,7 +811,7 @@ central muçulmana. Ela tem o seu ponto alto no gur e-Amir, a tumba de
 Tamerlão, construída em Samarcanda no início do século [XV]{.smallcaps}
 ([@fig:gur-e-amir]).
 
-![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1024px-Samarcanda%2C_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
+![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1024px-Samarcanda,_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
 
 ## {data-background-image="https://images-production.gardenvisit.com/uploads/images/12013/bagh_e_babur_kabul_original.jpg"}
 
@@ -923,7 +923,7 @@ solução urbanística de Isfahan.
 ![Planta de conjunto do complexo paisagístico do Taj Mahal. @mcginnly:2007taj](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png){#fig:taj-site}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na outra margem do rio, foram descobertos vestígios do Mehtab bāgh
@@ -932,7 +932,7 @@ Mahal ([@fig:taj-watercolor]). Esse jardim sugere que o complexo se
 estendia para além do rio; o Taj Mahal seria, literalmente, refletido
 num espelho d'água octogonal, tornando a composição completa.
 
-![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
+![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"}
@@ -956,7 +956,7 @@ Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
 
 ## Colonização britânica ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Originalmente o jardim continha uma enorme variedade de plantas e
@@ -966,7 +966,7 @@ britânico no século [XIX]{.smallcaps}, não só o jardim do Taj Mahal, mas de 
 outros jardins mogóis foram transformados em extensos gramados
 ([@fig:taj-lawn]).
 
-![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg/997px-Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg){#fig:taj-1890}
+![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg/997px-Taj_Mahal,_Agra,_India,_ca._1900.jpg){#fig:taj-1890}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1280px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg"}
@@ -975,7 +975,7 @@ outros jardins mogóis foram transformados em extensos gramados
 ![Vista do Taj Mahal desde o sudoeste. @waikhom:2012view](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg){#fig:taj-lawn}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1280px-Mughal_Garden_Delhi%2C_India_08.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1280px-Mughal_Garden_Delhi,_India_08.jpg"}
 
 Apesar disso, a presença britânica na Índia também resultou no início da
 pesquisa histórica e arqueológica da região. Um dos produtos mais
@@ -987,7 +987,7 @@ coloniais britânicos na Índia, o "jardim mogol" do antigo palácio dos
 vice-reis e atual palácio presidencial, em Nova Delhi
 ([@fig:mughal-gardens; @fig:stoughton]).
 
-![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1024px-Mughal_Garden_Delhi%2C_India_08.jpg){#fig:mughal-gardens}
+![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1024px-Mughal_Garden_Delhi,_India_08.jpg){#fig:mughal-gardens}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg"}
 

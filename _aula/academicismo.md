@@ -279,7 +279,7 @@ inclusive as vistas de uma margem para a outra do rio.
 
 [Ballon (1999)]: https://commons.wikimedia.org/wiki/File:Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg
 
-## {.unlisted}
+##
 
 A situação de Le Vau perante a administração real começa a se complicar
 em 1663, com duas dificuldades simultâneas: a resolução da fachada leste
@@ -497,7 +497,7 @@ definição da profissão de arquiteto.
 
 ![Claude Perrault, ordenamento das cinco ordens de arquitetura, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:ordonnance}
 
-## {.unlisted}
+##
 
 - Renascimento  Conceito de "artes do desenho"
 - Poussin vs. Rubens: Roger de Piles

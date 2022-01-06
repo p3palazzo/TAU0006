@@ -101,7 +101,7 @@ tendem a crescer ao longo dos séculos, chegando no seu auge na cidade de
 Chang'an, capital da dinastia Tang nos séculos VI a X d.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Plano urbanístico de Chang'an durante a dinastia Tang](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang%27an_Tang_schema.svg/762px-Chang%27an_Tang_schema.svg.png){#fig:changan .stretch}
+![Plano urbanístico de Chang'an durante a dinastia Tang](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan .stretch}
 
 * * * *
 
@@ -115,7 +115,7 @@ Yongle manda restaurar as muralhas e o centro administrativo de Pequim
 fronteira norte da China.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg/522px-Forbidden_City_1881%2C1210%2C0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
+![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
 
 ## {data-background-image="https://www.integra.unb.br/s/Ry4GBKrd6Jtzj7n/preview"}
 
@@ -151,7 +151,7 @@ dos rios e das principais estradas que ligam a capital ao restante do
 império.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_P%C3%A9kin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
+![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_Pékin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_Pékin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg"}
 
@@ -270,7 +270,7 @@ geralmente ocupando a outra extremidade.
 
 <!--_,-->
 
-![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
+![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .full}
 
 No entanto, mais do que a forma desse espaço, o que importa na cidade
 romana e medieval é o seu papel de centro das decisões políticas. A
@@ -332,7 +332,7 @@ praça, contribuem para organização regular do espaço.
 
 <!--_,-->
 
-![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .fullwidth}
+![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .full}
 
 Em qualquer caso, no século [XV]{.smallcaps} a pintura em perspectiva no centro da
 Itália começa a propor não só uma sucessão de espaços contidos e
@@ -356,11 +356,11 @@ construção dominante no centro da composição. O espaço é,
 principalmente, um recurso para ordenar a disposição desses edifícios,
 auxiliado pela regularidade na paginação do piso sempre pavimentado.
 
-![Giuliano da Sangallo (atribuição), Cidade ideal. Tábua de Baltimore, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg/1280px-Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
+![Giuliano da Sangallo (atribuição), Cidade ideal. Tábua de Baltimore, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg/1280px-Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
-![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin .fullwidth}
+![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin .full}
 
 <!--_,-->
 
@@ -392,7 +392,7 @@ primeiro, domina e determina a forma da edificação.
 
 ![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .stretch}
 
-## {.unlisted}
+##
 
 Essa ideologia do projeto do espaço confere à praça um novo significado
 político e simbólico. A praça é entendida como uma composição completa
@@ -431,11 +431,11 @@ ducal de Vigevano, remanescente de um antigo hipódromo romano, todos os
 edifícios --- mesmo os mais importantes, como a catedral --- se submetem
 à forma do espaço.
 
-![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .fullwidth}
+![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .full}
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-031-vigevano-veduta/preview"}
 
-![Praça ducal, Vigevano](https://www.integra.unb.br/s/tau0006-031-vigevano-veduta/preview){#fig:vigevano-plan .fullwidth}
+![Praça ducal, Vigevano](https://www.integra.unb.br/s/tau0006-031-vigevano-veduta/preview){#fig:vigevano-plan .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"}
 
@@ -453,7 +453,7 @@ suficiente.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"}
 
-![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .fullwidth}
+![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .full}
 
 Muitos desses espaços urbanos adquirem a sua forma ao longo de décadas
 ou mesmo séculos. É o caso da praça da SS. Annunziata, em Florença. A
@@ -497,7 +497,7 @@ Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
 projetos políticos e ideológicos que visavam a reinstituir princípios
 teóricos da arquitetura e urbanísticos.
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting,_The_Reception_of_the_Ambassadors_in_Damascus',_1511,_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting,_The_Reception_of_the_Ambassadors_in_Damascus',_1511,_the_Louvre.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -517,7 +517,7 @@ Renascimento em Veneza é justamente esse: uma cidade sem espaço para
 realizar os projetos ideais que as suas editoras publicam, mas que se
 renova pouco a pouco com esse ideal no horizonte.
 
-![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg){#fig:embaixadores .stretch}
+![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting,_The_Reception_of_the_Ambassadors_in_Damascus',_1511,_the_Louvre.jpg/1280px-Anonymous_Venetian_orientalist_painting,_The_Reception_of_the_Ambassadors_in_Damascus',_1511,_the_Louvre.jpg){#fig:embaixadores .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Parcelamento urbano europeu
@@ -554,7 +554,7 @@ adensamento em Veneza segue o mesmo padrão.
 ![Bernardo e Gaetano Combatti, planta de Veneza [@combatti:1847nuova]](https://www.integra.unb.br/s/bz5TSb7o8PYmGZp/preview){#fig:combatti .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg" data-transition="fade-out"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica,_by_Canaletto,_1730._Fogg_Art_Museum,_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica,_by_Canaletto,_1730._Fogg_Art_Museum,_Cambridge.jpg" data-transition="fade-out"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Edmund Bacon, o urbanismo de Veneza estabelece um esquema de
@@ -565,13 +565,13 @@ importância simbólica dos diferentes espaços, mas os *campi* também
 refletem, num registro mais modesto, a dignidade cívica das grandes
 praças ([@fig:canaletto1730; @fig:querena1878]).
 
-![Canaletto, Praça de São Marcos com a Basílica, 1730](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica%2C_by_Canaletto%2C_1730._Fogg_Art_Museum%2C_Cambridge.jpg){#fig:canaletto1730}
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Piazza_San_Marco_with_the_Basilica,_by_Canaletto,_1730._Fogg_Art_Museum,_Cambridge.jpg/1280px-Piazza_San_Marco_with_the_Basilica,_by_Canaletto,_1730._Fogg_Art_Museum,_Cambridge.jpg){#fig:canaletto1730}
 
-![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg){#fig:querena1878}
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo,_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo,_Venice.jpg){#fig:querena1878}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo%2C_Venice.jpg" data-transition="fade-in"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Campo_di_San_Giovanni_e_Paolo,_Venice.jpg/1280px-Campo_di_San_Giovanni_e_Paolo,_Venice.jpg" data-transition="fade-in"}
 
 Tipologia e historicidade
 -------------------------

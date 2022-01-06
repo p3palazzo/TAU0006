@@ -390,7 +390,7 @@ diversificação e a especialização desse mercado editorial.
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-1245px-thumbnail.pdf.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-1245px-thumbnail.pdf.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O primeiro manual de ofício publicado nos Estados Unidos é o *Country
@@ -403,7 +403,7 @@ Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
 ![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher .stretch width=100%}
 :::
 ::: {.column width=50%}
-![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -420,10 +420,10 @@ que aqueles que trabalham na Grã-Bretanha.
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:cba-plates}
 ::: {.column width=50%}
-![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 .stretch width=100%}
+![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 .stretch width=100%}
 :::
 ::: {.column width=50%}
-![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 .stretch width=100%}
+![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 .stretch width=100%}
 :::
 [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -440,10 +440,10 @@ generalista ([@Fig:abc]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:abc}
 ::: {.column width=50%}
-![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder%27s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 .stretch width=100%}
+![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 .stretch width=100%}
 :::
 ::: {.column width=50%}
-![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder%27s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 .stretch width=100%}
+![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 .stretch width=100%}
 :::
 Asher [Benjamin, *The American Builder's Companion* (1806)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -510,13 +510,13 @@ eles são usados desse modo por estudantes e arquitetos!
 
 [Dietterlin, *Architectura*, frontispício do v. 3 (1598)]: https://commons.wikimedia.org/wiki/File:Dietterlin_Architectura_frontispice_3e_livre.jpg
 
-[pr. 74]: https://commons.wikimedia.org/wiki/File:Design_for_an_Architectural_Structure_with_a_Hunting_Theme_,_Plate_74_from_Dietterlin%27s_Architettura_MET_DP828567.jpg
+[pr. 74]: https://commons.wikimedia.org/wiki/File:Design_for_an_Architectural_Structure_with_a_Hunting_Theme_,_Plate_74_from_Dietterlin's_Architettura_MET_DP828567.jpg
 
 [pr. 77]: https://commons.wikimedia.org/wiki/File:Ornament_plate_from_Architettura_MET_DP828568.jpg
 
 [pr. 82]: https://commons.wikimedia.org/wiki/File:Architectura_von_Ausstheilung_-_Symmetria_und_Proportion_der_F%C3%BCnff_Seulen_MET_DP236674.jpg
 
-[pr. 85]: https://commons.wikimedia.org/wiki/File:Design_for_a_Lavabo,_Plate_85_from_Dietterlin%27s_Architectura_MET_DP828570.jpg
+[pr. 85]: https://commons.wikimedia.org/wiki/File:Design_for_a_Lavabo,_Plate_85_from_Dietterlin's_Architectura_MET_DP828570.jpg
 
 [Py4nf (2011)]: https://commons.wikimedia.org/wiki/File:Chafariz_dos_contos_01.jpg
 
@@ -534,9 +534,9 @@ eles são usados desse modo por estudantes e arquitetos!
 
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)]: https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_33125001119193).pdf
 
-[Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)]: https://commons.wikimedia.org/wiki/File:A_reprint_of_The_country_builder%27s_assistant,_The_American_builder%27s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf
+[Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)]: https://commons.wikimedia.org/wiki/File:A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf
 
-[Benjamin, *The American Builder's Companion* (1806)]: https://commons.wikimedia.org/wiki/File:The_American_builder%27s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf
+[Benjamin, *The American Builder's Companion* (1806)]: https://commons.wikimedia.org/wiki/File:The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf
 
 [TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013]: https://www.tsw-design.com/portfolio-items/historic-preservation-design-guidelines/
 

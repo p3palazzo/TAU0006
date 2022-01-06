@@ -512,7 +512,7 @@ de madeira --- geralmente 6 pés ou 1,95 metro.
 ![Vista e planta da cidade de Yeddo no Japão, anterior a 1858](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg){#fig:yeddo .stretch}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg/1230px-Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg/1230px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O eventual crescimento da vila (*machi*) leva à formação de uma cidade
@@ -521,7 +521,7 @@ comunitária de cada bairro é um fator determinante na coesão social das
 classes mercantes e artesãs, e um elemento de resistência política ou
 cultural frequente contra a centralização do poder.
 
-![Planta de Edo. @hayashi:1680zoho](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg/923px-Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg){#fig:edo-1680 .stretch}
+![Planta de Edo. @hayashi:1680zoho](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg){#fig:edo-1680 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/1280px-1893_Tokyo_map.jpg"}

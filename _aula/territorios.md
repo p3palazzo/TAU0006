@@ -155,7 +155,7 @@ eficiência e igualdade. Esse problema vai ser discutido em círculos
 filosóficos e políticos, como o dos autores e editores da
 *Enciclopédia*, do qual o próprio Trudaine faz parte.
 
-![Folha de rosto da primeira edição da [Enciclopédia (1752)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/470px-Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg){#fig:encyclop-front}
+![Folha de rosto da primeira edição da [Enciclopédia (1752)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/470px-Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg){#fig:encyclop-front}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cinco rotas de Edo ##
@@ -337,7 +337,7 @@ só os mais pobres viajavam a pé.
 
 [Administração fiscal do reino (1732)]: https://commons.wikimedia.org/wiki/File:Carte_des_Traites_1732.png
 
-[Enciclopédia (1752)]: https://commons.wikimedia.org/wiki/File:Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg
+[Enciclopédia (1752)]: https://commons.wikimedia.org/wiki/File:Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg
 
 [Nagakubo (1775)]: https://commons.wikimedia.org/wiki/File:Revised_route_map_of_Japan_(3)_(14555820171).jpg
 

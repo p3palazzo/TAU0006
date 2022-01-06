@@ -88,7 +88,7 @@ criação humana na ordem do mundo ([@fig:veduta1495]).
 ![[Atribuído a Giuliano da Sangallo
 ](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
 Perspectiva arquitetônica com porto, c. 1495
-](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .full}
 
 <!--_,-->
 
@@ -107,11 +107,11 @@ forma no desenho e na pintura se tornam centrais na China da dinastia
 Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
 partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
 
-![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .full}
 
 <!--_,-->
 
@@ -203,7 +203,7 @@ regionais ou nacionais no século [XVIII]{.smallcaps}. No início desse processo
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
 literalmente, num só golpe de vista ([@fig:carnevale]).
 
-![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
 
@@ -222,7 +222,7 @@ início do [XVII]{.smallcaps}, podem celebrar o fato efêmero da fragmentação 
 central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
 
-![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .full}
 
 <!--Câmera-->
 Por tudo isso, o espaço urbano na virada do século [XIV]{.smallcaps} é o ponto de

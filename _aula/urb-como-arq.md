@@ -386,7 +386,7 @@ uma terraplanagem concebida para expressar o contraste entre montanhas e
 pintura de paisagem.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg/1280px-2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg/1280px-2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Usando as colinas e os tanques de água como base, o jardim chinês é
@@ -395,7 +395,7 @@ com elementos edificados. Essas construções podem ser tanto pavilhões
 habitáveis quanto muros com janelas para enquadrar vistas, ou ainda
 miniaturas arquitetônicas ([@fig:zhuozheng-cozy]).
 
-![Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513. @zossolino:2015suzhou](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg/1024px-2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg){#fig:zhuozheng-cozy}
+![Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513. @zossolino:2015suzhou](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg/1024px-2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg){#fig:zhuozheng-cozy}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Jardins urbanos ##
@@ -568,14 +568,14 @@ usando a vegetação para estabilizar o solo.
 ![Wang Xianchen, ponte, Zhuozhengyuan, Suzhou, 1513. @tibaldi:2016suzhou](https://www.integra.unb.br/s/tau6-062-zhuozheng-qiao/preview){#fig:zhuozheng-qiao}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG/1280px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_34.JPG/1280px-Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_34.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As passarelas em ziguezague geram um percurso lento e contemplativo, que
 alterna entre episódios de vistas restritas e amplas
 ([@fig:zhuozheng-path]).
 
-![Wang Xianchen, passarela, Zhuozhengyuan, Suzhou, 1513. @anotherbeliever:2015humble34](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG/1024px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG){#fig:zhuozheng-path}
+![Wang Xianchen, passarela, Zhuozhengyuan, Suzhou, 1513. @anotherbeliever:2015humble34](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_34.JPG/1024px-Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_34.JPG){#fig:zhuozheng-path}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.chinatoptrip.com/wp-content/uploads/2018/12/humble-administrator-garden-in-winter-5.jpg"}
@@ -590,7 +590,7 @@ vistas ([@fig:zhuozheng-qiang]).
 ![Zhuozhengyuan no inverno](https://www.chinatoptrip.com/wp-content/uploads/2018/12/humble-administrator-garden-in-winter-5.jpg){#fig:zhuozheng-qiang}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg/1280px-20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na dinastia Qing, os muros de contenção que sustentam caminhos e
@@ -598,39 +598,39 @@ pavilhões, e as rochas ornamentais do paisagismo, são usados para
 delimitar o contorno dos lagos e reduzir a erosão das margens
 ([@fig:zhuozheng-corner]).
 
-![Pavilhão e pórtico no Zhuozhengyuan. @halun:2009humble](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg/1024px-20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg){#fig:zhuozheng-corner}
+![Pavilhão e pórtico no Zhuozhengyuan. @halun:2009humble](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg/1024px-20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg){#fig:zhuozheng-corner}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Paisagens emprestadas ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O "empréstimo" de vistas é o princípio central do paisagismo chinês. Ele
 articula o microcosmo do jardim com o mundo exterior, sem comprometer a
 privacidade do espaço interior ([@fig:zhuozheng-se]).
 
-![Zhuozhengyuan, vista com a residência ao fundo. @mcgill:2011humble](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Humble_Administrator%27s_Garden_7193_%286399187813%29.jpg/1024px-Humble_Administrator%27s_Garden_7193_%286399187813%29.jpg){#fig:zhuozheng-se}
+![Zhuozhengyuan, vista com a residência ao fundo. @mcgill:2011humble](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Humble_Administrator's_Garden_7193_%286399187813%29.jpg/1024px-Humble_Administrator's_Garden_7193_%286399187813%29.jpg){#fig:zhuozheng-se}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O "empréstimo" usa vistas pitorescas próximas ou distantes para
 enriquecer a experiência do jardim e ultrapassar os limites do terreno
 disponível ([@fig:zhuozheng-jie]).
 
-![Vista do pagode Beisi desde o Zhuozhengyuan. @king:2017view](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/960px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg){#fig:zhuozheng-jie}
+![Vista do pagode Beisi desde o Zhuozhengyuan. @king:2017view](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/960px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg){#fig:zhuozheng-jie}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG/1280px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_30.JPG/1280px-Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_30.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Janelas com treliçados em madeira ou pedra estão entre os mecanismos
 mais comuns para tomar vistas "emprestadas" do entorno imediato, ou
 mesmo do próprio jardim ([@fig:zhuozheng-win]).
 
-![Janela treliçada, Zhuozhengyuan. @anotherbeliever:2015humble30](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG/1024px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG){#fig:zhuozheng-win}
+![Janela treliçada, Zhuozhengyuan. @anotherbeliever:2015humble30](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_30.JPG/1024px-Humble_Administrator's_Garden_in_Suzhou,_China_%282015%29_-_30.JPG){#fig:zhuozheng-win}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://static.dezeen.com/uploads/2017/03/eight-tenths-garden-wutopia-lab-architecture-china-shanghai-museums-cultural_dezeen_2364_col_5-1704x1136.jpg"}
@@ -645,23 +645,23 @@ escolhidas do interior e do exterior ([@fig:wutopia]).
 
 ## Acomodação das estruturas ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg/1229px-Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg/1229px-Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os vários salões funcionais --- escritórios e salas de jantar --- estão
 dispostos de modo a oferecer pousos em algumas das vistas mais
 pitorescas ([@fig:zhuozheng-mtnview]).
 
-![Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. @king:2017mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg){#fig:zhuozheng-mtnview}
+![Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. @king:2017mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg){#fig:zhuozheng-mtnview}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas edículas têm um ou mais ambientes internos, mobiliados para
 meditação, escrita, pintura, refeições ou chá ([@fig:zhuozheng-int]).
 
-![Zhuozhengyuan, salão dos bons modos. @king:2017hall](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1024px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg){#fig:zhuozheng-int}
+![Zhuozhengyuan, salão dos bons modos. @king:2017hall](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg/1024px-Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg){#fig:zhuozheng-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Jardins imperiais ##

@@ -638,7 +638,7 @@ Essa preferência pela superfície quase plana faz parte da busca dos
 arquitetos do século [XV]{.smallcaps} pela articulação clara de volumes espaciais com
 geometrias primárias.
 
-![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
+![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Arquitetura clássica II › Espaço #
@@ -1035,7 +1035,7 @@ lateral da nave.
 
 ::::::::::::::::::::::::::::::::::::::::: {.columns #fig:sandrea-lesene}
 ::: {.column width=50%}
-![fachada](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png/747px-Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png){#fig:sandrea-leseneA}
+![fachada](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant'_Andrea,_Mantua_%28Character_of_Renaissance_Architecture%29.png/747px-Fa%C3%A7ade_of_Sant'_Andrea,_Mantua_%28Character_of_Renaissance_Architecture%29.png){#fig:sandrea-leseneA}
 :::
 ::: {.column width=50%}
 ![nave [@mykaul:2007basilica]](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:sandrea-leseneB}
@@ -1044,20 +1044,20 @@ lateral da nave.
 Leon Battista Alberti, nave da igreja de Sant'Andrea, Mântua, 1470--1790
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma,_1979%29_-_BEIC_6363891.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Francesco di Giorgio traduz a composição do arco triunfal para fachadas
 com janelas. A superfície contínua da parede começa a perder
 protagonismo para o ritmo das pilastras emparelhadas e das janelas.
 
-![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513. @monti:1979palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg){#fig:cancelleria}
+![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513. @monti:1979palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma,_1979%29_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_%28Roma,_1979%29_-_BEIC_6363891.jpg){#fig:cancelleria}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500. @pelagalli:2010roma](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg){#fig:torlonia}
+![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500. @pelagalli:2010roma](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg){#fig:torlonia}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-051-caprini/preview"}
@@ -1132,12 +1132,12 @@ Ordem colossal como solução última de unificação da fachada.
 ![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](https://www.integra.unb.br/s/tau6-051-tarugi/preview){#fig:tarugi-colossal}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas isto é uma história para depois...
 
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/849px-Palazzo_d%27Antica_Zecca.jpg){#fig:zecca}
+![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/849px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Quinas reentrantes ##
@@ -1146,29 +1146,29 @@ Mas isto é uma história para depois...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420--1429. @monti:1975basilica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia width=100%}
+![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420--1429. @monti:1975basilica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze,_1975%29_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_%28Firenze,_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia width=100%}
 :::
 ::: {.column width=50%}
 ![Cesare Cesariano, esquema de templo *in antis* da tradução do tratado *Da arquitetura* de Vitrúvio, 1521](https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview){#fig:cesariano-in-antis width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita%2C_cappella_capponi_11.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita,_cappella_capponi_11.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. @sailko:2008santa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita%2C_cappella_capponi_11.JPG/576px-Santa_felicita%2C_cappella_capponi_11.JPG){#fig:capponi}
+![Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. @sailko:2008santa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita,_cappella_capponi_11.JPG/576px-Santa_felicita,_cappella_capponi_11.JPG){#fig:capponi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/1280px-Chiesa_delle_carceri%2C_int.%2C_01.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/1280px-Chiesa_delle_carceri,_int.,_01.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. @sailko:2013santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/640px-Chiesa_delle_carceri%2C_int.%2C_01.JPG){#fig:carceri-int}
+![Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. @sailko:2013santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/640px-Chiesa_delle_carceri,_int.,_01.JPG){#fig:carceri-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/1280px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/1280px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492--1495. @sailko:2017santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/640px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg){#fig:carceri-fregio}
+![Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492--1495. @sailko:2017santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/640px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg){#fig:carceri-fregio}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview"}

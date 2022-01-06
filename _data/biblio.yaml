@@ -3180,6 +3180,44 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:PersianGarden.png
 
+- id: drone:2021lamu
+  abstract: >-
+    New areal drone footage of Lamu Island on the coast of Kenya. All footage is
+    owned by me. 
+
+
+    If you would like to use any of the material, please credit me in the
+    description of your video. Example - Drone footage by Drone Zone on youtube
+    - https://www.youtube.com/watch?v=6w4o-...
+
+
+    Music: 
+
+    Track: Cinematic Ethnic [Eastern Music] by MOKKA / Fly Away
+    https://youtu.be/OAPK_KQFIIY
+
+    Music provided by "MokkaMusic" channel and https://inaudio.org
+
+
+    Thank you so much for watching! If you have any requests in the SoCal area,
+    let me know.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 6
+  citation-key: drone:2021lamu
+  dimensions: '5:37'
+  director:
+    - literal: Drone Zone
+  issued:
+    - year: 2021
+      month: 9
+      day: 15
+  source: YouTube
+  title: Lamu Island Kenya Areal Drone Shots - New 2021!
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=6w4o-OPZnlQ
+
 - id: dunzhen:1982traditional10
   accessed:
     - year: 2020
