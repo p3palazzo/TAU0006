@@ -5,16 +5,18 @@ item    : II
 author  : Pedro P. Palazzo
 date    : 2022-01-25
 toc:
-  - "Cidades ideais: China"
+  - Retorno aos princípios na China
   - Cidade e praça na Europa
   - Campo e canal em Veneza
 leitura: 425, 491--500, Summerson 141--145
+title-slide-attributes:
+  data-background-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg
-  caption: "Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
+  caption: "Giuliano da Sangallo (atribuição). [*Cidade ideal*, c. 1480--84](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)"
   actions:
   - label: Slides
-    url  : /slides/cidades-ideais/
+    url  : "/slides/cidades-ideais/"
 ---
 
 ##
@@ -35,29 +37,33 @@ quantos passos representativos do poder e de um certo ideal de
 regularidade urbana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Cidades ideais: China #
-
-## Retorno aos princípios na China ##
+# Retorno aos princípios na China #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A filosofia política na China toma forma na primeira metade do século V
+A filosofia política na China toma forma na primeira metade do século [V]{.smallcaps} 
 a.C., com a formulação de várias escolas de pensamento como o
 confucianismo e o legalismo, além da organização de procedimentos
 administrativos e de corporações profissionais. Essa filosofia é
 compilada em textos conhecidos como "clássicos" ou "tratados", a partir
-do século III a.C.: uma época de transformações sociais, administrativas
+do século [III]{.smallcaps} a.C.: uma época de transformações sociais, administrativas
 e econômicas, onde a codificação de princípios é vista como um caminho
 rumo à estabilidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Traçados monumentais ## {data-visibility="hidden"}
+
+## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
+
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 (I)][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .align-right}
+
+[Wang Weijen, 2010 (I)]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O pensamento urbanístico na China está intimamente ligado desde o seus
 primórdios a teorização do estado e do tecido social. A mais antiga
 formulação escrita e, provavelmente, gráfica de uma cidade “ideal“ é a
 descrição da cidade real no tratado político intitulado *Ritos da
-dinastia Zhou*, compilado na primeira metade do século III a.C. com base
+dinastia Zhou*, compilado na primeira metade do século [III]{.smallcaps} a.C. com base
 em fontes mais antigas ([@fig:wangcheng]). O modelo descrito nesse
 clássico estipula uma cidade quadrangular, com nove li ou
 aproximadamente 4 km de lado, delimitada por uma muralha que tem um
@@ -69,9 +75,7 @@ situar no centro, interrompendo as duas avenidas centrais, tendo dois
 mercados às suas costas, ao norte, e os templos à sua frente, ao Sul.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. @wang:2010imperial](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .stretch}
-
-* * * *
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O módulo dimensional básico da cidade chinesa é o *li*, uma unidade de
@@ -82,67 +86,76 @@ determina o raio de ação das atividades cotidianas mais simples, como o
 comércio de vizinhança, equipamentos comunitários como lavanderias ou
 locais de culto, e o senso de pertencimento a um bairro, em geral.
 
-Na tipologia da *wangcheng* quadrada com 9 li de extensão e três
+Na tipologia da *wangcheng* quadrada com 9 *li* de extensão e três
 avenidas em cada direção, cada um dos quadrantes delimitados pelas
-avenidas e muralhas teria aproximadamente 800 metros de raio --- o que
+avenidas e muralhas teria aproximadamente 800 metros de raio ([@fig:zh-modulos]) --- o que
 dá 10 minutos a pé, ou o raio de ação que hoje se considera ideal para
 atividades principais, como acesso ao local de trabalho ou ao comércio
 regional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Módulos urbanísticos da cidade ideal chinesa](https://www.integra.unb.br/s/YxMRMzDWa8qixZ6/preview){#fig:zh-modulos .stretch}
+![Módulos urbanísticos da cidade ideal chinesa. Reproduzido em [Wang Weijen, 2010 (I)][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png){#fig:zh-modulos .line}
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png" data-background-size="contain"}
+
+![Plano urbanístico de Chang'an durante a dinastia Tang. Desenho por [Zunkir, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan}
+
+[Zunkir, 2016]: https://commons.wikimedia.org/wiki/File:Chang'an_Tang_schema.svg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na prática, a extensão das cidades varia de acordo com a população e a
 importância política de cada uma. As dimensões das principais cidades
 tendem a crescer ao longo dos séculos, chegando no seu auge na cidade de
-Chang'an, capital da dinastia Tang nos séculos VI a X d.C.
+Chang'an, capital da dinastia Tang nos séculos [VI]{.smallcaps} a
+[X]{.smallcaps} d.C. ([@fig:changan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Plano urbanístico de Chang'an durante a dinastia Tang](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan .stretch}
-
-* * * *
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/forbidden_city_188112100.87.ch_detail_top.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com a retração do domínio mongol em 1368, a dinastia Ming restaura a
 hegemonia política da etnia Han. Essa restauração incentiva uma busca
 por símbolos legitimadores do poder dinástico chinês, e um desses
 símbolos é o paradigma da *wangcheng*. Entre 1403 e 1420, o imperador
-Yongle manda restaurar as muralhas e o centro administrativo de Pequim
+Yongle manda restaurar as muralhas e o centro administrativo de Pequim ([@fig:palace-city-scroll])
 --- a antiga capital dos mongóis e uma posição estratégica na defesa da
 fronteira norte da China.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retrato de um administrador diante do palácio de Pequim. Dinastia Ming, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .stretch}
+![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll}
 
-## {data-background-image="https://www.integra.unb.br/s/Ry4GBKrd6Jtzj7n/preview"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png" data-background-size="contain"}
 
-:::notes
-![Perímetros sucessivos de Pequim](https://www.integra.unb.br/s/Ry4GBKrd6Jtzj7n/preview){#fig:pequim-planos .stretch}
-:::
+![Perímetros sucessivos de Pequim. Reproduzido em [Wang Weijen, 2010 (I)][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png){#fig:pequim-planos .line}
 
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Pequim: Projeto original estabelecido na dinastia Yuan por Liu Bingzhong
+劉秉忠 e dividido em 50 distritos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O restauro de Pequim reduz o perímetro urbano para um retângulo
 organizado segundo a *wangcheng*. O novo perímetro ocupa um terreno de
-defesa mais fácil, mas também responde à redução na população da cidade.
+defesa mais fácil, mas também responde à redução na população da cidade ([@fig:beijing]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pequim. Projeto original estabelecido na dinastia Yuan por Liu Bingzhong 劉秉忠 e dividida em 50 distritos. Perímetro reduzido na dinastia Ming](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing .stretch}
+![Pequim. [Mapa oficial produzido entre 1861 e 1890][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing}
 
-* * * *
+[Mapa oficial produzido entre 1861 e 1890]: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png" data-background-size="contain"}
+
+![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019](https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png){#fig:beijing-module}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tecido urbano é organizado segundo um módulo retangular de,
-aproximadamente, 2 × 1,5 li.
+aproximadamente, 2 × 1,5 li [@steinhardt:2019chinese], ou seja, uma
+proporção de 4:3 --- o que, em música, daria uma quarta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim. @steinhardt:2019chinese](https://www.integra.unb.br/s/qrs6peRrDDpkGY3/preview){#fig:beijing-module .stretch}
-
-* * * *
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1929px-pekin-buache-1752.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao longo do tempo, o crescimento urbano da cidade acontece
@@ -151,30 +164,29 @@ dos rios e das principais estradas que ligam a capital ao restante do
 império.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. @buache:1752plan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_Pékin.by_Philippe_Buache.1752%E5%B9%B4.jpg/965px-%E5%8C%97%E4%BA%AC%E6%9C%80%E6%97%A9%E5%B8%A6%E7%BB%8F%E7%BA%AC%E7%BA%BF%E7%9A%84%E5%9C%B0%E5%9B%BE.Plan_de_Pékin.by_Philippe_Buache.1752%E5%B9%B4.jpg){#fig:buache .stretch}
+![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. Planta por [Philippe Buache, 1752][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg){#fig:buache}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg"}
+[Philippe Buache, 1752]: https://commons.wikimedia.org/wiki/File:北京最早带经纬线的地图.Plan_de_Pékin.by_Philippe_Buache.1752年.jpg
 
-:::notes
-![Tecido urbano consolidado de Pequim](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_%3D_Map_of_Peking._LOC_2006458404.jpg){#fig:peking1914 .stretch}
-:::
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg"}
 
-## {data-background-image="https://www.integra.unb.br/s/zpQXtktKn6KozBY/preview"}
+<!--_-->
 
-:::notes
-![Parcelamento urbano na malha regular](https://www.integra.unb.br/s/zpQXtktKn6KozBY/preview){#fig:zh-malha .stretch}
-:::
+![Tecido urbano consolidado de Pequim. [Mapa publicado em 1914](https://commons.wikimedia.org/wiki/File:Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg){#fig:peking1914}
 
-## {data-background-image="https://www.integra.unb.br/s/HWSwPHQX58LK8mZ/preview"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg" data-background-size="contain"}
 
-:::notes
-![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Hangzhou. @wang:2010imperial2](https://www.integra.unb.br/s/HWSwPHQX58LK8mZ/preview){#fig:hangzhou .stretch}
-:::
+![Parcelamento urbano na malha regular](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha .align-right}
 
-Mercados murados e mercados abertos
------------------------------------
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg"}
 
-* * * *
+![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Hangzhou. Reproduzido em [Wang Weijen, 2010 (II)][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line .full}
+
+[Wang Weijen, 2010 (II)]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-ii.html
+
+## Mercados murados e mercados abertos ## {data-visibility="hidden"}
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como em várias sociedades tradicionais, a filosofia política da China
@@ -471,8 +483,11 @@ anteriores.
 
 # Campo e canal em Veneza #
 
-## Parcelamento do solo e paisagem urbana ##
+## Parcelamento do solo e paisagem urbana ## {data-visibility="hidden"}
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os elementos e objetos da arquitetura têm uma ordem de precedência
 específica. A tipologia edilícia determina os padrões de ocupação do
 espaço urbano e rural: isso porque os tipos de casas usados numa certa
@@ -480,6 +495,7 @@ sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
 de precedência se aplica ao parcelamento originário do solo, por
 exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
 do império Romano, ou nas vilas planejadas da Europa medieval.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
@@ -728,7 +744,9 @@ por um mesmo propósito.
 ![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_%28II%29_009.jpg/1280px-Canaletto_%28II%29_009.jpg){#fig:canaletto-vigna .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Urbanismo europeu e historicidade ##
+## Urbanismo europeu e historicidade ## {data-visibility="hidden"}
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outro modo de interpretar essa coerência urbana emergente é olhar para
