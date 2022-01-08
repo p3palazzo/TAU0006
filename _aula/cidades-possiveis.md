@@ -427,13 +427,13 @@ O desenho urbano inicial da capital Heian (atual Quioto), fundada em
 794, segue não exatamente o tipo do *wangcheng*, mas a sua execução
 modificada na cidade de Chang'an, capital da dinastia Tang chinesa.
 
-![Plano urbanístico de Heian (Quioto), 794. Planta de Mori Kōan, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian .stretch}
+![Plano urbanístico de Heian (Quioto), 794. Planta de Mori Kōan, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Modelo da cidade de Heian (Quioto)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model .stretch}
+![Modelo da cidade de Heian (Quioto)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg"}
@@ -443,10 +443,10 @@ O traçado da nova capital é vasto e nunca chega a ser inteiramente
 preenchido segundo o desenho original, o que causa uma rápida deformação
 da malha viária.
 
-![Deformação na malha urbana de Quioto. @yumoto:1895heian](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto .stretch}
+![Deformação na malha urbana de Quioto. @yumoto:1895heian](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg/566px-Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_(14062488481).jpg/566px-Large_plan_of_Ky%C5%8Dto_(14062488481).jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A diminuição na população urbana durante o período medieval e as
@@ -456,7 +456,7 @@ mais que a metade oeste. Até a sede do poder --- o palácio imperial e,
 na segunda metade do século [XVI]{.smallcaps}, o castelo do xogum --- se desloca do
 eixo central para a parte oriental da cidade.
 
-![Planta de Quioto. @hayashi:1686large](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg/566px-Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg){#fig:kyoto-1686 .stretch}
+![Planta de Quioto. @hayashi:1686large](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_(14062488481).jpg/566px-Large_plan_of_Ky%C5%8Dto_(14062488481).jpg){#fig:kyoto-1686}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif"}
@@ -467,7 +467,7 @@ nobreza ou lotes largos para casas-pátio segundo a tipologia chinesa, é
 gradualmente subdividido. Os lotes estreitos e profundos favorecem a
 construção de casas geminadas, as *machiya*.
 
-![Parcelamento do solo e formação de cortiços em Edo e Quioto](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya .stretch}
+![Parcelamento do solo e formação de cortiços em Edo e Quioto](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg"}
@@ -477,7 +477,7 @@ Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de castelos 
 comerciais e pontos de passagem estratégicos leva ao desenvolvimento do
 paradigma urbano moderno no Japão: a vila de castelo (*jōkamachi*).
 
-![Planta do castelo de Himeji e áreas residenciais dos samurais em 1806](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji .stretch}
+![Planta do castelo de Himeji e áreas residenciais dos samurais em 1806](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -493,7 +493,7 @@ da vila, formando uma semitrama deformada sempre que o terreno o
 permitir. Templos budistas e santuários xintoístas demarcam o perímetro
 do espaço urbano, que nunca é murado [@satoh:2017japanese].
 
-![Esquema de desenvolvimento urbano de Morioka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.1.png){#fig:morioka .stretch}
+![Esquema de desenvolvimento urbano de Morioka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.1.png){#fig:morioka}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -503,16 +503,16 @@ A disposição dos quarteirões segue, em geral, módulos regulares que são
 múltiplos do *ken*, o módulo estrutural vigente na região para as casas
 de madeira --- geralmente 6 pés ou 1,95 metro.
 
-![Esquema de desenvolvimento urbano de Tsuruoka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.2.png){#fig:tsuruoka .stretch}
+![Esquema de desenvolvimento urbano de Tsuruoka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.2.png){#fig:tsuruoka}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg"}
 
 :::notes
-![Vista e planta da cidade de Yeddo no Japão, anterior a 1858](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg){#fig:yeddo .stretch}
+![Vista e planta da cidade de Yeddo no Japão, anterior a 1858](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg){#fig:yeddo}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg/1230px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/1230px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O eventual crescimento da vila (*machi*) leva à formação de uma cidade
@@ -521,7 +521,7 @@ comunitária de cada bairro é um fator determinante na coesão social das
 classes mercantes e artesãs, e um elemento de resistência política ou
 cultural frequente contra a centralização do poder.
 
-![Planta de Edo. @hayashi:1680zoho](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_%2814066153104%29.jpg){#fig:edo-1680 .stretch}
+![Planta de Edo. @hayashi:1680zoho](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg){#fig:edo-1680}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/1280px-1893_Tokyo_map.jpg"}
@@ -531,7 +531,7 @@ Em Edo, a sede dos xoguns de 1603 até 1868, a grande concentração de
 moradias nobres dos *daimyō* e samurais gera demanda por bairros
 comerciais que cercam a cidade administrativa.
 
-![Mapa de Tóquio, 1893](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893 .stretch}
+![Mapa de Tóquio, 1893](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -543,7 +543,7 @@ suficiente para um adensamento no interior do quarteirão. Servidões dão
 acesso a casas e cortiços alinhados na espessura da quadra
 [@hein:2008machi35].
 
-![Adensamento no interior de quarteirões em Edo. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior .stretch}
+![Adensamento no interior de quarteirões em Edo. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -555,7 +555,7 @@ construção ou ala implantada junto à testada tende a aderir às divisas.
 Essa discrepância é um fator de adaptação importante na emergente
 complexidade social e arquitetônica dos séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
 
-![Discrepância entre lotes registrados e edificações efetivamente construídas. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo .stretch}
+![Discrepância entre lotes registrados e edificações efetivamente construídas. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -622,12 +622,12 @@ Ver também:
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
 ::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA height=320px}
+![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA height=320px}
 
 ![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB height=320px}
 :::
 ::: {.column width=50%}
-![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
 :::
 Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -657,7 +657,7 @@ semelhantes às relações que se estabelecem *dentro* de cada sistema
 na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
 
-![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
+![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Adensamento do boma e malha viária ##
@@ -672,7 +672,7 @@ causa a formação dos caminhos. À medida que as comunidades baseadas no
 densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
 
-![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
+![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Delimitação do traçado urbano em Benim ##
@@ -700,10 +700,10 @@ da cidade ([@fig:benin-markets]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=25%}
-![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg/480px-Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg.png){width=100%}
+![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){width=100%}
 :::
 ::: {.column width=75%}
-![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .stretch}
+![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -714,13 +714,13 @@ Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
 pátios eram delimitados por casas de taipa com coberturas muito
 inclinadas.
 
-![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897 .stretch}
+![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Máxima densidade urbana: Kumasi
 -------------------------------
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
@@ -730,7 +730,7 @@ adensada ([@fig:kumasi-plan]) em torno do palácio real
 ([@fig:kumasi-palace]). No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
 
-![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .stretch}
+![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg"}
@@ -740,7 +740,7 @@ Assim como em Benim, o palácio fica na área mais central da cidade.
 Grande parte da malha urbana em volta dele é ocupada por casas da
 família real e da administração do estado.
 
-![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .stretch}
+![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview"}
@@ -751,13 +751,13 @@ um alinhamento contínuo sobre a rua ([@fig:kumasi-frontage]). As casas
 ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
 
-![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage .stretch}
+![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .stretch}
+![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine}
 
 <!--Câmera-->
 Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das

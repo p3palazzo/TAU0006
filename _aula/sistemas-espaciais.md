@@ -184,11 +184,11 @@ gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquit
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi .stretch}
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi}
 :::
 ::: {.column width=50%}
 ![Cinco ordens de arquitetura por Claude Perrault
-](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance .stretch} 
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -212,7 +212,7 @@ panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
 do território ([@fig:versailles-patel]).
 
-![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
+![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 

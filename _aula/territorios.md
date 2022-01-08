@@ -77,7 +77,7 @@ para o escritório da viação em Paris. São os desenhistas desse
 escritório central que executam as pranchas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Folha do Atlas para La Hallière](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Hallière_(28)_Extrait_de_l'_Atlas_de_Trudaine_(XVIII_e_siècle).jpg/1024px-La_Hallière_(28)_Extrait_de_l'_Atlas_de_Trudaine_(XVIII_e_siècle).jpg){#fig:trudaine-lahalliere .stretch}
+![Folha do Atlas para La Hallière](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Hallière_(28)_Extrait_de_l'_Atlas_de_Trudaine_(XVIII_e_siècle).jpg/1024px-La_Hallière_(28)_Extrait_de_l'_Atlas_de_Trudaine_(XVIII_e_siècle).jpg){#fig:trudaine-lahalliere}
 
 ## {data-background-image="https://pictures.abebooks.com/ANTROBERTBERG/18492179495.jpg"}
 
@@ -103,10 +103,10 @@ os feudos dos outros nobres.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Reino franco c. 1030. [Zigeuner (2008a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Map_France_1030-fr.svg/674px-Map_France_1030-fr.svg.png){#fig:francie-1030 .stretch height=680px}
+![Reino franco c. 1030. [Zigeuner (2008a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Map_France_1030-fr.svg/674px-Map_France_1030-fr.svg.png){#fig:francie-1030 height=680px}
 :::
 ::: {.column width=50%}
-![Reino franco c. 1180 [Zigeuner (2008b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Map_France_1180-fr.svg/675px-Map_France_1180-fr.svg.png){#fig:francie-1180 .stretch height=680px}
+![Reino franco c. 1180 [Zigeuner (2008b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Map_France_1180-fr.svg/675px-Map_France_1180-fr.svg.png){#fig:francie-1180 height=680px}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -120,7 +120,7 @@ linhagens. No século [XV]{.smallcaps}, a família real detém a maior parte do
 território do reino da França.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![França c. 1477. [Torikka (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_France_1477-pt.svg/713px-Map_France_1477-pt.svg.png){#fig:france-1477 .stretch}
+![França c. 1477. [Torikka (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_France_1477-pt.svg/713px-Map_France_1477-pt.svg.png){#fig:france-1477}
 
 * * * *
 
@@ -137,10 +137,10 @@ territorial.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Países de estamento (vermelho) e países de eleição (branco) na França do final do Antigo Regime. [Alexandrin (2007)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pays_d'élection.svg/677px-Pays_d'élection.svg.png){#fig:france-election .stretch height=680px}
+![Países de estamento (vermelho) e países de eleição (branco) na França do final do Antigo Regime. [Alexandrin (2007)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pays_d'élection.svg/677px-Pays_d'élection.svg.png){#fig:france-election height=680px}
 :::
 ::: {.column width=50%}
-![Tratados alfandegários da França. [Administração fiscal do reino (1732)][]](https://upload.wikimedia.org/wikipedia/commons/8/8a/Carte_des_Traites_1732.png){#fig:france-traites .stretch height=680px}
+![Tratados alfandegários da França. [Administração fiscal do reino (1732)][]](https://upload.wikimedia.org/wikipedia/commons/8/8a/Carte_des_Traites_1732.png){#fig:france-traites height=680px}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -168,7 +168,7 @@ dos xoguns Tokugawa estabelece um sistema de estradas, mas também de
 normas para o transporte de produtos e para a circulação de pessoas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mapa das províncias do Japão. [Nagakubo (1811)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg/1015px-Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg){#fig:nihon-kaisei .stretch}
+![Mapa das províncias do Japão. [Nagakubo (1811)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg/1015px-Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg){#fig:nihon-kaisei}
 
 <!--,_-->
 
@@ -180,7 +180,7 @@ sistema de cinco estradas para Edo, complementado por uma rota marítima
 e estradas secundárias ([@Fig:gokaido]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gokaidō, rotas marítimas e estradas secundárias. [Bollen (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png/674px-Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png){#fig:gokaido .stretch}
+![Gokaidō, rotas marítimas e estradas secundárias. [Bollen (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png/674px-Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png){#fig:gokaido}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/79/Shitamachi.jpg"}
 
@@ -189,7 +189,7 @@ O objetivo desse sistema era levar tributos, mercadorias e pessoas das
 províncias até Edo ([@Fig:edo-hiroshige]), a sede do governo central, de
 modo eficiente mas também controlado.
 
-![Vista de Edo por [Utagawa Hiroshige (1858)][]](https://upload.wikimedia.org/wikipedia/commons/7/79/Shitamachi.jpg){#fig:edo-hiroshige .stretch}
+![Vista de Edo por [Utagawa Hiroshige (1858)][]](https://upload.wikimedia.org/wikipedia/commons/7/79/Shitamachi.jpg){#fig:edo-hiroshige}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Higakisinmenbanbune_kawaguchisyuppan_no_zu.jpg"}

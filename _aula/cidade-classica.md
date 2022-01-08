@@ -26,12 +26,12 @@ Bastides construídas num contexto de organização do território e
 centralização administrativa do poder real.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Aigas-Mòrtas, França, 1248. @circhirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide .stretch}
+![Aigas-Mòrtas, França, 1248. @circhirello:2011vue](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aigues_mortes_vu_du_ciel_1.jpg/1024px-Aigues_mortes_vu_du_ciel_1.jpg){#fig:bastide}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg"}
 
 :::notes
-![Monpazier, possessões inglesas na França, 1285. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne .stretch}
+![Monpazier, possessões inglesas na França, 1285. @mairiemonpazier:2013vue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne}
 :::
 
 ## Ensaios ideais ##
@@ -39,19 +39,19 @@ centralização administrativa do poder real.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Idealstadt.jpg/775px-Idealstadt.jpg"}
 
 :::notes
-![Filarete, cidade ideal de Sforzinda, c. 1460](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Idealstadt.jpg/775px-Idealstadt.jpg){#fig:sforzinda .stretch}
+![Filarete, cidade ideal de Sforzinda, c. 1460](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Idealstadt.jpg/775px-Idealstadt.jpg){#fig:sforzinda}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Buonaiuto Lorini, *Delle fortificationi libri cinque*](){#fig:lorini .stretch}
+![Buonaiuto Lorini, *Delle fortificationi libri cinque*](){#fig:lorini}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Pietro Cataneo](){#fig:cataneo .stretch}
+![Pietro Cataneo](){#fig:cataneo}
 :::
 
 ## {data-background-image=""}
@@ -71,13 +71,13 @@ centralização administrativa do poder real.
 ## {data-background-image=""}
 
 :::notes
-![Forte de S. Jorge da Mina](){#fig:mina .stretch}
+![Forte de S. Jorge da Mina](){#fig:mina}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Fort Belgica, ilha Neira, arquipélago de Banda, primeira metade do século [XVII]{.smallcaps}](){#fig:banda .stretch}
+![Fort Belgica, ilha Neira, arquipélago de Banda, primeira metade do século [XVII]{.smallcaps}](){#fig:banda}
 :::
 
 ## {data-background-image=""}
@@ -91,19 +91,19 @@ centralização administrativa do poder real.
 ## {data-background-image=""}
 
 :::notes
-![Teoria holandesa da fortificação](){#fig:holanda .stretch}
+![Teoria holandesa da fortificação](){#fig:holanda}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Fortificações de Vauban no Nordeste da França](){#fig:vauban .stretch}
+![Fortificações de Vauban no Nordeste da França](){#fig:vauban}
 :::
 
 ## {data-background-image=""}
 
 :::notes
-![Joaquim Serrão Pimentel. *Methodo lusitanico de desenhar praças regulares e irregulares...*](){#fig:serrao .stretch}
+![Joaquim Serrão Pimentel. *Methodo lusitanico de desenhar praças regulares e irregulares...*](){#fig:serrao}
 :::
 
 ## Praças reais ##
@@ -129,19 +129,19 @@ bonificação do vale do Po na região de Gualtieri.
 ## {data-background-image=""}
 
 :::notes
-![Carlos Gonzaga, duque de Mântua e conde de Nevers](){#fig:gonzaga .stretch}
+![Carlos Gonzaga, duque de Mântua e conde de Nevers](){#fig:gonzaga}
 :::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg"}
 
 :::notes
-![Charleville, fundada em 1606. @moreau:1625charleville](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg){#fig:charleville .stretch}
+![Charleville, fundada em 1606. @moreau:1625charleville](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_Charleville_Meziere_Edme_Moreau_1625.jpg/838px-Plan_Charleville_Meziere_Edme_Moreau_1625.jpg){#fig:charleville}
 :::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg"}
 
 :::notes
-![Praça ducal, Charleville. @velvet:2013place](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .stretch}
+![Praça ducal, Charleville. @velvet:2013place](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville}
 :::
 
 ## Place Royale (place des Vosges) ##
@@ -172,7 +172,7 @@ Habitação rural tem precedência sobre a urbana
 
 * * * *
 
-![Saverio Muratori, *Studi per una operante storia urbana di Venezia*, 1959](https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg){#fig:muratori1959 .stretch}
+![Saverio Muratori, *Studi per una operante storia urbana di Venezia*, 1959](https://journals.openedition.org/crau/docannexe/image/446/img-6.jpg){#fig:muratori1959}
 
 ## Tipo edilício ##
 
@@ -217,7 +217,7 @@ Gianfranco Caniggia e Gian Luigi Maffei, *Lettura dell'edilizia di base*, 1979
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/60/Serlio_VI_Libro_045-r.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Sebastiano Serlio, VI livro de arquitetura, 1547--1551, habitações para todas as classes de pessoas na cidade](https://upload.wikimedia.org/wikipedia/commons/6/60/Serlio_VI_Libro_045-r.jpg){#fg:serlio6-45r .stretch}
+![Sebastiano Serlio, VI livro de arquitetura, 1547--1551, habitações para todas as classes de pessoas na cidade](https://upload.wikimedia.org/wikipedia/commons/6/60/Serlio_VI_Libro_045-r.jpg){#fg:serlio6-45r}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -254,11 +254,11 @@ Gianfranco Caniggia e Gian Luigi Maffei, *Lettura dell'edilizia di base*, 1979
 
 * * * *
 
-![Baldassare Peruzzi, palácio Pietro Massimo "alle colonne", Roma, 1532--1536](https://i.pinimg.com/originals/5f/e3/1a/5fe31acc40cebe20d2970c38b960cf1f.jpg){#fig:massimo-plans .stretch}
+![Baldassare Peruzzi, palácio Pietro Massimo "alle colonne", Roma, 1532--1536](https://i.pinimg.com/originals/5f/e3/1a/5fe31acc40cebe20d2970c38b960cf1f.jpg){#fig:massimo-plans}
 
 * * * *
 
-![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1532--1536. [Jensens, 2008](https://commons.wikimedia.org/wiki/File:Palazzo_Massimo_alle_Colonne.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Palazzo_Massimo_alle_Colonne.jpg/1280px-Palazzo_Massimo_alle_Colonne.jpg){#fig:massimo-fac .stretch}
+![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1532--1536. [Jensens, 2008](https://commons.wikimedia.org/wiki/File:Palazzo_Massimo_alle_Colonne.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Palazzo_Massimo_alle_Colonne.jpg/1280px-Palazzo_Massimo_alle_Colonne.jpg){#fig:massimo-fac}
 
 ## Castelos franceses ##
 

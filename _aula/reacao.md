@@ -33,7 +33,7 @@ simples de copiar. A partir daí, o gênero do manual de referência vai se
 difundir sobretudo no norte da Europa, muitas vezes em edições de bolso.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jacopo Barozzi da Vignola, *Regola degli cinque ordini di architettura*, 1563, frontispício. Ap. [Aikin & Enfield (1818)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg/454px-thumbnail.jpg){#fig:vignola-front .stretch}
+![Jacopo Barozzi da Vignola, *Regola degli cinque ordini di architettura*, 1563, frontispício. Ap. [Aikin & Enfield (1818)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg/454px-thumbnail.jpg){#fig:vignola-front}
 
 <!--,_-->
 
@@ -48,10 +48,10 @@ na Bavária, é um dos mais difundidos nesse gênero ([@Fig:dietterlin]).
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:dietterlin}
 ::: {.column width=50%}
-![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page7-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinA .stretch width=100%}
+![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page7-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinA width=100%}
 :::
 ::: {.column width=50%}
-![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page5-522px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinB .stretch width=100%}
+![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page5-522px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinB width=100%}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -67,10 +67,10 @@ apresentados cada um numa única prancha ([@Fig:diet74-77]).
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet74-77}
 ::: {.column width=50%}
-![pr. 74](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page151-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet74 .stretch width=100%}
+![pr. 74](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page151-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet74 width=100%}
 :::
 ::: {.column width=50%}
-![pr. 77](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page157-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet77 .stretch width=100%}
+![pr. 77](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page157-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet77 width=100%}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -86,10 +86,10 @@ encadernado e circulavam amplamente.
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet82-85}
 ::: {.column width=50%}
-![pr. 82](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page167-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet82 .stretch width=100%}
+![pr. 82](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page167-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet82 width=100%}
 :::
 ::: {.column width=50%}
-![pr. 85](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page173-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet85 .stretch width=100%}
+![pr. 85](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page173-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet85 width=100%}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -107,16 +107,16 @@ escolhida --- o que também seria possível ---, mas de se basear numa
 variedade de motivos presentes em várias pranchas diferentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Chafariz dos Contos, 1760. [Py4nf (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg){#fig:contos .stretch}
+![Chafariz dos Contos, 1760. [Py4nf (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg){#fig:contos}
 
 * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![pr. 16](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page35-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet16 .stretch width=100%}
+![pr. 16](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page35-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet16 width=100%}
 :::
 ::: {.column .r-stack width=50% #fig:contos-dietterlin}
-![pr. 26](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page55-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet26 .stretch width=100%}
+![pr. 26](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page55-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet26 width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -124,21 +124,10 @@ variedade de motivos presentes em várias pranchas diferentes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![pr. 31](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page65-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet31 .stretch width=100%}
+![pr. 31](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page65-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet31 width=100%}
 :::
 ::: {.column width=50%}
-![pr. 37](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page77-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet37 .stretch width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![pr. 68](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page139-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet68 .stretch width=100%}
-:::
-::: {.column width=50%}
-![pr. 71](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page145-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet71 .stretch width=100%}
+![pr. 37](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page77-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet37 width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -146,10 +135,21 @@ variedade de motivos presentes em várias pranchas diferentes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Chafariz dos Contos, 1760. [Py4nf (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg){#fig:contos-redux .stretch}
+![pr. 68](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page139-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet68 width=100%}
 :::
 ::: {.column width=50%}
-![pr. 104](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page211-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet104 .stretch width=100%}
+![pr. 71](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page145-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet71 width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Chafariz dos Contos, 1760. [Py4nf (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg){#fig:contos-redux}
+:::
+::: {.column width=50%}
+![pr. 104](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page211-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet104 width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -185,7 +185,7 @@ século [XVII]{.smallcaps}, persiste até hoje na arquitetura do Reino Unido e d
 Estados Unidos ([@Fig:uda-pattern]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Urban Design Associates. *The Architectural Pattern Book*, 2004](https://images-na.ssl-images-amazon.com/images/I/419M-VXbH5L.jpg){#fig:uda-pattern .stretch}
+![Urban Design Associates. *The Architectural Pattern Book*, 2004](https://images-na.ssl-images-amazon.com/images/I/419M-VXbH5L.jpg){#fig:uda-pattern}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-2656px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg" data-background-position="top"}
 
@@ -195,7 +195,7 @@ um marco na consolidação dos livros de arquitetura na Inglaterra
 ([@Fig:britannicus-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-544px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg){#fig:britannicus-front .stretch}
+![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-544px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg){#fig:britannicus-front}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1280px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg"}
 
@@ -238,10 +238,10 @@ Jones, no início do século [XVII]{.smallcaps}.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:ware}
 ::: {.column width=50%}
-![frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page10-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-front .stretch width=100%}
+![frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page10-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-front width=100%}
 :::
 ::: {.column width=50%}
-![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page11-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-rosto .stretch width=100%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page11-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-rosto width=100%}
 :::
 Palladio, [*The Four Books of Architecture* (1738)], trad. Isaac Ware
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -257,10 +257,10 @@ em 1733. ([@Fig:britcarp]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp}
 ::: {.column width=50%}
-![endosso](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page8-964px-thumbnail.pdf.jpg){#fig:britcarp-end .stretch width=100%}
+![endosso](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page8-964px-thumbnail.pdf.jpg){#fig:britcarp-end width=100%}
 :::
 ::: {.column width=50%}
-![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page9-964px-thumbnail.pdf.jpg){#fig:britcarp-front .stretch width=100%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page9-964px-thumbnail.pdf.jpg){#fig:britcarp-front width=100%}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -278,10 +278,10 @@ desde os traçados geométricos elementares para a disposição do canteiro
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-ac}
 ::: {.column width=50%}
-![traçados geométricos elementares, pr. A](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page20-964px-thumbnail.pdf.jpg){#fig:britcarp-a .stretch width=100%}
+![traçados geométricos elementares, pr. A](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page20-964px-thumbnail.pdf.jpg){#fig:britcarp-a width=100%}
 :::
 ::: {.column width=50%}
-![detalhes de ligações, pr. C](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page30-964px-thumbnail.pdf.jpg){#fig:britcarp-c .stretch width=100%}
+![detalhes de ligações, pr. C](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page30-964px-thumbnail.pdf.jpg){#fig:britcarp-c width=100%}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -296,10 +296,10 @@ métodos de projeção de telhados sobre plantas irregulares
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![projeto de assoalhos, pr. C\*, D\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page33-964px-thumbnail.pdf.jpg){#fig:britcarp-cd .stretch width=100%}
+![projeto de assoalhos, pr. C\*, D\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page33-964px-thumbnail.pdf.jpg){#fig:britcarp-cd width=100%}
 :::
 ::: {.column width=50%}
-![projeção de telhado sobre planta irregular, pr. F\*, G\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page48-964px-thumbnail.pdf.jpg){#fig:britcarp-fg .stretch width=100%}
+![projeção de telhado sobre planta irregular, pr. F\*, G\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page48-964px-thumbnail.pdf.jpg){#fig:britcarp-fg width=100%}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -317,10 +317,10 @@ construídas em madeira na cultura construtiva britânica.
 
 :::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-uw-app}
 ::: {.column width=50%}
-![construção de escadas, pr. U\*, W\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page140-964px-thumbnail.pdf.jpg){#fig:britcarp-uw .stretch width=100%}
+![construção de escadas, pr. U\*, W\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page140-964px-thumbnail.pdf.jpg){#fig:britcarp-uw width=100%}
 :::
 ::: {.column width=50%}
-![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app .stretch width=100%}
+![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app width=100%}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -332,7 +332,7 @@ O escopo do livro de Price mostra o alcance do ofício da carpintaria e a
 autonomia que essa profissão detinha no mundo britânico do século [XVIII]{.smallcaps},
 comparável ao dos pedreiros na França da mesma época.
 
-![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster .stretch}
+![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg"}
@@ -364,10 +364,10 @@ principalmente para interiores ([@Fig:langley-join]).
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-join}
 ::: {.column width=50%}
-![estante jônica, pr. CLXI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page347-560px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley161 .stretch width=100%}
+![estante jônica, pr. CLXI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page347-560px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley161 width=100%}
 :::
 ::: {.column width=50%}
-![teto, pr. CLXXVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page381-565px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley178 .stretch width=100%}
+![teto, pr. CLXXVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page381-565px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley178 width=100%}
 :::
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -382,10 +382,10 @@ diversificação e a especialização desse mercado editorial.
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-carp}
 ::: {.column width=50%}
-![planta de telhado de geometria irregular, pr. 11](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page419-566px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley11 .stretch width=100%}
+![planta de telhado de geometria irregular, pr. 11](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page419-566px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley11 width=100%}
 :::
 ::: {.column width=50%}
-![esquemas de tesouras, pr. 13](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page423-563px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley13 .stretch width=100%}
+![esquemas de tesouras, pr. 13](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page423-563px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley13 width=100%}
 :::
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -400,10 +400,10 @@ Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher .stretch width=100%}
+![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher width=100%}
 :::
 ::: {.column width=50%}
-![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front .stretch width=100%}
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -420,10 +420,10 @@ que aqueles que trabalham na Grã-Bretanha.
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:cba-plates}
 ::: {.column width=50%}
-![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 .stretch width=100%}
+![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 width=100%}
 :::
 ::: {.column width=50%}
-![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 .stretch width=100%}
+![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 width=100%}
 :::
 [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -440,10 +440,10 @@ generalista ([@Fig:abc]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:abc}
 ::: {.column width=50%}
-![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 .stretch width=100%}
+![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 width=100%}
 :::
 ::: {.column width=50%}
-![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 .stretch width=100%}
+![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 width=100%}
 :::
 Asher [Benjamin, *The American Builder's Companion* (1806)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -460,10 +460,10 @@ conquistou o mundo.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![*Architectural Graphic Standards*, 12.ª edição](https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg){#fig:ags .stretch width=100%}
+![*Architectural Graphic Standards*, 12.ª edição](https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg){#fig:ags width=100%}
 :::
 ::: {.column width=50%}
-![Ernst e Peter Neufert, *Arte de projetar em arquitetura*, 18.ª edição](https://ggili.com.br/media/catalog/product/uploader/4c6f3071a9e143da319c725a57fedcac.jpg){#fig:neufert .stretch width=100%}
+![Ernst e Peter Neufert, *Arte de projetar em arquitetura*, 18.ª edição](https://ggili.com.br/media/catalog/product/uploader/4c6f3071a9e143da319c725a57fedcac.jpg){#fig:neufert width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -479,10 +479,10 @@ normativo em algumas localidades do mundo anglófono ([@Fig:tsw-milton;
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013](https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg){#fig:tsw-milton .stretch width=100%}
+![TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013](https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg){#fig:tsw-milton width=100%}
 :::
 ::: {.column width=50%}
-![PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015](https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg){#fig:pdp-nola .stretch width=100%}
+![PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015](https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg){#fig:pdp-nola width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -497,10 +497,10 @@ eles são usados desse modo por estudantes e arquitetos!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Friederike Schneider, *Atlas de plantas de viviendas*, Gustavo Gili](https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg){#fig:viviendas .stretch width=100%}
+![Friederike Schneider, *Atlas de plantas de viviendas*, Gustavo Gili](https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg){#fig:viviendas width=100%}
 :::
 ::: {.column width=50%}
-![Série *Architecture Now*, Taschen](http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png){#fig:archnow .stretch width=100%}
+![Série *Architecture Now*, Taschen](http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png){#fig:archnow width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
