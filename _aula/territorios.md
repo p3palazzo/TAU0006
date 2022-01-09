@@ -361,7 +361,7 @@ só os mais pobres viajavam a pé.
 
 [Banwell (2003)]: https://commons.wikimedia.org/wiki/File:Nakasendo_Highway,_Japan_2003.jpg
 
-[Hiroshige (1833)]: https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D
+[Hiroshige (1833)]: https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_Tōkaidō
 
 [Kiyok (2009)]: https://commons.wikimedia.org/wiki/File:GoyuMatsunamiki_Sidewalk.jpg
 

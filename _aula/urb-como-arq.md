@@ -188,7 +188,9 @@ continua a ser incrementado até o século [XIX]{.smallcaps}
 ([@Fig:gondar-persp-monti]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por @monticorte:1938castelli](https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png){#fig:gondar-persp-monti}
+![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por [Monti della Corte, 1938][]](https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png){#fig:gondar-persp-monti}
+
+[Monti della Corte, 1938]: http://archive.org/details/ICastelliDiGondar
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/1280px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg"}
 
@@ -452,8 +454,7 @@ reclusão do espaço reforça o universo interior do intelectual. Os
 pórticos são murados do lado de fora, restringindo as visuais para o
 exterior ([@fig:canglangting-lang]).
 
-![Su Zimei, pórticos do Canglang ting, Suzhou, c. 1045.
-@chinatravelsavvy:2010canglang](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canglang_Pavilion_2.jpg/1024px-Canglang_Pavilion_2.jpg){#fig:canglangting-lang}
+![Su Zimei, pórticos do Canglang ting, Suzhou, c. 1045. Foto: [China Travel Savvy, 2010](https://commons.wikimedia.org/wiki/File:Canglang_Pavilion_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canglang_Pavilion_2.jpg/1024px-Canglang_Pavilion_2.jpg){#fig:canglangting-lang}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://www.youtube.com/embed/ikYW3G4xRaY" data-background-video-muted="true"}
