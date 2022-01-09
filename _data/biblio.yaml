@@ -4951,39 +4951,6 @@ references:
       dropping-particle: da
   type: book
 
-- id: dr:2011persian
-  abstract: >-
-    English: This is a schematic drawing of a traditional Persian style garden.
-    Note the water structure most notably a pond or a fountain, almost always
-    connected via four perpendicular connections or waterways named in Old
-    Persian "jubs" or basically aqueducts. The structure is almost always
-    pivoted at the long axis of this "cross" or quadripartite format so that the
-    magnificent palace or the dwelling is looking upon the long axis of the
-    waterway and the foundation. The walkways are often incorporated close and
-    parallel to the long arm of the aqueduct, with trees ornating the sides and
-    beautiful herbs, plants or domestic animals filling the inside space.
-    Traditionally, when the property was not an issue to acquire you find these
-    gardens surrounded by the wild space, utilized as a place for the nob and
-    the nobility to hunt wild exotic creatures, if not go out in wild
-    adventures.
-  accessed:
-    - year: 2020
-      month: 10
-      day: 13
-  archive: Trabalho próprio pelo carregador
-  author:
-    - literal: Dr Persi
-  citation-key: dr:2011persian
-  issued:
-    - year: 2011
-      month: 2
-      day: 7
-  language: en
-  source: Wikimedia Commons
-  title: Persian Garden
-  type: graphic
-  URL: https://commons.wikimedia.org/wiki/File:PersianGarden.png
-
 - id: drone:2021lamu
   abstract: >-
     New areal drone footage of Lamu Island on the coast of Kenya. All footage is
@@ -5021,6 +4988,39 @@ references:
   title: Lamu Island Kenya Areal Drone Shots - New 2021!
   type: motion_picture
   URL: https://www.youtube.com/watch?v=6w4o-OPZnlQ
+
+- id: drpersi:2011persian
+  abstract: >-
+    English: This is a schematic drawing of a traditional Persian style garden.
+    Note the water structure most notably a pond or a fountain, almost always
+    connected via four perpendicular connections or waterways named in Old
+    Persian "jubs" or basically aqueducts. The structure is almost always
+    pivoted at the long axis of this "cross" or quadripartite format so that the
+    magnificent palace or the dwelling is looking upon the long axis of the
+    waterway and the foundation. The walkways are often incorporated close and
+    parallel to the long arm of the aqueduct, with trees ornating the sides and
+    beautiful herbs, plants or domestic animals filling the inside space.
+    Traditionally, when the property was not an issue to acquire you find these
+    gardens surrounded by the wild space, utilized as a place for the nob and
+    the nobility to hunt wild exotic creatures, if not go out in wild
+    adventures.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 13
+  archive: Trabalho próprio pelo carregador
+  author:
+    - literal: Dr Persi
+  citation-key: drpersi:2011persian
+  issued:
+    - year: 2011
+      month: 2
+      day: 7
+  language: en
+  source: Wikimedia Commons
+  title: Persian Garden
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:PersianGarden.png
 
 - id: duany:2003new
   abstract: >-
@@ -7717,7 +7717,7 @@ references:
   type: webpage
   URL: https://hali.com/articles/the-jaipur-garden-carpet/
 
-- id: hein:2008machi:35
+- id: hein:2008machi35
   abstract: >-
     The term machi, signifying both neighborhood and small town, is a key
     element for understanding Japanese urban form and city planning. After
@@ -7740,7 +7740,7 @@ references:
   author:
     - family: Hein
       given: Carola
-  citation-key: hein:2008machi:35
+  citation-key: hein:2008machi35
   container-title: Journal of Urban History
   container-title-short: Journal of Urban History
   DOI: 10.1177/0096144208322463
@@ -15661,6 +15661,8 @@ references:
   source: Google Books
   title: Japanese castle towns as models for contemporary urban planning
   type: chapter
+  URL: >-
+    https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
 - id: savin:2018fasil
   accessed:
@@ -16094,6 +16096,59 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:With_Shelley_in_Italy_-_being_a_selection_of_the_poems_and_letters_of_Percy_Bysshe_Shelley_which_have_to_do_with_his_life_in_Italy_from_1818_to_1822_(1905)_(14782136475).jpg
+
+- id: shojai:2016developing3
+  abstract: >-
+    The contribution of front or back yards to sociability has been the subject
+    of several studies. No such finding however is evident for side setback
+    areas, short distances kept between adjacent buildings, which in the case of
+    comparatively dense Japanese urban neighborhood environments can be as short
+    as a few decimeters. The present study locates side setback areas and
+    building facades that look towards them in Japanese planning terminology,
+    and examines them from the residents’ point of view. The data for this
+    preliminary step of the research was collected based on a carefully designed
+    and explained 2014 survey of 190 academics scholars throughout Japan. The
+    results suggest that no demographic characteristic or housing type, number
+    of floors or period of time living in the area were shown to be significant
+    in residents’ perceptions towards the side setback areas. Those who had no
+    side setback area were more concerned with their privacy, smoke, sound or
+    darkness whereas those with side setback areas were more satisfied. As for
+    preferences, having a Green Wall, Terrace/Balcony and Living/Dining were the
+    preferred choice of those with side setback areas. All respondents tended to
+    perceive the spaces as valued for the light and ventilation they provide.
+    Several activities such as storage, parking and drying clothes were common
+    among the respondents’ perceptions of activities suitable for these spaces.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  author:
+    - family: Shojai
+      given: Amir
+    - family: Mori
+      given: Suguru
+    - family: Nomura
+      given: Rie
+  citation-key: shojai:2016developing3
+  container-title: City, Territory and Architecture
+  container-title-short: City Territ Archit
+  DOI: 10.1186/s40410-016-0034-0
+  ISSN: 2195-2701
+  issue: '1'
+  issued:
+    - year: 2016
+      month: 6
+      day: 7
+  language: en
+  page: '6'
+  source: Springer Link
+  title: "Developing terminology for side facades and side setback areas in Japanese neighborhoods: a study on\_utility and perception"
+  title-short: >-
+    Developing terminology for side facades and side setback areas in Japanese
+    neighborhoods
+  type: article-journal
+  URL: https://doi.org/10.1186/s40410-016-0034-0
+  volume: '3'
 
 - id: shooter:1857british
   abstract: >-
@@ -16930,6 +16985,29 @@ references:
   type: webpage
   URL: >-
     http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/
+
+- id: tang:1124Zhong
+  accessed:
+    - year: 2022
+      month: 1
+      day: 8
+  archive: National Palace Museum
+  author:
+    - family: Tang
+      given: Li
+  citation-key: tang:1124Zhong
+  dimensions: >-
+    Altura: 188,7 cm; Largura: 139,8 cmdimensions QS:P2048,188.7U174728
+    dimensions QS:P2049,139.8U174728
+  issued:
+    - literal: 1124date QS:P571,+1124-00-00T00:00:00Z/9
+  medium: Hanging scroll, tinta e colors  sobre seda
+  source: Wikimedia Commons
+  title: "中文：萬壑松風English:  Wind in Pines Among a Myriad ValleysFrançais\_:  Vent murmurant dans les pins en montagne (Wanhuo songfeng)Deutsch:  Kiefern in einem FelstalEspañol:  Viento en los pinos entre miles de vallesРусский:  Ветер в соснах посреди вечной долины日本語: 万壑松風한국어:  깊은 계곡의 솔바람"
+  title-short: 中文：萬壑松風English
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
 
 - id: tapie:1974barroco
   author:
