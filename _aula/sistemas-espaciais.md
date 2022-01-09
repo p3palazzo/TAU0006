@@ -10,6 +10,14 @@ toc:
   - A cúpula de Brunelleschi
   - Cúpulas islâmicas e malhas espaciais
 leitura: 474--490, 530--536
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
+  caption: "Kesav Das (atribuição), [O espião Zambur leva Mahiya à cidade de Tawariq](https://www.metmuseum.org/art/collection/search/447743), folha do *Hamzanama*, c. 1570"
+  actions:
+  - label: "Slides"
+    url  : "/slides/sistemas-espaciais/"
 ---
 
 # 
