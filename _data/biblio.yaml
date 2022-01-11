@@ -308,6 +308,47 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Vista_della_cupola.JPG
 
+- id: alexander:1977pattern
+  author:
+    - family: Alexander
+      given: Christopher
+    - family: Ishikawa
+      given: Sara
+    - family: Silverstein
+      given: Murray
+    - family: Jacobson
+      given: Max
+    - family: Fiksdahl-King
+      given: Ingrid
+    - family: Angel
+      given: Shlomo
+  citation-key: alexander:1977pattern
+  event-place: New York
+  issued:
+    - year: 1977
+  language: en-US
+  publisher: Oxford University Press
+  publisher-place: New York
+  title: 'A Pattern Language: Towns, Buildings, Construction'
+  type: book
+
+- id: alexander:2002nature
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002nature
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-volumes: '4'
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The nature of order
+  type: book
+
 - id: alfarano:1590pianta
   accessed:
     - year: 2020
@@ -2884,6 +2925,26 @@ references:
   title-short: Metodologia del recupero
   type: chapter
 
+- id: caniggia:1997ragionamenti
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  citation-key: caniggia:1997ragionamenti
+  event-place: Firenze
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: it
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  title-short: Ragionamenti di tipologia
+  type: book
+
 - id: caniggia:2008lettura
   abstract: >-
     Questo volume si occupa di codificare il metodo per l'esecuzione di
@@ -4248,6 +4309,81 @@ references:
   URL: https://www.jstor.org/stable/988426
   volume: '27'
 
+- id: conzen:2004notes
+  author:
+    - family: Conzen
+      given: Michael P.
+    - family: Whitehand
+      given: Jeremy W.R.
+  call-number: '718.04'
+  citation-key: conzen:2004notes
+  container-author:
+    - family: Conzen
+      given: M. R. G
+  container-title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  event-place: Oxford; New York
+  ISBN: 3-03910-276-1 978-3-03910-276-1 0-8204-7203-4 978-0-8204-7203-4
+  issued:
+    - year: 2004
+  language: en-GB
+  page: 269–283
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: >-
+    M. R. G. Conzen’s Notes on ‘Urban Morphology: Its Nature and Development’
+    (1992–1999)
+  type: chapter
+
+- id: conzen:2004thinking
+  author:
+    - family: Conzen
+      given: M. R. G
+  call-number: '718.04'
+  citation-key: conzen:2004thinking
+  editor:
+    - family: Conzen
+      given: Michael P
+  event-place: Oxford; New York
+  ISBN: 978-3-03910-276-1
+  issued:
+    - year: 2004
+  language: en-GB
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  title-short: Thinking about urban form
+  type: book
+
+- id: conzen:2018core
+  accessed:
+    - year: 2018
+      month: 12
+      day: 1
+  author:
+    - family: Conzen
+      given: Michael P.
+  citation-key: conzen:2018core
+  collection-title: The Urban Book Series
+  container-title: Teaching Urban Morphology
+  DOI: 10.1007/978-3-319-76126-8
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Cham
+  ISBN: 978-3-319-76125-1 978-3-319-76126-8
+  issued:
+    - year: 2018
+  language: en-GB
+  page: 123–143
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: Core Concepts in Town-Plan Analysis
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-76126-8
+
 - id: cook:2010western
   call-number: DS35.6 .N49 2010
   citation-key: cook:2010western
@@ -4418,6 +4554,22 @@ references:
   title: Capilla Pazzi
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Capilla_Pazzi_03.JPG
+
+- id: cullen:2009paisagem
+  author:
+    - family: Cullen
+      given: Gordon
+  citation-key: cullen:2009paisagem
+  event-place: Lisboa
+  ISBN: 978-972-44-1401-0
+  issued:
+    - year: 2009
+  language: pt-PT
+  publisher: Edições 70
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Paisagem urbana
+  type: book
 
 - id: czarnowski:2015firenze
   accessed:
@@ -8248,6 +8400,36 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Plan_of_the_Town_of_Singapore_(1822)_by_Lieutenant_Philip_Jackson_original.jpg
 
+- id: jacobs:1961death
+  author:
+    - family: Jacobs
+      given: Jane
+  citation-key: jacobs:1961death
+  event-place: New York
+  issued:
+    - year: 1961
+  language: en-US
+  publisher: Random House
+  publisher-place: New York
+  title: The Death and Life of Great American Cities
+  type: book
+
+- id: jacobs:2011morte
+  author:
+    - family: Jacobs
+      given: Jane
+  citation-key: jacobs:2011morte
+  event-place: São Paulo
+  ISBN: 978-85-7827-421-4
+  issued:
+    - year: 2011
+  language: pt-BR
+  publisher: WMF Martins Fontes
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Morte e vida de grandes cidades
+  type: book
+
 - id: jakobusvide:2020san
   abstract: >-
     Photo about San Miniato al Monte marble classic facade design in Florence
@@ -9023,6 +9205,20 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Architrav_SDI_0610.jpg
 
+- id: kohlsdorf:1996apreensao
+  author:
+    - family: Kohlsdorf
+      given: Maria Elaine
+  citation-key: kohlsdorf:1996apreensao
+  event-place: Brasília
+  issued:
+    - year: 1996
+  language: pt-BR
+  publisher: Editora UnB
+  publisher-place: Brasília
+  title: A apreensão da forma da cidade
+  type: book
+
 - id: konsek:2016shophouses.
   accessed:
     - year: 2020
@@ -9149,6 +9345,24 @@ references:
   publisher: Rizzoli
   publisher-place: New York
   title: Architectural composition
+  type: book
+
+- id: krier:1991urban
+  author:
+    - family: Krier
+      given: Rob
+  citation-key: krier:1991urban
+  edition: '5'
+  event-place: London
+  ISBN: 978-0-85670-576-2
+  issued:
+    - year: 1991
+  language: en-GB
+  number-of-pages: '174'
+  publisher: Academy Editions
+  publisher-place: London
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Urban space
   type: book
 
 - id: kruger:2015relevancia
@@ -10189,6 +10403,40 @@ references:
   title-short: Clio-Mexico-luiselli
   type: post-weblog
   URL: http://clio-mexico-luiselli.blogspot.com/2013/09/chinampas.html
+
+- id: lynch:1960image
+  author:
+    - family: Lynch
+      given: Kevin
+  citation-key: lynch:1960image
+  collection-title: Publication of the Joint Center for Urban Studies
+  event-place: Cambridge, Mass.
+  ISBN: 978-0-262-12004-3 978-0-262-62001-7
+  issued:
+    - year: 1960
+  language: en-US
+  number-of-pages: '194'
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass.
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: The image of the city
+  type: book
+
+- id: lynch:1999imagem
+  author:
+    - family: Lynch
+      given: Kevin
+  citation-key: lynch:1999imagem
+  event-place: Lisboa
+  ISBN: 978-972-44-0379-3
+  issued:
+    - year: 1999
+  language: pt-PT
+  publisher: Edições 70
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: A imagem da cidade
+  type: book
 
 - id: ma:1160clouds
   accessed:
@@ -11858,6 +12106,24 @@ references:
   title-short: Studi per una operante storia urbana di Venezia
   type: article-journal
   volume: <span class="smallcaps">IX</span>
+
+- id: muratori:1978metodologia
+  author:
+    - family: Muratori
+      given: Saverio
+  citation-key: muratori:1978metodologia
+  event-place: Roma
+  issued:
+    - year: 1978
+  language: it
+  publisher: Centro studi di storia urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: >-
+    Metodologia del sistema realtà-autocoscienza: dalle ultime lezioni :
+    1972-1973
+  title-short: Metodologia del sistema realtà-autocoscienza
+  type: book
 
 - id: murray:1972arquitectura
   author:
@@ -15664,6 +15930,25 @@ references:
   URL: >-
     https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
+- id: saverio:1967civilta
+  accessed:
+    - year: 2020
+      month: 1
+      day: 16
+  author:
+    - literal: Saverio Muratori
+  citation-key: saverio:1967civilta
+  event-place: Roma
+  issued:
+    - year: 1967
+  language: it
+  publisher: Centro studi di storia urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: Civiltà e territorio
+  type: book
+  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
+
 - id: savin:2018fasil
   accessed:
     - year: 2020
@@ -16846,6 +17131,26 @@ references:
   type: article-journal
   URL: https://www.palladiomuseum.org/annali/1969/10/pdf
 
+- id: tafuri:1985projecto
+  author:
+    - family: Tafuri
+      given: Manfredo
+  call-number: '72.01'
+  citation-key: tafuri:1985projecto
+  collection-number: '16'
+  collection-title: Dimensões
+  event-place: Lisboa
+  issued:
+    - year: 1985
+  language: Portuguese
+  number-of-pages: '122'
+  publisher: Presença
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Projecto e utopia: arquitectura e desenvolvimento do capitalismo'
+  title-short: Projecto e utopia
+  type: book
+
 - id: tafuri:1985venezia
   author:
     - family: Tafuri
@@ -17527,6 +17832,31 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Piazza_della_Santissima_Annunziata_-_View_East_on_lo_Spedale_degli_Innocenti_1445_by_Filippo_Brunelleschi_%26_Pietro_Tacca%27s_Fountain_1629.jpg
+
+- id: tzonis:1972non-oppressive
+  abstract: >-
+    124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
+    bibliographical references
+  accessed:
+    - year: 2022
+      month: 1
+      day: 10
+  author:
+    - family: Tzonis
+      given: Alexander
+  citation-key: tzonis:1972non-oppressive
+  event-place: Boston
+  issued:
+    - year: 1972
+  language: en-US
+  number-of-pages: '138'
+  publisher: Braziller
+  publisher-place: Boston
+  source: Internet Archive
+  title: Towards a non-oppressive environment
+  title-short: Towards a non-oppressive environment
+  type: book
+  URL: http://archive.org/details/towardsnonoppres0000tzon
 
 - id: tzonis:1975mechanical
   accessed:
