@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Cidades possíveis",
-        "excerpt":"História da arquitetura como história do espaço O domínio do espaço é um dos temas estruturantes na nossa abordagem da arquitetura do Renascimento. Desde o início da construção da cúpula da catedral de Florença, em 1420, até as superfícies tortuosas do barroco tardio e do rococó, no século XVIII, a...","categories": [],
+        "excerpt":"Espacialidade e vazio na pintura chinesa O domínio do espaço é um dos temas estruturantes na nossa abordagem da arquitetura do Renascimento. Desde o início da construção da cúpula da catedral de Florença, em 1420, até as superfícies tortuosas do barroco tardio e do rococó, no século XVIII, a manipulação...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/cidades-possiveis/",
         "teaser": null
@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Cidade clássica",
-        "excerpt":"Geometrias da fortificação à praça real Geometria e fortificação Castelos japoneses Controle do território Bastides construídas num contexto de organização do território e centralização administrativa do poder real. Figura 1: Aigas-Mòrtas, França, 1248.Circhirello:2011vue? Figura 2: Monpazier, possessões inglesas na França, 1285.Mairiemonpazier:2013vue? Ensaios ideais Figura 3: Filarete, cidade ideal de Sforzinda,...","categories": [],
+        "excerpt":"Geometrias da fortificação à praça real Geometria e fortificação Castelos japoneses Controle do território Bastides construídas num contexto de organização do território e centralização administrativa do poder real. Figura 1: Aigas-Mòrtas, França, 1248. CirchirelloFrançais. Figura 2: Monpazier, possessões inglesas na França, 1285. MairieMonpazierVue aérienne. Ensaios ideais Figura 3: Filarete, cidade...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/cidade-classica/",
         "teaser": null
@@ -143,12 +143,6 @@ var store = [{
         "url": "/tau0006/plano/sobre-disciplina/",
         "teaser": null
       },{
-        "title": "Análise urbana",
-        "excerpt":"Ementa A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera condicionantes para intervenções futuras. Explore este diálogo analisando um conjunto urbanístico formado ou transformado entre os séculos XV e XVIII. Objetivo Desenvolver uma visão de...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/1-analise-urbana/",
-        "teaser": null
-      },{
         "title": "Análise de composição",
         "excerpt":"Ementa A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera condicionantes para intervenções futuras. Dentro do gabarito condicionado pelo entorno ou pela tipologia da edificação, os espaços interiores se desdobram como volumes dotados de formas...","categories": [],
         "tags": [],
@@ -177,6 +171,12 @@ var store = [{
         "excerpt":"Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos, manuais...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/3-wikipedia/",
+        "teaser": null
+      },{
+        "title": "Análise urbana",
+        "excerpt":"Os instrumentos de análise têm de ser suficientemente genéricos para que possam ser aplicados a qualquer cidade; em suma, eles servem para começar a observar as cidades e nelas reconhecer algumas lógicas recorrentes. Com efeito, um dos aspectos fascinantes do estudo das cidades é que, apesar de suas diferenças e...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/analise-urbana/",
         "teaser": null
       },{
         "title": "Resenha e discussão de texto",
