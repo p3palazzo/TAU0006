@@ -109,7 +109,7 @@ história da arte, para a qual os processos de constituição e
 transformação dos ofícios artísticos e profissionais têm interesse
 próprio, do mesmo modo que a formulação de ideias e teorias.
 
-![Manfredo Tafuri (1935--1994)](https://www.integra.unb.br/s/tau0006-042-tafuri/preview){#fig:tafuri .stretch}
+![Manfredo Tafuri (1935--1994)](https://www.integra.unb.br/s/tau0006-042-tafuri/preview){#fig:tafuri}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Perspectiva e composição clássica
@@ -166,7 +166,7 @@ contrário, ela impõe um sistema de exigências espaciais e de
 individual(ista), mas responde a uma visão de mundo partilhada entre os
 artistas e os seus mecenas ([@Fig:botticelli-sistina]).
 
-![Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, palácio do Vaticano, 1481--482](https://www.integra.unb.br/s/tau0006-042-botticcelli/preview){#fig:botticelli-sistina .stretch}
+![Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, palácio do Vaticano, 1481--482](https://www.integra.unb.br/s/tau0006-042-botticcelli/preview){#fig:botticelli-sistina}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1280px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg"}
@@ -184,7 +184,7 @@ como elementos centrais da composição pelas linhas de força das figuras
 secundárias? Ou ainda um ponto fora da pintura, para onde convergem os
 raios da luz divina?
 
-![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa .stretch}
+![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-042-pazzi/preview"}
@@ -319,7 +319,7 @@ resolver problemas de *utilitas* --- a composição de espaços interiores
 e exteriores. Se a arquitetura clássica pode ser considerada uma forma
 de linguagem, então os elementos são o vocabulário.
 
-![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi .stretch}
+![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-bellotto/preview"}
@@ -424,7 +424,7 @@ horizontais ou abobadadas ([@Fig:krier-27b]).
 
 * * * *
 
-![Rob Krier, classificação das coberturas [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27b/preview){#fig:krier-27b .stretch}
+![Rob Krier, classificação das coberturas [-@krier:1988architectural, 27]](https://www.integra.unb.br/s/tau0006-043-krier-27b/preview){#fig:krier-27b}
 
 ## 
 
@@ -439,7 +439,7 @@ Liang Sicheng esquematizaram mesmo uma "ordem chinesa"
 nos Estados Unidos na primeira metade do século [XX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://www.integra.unb.br/s/tau0006-043-liang-order/preview){#fig:liang-order .stretch}
+![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://www.integra.unb.br/s/tau0006-043-liang-order/preview){#fig:liang-order}
 
 ## {data-background-image="https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg"}
 
@@ -451,7 +451,7 @@ arquitetônica romana persiste ao longo de toda a Idade Média. No século
 [XII]{.smallcaps}, uma sequência de construções monumentais demonstra o domínio de
 algumas composições básicas da Antiguidade tardia.
 
-![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século [XII]{.smallcaps}](https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg){#fig:badia-fiesolana .stretch}
+![Badìa fiesolana, Fiesole, iniciada 1075, fachada do século [XII]{.smallcaps}](https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg){#fig:badia-fiesolana}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-miniato-fac/preview" data-transition="fade-out"}
@@ -519,7 +519,7 @@ sistema mais difundido até os dias de hoje, e o de Palladio, publicado
 em 1570, que vai influenciar sobretudo a Inglaterra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro-2 .stretch}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro-2}
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-56/preview"}
 
@@ -543,7 +543,7 @@ aplicado a uma variedade de materiais de construção. Portanto, a coluna
 clássica raramente existe isolada: o entablamento, que é a viga,
 pingadeira e coroamento da ordem, sempre acompanha uma colunata...
 
-![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-167/preview){#fig:chitham-167 .stretch}
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-167/preview){#fig:chitham-167}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-083-085/preview"}
@@ -555,7 +555,7 @@ partes que foram refinadas ao longo de --- literalmente --- milênios. A
 forma e as proporções de cada uma dessas partes com relação ao todo são
 minuciosamente descritas nos tratados do Renascimento.
 
-![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-083-085/preview){#fig:chitham-083-085 .stretch}
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-083-085/preview){#fig:chitham-083-085}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-181-197/preview"}
@@ -570,7 +570,7 @@ de ordens diferentes entre si. Mas esse algoritmo é reversível, e pode
 ser igualmente manipulado a partir das dimensões do conjunto, por
 divisões sucessivas até chegar no módulo.
 
-![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-181-197/preview){#fig:chitham-181-197 .stretch}
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-181-197/preview){#fig:chitham-181-197}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-chitham-175-191/preview"}
@@ -581,7 +581,7 @@ organizar composições grandes e pequenas. Do sistema simples das ordens,
 é possível extrapolar uma série de elementos complementares --- portas,
 janelas, arcos, guarda-corpos...
 
-![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-175-191/preview){#fig:chitham-175-191 .stretch}
+![Chitham](https://www.integra.unb.br/s/tau0006-043-chitham-175-191/preview){#fig:chitham-175-191}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
@@ -638,7 +638,7 @@ Essa preferência pela superfície quase plana faz parte da busca dos
 arquitetos do século [XV]{.smallcaps} pela articulação clara de volumes espaciais com
 geometrias primárias.
 
-![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
+![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. @zairon:2018facade](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Arquitetura clássica II › Espaço #
@@ -674,12 +674,12 @@ dois palácios de fachadas quase idênticas, o Rucellai, em Floreça, e o
 Piccolomini, em Pienza, projetados por volta de 1460.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo Rossellino, talvez com Leon Battista Alberti, fachada do palácio Rucellai, Florença, 1461](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firenze_Palazzo_Rucellai.jpg/1280px-Firenze_Palazzo_Rucellai.jpg){#fig:rucellai .stretch}
+![Bernardo Rossellino, talvez com Leon Battista Alberti, fachada do palácio Rucellai, Florença, 1461](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firenze_Palazzo_Rucellai.jpg/1280px-Firenze_Palazzo_Rucellai.jpg){#fig:rucellai}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Bernardo Rossellino, palácio Piccolomini, Pienza, 1459--1462](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG){#fig:piccolomini .stretch}
+![Bernardo Rossellino, palácio Piccolomini, Pienza, 1459--1462](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG){#fig:piccolomini}
 
 Nos dois projetos, o fio condutor é a busca por unificar a composição da
 fachada por meio da regularidade conferida pelas ordens clássicas.
@@ -733,7 +733,7 @@ Média oferecem maior resistência a adotarem a composição de espaços com
 clareza geométrica. É o caso das naves de igrejas e de pátios de
 palácios ([@Fig:rucellai-plan]).
 
-![Leon Battista Alberti, Planta do palácio Rucellai, Florença, 1455--1470](https://www.integra.unb.br/s/tau0006-044-rucellai-plan/preview){#fig:rucellai-plan .stretch}
+![Leon Battista Alberti, Planta do palácio Rucellai, Florença, 1455--1470](https://www.integra.unb.br/s/tau0006-044-rucellai-plan/preview){#fig:rucellai-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-044-malatestiano-int/preview"}
@@ -744,13 +744,13 @@ arquitetura religiosa. Na reforma da catedral de Rimini (c. 1450), uma
 antiga igreja franciscana com nave única, ele transforma os contrafortes
 exteriores em capelas laterais, abertas para a nave.
 
-![Leon Battista Alberti, catedral de São Francisco, Rimini (templo Malatestiano), c. 1450](https://www.integra.unb.br/s/tau0006-044-malatestiano-int/preview){#fig:rimini-int .stretch}
+![Leon Battista Alberti, catedral de São Francisco, Rimini (templo Malatestiano), c. 1450](https://www.integra.unb.br/s/tau0006-044-malatestiano-int/preview){#fig:rimini-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-044-malatestiano-mod/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Maquete do projeto de Leon Battista Alberti para a catedral de Rimini](https://www.integra.unb.br/s/tau0006-044-malatestiano-mod/preview){#fig:rimini-model .stretch}
+![Maquete do projeto de Leon Battista Alberti para a catedral de Rimini](https://www.integra.unb.br/s/tau0006-044-malatestiano-mod/preview){#fig:rimini-model}
 
 Vale lembrar que Alberti é um funcionário de alto escalão da Igreja
 católica. Portanto, essa nova configuração espacial encontra apoio
@@ -766,7 +766,7 @@ Na igreja de Santo André, em Mântua (1472--1790), Alberti tem liberdade
 para criar a edificação inteira. Ele escolhe, então, levar adiante a
 configuração da nave única com capelas laterais ([@Fig:mantua-plan]).
 
-![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1472--1790](https://www.integra.unb.br/s/tau0006-044-mantua-plan/preview){#fig:mantua-plan .stretch}
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1472--1790](https://www.integra.unb.br/s/tau0006-044-mantua-plan/preview){#fig:mantua-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/1303/1336317266_45bbce2e26_k_d.jpg"}
@@ -781,7 +781,7 @@ civil, e não religioso, mas no Renascimento, Constantino é considerado
 como o primeiro imperador cristão --- daí, talvez, a legitimidade do
 modelo.
 
-![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int .stretch}
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/1204/1335531115_4f07707402_k_d.jpg"}
@@ -795,7 +795,7 @@ a marcação das ordens é feita com pilastras que se projetam muito pouco
 pilastras em vez de colunas dá mais clareza à leitura dos volumes
 geométricos que constituem o espaço ([@Fig:mantua-lesene]).
 
-![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007light](https://live.staticflickr.com/1204/1335531115_76a02a674e_c_d.jpg){#fig:mantua-lesene .stretch}
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. Foto: @mykaul:2007light](https://live.staticflickr.com/1204/1335531115_76a02a674e_c_d.jpg){#fig:mantua-lesene}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
@@ -944,7 +944,7 @@ existência de um acesso único ao interior sugere uma direcionalidade
 implícita no espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Interior de Santa Maria della Consolazione, Todi, em desenho de 1895](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg/560px-Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg){#fig:consolazione-1895 .stretch}
+![Interior de Santa Maria della Consolazione, Todi, em desenho de 1895](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg/560px-Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg){#fig:consolazione-1895}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Consolazione_interno.jpg/1280px-Consolazione_interno.jpg"}
 
@@ -971,7 +971,7 @@ vertical que vai do centro da planta até o lanternim da cúpula pode ser
 entendido como um centro dinâmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Santa Maria della Consolazione, intradorso da cúpula. @aldrighetti:2014tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG){#fig:consolazione-cupola .stretch}
+![Santa Maria della Consolazione, intradorso da cúpula. @aldrighetti:2014tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG){#fig:consolazione-cupola}
 
 ## 
 
@@ -1035,7 +1035,7 @@ lateral da nave.
 
 ::::::::::::::::::::::::::::::::::::::::: {.columns #fig:sandrea-lesene}
 ::: {.column width=50%}
-![fachada](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png/747px-Fa%C3%A7ade_of_Sant%27_Andrea%2C_Mantua_%28Character_of_Renaissance_Architecture%29.png){#fig:sandrea-leseneA}
+![fachada](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant'_Andrea,_Mantua_(Character_of_Renaissance_Architecture).png/747px-Fa%C3%A7ade_of_Sant'_Andrea,_Mantua_(Character_of_Renaissance_Architecture).png){#fig:sandrea-leseneA}
 :::
 ::: {.column width=50%}
 ![nave [@mykaul:2007basilica]](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:sandrea-leseneB}
@@ -1044,20 +1044,20 @@ lateral da nave.
 Leon Battista Alberti, nave da igreja de Sant'Andrea, Mântua, 1470--1790
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Francesco di Giorgio traduz a composição do arco triunfal para fachadas
 com janelas. A superfície contínua da parede começa a perder
 protagonismo para o ritmo das pilastras emparelhadas e das janelas.
 
-![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513. @monti:1979palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_%28Roma%2C_1979%29_-_BEIC_6363891.jpg){#fig:cancelleria}
+![Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485--1513. @monti:1979palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg){#fig:cancelleria}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500. @pelagalli:2010roma](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma%2C_Citt%C3%A0_del_Vaticano%2C_Palazzo_Giraud-Torlonia%2C_in_via_della_Conciliazione._-_panoramio.jpg){#fig:torlonia}
+![Donato Bramante (atribuição), palácio Giraud--Torlonia, Roma, após 1500. @pelagalli:2010roma](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg){#fig:torlonia}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-051-caprini/preview"}
@@ -1132,12 +1132,12 @@ Ordem colossal como solução última de unificação da fachada.
 ![Antonio da Sangallo, o velho (atribuição), palácio Nobili--Tarugi, Montepulciano, c. 1532](https://www.integra.unb.br/s/tau6-051-tarugi/preview){#fig:tarugi-colossal}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas isto é uma história para depois...
 
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/849px-Palazzo_d%27Antica_Zecca.jpg){#fig:zecca}
+![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/849px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Quinas reentrantes ##
@@ -1146,29 +1146,29 @@ Mas isto é uma história para depois...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420--1429. @monti:1975basilica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia width=100%}
+![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420--1429. @monti:1975basilica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia width=100%}
 :::
 ::: {.column width=50%}
 ![Cesare Cesariano, esquema de templo *in antis* da tradução do tratado *Da arquitetura* de Vitrúvio, 1521](https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview){#fig:cesariano-in-antis width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita%2C_cappella_capponi_11.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita,_cappella_capponi_11.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. @sailko:2008santa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita%2C_cappella_capponi_11.JPG/576px-Santa_felicita%2C_cappella_capponi_11.JPG){#fig:capponi}
+![Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. @sailko:2008santa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita,_cappella_capponi_11.JPG/576px-Santa_felicita,_cappella_capponi_11.JPG){#fig:capponi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/1280px-Chiesa_delle_carceri%2C_int.%2C_01.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/1280px-Chiesa_delle_carceri,_int.,_01.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. @sailko:2013santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri%2C_int.%2C_01.JPG/640px-Chiesa_delle_carceri%2C_int.%2C_01.JPG){#fig:carceri-int}
+![Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. @sailko:2013santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/640px-Chiesa_delle_carceri,_int.,_01.JPG){#fig:carceri-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/1280px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/1280px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492--1495. @sailko:2017santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg/640px-Santa_maria_delle_carceri%2C_interno%2C_fregio_di_andrea_della_robbia%2C_1492-95%2C_09.jpg){#fig:carceri-fregio}
+![Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492--1495. @sailko:2017santa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/640px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg){#fig:carceri-fregio}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview"}
@@ -1215,7 +1215,7 @@ Quinas reentrantes se tornam salientes com concavidade.
 
 * * * *
 
-![Rafael, planta da capela Chigi, c. 1512](https://upload.wikimedia.org/wikipedia/commons/0/0d/Chigi_raphael_plan.jpg){#fig:chigi-plan .stretch}
+![Rafael, planta da capela Chigi, c. 1512](https://upload.wikimedia.org/wikipedia/commons/0/0d/Chigi_raphael_plan.jpg){#fig:chigi-plan}
 
 ## {data-background-image="https://mapio.net/images-p/9469284.jpg"}
 

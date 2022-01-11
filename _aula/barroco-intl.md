@@ -155,7 +155,7 @@ nome, ele foi criado no Japão no início do século [XII]{.smallcaps}. Portanto
 dos poucos elementos da arquitetura budista a não ser de origem chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Kara-hafu. [Mukai (2007)][]](https://upload.wikimedia.org/wikipedia/commons/6/63/Kara-hafu.png){#fig:karahafu .stretch}
+![Kara-hafu. [Mukai (2007)][]](https://upload.wikimedia.org/wikipedia/commons/6/63/Kara-hafu.png){#fig:karahafu}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NinomaruPalace.jpg/1280px-NinomaruPalace.jpg"}
 
@@ -180,7 +180,7 @@ vigas. Esse esforço é o principal fator de dimensionamento das
 estruturas em madeira.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Detalhe da fachada do salão dourado do Tōdaiji com *karamon* e *tokyō*. [Urashima (2013)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Todaiji_-_Daibutsuden-13.jpg/762px-Todaiji_-_Daibutsuden-13.jpg){#fig:todaiji-kondo-karamon .stretch}
+![Detalhe da fachada do salão dourado do Tōdaiji com *karamon* e *tokyō*. [Urashima (2013)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Todaiji_-_Daibutsuden-13.jpg/762px-Todaiji_-_Daibutsuden-13.jpg){#fig:todaiji-kondo-karamon}
 
 * * * *
 
@@ -194,10 +194,10 @@ adotado no Japão do século [XIII]{.smallcaps} em diante.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Dougong ilustrado no *Yingzao fashi*. [Li Jie (1093)][]](https://upload.wikimedia.org/wikipedia/commons/4/4d/Yingzao_Fashi_5_desmear.JPG){#fig:dougong-yingzaofashi width=100% .stretch}
+![Dougong ilustrado no *Yingzao fashi*. [Li Jie (1093)][]](https://upload.wikimedia.org/wikipedia/commons/4/4d/Yingzao_Fashi_5_desmear.JPG){#fig:dougong-yingzaofashi width=100%}
 :::
 ::: {.column width=50%}
-![*Sashihijiki* no portão sul do Tōdaiji. [663highland (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Todaiji06s3200.jpg/514px-Todaiji06s3200.jpg){#fig:nandaimon-sashihijiki .stretch width=100%}
+![*Sashihijiki* no portão sul do Tōdaiji. [663highland (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Todaiji06s3200.jpg/514px-Todaiji06s3200.jpg){#fig:nandaimon-sashihijiki width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -209,7 +209,7 @@ Essa combinação ressalta o virtuosismo da carpintaria japonesa no século
 grande Buda" ([@Fig:todaiji-kondo-under]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Portada principal do salão dourado, Tōdaiji. [ESU (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1024px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg){#fig:todaiji-kondo-under .stretch}
+![Portada principal do salão dourado, Tōdaiji. [ESU (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1024px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg){#fig:todaiji-kondo-under}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1280px-Todaiji17s4592.jpg"}
 
@@ -254,7 +254,7 @@ capacidade técnica e expressiva desse modo de construir é o santuário
 Tōshōgū, em Nikkō, no leste do Japão ([@Fig:toshogu-view]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista de conjunto do Tōshōgū, Nikkō. [(1912)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toshogu_map.jpg/659px-Toshogu_map.jpg){#fig:toshogu-view .stretch}
+![Vista de conjunto do Tōshōgū, Nikkō. [(1912)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toshogu_map.jpg/659px-Toshogu_map.jpg){#fig:toshogu-view}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/1280px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg"}
 
@@ -266,7 +266,7 @@ por uma sucessão de recintos --- murados ou não --- e por uma escala
 mais modesta ([@Fig:toshogu-bn]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634--1636. [Acervo da Biblioteca nacional (Brasil)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg){#fig:toshogu-bn .stretch}
+![Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634--1636. [Acervo da Biblioteca nacional (Brasil)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg){#fig:toshogu-bn}
 
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1280px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg"}
@@ -291,7 +291,7 @@ visão foi propagada por autores modernistas como Bruno Taut e Walter
 Gropius, que visitaram o Japão nas décadas de 1930 e 40,
 respectivamente.
 
-![Yōmeimon, detalhe. [Arone (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1024px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG){#fig:yomeimon-kumimono .stretch}
+![Yōmeimon, detalhe. [Arone (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1024px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG){#fig:yomeimon-kumimono}
 
 * * * *
 
@@ -302,7 +302,7 @@ populares entre os arquitetos [@taut:1936fundamentals;
 seus autores *desejavam* enxergar ([@Fig:katsura-cover]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![*Katsura*, por Walter Gropius e Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960](https://www.book-komiyama.co.jp/i_item/2020/06/109179.jpg){#fig:katsura-cover .stretch}
+![*Katsura*, por Walter Gropius e Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960](https://www.book-komiyama.co.jp/i_item/2020/06/109179.jpg){#fig:katsura-cover}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1280px-Karamon_of_Nikko_Tosho_Shrine.JPG"}
 
@@ -379,7 +379,7 @@ associa, desde a segunda metade do século [XVII]{.smallcaps}, a um interesse re
 pelo estudo das ruínas da Antiguidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Henry Parke, medição do templo de Castor e Pólux. Ap. [Loth (2014)][]](https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg){#fig:parke-castor .stretch}
+![Henry Parke, medição do templo de Castor e Pólux. Ap. [Loth (2014)][]](https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg){#fig:parke-castor}
 
 * * * *
 
@@ -389,7 +389,7 @@ A obra do frade teatino e arquiteto italiano Guarino Guarini
 e antiquarianismo estético.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retrato póstumo de Guarino Guarini. [Anônimo (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg){#fig:guarini .stretch}
+![Retrato póstumo de Guarino Guarini. [Anônimo (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg){#fig:guarini}
 
 * * * *
 
@@ -403,10 +403,10 @@ conhecimentos matemáticos razoavelmente avançados ([@Fig:misurare]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:misurare}
 ::: {.column width=50%}
-![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareA .stretch width=100%}
+![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareA width=100%}
 :::
 ::: {.column width=50%}
-![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB .stretch width=100%}
+![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB width=100%}
 :::
 Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -423,10 +423,10 @@ Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Guarino Guarini, capela do Santo Sudário, Turim, 1668--1694. [Guarini (1682)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg){#fig:sindone-sez .stretch width=100%}
+![Guarino Guarini, capela do Santo Sudário, Turim, 1668--1694. [Guarini (1682)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg){#fig:sindone-sez width=100%}
 :::
 ::: {.column width=50%}
-![Exterior da capela do Santo Sudário. [Phyrexian (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG){#fig:sindone-ext .stretch width=100%}
+![Exterior da capela do Santo Sudário. [Phyrexian (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG){#fig:sindone-ext width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -444,7 +444,7 @@ nervurada. A mesma composição aparece na sua igreja de São Lourenço, em
 Turim.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan .stretch width=100%}
+![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan width=100%}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1280px-Torino,_san_lorenzo,_10.JPG"}
 

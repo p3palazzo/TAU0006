@@ -26,10 +26,10 @@ Armênia ([@Fig:africa-900-1500; @Fig:gospel-manuscript]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Estados Africanos até o século [XVI]{.smallcaps}. @maparchive:africa-900-1500](https://www.themaparchive.com/wp-content/uploads/2017/08/products-Ax00581.jpg){#fig:africa-900-1500 .stretch width=100%}
+![Estados Africanos até o século [XVI]{.smallcaps}. @maparchive:africa-900-1500](https://www.themaparchive.com/wp-content/uploads/2017/08/products-Ax00581.jpg){#fig:africa-900-1500 width=100%}
 :::
 ::: {.column width=50%}
-![Padre na igreja de Giyorgis, Hawzen, com um manuscrito dos Evangelhos. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0004.jpg){#fig:gospel-manuscript .stretch width=100%}
+![Padre na igreja de Giyorgis, Hawzen, com um manuscrito dos Evangelhos. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0004.jpg){#fig:gospel-manuscript width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -46,7 +46,7 @@ pressionado ao norte e a leste por estados muçulmanos apoiados pelo
 império Otomano ([@Fig:horn-1500]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![O chifre da África c. 1500. @maparchive:horn-1500](https://www.themaparchive.com/wp-content/uploads/2017/07/products-Ax00844.jpg){#fig:horn-1500 .stretch}
+![O chifre da África c. 1500. @maparchive:horn-1500](https://www.themaparchive.com/wp-content/uploads/2017/07/products-Ax00844.jpg){#fig:horn-1500}
 
 ## {data-background-image="https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg"}
 
@@ -59,7 +59,7 @@ direto de uma frota portuguesa contra o sultanato de Adal, aliado do
 império Otomano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![África em 1600. @maparchive:africa-1600](https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg){#fig:africa-1600 .stretch}
+![África em 1600. @maparchive:africa-1600](https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg){#fig:africa-1600}
 
 * * * *
 
@@ -80,10 +80,10 @@ grupo étnico dominante na Etiópia, ao qual pertence a família imperial).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Visita do patriarca católico Afonso Mendes ao imperador Sisínio I da Etiópia, 1626](https://upload.wikimedia.org/wikipedia/commons/2/29/Sosenyos_greets_Alfonso_Mendes.jpg){#fig:sosenyos-patriarca .stretch width=100%}
+![Visita do patriarca católico Afonso Mendes ao imperador Sisínio I da Etiópia, 1626](https://upload.wikimedia.org/wikipedia/commons/2/29/Sosenyos_greets_Alfonso_Mendes.jpg){#fig:sosenyos-patriarca width=100%}
 :::
 ::: {.column width=50%}
-![Missões jesuíticas na Etiópia, 1557--1632. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0001.jpg){#fig:windmueller-jesuit-map .stretch width=100%}
+![Missões jesuíticas na Etiópia, 1557--1632. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0001.jpg){#fig:windmueller-jesuit-map width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -104,7 +104,7 @@ missões jesuíticas ([@Fig:patriarca]) e a construção de capitais
 fortificadas inspiradas nos castelos europeus.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ruínas da residência do Patriarca católico em Debsan, c. 1626--1627. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg){#fig:patriarca .stretch}
+![Ruínas da residência do Patriarca católico em Debsan, c. 1626--1627. @windmuller-luna:2015guerra2](https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg){#fig:patriarca}
 
 ## {data-background-image="https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg"}
 
@@ -125,7 +125,7 @@ vários espaços utilitários, militares, e uma igreja formam o perímetro
 do conjunto ([@Fig:dungur-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta do palácio fortificado de Dungur, Aksum](https://wildfiregames.com/forum/uploads/monthly_2019_11/580336680_Dungurpalaceplan.png.879c53d4a42da6763fd52acbfd1a5576.png){#fig:dungur-plan .stretch}
+![Planta do palácio fortificado de Dungur, Aksum](https://wildfiregames.com/forum/uploads/monthly_2019_11/580336680_Dungurpalaceplan.png.879c53d4a42da6763fd52acbfd1a5576.png){#fig:dungur-plan}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/83/Danqaz4.jpg"}
 
@@ -159,7 +159,7 @@ quadrado com várias salas retangulares em enfiadas, semelhante à
 tipologia das casas suaíle.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Palácio de Dänqaz, planta. [Hgetnet (2010b)][]](https://upload.wikimedia.org/wikipedia/commons/0/0b/DankazPalace.JPG){#fig:danqaz-palace-plan .stretch}
+![Palácio de Dänqaz, planta. [Hgetnet (2010b)][]](https://upload.wikimedia.org/wikipedia/commons/0/0b/DankazPalace.JPG){#fig:danqaz-palace-plan}
 
 [Hgetnet (2010b)]: https://commons.wikimedia.org/wiki/File:DankazPalace.JPG
 
@@ -188,7 +188,9 @@ continua a ser incrementado até o século [XIX]{.smallcaps}
 ([@Fig:gondar-persp-monti]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por @monticorte:1938castelli](https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png){#fig:gondar-persp-monti}
+![Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por [Monti della Corte, 1938][]](https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png){#fig:gondar-persp-monti}
+
+[Monti della Corte, 1938]: http://archive.org/details/ICastelliDiGondar
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/1280px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg"}
 
@@ -219,7 +221,7 @@ conhecidas e usadas na região, mas se tornam mais monumentais e
 regulares graças ao novo material, como nos salões do próprio palácio de
 Fasílidas ([@Fig:fasil-salon]).
 
-![Salão no palácio de Fasílidas, Fasil Ghebbi, 1634. [Sailko (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/979px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg){#fig:fasil-salon .stretch}
+![Salão no palácio de Fasílidas, Fasil Ghebbi, 1634. [Sailko (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/979px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg){#fig:fasil-salon}
 
 [Sailko (2018)]: https://commons.wikimedia.org/wiki/File:Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg
 
@@ -230,10 +232,10 @@ Fasílidas ([@Fig:fasil-salon]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Ruínas de Gondar. [Davey (2007)][]](https://live.staticflickr.com/2074/2414819199_303b252528_c_d.jpg){#fig:gondar-daveyA width=100% .stretch}
+![Ruínas de Gondar. [Davey (2007)][]](https://live.staticflickr.com/2074/2414819199_303b252528_c_d.jpg){#fig:gondar-daveyA width=100%}
 :::
 ::: {.column width=50%}
-![Palácio de Fasílidas, Fasil Ghebbi. [Davey (2007)][]](https://live.staticflickr.com/2116/2415636310_edb484bee2_c_d.jpg){#fig:gondar-daveyB .stretch}
+![Palácio de Fasílidas, Fasil Ghebbi. [Davey (2007)][]](https://live.staticflickr.com/2116/2415636310_edb484bee2_c_d.jpg){#fig:gondar-daveyB}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -296,7 +298,7 @@ tempo, a Etiópia consegue repelir em 1875 um ataque egípcio e em 1885
 uma invasão italiana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Expansão do império da Etiópia do século [XVIII]{.smallcaps} ao [XIX]{.smallcaps}. [Pethrus (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Menelik_II_conquests_map.svg/772px-Menelik_II_conquests_map.svg.png){#fig:et-menelik2 .stretch}
+![Expansão do império da Etiópia do século [XVIII]{.smallcaps} ao [XIX]{.smallcaps}. [Pethrus (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Menelik_II_conquests_map.svg/772px-Menelik_II_conquests_map.svg.png){#fig:et-menelik2}
 
 [Pethrus (2010)]: https://commons.wikimedia.org/wiki/File:Menelik_II_conquests_map.svg
 
@@ -386,7 +388,7 @@ uma terraplanagem concebida para expressar o contraste entre montanhas e
 pintura de paisagem.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg/1280px-2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg/1280px-2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Usando as colinas e os tanques de água como base, o jardim chinês é
@@ -395,7 +397,7 @@ com elementos edificados. Essas construções podem ser tanto pavilhões
 habitáveis quanto muros com janelas para enquadrar vistas, ou ainda
 miniaturas arquitetônicas ([@fig:zhuozheng-cozy]).
 
-![Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513. @zossolino:2015suzhou](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg/1024px-2015-09-24-130235_-_Suzhou%2C_Garten_des_bescheidenen_Beamten.jpg){#fig:zhuozheng-cozy}
+![Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513. @zossolino:2015suzhou](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg/1024px-2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg){#fig:zhuozheng-cozy}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Jardins urbanos ##
@@ -452,8 +454,7 @@ reclusão do espaço reforça o universo interior do intelectual. Os
 pórticos são murados do lado de fora, restringindo as visuais para o
 exterior ([@fig:canglangting-lang]).
 
-![Su Zimei, pórticos do Canglang ting, Suzhou, c. 1045.
-@chinatravelsavvy:2010canglang](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canglang_Pavilion_2.jpg/1024px-Canglang_Pavilion_2.jpg){#fig:canglangting-lang}
+![Su Zimei, pórticos do Canglang ting, Suzhou, c. 1045. Foto: [China Travel Savvy, 2010](https://commons.wikimedia.org/wiki/File:Canglang_Pavilion_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canglang_Pavilion_2.jpg/1024px-Canglang_Pavilion_2.jpg){#fig:canglangting-lang}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://www.youtube.com/embed/ikYW3G4xRaY" data-background-video-muted="true"}
@@ -501,7 +502,7 @@ Esse jardim, projetado por Shi Zhengzhi em 1140, exemplifica a distinção
 clara entre o partido axial da residência, com a sua sequência de
 pátios, e a configuração pitoresca do paisagismo ([@fig:nets-painting]).
 
-![Shi Zhengzhi, Wangshiyuan, Suzhou, 1140 (reformulado em 1785)](https://i.pinimg.com/originals/3a/49/25/3a492501be2edb05ea4e779b7ae32c00.jpg){#fig:nets-painting .stretch}
+![Shi Zhengzhi, Wangshiyuan, Suzhou, 1140 (reformulado em 1785)](https://i.pinimg.com/originals/3a/49/25/3a492501be2edb05ea4e779b7ae32c00.jpg){#fig:nets-painting}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau6-062-inaji-intersect/preview"}
@@ -568,14 +569,14 @@ usando a vegetação para estabilizar o solo.
 ![Wang Xianchen, ponte, Zhuozhengyuan, Suzhou, 1513. @tibaldi:2016suzhou](https://www.integra.unb.br/s/tau6-062-zhuozheng-qiao/preview){#fig:zhuozheng-qiao}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG/1280px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_34.JPG/1280px-Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_34.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As passarelas em ziguezague geram um percurso lento e contemplativo, que
 alterna entre episódios de vistas restritas e amplas
 ([@fig:zhuozheng-path]).
 
-![Wang Xianchen, passarela, Zhuozhengyuan, Suzhou, 1513. @anotherbeliever:2015humble34](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG/1024px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_34.JPG){#fig:zhuozheng-path}
+![Wang Xianchen, passarela, Zhuozhengyuan, Suzhou, 1513. @anotherbeliever:2015humble34](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_34.JPG/1024px-Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_34.JPG){#fig:zhuozheng-path}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.chinatoptrip.com/wp-content/uploads/2018/12/humble-administrator-garden-in-winter-5.jpg"}
@@ -590,7 +591,7 @@ vistas ([@fig:zhuozheng-qiang]).
 ![Zhuozhengyuan no inverno](https://www.chinatoptrip.com/wp-content/uploads/2018/12/humble-administrator-garden-in-winter-5.jpg){#fig:zhuozheng-qiang}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg/1280px-20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg/1280px-20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na dinastia Qing, os muros de contenção que sustentam caminhos e
@@ -598,39 +599,39 @@ pavilhões, e as rochas ornamentais do paisagismo, são usados para
 delimitar o contorno dos lagos e reduzir a erosão das margens
 ([@fig:zhuozheng-corner]).
 
-![Pavilhão e pórtico no Zhuozhengyuan. @halun:2009humble](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg/1024px-20090905_Suzhou_Humble_Administrator%27s_Garden_4552.jpg){#fig:zhuozheng-corner}
+![Pavilhão e pórtico no Zhuozhengyuan. @halun:2009humble](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg/1024px-20090905_Suzhou_Humble_Administrator's_Garden_4552.jpg){#fig:zhuozheng-corner}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Paisagens emprestadas ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O "empréstimo" de vistas é o princípio central do paisagismo chinês. Ele
 articula o microcosmo do jardim com o mundo exterior, sem comprometer a
 privacidade do espaço interior ([@fig:zhuozheng-se]).
 
-![Zhuozhengyuan, vista com a residência ao fundo. @mcgill:2011humble](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Humble_Administrator%27s_Garden_7193_%286399187813%29.jpg/1024px-Humble_Administrator%27s_Garden_7193_%286399187813%29.jpg){#fig:zhuozheng-se}
+![Zhuozhengyuan, vista com a residência ao fundo. @mcgill:2011humble](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Humble_Administrator's_Garden_7193_(6399187813).jpg/1024px-Humble_Administrator's_Garden_7193_(6399187813).jpg){#fig:zhuozheng-se}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O "empréstimo" usa vistas pitorescas próximas ou distantes para
 enriquecer a experiência do jardim e ultrapassar os limites do terreno
 disponível ([@fig:zhuozheng-jie]).
 
-![Vista do pagode Beisi desde o Zhuozhengyuan. @king:2017view](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg/960px-Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg){#fig:zhuozheng-jie}
+![Vista do pagode Beisi desde o Zhuozhengyuan. @king:2017view](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg/960px-Humble_Administrator's_Garden_Suzhou_November_2017_006.jpg){#fig:zhuozheng-jie}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG/1280px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_30.JPG/1280px-Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_30.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Janelas com treliçados em madeira ou pedra estão entre os mecanismos
 mais comuns para tomar vistas "emprestadas" do entorno imediato, ou
 mesmo do próprio jardim ([@fig:zhuozheng-win]).
 
-![Janela treliçada, Zhuozhengyuan. @anotherbeliever:2015humble30](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG/1024px-Humble_Administrator%27s_Garden_in_Suzhou%2C_China_%282015%29_-_30.JPG){#fig:zhuozheng-win}
+![Janela treliçada, Zhuozhengyuan. @anotherbeliever:2015humble30](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_30.JPG/1024px-Humble_Administrator's_Garden_in_Suzhou,_China_(2015)_-_30.JPG){#fig:zhuozheng-win}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://static.dezeen.com/uploads/2017/03/eight-tenths-garden-wutopia-lab-architecture-china-shanghai-museums-cultural_dezeen_2364_col_5-1704x1136.jpg"}
@@ -645,23 +646,23 @@ escolhidas do interior e do exterior ([@fig:wutopia]).
 
 ## Acomodação das estruturas ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg/1229px-Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg/1229px-Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os vários salões funcionais --- escritórios e salas de jantar --- estão
 dispostos de modo a oferecer pousos em algumas das vistas mais
 pitorescas ([@fig:zhuozheng-mtnview]).
 
-![Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. @king:2017mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator%27s_Garden_Suzhou_November_2017_007.jpg){#fig:zhuozheng-mtnview}
+![Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. @king:2017mountain](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator's_Garden_Suzhou_November_2017_007.jpg){#fig:zhuozheng-mtnview}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg/1280px-Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas edículas têm um ou mais ambientes internos, mobiliados para
 meditação, escrita, pintura, refeições ou chá ([@fig:zhuozheng-int]).
 
-![Zhuozhengyuan, salão dos bons modos. @king:2017hall](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg/1024px-Humble_Administrator%27s_Garden_Suzhou_November_2017_004.jpg){#fig:zhuozheng-int}
+![Zhuozhengyuan, salão dos bons modos. @king:2017hall](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg/1024px-Humble_Administrator's_Garden_Suzhou_November_2017_004.jpg){#fig:zhuozheng-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Jardins imperiais ##

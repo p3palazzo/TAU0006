@@ -55,10 +55,10 @@ descrita como "solidez, funcionalidade e beleza" ([@Fig:triade-intro]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro .stretch}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro}
 :::
 ::: {.column width=50%}
-![Tríade vitruviana: Solidez, funcionalidade, beleza](https://www.integra.unb.br/s/tau0006-041-triade-vitruviana/preview){#fig:triade-intro .stretch}
+![Tríade vitruviana: Solidez, funcionalidade, beleza](https://www.integra.unb.br/s/tau0006-041-triade-vitruviana/preview){#fig:triade-intro}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -72,7 +72,7 @@ criaturas por ser a única que pode ser inscrita tanto num quadrado
 quanto num círculo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leonardo da Vinci, homem vitruviano, c. 1492](https://www.integra.unb.br/s/tau0006-041-vitruvianman-thumb/preview){#fig:leonardo-vitruvian .stretch}
+![Leonardo da Vinci, homem vitruviano, c. 1492](https://www.integra.unb.br/s/tau0006-041-vitruvianman-thumb/preview){#fig:leonardo-vitruvian}
 
 * * * *
 
@@ -108,7 +108,7 @@ as coisas visíveis e invisíveis" ([@Fig:esferas]), mas também as leis
 que governam esse universo --- e o microcosmo --- qualquer criatura
 divina particular ou obra humana.
 
-![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://www.integra.unb.br/s/tau0006-041-sfera/preview){#fig:esferas .stretch}
+![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://www.integra.unb.br/s/tau0006-041-sfera/preview){#fig:esferas}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-luopan/preview"}
@@ -118,7 +118,7 @@ O rebatimento entre macrocosmo e microcosmo é um conceito que transcende
 a filosofia europeia, estando presente em várias culturas edilícias, da
 China ([@Fig:luopan]) e da Índia até as Américas.
 
-![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://www.integra.unb.br/s/tau0006-041-luopan/preview){#fig:luopan .stretch}
+![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://www.integra.unb.br/s/tau0006-041-luopan/preview){#fig:luopan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview"}
@@ -132,13 +132,13 @@ corpo humano. Temos vários exemplos desse pensamento nos séculos [XV]{.smallca
 produzida pelo engenheiro militar e teórico Francesco di Giorgio Martini
 entre 1480 e 1490 ([@Fig:giorgio-capitel; @Fig:giorgio-ds48]).
 
-![Francesco di Giorgio Martini, estudo de capitéis, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview){#fig:giorgio-capitel .stretch}
+![Francesco di Giorgio Martini, estudo de capitéis, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview){#fig:giorgio-capitel}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-ds48/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-ds48){#fig:giorgio-ds48 .stretch}
+![Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-ds48){#fig:giorgio-ds48}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -151,15 +151,15 @@ em planta como em elevação ([@Fig:giorgio-basilica-plan;
 ([@Fig:giorgio-citadella-umana]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), c. 1478--1481](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica-plan .stretch}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), c. 1478--1481](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica-plan}
 
 * * * *
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv .stretch}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv}
 
 * * * *
 
-![Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg){#fig:giorgio-citadella-umana .stretch}
+![Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg){#fig:giorgio-citadella-umana}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg"}
 
@@ -182,7 +182,7 @@ vezes reeditado, mais consultado e mais imitado ([@Fig:chitham-tuscan])
 dos últimos quinhentos anos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-5ordini .stretch}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-5ordini}
 
 ## 
 
@@ -194,7 +194,7 @@ complementares sintetiza, no seu tempo, mais de um século de estudo e
 experimentação.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://www.integra.unb.br/s/tau0006-011-ordonnance/preview){#fig:perrault .stretch}
+![Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://www.integra.unb.br/s/tau0006-011-ordonnance/preview){#fig:perrault}
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-chitham2005-37/preview"}
 
@@ -205,7 +205,7 @@ solução desse problema prático, várias "regras" propostas por diferentes
 autores ao longo do tempo podem existir lado a lado, com ligeiras
 discrepâncias entre si. 
 
-![Robert Chitham, quadro comparativo de ordens toscanas, 1982](https://www.integra.unb.br/s/tau0006-041-chitham2005-37/preview){#fig:chitham-tuscan .stretch}
+![Robert Chitham, quadro comparativo de ordens toscanas, 1982](https://www.integra.unb.br/s/tau0006-041-chitham2005-37/preview){#fig:chitham-tuscan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -224,7 +224,7 @@ questão. Um dos elementos centrais nesse discurso teórico é a chamada
 os requisitos da solidez construtiva, da utilidade funcional, e da
 beleza formal ([@Fig:triade]).
 
-![Tríade vitruviana](https://www.integra.unb.br/s/tau0006-041-triade-bg/preview){#fig:triade .stretch}
+![Tríade vitruviana](https://www.integra.unb.br/s/tau0006-041-triade-bg/preview){#fig:triade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -238,7 +238,7 @@ campo da retórica clássica e da filosofia escolástica durante o período
 medieval [@vaneck:1998structure57].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leon Battista Alberti, *Da arte edificatória*, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011](https://www.integra.unb.br/s/tau0006-041-alberti-gulbenkian/preview){#fig:alberti-gulbenkian .stretch}
+![Leon Battista Alberti, *Da arte edificatória*, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011](https://www.integra.unb.br/s/tau0006-041-alberti-gulbenkian/preview){#fig:alberti-gulbenkian}
 
 ## Conclusão
 
@@ -258,7 +258,7 @@ centros de difusão do pensamento arquitetônico.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin%2C_1924.png){#fig:woelfflin-1924 width=100%}
+![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png){#fig:woelfflin-1924 width=100%}
 :::
 ::: {.column width=50%}
 ![Giulio Carlo Argan (1909--1992). [Artribune][]](https://cdn07.artribune.com/wp-content/uploads/2015/09/Giulio-Carlo-Argan-negli-anni-80.jpg){#fig:argan-senato width=100%}
@@ -278,15 +278,15 @@ https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthis
 
 * * * *
 
-![Piero della Francesca. Flagelação de Cristo, 1468--1470](https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg){#fig:flagellazione .stretch}
+![Piero della Francesca. Flagelação de Cristo, 1468--1470](https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg){#fig:flagellazione}
 
 * * * *
 
-![Jacopo Tintoretto, Última Ceia, 1594](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg){#fig:tintoretto .stretch}
+![Jacopo Tintoretto, Última Ceia, 1594](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg){#fig:tintoretto}
 
 * * * *
 
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_%28Firenze%2C_1975%29_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia .stretch}
+![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Composição quase plana.
@@ -298,7 +298,7 @@ Composição quase plana.
 
 * * * *
 
-![Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520--1555. [Andrea Jemolo (2019)][]](https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG){#fig:sagrestia-nuova .stretch}
+![Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520--1555. [Andrea Jemolo (2019)][]](https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG){#fig:sagrestia-nuova}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Volume escultórico reforçado pelas diferenças de tamanho entre os
@@ -316,7 +316,7 @@ A cenografia é o domínio por excelência da profundidade, ou melhor, da
 aparência de profundidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cesare Cesariano, edifícios cênicos da tradução do tratado *Da Arquitetura* de Vitrúvio, 1521](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg){#fig:cesariano-cavedi .stretch}
+![Cesare Cesariano, edifícios cênicos da tradução do tratado *Da Arquitetura* de Vitrúvio, 1521](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg){#fig:cesariano-cavedi}
 
 * * * *
 
@@ -325,7 +325,7 @@ Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
 espírito prático à visão do classicismo como sistema global.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l%27architecture%2C_sur_les_cincq_manieres_d%27edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l%27architecture%2C_sur_les_cincq_manieres_d%27edifices_MET_DP291981.jpg){#fig:serlio-orders .stretch}
+![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg){#fig:serlio-orders}
 
 * * * *
 
@@ -336,17 +336,17 @@ a caracterização dos diferentes tipos de cenários segundo o caráter da
 peça.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio%2C_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio%2C_69.jpg){#fig:serlio-tragica .stretch}
+![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg){#fig:serlio-tragica}
 
 * * * *
 
-![Sebastiano Serlio, cena cômica, publicado em 1569](https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg){#fig:serlio-comica .stretch}
+![Sebastiano Serlio, cena cômica, publicado em 1569](https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg){#fig:serlio-comica}
 
 ## Rafael ##
 
 * * * *
 
-![Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. [Charles-Louis Clérisseau (1740--1760)][]](https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg){#fig:madama-clerisseau .stretch}
+![Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. [Charles-Louis Clérisseau (1740--1760)][]](https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg){#fig:madama-clerisseau}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Charles-Louis Clérisseau (1740--1760)]: https://www.rome-roma.net/site-rome-art.php?lieu=villa%20madama
@@ -354,7 +354,7 @@ peça.
 
 * * * *
 
-![Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. [Peter1936F (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg){#fig:chigh .stretch}
+![Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. [Peter1936F (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg){#fig:chigh}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Peter1936F (2014)]: https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg
@@ -370,7 +370,7 @@ Na biblioteca Laurenciana ([@fig:laurenziana-plan;
 a questão da volumetria sobre a parede, num contexto extremo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534](https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w){#fig:laurenziana-plan .stretch}
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534](https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w){#fig:laurenziana-plan}
 
 * * * *
 
@@ -387,7 +387,7 @@ que é, e junto com ela todo o espaço do vestíbulo.
 [Massimo Listri (2019)]: http://massimolistri.com/en/catalogo/detail/27-Florence
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2019)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg){#fig:laurenziana-scala .stretch}
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2019)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg){#fig:laurenziana-scala}
 
 * * * *
 
@@ -397,7 +397,7 @@ de aplicar as pilastras e colunas *à frente* da superfície da parede, e
 encaixa os elementos da arquitetura *dentro* da espessura da parede.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2009)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg){#fig:laurenziana-ricetto .stretch}
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2009)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg){#fig:laurenziana-ricetto}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Massimo Listri (2009)]: http://massimolistri.com/en/catalogo/detail/27-Florence
@@ -414,7 +414,7 @@ Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
 batistério de Florença ([@fig:battistero-nord]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG/1280px-Battistero_di_firenze%2C_interno_04%2C_porta_nord.JPG){#fig:battistero-nord .stretch}
+![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG){#fig:battistero-nord}
 
 * * * *
 
@@ -425,7 +425,7 @@ seus últimos projetos ([@fig:mantua-int]). No entanto, na solução de
 Alberti, cada ordem ainda compõe um único "nível" do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int .stretch}
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int}
 
 * * * *
 
@@ -436,7 +436,7 @@ trata-se de uma composição unitária: a ordem colossal não interage com
 uma ordem menor.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Antonio da Sangallo, o velho (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. [Strafforello (1895)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi-persp .stretch}
+![Antonio da Sangallo, o velho (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. [Strafforello (1895)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi-persp}
 
 [Strafforello (1895)]: https://commons.wikimedia.org/wiki/File:Montepulciano_Palazzo_Tarugi.jpg
 
@@ -447,17 +447,17 @@ A ordem colossal é usada desde então como estratégia de unificação da
 fachada, uma solução especialmente popular em Roma.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d%27Antica_Zecca.jpg/1132px-Palazzo_d%27Antica_Zecca.jpg){#fig:zecca .stretch}
+![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
 
 * * * *
 
-![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg/1280px-Maquette_de_Rome_%28mus%C3%A9e_de_la_civilisation_romaine%2C_Rome%29_%285911810278%29.jpg){#fig:capitolium .stretch}
+![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg/1280px-Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg){#fig:capitolium}
 
-[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(mus%C3%A9e_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
+[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
 
 * * * *
 
-![Miguel Ângelo Buonarroti, Capitólio, Roma, 1536--1546, planta por Paul Letarouilly](https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg){#fig:campidoglio-plan .stretch}
+![Miguel Ângelo Buonarroti, Capitólio, Roma, 1536--1546, planta por Paul Letarouilly](https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg){#fig:campidoglio-plan}
 
 * * * *
 
@@ -465,7 +465,7 @@ fachada, uma solução especialmente popular em Roma.
 Combinação de ordem colossal de pilastras e ordem pequena de colunas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536--1546](https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg){#fig:pal-nuovo .stretch}
+![Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536--1546](https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg){#fig:pal-nuovo}
 
 * * * *
 
@@ -475,7 +475,7 @@ arquitetônicas que favorecem a marcação dos pavimentos por meio da
 sobreposição de ordens, como Florença e a França...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pierre Lescot, palácio do Louvre, reconstruído 1546--1551. Desenho de [Jacques Androuet du Cerceau (1576)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_%28Gregg_1972_p20%29_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_%28Gregg_1972_p20%29_-_Louvre_west_wing_court_facade.jpg){#fig:louvre-ducerceau .stretch}
+![Pierre Lescot, palácio do Louvre, reconstruído 1546--1551. Desenho de [Jacques Androuet du Cerceau (1576)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg){#fig:louvre-ducerceau}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Jacques Androuet du Cerceau (1576)]: https://commons.wikimedia.org/wiki/File:Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg
@@ -495,7 +495,7 @@ sobre pódio, que é o caso de Roma e da terra firme veneziana.
 ._
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Andrea Palladio, loggia del Capitaniato, Vicenza, 1571--1572. [Marcok (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg){#fig:capitaniato-colossal .stretch}
+![Andrea Palladio, loggia del Capitaniato, Vicenza, 1571--1572. [Marcok (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg){#fig:capitaniato-colossal}
 
 # Jardins da Ásia central #
 
@@ -570,7 +570,7 @@ surata (O clemente) do Alcorão que diz:
 
 * * * *
 
-![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi .stretch}
+![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi}
 
 ## Jardim indo-persa ##
 
@@ -683,7 +683,7 @@ sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Representação do imperador Babur, c. 1640, montada numa página decorada c. 1650--1658. Do álbum do xá Jahan, Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg/538px-Portrait_of_Emperor_Babur_%281483-1530%29_-_India_-_about_1640_%28central_painting%29_-_Payag_%28%3F%29_-_Louvre_-_OA_7156.jpg){#fig:babur}
+![Representação do imperador Babur, c. 1640, montada numa página decorada c. 1650--1658. Do álbum do xá Jahan, Louvre](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Emperor_Babur_(1483-1530)_-_India_-_about_1640_(central_painting)_-_Payag_(%3F)_-_Louvre_-_OA_7156.jpg/538px-Portrait_of_Emperor_Babur_(1483-1530)_-_India_-_about_1640_(central_painting)_-_Payag_(%3F)_-_Louvre_-_OA_7156.jpg){#fig:babur}
 :::
 ::: {.column width=50%}
 ![Retrato do xá Abbas I por um pintor de escola italiana, talvez Júlio, o Grego, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/2/2e/ShahAbbasPortraitFromItalianPainter.jpg){#fig:abbas}
@@ -800,7 +800,7 @@ Villiers-Stuart, Constance Mary. *Gardens of the Great Mughals.* London: A. and 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1280px-Samarcanda%2C_Gur-e_Amir_19.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1280px-Samarcanda,_Gur-e_Amir_19.jpg"}
 
 O império Mogol é um estado governado por uma dinastia originária da
 Ásia central, instalado no norte da Índia, e usando a cultura persa para
@@ -811,7 +811,7 @@ central muçulmana. Ela tem o seu ponto alto no gur e-Amir, a tumba de
 Tamerlão, construída em Samarcanda no início do século [XV]{.smallcaps}
 ([@fig:gur-e-amir]).
 
-![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda%2C_Gur-e_Amir_19.jpg/1024px-Samarcanda%2C_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
+![Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403--1404. @marcos:2011mausoleo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1024px-Samarcanda,_Gur-e_Amir_19.jpg){#fig:gur-e-amir}
 
 ## {data-background-image="https://images-production.gardenvisit.com/uploads/images/12013/bagh_e_babur_kabul_original.jpg"}
 
@@ -923,7 +923,7 @@ solução urbanística de Isfahan.
 ![Planta de conjunto do complexo paisagístico do Taj Mahal. @mcginnly:2007taj](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png){#fig:taj-site}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na outra margem do rio, foram descobertos vestígios do Mehtab bāgh
@@ -932,7 +932,7 @@ Mahal ([@fig:taj-watercolor]). Esse jardim sugere que o complexo se
 estendia para além do rio; o Taj Mahal seria, literalmente, refletido
 num espelho d'água octogonal, tornando a composição completa.
 
-![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
+![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"}
@@ -956,7 +956,7 @@ Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
 
 ## Colonização britânica ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Originalmente o jardim continha uma enorme variedade de plantas e
@@ -966,7 +966,7 @@ britânico no século [XIX]{.smallcaps}, não só o jardim do Taj Mahal, mas de 
 outros jardins mogóis foram transformados em extensos gramados
 ([@fig:taj-lawn]).
 
-![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg/997px-Taj_Mahal%2C_Agra%2C_India%2C_ca._1900.jpg){#fig:taj-1890}
+![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg/997px-Taj_Mahal,_Agra,_India,_ca._1900.jpg){#fig:taj-1890}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1280px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg"}
@@ -975,7 +975,7 @@ outros jardins mogóis foram transformados em extensos gramados
 ![Vista do Taj Mahal desde o sudoeste. @waikhom:2012view](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg){#fig:taj-lawn}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1280px-Mughal_Garden_Delhi%2C_India_08.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1280px-Mughal_Garden_Delhi,_India_08.jpg"}
 
 Apesar disso, a presença britânica na Índia também resultou no início da
 pesquisa histórica e arqueológica da região. Um dos produtos mais
@@ -987,7 +987,7 @@ coloniais britânicos na Índia, o "jardim mogol" do antigo palácio dos
 vice-reis e atual palácio presidencial, em Nova Delhi
 ([@fig:mughal-gardens; @fig:stoughton]).
 
-![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi%2C_India_08.jpg/1024px-Mughal_Garden_Delhi%2C_India_08.jpg){#fig:mughal-gardens}
+![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1024px-Mughal_Garden_Delhi,_India_08.jpg){#fig:mughal-gardens}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg"}
 
@@ -1181,7 +1181,7 @@ monumentais.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"}
 
-![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade .stretch}
+![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade}
 
 <!--_,-->
 
@@ -1197,10 +1197,10 @@ pátio Quadrado do Louvre,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare width=100% .stretch}
+![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare width=100%}
 :::
 ::: {.column width=50%}
-![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare width=100% .stretch}
+![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1214,10 +1214,10 @@ pátio Quadrado do Louvre,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare-valmarana width=100% .stretch}
+![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare-valmarana width=100%}
 :::
 ::: {.column width=50%}
-![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-louvre width=100% .stretch}
+![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-louvre width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1225,10 +1225,10 @@ pátio Quadrado do Louvre,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare-valmarana width=100% .stretch}
+![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare-valmarana width=100%}
 :::
 ::: {.column width=50%}
-![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-charleval width=100% .stretch}
+![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-charleval width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1242,10 +1242,10 @@ pátio Quadrado do Louvre,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacques Lemercier, capela da Sorbonne, fachada sobre a rua](https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg){#fig:sorbonne-rue width=100% .stretch}
+![Jacques Lemercier, capela da Sorbonne, fachada sobre a rua](https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg){#fig:sorbonne-rue width=100%}
 :::
 ::: {.column width=50%}
-![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg){#fig:sorbonne-cour width=100% .stretch}
+![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg){#fig:sorbonne-cour width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

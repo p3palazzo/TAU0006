@@ -10,6 +10,14 @@ toc:
   - A cúpula de Brunelleschi
   - Cúpulas islâmicas e malhas espaciais
 leitura: 474--490, 530--536
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
+  caption: "Kesav Das (atribuição), [O espião Zambur leva Mahiya à cidade de Tawariq](https://www.metmuseum.org/art/collection/search/447743), folha do *Hamzanama*, c. 1570"
+  actions:
+  - label: "Slides"
+    url  : "/slides/sistemas-espaciais/"
 ---
 
 # 
@@ -88,7 +96,7 @@ criação humana na ordem do mundo ([@fig:veduta1495]).
 ![[Atribuído a Giuliano da Sangallo
 ](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg).
 Perspectiva arquitetônica com porto, c. 1495
-](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .fullwidth}
+](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .full}
 
 <!--_,-->
 
@@ -107,11 +115,11 @@ forma no desenho e na pintura se tornam centrais na China da dinastia
 Ming (1368--1644) ([@fig:qiu-han]) e na Itália do primeiro Renascimento, a
 partir de meados do século [XIV]{.smallcaps} ([@fig:buongoverno]).
 
-![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .fullwidth}
+![Qiu Ying. Manhã de Primavera No Palácio Han, primeira metade do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg){#fig:qiu-han .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .fullwidth}
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .full}
 
 <!--_,-->
 
@@ -184,11 +192,11 @@ gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquit
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi .stretch}
+![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi}
 :::
 ::: {.column width=50%}
 ![Cinco ordens de arquitetura por Claude Perrault
-](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance .stretch} 
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -203,7 +211,7 @@ regionais ou nacionais no século [XVIII]{.smallcaps}. No início desse processo
 espaço ordenado pela arquitetura é aquele que pode ser abarcado,
 literalmente, num só golpe de vista ([@fig:carnevale]).
 
-![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .fullwidth}
+![Fra Carnevale. Cidade ideal, têmpera sobre madeira, c. 1480--1484](https://upload.wikimedia.org/wikipedia/commons/b/b9/Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg){#fig:carnevale .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"}
 
@@ -212,7 +220,7 @@ panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
 do território ([@fig:versailles-patel]).
 
-![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel .stretch}
+![Pierre Patel. Vista do castelo de Versalhes, c. 1668](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg){#fig:versailles-patel}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 
@@ -222,7 +230,7 @@ início do [XVII]{.smallcaps}, podem celebrar o fato efêmero da fragmentação 
 central, que por um breve momento dá lugar à autonomia burguesa
 ([@fig:funaki]).
 
-![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .fullwidth}
+![Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .full}
 
 <!--Câmera-->
 Por tudo isso, o espaço urbano na virada do século [XIV]{.smallcaps} é o ponto de

@@ -5,17 +5,24 @@ item    : III
 author  : Pedro P. Palazzo
 date    : 2022-02-01
 toc:
+  - Espacialidade e vazio na pintura chinesa
   - História da arquitetura como história do espaço
   - Cidades e castelos em Portugal e no Japão
   - Do boma banto às cidades da Guiné
 leitura: 501--518, 537--538
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
+  caption: "Kanō Takanobu (atribuição), [*Cenas dentro e fora de Quioto*, biombo esquerdo de um par](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
+  actions:
+  - label: "Slides"
+    url  : "/slides/cidades-possiveis/"
 ---
 
-História da arquitetura como história do espaço
-===============================================
+# Espacialidade e vazio na pintura chinesa #
 
-## 
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O domínio do espaço é um dos temas estruturantes na nossa abordagem da
 arquitetura do Renascimento. Desde o início da construção da cúpula da
 catedral de Florença, em 1420, até as superfícies tortuosas do barroco
@@ -24,7 +31,11 @@ espaços interiores é um critério central para interpretar, classificar e
 periodizar a arquitetura. No entanto, a importância que essa narrativa
 histórica centrada no espaço tem para um estudo estético da arquitetura
 hoje em dia é uma interpretação relativamente recente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um pouco mais antigo é o estudo da representação do espaço na pintura.
 Esses dois problemas --- o domínio do espaço no ofício da arquitetura e
 a representação do espaço na pintura --- dialogam nas suas
@@ -32,118 +43,260 @@ transformações ao longo do tempo. Na História da Arte, o problema da
 representação do espaço na pintura chinesa e italiana é uma das questões
 clássicas. Alguns dos principais autores de meados do século [XX]{.smallcaps}, como
 Erwin Panofsky e Rudolf Wittkower para a Itália ou Liang Sicheng e James
-Cahill para a China, elaboraram teorias explicativas sistemáticas sobre
-essa questão. Mais adiante, essas teorias acabariam questionadas por
-terem criado esquemas um tanto deterministas e simplistas. No entanto,
-essa crítica não substituiu os esquemas clássicos por outros. Por isso,
-apesar das limitações interpretativas desses esquemas, eles continuam
-sendo uma introdução relevante ao estudo da história da arte.
+Cahill para a China ([@fig:mk2]), elaboraram teorias explicativas sistemáticas
+sobre essa questão. Mais adiante, essas teorias acabariam questionadas
+por terem criado esquemas um tanto deterministas e simplistas. No
+entanto, essa crítica não substituiu os esquemas clássicos por outros.
+Por isso, apesar das limitações interpretativas desses esquemas, eles
+continuam sendo uma introdução relevante ao estudo da história da arte.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Choose your Art Historian](){#fig:mk2}
+![Choose your Art Historian](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2}
 
-Arquitetura e perspectiva
--------------------------
+## Emergência da espacialidade ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A busca por articulações espaciais específicas e por modos de
 representar espaço na pintura é um esforço contínuo nas tradições
 artísticas na Ásia oriental e na Europa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Compreender arquitetura e mesmo a pintura como artes espaciais permite
 ir além de uma leitura superficial dos estilos decorativos ou gráficos
 para atingir as buscas teóricas e técnicas mais profundas que os
 artistas desenvolvem ao longo do tempo. Isso é especialmente válido no
 caso da China, que tem uma longa tradição artística conservadora, onde o
 estilo de representação pictórica está, em grande parte, codificado
-desde o século III d.C. O fio condutor da periodização na pintura
-chinesa Diz respeito portanto ao desenvolvimento de articulações do
+desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Gu Kaizhi. [*Ninfa do rio Luo*], cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi}
+
+[*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
+
+## 
+
+![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan .full}
+
+[Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)_by_Emperor_Huizong_(1082–1135).jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O fio condutor da periodização na pintura
+chinesa diz respeito portanto ao desenvolvimento de articulações do
 espaço pictórico. De modo muito resumido, essas articulações passam de
-figuras isoladas, na dinastia Han (séculos I--III d.C.), a células
-espaciais formando uma narrativa sequencial, na dinastia Tang (séculos
-VII--X), até composições espaciais completas e contínuas na dinastia
-Song (séculos [X--XIII]{.smallcaps}), quando se desenvolve a pintura de paisagens e de
+figuras isoladas, na dinastia Han (séculos [I--III]{.smallcaps} d.C.), a
+células espaciais formando uma narrativa sequencial, na dinastia Tang
+(séculos [VII--X]{.smallcaps}) ([@fig:zhangxuan]), até composições
+espaciais completas e contínuas na dinastia Song (séculos
+[X--XIII]{.smallcaps}), quando se desenvolve a pintura de paisagens e de
 cenas urbanas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gu Kaizhi. Nymph of the Lo river](){#fig:gukaizhi}
+## Materialidade e imaterialidade ##
 
-![Zhang Xuan. Silk beaters](){#fig:zhangxuan}
+##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Dominar o espaço na pintura envolve projetar numa superfície em duas
 dimensões formas que existem no espaço físico em três dimensões. O modo
 pelo qual cada cultura ou período histórico realiza essa projeção é,
 essencialmente, uma convenção cultural. Na China, a perspectiva
 cavaleira se firma desde cedo como o modo preferencial de projeção das
-formas geométricas na pintura. Na pintura de paisagem, duas escolas se
-formam por volta do século [XII]{.smallcaps}. A chamada escola do Norte favorece uma
-construção gradual da profundidade em múltiplo planos pictóricos; Já na
-escola do Sul, há um salto entre o plano de fundo e o primeiro plano,
-preenchido com névoa.
+formas geométricas na pintura ([@fig:zhouwenju]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music%2C_Ming_dynasty%2C_Chicago_Institute_of_Art.jpg){#fig:zhouwenju .full}
+
+<!--_-->
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum%2C_Tapei.10_cent..jpg){#fig:juran}
+:::
+::: {.column width=50%}
+![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+Na pintura de paisagem, duas escolas se formam entre os séculos
+[X]{.smallcaps} e [XII]{.smallcaps}. A chamada escola do Norte favorece
+uma construção gradual da profundidade em múltiplo planos pictóricos
+([@fig:juran]); na escola do Sul, desenvolve-se um salto entre o plano
+de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Buscando o Tao nas montanhas de outono*]: https://commons.wikimedia.org/wiki/File:Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg
+
+<!--_-->
+
+[*Início da primavera*, 1072]: https://commons.wikimedia.org/wiki/File:Guo_Xi_-_Early_Spring_(large).jpg
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A distinção entre norte e sul diz respeito ao estilo das pinturas, mais
+do que à origem geográfica ou histórica dos pintores. Li Tang era um
+artista do sul da China, no período da dinastia Song do Sul, mas a
+composição incremental de planos contínuos aproxima a sua obra do estilo
+do Norte ([@fig:litang]). Já Fan Kuan era um artista da dinastia Song do
+Norte, mas o salto brusco do fundo para o primeiro plano, por sobre a
+névoa, faz com que a sua obra seja precursora do estilo do Sul
+([@fig:fankuan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=61%}
+![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
+:::
+::: {.column width=39%}
+![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg/1021px-Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg){#fig:fankuan}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Viajantes entre montanhas e corredeiras*]: https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
+
+[*Vento nos pinheiros por entre milhares de vales*]: https://commons.wikimedia.org/wiki/File:Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
+
+<!--_-->
+
+## 
+
+![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan}
+
+[*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}, a própria névoa se torna objeto da pintura.
 Representar o vazio é uma das principais conquistas conceituais e
-características definidoras da Ásia oriental. O vazio na pintura chinesa
+características definidoras da Ásia oriental ([@fig:mayuan]). O vazio na pintura chinesa
 vai ser entendido como representação de refinamento e autonomia
 intelectual. A imaterialidade e a profundidade do espaço, apresentadas
 no plano da pintura, constituem uma reflexão sobre a própria natureza do
-espaço e do vazio. A personagem intelectual representada na pintura de
-Ma Lin está, assim como o pintor, ponderando a interdependência entre
+espaço e do vazio.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A personagem intelectual representada na pintura de Ma Lin ([@fig:malin])
+está, assim como o pintor, ponderando a interdependência entre
 matéria e vazio: as relações espaciais entre objetos materiais só se
 estabelecem graças ao espaço vazio entre eles, mas esse vazio imaterial
 só passa a "existir" numa pintura quando é delimitado pela representação
 de objetos materiais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zhou Wenju. Palace concert](){#fig:zhouwenju}
+![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
 
-* * * *
+[*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
 
-![Chu Jan. Asking for Tao in mountain](){#fig:chujan}
+##
 
-![Kuo Hi. Early Spring](){#fig:kuohi}
+![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg){#fig:literati}
 
-* * * *
+[*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
 
-![Fan Kuan. Travelers in mountains and streams](){#fig:fankuan}
+## Arte clássica ##
 
-![Li Chen. Buddhist temple in mountain](){#fig:lichen}
+##
 
-* * * *
+![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
 
-![Ma Yuan](){#fig:mayuan}
+[*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
 
-![Ma Lin. Scholar watching mist rise](){#fig:malin}
-
-![Artista da escola de Ma. Fragrant Spring](){#fig:fragspring}
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O período da dinastia Song é considerado pelos chineses do século [XIV]{.smallcaps}
 como o ponto alto da sua cultura e uma espécie de período clássico. As
 tradições artísticas e arquitetônicas da China se estabilizam do século
-[XII]{.smallcaps} em diante. Ao longo de todos as transformações subsequentes, os
-artistas chineses sempre voltam periodicamente a fazer referência aos
-padrões estabelecidos na dinastia Song.
+[XII]{.smallcaps} em diante ([@fig:fragrance]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ao longo do rio durante o festival Qingming. Dinastia Song do Sul, século [XII]{.smallcaps}](){#fig:qingming-song}
+##
 
-![Ao longo do rio durante o festival Qingming. Cópia por cinco artistas de corte durante a dinastia Qing, século [XVII]{.smallcaps}](){#fig:qingming-qing}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao longo de todos as transformações subsequentes, os artistas chineses
+sempre voltam periodicamente a fazer referência aos padrões
+estabelecidos na dinastia Song ([@fig:qingming-song;
+@fig:qingming-qing]).
 
-Perspectiva linear e arquitetura
---------------------------------
+::: {.notice}
+[]{.fas .fa-info-circle} As duas pinturas abaixo leem-se da direita para
+a esquerda.
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-song .full}
+<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
+
+Zhang Zeduan, [*Ao longo do rio durante o festival Qingming*][], século [XII]{.smallcaps} 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Ao longo do rio durante o festival Qingming*]: https://commons.wikimedia.org/wiki/File:Alongtheriver_QingMing.jpg
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-qing .full}
+<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Along_the_River_7-119-3.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
+
+Ao longo do rio durante o festival Qingming. Cópia por [cinco artistas de
+corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[cinco artistas de corte]: https://commons.wikimedia.org/wiki/Category:Along_the_River_During_the_Qingming_Festival_Season_(Qing_Court_Version)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# História da arquitetura como história do espaço #
+
+## Perspectiva linear e arquitetura ##
+
+![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky .align-right}
+
+[Princeton University Press]: https://press.princeton.edu/our-authors/panofsky-erwin
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Europa, a busca pelo domínio do espaço arquitetônico na pintura segue
-um percurso semelhante. O Desenvolvimento da perspectiva linear desde a
+um percurso semelhante. O desenvolvimento da perspectiva linear desde a
 antiguidade romana e depois novamente a partir da pintura gótica e até o
 renascimento a característica central desse processo, estudado por
-Panofsky. 
+Erwin Panofsky ([@fig:panofsky]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A pintura na Roma antiga segue um percurso semelhante ao da pintura
 chinesa, começando com figuras isolados e desenvolvendo uma
 representação do espaço arquitetônico baseada numa perspectiva cônica
 com linhas de fuga, concluindo com a inserção de figuras no espaço
-arquitetônico. A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
+arquitetônico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
 representação do espaço, predominantemente preocupada com a apresentação
 de figuras com significado transcendental. É a pintura gótica no séculos
 [XIV]{.smallcaps} e [XV]{.smallcaps} que vai operar um resgate da inserção de figuras no espaço,
 começando na França e seguindo para Itália já na primeira metade do
 século [XIV]{.smallcaps} com a obra de artistas como Giotto. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O movimento franciscano dá um impulso decisivo para essa demanda por
 representação de figuras no espaço, aproximando a iconografia religiosa
 do cotidiano dos devotos. As figuras de Anunciação são um dos principais
@@ -151,20 +304,33 @@ instrumentos desse desenvolvimento da lógica espacial. A partir do
 modelo bizantino de figuras de Maria e o anjo desprovidas de contexto,
 geralmente com fundo dourado, os artistas italianos dos séculos [XIV]{.smallcaps} e [XV]{.smallcaps}
 começam a incluir a ambientação espacial e, gradualmente, uma
-delimitação maior dos ambientes onde se desenvolve a cena. Na obra de
-Simone Martini e Pietro Lorenzetti, temos um dos primeiros
+delimitação maior dos ambientes onde se desenvolve a cena.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na obra de Simone Martini e Pietro Lorenzetti, temos um dos primeiros
 enquadramentos espaciais coerentes da cena, mostrando Maria e o anjo
 inseridos num espaço arquitetônico com limites visíveis. As inúmeras
 pinturas da Anunciação evidenciam a busca por formas de representação do
 espaço mais naturalistas e geometricamente elaborados, mas, por outro
 lado, também o estabelecimento de uma convenção pictórica referente ao
 posicionamento das figuras e a sua relação com o espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ambrogio Lorenzetti é um dos primeiros artistas --- talvez o primeiro
 --- a representar uma perspectiva linear precisa no piso do ambiente
 onde a Anunciação se desenrola. Na suas obras porém o espaço físico
 ainda é determinado pelas necessidades narrativas da cena. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
 técnico na representação do espaço caracterizado pela introdução da
 perspectiva linear com ponto de fuga. A principal característica
@@ -175,7 +341,11 @@ delimitação do espaço arquitetônico --- podem ser descritos segundo os
 mesmos procedimentos técnicos. Em certas obras, como a Anunciação de
 Filippo Lippi, a rigidez da perspectiva arquitetônica chega mesmo a
 interferir na composição narrativa da pintura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A famosa Anunciação de Fra Angelico, pintada em 1438, é uma das
 primeiras obras a se valer quase que integralmente dos recursos
 oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
@@ -183,7 +353,11 @@ especialidade na pintura gótica está diretamente associado ao senso
 espacial e plástico do próprio estilo arquitetônico gótico, o domínio
 completo da perspectiva linear parece associado, de modo semelhante, à
 arquitetura clássica herdada da Antiguidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
 Brunelleschi a invenção da perspectiva linear. Embora
 nenhum outro autor confirme de modo independente essa atribuição a
@@ -196,7 +370,11 @@ alinham em configurações variadas, é potencialmente infinito e
 restringido apenas por limites convencionais. O espaço da perspectiva
 linear, por outro lado, é intrinsecamente delimitado porque pode ser
 representado apenas por meio dessa delimitação.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As composições arquitetônicas de Brunelleschi, para além da cúpula da
 Catedral de Florença, por exemplo no asilo dos Inocentes, são, ainda,
 essencialmente lineares e planares. No entanto, em contraste com a
@@ -204,10 +382,13 @@ linearidade gótica, elas apresentam limites claramente definidos, ainda
 que por ora experimentais.
 Assim, o controle do espaço na pintura se desdobra para o controle do
 espaço da forma arquitetônica construída.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Espaço e modernismo
--------------------
+## Espaço e modernismo ##
 
+![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A noção do espaço como força geradora das transformações
 arquitetônicas emerge por volta da mesma época em que a história dos
 estilos atingiu seu auge. A história da
@@ -223,9 +404,13 @@ estilo decorativo como elemento determinante na descrição na
 classificação da arquitetura. A abstração volumétrica do espaço é
 especialmente tentadora para a promoção do modernismo, ao qual esses
 autores se vinculam.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ilustração do livro de Choisy](){#fig:choisy}
+##
 
+![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar da aparente revolução no entendimento da arquitetura que essa
 nova ênfase no espaço traz, a leitura do espaço feita pelos modernistas
 reproduz a visão eurocêntrica e focada na evolução construtiva que os os
@@ -233,13 +418,15 @@ professores defendiam. Eles decretam o esgotamento retroativo do
 paradigma renascentista por causa do ecletismo, que consideram uma
 "falsificação" ilegítima do processo histórico ainda visto como uma
 progressão linear. A história da especialidade promovida por autores
-como Giedion e Saarinen acrescenta confusão à narrativa histórica, sem
+como Giedion ([@fig:giedion]) e Saarinen acrescenta confusão à narrativa histórica, sem
 eliminar o determinismo da antiga história dos estilos, e dando margem a
 interpretações arbitrárias sobre praticamente qualquer repertório
 arquitetônico do passado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sigfried Giedion, *Espaço tempo e arquitetura*](){#fig:giedion}
+##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O historiador da arquitetura italiano Giulio Carlo Argan, influenciado
 por Banham, é dos que consideram o senso de especialidade como fio
 condutor da história da arquitetura. O cerne do argumento de Argan
@@ -249,7 +436,11 @@ autonomia criativa do sujeito (arquiteto) e a introdução da
 originalidade como critério de juízo. A valorização da originalidade
 como característica determinante da obra de arte evidencia as raízes
 românticas do modernismo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No esquema de Argan, a Antiguidade e a Idade Média são períodos onde o
 espaço ainda é inteiramente determinado pelas possibilidades limitadas
 do sistema estrutural disponível. Esses períodos constituem, por assim
@@ -267,9 +458,15 @@ Argan salta os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps} como sendo perí
 mesmo retrocesso, na concepção espacial. A história do espaço retoma,
 como era de se esperar, com o modernismo, que leva adiante o processo de
 libertação formal e criativa iniciado pelo barroco.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Imagens ilustrativas da teoria espacial de Argan](){#fig:argan}
+##
 
+![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne .align-right}
+
+[Fundação Alexander von Humboldt, 2006]: https://www.humboldt-foundation.de/en/entdecken/newsroom/dossier-max-planck-humboldt-research-award/max-planck-research-award-winners-2006
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A historiadora da arte canadense Alina Payne mostra que existe uma
 relação entre o interesse modernista pela abstração e a releitura da
 arquitetura do Renascimento nos anos 1950 e 60 como uma história da
@@ -282,13 +479,12 @@ eurocêntrica, porque subentende que só a arquitetura erudita de matriz
 europeia, a partir da segunda metade do século [XVII]{.smallcaps}, passa a ter a
 capacidade de manipular arbitrariamente o espaço por meio da intenção
 projetual. Outras tradições arquitetônicas permanecem presas à tipologia
-e à tradição  [@bozdogan:1999architectural].
+e à tradição [@bozdogan:1999architectural].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Alina A. Payne](){#fig:payne}
+## Sistemas espaciais finitos ##
 
-Sistemas espaciais finitos
---------------------------
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O controle sobre o espaço pictórico que a perspectiva linear permitir se
 desenvolve na capacidade de distinguir entre espaços contidos espaços
 amplos.  Piero della Francesca leva essa realização ao extremo em
@@ -296,7 +492,11 @@ pinturas bipartidas que articulam o contraste entre um espaço raso e
 contido lado a lado com um fundo potencialmente infinito. Ao mesmo
 tempo, nos fundos amplos há uma sugestão de delimitação, enquanto que o
 espaço contido tem alguma abertura para a expansão.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A introdução dos sistemas espaciais finitos no Renascimento não se
 explica apenas por uma maior liberdade criativa ou por um
 desenvolvimento da técnica no século [XV]{.smallcaps}. Na verdade, os sistemas
@@ -307,7 +507,11 @@ intencional. No entanto, é uma escolha que não resulta numa capacidade
 de manipulação do espaço arbitrária. Pelo contrário, a escolha é por
 condicionar a composição arquitetônica a um esquema teórico definido a
 priori e que opera dentro de um sistema explícito de condicionantes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Geoffrey Scott, no Renascimento, pela primeira vez a questão
 principal no ofício da arquitetura não é mais “como podemos realizar uma
 obra dentro das condicionantes técnicas que nos são colocados?“, mas
@@ -315,7 +519,11 @@ obra dentro das condicionantes técnicas que nos são colocados?“, mas
 nós escolhemos?” Para responder essa questão será preciso formular um
 sistema formal explícito por meio da escrita de tratados, como veremos
 mais adiante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na obra de Brunelleschi, essa busca pela forma correta deixa
 transparecer uma preocupação com a coerência lógica do sistema. Esse
 sistema é baseado, sem dúvida, no conhecimento direto e na observação
@@ -324,7 +532,11 @@ um dos primeiros arquitetos modernos a fazer levantamentos da
 arquitetura romana. Porém, a resolução formal das suas composições
 prioriza, muitas vezes, uma lógica de articulação dos elementos que
 resulta visualmente desconcertante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um exemplo dessa lógica conceitualmente coerente porém visualmente
 peculiar se encontra na extremidade da fachada do asilo de órfãos, que
 Brunelleschi projeta na praça da santíssima Anunciata em Florença. Nesse
@@ -336,7 +548,11 @@ elemento central formado pelas arcadas segue o padrão compositivo da
 arquitetura românica na Toscana desde o século [XII]{.smallcaps}. Porém, ao encontrar
 a composição das pilastras, os medalhões situados entre os arcos são
 truncados, de modo a manter a regularidade geométrica dos elementos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenvolvimento dessa preocupação de Brunelleschi com a lógica interna
 da arquitetura clássica assume formas variadas ao longo do tempo. Na
 Igreja de São Lourenço, de 1421, as arcadas não seguem mais o padrão
@@ -346,7 +562,11 @@ insere um entablamento trocado entre a coluna e a arcada. A configuração
 geral do espaço interior, com três naves, arco Cruzeiro dominante,
 cúpula e capela-mor de planta retangular, remete em parte à arquitetura
 paleocristã, com elementos da tradição românica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das soluções formais mais curiosas na obra de Brunelleschi se
 encontra na sacristia velha dessa mesma igreja de São Lourenço. Esse
 pequeno ambiente sintetiza a busca pela expressão espacial usando
@@ -357,7 +577,11 @@ por outro lado, algumas pilastras chegam quase a desaparecer no interior
 da parede. Essa solução visualmente insatisfatória é, porém, coerente e
 análoga à situação das pilastras convexas, que funcionam como um pilar
 colocado no eixo da parede.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aceitação desse problema visual demonstra a precedência que a lógica
 de composição tem sobre a manipulação plástica dos elementos. Essa
 lógica está associada à legitimidade teórica dos elementos da
@@ -370,7 +594,7 @@ bizantino era associado com a permanência do Império Romano, cujos
 escolhas se repetem no interior da capela Pazzi, no claustro da igreja
 de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Cidades e castelos em Portugal e no Japão #
 
@@ -405,9 +629,20 @@ agrícolas.
 - Goa, Damão e Diu
 - Malacca
 
-## {data-background-image=""}
+##
 
-![Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. @trindade:2009urbanismo](){#fig:vilanova}
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
+::: {.column width=51.7%}
+![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
+:::
+::: {.column width=48.3%}
+![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
+:::
+
+Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. Desenho:
+[Pedro P. Palazzo, 2021, com base em reconstituição de Luísa Trindade,
+2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Japão ##
 
@@ -424,29 +659,38 @@ traçados geométricos são uma indicação a ser seguida de modo aproximado.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenho urbano inicial da capital Heian (atual Quioto), fundada em
-794, segue não exatamente o tipo do *wangcheng*, mas a sua execução
-modificada na cidade de Chang'an, capital da dinastia Tang chinesa.
-
-![Plano urbanístico de Heian (Quioto), 794. Planta de Mori Kōan, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian .stretch}
+794 ([@fig:heian; @fig:heian-model]), segue não exatamente o tipo do
+*wangcheng*, mas a sua execução modificada na cidade de Chang'an,
+capital da dinastia Tang chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Plano urbanístico de Heian (Quioto), 794. Planta de [Mori Kōan, 1750][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian .full}
+
+[Mori Kōan, 1750]: https://commons.wikimedia.org/wiki/File:Plan_of_Heiankyo.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Modelo da cidade de Heian (Quioto)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model .stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Modelo da cidade de Heian (Quioto). Foto: [Nagoya Tarō, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model .full}
+
+[Nagoya Tarō, 2018]: https://commons.wikimedia.org/wiki/File:Heiankyo_overall_model.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado da nova capital é vasto e nunca chega a ser inteiramente
 preenchido segundo o desenho original, o que causa uma rápida deformação
-da malha viária.
-
-![Deformação na malha urbana de Quioto. @yumoto:1895heian](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto .stretch}
+da malha viária ([@fig:kyoto-1895]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg/566px-Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg"}
+![Deformação na malha urbana de Quioto. Planta de [Yumoto Fumihiko, 1895][]](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto-1895}
+
+[Yumoto Fumihiko, 1895]: https://commons.wikimedia.org/wiki/File:Heiankyo_kyushi_zisshoku_zenzu.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg"}
+
+![Planta de Quioto por [Hayashi Yoshinaga, 1686][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg){#fig:kyoto-1686}
+
+[Hayashi Yoshinaga, 1686]: https://commons.wikimedia.org/wiki/File:Large_plan_of_Kyōto_(14062488481).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A diminuição na população urbana durante o período medieval e as
@@ -455,8 +699,6 @@ capital, em terreno plano e com acesso ao rio Yodo, se desenvolva muito
 mais que a metade oeste. Até a sede do poder --- o palácio imperial e,
 na segunda metade do século [XVI]{.smallcaps}, o castelo do xogum --- se desloca do
 eixo central para a parte oriental da cidade.
-
-![Planta de Quioto. @hayashi:1686large](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg/566px-Large_plan_of_Ky%C5%8Dto_%2814062488481%29.jpg){#fig:kyoto-1686 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif"}
@@ -466,21 +708,28 @@ O parcelamento do solo, que previa grandes glebas para as mansões da
 nobreza ou lotes largos para casas-pátio segundo a tipologia chinesa, é
 gradualmente subdividido. Os lotes estreitos e profundos favorecem a
 construção de casas geminadas, as *machiya*.
-
-![Parcelamento do solo e formação de cortiços em Edo e Quioto](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Parcelamento do solo e formação de cortiços em Nagoya, Edo e Quioto segundo [Shojai, Mori e Nomura, 2016][]](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya}
+
+[Shojai, Mori e Nomura, 2016]: https://doi.org/10.1186/s40410-016-0034-0
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de castelos controlando rotas
-comerciais e pontos de passagem estratégicos leva ao desenvolvimento do
-paradigma urbano moderno no Japão: a vila de castelo (*jōkamachi*).
+![Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do [município de Himeji](https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji}
 
-![Planta do castelo de Himeji e áreas residenciais dos samurais em 1806](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji .stretch}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de
+castelos controlando rotas comerciais e pontos de passagem estratégicos
+leva ao desenvolvimento do paradigma urbano moderno no Japão: a vila de
+castelo (*jōkamachi*) ([@fig:himeji]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
+
+![Esquema de desenvolvimento urbano de Morioka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png){#fig:morioka}
+
+[Satoh Shigeru, 2017]: https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A vila forma um conjunto setorizado em volta do castelo ou abaixo dele
@@ -490,10 +739,9 @@ hierarquizadas, os samurais e agregados do *daimyō*, o senhor feudal.
 
 Ao longo de um eixo viário estruturante se desenvolve a malha comercial
 da vila, formando uma semitrama deformada sempre que o terreno o
-permitir. Templos budistas e santuários xintoístas demarcam o perímetro
-do espaço urbano, que nunca é murado [@satoh:2017japanese].
-
-![Esquema de desenvolvimento urbano de Morioka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.1.png){#fig:morioka .stretch}
+permitir ([@fig:morioka]). Templos budistas e santuários xintoístas
+demarcam o perímetro do espaço urbano, que nunca é murado
+[@satoh:2017japanese].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -501,18 +749,20 @@ do espaço urbano, que nunca é murado [@satoh:2017japanese].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A disposição dos quarteirões segue, em geral, módulos regulares que são
 múltiplos do *ken*, o módulo estrutural vigente na região para as casas
-de madeira --- geralmente 6 pés ou 1,95 metro.
-
-![Esquema de desenvolvimento urbano de Tsuruoka. @satoh:2017japanese](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/satoh-iii.6.2.png){#fig:tsuruoka .stretch}
+de madeira --- geralmente 6 pés ou 1,95 metro ([@fig:tsuruoka]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg"}
+![Esquema de desenvolvimento urbano de Tsuruoka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.2.png){#fig:tsuruoka}
 
-:::notes
-![Vista e planta da cidade de Yeddo no Japão, anterior a 1858](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chassiron_yeddo.jpg/1024px-Chassiron_yeddo.jpg){#fig:yeddo .stretch}
-:::
+##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg/1230px-Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg"}
+![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama .full}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/1230px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg"}
+
+![Planta de Edo por [Hayashi Yoshinaga, 1680][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg){#fig:edo-1680}
+
+[Hayashi Yoshinaga, 1680]: https://commons.wikimedia.org/wiki/File:Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O eventual crescimento da vila (*machi*) leva à formação de uma cidade
@@ -520,8 +770,6 @@ O eventual crescimento da vila (*machi*) leva à formação de uma cidade
 comunitária de cada bairro é um fator determinante na coesão social das
 classes mercantes e artesãs, e um elemento de resistência política ou
 cultural frequente contra a centralização do poder.
-
-![Planta de Edo. @hayashi:1680zoho](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg/923px-Enlarged_plan_of_Edo%2C_revised_in_Third_Month%2C_Year_of_the_Sheep%2C_and_illustrated_%2814066153104%29.jpg){#fig:edo-1680 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/1280px-1893_Tokyo_map.jpg"}
@@ -530,9 +778,11 @@ cultural frequente contra a centralização do poder.
 Em Edo, a sede dos xoguns de 1603 até 1868, a grande concentração de
 moradias nobres dos *daimyō* e samurais gera demanda por bairros
 comerciais que cercam a cidade administrativa.
-
-![Mapa de Tóquio, 1893](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893 .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Mapa de Tóquio por [H.M. & Co., 1893][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893}
+
+[H.M. & Co., 1893]: https://commons.wikimedia.org/wiki/File:1893_Tokyo_map.jpg
 
 ## {data-background-image=""}
 
@@ -542,9 +792,11 @@ maneira chinesa. Mesmo nessa configuração, no entanto, há profundidade
 suficiente para um adensamento no interior do quarteirão. Servidões dão
 acesso a casas e cortiços alinhados na espessura da quadra
 [@hein:2008machi35].
-
-![Adensamento no interior de quarteirões em Edo. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Adensamento no interior de quarteirões em Edo segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior}
+
+[Carola Hein, 2010]: http://journals.sagepub.com/doi/10.1177/0096144209347737
 
 ## {data-background-image=""}
 
@@ -554,11 +806,11 @@ de cada lote, e as edificações se sobrepõem às divisas. Somente a
 construção ou ala implantada junto à testada tende a aderir às divisas.
 Essa discrepância é um fator de adaptação importante na emergente
 complexidade social e arquitetônica dos séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
-
-![Discrepância entre lotes registrados e edificações efetivamente construídas. @hein:2010shaping36](https://unbbr.sharepoint.com/sites/TAU0006-Equipe/Documentos%20Compartilhados/Equipe/03-cidades/03.2-cidades-possiveis/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+![Discrepância entre lotes registrados e edificações efetivamente construídas segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo}
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 À medida que o Japão se urbaniza e que um governo central reafirma o seu
@@ -591,21 +843,24 @@ da Guiné até o sul da África.
 O *boma* é, prioritariamente, um curral de gado. Celeiros e espaços para
 atividades comunitárias também podem estar situados no *boma*. Ele é
 controlado por uma liderança política ou chefe de família estendida, que
-tem a sua própria casa perto desse espaço central.
+tem a sua própria casa perto desse espaço central ([@fig:boma])
+[@huffman:2009mapungubwe28].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=85%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://www.integra.unb.br/s/8bL8GBAmPiaHJgq/preview){#fig:boma width=100%} 
+![Esquema teórico de um *boma* no sul da África: Zimbábue, segundo [Thomas N. Huffman, 2009][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/huffman-2009-idealised-model-of-zimbabwe-pattern.png){#fig:boma width=100%}
 :::
 ::: {.column width=15%}
 ![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+[Thomas N. Huffman, 2009]: http://www.sciencedirect.com/science/article/pii/S0278416508000585
+
 ## Estruturação do espaço intra-muros ##
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
@@ -622,12 +877,12 @@ Ver também:
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
 ::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA height=320px}
+![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA height=320px}
 
 ![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB height=320px}
 :::
 ::: {.column width=50%}
-![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
 :::
 Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -656,9 +911,9 @@ semelhantes às relações que se estabelecem *dentro* de cada sistema
 *boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
 na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
-
-![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
 
 ## Adensamento do boma e malha viária ##
 
@@ -671,9 +926,9 @@ causa a formação dos caminhos. À medida que as comunidades baseadas no
 *boma* se tornam mais numerosas e ocupam o território com maior
 densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
-
-![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 
 ## Delimitação do traçado urbano em Benim ##
 
@@ -700,10 +955,10 @@ da cidade ([@fig:benin-markets]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=25%}
-![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg/480px-Empire_of_Benin_on_the_globe_%28Africa_centered%29.svg.png){width=100%}
+![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){width=100%}
 :::
 ::: {.column width=75%}
-![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .stretch}
+![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -714,13 +969,12 @@ Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
 pátios eram delimitados por casas de taipa com coberturas muito
 inclinadas.
 
-![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897 .stretch}
+![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Máxima densidade urbana: Kumasi
--------------------------------
+## Máxima densidade urbana: Kumasi ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
@@ -729,9 +983,11 @@ final do século [XVIII]{.smallcaps}. Assim como Benim, Kumasi é uma cidade for
 adensada ([@fig:kumasi-plan]) em torno do palácio real
 ([@fig:kumasi-palace]). No entanto, o núcleo urbano tradicional não é
 amuralhado, e um caminho principal estruturante atravessa a cidade.
-
-![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH%281819%29_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan}
+
+<!--_-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg"}
 
@@ -740,7 +996,7 @@ Assim como em Benim, o palácio fica na área mais central da cidade.
 Grande parte da malha urbana em volta dele é ocupada por casas da
 família real e da administração do estado.
 
-![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .stretch}
+![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview"}
@@ -751,13 +1007,13 @@ um alinhamento contínuo sobre a rua ([@fig:kumasi-frontage]). As casas
 ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
 
-![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage .stretch}
+![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .stretch}
+![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine}
 
 <!--Câmera-->
 Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das
