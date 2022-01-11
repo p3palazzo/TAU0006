@@ -68,6 +68,8 @@ ele é essencial para compreender o que esperamos de você nas atividades.
 
 # Leituras obrigatórias #
 
+## Livro-texto ##
+
 O livro-texto de base que nos acompanhará ao longo de todo o semestre
 foi concebido pelos fundadores do [Global Architectural History Teaching
 Collaborative ([GAHTC]{.smallcaps})][GAHTC], os historiadores da
@@ -78,16 +80,35 @@ famoso autor de manuais técnicos Francis D. K. Ching:
 > *História global da arquitetura.* Traduzido por Alexandre Salvaterra.
 > 1.ª ed. São Paulo: Senac São Paulo, 2016.
 
-<i class="fas fa-check-circle"></i>
-~ Acesse o site da [Biblioteca Central][]. Pesquise
-  pelo livro usando a `Busca integrada` (função de busca padrão da
-  [BCE]{.smallcaps}). Na visualização do resultado, clique no link
-  <i class="fas fa-search" title="ícone de uma lupa"></i>
-  `View record at Minha Biblioteca`. Faça login no serviço de leitura online
-  usando as suas credenciais da [BCE]{.smallcaps} ([CPF]{.smallcaps} e
-  senha usada no balcão de empréstimo).
+[]{.fas .fa-info-circle}
+: Como acessar os e-books da nossa bibliografia?
+
+<!-- -->
+
+a. Acesse o site da [Biblioteca Central](https://bce.unb.br). Localize o
+   link para as `Bases de dados de e-books > Minha Biblioteca` conforme a
+   captura de tela abaixo.
+b. Faça login no serviço de leitura online
+   usando as suas credenciais da [BCE]{.smallcaps} ([CPF]{.smallcaps} e
+   senha usada no balcão de empréstimo), e escolha a base `Minha Biblioteca`.
+c. No canto superior direito, digite os termos de busca e localize o
+   livro nos resultados.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:bce .full}
+![Página principal da [BCE]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-a.jpg){#fig:bce-a}
+
+* * * *
+
+![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b .align-left}
+
+![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c .align-left style="max-width: 720px"}
+
+Acesso à base de e-books Minha Biblioteca
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Aproveite para conhecer os recursos que o site do [GAHTC]{.smallcaps} oferece!
+
+## Linguagem clássica ##
 
 Além do livro-texto, também vamos ler um pequeno clássico do arquiteto
 inglês John Summerson (1904--1992), que nos guiará com mais detalhe pelo
@@ -95,6 +116,8 @@ universo da arquitetura clássica europeia:
 
 > Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
 > Sylvia Ficher. São Paulo: Martins Fontes, 1997.
+
+## Projetos espaciais ##
 
 Perto do final do semestre, vamos ler um breve texto do historiador da
 arquitetura espanhol Carlos Sambricio sobre as reformas territoriais do
@@ -107,6 +130,8 @@ século [XVIII]{.smallcaps}, que o autor apresentou em Brasília em 2014:
 > Palazzo, e Ricardo Trevisan, traduzido por Pedro P. Palazzo e Elane
 > Ribeiro Peixoto, 29–59. Brasília: Faculdade de Arquitetura e Urbanismo
 > da Universidade de Brasília, 2014.
+
+## Ordens clássicas ##
 
 Por fim, indicamos o tratado contemporâneo a seguir, elaborado pelo
 arquiteto inglês Robert Chitham (1935--2017), como uma referência
