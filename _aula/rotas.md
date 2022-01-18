@@ -15,9 +15,6 @@ title-slide-attributes:
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/katip_celebis_cihannuma-map_of_south_east_asia-bg-blur.jpg
   caption: "İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*](https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)) de Kâtip Çelebi, 1648"
-  actions:
-  - label: "Slides"
-    url  : "/slides/rotas/"
 ---
 
 # Mundos conectados no século XIV #
@@ -51,14 +48,14 @@ na costa oeste do Atlântico norte.
 ](https://upload.wikimedia.org/wikipedia/commons/4/41/NorseExplorations-v2-transparent-bg.png){width=100% .nobg}
 :::
 ::: {.column width=50%}
-![Triângulo polinésio e migrações até o século X. Desenho: [David
+![Triângulo polinésio e migrações até o século [X]{.smallcaps}. Desenho: [David
 Eccles, 2008
 ](https://commons.wikimedia.org/wiki/File:Polynesian_Migration.svg)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Polynesian_Migration.svg/1024px-Polynesian_Migration.svg.png){width=100% .nobg}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/chronological_dispersal_of_austronesian_people_across_the_pacific_per_benton_et_al_2012_adapted_from_bellwood_2011.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
@@ -105,9 +102,9 @@ sendo capazes de criar arquitetura monumental.
 
 [*Histoire de l'architecture*, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,_by_Auguste_Choisy_(1899)
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/aliens.jpg" data-background-size="464px 344px"}
+## 
 
-![Autoria desconhecida. "Só porque os brancos não conseguiram fazer o mesmo, não quer dizer que foram alienígenas"](https://hcommons.org/app/uploads/sites/1002372/2022/01/aliens.jpg){#fig:aliens .align-right}
+![Autoria desconhecida. "Só porque os brancos não conseguiram fazer o mesmo, não quer dizer que foram alienígenas"](https://hcommons.org/app/uploads/sites/1002372/2022/01/aliens.jpg){#fig:aliens .align-right .r-stretch}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa de interpretações como essa, a ideia de um mundo antigo e
@@ -140,9 +137,9 @@ comercial do mundo no início da Idade Moderna.
 
 ## Sistema mundial ## {data-visibility="hidden"}
 
-## {data-background-image="https://kms.jadaliyya.com/Images/357x383xo/abulughodjadblackwhite.jpg" data-background-size="contain"}
+## 
 
-![Janet Lippman Abu-Lughod. Foto publicada por [[IASTE]{.smallcaps}, 1990, via *Jadaliyya*][]](https://kms.jadaliyya.com/Images/357x383xo/abulughodjadblackwhite.jpg){#fig:lippman .align-right}
+![Janet Lippman Abu-Lughod. Foto publicada por [[IASTE]{.smallcaps}, 1990, via *Jadaliyya*][]](https://kms.jadaliyya.com/Images/357x383xo/abulughodjadblackwhite.jpg){#fig:lippman .align-right .r-stretch}
 
 [[IASTE]{.smallcaps}, 1990, via *Jadaliyya*]: https://www.jadaliyya.com/Details/30174
 
@@ -204,8 +201,6 @@ climáticas onde elas se desenvolvem.
 
 # Cidades mercantes do sudeste asiático #
 
-## 
-
 <!--Deixar claro por que o kampung é urbanismo bioclimático-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -246,11 +241,11 @@ Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps} [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .full}
+![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .full .r-stretch}
 
 ## {data-transition="fade-in"}
 
-![Sultanato de Malacca no final do século [XV]{.smallcaps} [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca}
+![Sultanato de Malacca no final do século [XV]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2011](https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png){#fig:malacca .r-stretch}
 
 ## Urbanização do *kampung* ## {data-visibility="hidden"}
 
@@ -275,9 +270,9 @@ comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
 malaias em bairros ocidentais, chineses e "nativos".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"}
 
-![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers .align-right} 
+![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers .align-right .overlay-slide}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
@@ -289,7 +284,9 @@ malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mapa da cidade de Cingapura [G.D. Coleman, 1839](https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
+![Mapa da cidade de Cingapura por [G.D. Coleman, 1839][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839}
+
+[G.D. Coleman, 1839]: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"}
 
@@ -303,7 +300,7 @@ estruturante ou de um ponto focal importante, como um templo, uma
 mesquita ou um complexo palaciano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg"}
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* resulta diretamente da distribuição dos arrozais
@@ -324,13 +321,13 @@ ampliada segundo um sistema de ambientes modulares ([@fig:lim-malay])
 [@lim:1991malay *ap.* @beng:2015unleashing16].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema de um *kampung* rural simples [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1}
+![Esquema de um *kampung* rural simples [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1 .r-stretch}
 
 ##
 
-![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay .full .line}
+![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay .full .line .r-stretch}
 
-## {data-background-image="https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png"}
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Do mesmo modo, o *kampung* como um todo também se adensa até virar um
@@ -340,7 +337,7 @@ como num projeto da década de 1990 para um *kampung* nas Filipinas pela
 firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997}
+![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997 .r-stretch}
 
 ## {data-background-image="https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png" data-background-size="contain"}
 
@@ -408,14 +405,16 @@ e na sua mesquita ([@fig:malacca-kotaraja]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:malacca-kotaraja}
-![Planta reconstituída por William G. Shellabear, 1891](https://i.pinimg.com/originals/eb/d1/6e/ebd16e3bdcd83966a5273061d529397b.png){#fig:malacca-kotarajaA .align-right .line}
+![Planta reconstituída por William G. Shellabear, 1891](https://i.pinimg.com/originals/eb/d1/6e/ebd16e3bdcd83966a5273061d529397b.png){#fig:malacca-kotarajaA .align-right .line .overlay-slide .fragment}
 
 ![Reconstituição do palácio por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg){#fig:malacca-kotarajaB}
 
-![Reconstituição do *kota raja* e da cidade comercial por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg){#fig:malacca-kotarajaC .full}
-
 O *kota raja* de Malacca no século [XV]{.smallcaps}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg"}
+
+![Reconstituição do *kota raja* e da cidade comercial por Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg){#fig:malacca-kotarajaC .full}
 
 ## Cingapura ## {data-visibility="hidden"}
 
@@ -434,9 +433,11 @@ adensou como uma vila comercial ([@fig:kampongglam]).
 
 ![Kampung Glam no século [XXI]{.smallcaps}. Desenho de [Lee Xin Li, 2012](http://cargocollective.com/xinli/Maps)](https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg){#fig:kampongglam} 
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg/1280px-2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/2016_singapur_kampong_glam_ulica_kandahar_domy-sklepy_01-scaled.jpg" data-background-position="bottom"}
 
-![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Foto: [Marcin Konsek, 2016](https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg/1280px-2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg){#fig:shophouses}
+![Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Foto: [Marcin Konsek, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg/1280px-2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg){#fig:shophouses}
+
+[Marcin Konsek, 2016]: https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tipologia de casas comerciais característica de Cingapura é um híbrido
@@ -460,8 +461,6 @@ adensamento *para fora*.
 ![Kampung Rochor, Cingapura, 1822, demolido em 1964. [Arquivo Nacional de Cingapura](https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/)](https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg){#fig:kampung-rochor}
 
 # Cidades da costa Suaíle #
-
-##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -541,14 +540,14 @@ antigas cidades-estado são abandonadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: {#fig:lamu-drone .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6w4o-OPZnlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/6w4o-OPZnlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vista aérea da ilha de Lamu, Quênia. Filmagem: [DroneZone, 2021](https://youtu.be/6w4o-OPZnlQ)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://architecture.uonbi.ac.ke/sites/architecture.uonbi.ac.ke/files/styles/medium/public/2021-04/IMG-20210427-WA0016.jpg" data-background-size="640px"}
+## 
 
-![Usam Ghaidan. Fonte: [Universidade de Nairóbi](https://architecture.uonbi.ac.ke/alumni)](https://architecture.uonbi.ac.ke/sites/architecture.uonbi.ac.ke/files/styles/medium/public/2021-04/IMG-20210427-WA0016.jpg){#fig:ghaidan .align-right}
+![Usam Ghaidan. Fonte: [Universidade de Nairóbi](https://architecture.uonbi.ac.ke/alumni)](https://architecture.uonbi.ac.ke/sites/architecture.uonbi.ac.ke/files/styles/medium/public/2021-04/IMG-20210427-WA0016.jpg){#fig:ghaidan .align-right .r-stretch}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa dessa partilha, e das hierarquias raciais em vigor no século
@@ -563,15 +562,15 @@ Lamu (ver [@fig:lamu-drone]) são, de fato, africanas [@ghaidan:1974lamu].
 
 ## Forma urbana suaíle ## {data-visibility="hidden"}
 
-## {data-background-image="https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/cb/09/e0/cb09e0e2000b3c332616f72aa0089750.png" data-background-size="contain" data-background-position="left"}
 
-![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg){#fig:wynne-jones .align-right}
+![Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017](https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg){#fig:wynne-jones .align-right .overlay-slide .fragment}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado geral das cidades suaíle não decorre de um plano
 centralizado, mas se organiza a partir de princípios culturais
 partilhados. A arqueóloga inglesa [Stephanie Wynne-Jones][] mostra que a
-formação do traçado urbano suaíle ([@fig:takwa]) acontece pela
+formação do traçado urbano suaíle ([@fig:shanga]) acontece pela
 reconstrução sucessiva de bairros com casas em adobe, que são
 substituídos por bairros com casas em pedra [@wynne-jones:2014swahili,
 121].
@@ -579,13 +578,9 @@ substituídos por bairros com casas em pedra [@wynne-jones:2014swahili,
 
 [Stephanie Wynne-Jones]: https://en.wikipedia.org/wiki/Stephanie_Wynne-Jones
 
-## {data-background-image="https://i.pinimg.com/originals/cb/09/e0/cb09e0e2000b3c332616f72aa0089750.png" data-background-size="contain"}
-
-![Planta arqueológica da cidade de Takwa levantada por Stephanie Wynne-Jones](https://i.pinimg.com/originals/cb/09/e0/cb09e0e2000b3c332616f72aa0089750.png){#fig:takwa .line .align-right} 
-
 ## {data-background-image="https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png"}
 
-![Esquema do assentamento inicial de Shanga](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .full}
+![Plana arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones](https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png){#fig:shanga .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Durante o processo de consolidação e adensamento da cidade, a autoridade
@@ -596,7 +591,7 @@ estendidos ([@fig:shanga]). A proximidade dos bairros ao palácio indica a
 hierarquia social da nobreza mercante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -607,11 +602,7 @@ tecido construído, preservando os espaços abertos com importância
 cívica, por exemplo em volta das mesquitas de bairro e nas áreas dos
 mercados [Horton *ap.* @fleisher:2012finding29].
 <!--/Câmera-->
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O próprio comércio tem significado político: a compra e venda dos
 carregamentos dos navios e das caravanas acontece no palácio
 ([@fig:kilwa-palacio]) e nas residências da nobreza mercante
@@ -674,10 +665,10 @@ alcovas mais internas, pátios e terraços ([@fig:swahili-mercante]).
 
 ::::::::::::::::::::::::::::::::: {#fig:swahili-mercante .columns .full}
 ::: {.column width=50%}
-![Pavimento térreo](https://i.pinimg.com/originals/1d/4b/d3/1d4bd323f09b12a29187eaee14ab4971.png){#fig:swahili-mercanteA} 
+![Pavimento térreo](https://i.pinimg.com/originals/1d/4b/d3/1d4bd323f09b12a29187eaee14ab4971.png){#fig:swahili-mercanteA width=100%}
 :::
 ::: {.column width=50%}
-![Primeiro pavimento](https://i.pinimg.com/originals/fe/cb/f8/fecbf81ea27d8bde8131b1d7ec944e00.png){#fig:swahili-mercanteB}
+![Primeiro pavimento](https://i.pinimg.com/originals/fe/cb/f8/fecbf81ea27d8bde8131b1d7ec944e00.png){#fig:swahili-mercanteB width=100%}
 :::
 Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan, 1974
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -691,7 +682,7 @@ Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan, 1974
 ## 
 
 ::::::::::::::::::::::::::: {.iframe-wrapper .r-stack #fig:shela-zamani}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j5HNhGcgKfk" title="YouTube vide player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/j5HNhGcgKfk" title="YouTube vide player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Mesquita na vila de Shela, ilha de Lamu, 1738. Modelo tridimensional por [Zamani Project, Universidade da cidade do Cabo, 2016](https://www.youtube.com/watch?v=j5HNhGcgKfk)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -725,7 +716,7 @@ malha contínua de cúpulas sobre arcos ogivais e trompas, à maneira persa
 ([@fig:kilwa-mesquita-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Interior da mesquita maior de Quíloa Quisiuane. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int}
+![Interior da mesquita maior de Quíloa Quisiuane. Foto: [David Stanley, 2017](https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg){#fig:kilwa-mesquita-int .r-stretch}
 
 # Infraestrutura hidráulica na América #
 
@@ -741,11 +732,7 @@ evolucionista conveniente para a destruição ambiental provocada pelos
 próprios europeus. O registro arqueológico, histórico e cultural das
 Américas até a primeira metade do século [XVI]{.smallcaps} mostra um cenário mais
 matizado.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os dois maiores estados americanos no início do século [XVI]{.smallcaps} --- a
 tríplice aliança dos astecas e Tawantinsuyu, o território comandado
 pelos incas --- são *impérios hidráulicos*. Esse termo designa uma
