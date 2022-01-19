@@ -433,6 +433,31 @@ references:
   URL: https://www.jstor.org/stable/218047
   volume: '14'
 
+- id: amati:1802regole
+  abstract: >-
+    Title page, with illustration, engraved by P. Anderloni; Numbered plates
+    (I-XII) and 1 unnumbered plate engraved by Amati after his own drawings;
+    Library's copy 2: 52 cm; Catalogo ragionato dei libri d'arte e d'antichità
+    posseduti dal conte Cicognara, 806
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Amati
+      given: Carlo
+  call-number: '9927810080001551'
+  citation-key: amati:1802regole
+  issued:
+    - year: 1802
+  language: it
+  number-of-pages: '56'
+  publisher: 'Milano : Nella Stamperia di Pirotta e Maspero, se ritrovano presso l''autore'
+  source: Internet Archive
+  title: Regole del chiaroscuro in architettura
+  type: book
+  URL: http://archive.org/details/gri_33125013853516
+
 - id: anden:2020
   abstract: >-
     Los andenes son bancales o conjuntos de terrazas escalonadas construidas en
@@ -453,6 +478,61 @@ references:
   title: Andén (agricultura)
   type: entry-encyclopedia
   URL: https://es.wikipedia.org/w/index.php?title=And%C3%A9n_(agricultura)
+
+- id: andriasyan:2020point12
+  abstract: >-
+    Building Information Modelling (BIM) is a globally adapted methodology by
+    government organisations and builders who conceive the integration of the
+    organisation, planning, development and the digital construction model into
+    a single project. In the case of a heritage building, the Historic Building
+    Information Modelling (HBIM) approach is able to cover the comprehensive
+    restoration of the building. In contrast to BIM applied to new buildings,
+    HBIM can address different models which represent either periods of
+    historical interpretation, restoration phases or records of heritage assets
+    over time. Great efforts are currently being made to automatically
+    reconstitute the geometry of cultural heritage elements from data
+    acquisition techniques such as Terrestrial Laser Scanning (TLS) or Structure
+    From Motion (SfM) into BIM (Scan-to-BIM). Hence, this work advances on the
+    parametric modelling from remote sensing point cloud data, which is carried
+    out under the Rhino+Grasshopper-ArchiCAD combination. This workflow enables
+    the automatic conversion of TLS and SFM point cloud data into textured 3D
+    meshes and thus BIM objects to be included in the HBIM project. The accuracy
+    assessment of this workflow yields a standard deviation value of 68.28
+    pixels, which is lower than other author’s precision but suffices for the
+    automatic HBIM of the case study in this research.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 6
+  author:
+    - family: Andriasyan
+      given: Mesrop
+    - family: Moyano
+      given: Juan
+    - family: Nieto-Julián
+      given: Juan Enrique
+    - family: Antón
+      given: Daniel
+  citation-key: andriasyan:2020point12
+  container-title: Remote Sensing
+  container-title-short: Remote Sensing
+  DOI: 10.3390/rs12071094
+  ISSN: 2072-4292
+  issue: '7'
+  issued:
+    - year: 2020
+      month: 3
+      day: 29
+  language: en
+  page: '1094'
+  source: DOI.org (Crossref)
+  title: >-
+    From point cloud data to building information modelling: an automatic
+    parametric workflow for heritage
+  title-short: From point cloud data to building information modelling
+  type: article-journal
+  URL: https://www.mdpi.com/2072-4292/12/7/1094
+  volume: '12'
 
 - id: androuetcerceau:1579grundriss
   accessed:
@@ -612,6 +692,53 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Beijing_China_Hall-of-Prayer-for-Good-Harvests-01.jpg
+
+- id: arayici:2017heritage
+  abstract: >-
+    Building Information Modelling (BIM) is being debated, tested and
+    implemented wherever you look across the built environment sector. This book
+    is about Heritage Building Information Modelling (HBIM), which necessarily
+    differs from the commonplace applications of BIM to new construction.  Where
+    BIM is being used, the focus is still very much on design and construction.
+    However, its use as an operational and management tool for existing
+    buildings, particularly heritage buildings, is lagging behind.  The first of
+    its kind, this book aims to clearly define the scope for HBIM and present
+    cutting-edge research findings alongside international case studies, before
+    outlining challenges for the future of HBIM research and practice.  After an
+    extensive introduction to HBIM, the core themes of the book are arranged
+    into four parts:  Restoration philosophies in practice  Data capture and
+    visualisation for maintenance and repair  Building performance  Stakeholder
+    engagement  This book will be a key reference for built environment
+    practitioners, researchers, academics and students engaged in BIM, HBIM,
+    building energy modelling, building surveying, facilities management and
+    heritage conservation more widely.
+  author:
+    - family: Arayici
+      given: Yusuf
+    - family: Counsell
+      given: John
+    - family: Mahdjoubi
+      given: Lamine
+    - family: Nagy
+      given: Gehan Ahmed
+    - family: Hawas
+      given: Soheir
+    - family: Dweidar
+      given: Khaled
+  citation-key: arayici:2017heritage
+  event-place: 'London : New York'
+  ISBN: 978-1-317-23975-8
+  issued:
+    - year: 2017
+      month: 2
+      day: 10
+  language: en-US
+  number-of-pages: '460'
+  publisher: Routledge
+  publisher-place: 'London : New York'
+  source: Google Books
+  title: Heritage Building Information Modelling
+  type: book
 
 - id: architas:2018san
   accessed:
@@ -909,6 +1036,23 @@ references:
   type: entry-encyclopedia
   URL: https://en.wikipedia.org/w/index.php?title=Atlas_Maior&oldid=968645086
 
+- id: aubin:2013renaissance
+  author:
+    - family: Aubin
+      given: Paul F
+  citation-key: aubin:2013renaissance
+  ISBN: 978-1-4921-5092-3
+  issued:
+    - year: 2013
+  language: en-US
+  publisher: G3B
+  source: Open WorldCat
+  title: 'Renaissance Revit: creating classical architecture with modern software'
+  title-short: Renaissance Revit
+  type: book
+  URL: >-
+    https://www.amazon.com/Renaissance-Revit-Creating-Classical-Architecture/dp/1492976598
+
 - id: augusto:2008particolare
   accessed:
     - year: 2020
@@ -1081,6 +1225,73 @@ references:
   type: graphic
   URL: >-
     https://www.gettyimages.pt/detail/foto/view-of-taj-mahal-from-mehtab-bagh-imagem-royalty-free/978615838
+
+- id: banfi:2018building
+  abstract: >-
+    Building Information Modeling (BIM) enhances the sharing of information
+    during the traditional process for new construction, but most of the time,
+    it requires high levels of knowledge management for the historical digital
+    model (H-BIM). The innovation in the Digital Cultural Heritage (DCH) domain
+    is supported by the development of Information and Communications
+    Technologies (ICT) and modern tools that are able to transmit morphological
+    characteristics of the buildings in all their uniqueness. The latest
+    research in the field of H-BIM shows a significant emergence of innovative
+    methods and management initiatives for the generation of complex historical
+    elements, leading to the confrontation of the paradigm of regularity (simple
+    geometric shapes) with the new paradigm of complexity (historical building
+    elements). This paper proves the benefits of the BIM for project management
+    of the Centre Block of the Canadian Parliament in Ottawa, Ontario Canada,
+    and shows the results obtained by the introduction of Advanced Modeling
+    Techniques (AMT) during the generative process, reducing time and cost for
+    the creation of the complex architectural and structural elements. The
+    uniqueness of the forms of historical buildings is a real value to be
+    transmitted throughout the building’s lifecycle with high Levels of Detail
+    (LOD). Proper management of geometric primitives and Non-Uniform Rational
+    Basis Spline (NURBS) models have guaranteed the conversion of spatial data
+    (point clouds) from laser scanning and photogrammetry (geometric survey)
+    into parametric applications. This paper explores the generative process of
+    one of the most complex spaces within The Centre Block building of
+    Parliament Hill—Confederation Hall.
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Banfi
+      given: F.
+    - family: Chow
+      given: L.
+    - family: Reina Ortiz
+      given: M.
+    - family: Ouimet
+      given: C.
+    - family: Fai
+      given: S.
+  citation-key: banfi:2018building
+  collection-title: Lecture Notes in Computer Science
+  container-title: >-
+    Digital Cultural Heritage: Final Conference of the Marie Skłodowska-Curie
+    Initial Training Network for Digital Cultural Heritage, ITN-DCH 2017,
+    Olimje, Slovenia, May 23–25, 2017, Revised Selected Papers
+  DOI: 10.1007/978-3-319-75826-8_10
+  editor:
+    - family: Ioannides
+      given: Marinos
+  event-place: Cham
+  ISBN: 978-3-319-75826-8
+  issued:
+    - year: 2018
+  language: en
+  page: 119-130
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: Springer Link
+  title: >-
+    Building information modeling for cultural heritage: the management of
+    generative process for complex historical buildings
+  title-short: Building information modeling for cultural heritage
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-319-75826-8_10
 
 - id: baptista:2014how
   abstract: >-
@@ -2183,6 +2394,66 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_073.jpg
 
+- id: bonini:2021bim
+  abstract: >-
+    In recent years we have witnessed how technology applied to built heritage
+    has exponentially changed the daily practices of the various experts
+    involved in the life cycle of buildings. The techniques of representation of
+    historical architecture have been able to make use of new 3D survey tools as
+    well as research methods capable of managing a large amount of data while
+    improving the level of information (LOI) and accuracy of the surveyed
+    artefacts. On the other hand, professionals still have to make use of a
+    large number of exchange formats in order to share their digital
+    representations (3D, 2D) and analysis. For this reason, this paper describes
+    the research approach followed to obtain “standard” architectural
+    representations of a heritage building in the Cultural Heritage domain. The
+    word “standard” is used in its original meaning: “something established by
+    authority, custom, or general consent as a model or example” (Collins
+    Dictionary). In this context, 3D models have a primary role in the workflow
+    because its position is in-between the 3D survey techniques that come first
+    and the restoration/maintenance activities. The authors’ thought is that the
+    workflow should be as smooth and sustainable as possible to have an
+    effective standardization and collaboration among disciplines, sectors and
+    technicians working in the different study areas.
+  accessed:
+    - year: 2021
+      month: 5
+      day: 4
+  author:
+    - family: Bonini
+      given: Jacopo Alberto
+    - family: Mandelli
+      given: Alessandro
+    - family: De Gennaro
+      given: Stefano Marco
+    - family: Banfi
+      given: Fabrizio
+  citation-key: bonini:2021bim
+  container-title: Proceedings …
+  DOI: 10.4995/arqueologica9.2021.12104
+  event: >-
+    Arqueológica 2.0 - 9^th^ International Congress & 3^rd^ Geores - Geomatics
+    and Preservation
+  event-place: Valencia
+  issued:
+    - year: 2021
+      month: 4
+      day: 26
+  language: en-GB
+  page: 1-11
+  publisher: Editorial Universitat Politécnica de Valéncia
+  publisher-place: Valencia
+  source: DOI.org (Crossref)
+  title: >-
+    <span class="smallcaps">BIM</span> interoperability: Open <span
+    class="smallcaps">BIM</span>-based workflow for heritage building
+    information modelling <span class="smallcaps">(HBIM)</span>. a
+    multidisciplinary approach based on advanced 3D tools and exchange formats
+  title-short: Bim interoperability
+  type: paper-conference
+  URL: >-
+    http://ocs.editorial.upv.es/index.php/arqueologica20/arqueologica9/paper/view/12104
+
 - id: bosman:2006cnv00001
   accessed:
     - year: 2020
@@ -2541,6 +2812,37 @@ references:
   title: 'A fabricação do rei: a construção da imagem publica de Luís XIV'
   title-short: A Fabricação do rei
   type: book
+
+- id: burn:1856illustrated
+  abstract: >-
+    Signatures: [A][superscript 8] B-I[superscript 8]; Publisher's
+    advertisements on front and back pastedowns and flyleaves; Bookseller's
+    label "Messrs. BerkelouW"; Cloth binding blind stamped with design and
+    series statement, gold stamped with design and title; Copy inscribed (in
+    pencil) "Robert Conacher"; 10
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Burn
+      given: Robert Scott
+  call-number: '39273233'
+  citation-key: burn:1856illustrated
+  event-place: London
+  issued:
+    - year: 1856
+  language: en-GB
+  number-of-pages: '156'
+  publisher: Ward and Lock, 158 Fleet Street
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The illustrated architectural, engineering, & mechanical drawing-book : for
+    the use of schools, students, and artisans ; upwards of 300 illustrations
+  title-short: The illustrated architectural, engineering, & mechanical drawing-book
+  type: book
+  URL: http://archive.org/details/illustratedarchi00burn
 
 - id: byington:2009projeto
   author:
@@ -3785,6 +4087,25 @@ references:
   title: A global history of architecture
   type: book
 
+- id: ching:2012desenho
+  author:
+    - family: Ching
+      given: Francis D. K.
+  citation-key: ching:2012desenho
+  edition: 2.ª ed.
+  event-place: Porto Alegre
+  ISBN: 978-85-407-0191-5
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  title: Desenho para arquitetos
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
 - id: ching:2016historia
   abstract: >-
     Organizado através de uma linha do tempo, História global da arquitetura
@@ -3816,6 +4137,25 @@ references:
   publisher-place: São Paulo
   source: Amazon
   title: História global da arquitetura
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
+- id: ching:2017representacao
+  author:
+    - family: Ching
+      given: Francis D. K.
+  citation-key: ching:2017representacao
+  edition: 6.ª ed.
+  event-place: Porto Alegre
+  ISBN: 978-85-8260-437-3
+  issued:
+    - year: 2017
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  title: Representação gráfica em arquitetura
   translator:
     - family: Salvaterra
       given: Alexandre
@@ -4187,6 +4527,28 @@ references:
   title: Vitruvius presenting De Architectura to Augustus
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Vitruvius.jpg
+
+- id: clute:1928drafting
+  abstract: http://uf.catalog.fcla.edu/uf.jsp?st=UF000626998&ix=nu&I=0&V=D
+  accessed:
+    - year: 2017
+      month: 6
+      day: 20
+  author:
+    - family: Clute
+      given: Eugene
+  citation-key: clute:1928drafting
+  event-place: New York
+  issued:
+    - year: 1928
+  language: en-US
+  number-of-pages: '332'
+  publisher: Pencil Points
+  publisher-place: New York
+  source: Internet Archive
+  title: Drafting room practice
+  type: book
+  URL: http://archive.org/details/draftingroomprac00clut
 
 - id: cole:1840architect
   accessed:
@@ -5029,6 +5391,88 @@ references:
   type: article-journal
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
+
+- id: di:2019low-costXLII-2W17
+  abstract: >-
+    Abstract. The paper aims to investigate the potential inherent in a FOSS
+    (Free and Open Source Software) approach for the 4D BIM modelling using
+    Freecad. In order to reach this goal it shows a comparison of Freecad
+    features with those of commercial software, considering the evaluation of
+    the effective application of this Open Source software in the professional
+    environment, and highlighting the progress in the FOSS BIM area, that still
+    represents an unexplored study field if compared to the vast publications
+    related to BIM modelling that occurred in the last two decades. To this end,
+    the study has been carried out on a singular case study, a steel canopy
+    which has been designed for the urban renewal of a public space in Teramo.
+    Despite its size, the canopy required the definition of complex details. Its
+    structural system has addressed the study to compare Freecad with some
+    software dedicated to steel structures or particularly suitable for the
+    modelling of this specific structural typology: Tekla Structures and
+    Sketchup. Starting from a concise historical reconstruction of the FOSS
+    spread, the paper introduces a brief overview of the potential of Freecad in
+    terms of BIM modelling - also proposing an operational modality to
+    facilitate the drawing of BIM elements within the software - and finally
+    reaching to the examination of three simulations which has been carried.
+    This comparison can be useful to establish the current state of development
+    of Freecad in the field of 4D BIM.
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Di Donato
+      given: D.
+    - family: Abita
+      given: M.
+  citation-key: di:2019low-costXLII-2W17
+  container-title: >-
+    ISPRS - International Archives of the Photogrammetry, Remote Sensing and
+    Spatial Information Sciences
+  container-title-short: Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.
+  DOI: 10.5194/isprs-archives-XLII-2-W17-107-2019
+  ISSN: 2194-9034
+  issued:
+    - year: 2019
+      month: 11
+      day: 29
+  language: en
+  page: 107-114
+  source: DOI.org (Crossref)
+  title: >-
+    Low-cost <span class="smallcaps">4D BIM</span> modelling: a comparison
+    between Freecad and commercial software
+  title-short: Low-cost 4d bim modelling
+  type: article-journal
+  URL: >-
+    https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/107/2019/
+  volume: XLII-2/W17
+
+- id: diara:2021freecad
+  author:
+    - family: Diara
+      given: Filippo
+    - family: Rinaudo
+      given: Fulvio
+  citation-key: diara:2021freecad
+  container-title: >-
+    Open software, hardware, processes, data and formats in archeological
+    research
+  event: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
+  event-place: Catania
+  ISBN: 978-1-80327-124-8
+  issued:
+    - year: 2021
+  language: en
+  page: 55-67
+  publisher: Archaeopress
+  publisher-place: Catania
+  source: Open WorldCat
+  title: >-
+    Towards FreeCAD experimentation and validation as a <span
+    class="smallcaps">FOS HBIM</span> platform for building archaeology purposes
+  title-short: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
+  type: paper-conference
+  URL: https://2020.archeofoss.org/proceedings
 
 - id: dias:2011
   abstract: >-
@@ -6317,6 +6761,62 @@ references:
   title-short: Dórico, jónico e coríntio
   type: book
 
+- id: fortes:1728engenheiro
+  author:
+    - family: Fortes
+      given: Manuel de Azevedo
+  call-number: '6'
+  citation-key: fortes:1728engenheiro
+  event-place: Lisboa Occidental
+  issued:
+    - year: 1728
+    - year: 1729
+  language: pt-PT
+  number-of-volumes: '2'
+  publisher: Manoel Fernandes da Costa, Impressor do Santo Officio
+  publisher-place: Lisboa Occidental
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: 'O engenheiro portuguez: dividido em dous tratados'
+  title-short: O engenheiro portuguez
+  type: book
+  URL: https://purl.pt/14547
+
+- id: fortes:1728engenheiro1
+  author:
+    - family: Fortes
+      given: Manuel de Azevedo
+  call-number: '6'
+  citation-key: fortes:1728engenheiro1
+  event-place: Lisboa Occidental
+  issued:
+    - year: 1728
+  language: pt-PT
+  publisher: Manoel Fernandes da Costa, Impressor do Santo Officio
+  publisher-place: Lisboa Occidental
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: O engenheiro portuguez
+  title-short: O engenheiro portuguez
+  type: book
+  volume: '1'
+
+- id: fortes:1729engenheiro2
+  author:
+    - family: Fortes
+      given: Manuel de Azevedo
+  call-number: '6'
+  citation-key: fortes:1729engenheiro2
+  event-place: Lisboa Occidental
+  issued:
+    - year: 1729
+  language: pt-PT
+  publisher: Manoel Fernandes da Costa, Impressor do Santo Officio
+  publisher-place: Lisboa Occidental
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: O engenheiro portuguez
+  title-short: O engenheiro portuguez
+  type: book
+  volume: '2'
+
 - id: fraangelico:1442anunciacao
   accessed:
     - year: 2020
@@ -6399,6 +6899,68 @@ references:
     Principles of architectural history: the four phases of architectural style,
     1420-1900
   title-short: Principles of architectural history
+  type: book
+
+- id: freire:2020uso14
+  accessed:
+    - year: 2021
+      month: 1
+      day: 2
+  archive_location: Thillois [Reims] França / France
+  author:
+    - family: Freire de Oliveira
+      given: Adriana
+    - family: Scharffhausen
+      given: Jean-Baptiste
+    - family: Albuquerque Lapa
+      given: Tomás
+  citation-key: freire:2020uso14
+  container-title: Labor e Engenho
+  container-title-short: Labor e Eng.
+  DOI: 10.20396/labore.v14i0.8663507
+  ISSN: 2176-8846
+  issued:
+    - year: 2020
+      month: 12
+      day: 23
+  language: pt-BR
+  page: e020019-e020019
+  source: periodicos.sbu.unicamp.br
+  title: >-
+    Uso de tecnologias digitais no processo de documentação do patrimônio: o
+    caso do vilarejo de Thillois na França
+  title-short: Uso de tecnologias digitais no processo de documentação do patrimônio
+  type: article-journal
+  URL: https://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8663507
+  volume: '14'
+
+- id: friend:2014making
+  abstract: >-
+    Making Small Scale Models is for those who have never made a model before or
+    want to develop or increase their skills. From cutting a straight line to
+    making a scaled human figure that ''lives'', through to creating beautifully
+    detailed buildings and finely detailed furniture, the book takes you through
+    each stage of the process. Topics covered include methods for a wide range
+    of disciplines, from theatre design to railway modelling to interior design;
+    a practical guide to tools and materials; basic techniques for constructing
+    scale models using simple, readily available materials; step-by-ste.
+  accessed:
+    - year: 2019
+      month: 2
+      day: 21
+  author:
+    - family: Friend
+      given: Mark
+  citation-key: friend:2014making
+  event-place: New York
+  ISBN: 978-1-84797-771-7
+  issued:
+    - year: 2014
+  language: en-US
+  publisher: Crowood
+  publisher-place: New York
+  source: Open WorldCat
+  title: Making scale models
   type: book
 
 - id: frommel:1984raffaello
@@ -6777,6 +7339,51 @@ references:
   title: Pisa, Toscana, Italia. Duomo e Battistero dalla Torre
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Pisa-duomo01.jpg
+
+- id: gautier:1697lart
+  abstract: >-
+    Organized as an alphabetical list of objects to be represented by shading
+    and color. The recipes for inks, colors, etc. follow on p. 220-256; Plates
+    signed "P. Giffart" for Pierre Giffart, 1638-1723 (if not his son Pierre
+    François, b. 1677); Signatures: a A-X Y²; 136 leaves; Berlin.
+    Ornamentstichsammlung; Binding: mottled calf. Spine tooled in gilt, title on
+    red label. Page edges red; Old price at head of flyleaf facing t.p.; below
+    it, a signature: Emilio; Authorship uncertain. Attributed by some to Henri
+    (called Hubert) Gautier; Signatures: a⁶ A-X⁸/⁴ Y² [$4/2 signed (
+    -A4,R4,T4,V2,+O4)]; 136 leaves; Berlin. Ornamanentstichsammlung; Fougerolle
+    livres rares. Art, archéologie, architecture, cérémonies, collections,
+    jardins (Bulletin 39 (Oct. 1999)); Catalogo ragionato dei libri d'arte e
+    d'antichità posseduti dal conte Cicognara, 405; Catalogo ragionato dei libri
+    d'arte e d'antichità posseduti dal conte Cicognara, 807
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Gautier
+      given: Henri
+    - family: Giffart
+      given: Pierre
+  call-number: '585378'
+  citation-key: gautier:1697lart
+  issued:
+    - year: 1697
+  language: fr-FR
+  number-of-pages: '290'
+  publisher: 'A Paris : Chez Christophe Ballard ...'
+  source: Internet Archive
+  title: >-
+    L'art de dessiner proprement les plans, profils, elevations geometrales, et
+    perspectives, soit d'architecture militaire ou civile : avec tous les
+    secrets les plus rares pour faire les couleurs avec lesquelles les
+    ingenieurs representent les divers materiaux d'une place : et la maniere de
+    s'en servir dans les vûës des sieges, campements, & autres morceaux de
+    païsage
+  title-short: >-
+    L'art de dessiner proprement les plans, porfils, elevations geometrales, et
+    perspectives, soit d'architecture militaire ou civile
+  type: book
+  URL: http://archive.org/details/lartdedessinerpr00giff
 
 - id: gemini:2019chiesa
   accessed:
@@ -7288,6 +7895,50 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Scene_4_(Song_copy).jpg
+
+- id: guadagnoli:2021parametric14
+  abstract: >-
+    The research theme is the identification of a prototype procedure for the
+    construction of parametric models useful for the communication of Cultural
+    Heritage. The final result of the experimentation, applied to architectures
+    marked by the presence of classical architectural orders and sculptural
+    apparatus, has generated communicative artifacts. Reconstructing a
+    conoscitive model of a real space has meant composing a navigation interface
+    through which to convey and illustrate architecture with other
+    potentialities, responding at the same time to specific characteristics of
+    perceptive and geometric quality for the user.DOI:
+    https://doi.org/10.20365/disegnarecon.26.2021.7
+  accessed:
+    - year: 2021
+      month: 10
+      day: 18
+  author:
+    - family: Guadagnoli
+      given: Francesca
+    - family: Ippoliti
+      given: Elena
+    - family: Casale
+      given: Andrea
+  citation-key: guadagnoli:2021parametric14
+  container-title: DISEGNARECON
+  DOI: 10.20365/disegnarecon.26.2021.7
+  ISSN: 1828-5961
+  issue: '26'
+  issued:
+    - year: 2021
+      month: 6
+      day: 30
+  language: en-GB
+  number: '26'
+  page: 7-7.12
+  source: disegnarecon.univaq.it
+  title: >-
+    Parametric grammar: the shape of villa giulia, between cognitive coherence
+    and data enrichment
+  title-short: Parametric grammar
+  type: article-journal
+  URL: http://disegnarecon.univaq.it/ojs/index.php/disegnarecon/article/view/828
+  volume: '14'
 
 - id: guerrini:1883basilica
   accessed:
@@ -8380,6 +9031,50 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Tempio_Malatestiano_(pre-war).jpg
 
+- id: jabi:2013parametric
+  abstract: >-
+    Architects use computer-aided tools to help them visualize their ideas and
+    build models of their designs. However, the majority of these models are
+    built in such a way that it makes them difficult to modify interactively.
+    Parametric design software addresses this problem by allowing architects to
+    specify relationships among various parameters of their design model. The
+    advantage is that a designer can then change a few parameters and the
+    remainder of the model will react and update accordingly and in a consistent
+    manner based on the pre-set associative rules. Through a detailed
+    description of various parametric, generative, and algorithmic techniques,
+    this book provides a practical guide to generating geometric and topological
+    solutions for various situations, including explicit step-by-step tutorials
+    that will enable the reader to understand both general concepts and specific
+    computational algorithms. While the techniques and algorithms can be
+    generalized to suit to any parametric environment, the book illustrates its
+    concepts using the scripting languages of one of the most powerful 3D
+    visualization and animation design software systems (Autodesk 3ds Max
+    MAXScript), one of the most popular open-source Java-based scripting
+    environments (Processing), and a brand new language specifically tailored
+    for parametric and generative design (Autodesk DesignScript). This clear,
+    accessible book will have a wide appeal to students who would like to
+    experiment more with parametric techniques but lack the skills and knowledge
+    to do so. Includes a foreword by Robert Woodbury and an afterword by Brian
+    Johnson.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 3
+  author:
+    - family: Jabi
+      given: Wassim
+  citation-key: jabi:2013parametric
+  ISBN: 978-1-78067-536-7 978-1-78067-314-1 978-1-78627-439-7
+  issued:
+    - year: 2013
+  language: en
+  publisher: Laurence King
+  source: Open WorldCat
+  title: Parametric design for architecture
+  type: book
+  URL: >-
+    https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2162801
+
 - id: jackson:1822plan
   accessed:
     - year: 2020
@@ -9164,6 +9859,26 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/991756
   volume: '60'
+
+- id: knoll:2009maquetas
+  author:
+    - family: Knoll
+      given: Wolfgang
+    - family: Hechinger
+      given: Martin
+  citation-key: knoll:2009maquetas
+  edition: 5.^a^ ed.
+  event-place: Barcelona
+  ISBN: 978-84-252-2256-6
+  issued:
+    - year: 2009
+  language: es
+  publisher: Gustavo Gili
+  publisher-place: Barcelona
+  source: Open WorldCat
+  title: 'Maquetas de arquitectura: técnicas y construcción'
+  title-short: Maquetas de arquitectura
+  type: book
 
 - id: koch:1998dicionario
   author:
@@ -10530,6 +11245,40 @@ references:
   URL: http://www.jstor.org/stable/988523
   volume: '28'
 
+- id: machete:2020development
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Machete
+      given: Rita
+    - family: Falcão
+      given: Ana Paula
+    - family: Gonçalves
+      given: Alexandre B.
+    - family: Godinho
+      given: Márcia
+    - family: Bento
+      given: Rita
+  citation-key: machete:2020development
+  container-title: International Journal of Architectural Heritage
+  container-title-short: International Journal of Architectural Heritage
+  DOI: 10.1080/15583058.2020.1740825
+  ISSN: 1558-3058, 1558-3066
+  issued:
+    - year: 2020
+      month: 3
+      day: 15
+  language: en
+  page: 1-12
+  source: DOI.org (Crossref)
+  title: >-
+    Development of a Manueline style object library for heritage <span
+    class="smallcaps">BIM</span>
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/full/10.1080/15583058.2020.1740825
+
 - id: magal:2018italy
   abstract: >-
     Photographer:Samuel Magal  (samuel@sites-and-photos.com)
@@ -11128,6 +11877,43 @@ references:
   title-short: Taj Mahal Site Plan
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_site_plan.png
+
+- id: mcgoodwin:1904architectural
+  abstract: 2 26
+  accessed:
+    - year: 2022
+      month: 1
+      day: 19
+  author:
+    - family: McGoodwin
+      given: Henry
+  call-number: AAK-3969
+  citation-key: mcgoodwin:1904architectural
+  event-place: Boston
+  issued:
+    - year: 1904
+  language: en-US
+  number-of-pages: '134'
+  publisher: Bates & Guild
+  publisher-place: Boston
+  source: Internet Archive
+  title: Architectural shades and shadows
+  type: book
+  URL: http://archive.org/details/architecturalsha00mcgouoft
+
+- id: mckee:1970recording
+  author:
+    - family: McKee
+      given: Harley J.
+  citation-key: mckee:1970recording
+  event-place: Washington, D.C
+  issued:
+    - year: 1970
+  language: en-US
+  publisher: National Park Service
+  publisher-place: Washington, D.C
+  title: Recording historic buildings
+  type: book
 
 - id: medici:2014
   abstract: >-
@@ -14010,6 +14796,28 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Piero,_Polittico_di_Sant%27Antonio_05.jpg
 
+- id: pimentel:1680methodo
+  author:
+    - family: Pimentel
+      given: Luís Serrão
+  call-number: 623.1(=1.469)"16"
+  citation-key: pimentel:1680methodo
+  event-place: Lisboa
+  issued:
+    - year: 1680
+  language: Portuguese
+  publisher: Antonio Craesbeeck de Mello
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Methodo lusitanico de desenhar as fortificaçoens das praças regulares, &
+    irregulares, fortes de campanha, e outras obras pertencentes a architectura
+    militar distribuido em duas partes operativa, e qualificativa. Ao muito
+    alto, e poderoso Principe Dom Pedro Nosso Senhor
+  title-short: Methodo lusitanico
+  type: book
+  URL: http://purl.pt/24485
+
 - id: piotrowski:2001discipline
   call-number: NA2750 .D485 2001
   citation-key: piotrowski:2001discipline
@@ -14745,6 +15553,50 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Montepulciano_-_Madonna_di_San_Biagio.JPG
 
+- id: resco:2017grado
+  abstract: >-
+    En la actualidad la Arqueología Virtual se está constituyendo como
+    disciplina pro- pia, como una parte de la arqueología que reclama identidad
+    dado su potencial e importancia. Para ello, resulta fundamental establecer
+    mecanismos de estandari- zación metodológica que permitan a los
+    investigadores y profesionales aplicar el método científico-social y
+    permitir, de este modo, el avance de esta disciplina. La escala de evidencia
+    histórico-arqueológica para las reconstrucciones virtuales se desvela como
+    una de estas herramientas, con gran potencialidad en el ámbito de la
+    investigación en arqueología virtual pero, también, en el ámbito de la
+    difusión del patrimonio.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 15
+  author:
+    - family: Resco
+      given: Pablo Aparicio
+    - family: Figueiredo
+      given: César
+  citation-key: resco:2017grado
+  container-title: 'Otarq: Otras arqueologías'
+  container-title-short: Otarq
+  DOI: 10.23914/otarq.v0i1.96
+  ISSN: 2530-4933
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 2
+      day: 14
+  language: es-ES
+  number: '1'
+  page: 235-247
+  source: revistas.jasarqueologia.es
+  title: >-
+    El grado de evidencia histórico-arqueológica de las reconstrucciones
+    virtuales: hacia una escala de representación gráfica
+  title-short: >-
+    El grado de evidencia histórico-arqueológica de las reconstrucciones
+    virtuales
+  type: article-journal
+  URL: http://revistas.jasarqueologia.es/index.php/otarq/article/view/96
+
 - id: ribeiro:2016facade
   accessed:
     - year: 2020
@@ -15315,6 +16167,44 @@ references:
   URL: https://www.jstor.org/stable/3046004?origin=crossref
   volume: '76'
 
+- id: rupnik:2017micmac2
+  abstract: >-
+    The publication familiarizes the reader with MicMac - a free, open-source
+    photogrammetric software for 3D reconstruction. A brief history of the tool,
+    its organisation and unique features vis-à-vis other software tools are in
+    the highlight. The essential algorithmic aspects of the structure from
+    motion and image dense matching problems are discussed from the
+    implementation and the user’s viewpoints.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 21
+  author:
+    - family: Rupnik
+      given: Ewelina
+    - family: Daakir
+      given: Mehdi
+    - family: Pierrot Deseilligny
+      given: Marc
+  citation-key: rupnik:2017micmac2
+  container-title: Open Geospatial Data, Software and Standards
+  container-title-short: Open Geospatial Data, Software and Standards
+  DOI: 10.1186/s40965-017-0027-2
+  ISSN: 2363-7501
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 6
+      day: 5
+  language: en
+  page: '14'
+  source: BioMed Central
+  title: 'MicMac: a free, open-source solution for photogrammetry'
+  title-short: MicMac
+  type: article-journal
+  URL: https://doi.org/10.1186/s40965-017-0027-2
+  volume: '2'
+
 - id: rworld:2008lamu
   accessed:
     - year: 2020
@@ -15418,6 +16308,44 @@ references:
   title: 'The dancing column: on order in architecture'
   title-short: The dancing column
   type: book
+
+- id: said:2007digital
+  abstract: >-
+    This paper focuses on an effort to represent the form and style of the
+    traditional Malay houses (TMH) in a digital form to enable proper coding and
+    compilation of the various built forms in a computing environment. In order
+    to develop the data structure to code the form and styles of the houses, the
+    scope of the study is currently limited to the original TMH of the bumbung
+    panjang (long roof) type in which the key features of the houses were easily
+    discernible from the side view. The digital representations of the houses
+    are in the form of a database of construction elements with construction and
+    addition rules to recreate the style of all the various bumbung panjang
+    built forms. With this systematic programming approach, a digital
+    representation of the traditional Malay house could be recalled and created
+    within seconds.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  author:
+    - family: Said
+      given: Suzana; Mohamed R. Embi
+  citation-key: said:2007digital
+  container-title: >-
+    CAADRIA 2007 [Proceedings of the 12th International Conference on Computer
+    Aided Architectural Design Research in Asia] Nanjing (China) 19-21 April
+    2007
+  issued:
+    - year: 2007
+  language: en
+  publisher: <span class="smallcaps">CUMINCAD</span>
+  source: papers.cumincad.org
+  title: >-
+    Towards a digital representation of vernacular architecture – the
+    traditional Malay houses in perspective
+  title-short: Towards a digital representation of vernacular architecture
+  type: paper-conference
+  URL: http://papers.cumincad.org/cgi-bin/works/Show?caadria2007_211
 
 - id: said:2008parametric6
   abstract: >-
@@ -16032,6 +16960,25 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/468623?origin=crossref
   volume: '1'
+
+- id: schilling:2018architecture
+  author:
+    - family: Schilling
+      given: Alexander
+  call-number: NA2790 .S35 2018
+  citation-key: schilling:2018architecture
+  event-place: Basel, Switzerland
+  ISBN: 978-3-0356-1479-4
+  issued:
+    - year: 2018
+  language: en-GB
+  number-of-pages: '207'
+  publisher: Birkhauser
+  publisher-place: Basel, Switzerland
+  source: Library of Congress ISBN
+  title: 'Architecture and model building: concepts, methods, materials'
+  title-short: Architecture and model building
+  type: book
 
 - id: schumacher:1971contestualismo
   author:
@@ -16691,6 +17638,30 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/Image:Micco_Spadaro_-_Largo_Mercatello_durante_la_peste_a_Napoli_(1656).jpg?uselang=it
+
+- id: spiers:1888architectural
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Spiers
+      given: Richard Phené
+  citation-key: spiers:1888architectural
+  event-place: New York ; London
+  issued:
+    - year: 1888
+  language: en-US
+  number-of-pages: '157'
+  publisher: Cassell and company
+  publisher-place: New York ; London
+  source: Internet Archive
+  title: Architectural drawing
+  type: book
+  URL: http://archive.org/details/architecturaldr00spiegoog
 
 - id: stanley:2017ruins
   abstract: >-
