@@ -173,6 +173,12 @@ var store = [{
         "url": "/tau0006/trabalho/3-wikipedia/",
         "teaser": null
       },{
+        "title": "Instrumentos e materiais",
+        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/materiais/",
+        "teaser": null
+      },{
         "title": "Análise urbana",
         "excerpt":"Os instrumentos de análise têm de ser suficientemente genéricos para que possam ser aplicados a qualquer cidade; em suma, eles servem para começar a observar as cidades e nelas reconhecer algumas lógicas recorrentes. Com efeito, um dos aspectos fascinantes do estudo das cidades é que, apesar de suas diferenças e...","categories": [],
         "tags": [],
