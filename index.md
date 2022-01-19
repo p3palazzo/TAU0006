@@ -18,8 +18,8 @@ toc: false
 
 # Antes de começar #
 
-1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_,-->
-2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
+<!--1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md)-->
+1. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
 3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
 4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_,-->
 5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
