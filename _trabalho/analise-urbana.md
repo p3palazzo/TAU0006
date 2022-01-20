@@ -2,13 +2,18 @@
 title   : "Análise urbana"
 subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : "Trabalho I"
-date    : 2022-02-14
+date    : 2022-02-23
 header:
-  overlay_image:
-  caption:
-  actions:
-  - label: "Entregar trabalho"
-    url  : "https://aprender3.unb.br/mod/assign/view.php?id=552615"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG/2560px-Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG
+  caption: Giambattista Nolli, [*Nova planta de Roma*, 1748](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG)
+toc:
+  - Objetivo
+  - Contexto
+  - Ementa
+  - Processo
+  - Produto
+  - Critérios de avaliação
+  - Dicas de pesquisa
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
@@ -216,21 +221,26 @@ transformado entre os séculos [XV]{.smallcaps} e [XVIII]{.smallcaps}.
 
 # Processo #
 
-## Semana 1: Documentação e estratégias ##
+Todo o processo será desenvolvido no fórum do trabalho no Moodle.
+
+## Semana 1: documentação e estratégias ##
 
 1. Escolha um trecho de tecido urbano consolidado entre o século
    [XV]{.smallcaps} e o [XVIII]{.smallcaps}, numa cidade de qualquer
    região do mundo (exceto Brasil).
 
-   - O trecho escolhido deve ser um quadrado com 1.000 × 1.000 metros de
+   - O trecho escolhido deve ser um quadrado com 1000 × 1000 metros de
      extensão, cujas arestas apontam para os pontos cardeais (ver Norte
      no modelo de prancha);
+
    - O trecho escolhido deve compreender um tecido urbano diversificado,
      com uma área significativa de parcelamento do solo privado (lotes
      para casas, comércios, etc.);
+
    - Você deve poder localizar ou compilar uma base cartográfica
      precisa, mostrando no mínimo a largura real das caixas de vias, o
      parcelamento do solo e a projeção das edificações;
+
    - Melhor ainda se conseguir também uma representação semelhante à do
      [mapa de Nolli][], mostrando os espaços interiores públicos.
 
@@ -241,60 +251,110 @@ transformado entre os séculos [XV]{.smallcaps} e [XVIII]{.smallcaps}.
      do trecho urbano entre o século [XV]{.smallcaps} e o
      [XVIII]{.smallcaps}, ou que as condições
      atuais da área sejam próximas às do século [XVIII]{.smallcaps};
+
    - Registre a fonte de todas as imagens e plantas, identificando,
      conforme o caso, as pessoas ou instituições responsáveis pelo site
      consultado, assim como a referência e autoria original de cada
      planta, desenho ou foto.
 
 3. Carregue os arquivos coletados no fórum do Moodle intitulado
-   *Trabalho I · Semana 1: Documentação e estratégias*.
+   *Trabalho I: Análise urbana*.
+
+   - Crie um tópico tendo como título o nome da cidade escolhida e da
+     área de análise.
+
+   - Cole no conteúdo desta postagem o recorte de um mapa existente
+     (histórico ou atual) mostrando o quadrado de 1000 × 1000 metros
+     dentro do contexto urbano mais amplo.
+
+   - Em seguida, poste uma resposta ao seu próprio tópico contendo as
+     informações históricas que você recolheu, bem como as imagens
+     (mapas ou iconografia histórica) e outros arquivos relevantes para
+     o desenvolvimento do trabalho.
 
    - Indique, do modo que for mais claro e conveniente, as referências
-     bibliográficas de *todas* as imagens e informações colhidas.
+     bibliográficas de *todas* as imagens e informações textuais que
+     você encontrou.
 
-4. Posicione preliminarmente sobre uma das plantas pesquisadas o
-   quadrado de 1.000 × 1.000 metros a ser analisado.
+     ::: notice
+     []{.fas .fa-book}
+     : Estas referências não devem ser apenas links para sites, mas os
+       dados completos de autoria, publicação e data de criação.
+       Consulte as normas de referência bibliográfica da
+       [ABNT]{.smallcaps} ou do *Chicago Manual of Style*.
+     :::
 
-## Semana 2: Desenho da planta de base ##
+## Semana 2: desenho do mapa de base ##
 
 Na orientação da semana 1, confirmamos o posicionamento do quadrado
-de 1.000 × 1.000 metros a ser analisado. Agora, devemos representar essa
+de 1000 × 1000 metros a ser analisado. Agora, devemos representar essa
 área de modo padronizado, para permitir as análises.
 
-1. **Planta de cheios e vazios** do trecho urbano escolhido, na escala
-   1:5000, com o norte para cima, mostrando:
+Desenhe um [mapa de base]{.newthought} da sua área de 1000 × 1000
+metros, na escala 1:5000, com o norte para cima, inserido no modelo de
+prancha anexo, e representando o estado da sua cidade em alguma época
+dentro da Idade Moderna (séculos [XV--XVIII]{.smallcaps} na Europa, ou
+séculos [XIV--XIX]{.smallcaps} no resto do mundo). O mapa deve seguir as
+nossas [convenções de desenho](materiais.md) e mostrar:
 
    - Parcelamento do solo (divisas de lotes);
-   - Projeção das edificações no solo e outras barreiras arquitetônicas,
-     tais como muros altos, fortificações, etc.;
-   - Monumentos, portais, fontes, escadarias, colunatas;
+   - Projeção das edificações no solo e seus espaços interiores
+     públicos (cheios e vazios);
+   - Barreiras construídas, tais como muros altos, fortificações, etc.;
+   - Barreiras não arquitetônicas importantes: topografia acentuada,
+     massas de água, parques, etc.;
+   - Monumentos, portais, fontes, escadarias, colunatas, outros
+     elementos importantes e permanentes do espaço urbano;
    - Evidenciar sempre que possível os espaços abertos interiores
      (pátios e quintais) e os principais espaços públicos ou cívicos
      cobertos (galerias e arcadas, naves de igrejas, salões de uso
      coletivo, etc.), à maneira do [Mapa de Nolli][];
-   - Barreiras não arquitetônicas importantes: topografia acentuada,
-     massas de água, parques, etc.;
-   - *Não representar* elementos menores tais como: separação de
-     calçamento e meio-fio nas ruas, mobiliário urbano, faixas de
-     rolamento --- a ênfase da planta base deve estar em evidenciar a
-     delimitação do espaço público pela projeção das edificações;
-   - Observe as margens e a tabela de cores e pesos de linhas indicadas
-     no modelo de prancha anexo: use o quadrado grande para a planta e o
-     espaço vertical do lado direito para as legendas, norte e escala
-     gráfica.
+   - *Não representar* elementos menores nem modernos, tais como: separação de
+     calçamento e meio-fio nas ruas, mobiliário urbano (bancos, postes), faixas de
+     rolamento --- a ênfase do mapa de base deve ser evidenciar a
+     delimitação do espaço público pela projeção das barreiras;
+   - Use a coluna da direita no modelo de prancha para todos os títulos
+     e legendas que considere necessários;
+   - Siga as convenções de desenho para mapas urbanos, elencadas no
+     nosso [plano de curso](materiais.md).
+
+Poste uma resposta ao tópico que você criou na Semana 1 e anexe o mapa
+de base em formato [JPG]{.smallcaps}.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+[]{.fas .fa-pencil-alt}
+: Tudo o que postar desta semana em diante deve ser inteiramente seus
+  próprios desenhos. A partir daqui e até a entrega final, você não deve
+  mais reproduzir nenhum material pesquisado. Reproduções de imagens ou
+  mapas históricos podem aparecer *somente* na folha de rosto e na
+  bibliografia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Semana 3: planejamento das análises ##
 
-De posse da planta de base, é hora de refletir sobre as informações que
-podemos extrair dela e dos outros documentos coletados. A análise dos
+De posse do mapa de base, é hora de refletir sobre as informações que
+podemos extrair dele e dos outros documentos coletados. A análise dos
 tecidos urbanos se divide, segundo Panerai, em três âmbitos: malha
 viária, parcelamento do solo e edificação.
 
 Em cada um desses três âmbitos, esboce as três análises listadas,
-prevendo uma ou duas pranchas para cada item em algarismos arábicos
-listado abaixo.
+prevendo para cada um:
 
-### Tecido urbano e malha viária ###
+- Um mapa calcado do mapa de base, evidenciando unicamente o âmbito de
+  análise em andamento;
+- Duas ou três pranchas com o desenvolvimento da análise, atendendo aos itens
+  indicados em cada tópico abaixo.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+[]{.fas .fa-photo-video}
+: Poste a sua produção em resposta ao mesmo tópico do fórum, na forma
+  que considerar mais apropriada e legível, com qualquer combinação de
+  desenhos em formato [JPG]{.smallcaps}, textos curtos, pranchas em
+  formato [PDF]{.smallcaps}, etc.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### 1 Tecido urbano e malha viária ###
 
 1. Mostrar as etapas sucessivas de formação, crescimento e transformação
    do tecido urbano ao longo do tempo, apontando os vetores de
@@ -307,7 +367,7 @@ listado abaixo.
    das caixas de vias (espaço delimitado pelas edificações) de algumas
    ruas e praças representativas de tipos geométricos diversos.
 
-### Parcelamento do solo ###
+### 2 Parcelamento do solo ###
 
 4. Classificar as dimensões e proporções de quarteirões e lotes em
    padrões predominantes e apontar as exceções significativas;
@@ -317,7 +377,7 @@ listado abaixo.
    planejados, etc.;
 6. Mostrar a relação do parcelamento com a topografia e a água.
 
-### Edificações ###
+### 3 Edificações ###
 
 7. Situar e analisar as características dos tipos edilícios de base (a
    "casa" residencial e comercial predominante na área e na época
@@ -334,12 +394,60 @@ listado abaixo.
 Apresente ao menos um dos três grupos de análises (malha viária,
 parcelamento ou edificações) completo para revisão e orientação.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+[]{.fas .fa-photo-video}
+: Poste a sua produção em resposta ao mesmo tópico do fórum, já
+  formatada segundo as normas do produto final, conforme indicado
+  abaixo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Produto #
 
+1. Folha de rosto com título, e mostrando a situação da sua área de
+   análise dentro do conjunto urbano mais amplo (1 prancha);
 1. Planta de base e informações gerais do trabalho (1 prancha);
 2. Pranchas de análise nas três categorias (malha viária, parcelamento e
-   edificações), 9 ou mais pranchas;
-3. Bibliografia e referências da iconografia, 1 ou mais pranchas.
+   edificações, 9 ou mais pranchas);
+3. Bibliografia e referências da iconografia (1 ou mais pranchas).
+
+Numere as pranchas segundo o exemplo abaixo ([@tbl:numera]).
+
+Table: Exemplo de numeração de pranchas {#tbl:numera}
+
+| N.º | Descrição                                    |
+|----:|----------------------------------------------|
+| 0.0 | Folha de rosto do trabalho                   |
+| 0.1 | Mapa de base geral                           |
+| 1.1 | Mapa de base da malha viária                 |
+| 1.2 | Primeira prancha de análise da malha viária  |
+| 1.3 | Quantas pranchas forem necessárias.          |
+| 2.1 | Mapa de base do parcelamento do solo         |
+| 2.2 | Primeira prancha de análise do parcelamento  |
+| 2.3 | Numere as pranchas sucessivamente.           |
+| 2.4 | Quantas pranchas forem necessárias.          |
+| 3.1 | Mapa de base das edificações                 |
+| 3.2 | Primeira prancha de análise de edificações   |
+| 3.3 | Numere as pranchas sucessivamente.           |
+| 4.1 | Fontes das imagens e bibliografia pesquisada |
+| 4.2 | Quantas pranchas forem necessárias.          |
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+[]{.fas .fa-upload}
+: Poste o seu trabalho em resposta ao tópico fixado intitulado *Entregas
+  finais*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Critérios de avaliação #
+
+Table: Critérios de avaliação {#tbl:criterios}
+
+| Item                                          |  Valor |
+|:----------------------------------------------|-------:|
+| Regularidade e qualidade do processo semanal  |      5 |
+| Consistência da pesquisa e documentação       |      5 |
+| Rigor e abrangência das análises morfológicas |     10 |
+| Clareza e precisão da representação           |      5 |
+| **Total**                                     | **25** |
 
 ## Pesquisa ##
 
@@ -359,15 +467,16 @@ Demonstre claramente a sua capacidade de:
   do geral para o particular e do mais antigo ao mais recente;
 - Tratamento aprofundado e equilibrado dos três níveis da análise
   morfológica --- malha viária, parcelamento, edificações;
-- Uso correto e eficaz das plantas em escala 1:2000 e de outras formas
+- Uso correto e eficaz das plantas em escala 1:5000 e de outras formas
   de representação.
 
 ## Apresentação ##
 
-Todas as pranchas num único arquivo em formato `.pdf`. Todas as plantas
-devem seguir o Modelo de prancha anexo. Essas convenções gráficas se
-baseiam na representação cartográfica habitual na Europa durante os
-séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
+Todas as pranchas num único arquivo em formato [PDF]{.smallcaps}. Todas
+as plantas devem seguir o Modelo de prancha anexo e as nossas convenções
+de desenho. Essas convenções gráficas se baseiam na representação
+cartográfica habitual na Europa durante os séculos [XVII]{.smallcaps} a
+[XIX]{.smallcaps}.
 
 - Plantas, desenhos e croquis no campo esquerdo da prancha (ver modelo),
   com o mínimo necessário de títulos e legendas;
@@ -385,9 +494,10 @@ referências como ponto de partida para elaborar os seus próprios
 desenhos.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-É permitido desenhar à mão ou usando qualquer ferramenta digital, desde
-que todos os desenhos sejam de sua própria autoria e não reproduzidos de
-material existente.
+[]{.fas .fa-pencil-alt}
+: É permitido desenhar à mão ou usando qualquer ferramenta digital,
+  desde que todos os desenhos sejam de sua própria autoria e não
+  reproduzidos de material existente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Dica de desenho ###
@@ -396,18 +506,6 @@ Comece a desenhar pensando em qual informação deve ser transmitida,
 prioritariamente, por aquele desenho. Ajuste a forma de representação e
 as convenções gráficas para transmitir do modo mais claro possível a
 informação pretendida.
-
-# Critérios de avaliação #
-
-Table: Critérios de avaliação
-
-| Item                                          |  Valor |
-|:----------------------------------------------|-------:|
-| Regularidade e qualidade do processo semanal  |      5 |
-| Consistência da pesquisa e documentação       |      5 |
-| Rigor e abrangência das análises morfológicas |     10 |
-| Clareza e precisão de desenhos e legendas     |      5 |
-| **Total**                                     | **25** |
 
 # Dicas de pesquisa #
 
@@ -428,12 +526,11 @@ Table: Critérios de avaliação
 # Bibliografia #
 
 Os textos indicados abaixo, assim como o Modelo de prancha, estão
-disponíveis na [área de arquivos da disciplina no Microsoft
-Teams](https://unbbr.sharepoint.com/:f:/s/TAU0006-C-2021_2/EqL0C2-Oen9Lu78v6NIJ12EBKWLEuT1cQTaA32P6ykUMig?e=i5mg7G).
-Considere o material indicado abaixo como um ponto de partida
-importante, mas não suficiente, para situar a abordagem da análise. Você
-é responsável por localizar a documentação, inclusive cartográfica,
-necessária para desenvolver a cidade escolhida.
+disponíveis online, ou na área de arquivos da disciplina no Microsoft
+Teams, ou no Moodle. Considere o material indicado abaixo como um ponto
+de partida importante, mas não suficiente, para situar a abordagem da
+análise. Você é responsável por localizar a documentação, inclusive
+cartográfica, necessária para desenvolver a cidade escolhida.
 
 [convenções cartográficas da Wikipédia]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Maps/Conventions
 

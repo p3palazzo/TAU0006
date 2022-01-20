@@ -1,7 +1,26 @@
 ---
-title   : "Análise de composição"
-subtitle: "Trabalho II"
+title   : "Análise arquitetônica"
+subtitle: "Gramática, vocabulário, dialetos"
+item    : "Trabalho II"
+date    : 2022-03-30
+header:
+  overlay_image: https://mulvanyandrogers.com/wp-content/uploads/2020/07/Gallery-Louis-XVI-Library-.jpg
+  caption: "Modelo em escala 1:12 de uma biblioteca em estilo Luís XVI, por [Mulvany and Rogers](https://mulvanyandrogers.com/gallery/)"
+toc:
+  - Objetivo
+  - Contexto
+  - Ementa
+  - Processo
+  - Produto
+  - Critérios de Avaliação
+  - Dicas de trabalho
 ---
+
+# Objetivo #
+
+Dominar e ser capaz de empregar os elementos do vocabulário e a
+gramática das tradições arquitetônicas da era moderna, com ênfase na
+linguagem clássica.
 
 # Ementa #
 
@@ -33,7 +52,7 @@ Dominar e ser capaz de empregar os elementos do vocabulário e a
 gramática das tradições arquitetônicas da era moderna, com ênfase na
 linguagem clássica.
 
-# Processo (10 pontos) #
+# Processo #
 
 ## Semana 1: documentação e estratégias (3 pontos) ##
 
@@ -95,7 +114,7 @@ dificuldade, de modo a aproveitar a orientação para tirar dúvidas.
 - Caso deseje, poderá *também* compartilhar a tela do seu computador no
   dia da orientação.
 
-# Produto (10 pontos) #
+# Produto #
 
 Diagramas extraídos de modelagens tridimensionais digitais, colagens
 e/ou desenhos isométricos (à mão livre ou com instrumentos).
@@ -121,18 +140,22 @@ aplica ao arquivo do modelo 3D; usem o bom-senso). O suporte escolhido
 deverá apresentar todas as informações de identificação relevantes
 (trabalho, disciplina, edificação, seu nome, legendas, etc.).
 
+# Critérios de avaliação #
+
+Table: Critérios de avaliação {#tbl:criterios}
+
 | Critério de avaliação                                                |  Valor |
 |----------------------------------------------------------------------|-------:|
-| Demonstração correta e completa das operações de composição espacial |      7 |
-| Clareza, equilíbrio e facilidade de manuseio do suporte              |      3 |
-| **Total**                                                            | **10** |
+| Regularidade e qualidade do processo semanal                         |      5 |
+| Consistência da pesquisa e documentação                              |      5 |
+| Demonstração correta e completa das operações de composição espacial |     10 |
+| Clareza e precisão da representação                                  |      5 |
+| **Total**                                                            | **25** |
 
-: Critérios de avaliação do produto
+# Dicas de trabalho #
 
-# Recursos e apoio #
-
-- Use o fórum da unidade e o ambiente de construção colaborativa do
-  conteúdo para tirar dúvidas, compartilhar informações e bibliografia
+- Use o fórum do trabalho também
+  para tirar dúvidas, compartilhar informações e bibliografia
   com colegas, e discutir maneiras de abordar este trabalho;
 - Aproveite os modelos digitais de edifícios famosos disponíveis em
   repositórios online como ponto de partida, mas verifique sempre se os

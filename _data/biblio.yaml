@@ -14361,8 +14361,8 @@ references:
   ISSN: '01492993'
   issue: '2'
   issued:
-    - year: 24
     - year: 1982
+      season: 4
   language: en-US
   page: '2'
   source: Crossref
@@ -16951,8 +16951,8 @@ references:
   ISSN: '00286087'
   issue: '2'
   issued:
-    - year: 24
     - year: 1970
+      season: 4
   language: en
   page: '113'
   source: Crossref
@@ -18313,8 +18313,8 @@ references:
   ISSN: '00218529'
   issue: '2'
   issued:
-    - year: 24
     - year: 1972
+      season: 4
   language: en-US
   page: '165'
   source: Crossref
@@ -20974,8 +20974,8 @@ references:
   ISSN: '00218529'
   issue: '3'
   issued:
-    - year: 21
     - year: 1961
+      season: 1
   language: en-US
   page: '263'
   source: Crossref
