@@ -1,7 +1,22 @@
 ---
 title   : "Pesquisa e crítica"
-subtitle: "Trabalho III"
+subtitle: "Viação e território, inquietações contemporâneas"
+item    : "Trabalho III"
+date    : 2022-05-04
+toc:
+  - Objetivo
+  - Contexto
+  - Ementa
+  - Processo
+  - Produto
+  - Critérios de avaliação
+  - Dicas de pesquisa
+header:
+  overlay_image:
+  caption:
 ---
+
+# Objetivo #
 
 # Ementa #
 
@@ -33,7 +48,7 @@ Refletir criticamente sobre a tradição historiográfica da arquitetura, e
 especialmente sobre os debates a respeito das noções de Antiguidade e
 Modernidade.
 
-# Processo (10 pontos) #
+# Processo #
 
 ## Semana 1: Aproximação à Wikipédia (2 pontos) ##
 
@@ -135,7 +150,7 @@ na subpágina que você criou na semana anterior.
      Commons](https://commons.wikimedia.org) ou carregue desenhos feitos
      por você.
 
-# Produto (10 pontos) #
+# Produto #
 
 Após resolver as questões levantadas na última orientação, transcreva o
 seu texto da subpágina para a posição apropriada no verbete da
@@ -144,19 +159,22 @@ caso. Além de referenciar a bibliografia nas notas de rodapé, acrescente essas
 mesmas referências na seção "Referências" ao pé da página. Envie na tarefa do
 Moodle o link para a sua edição no histórico da página.
 
+# Critérios de avaliação #
+
 | Critério de avaliação                                      |  Valor |
 |------------------------------------------------------------|-------:|
-| Tópico preenche uma lacuna objetiva e relevante no verbete |      3 |
-| Texto desenvolve o tópico de modo completo e claro         |      4 |
-| Uso correto das referências bibliográficas e da língua     |      3 |
-| **Total**                                                  | **10** |
+| Regularidade e qualidade do processo semanal               |      5 |
+| Tópico preenche uma lacuna objetiva e relevante no verbete |      5 |
+| Texto desenvolve o tópico de modo completo e claro         |      5 |
+| Uso correto das referências bibliográficas e do idioma     |      5 |
+| **Total**                                                  | **20** |
 
-- Critérios de avaliação do produto
+: Critérios de avaliação {#tbl:criterios}
 
-# Recursos e apoio #
+# Dicas de pesquisa #
 
-- Use o fórum da unidade e o ambiente de construção colaborativa do
-  conteúdo para tirar dúvidas, compartilhar informações e bibliografia
+- Use o fórum do trabalho também
+  para tirar dúvidas, compartilhar informações e bibliografia
   com colegas, e discutir maneiras de abordar este trabalho;
 - Aproveite, como ponto de partida, a bibliografia básica e complementar
   da disciplina, elencada no plano de ensino, mas não se limite a ela;

@@ -28,7 +28,7 @@ I.  Saber ler o ambiente construído
       urbanísticos e construtivos sobre os quais se desenvolvem as
       culturas arquitetônicas da era moderna.
 
-    [Atividade](../_trabalho/1-analise-urbana.md) <!--_,-->
+    [Atividade](../_trabalho/analise-urbana.md) <!--_,-->
     : Análise urbana
 
 II. Saber projetar
@@ -37,7 +37,7 @@ II. Saber projetar
       gramática das tradições arquitetônicas da era moderna, com ênfase na
       linguagem clássica.
 
-    [Atividade](../_trabalho/2-permutacoes.md) <!--_,-->
+    [Atividade](../_trabalho/analise-arq.md) <!--_,-->
     : Permutações
 
 III. Saber pesquisar
@@ -46,7 +46,7 @@ III. Saber pesquisar
       e especialmente sobre os debates a respeito das noções de Antiguidade
       e Modernidade.
 
-    [Atividade](../_trabalho/3-wikipedia.md) <!--_,-->
+    [Atividade](../_trabalho/wikipedia.md) <!--_,-->
     : Parágrafo da Wikipédia
 
 </section>
