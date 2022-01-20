@@ -143,12 +143,6 @@ var store = [{
         "url": "/tau0006/plano/sobre-disciplina/",
         "teaser": null
       },{
-        "title": "Análise de composição",
-        "excerpt":"Ementa A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera condicionantes para intervenções futuras. Dentro do gabarito condicionado pelo entorno ou pela tipologia da edificação, os espaços interiores se desdobram como volumes dotados de formas...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/2-analise-arq/",
-        "teaser": null
-      },{
         "title": "Permutações",
         "excerpt":"Ementa A arquitetura clássica é um sistema de ordenamento global do ambiente construído, fornecendo ao mesmo tempo harmonia entre edificações graças a uma linguagem partilhada e uma variedade de soluções possíveis para cada problema arquitetônico. Demonstre essa afirmação permutando uma fachada clássica em outra, através de cinco passos intermediários. Objetivo...","categories": [],
         "tags": [],
@@ -167,12 +161,6 @@ var store = [{
         "url": "/tau0006/trabalho/3-pesquisa/",
         "teaser": null
       },{
-        "title": "Pesquisa e crítica",
-        "excerpt":"Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos, manuais...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/3-wikipedia/",
-        "teaser": null
-      },{
         "title": "Instrumentos e materiais",
         "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
         "tags": [],
@@ -185,9 +173,21 @@ var store = [{
         "url": "/tau0006/trabalho/analise-urbana/",
         "teaser": null
       },{
+        "title": "Análise arquitetônica",
+        "excerpt":"Objetivo Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Ementa A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/analise-arq/",
+        "teaser": null
+      },{
         "title": "Resenha e discussão de texto",
         "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula na quinta-feira. Produto (3 pontos) Em um ou dois parágrafos (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras, discuta os principais argumentos levantados pela leitura indicada para esta semana. Não é...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/resenha/",
+        "teaser": null
+      },{
+        "title": "Pesquisa e crítica",
+        "excerpt":"Objetivo Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos,...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/wikipedia/",
         "teaser": null
       }]
