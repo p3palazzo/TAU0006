@@ -10,7 +10,7 @@ toc:
   - Campo e canal em Veneza
 leitura: 425, 491--500, Summerson 141--145
 title-slide-attributes:
-  data-background-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/fra_carnevale-the_ideal_city-google_art_project-scaled.jpg
 header:
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
   caption: "Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)"

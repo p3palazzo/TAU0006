@@ -969,6 +969,8 @@ inclinadas.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg" data-background-size="contain"}
 
+<!--_-->
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
 provavelmente, em Kumasi, a capital da federação e reino Asante desde o
