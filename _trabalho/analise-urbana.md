@@ -442,7 +442,7 @@ Table: Exemplo de numeração de pranchas {#tbl:numera}
 Table: Critérios de avaliação {#tbl:criterios}
 
 | Item                                          |  Valor |
-|:----------------------------------------------|-------:|
+|-----------------------------------------------|-------:|
 | Regularidade e qualidade do processo semanal  |      5 |
 | Consistência da pesquisa e documentação       |      5 |
 | Rigor e abrangência das análises morfológicas |     10 |

@@ -832,7 +832,11 @@ transforma. No lugar de cidades com casas alinhadas, encontramos
 complexos agropastoris familiares formando redes mais ou menos densas no
 território.
 <!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman .align-right .overlay-slide}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
 1980, o paradigma espacial agropastoril banto como um sistema organizado
 em torno de um cercado comunitário [@huffman:1990broederstroom49, 7].
@@ -847,43 +851,37 @@ tem a sua própria casa perto desse espaço central ([@fig:boma])
 [@huffman:2009mapungubwe28].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=85%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue, segundo [Thomas N. Huffman, 2009][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/huffman-2009-idealised-model-of-zimbabwe-pattern.png){#fig:boma width=100%}
-:::
-::: {.column width=15%}
-![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Esquema teórico de um *boma* no sul da África: Zimbábue, segundo [Thomas N. Huffman, 2009][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/huffman-2009-idealised-model-of-zimbabwe-pattern.png){#fig:boma .line}
 
 [Thomas N. Huffman, 2009]: http://www.sciencedirect.com/science/article/pii/S0278416508000585
 
 ## Estruturação do espaço intra-muros ##
 
-##
+## {data-background-video="https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm" data-background-video-muted="true"}
+
+![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .align-right .nobg .overlay-slide}
+
+![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba}
+
+[*Sur un air de Somba*]: https://vimeo.com/25226651
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
+Entre os bètemmeribè, na África ocidental ([@fig:batammalibaA]), o complexo agropastoril é
 conhecido como *tata somba* --- *tata* significa "casa" e *somba* é a
 designação formal desse grupo étnico (o termo *bètemmeribè* significa
 "bom construtor"). A sua arquitetura foi documentada pela arqueóloga
 americana [Suzanne Blier][] no final da década de 1980.
 
-Ver também:
-[Trailer do documentário *Sur un air de somba*](https://vimeo.com/25226651)
-
 [Suzanne Blier]: https://en.wikipedia.org/wiki/Suzanne_Blier
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
-::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA height=320px}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg"}
 
-![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB height=320px}
-:::
-::: {.column width=50%}
-![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
-:::
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba}
+![Planta segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line .align-right .overlay-slide}
+
+![Exemplar em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
+
 Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -913,7 +911,7 @@ na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea do Zimbábue [@bell:2015aerial]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
+![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
 
 ## Adensamento do boma e malha viária ##
 
@@ -928,11 +926,13 @@ densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
+![Vista aérea de Niamey, Chade. Foto por [Walter Mittelholzer, 1930](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 
 ## Delimitação do traçado urbano em Benim ##
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png" data-background-size="contain" data-background-position="left"}
+
+![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){#fig:benin-loc .align-right .overlay-slide .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -953,14 +953,7 @@ muralha feita de terraplenos. Os mercados se situavam fora dos limites
 da cidade ([@fig:benin-markets]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=25%}
-![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){width=100%}
-:::
-::: {.column width=75%}
-![Cidade de Benim e seus principais mercados extra-muros [C. Punch *ap.* @roth:1903great, p. 135]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cidade de Benim e seus principais mercados extra-muros. Esquema por C. Punch em [H. Ling Roth, *The Great Benin*](https://archive.org/details/greatbeninitscus00roth/page/134/mode/2up)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .align-right .line}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png"}
 
@@ -968,13 +961,15 @@ da cidade ([@fig:benin-markets]).
 Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
 pátios eram delimitados por casas de taipa com coberturas muito
 inclinadas.
-
-![Cidade de Benin. Desenho de um oficial do exército inglês, 1897 [@roth:1903great, p. 179]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cidade de Benin. Desenho de um oficial do exército inglês, 1897, reproduzido por Roth](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897}
 
 ## Máxima densidade urbana: Kumasi ##
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg" data-background-size="contain"}
+
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
@@ -985,36 +980,36 @@ adensada ([@fig:kumasi-plan]) em torno do palácio real
 amuralhado, e um caminho principal estruturante atravessa a cidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta da cidade de Kumasi em 1819 [@bowdich:1819mission]](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan}
+![Planta da cidade de Kumasi em 1819, por [T. Edward Bowdich](https://archive.org/details/missionfromcapec00bowd)](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan}
 
 <!--_-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg"}
 
+![[Palácio real em Kumasi](https://en.wikipedia.org/w/index.php?title=File:King_Koffee_Palace.jpg) em 1874](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como em Benim, o palácio fica na área mais central da cidade.
 Grande parte da malha urbana em volta dele é ocupada por casas da
 família real e da administração do estado.
-
-![Palácio real em Kumasi em 1874 [@king:1874]](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os complexos familiares em Kumasi são extremamente compactos, formando
 um alinhamento contínuo sobre a rua ([@fig:kumasi-frontage]). As casas
 ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
-
-![Vista de uma rua em Kumasi [@bowdich:1819mission]](https://www.integra.unb.br/s/F3sLziqs8AF9JdL/preview){#fig:kumasi-frontage}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista de uma rua em Kumasi, por T. Edward Bowdich](https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg){#fig:kumasi-frontage .full}
 
 ## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Pátio do santuário Ejisu-Besease em Kumasi [@bosman:2006cnv00001]](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine}
+![Pátio do santuário Ejisu-Besease em Kumasi. Foto: [L. e K. Bosman, 2006](https://www.flickr.com/photos/lukebosman/220778057/)](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
 Do *kampong* malaio ao complexo agropastoril banto, o urbanismo das
 regiões tropicais desenvolve respostas convergentes para o problema da
