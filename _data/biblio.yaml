@@ -2905,6 +2905,25 @@ references:
     https://www.cambridge.org/core/journals/urban-history/article/div-classtitlethe-via-papalis-in-early-cinquecento-rome-a-contested-space-between-roman-families-and-curialsdiv/C1A35B2925C6C9E48E7A3337FFEA274E#
   volume: '37'
 
+- id: cahill:1978parting
+  author:
+    - family: Cahill
+      given: James
+  citation-key: cahill:1978parting
+  event-place: New York
+  ISBN: 978-0-8348-0128-8
+  issued:
+    - year: 1978
+  language: en-US
+  publisher: Weatherhill
+  publisher-place: New York
+  source: Open WorldCat
+  title: >-
+    Parting at the shore: Chinese painting of the early and middle Ming dynasty,
+    1368-1580
+  title-short: Parting at the shore
+  type: book
+
 - id: caja:2020tools
   abstract: >-
     Starting from the typological and morphological studies conducted in Italy
@@ -15277,7 +15296,7 @@ references:
   dimensions: 29.5 × 117.0 cm
   issued:
     - literal: último quartel do século XIII
-  language: Portuguese
+  language: pt
   source: Wikimedia Commons
   title: Consorte Yang montando a cavalo
   type: graphic

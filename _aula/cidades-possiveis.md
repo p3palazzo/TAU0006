@@ -15,9 +15,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [*Cenas dentro e fora de Quioto*, biombo esquerdo de um par](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
-  actions:
-  - label: "Slides"
-    url  : "/slides/cidades-possiveis/"
 ---
 
 # Espacialidade e vazio na pintura chinesa #
@@ -114,11 +111,62 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 
 ##
 
+![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma das primeiras teorias críticas da arte foi escrita na China do
+século [XVII]{.smallcaps}, e trata justamente da representação do espaço
+na pintura. O pintor e letrado Dong Qichang (1555--1636)
+([@fig:dong-qichang]) dividiu a pintura de paisagem clássica em duas
+"escolas", baseadas no modo de representação dos objetos e do espaço
+vazio entre eles [@cahill:1978parting, 5].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essas duas escolas se formam durante o declínio da dinastia Song, entre
+os séculos [X]{.smallcaps} e [XII]{.smallcaps} ([@fig:nansong]). A
+teoria de que o ápice artístico acontece numa época de declínio político
+era importante para Dong pois ele viveu no final da dinastia Ming
+([@fig:mingdai]), quando a corrupção e a ineficiência administrativa
+estavam abrindo caminho para a conquista da China pelos manchus. A
+teoria crítica de Dong refletia, portanto, a ansiedade política do
+presente na sua interpretação da história: no caso, o final da dinastia
+Song e a conquista da China pelos mongóis no século [XIII]{.smallcaps}.
+
+O rebatimento de questões contemporâneas na escrita da história não é
+exclusividade de Dong Qichang, mas é uma característica universal de
+qualquer texto histórico. Isso não quer dizer que as interpretações
+históricas distorcem o passado para adequá-lo a uma ideologia do
+presente --- *algumas* interpretações fazem isso ---, mas que o
+interesse por certos aspectos do que aconteceu no passado varia de
+acordo com as preocupações intelectuais, profissionais ou políticas do
+presente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=52.5%}
+![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-_Southern_Song_Dynasty-es.svg/782px-China_-_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
+:::
+::: {.column width=47.5%}
+![Dinastia Ming c. 1580. Mapa: [Podzemnik, 2014, baseado em Michal Klajban, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ming_Empire_cca_1580_es.svg/755px-Ming_Empire_cca_1580_es.svg.png){#fig:mingdai}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:China_-_Southern_Song_Dynasty-es.svg
+
+[Podzemnik, 2014, baseado em Michal Klajban, 2010]: https://commons.wikimedia.org/wiki/File:Ming_Empire_cca_1580_es.svg
+
+<!--_-->
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=43.5%}
 ![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum%2C_Tapei.10_cent..jpg){#fig:juran}
 :::
-::: {.column width=50%}
+::: {.column width=56.5%}
 ![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -126,8 +174,7 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 
-Na pintura de paisagem, duas escolas se formam entre os séculos
-[X]{.smallcaps} e [XII]{.smallcaps}. A chamada escola do Norte favorece
+A chamada escola do Norte favorece
 uma construção gradual da profundidade em múltiplo planos pictóricos
 ([@fig:juran]); na escola do Sul, desenvolve-se um salto entre o plano
 de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
@@ -193,12 +240,16 @@ está, assim como o pintor, ponderando a interdependência entre
 matéria e vazio: as relações espaciais entre objetos materiais só se
 estabelecem graças ao espaço vazio entre eles, mas esse vazio imaterial
 só passa a "existir" numa pintura quando é delimitado pela representação
-de objetos materiais.
+de objetos materiais. Esse interesse em contemplar o vazio é apresentado
+como marcador de uma formação intelectual e estética socialmente
+superior.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
 
 [*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
+
+## Arte clássica ##
 
 ##
 
@@ -206,7 +257,13 @@ de objetos materiais.
 
 [*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
 
-## Arte clássica ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço pictórico incorpora, portanto, um discurso político sobre o
+*status* social dos intelectuais pintores ([@fig:literati]), mas também
+sobre a legitimidade dos governantes. Olhar especificamente para essa
+politização do espaço é, naturalmente, um interesse característico
+também da nossa historiografia contemporânea da arte.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
@@ -632,10 +689,10 @@ agrícolas.
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
-::: {.column width=51.7%}
+::: {.column width=50%}
 ![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
 :::
-::: {.column width=48.3%}
+::: {.column width=50%}
 ![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
 :::
 
