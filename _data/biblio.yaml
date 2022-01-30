@@ -4824,6 +4824,67 @@ references:
       given: Sylvia
   type: book
 
+- id: correia:1995pragmatismo2
+  abstract: >-
+    Tendo defendido uma Tese de Doutoramento em História da Arte 
+
+    na Universidade Nova de Lisboa, sob a direcção do Prof. Doutor fosé 
+
+    Augusto França em 1985 que estudava uma pequena vila pombalina 
+
+    constiuída ex-novo junto à foz do Guadiana em 1773 — Vila Real de 
+
+    Santo Antônio — muitos problemas relativos à filiação formal do novo 
+
+    conjunto urbano obrigaram-me a tentar compreender o urbanismo luso 
+
+    do século XVIII na sua globalidade. É pois essa tentativa de entendimento 
+
+    que está na base desta comunicação. A fundação de Vila Real de Santo Antônio
+    pela vontade férrea do 
+
+    Marquês de Pombal radica em pressupostos econômicos, políticos e 
+
+    diplomáticos. 
+
+    A crise provocada pela queda da produção aurífera brasileira, os 
+
+    problemas político-militares decorrentes da invasão espanhola de 1762 e 
+
+    o estado de guerra latente entie as Coroas portuguesa e espanhola nas 
+
+    Américas fizeram com que Pombal começasse a interessar-se pelas 
+
+    potencialidades esfratégicas, fiscais e econômicas do Reino do Algarve, a 
+
+    parte mais meridional da Mefrôpole portuguesa.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 19
+  author:
+    - family: Correia
+      given: José Eduardo Horta
+  citation-key: correia:1995pragmatismo2
+  container-title: >-
+    Revista da Faculdade de Ciências Sociais e Humanas (Universidade Nova de
+    Lisboa)
+  ISSN: 0871-2778
+  issue: '8'
+  issued:
+    - year: 1995
+  language: pt-PT
+  page: 103-112
+  publisher: Faculdade de Ciências Sociais Humanas, Universidade Nova de Lisboa
+  source: run.unl.pt
+  title: >-
+    Pragmatismo e utopismo na criação urbanística de raiz portuguesa no século
+    <span class="smallcaps">XVIII</span>
+  title-short: Pragmatismo e utopismo
+  type: article-journal
+  URL: https://run.unl.pt/handle/10362/6785
+  volume: '2'
+
 - id: cortereal:2001triunfo
   author:
     - family: Côrte-Real
@@ -10404,6 +10465,29 @@ references:
   URL: >-
     https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10059299_00007.html
 
+- id: lemes:2004lei9
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Lemes
+      given: Fernando Lobo
+  citation-key: lemes:2004lei9
+  container-title: Revista Jurídica Unievangélica
+  issue: '1'
+  issued:
+    - year: 2004
+  language: pt-BR
+  page: 70–89
+  source: periodicos.unievangelica.edu.br
+  title: A lei das Sesmarias e Portugal no século <span class="smallcaps">XIV</span>
+  title-short: A lei das Sesmarias
+  type: article-journal
+  URL: >-
+    http://periodicos.unievangelica.edu.br/index.php/revistajuridica/article/view/597
+  volume: '9'
+
 - id: leonardovinci:1466argano
   accessed:
     - year: 2020
@@ -10901,6 +10985,30 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg
+
+- id: lobo:2012urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  citation-key: lobo:2012urbanismo
+  editor:
+    - family: Lobo
+      given: Manuel Leal da Costa
+    - family: Simões Júnior
+      given: José Geraldo
+  event-place: São Paulo
+  ISBN: 978-85-8293-053-3
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: 'SciELO : Editora Mackenzie'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Urbanismo de colina. Uma tradição luso-brasileira
+  title-short: Urbanismo de colina
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: loh:2004new
   abstract: >-
@@ -13365,6 +13473,36 @@ references:
   title: ROMA - Villa Farnesina e gli affreschi di Raffaello
   type: motion_picture
   URL: https://www.youtube.com/watch?v=SdseOYSxl_E
+
+- id: navarro:2001urbanismo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  author:
+    - family: Navarro Palazón
+      given: Julio
+    - family: Jiménez Castillo
+      given: Pedro
+  citation-key: navarro:2001urbanismo
+  container-title: 'La ciudad medieval: de la casa al tejido urbano'
+  event: >-
+    Primer Curso de Historia y Urbanismo Medieval organizado por la Universidad
+    de Castilla-La Mancha
+  event-place: Cuenca
+  ISBN: 978-84-8427-119-2
+  issued:
+    - year: 2001
+  language: Spanish
+  publisher: Ediciones de la Universidad de Castilla-La Mancha
+  publisher-place: Cuenca
+  source: ruidera.uclm.es
+  title: >-
+    El urbanismo islámico y su transformación después de la conquista cristiana:
+    el caso de Murcia
+  title-short: El urbanismo islámico y su transformación después de la conquista cristiana
+  type: paper-conference
+  URL: https://ruidera.uclm.es/xmlui/handle/10578/4984
 
 - id: nelli:ricostruzione
   accessed:
@@ -17525,6 +17663,63 @@ references:
   title: Siena, Italy by Drone
   type: motion_picture
   URL: https://www.youtube.com/watch?v=_avuy1Hzw70
+
+- id: simoes:2013permanencias5
+  abstract: >-
+    A partir da compreensão dos processos de ocupação das áreas de colina em
+    cidades brasileiras e portuguesas, associados à tradição urbanística
+    lusitana de fundar cidades em sítios elevados, buscamos identificar as
+    principais características dessas áreas enquanto espaços privilegiados para
+    o resgate de forte tradição presente em nossa cultura urbanística. Tomamos
+    como exemplo dois casos paradigmáticos: Salvador e São Paulo. Primeiro
+    núcleo urbano do Brasil fundado com status de cidade (1549), Salvador contou
+    com plano constituído por traças e amostras, esboçando arruamento, muralhas
+    e localização de edifícios públicos. A escolha do sítio fundacional, em
+    sítio dominante, sobre atracadouro, constituindo a dualidade cidade
+    alta/cidade baixa, é marca da urbanística de colina praticada pelos
+    portugueses em seu império colonial. Por sua vez, poucas cidades da América
+    portuguesa tiveram destino tão ligado à implantação em colina como São
+    Paulo. Até 1850 a vida urbana se concentrou nessa acrópole; o centro criado
+    no início do século XX foi implantado sobre a mesma elevação; modernizações
+    sucessivas mantiveram foco no núcleo primitivo. Essa insistência na
+    transformação da área central apagou traços da ocupação de matriz
+    luso-brasileira, alterando traçados, morfologia e volumetria, e ocultando a
+    própria situação topográfica. Propomos aqui esforço de recuperação dos
+    elementos morfológicos da ocupação original desses sítios e compreensão dos
+    padrões urbanísticos que as caracterizavam; identificando impactos dessas
+    práticas no desenho e configuração urbanos, tendo em vista a revalorização
+    desses elementos históricos, muitas vezes obscurecidos por ocupações
+    posteriores, visando recuperar a forte relação com o sítio original em
+    acrópole que marcou essas cidades.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 19
+  author:
+    - family: Simões Junior
+      given: José Geraldo
+    - family: Campos
+      given: Candido Malta
+  citation-key: simoes:2013permanencias5
+  container-title: urbe. Revista Brasileira de Gestão Urbana
+  container-title-short: urbe, Rev. Bras. Gest. Urbana
+  DOI: 10.7213/urbe.7785
+  ISSN: 2175-3369, 2175-3369
+  issued:
+    - year: 2013
+      month: 6
+  language: pt-BR
+  page: 47-69
+  publisher: Pontifícia Universidade Católica do Paraná
+  source: SciELO
+  title: >-
+    Permanências do urbanismo de colina como tradição luso-brasileira: os casos
+    de Salvador e de São Paulo
+  title-short: Permanências do urbanismo de colina como tradição luso-brasileira
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/j/urbe/a/rXv8xkHDmvqCDxrQnFTz4Pn/abstract/?lang=pt&format=html
+  volume: '5'
 
 - id: sitte:1901staedtebau
   abstract: '26'
