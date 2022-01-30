@@ -7,7 +7,7 @@ date    : 2022-02-01
 toc:
   - Espacialidade e vazio na pintura chinesa
   - História da arquitetura como história do espaço
-  - Cidades e castelos em Portugal e no Japão
+  - Urbanismo de colina
   - Do boma banto às cidades da Guiné
 leitura: 501--518, 537--538
 title-slide-attributes:
@@ -15,9 +15,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [*Cenas dentro e fora de Quioto*, biombo esquerdo de um par](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
-  actions:
-  - label: "Slides"
-    url  : "/slides/cidades-possiveis/"
 ---
 
 # Espacialidade e vazio na pintura chinesa #
@@ -114,11 +111,62 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 
 ##
 
+![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma das primeiras teorias críticas da arte foi escrita na China do
+século [XVII]{.smallcaps}, e trata justamente da representação do espaço
+na pintura. O pintor e letrado Dong Qichang (1555--1636)
+([@fig:dong-qichang]) dividiu a pintura de paisagem clássica em duas
+"escolas", baseadas no modo de representação dos objetos e do espaço
+vazio entre eles [@cahill:1978parting, 5].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essas duas escolas se formam durante o declínio da dinastia Song, entre
+os séculos [X]{.smallcaps} e [XII]{.smallcaps} ([@fig:nansong]). A
+teoria de que o ápice artístico acontece numa época de declínio político
+era importante para Dong pois ele viveu no final da dinastia Ming
+([@fig:mingdai]), quando a corrupção e a ineficiência administrativa
+estavam abrindo caminho para a conquista da China pelos manchus. A
+teoria crítica de Dong refletia, portanto, a ansiedade política do
+presente na sua interpretação da história: no caso, o final da dinastia
+Song e a conquista da China pelos mongóis no século [XIII]{.smallcaps}.
+
+O rebatimento de questões contemporâneas na escrita da história não é
+exclusividade de Dong Qichang, mas é uma característica universal de
+qualquer texto histórico. Isso não quer dizer que as interpretações
+históricas distorcem o passado para adequá-lo a uma ideologia do
+presente --- *algumas* interpretações fazem isso ---, mas que o
+interesse por certos aspectos do que aconteceu no passado varia de
+acordo com as preocupações intelectuais, profissionais ou políticas do
+presente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=52.5%}
+![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-_Southern_Song_Dynasty-es.svg/782px-China_-_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
+:::
+::: {.column width=47.5%}
+![Dinastia Ming c. 1580. Mapa: [Podzemnik, 2014, baseado em Michal Klajban, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ming_Empire_cca_1580_es.svg/755px-Ming_Empire_cca_1580_es.svg.png){#fig:mingdai}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:China_-_Southern_Song_Dynasty-es.svg
+
+[Podzemnik, 2014, baseado em Michal Klajban, 2010]: https://commons.wikimedia.org/wiki/File:Ming_Empire_cca_1580_es.svg
+
+<!--_-->
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=43.5%}
 ![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum%2C_Tapei.10_cent..jpg){#fig:juran}
 :::
-::: {.column width=50%}
+::: {.column width=56.5%}
 ![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -126,8 +174,7 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 
-Na pintura de paisagem, duas escolas se formam entre os séculos
-[X]{.smallcaps} e [XII]{.smallcaps}. A chamada escola do Norte favorece
+A chamada escola do Norte favorece
 uma construção gradual da profundidade em múltiplo planos pictóricos
 ([@fig:juran]); na escola do Sul, desenvolve-se um salto entre o plano
 de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
@@ -193,12 +240,16 @@ está, assim como o pintor, ponderando a interdependência entre
 matéria e vazio: as relações espaciais entre objetos materiais só se
 estabelecem graças ao espaço vazio entre eles, mas esse vazio imaterial
 só passa a "existir" numa pintura quando é delimitado pela representação
-de objetos materiais.
+de objetos materiais. Esse interesse em contemplar o vazio é apresentado
+como marcador de uma formação intelectual e estética socialmente
+superior.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
 
 [*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
+
+## Arte clássica ##
 
 ##
 
@@ -206,7 +257,13 @@ de objetos materiais.
 
 [*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
 
-## Arte clássica ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço pictórico incorpora, portanto, um discurso político sobre o
+*status* social dos intelectuais pintores ([@fig:literati]), mas também
+sobre a legitimidade dos governantes. Olhar especificamente para essa
+politização do espaço é, naturalmente, um interesse característico
+também da nossa historiografia contemporânea da arte.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
@@ -596,7 +653,7 @@ de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Cidades e castelos em Portugal e no Japão #
+# Urbanismo de colina #
 
 ## 
 
@@ -613,21 +670,88 @@ conjuntos urbanos eficientes formando redes que controlam rotas
 comerciais ou defensivas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Urbanismo de colina: Portugal ##
+## Portugal ##
+
+##
+
+:::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
+![ocupação inicial do traçado estruturante, antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment .current-visible .align-left}
+![abertura do traçado secundário e ligações transversais, século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment .current-visible .align-left}
+
+![ocupação das ruas de trás, século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment .current-visible .align-left}
+![fragmentação dos quarteirão perimetral, século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment .current-visible .align-left}
+
+Reconstituição da urbanização de Castelo de Vide, Portugal. Desenho:
+Pedro P. Palazzo, 2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A urbanização do território Português é uma política da coroa que se
 desenrola a partir de meados do século [XIII]{.smallcaps}. Os objetivos dessa política
 são povoar as fronteiras, melhorando a defesa do território, e
 racionalizar o abastecimento de alimentos, criando novas frentes
-agrícolas.
+agrícolas. O sistema das sesmarias é criado nessa época, muito antes da
+colonização do Brasil, para promover a ocupação de áreas cultiváveis
+[@lemes:2004lei9].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Vilas de fundação em Portugal e na Índia e América portuguesas.
-- São Jorge da Mina  Fortificação
-- Mazagão
-- Goa, Damão e Diu
-- Malacca
+<!--
+   -- Vilas de fundação em Portugal e na Índia e América portuguesas.
+   -- São Jorge da Mina  Fortificação
+   -- Mazagão
+   -- Goa, Damão e Diu
+   -- Malacca
+   -->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/2560px-Vue_aérienne_de_Monpazier.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O urbanismo planejado português faz parte de um processo de ocupação do
+território no oeste e norte da Europa. Exemplos desse processo são as
+*bastides*, cidades novas estabelecidas na França, como Monpazier,
+fundada em 1284 ([@fig:monpazier-drone]). Esse processo se caracteriza
+por uma distribuição igualitária de lotes por meio de um traçado
+urbanístico predominantemente regular --- mas sem necessidade de uma
+geometria totalmente rígida ([@fig:monpazier]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea de Monpazier, Guyenne, França. Foto: [prefeitura municipal de Monpazier, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1024px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-drone}
+
+[prefeitura municipal de Monpazier, 2013]: https://commons.wikimedia.org/wiki/File:Vue_aérienne_de_Monpazier.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg" data-background-size="contain"}
+
+![Monpazier. Plantas da direita para a esquerda: traçado ideal, implantação efetiva e situação atual. Desenhos e foto por [Klaus Schäfer, 2003][]](https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg){#fig:monpazier}
+
+[Klaus Schäfer, 2003]: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-_Caminha.jpg/2560px-Livro_das_Fortalezas_115-_Caminha.jpg"}
+
+![Vila de Caminha, do [*Livro de fortalezas*][] de Duarte d'Armas, 1510](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-_Caminha.jpg/1024px-Livro_das_Fortalezas_115-_Caminha.jpg){#fig:duarte-caminha}
+
+[*Livro de fortalezas*]: https://commons.wikimedia.org/wiki/Category:Livro_das_Fortalezas
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As povoações planejadas em Portugal são conhecidas como vilas novas,
+vilas de fundação ou vilas reais. A vila, atual cidade, de Caminha, é
+uma das mais antigas e foi fundada no século [XIII]{.smallcaps} sobre o
+rio Minho, na fronteira com a atual Espanha ([@fig:duarte-caminha]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Vilas como Caminha ocupam esporões na extremidade de linhas de cumeada
+secundárias ([@fig:caminha-colina]), o que fez com que Manuel Lobo e
+José Geraldo Simões Júnior chamassem a esse paradigma de "urbanismo de
+colina" [@lobo:2012urbanismo].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .full}
 
 ##
 
@@ -643,6 +767,61 @@ Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. Desenho:
 [Pedro P. Palazzo, 2021, com base em reconstituição de Luísa Trindade,
 2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O traçado ideal de Caminha foi reconstituído pela arquiteta portuguesa
+Luísa Trindade, na sua tese de doutoramento de 2009
+[@trindade:2009urbanismo]. Esse traçado se baseava no parcelamento em
+lotes com 25 palmos de testada (5,62 metros) e de 60 a 75 palmos (13,5 a
+16,87 metros) de fundo ([@fig:caminha-ideal]). Tanto o traçado
+estruturante, que formava a rua Direita, quanto as ruas de trás e as
+travessas tinham 15 palmos de largura, ou 3,37 metros. Essa medida é
+larga o suficiente para a circulação pedestre no dia-a-dia. Três praças
+foram previstas para os três edifícios cívicos da vila: de norte a sul,
+a igreja matriz, que era a sede do poder religioso, o tribunal ou sede
+do poder real, e os paços do concelho, ou seja, a câmara de vereadores
+que representava o poder municipal.
+
+A execução do plano ideal não foi exata, e nem precisava ser
+([@fig:caminha-real]). O importante é que a divisão de lotes fosse
+relativamente regular, que o traçado estruturante ficasse na linha de
+cumeada e que as muralhas acompanhassem o contorno do esporão. A
+política portuguesa de urbanização consistia em implantar não a imagem
+ideal de uma cidade, mas uma cidade possível que atendesse aos objetivos
+sociais, econômicos e militares da Coroa [@correia:1995pragmatismo2].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O módulo de 25 palmos para os lotes foi determinado a partir das medidas
+mais comuns no tipo da *morada de casas* ([@fig:morada-casas]). Esse
+tipo é formado por um agrupamento de células de pequenas dimensões
+(entre 4 e 5 metros de lado), com ou sem corredor longitudinal. A morada
+de casas é uma alternativa mais compacta à casa-pátio romana e árabe.
+Ambos os tipos --- casa-pátio e morada de casas --- continuaram em uso
+na Espanha, mas só a morada de casas persistiu em Portugal do final da
+Idade Média em diante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Variações sincrônicas da morada de casas mediterrânica. Esquerda: módulos de base; acima: tipos suburbanos e rurais, casa-torre saloia e monte alentejano; abaixo: habitações urbanas de frente estreita e frente larga. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Southern_Portuguese_cell_houses.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Southern_Portuguese_cell_houses.png/600px-Southern_Portuguese_cell_houses.png){#fig:morada-casas}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg"}
+
+![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A destruição da casa-pátio em Portugal tem várias explicações possíveis:
+as mais importantes são o clima mais úmido do que no entorno do
+Mediterrâneo e a redistribuição fundiária que se seguiu à conquista de
+cidades árabes pelos reinos cristãos da península Ibérica
+[@navarro:2001urbanismo]. Um dos objetivos dessa redistribuição era
+justamente apagar os vestígios da presença árabe, e a transformação de
+casas-pátio mediterrânicas em casas correntes semelhantes às do norte da
+Europa pode ter contribuído para esse objetivo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
 
 ## Japão ##
 

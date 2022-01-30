@@ -815,5 +815,13 @@ vêm dominando o estudo da arquitetura do Renascimento ao longo das
 últimas décadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Tratados de urbanismo no Renascimento #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Termo "urbanismo" cunhado por Ildefons Cerdà no século
+[XIX]{.smallcaps}; por isso, Françoise Choay alega que a palavra não
+deve ser usada para se referir à construção de cidades no Renascimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Bibliografia # {- .allowframebreaks .unlisted}
 
