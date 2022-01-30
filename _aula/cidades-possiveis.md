@@ -332,43 +332,74 @@ renascimento a característica central desse processo, estudado por
 Erwin Panofsky ([@fig:panofsky]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/2560px-Casa_de_la_Farnesina_06.JPG"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A pintura na Roma antiga segue um percurso semelhante ao da pintura
-chinesa, começando com figuras isolados e desenvolvendo uma
+chinesa, começando com figuras isoladas e desenvolvendo uma
 representação do espaço arquitetônico baseada numa perspectiva cônica
 com linhas de fuga, concluindo com a inserção de figuras no espaço
-arquitetônico.
+arquitetônico ([@fig:farnesina-cubB]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+![Afresco retirado do cubículo "B" da villa romana na Farnesina, arredores de Roma, terceiro estilo, século [I]{.smallcaps} a.C. Foto: [Miguel Hermoso Cuesta, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/1024px-Casa_de_la_Farnesina_06.JPG){#fig:farnesina-cubB}
+
+[Miguel Hermoso Cuesta, 2014]: https://commons.wikimedia.org/wiki/File:Casa_de_la_Farnesina_06.JPG
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ohrid_annunciation_icon.jpg" data-background-size="contain"}
+
+![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
 representação do espaço, predominantemente preocupada com a apresentação
-de figuras com significado transcendental. É a pintura gótica no séculos
-[XIV]{.smallcaps} e [XV]{.smallcaps} que vai operar um resgate da inserção de figuras no espaço,
-começando na França e seguindo para Itália já na primeira metade do
-século [XIV]{.smallcaps} com a obra de artistas como Giotto. 
+de figuras com significado transcendental ([@fig:ohrid]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg" data-background-position="top"}
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É a pintura gótica no séculos [XIV]{.smallcaps} e [XV]{.smallcaps} que
+vai operar um resgate da inserção de figuras no espaço,
+começando na França e seguindo para Itália já na primeira metade do
+século [XIV]{.smallcaps} com a obra de artistas como Giotto
+([@fig:giotto]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto .full}
+
+[Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg
+
+<!--_-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg" data-background-position="bottom"}
+
+![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann}
+
+[Anunciação e dois santos, 1333]: https://commons.wikimedia.org/wiki/File:Simone_Martini_truecolor.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O movimento franciscano dá um impulso decisivo para essa demanda por
 representação de figuras no espaço, aproximando a iconografia religiosa
-do cotidiano dos devotos. As figuras de Anunciação são um dos principais
+do cotidiano dos devotos (ver [@fig:giotto]). As figuras de Anunciação são um dos principais
 instrumentos desse desenvolvimento da lógica espacial. A partir do
 modelo bizantino de figuras de Maria e o anjo desprovidas de contexto,
-geralmente com fundo dourado, os artistas italianos dos séculos [XIV]{.smallcaps} e [XV]{.smallcaps}
-começam a incluir a ambientação espacial e, gradualmente, uma
-delimitação maior dos ambientes onde se desenvolve a cena.
+geralmente com fundo dourado, os artistas italianos dos séculos
+[XIV]{.smallcaps} e [XV]{.smallcaps} começam a incluir a ambientação
+espacial e, gradualmente, uma
+delimitação maior dos ambientes onde se desenvolve a cena ([@fig:martini-ann]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg" data-background-size="contain"}
+
+![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita .align-right}
+
+[Natividade da Virgem Maria, 1342]: https://www.wga.hu/frames-e.html?/html/l/lorenzet/pietro/2/15birth.html
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na obra de Simone Martini e Pietro Lorenzetti, temos um dos primeiros
+Na obra de Simone Martini e Pietro Lorenzetti ([@fig:plor-nativita]), temos um dos primeiros
 enquadramentos espaciais coerentes da cena, mostrando Maria e o anjo
 inseridos num espaço arquitetônico com limites visíveis. As inúmeras
 pinturas da Anunciação evidenciam a busca por formas de representação do
@@ -377,13 +408,19 @@ lado, também o estabelecimento de uma convenção pictórica referente ao
 posicionamento das figuras e a sua relação com o espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg" data-background-size="contain"}
+
+![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann .align-right}
+
+[Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-_1344..jpg
+
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ambrogio Lorenzetti é um dos primeiros artistas --- talvez o primeiro
 --- a representar uma perspectiva linear precisa no piso do ambiente
-onde a Anunciação se desenrola. Na suas obras porém o espaço físico
-ainda é determinado pelas necessidades narrativas da cena. 
+onde a Anunciação se desenrola ([@fig:alor-ann]). Na suas obras porém o
+espaço físico ainda é determinado pelas necessidades narrativas da cena.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
