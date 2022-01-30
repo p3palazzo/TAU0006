@@ -1,2 +1,6 @@
 figureTitle: Figura
 tableTitle: Tabela
+tblPrefix:
+  - "tab."
+  - "tabs."
+subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
