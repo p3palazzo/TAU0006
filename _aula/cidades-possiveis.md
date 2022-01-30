@@ -453,19 +453,43 @@ arquitetura clássica herdada da Antiguidade.
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
-Brunelleschi a invenção da perspectiva linear. Embora
-nenhum outro autor confirme de modo independente essa atribuição a
-relação entre a obra de Brunelleschi e o controle pictórico espaço por
-meio da perspectiva linear é intrigante. 
-Brunelleschi está incumbido de resolver uma contradição conceitual entre
-o espaço linear da catedral gótica e o espaço centralizado da cúpula
-românica. O espaço gótico, feito de módulos que se repetem e se
-alinham em configurações variadas, é potencialmente infinito e
-restringido apenas por limites convencionais. O espaço da perspectiva
-linear, por outro lado, é intrinsecamente delimitado porque pode ser
-representado apenas por meio dessa delimitação.
+Perspectiva "exata" é impossível porque o olho projeta a imagem numa
+superfície esférica; dimensões aparentes decorrem, portanto, do ângulo
+de visão, mas os ângulos esféricos não podem ser projetados com exatidão
+num plano pictórico; por outro lado, perspectiva linear que restitui
+objetos neste plano não corresponde exatamente ao que o olho vê
+[@panofsky:1997perspective].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Brunelleschi inventou *uma* forma de perspectiva (testemunhado por
+Filarete), provavelmente uma regressão da trigonometria da agrimensura,
+mas talvez não *a* perspectiva linear construída a partir de planta e
+elevação, descrita por Alberti e usada por Masaccio; a esse respeito,
+ver @aiken:1995perspective16; @andersen:2007geometry.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--
+   -##
+   -
+   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+   -Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
+   -Brunelleschi a invenção da perspectiva linear. Embora
+   -nenhum outro autor confirme de modo independente essa atribuição a
+   -relação entre a obra de Brunelleschi e o controle pictórico espaço por
+   -meio da perspectiva linear é intrigante. 
+   -Brunelleschi está incumbido de resolver uma contradição conceitual entre
+   -o espaço linear da catedral gótica e o espaço centralizado da cúpula
+   -românica. O espaço gótico, feito de módulos que se repetem e se
+   -alinham em configurações variadas, é potencialmente infinito e
+   -restringido apenas por limites convencionais. O espaço da perspectiva
+   -linear, por outro lado, é intrinsecamente delimitado porque pode ser
+   -representado apenas por meio dessa delimitação.
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -->
 
 ##
 
@@ -689,6 +713,18 @@ bizantino era associado com a permanência do Império Romano, cujos
 escolhas se repetem no interior da capela Pazzi, no claustro da igreja
 de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para o arquiteto brasileiro Fernando Luiz Lara, a abstração que gera a
+perspectiva linear é análoga à que concebe o território como uma
+extensão neutra, apta a ser organizada e conquistada. Essa preferência
+pela abstração se fortalece com a conquista do império Asteca por
+Cortez, e a demonstração, por assim dizer, de que esse modo de olhar
+para o espaço como uma extensão neutra é um instrumento de conquista
+[@lara:2020american5].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Urbanismo de colina #
