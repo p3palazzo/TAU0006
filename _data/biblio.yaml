@@ -190,6 +190,51 @@ references:
   title: The architecture of Michelangelo
   type: book
 
+- id: aiken:1995perspective16
+  abstract: >-
+    When Masaccio and Brunelleschi created the apparent diminution of the "Holy
+    Trinity" fresco barrel vault, they depended on the orthographic and
+    stereographic projection techniques informing medieval astronomical
+    instruments of measure, especially those inscribed on a widely admired
+    siting and surveying device known as the astrolabe. Using these projections,
+    medieval astronomers had structured a perfectly ordered macrocosmic space
+    according to a set of coordinates directly useful to an artist wishing to
+    chart the reflected perfection of a measured and measurable microcosmic
+    space. The diagrammatic protocols governing astronomical graphics were based
+    not only on the belief in the geometrically perfect universe, but also in
+    the idea that the abstract mathematical point could be thought of as a
+    substitute for the seeing human eye. The astrolabic articulation of these
+    two ideas represent a symbolic sanction and a technical underpinning for the
+    fundamental elements of Renaissance perspective as they exist in the "Holy
+    Trinity" fresco: the relationship between the viewer and the horizon line,
+    the transfer of projected coordinates from one plane to another through a
+    process of rotation, and the mathematically controlled, proportionate
+    relationship of transverse quantities.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  author:
+    - family: Aiken
+      given: Jane Andrews
+  citation-key: aiken:1995perspective16
+  container-title: Artibus et Historiae
+  DOI: 10.2307/1483503
+  ISSN: 0391-9064
+  issue: '31'
+  issued:
+    - year: 1995
+  language: en
+  page: 171-187
+  publisher: IRSA s.c.
+  source: JSTOR
+  title: >-
+    The perspective construction of Masaccio's "Trinity" fresco and medieval
+    astronomical graphics
+  type: article-journal
+  URL: https://www.jstor.org/stable/1483503
+  volume: '16'
+
 - id: alam:2014layout
   accessed:
     - year: 2020
@@ -302,9 +347,9 @@ references:
   citation-key: aldrighetti:2014tempio
   issued:
     - literal: 11 de outubro de 2014, 14:22:27
+  language: it
   source: Wikimedia Commons
   title: Tempio di Santa Maria della Consolazione
-  title-short: Italiano
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Vista_della_cupola.JPG
 
@@ -478,6 +523,28 @@ references:
   title: Andén (agricultura)
   type: entry-encyclopedia
   URL: https://es.wikipedia.org/w/index.php?title=And%C3%A9n_(agricultura)
+
+- id: andersen:2007geometry
+  author:
+    - family: Andersen
+      given: Kirsti
+  call-number: QA515 .A53 2007
+  citation-key: andersen:2007geometry
+  collection-title: Sources and studies in the history of mathematics and physical sciences
+  event-place: New York ; London
+  ISBN: 978-0-387-25961-1
+  issued:
+    - year: 2007
+  language: en
+  number-of-pages: '812'
+  publisher: Springer
+  publisher-place: New York ; London
+  source: Library of Congress ISBN
+  title: >-
+    The geometry of an art: the history of the mathematical theory of
+    perspective from Alberti to Monge
+  title-short: The geometry of an art
+  type: book
 
 - id: andriasyan:2020point12
   abstract: >-
@@ -751,7 +818,7 @@ references:
   citation-key: architas:2018san
   issued:
     - literal: 18 de junho de 2018, 11:51:23
-  language: English
+  language: en
   source: Wikimedia Commons
   title: San Carlo alle Quattro Fontane (Rome) Dome
   type: graphic
@@ -10308,6 +10375,33 @@ references:
     https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf
   volume: '1'
 
+- id: lara:2020american5
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  author:
+    - family: Lara
+      given: Fernando Luiz
+  citation-key: lara:2020american5
+  container-title: The Plan Journal
+  container-title-short: TPJ
+  DOI: 10.15274/tpj.2020.05.01.5
+  ISSN: '26117487'
+  issue: '1'
+  issued:
+    - year: 2020
+  language: en-US
+  source: DOI.org (Crossref)
+  title: >-
+    American mirror: the occupation of the ‘New World’ and the rise of
+    architecture as we know it
+  title-short: American mirror
+  type: article-journal
+  URL: >-
+    http://www.theplanjournal.com/article/american-mirror-occupation-%E2%80%98new-world%E2%80%99-and-rise-architecture-we-know-it
+  volume: '5'
+
 - id: laugier:1753essai
   abstract: >-
     Signatures: a(±a1) A-T V; Errata: p. [18] at end; final page blank; Includes
@@ -14225,6 +14319,49 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Pannini_-_Gallery_of_Views_of_Modern_Rome_-_WGA16980.jpg
+
+- id: panofsky:1997perspective
+  abstract: >-
+    Erwin Panofskys Perspective as Symbolic Form is one of the great works of
+    modern intellectual history, the legendary text that has dominated all art
+    historical and philosophical discussions on the topic of perspective in this
+    century. Finally available in English, it is an unrivaled example of
+    Panofskys early method that placed him within broader developments in
+    theories of knowledge and cultural change. Here, drawing on a massive body
+    of learning that ranges over Antique philosophy, theology, science, and
+    optics as well as the history of art, Panofsky produces a type of
+    «archaeology» of Western representation that far surpasses the usual scope
+    of art historical studies.Perspective in Panofskys hands becomes a central
+    component of a Western «will to form,» the expression of a schema linking
+    the social, cognitive, psychological, and especially technical practices of
+    a given culture into harmonious and integrated wholes. Yet the perceptual
+    schema of each historical culture or epoch is different, and each gives rise
+    to a different but equally full vision of the world. Panofsky articulates
+    these different spatial systems, demonstrating their particular coherence
+    and compatibility with the modes of knowledge, belief, and exchange that
+    characterized the cultures in which they arose. Our own modernity, Panofsky
+    shows, is characterized by its peculiarly mathematical expression of the
+    concept of the infinite, within a space that is necessarily both continuous
+    and homogeneous.
+  author:
+    - family: Panofsky
+      given: Erwin
+  citation-key: panofsky:1997perspective
+  edition: '1'
+  event-place: New York
+  ISBN: 978-0-942299-53-3
+  issued:
+    - year: 1997
+  language: en-US
+  number-of-pages: '196'
+  publisher: Zone
+  publisher-place: New York
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Perspective as symbolic form
+  translator:
+    - family: Wood
+      given: Christopher S.
+  type: book
 
 - id: panofsky:2001arquitetura
   author:
