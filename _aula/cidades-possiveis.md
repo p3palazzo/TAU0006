@@ -1048,9 +1048,9 @@ Até agora vimos dois modos de urbanizar: por crescimento e preenchimento
 de tecidos orgânicos, na forma da aldeia--rua, e por parcelamentos
 igualitários planejados pelo Estado. A partir do Renascimento, a
 iniciativa privada aparece cada vez mais no ramo da urbanização
-planejada. O bairro Alto, em Lisboa ([@fig:balto]), é um exemplo de
-loteamento especulativo do século [XVI]{.smallcaps} à margem da cidade
-medieval de Lisboa.
+planejada. O bairro Alto, em Lisboa ([@fig:balto-drone]), é um exemplo
+de loteamento especulativo do século [XVI]{.smallcaps} à margem da
+cidade medieval de Lisboa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
