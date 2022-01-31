@@ -3339,6 +3339,25 @@ references:
   title: A history of architecture and urbanism in the Americas
   type: book
 
+- id: carita:1994bairro
+  author:
+    - family: Carita
+      given: Hélder
+  call-number: '711.5'
+  citation-key: carita:1994bairro
+  edition: '2'
+  event-place: Lisboa
+  issued:
+    - year: 1994
+  language: pt-PT
+  number-of-pages: '192'
+  publisher: Câmara Municipal de Lisboa
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Bairro Alto: tipologias e modos arquitectónicos'
+  title-short: Bairro Alto
+  type: book
+
 - id: carnevale:1480ideal
   accessed:
     - year: 2020
@@ -4884,6 +4903,31 @@ references:
   type: article-journal
   URL: https://run.unl.pt/handle/10362/6785
   volume: '2'
+
+- id: corsi:2013ammaia
+  author:
+    - family: Corsi
+      given: Cristina
+    - family: Klein
+      given: Michael
+    - family: Johnson
+      given: Paul S.
+    - family: Taelman
+      given: Devi
+    - family: Vermeulen
+      given: Frank
+  citation-key: corsi:2013ammaia
+  event-place: Évora
+  ISBN: 978-989-95669-5-8
+  issued:
+    - year: 2013
+  language: en
+  publisher: Universidade de Évora
+  publisher-place: Évora
+  source: Open WorldCat
+  title: 'Ammaia: a Roman town in Lusitania = Ammaia : uma cidade Romana na Lusitania'
+  title-short: Ammaia
+  type: book
 
 - id: cortereal:2001triunfo
   author:
@@ -13846,6 +13890,26 @@ references:
   title: Nuevas poblaciones en la España de la Ilustración
   type: book
 
+- id: orr:2018five
+  abstract: Designing a sophisticated city, one block at a time.
+  accessed:
+    - year: 2019
+      month: 3
+      day: 20
+  author:
+    - family: Orr
+      given: Robert
+  citation-key: orr:2018five
+  container-title: Public Square
+  issued:
+    - year: 2018
+      month: 8
+      day: 27
+  language: en-US
+  title: Five steps to super blocks
+  type: webpage
+  URL: https://www.cnu.org/publicsquare/2018/08/27/five-steps-super-blocks
+
 - id: 'oschirmer:2013deutsch:'
   accessed:
     - year: 2020
@@ -16126,6 +16190,50 @@ references:
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988161
   volume: '23'
+
+- id: rossa:1997cidades
+  author:
+    - family: Rossa
+      given: Walter
+  call-number: 711.4 (547)
+  citation-key: rossa:1997cidades
+  event-place: Lisboa
+  ISBN: 978-972-8325-18-3
+  issued:
+    - year: 1997
+  language: pt-PT
+  number-of-pages: '117'
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Cidades indo-portuguesas: contribuições para o estudo do urbanismo português
+    no Hindustão Ocidental = Indo-Portuguese cities: a contribution to the study
+    of Portuguese urbanism in the Western Hindustan
+  title-short: Cidades indo-portuguesas
+  type: book
+
+- id: rossa:2005construcao
+  accessed:
+    - year: 2019
+      month: 6
+      day: 29
+  author:
+    - family: Rossa
+      given: Walter
+  citation-key: rossa:2005construcao
+  event-place: Coimbra
+  genre: Concurso para provimento de duas vagas de professor associado
+  issued:
+    - year: 2005
+  language: pt-PT
+  page: '75'
+  publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
+  publisher-place: Coimbra
+  title: Construção da cidade portuguesa. Relatório de disciplina
+  title-short: Construção da cidade portuguesa
+  type: report
+  URL: https://estudogeral.sib.uc.pt/handle/10316/13863/
 
 - id: rosselli:1470pianta
   accessed:
@@ -18576,6 +18684,22 @@ references:
   type: post-weblog
   URL: https://www.teatrosocialegualtieri.it/teatro-storia/
 
+- id: teixeira:2012forma
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  citation-key: teixeira:2012forma
+  event-place: São Paulo
+  ISBN: 978-85-393-0175-1 978-85-401-0033-6
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: 'Unesp : Imprensa Oficial do Estado'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A forma da cidade de origem portuguesa
+  type: book
+
 - id: temple:2011renovatio
   author:
     - family: Temple
@@ -18814,6 +18938,29 @@ references:
   title: Urbanismo na composição de Portugal
   type: thesis
   URL: https://estudogeral.uc.pt/handle/10316/13529
+
+- id: trindade:2013urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 711.4(469)(043.2)
+  citation-key: trindade:2013urbanismo
+  DOI: 10.14195/978-989-26-0772-6
+  event-place: Coimbra
+  ISBN: 978-989-26-0772-6
+  issued:
+    - year: 2013
+  language: pt-PT
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Crossref
+  title: Urbanismo na composição de Portugal
+  type: book
+  URL: http://dx.doi.org/10.14195/978-989-26-0772-6
 
 - id: trudaine:1745atlas
   accessed:
@@ -19348,6 +19495,59 @@ references:
     lantern, cupola, and altar
   type: graphic
   URL: https://www.metmuseum.org/art/collection/search/397621
+
+- id: vermeulen:2010cityscape
+  abstract: >-
+    This paper presents ongoing, multidisciplinary geoarchaeological fieldwork
+    in and around the Roman urban site of Ammaia (Alentejo, Portugal). One of
+    the objectives of the current collaborative project between the Universities
+    of Évora and Ghent is the elaboration of a better methodology to approach
+    the historical reconstruction of settlement dynamics, resource exploitation
+    and ecological transformation of the landscape background of the Roman town.
+    Priorities within the archaeological questionnaire are connected with the
+    rural occupation, the land-use, the exploitation of primary sources, and the
+    communication networks during the Roman phase of the town’s history. It is
+    our first aim to define the characteristics of Ammaia’s cityscape and to
+    visualize its precise location, structure and urban model. Furthermore, we
+    wish to investigate the town’s impact on its catchment area. The latter
+    means the identification of the quarries, mining zones, aqueducts, roads and
+    production areas of the essential goods and raw materials that sustained the
+    economic and cultural vitality of Ammaia through- out its major life span
+    during the Roman period. The project therefore includes not only intensive
+    geoarchaeological field sur- veys, but also the careful sampling and study
+    of excavated finds from within the town area and particularly archaeometric
+    analysis of selected archaeological material. Some of the first results
+    presented here concern the mapping of the town struc- ture and the transport
+    routes, the provisioning of water for the city centre, and the
+    identification of some important mining (gold) and quarrying activities
+    (granite, rock crystal) connected with the Roman occupation and urbanisation
+    of this area.
+  author:
+    - family: Vermeulen
+      given: Frank
+    - family: Taelman
+      given: Devi
+  call-number: HT114 .C45 2010
+  citation-key: vermeulen:2010cityscape
+  collection-title: Ricerche. Serie maior
+  container-title: Changing landscapes, the impact of Roman towns in the Western Mediterranean
+  editor:
+    - family: Corsi
+      given: Cristina
+    - family: Vermeulen
+      given: Frank
+  event: International colloquium, Castelo de Vide, Marvão, 15th-17th May, 2008
+  event-place: Bologna
+  ISBN: 978-88-7849-055-0
+  issued:
+    - year: 2010
+  language: en
+  publisher: Ante quem
+  publisher-place: Bologna
+  source: Library of Congress ISBN
+  title: 'From cityscape to landscape in Roman Lusitania: the Municipium of Ammaia'
+  title-short: Changing landscapes, the impact of Roman towns in the Western Mediterranean
+  type: paper-conference
 
 - id: 'vernacular:'
   accessed:
