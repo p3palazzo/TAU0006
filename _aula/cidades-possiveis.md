@@ -15,7 +15,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
-  caption: "Kanō Takanobu (atribuição), [*Cenas dentro e fora de Quioto*, biombo esquerdo de um par](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
+  caption: "Kanō Takanobu (atribuição), [Vistas dentro e fora de Quioto](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), biombo esquerdo de um par, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
 ---
 
 # Espacialidade e vazio na pintura chinesa #
@@ -147,10 +147,10 @@ presente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=52.5%}
+::: {.column width=50%}
 ![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-_Southern_Song_Dynasty-es.svg/782px-China_-_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
 :::
-::: {.column width=47.5%}
+::: {.column width=50%}
 ![Dinastia Ming c. 1580. Mapa: [Podzemnik, 2014, baseado em Michal Klajban, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ming_Empire_cca_1580_es.svg/755px-Ming_Empire_cca_1580_es.svg.png){#fig:mingdai}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -201,10 +201,10 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=61%}
+::: {.column width=59%}
 ![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
 :::
-::: {.column width=39%}
+::: {.column width=41%}
 ![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg/1021px-Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg){#fig:fankuan}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -958,10 +958,10 @@ colina" [@lobo:2012urbanismo].
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
-::: {.column width=51.7%}
+::: {.column width=50%}
 ![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
 :::
-::: {.column width=48.3%}
+::: {.column width=50%}
 ![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
 :::
 
@@ -971,6 +971,8 @@ Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. Desenho:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 O traçado ideal de Caminha foi reconstituído pela arquiteta portuguesa
 Luísa Trindade, na sua tese de doutoramento de 2009
 [@trindade:2013urbanismo]. Esse traçado se baseava no parcelamento em
@@ -1078,10 +1080,10 @@ pelas curvas de nível, e sim pela orientação da gleba parcelada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:balto-plan .columns}
-::: {.column width=48.5%}
+::: {.column width=47.5%}
 ![levantado na planta de [Filipe Folque, 1858, fl. 42](https://commons.wikimedia.org/wiki/File:Bairro_Alto_Folque_0042.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bairro_Alto_Folque_0042.jpg){#fig:balto-folque}
 :::
-::: {.column width=51.5%}
+::: {.column width=52.5%}
 ![reconstituição do loteamento modular por [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Bairro_alto_lot_modules.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bairro_alto_lot_modules.png/489px-Bairro_alto_lot_modules.png){#fig:balto-chao}
 :::
 
@@ -1091,6 +1093,8 @@ Planta do parcelamento urbanístico do bairro Alto, Lisboa
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 O traçado viário de padrão renascentista, com menos hierarquia viária e
 espacial do que o traçado medieval, vai formar a base do urbanismo
 português planejado durante a expansão colonial do século
