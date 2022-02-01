@@ -12,7 +12,7 @@ toc:
   - Do boma banto às cidades da Guiné
 leitura: 501--518, 537--538
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/02/rakuchu_rakugai_zu_byobu_fukuoka_city_museuml.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [Vistas dentro e fora de Quioto](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), biombo esquerdo de um par, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
@@ -49,7 +49,7 @@ Por isso, apesar das limitações interpretativas desses esquemas, eles
 continuam sendo uma introdução relevante ao estudo da história da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Choose your Art Historian](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2}
+![Choose your Art Historian](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2 .r-stretch}
 
 ## Emergência da espacialidade ##
 
@@ -59,7 +59,7 @@ representar espaço na pintura é um esforço contínuo nas tradições
 artísticas na Ásia oriental e na Europa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Compreender arquitetura e mesmo a pintura como artes espaciais permite
@@ -75,7 +75,7 @@ desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 
 [*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
 
-## 
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg" data-background-size="contain"}
 
 ![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan .full}
 
@@ -106,11 +106,11 @@ cavaleira se firma desde cedo como o modo preferencial de projeção das
 formas geométricas na pintura ([@fig:zhouwenju]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music%2C_Ming_dynasty%2C_Chicago_Institute_of_Art.jpg){#fig:zhouwenju .full}
+![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music,_Ming_dynasty,_Chicago_Institute_of_Art.jpg){#fig:zhouwenju .full .r-stack}
 
 <!--_-->
 
-##
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg" data-background-size="contain"}
 
 ![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang .align-right}
 
@@ -165,7 +165,7 @@ presente.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=43.5%}
-![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum%2C_Tapei.10_cent..jpg){#fig:juran}
+![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg){#fig:juran}
 :::
 ::: {.column width=56.5%}
 ![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
@@ -215,7 +215,7 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 
 <!--_-->
 
-## 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
 
 ![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan}
 
@@ -233,7 +233,7 @@ no plano da pintura, constituem uma reflexão sobre a própria natureza do
 espaço e do vazio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A personagem intelectual representada na pintura de Ma Lin ([@fig:malin])
@@ -252,7 +252,7 @@ superior.
 
 ## Arte clássica ##
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
 
 ![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg){#fig:literati}
 
@@ -266,7 +266,7 @@ politização do espaço é, naturalmente, um interesse característico
 também da nossa historiografia contemporânea da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg" data-background-size="contain"}
 
 ![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
 
@@ -320,7 +320,7 @@ corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
 
 ## Perspectiva linear e arquitetura ##
 
-![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky .align-right}
+![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky .align-right .overlay-slide}
 
 [Princeton University Press]: https://press.princeton.edu/our-authors/panofsky-erwin
 
@@ -505,6 +505,8 @@ espaço da forma arquitetônica construída.
 
 ## Espaço e modernismo ##
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png" data-background-size="contain"}
+
 ![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -525,7 +527,7 @@ especialmente tentadora para a promoção do modernismo, ao qual esses
 autores se vinculam.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg" data-background-size="contain"}
 
 ![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion .align-right}
 
@@ -579,7 +581,7 @@ como era de se esperar, com o modernismo, que leva adiante o processo de
 libertação formal e criativa iniciado pelo barroco.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg" data-background-size="contain"}
 
 ![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne .align-right}
 
@@ -601,7 +603,7 @@ projetual. Outras tradições arquitetônicas permanecem presas à tipologia
 e à tradição [@bozdogan:1999architectural].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Sistemas espaciais finitos ##
+## Sistemas volumétricos finitos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O controle sobre o espaço pictórico que a perspectiva linear permitir se
@@ -729,8 +731,6 @@ para o espaço como uma extensão neutra é um instrumento de conquista
 
 # Urbanismo de colina #
 
-## 
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As vilas de castelo no Japão e as vilas reais em Portugal, no final da
 Idade Média e início da Idade Moderna, respondem a uma necessidade de
@@ -758,11 +758,7 @@ ele, existe um "urbanismo português" como conjunto de modos de construir
 cidades vigentes em Portugal e no império Português --- incluindo o
 Brasil colônia --- entre os séculos [XIII]{.smallcaps} e
 [XIX]{.smallcaps}.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, as cidades portuguesas que existem nesse século
 [XIII]{.smallcaps} podem ser reduzidas a duas origens distintas:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1147,7 +1143,7 @@ da malha viária ([@fig:kyoto-1895]).
 
 [Yumoto Fumihiko, 1895]: https://commons.wikimedia.org/wiki/File:Heiankyo_kyushi_zisshoku_zenzu.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/large_plan_of_kyoto_14062488481.jpg"}
 
 ![Planta de Quioto por [Hayashi Yoshinaga, 1686][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg){#fig:kyoto-1686}
 
@@ -1171,7 +1167,7 @@ gradualmente subdividido. Os lotes estreitos e profundos favorecem a
 construção de casas geminadas, as *machiya*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Parcelamento do solo e formação de cortiços em Nagoya, Edo e Quioto segundo [Shojai, Mori e Nomura, 2016][]](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya}
+![Parcelamento do solo e formação de cortiços em Nagoya, Edo e Quioto segundo [Shojai, Mori e Nomura, 2016][]](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya .r-stretch}
 
 [Shojai, Mori e Nomura, 2016]: https://doi.org/10.1186/s40410-016-0034-0
 
@@ -1186,7 +1182,7 @@ leva ao desenvolvimento do paradigma urbano moderno no Japão: a vila de
 castelo (*jōkamachi*) ([@fig:himeji]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png" data-background-size="contain"}
 
 ![Esquema de desenvolvimento urbano de Morioka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png){#fig:morioka}
 
@@ -1205,7 +1201,7 @@ demarcam o perímetro do espaço urbano, que nunca é murado
 [@satoh:2017japanese].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.2.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A disposição dos quarteirões segue, em geral, módulos regulares que são
@@ -1215,11 +1211,11 @@ de madeira --- geralmente 6 pés ou 1,95 metro ([@fig:tsuruoka]).
 
 ![Esquema de desenvolvimento urbano de Tsuruoka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.2.png){#fig:tsuruoka}
 
-##
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/view_of_edo_tsuyama_city_museum.jpg"}
 
 ![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama .full}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/1230px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/enlarged_plan_of_edo_revised_in_third_month_year_of_the_sheep_and_illustrated_14066153104.jpg"}
 
 ![Planta de Edo por [Hayashi Yoshinaga, 1680][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg){#fig:edo-1680}
 
@@ -1245,7 +1241,7 @@ comerciais que cercam a cidade administrativa.
 
 [H.M. & Co., 1893]: https://commons.wikimedia.org/wiki/File:1893_Tokyo_map.jpg
 
-## {data-background-image=""}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses bairros são formados por quarteirões estreitos e alongados, à
@@ -1259,7 +1255,7 @@ acesso a casas e cortiços alinhados na espessura da quadra
 
 [Carola Hein, 2010]: http://journals.sagepub.com/doi/10.1177/0096144209347737
 
-## {data-background-image=""}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em muitos casos, o processo de adensamento não respeita a profundidade
@@ -1295,6 +1291,8 @@ território.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##
+
 ![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman .align-right .overlay-slide}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1312,7 +1310,7 @@ tem a sua própria casa perto desse espaço central ([@fig:boma])
 [@huffman:2009mapungubwe28].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema teórico de um *boma* no sul da África: Zimbábue, segundo [Thomas N. Huffman, 2009][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/huffman-2009-idealised-model-of-zimbabwe-pattern.png){#fig:boma .line}
+![Esquema teórico de um *boma* no sul da África: Zimbábue, segundo [Thomas N. Huffman, 2009][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/huffman-2009-idealised-model-of-zimbabwe-pattern.png){#fig:boma .line .r-stretch}
 
 [Thomas N. Huffman, 2009]: http://www.sciencedirect.com/science/article/pii/S0278416508000585
 
@@ -1322,7 +1320,7 @@ tem a sua própria casa perto desse espaço central ([@fig:boma])
 
 ![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .align-right .nobg .overlay-slide}
 
-![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba}
+![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba}
 
 [*Sur un air de Somba*]: https://vimeo.com/25226651
 
@@ -1338,13 +1336,9 @@ americana [Suzanne Blier][] no final da década de 1980.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba}
-![Planta segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line .align-right .overlay-slide}
+![Planta de um Tata somba segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line .align-right .overlay-slide}
 
-![Exemplar em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
-
-Tata somba
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Tata somba em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
 
 ## Redes políticas no território: grande Zimbábue ##
 
@@ -1428,9 +1422,7 @@ inclinadas.
 
 ## Máxima densidade urbana: Kumasi ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg" data-background-size="contain"}
-
-<!--_-->
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/bowdich1819_p364_plate_11-sketch_of_coomassie.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O adensamento urbano no oeste da África atinge seu ponto máximo,
