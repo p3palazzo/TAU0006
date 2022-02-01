@@ -1,6 +1,6 @@
 var store = [{
         "title": "Rotas comerciais e paradigmas urbanísticos",
-        "excerpt":"Mundos conectados no século XIV A “Globalização” é tão antiga quanto o comércio. A mudança nas redes comerciais e nas relações de poder em escala mundial, com a expansão europeia dos séculos XVI a XIX, foi tão brutal que às vezes perdemos de vista o quanto essas redes e relações...","categories": [],
+        "excerpt":"Mundos conectados no século XIV Figura 1: Martin Behaim, globo terrestre, 1492. Digitalizado por Drones Imaging. A “Globalização” é tão antiga quanto o comércio. A mudança nas redes comerciais e nas relações de poder em escala mundial, com a expansão europeia dos séculos XVI a XIX, foi tão brutal que...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/rotas/",
         "teaser": null
@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sistemas espaciais e abóbadas",
-        "excerpt":"Nesta sequência, vamos abordar a arquitetura do século XV na Europa e na Ásia central sob os pontos de vista da construção e da espacialidade. O desenvolvimento de sistemas e processos construtivos e a transformação nas configurações e relações espaciais são duas das principais questões que pertencem ao domínio da...","categories": [],
+        "excerpt":"Teoria da arquitetura na Idade Moderna Nesta sequência, vamos abordar a arquitetura do século XV na Europa e na Ásia central sob os pontos de vista da construção e da espacialidade. O desenvolvimento de sistemas e processos construtivos e a transformação nas configurações e relações espaciais são duas das principais...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/sistemas-espaciais/",
         "teaser": null
