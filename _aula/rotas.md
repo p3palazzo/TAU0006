@@ -21,6 +21,14 @@ header:
 
 ##
 
+::::::::::::::::::: {#fig:globe .sketchfab-embed-wrapper .iframe-wrapper}
+<iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed"> </iframe>
+
+[Martin Behaim, globo terrestre, 1492](https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420). Digitalizado por [Drones Imaging](https://sketchfab.com/dronesimaging?utm_medium=embed&utm_campaign=share-popup&utm_content=464002c2d8044f9a9c490cfe59395420)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A "[Globalização][]"
 é tão antiga quanto o comércio. A mudança nas redes comerciais e nas
