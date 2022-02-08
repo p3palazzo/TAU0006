@@ -8561,7 +8561,7 @@ references:
   ISBN: 978-1-86189-435-9
   issued:
     - year: 2009
-  language: en-GB
+  language: en
   number-of-pages: '287'
   publisher: Reaktion Books
   publisher-place: London
@@ -18805,7 +18805,7 @@ references:
   title: Barroco e classicismo
   type: book
 
-- id: tatarkiewicz:24great31
+- id: tatarkiewicz:1972great31
   accessed:
     - year: 2019
       month: 7
@@ -18813,7 +18813,7 @@ references:
   author:
     - family: Tatarkiewicz
       given: Wladyslaw
-  citation-key: tatarkiewicz:24great31
+  citation-key: tatarkiewicz:1972great31
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/429278
   ISSN: '00218529'
