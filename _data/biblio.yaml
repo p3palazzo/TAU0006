@@ -19848,6 +19848,48 @@ references:
   type: book
   URL: http://archive.org/details/cinqveordinidarc00vign
 
+- id: vignola:1602regolaa
+  abstract: >-
+    The first 32 plates are close to Fowler's type A, the plates from the
+    original ed. of 1563, but most differ in details from Fowler's description.
+    Type A also comprises the later Roman eds. of Vaccarius (1607-1610) and
+    Rossi (ca. 1617). The present ed. includes the seven plates of the "Porte di
+    Michel Angelo" (nos. 38-44) and the plate of the five orders (no. 3), all of
+    which probably first appeared in Orlandi's ed. of 1602; see Fowler. It is
+    therefore probable that the present ed. appeared between 1602 and Hendrik
+    van Schoel's death in 1622; Engraved throughout. Architectural title leaf
+    includes the arms of Cardinal Alessandro Farnese, to whom the work is
+    dedicated, and the half-length port. of Vignola facing to the viewer's
+    right. The imprint has been recut with van Schoel's name replacing that of
+    an earlier printer, traces of which remain. Plates are printed on one side
+    of the leaf only, and most are arranged in pairs on a verso and the facing
+    recto. Arabic numbering has been added, in addition to the original Roman;
+    Bound after plate 44 in Getty copy is a leaf with a later (19th- century?)
+    pen and wash drawing of a Gothic window with tracery and pinnacle; Binding:
+    later gray pasteboard. Author & title written on spine. Centered on front
+    pastedown is Giovanni Muzio's etched bookplate by Giacomo Manzù; Binding:
+    later gray pasteboard. Author & title written on spine. Centered on front
+    pastedown is Giovanni Muzio's etched bookplate by Giacomo Manzù; XXXXIIII
+    leaves of plates : 36 cm (fol.)
+  accessed:
+    - year: 2022
+      month: 2
+      day: 17
+  author:
+    - family: Vignola
+      given: 1507-1573
+  call-number: '51548'
+  citation-key: vignola:1602regolaa
+  issued:
+    - year: 1602
+  language: ita
+  number-of-pages: '102'
+  publisher: 'In Roma : Apresso Henricus van Schoel'
+  source: Internet Archive
+  title: Regola delli cinqve ordini d' architettvra
+  type: book
+  URL: http://archive.org/details/cinqveordinidarc00vign
+
 - id: vignola:1876regras
   accessed:
     - year: 2019

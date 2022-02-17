@@ -11,10 +11,10 @@ toc:
   - Arquitetura clássica III › Superfícies e volumes
 leitura: Summerson 1--37, ver também o Glossário ao final
 header:
-  overlay_image:
-  caption:
+  overlay_image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
+  caption: "Sandro Botticelli. Castigo dos levitas. Afresco na [capela Sistina, 1481--482][]" 
 title-slide-attributes:
-  data-background-image: 
+  data-background-image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
 ---
 
 # Invenção do classicismo #
@@ -76,12 +76,18 @@ do século [XX]{.smallcaps}, corrobora essa divisão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=47.5%}
 ![Geoffrey Scott (1884--1929)](http://www.elisarolle.com/queerplaces/images 004/img71.jpg){#fig:scott}
 :::
-::: {.column width=50%}
+::: {.column width=52.5%}
 ![Nikolaus Pevsner (1902--1983)](https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg){#fig:pevsner}
 :::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Teorias e história da arquitetura ##
@@ -100,8 +106,10 @@ obsoleta.
 
 ## {data-background-image="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg"}
 
+![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri .slide-bg .align-right}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Para Manfredo Tafuri, um arquiteto marxista, o estudo da história da
+Para Manfredo Tafuri ([@fig:tafuri]), um arquiteto marxista, o estudo da história da
 arquitetura é sobretudo o estudo de como os processos produtivos do
 ambiente construído evoluem ao longo do tempo. Essa visão considera que
 a disciplina da Arquitetura é relevante sobretudo na medida em que
@@ -114,8 +122,6 @@ história da arte, para a qual os processos de constituição e
 transformação dos ofícios artísticos e profissionais têm interesse
 próprio, do mesmo modo que a formulação de ideias e teorias.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri .slide-bg}
 
 ## Perspectiva e composição clássica
 
@@ -152,10 +158,10 @@ triângulo invertido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {#fig:masaccio .columns}
-::: {.column width=50%}
+::: {.column width=57%}
 ![afresco na capela Brancacci, igreja de Santa Maria Novella, Florença, 1427](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Masaccio_003.jpg/616px-Masaccio_003.jpg){#fig:masaccio-trinita}
 :::
-::: {.column width=50%}
+::: {.column width=43%}
 ![Esquema de composição](https://i.pinimg.com/originals/39/77/3f/39773f2b44cbddcdfc3406f9febea1b6.jpg){#fig:masaccio-comp}
 :::
 Masaccio, Santíssima Trindade
@@ -173,11 +179,9 @@ individual(ista), mas responde a uma visão de mundo partilhada entre os
 artistas e os seus mecenas ([@fig:botticelli-sistina]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, palácio do Vaticano, 1481--482](https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg){#fig:botticelli-sistina .slide-bg}
+![Sandro Botticelli. Castigo dos levitas. Afresco na [capela Sistina, 1481--482][]](https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg){#fig:botticelli-sistina .slide-bg}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1280px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg"}
-
-<!--_-->
+## {data-background-image="https://i.pinimg.com/originals/36/0d/60/360d604d3f522136882ade93ef2d72d7.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A imposição voluntária desse sistema de restrições e a busca pela
@@ -193,7 +197,7 @@ secundárias? Ou ainda um ponto fora da pintura, para onde convergem os
 raios da luz divina?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa .slide-bg}
+![Rafael Sanzio, [Disputa do Santíssimo Sacramento][]. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://i.pinimg.com/originals/36/0d/60/360d604d3f522136882ade93ef2d72d7.jpg){#fig:disputa .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Capilla_Pazzi_03.JPG/1365px-Capilla_Pazzi_03.JPG" data-background-size="contain"}
 
@@ -317,6 +321,8 @@ utilitas* e *venustas*, ou solidez, funcionalidade e beleza.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1280px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"}
 
+![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. Foto: [Bruce Stokes, 2013][stokes:2013view]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi .slide-bg}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desafio dessa invenção está em aplicar a *firmitas* da tecnologia
 construtiva moderna ([@fig:cupola-brunelleschi]), junto com a *venustas*
@@ -326,11 +332,9 @@ e exteriores. Se a arquitetura clássica pode ser considerada uma forma
 de linguagem, então os elementos são o vocabulário.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi .slide-bg}
-
 ## {data-background-image="https://i.pinimg.com/originals/8c/99/65/8c9965f4d949932127770e7f525f3e8a.jpg"}
 
-![Bernardo Bellotto, [Ruínas do fórum romano, 1743](https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg/1024px-Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg){#fig:forum-bellotto .slide-bg}
+![Bernardo Bellotto, [Ruínas do fórum romano, 1743][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg/1024px-Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg){#fig:forum-bellotto .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/66/4b/de/664bde694199a53639504955d973cae2.jpg"}
 
@@ -406,6 +410,8 @@ vitruviana:
 
 ## Natureza dos elementos da arquitetura ##
 
+##
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os elementos da arquitetura clássica podem ser agrupados, na forma mais
 simples, possível, em quatro categorias [@ching:2007architecture, 14;
@@ -415,10 +421,10 @@ horizontais ou abobadadas ([@fig:krier-27b]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=49%}
 ![Francis D.K. Ching, classificação dos pontos de apoio](https://i.pinimg.com/originals/2d/2d/93/2d2d93e110b8bdd308a9ea387820d3c6.jpg){#fig:ching-support}
 :::
-::: {.column width=50%}
+::: {.column width=51%}
 ![Rob Krier, classificação dos pontos de apoio](https://i.pinimg.com/originals/ba/81/c2/ba81c2666b30c7bf5ece872616620dfd.jpg){#fig:krier-27a}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -429,7 +435,7 @@ horizontais ou abobadadas ([@fig:krier-27b]).
 
 ## {data-background-image="https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg" data-background-size="contain" data-background-position="right"}
 
-![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*. -@liang:1984pictorial](https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg){#fig:liang-order .slide-bg}
+![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*](https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg){#fig:liang-order .slide-bg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 De todos os elementos da arquitetura, as chamadas "ordens" de colunas
@@ -490,6 +496,8 @@ nunca se perdeu por inteiro.
 
 ## {data-background-image="https://i.pinimg.com/originals/94/3f/7d/943f7da948e422f44074d142b7298dc0.jpg" data-background-position="top"}
 
+![Filippo Brunelleschi, asilo dos Inocentes, Florença, 1419. Levantamento: [Ipostudio architetti, 2012][]](https://i.pinimg.com/originals/94/3f/7d/943f7da948e422f44074d142b7298dc0.jpg){#fig:spedale .slide-bg}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no início do século [XV]{.smallcaps}, a linguagem clássica não é um
 sistema corrente, e muito menos dominante, entre os arquitetos de
@@ -498,25 +506,15 @@ a composições puramente lineares: arcadas e, às vezes, colunatas, em
 geral aplicadas na superfície de paredes ([@fig:spedale]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Filippo Brunelleschi, asilo dos Inocentes, Florença, 1419. Levantamento: [Ipostudio architetti, 2012][]](https://i.pinimg.com/originals/94/3f/7d/943f7da948e422f44074d142b7298dc0.jpg){#fig:spedale .slide-bg}
-
-## {data-background-image="https://ia902500.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/gri_33125008262210/gri_33125008262210_jp2.zip&file=gri_33125008262210_jp2/gri_33125008262210_0140.jp2&id=gri_33125008262210&scale=2&rotate=0" data-background-size="contain" data-background-position="right"}
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse contexto é que a interpretação do tratado de Vitrúvio ganha
 importância, associada ao levantamento de ruínas romanas. A partir da
-descrição dos três "gêneros" de colunas, expostos por Vitrúvio, os
+descrição dos três "gêneros" de colunas, expostos por Vitrúvio ([@fig:cesariano-genera]), os
 arquitetos do Renascimento buscam reconstituir um sistema ordenado de
 elementos clássicos da arquitetura.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cesare Cesariano, gêneros de colunas do [tratado de arquitetura de Vitrúvio, 1521][]](https://ia902500.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/gri_33125008262210/gri_33125008262210_jp2.zip&file=gri_33125008262210_jp2/gri_33125008262210_0140.jp2&id=gri_33125008262210&scale=2&rotate=0){#fig:cesariano-genera .slide-bg}
-
-## {data-background-image="https://ia600900.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/cinqveordinidarc00vign/cinqveordinidarc00vign_jp2.zip&file=cinqveordinidarc00vign_jp2/cinqveordinidarc00vign_0010.jp2&id=cinqveordinidarc00vign&scale=2&rotate=0" data-background-size="contain" data-background-position="right"}
-
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na [edição de 1602][vignola:1602regola]](https://ia600900.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/cinqveordinidarc00vign/cinqveordinidarc00vign_jp2.zip&file=cinqveordinidarc00vign_jp2/cinqveordinidarc00vign_0010.jp2&id=cinqveordinidarc00vign&scale=2&rotate=0){#fig:vignola-intro-2 .slide-bg}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa busca por sistematizar as espécies de colunas acaba resultando nos
 três principais tratados de meados do século [XVI]{.smallcaps}: o de Sebastiano
 Serlio, que é o primeiro a usar a expressão "ordens de colunas", o de
@@ -525,7 +523,18 @@ sistema mais difundido até os dias de hoje, e o de Palladio, publicado
 em 1570, que vai influenciar sobretudo a Inglaterra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::: {#fig:ordens .columns .full}
+::: {.column width=53%}
+![Cesare Cesariano, gêneros de colunas do [tratado de arquitetura de Vitrúvio, 1521][]](https://i.pinimg.com/originals/26/3e/f8/263ef8e15bc2da18b17275c54915c6c3.jpg){#fig:cesariano-genera}
+:::
+::: {.column width=47%}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na [edição de 1602][vignola:1602regola]](https://i.pinimg.com/originals/3c/d3/ba/3cd3ba4d967c0e32010c57d6dcf16510.jpg){#fig:vignola-intro-2}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png"}
+
+![Robert Chitham, *As cinco ordens de arquitetura*, 2005](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png){#fig:chitham-5orders .slide-bg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir desses três tratados, o sistema clássico se estabiliza
@@ -536,11 +545,7 @@ no sentido original da palavra, a *descoberta* de algo que existia, mas
 que até então não estava organizado, classificado ou descrito.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Robert Chitham, *As cinco ordens de arquitetura*, 2005](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png){#fig:chitham-5orders .slide-bg .full}
-
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png"}
-
-![Intercolúnios segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png){#fig:chitham-167 .slide-bg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O que é, portanto, a regra das cinco ordens de colunas da arquitetura
@@ -550,7 +555,11 @@ clássica raramente existe isolada ([@fig:chitham-167]): o entablamento, que é 
 pingadeira e coroamento da ordem, sempre acompanha uma colunata...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Intercolúnios segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png){#fig:chitham-167 .slide-bg .full}
+
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png"}
+
+![Proporções da ordem coríntia segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png){#fig:chitham-083-085 .slide-bg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ...mas é, sobretudo, um sistema decorativo. Cada um dos três componentes
@@ -561,11 +570,7 @@ minuciosamente descritas nos tratados do Renascimento em diante
 ([@fig:chitham-083-085]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Proporções da ordem coríntia segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png){#fig:chitham-083-085 .slide-bg .full}
-
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png"}
-
-![Elementos complementares das ordens clássicas segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png){#fig:chitham-181-197 .slide-bg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na questão das proporções está a chave para entender a adoção
@@ -578,7 +583,11 @@ ser igualmente manipulado a partir das dimensões do conjunto, por
 divisões sucessivas até chegar no módulo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Elementos complementares das ordens clássicas segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png){#fig:chitham-181-197 .slide-bg .full}
+
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png"}
+
+![Arcadas e rusticação segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png){#fig:chitham-175-191 .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O algoritmo das ordens clássicas é, portanto, uma regra eficiente para
@@ -587,8 +596,6 @@ organizar composições grandes e pequenas. Do sistema simples das ordens,
 janelas, arcos, guarda-corpos ([@fig:chitham-181-197;
 @fig:chitham-175-191])...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Arcadas e rusticação segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png){#fig:chitham-175-191 .full .slide-bg}
 
 ##
 
@@ -619,6 +626,8 @@ teoria da arquitetura no Renascimento.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1280px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg"}
 
+![Templo de Baal-Shamin, Palmira, última reconstrução 131 d.C., destruído 2015. Foto: [Mappo, 2010][mappo:2010tempio]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1024px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg){#fig:baalshamin .slide-bg}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No meio do caminho entre as colunas clássicas e os elementos
 estritamente complementares, temos a pilastra. Ela é simplesmente uma
@@ -630,11 +639,7 @@ ligeiramente destacada da parede, ou ainda como arremate de uma *anta*
 de Baal-Shamin, em Palmira ([@fig:baalshamin]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Templo de Baal-Shamin, Palmira, última reconstrução 131 d.C., destruído 2015. @mappo:2010tempio](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1024px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg){#fig:baalshamin .slide-bg}
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg"}
-
-![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. Foto: [Zairon, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O século [XV]{.smallcaps} resgata a pilastra e faz dela um dos elementos mais usados
@@ -646,6 +651,8 @@ Essa preferência pela superfície quase plana faz parte da busca dos
 arquitetos do século [XV]{.smallcaps} pela articulação clara de volumes
 espaciais com geometrias primárias.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. Foto: [Zairon, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade .slide-bg}
 
 # Arquitetura clássica II › Espaço #
 
@@ -1290,6 +1297,14 @@ que garanta a harmonia e continuidade do conjunto urbano.
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 
+[capela Sistina, 1481--482]: https://commons.wikimedia.org/wiki/File:Botticcelli,_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg
+
+[Disputa do Santíssimo Sacramento]: https://commons.wikimedia.org/wiki/File:Raphael1a.jpg
+
+[stokes:2013view]: https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg
+
+[Ruínas do fórum romano, 1743]: https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg
+
 [Interior do Pantheon, c. 1734]: https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg
 
 [Gryffindor, edição por Roland Geider, 2008]: https://commons.wikimedia.org/wiki/File:Palazzo_Medici_courtyard_Apr_2008_(10)-Palazzo_Medici_courtyard_Apr_2008_(9).jpg
@@ -1313,6 +1328,8 @@ que garanta a harmonia e continuidade do conjunto urbano.
 [tratado de arquitetura de Vitrúvio, 1521]: https://archive.org/details/gri_33125008262210/
 
 [vignola:1602regola]: http://archive.org/details/cinqveordinidarc00vign
+
+[mappo:2010tempio]: https://commons.wikimedia.org/wiki/File:Temple_of_Baal-Shamin_in_Palmyra_2010.jpg
 
 [Zairon, 2018]: https://commons.wikimedia.org/wiki/File:Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg
 
