@@ -5330,14 +5330,17 @@ references:
       given: Maria Fernanda
   citation-key: derntl:2004
   event-place: São Paulo
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
   issued:
     - year: 2004
   language: pt-BR
+  publisher: Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
-    A produção do espaço urbano sob as monarquias modernas os casos iniciais da
-    Place des Vosges e de Covent Garden.
+    A produção do espaço urbano sob as monarquias modernas: os casos iniciais da
+    Place des Vosges e de Covent Garden
+  title-short: A produção do espaço urbano sob as monarquias modernas
   type: thesis
 
 - id: derntl:2006inicio
