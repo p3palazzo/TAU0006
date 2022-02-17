@@ -406,6 +406,7 @@ references:
   citation-key: alfarano:1590pianta
   issued:
     - year: 1590
+  language: it
   source: Wikimedia Commons
   title: Pianta di San Pietro
   type: graphic
@@ -423,9 +424,9 @@ references:
   citation-key: alien66:2012piazza
   issued:
     - literal: 10 de junho de 2012, 13:13:22
+  language: it
   source: Wikimedia Commons
   title: Piazza Ducale
-  title-short: Italiano
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg
 
@@ -601,7 +602,7 @@ references:
   URL: https://www.mdpi.com/2072-4292/12/7/1094
   volume: '12'
 
-- id: androuetcerceau:1579grundriss
+- id: androuet:1579grundriss
   accessed:
     - year: 2020
       month: 11
@@ -612,9 +613,10 @@ references:
   author:
     - family: Androuet Du Cerceau
       given: Jacques
-  citation-key: androuetcerceau:1579grundriss
+  citation-key: androuet:1579grundriss
   issued:
     - year: 1579
+  language: de
   source: Wikimedia Commons
   title: Grundriss des Schlosses Charleval, Stich aus dem 16. Jahrhundert
   type: graphic
@@ -731,6 +733,7 @@ references:
     - year: 2008
       month: 11
       day: 8
+  language: en
   source: Wikimedia Commons
   title: 'Banaue, Philippines: Batad Rice Terraces'
   title-short: Batad Rice Terraces
@@ -752,10 +755,10 @@ references:
     - year: 2009
       month: 6
       day: 4
+  language: en
   medium: Photography
   source: Wikimedia Commons
   title: The Hall of Prayer for Good Harvests
-  title-short: English
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Beijing_China_Hall-of-Prayer-for-Good-Harvests-01.jpg
@@ -836,6 +839,7 @@ references:
   citation-key: architas:2018santivo
   issued:
     - literal: 2018-03-04, 21:24:38
+  language: en
   source: Wikimedia Commons
   title: Sant'Ivo alla Sapienza (Roma) Dome interior
   type: graphic
@@ -855,6 +859,7 @@ references:
     - year: 2018
       month: 6
       day: 1
+  language: en
   source: Wikimedia Commons
   title: Santa Susanna (Rome) - Front
   type: graphic
@@ -873,6 +878,7 @@ references:
     - year: 2018
       month: 6
       day: 1
+  language: en
   source: Wikimedia Commons
   title: Santa Maria della Vittoria in Rome - Front
   type: graphic
@@ -1071,6 +1077,7 @@ references:
     - year: 2016
       month: 9
       day: 6
+  language: en
   source: Vimeo
   title: Venezia
   type: motion_picture
@@ -1132,7 +1139,7 @@ references:
   citation-key: augusto:2008particolare
   issued:
     - year: 2008
-  language: Italian
+  language: it
   source: Wikimedia Commons
   title: Particolare dell'Ospedale degli Innocenti, realizzato da Brunelleschi
   type: graphic
@@ -1436,7 +1443,7 @@ references:
     - year: 2014
       month: 10
       day: 28
-  language: English
+  language: en
   publisher: National Geographic Society
   publisher-place: Washington, D.C.
   source: YouTube
@@ -1468,6 +1475,7 @@ references:
     - year: 2019
       month: 2
       day: 7
+  language: en
   source: YouTube
   title: >-
     E. Torres: In modo antico. Arturo  Barba. Basilica San Giorgio Maggiore -
@@ -1488,6 +1496,7 @@ references:
   citation-key: barbari:1500venezia
   issued:
     - year: 1500
+  language: it
   source: Wikimedia Commons
   title: Venezia
   type: graphic
@@ -1669,6 +1678,7 @@ references:
     - year: 2015
       month: 7
       day: 17
+  language: en
   source: Wikimedia Commons
   title: >-
     Aerial view of Great Zimbabwe's Great Enclosure and adjacent ruins looking
@@ -1691,6 +1701,7 @@ references:
     QS:P2048,61U174728;P2049,90U174728
   issued:
     - literal: 1740date QS:P571,+1740-00-00T00:00:00Z/9
+  language: en
   medium: Óleo sobre telamedium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: The Piazza della Signoria in Florence
@@ -1735,7 +1746,7 @@ references:
   issued:
     - year: 1743
     - year: 1747
-  language: Portuguese
+  language: pt
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Campo di SS. Giovanni e Paolo
@@ -1962,7 +1973,7 @@ references:
   URL: http://www.jstor.org/stable/1483396
   volume: '11'
 
-- id: bernardinosahagun:1577historia
+- id: bernardino:1577historia
   abstract: >-
     Historia general de las cosas de nueva España (General history of the things
     of New Spain) is an encyclopedic work about the people and culture of
@@ -2007,11 +2018,11 @@ references:
       day: 12
   author:
     - literal: Bernardino de Sahagún
-  citation-key: bernardinosahagun:1577historia
+  citation-key: bernardino:1577historia
   collection-number: Codex florentinus
   issued:
     - year: 1577
-  language: Nahuatl
+  language: es
   number-of-volumes: '12'
   title: Historia general de las cosas de nueva España
   type: book
@@ -2067,7 +2078,7 @@ references:
   URL: >-
     https://www.dreamstime.com/stock-photo-facade-san-miniato-al-monte-florence-firenze-toscany-italy-medieval-church-romanesque-style-italia-image95663784
 
-- id: binsharifuddeen:kampung
+- id: bin:kampung
   accessed:
     - year: 2020
       month: 8
@@ -2076,9 +2087,9 @@ references:
     - family: Sharifuddeen
       given: Khairul Ariffin
       non-dropping-particle: bin
-  citation-key: binsharifuddeen:kampung
+  citation-key: bin:kampung
   container-title: Singapura Stories
-  language: English
+  language: en
   source: singapurastories.com
   title: >-
     Kampung Rochor – Remembering Java Road, Palembang Road, Minto Road, Sumbawa
@@ -2416,6 +2427,7 @@ references:
   dimensions: 356 mm × 276 mm
   issued:
     - year: 1820
+  language: fr
   medium: Lithograph
   source: Wikimedia Commons
   title: Antoine-Chrysostome Quatremère de Quincy
@@ -2453,6 +2465,7 @@ references:
   issued:
     - year: 1296
     - year: 1298
+  language: de
   medium: afresco
   source: Wikimedia Commons
   title: >-
@@ -2534,6 +2547,7 @@ references:
     - year: 2006
       month: 8
       day: 11
+  language: en
   medium: photo
   source: Flickr
   title: CNV00001
@@ -2554,10 +2568,10 @@ references:
   issued:
     - year: 1481
     - year: 1482
+  language: en
   medium: afresco
   source: Wikimedia Commons
   title: The Punishment of Korah and the Stoning of Moses and Aaron
-  title-short: English
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Botticcelli,_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg
@@ -2577,7 +2591,7 @@ references:
     - year: 1490
       circa: true
     - year: 1495
-  language: Portuguese
+  language: pt
   medium: têmpera  sobre madeira
   source: Wikimedia Commons
   title: Anunciação
@@ -2737,6 +2751,7 @@ references:
   author:
     - literal: Briangotts
   citation-key: briangotts:map
+  language: en
   source: Wikimedia Commons
   title: >-
     Map of Eurasia and North Africa, c. 870 CE. Trade routes of the Radhanite
@@ -2747,15 +2762,16 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Radhanites2.png
 
-- id: brickbuildingsde:brickbuildings.de
+- id: brickbuildingsde:brickbuildingsde
   accessed:
     - year: 2020
       month: 9
       day: 30
   author:
     - literal: Brickbuildings.de
-  citation-key: brickbuildingsde:brickbuildings.de
+  citation-key: brickbuildingsde:brickbuildingsde
   container-title: Instagram
+  language: en
   title: '@brickbuildings.de'
   type: webpage
   URL: https://www.instagram.com/brickbuildings.de/
@@ -2808,6 +2824,7 @@ references:
   citation-key: buache:1752plan
   issued:
     - year: 1752
+  language: fr
   source: Wikimedia Commons
   title: Plan de Pékin
   type: graphic
@@ -2857,6 +2874,7 @@ references:
     - year: 2017
       month: 5
       day: 19
+  language: en
   source: Wikimedia Commons
   title: The interior of the basilica
   type: graphic
@@ -3161,7 +3179,7 @@ references:
   issued:
     - year: 1726
       circa: true
-  language: Portuguese
+  language: pt
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Canal Grande desde o palazzo Balbi
@@ -3189,6 +3207,7 @@ references:
   issued:
     - year: 1730
       circa: true
+  language: en
   title: Campo Sant'Angelo
   type: graphic
   URL: https://www.metmuseum.org/art/collection/search/438103
@@ -3209,7 +3228,7 @@ references:
     - year: 1730
       circa: true
     - year: 1760
-  language: Italian
+  language: it
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Il Campo e la Chiesa di San Francesco della Vigna
@@ -3232,7 +3251,7 @@ references:
     - year: 1730
       circa: true
     - year: 1734
-  language: Italian
+  language: it
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Piazza San Marco
@@ -3255,7 +3274,7 @@ references:
   issued:
     - year: 1735
       circa: true
-  language: Portuguese
+  language: pt
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Vista do canal Grande
@@ -3377,6 +3396,7 @@ references:
     - year: 2006
       month: 11
       day: 12
+  language: en
   source: Wikimedia Commons
   title: >-
     A detailed Robinson projection SVG map with grouping enabled to connect all
@@ -3384,7 +3404,6 @@ references:
     countries can also be represented by larger circles to show their data more
     clearly. A thorough description of use and other instructions relating to
     this can be found on the instructions page.
-  title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:BlankMap-World.svg
 
@@ -3440,10 +3459,10 @@ references:
     - year: 1480
       circa: true
     - year: 1484
+  language: en
   medium: oil and tempera on panel
   source: Wikimedia Commons
   title: The Ideal City
-  title-short: inglês
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg
@@ -3626,6 +3645,7 @@ references:
       given: see
       dropping-particle: filename or
   citation-key: category:bonaccorso
+  language: it
   source: Wikimedia Commons
   title: >-
     Bonaccorso ghiberti, veduta della gru di brunelleschi, post 1446, BNCF, B.R.
@@ -3804,6 +3824,7 @@ references:
   dimensions: 35.6 × 1152.8 cm
   issued:
     - year: 1736
+  language: en
   medium: Five artists from the Qing court. Handscroll, ink and color on silk
   source: Wikimedia Commons
   title: >-
@@ -4417,6 +4438,7 @@ references:
   citation-key: chongkian:2015morten
   issued:
     - literal: 18 de junho de 2015, 11:52:14
+  language: en
   source: Wikimedia Commons
   title: Morten Village, Malacca City, Malacca, Malaysia
   type: graphic
@@ -4450,6 +4472,7 @@ references:
   citation-key: cigoli:1613duomo
   issued:
     - year: 1613
+  language: it
   source: Wikimedia Commons
   title: Duomo di Firenze
   type: graphic
@@ -4479,6 +4502,7 @@ references:
     - year: 2014
       month: 10
       day: 28
+  language: en
   source: YouTube
   title: Mimar Sinan - Architecture of the madrasa
   type: motion_picture
@@ -4496,6 +4520,7 @@ references:
   citation-key: circhirello:2011vue
   issued:
     - literal: 10 de dezembro de 2011, 16:43:21
+  language: fr
   source: Wikimedia Commons
   title: Vue aérienne de la ville d'Aigues Mortes
   title-short: Français
@@ -4597,25 +4622,6 @@ references:
   title: Classical Gardens of Suzhou, China in 4K Ultra HD
   type: motion_picture
   URL: https://www.youtube.com/watch?v=YSrRxhU0qQI
-
-- id: claude_villetaneuse:1906carte
-  accessed:
-    - year: 2020
-      month: 9
-      day: 10
-  archive: Collection personnelle
-  author:
-    - family: Claude_villetaneuse
-      given: Scanné
-      dropping-particle: par
-  citation-key: claude_villetaneuse:1906carte
-  issued:
-    - year: 1906
-  source: Wikimedia Commons
-  title: "Carte postale ancienne éditée par J. Winling, éditeur à Charleville\_:CHARLEVILLE - Place Ducale (N°2)"
-  type: graphic
-  URL: >-
-    https://commons.wikimedia.org/wiki/File:Winling_-_CHARLEVILLE_-_Place_Ducale_(N%C2%B02).JPG
 
 - id: clerc:1684vitruvius
   accessed:
@@ -6696,6 +6702,7 @@ references:
   citation-key: flavus:2012santuario
   issued:
     - literal: 5 luglio 2012, 11:19:33
+  language: it
   source: Wikimedia Commons
   title: Santuario della Santa Casa in Loreto - Casa Santa
   type: graphic
@@ -6802,6 +6809,7 @@ references:
   title: >-
     A history of architecture on the comparative method for the student,
     craftsman, and amateur
+  title-short: A history of architecture
   type: book
   URL: http://archive.org/details/historyofarchite00flet
 
@@ -8149,6 +8157,7 @@ references:
   citation-key: guerrini:1883basilica
   issued:
     - year: 1883
+  language: it
   medium: >-
     Ricordi di architettura : raccolti autografati e pubblicati da una società
     di architetti fiorentini
@@ -11070,7 +11079,7 @@ references:
     - year: 2005
   language: en-US
   number-of-pages: '200'
-  publisher: Dover Publications
+  publisher: Dover
   publisher-place: Mineola, N.Y.
   source: Library of Congress ISBN
   title: 'Chinese architecture: a pictorial history'
@@ -19973,6 +19982,25 @@ references:
   title: Villa Lante - alla scoperta del Lazio [01]
   type: motion_picture
   URL: https://www.youtube.com/watch?v=FWRVkYQMsts
+
+- id: villetaneuse:1906carte
+  accessed:
+    - year: 2020
+      month: 9
+      day: 10
+  archive: Collection personnelle
+  author:
+    - family: Villetaneuse
+      given: Claude
+  citation-key: villetaneuse:1906carte
+  issued:
+    - year: 1906
+  language: fr
+  source: Wikimedia Commons
+  title: "Carte postale ancienne éditée par J. Winling, éditeur à Charleville\_:CHARLEVILLE - Place Ducale (N°2)"
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:Winling_-_CHARLEVILLE_-_Place_Ducale_(N%C2%B02).JPG
 
 - id: villiers-stuart:1913gardens
   accessed:
