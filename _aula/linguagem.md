@@ -10,6 +10,11 @@ toc:
   - Arquitetura clássica II › Espaço
   - Arquitetura clássica III › Superfícies e volumes
 leitura: Summerson 1--37, ver também o Glossário ao final
+header:
+  overlay_image:
+  caption:
+title-slide-attributes:
+  data-background-image: 
 ---
 
 # Invenção do classicismo #
@@ -50,7 +55,7 @@ estudar a arquitetura do passado, e portanto a como vamos interpretar e
 usar o conhecimento histórico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O escritor e historiador da arquitetura inglês Geoffrey Scott lembra
@@ -72,10 +77,10 @@ do século [XX]{.smallcaps}, corrobora essa divisão.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Geoffrey Scott (1884--1929)](https://www.integra.unb.br/s/tau0006-042-gscott/preview){#fig:scott width=100%}
+![Geoffrey Scott (1884--1929)](http://www.elisarolle.com/queerplaces/images 004/img71.jpg){#fig:scott}
 :::
 ::: {.column width=50%}
-![Nikolaus Pevsner (1902--1983)](https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg){#fig:pevsner width=100%}
+![Nikolaus Pevsner (1902--1983)](https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg){#fig:pevsner}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -93,7 +98,7 @@ arte e da arquitetura, é geralmente tratada como uma preocupação
 obsoleta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-042-tafuri/preview"}
+## {data-background-image="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para Manfredo Tafuri, um arquiteto marxista, o estudo da história da
@@ -108,9 +113,9 @@ A visão de Tafuri contrasta com toda uma tradição de pesquisa em
 história da arte, para a qual os processos de constituição e
 transformação dos ofícios artísticos e profissionais têm interesse
 próprio, do mesmo modo que a formulação de ideias e teorias.
-
-![Manfredo Tafuri (1935--1994)](https://www.integra.unb.br/s/tau0006-042-tafuri/preview){#fig:tafuri}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri .slide-bg}
 
 ## Perspectiva e composição clássica
 
@@ -129,14 +134,14 @@ composição nas suas obras. Para o alemão Erwin Panofsky, pelo contrário,
 dos artistas e dos seus mecenas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Panofsky, a perspectiva é uma *forma simbólica*: um modo de
 apresentar a imagem que expressa uma certa visão de mundo.
 Essa visão de mundo, no caso da pintura em perspectiva, é a
 homogeneidade do espaço geométrico. No entanto, numa pintura como a
-Santíssima Trindade de Masaccio ([@Fig:masaccio-trinita]), a unificação
+Santíssima Trindade de Masaccio ([@Fig:masaccio]), a unificação
 do espaço por meio da perspectiva geométrica contradiz a diferenciação
 iconográfica e a hierarquia religiosa estabelecidas pela posição
 dominante da Santíssima Trindade. Mais ainda, as linhas de força da
@@ -146,16 +151,17 @@ Trindade, conflitam com o traçado regulador da perspectiva, que forma um
 triângulo invertido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::: {#fig:masaccio .columns}
 ::: {.column width=50%}
-![Masaccio, Santíssima Trindade. Afresco na capela Brancacci, igreja de Santa Maria Novella, Florença, 1427](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Masaccio_003.jpg/616px-Masaccio_003.jpg){#fig:masaccio-trinita width=100%}
+![afresco na capela Brancacci, igreja de Santa Maria Novella, Florença, 1427](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Masaccio_003.jpg/616px-Masaccio_003.jpg){#fig:masaccio-trinita}
 :::
 ::: {.column width=50%}
-![Esquema de composição da Santíssima Trindade de Masaccio](https://www.integra.unb.br/s/tau0006-042-masaccio-diag/preview){#fig:masaccio-comp width=100%}
+![Esquema de composição](https://i.pinimg.com/originals/39/77/3f/39773f2b44cbddcdfc3406f9febea1b6.jpg){#fig:masaccio-comp}
 :::
+Masaccio, Santíssima Trindade
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-042-botticcelli/preview"}
+## {data-background-image="https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 Portanto, a representação do espaço em perspectiva não é uma *solução*
@@ -165,9 +171,9 @@ contrário, ela impõe um sistema de exigências espaciais e de
 é *simbólica* porque esse sistema de restrições não é arbitrário nem
 individual(ista), mas responde a uma visão de mundo partilhada entre os
 artistas e os seus mecenas ([@Fig:botticelli-sistina]).
-
-![Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, palácio do Vaticano, 1481--482](https://www.integra.unb.br/s/tau0006-042-botticcelli/preview){#fig:botticelli-sistina}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, palácio do Vaticano, 1481--482](https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg){#fig:botticelli-sistina .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1280px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg"}
 
@@ -183,11 +189,11 @@ perspectiva? Cada uma das pessoas da Santíssima Trindade, designadas
 como elementos centrais da composição pelas linhas de força das figuras
 secundárias? Ou ainda um ponto fora da pintura, para onde convergem os
 raios da luz divina?
-
-![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-042-pazzi/preview"}
+![Rafael Sanzio. Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Raphael_-_Disputation_of_the_Holy_Sacrament.jpg/1024px-Raphael_-_Disputation_of_the_Holy_Sacrament.jpg){#fig:disputa .slide-bg}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Capilla_Pazzi_03.JPG/1365px-Capilla_Pazzi_03.JPG" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conflito entre a clareza aparente do sistema de regras clássicas e a
@@ -199,9 +205,9 @@ que já vimos na obra de Brunelleschi, na primeira metade do século [XV]{.small
 ([@Fig:pazzi]). Essa adequação vai ser um dos fios condutores da
 formulação teórica e da realização tangível da arquitetura do
 Renascimento.
-
-![Filippo Brunelleschi. Capela Pazzi na igreja de Santa Cruz, Florença, interior, 1442--1443. @cuesta:2015capilla](https://www.integra.unb.br/s/tau0006-042-pazzi/preview){#fig:pazzi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Filippo Brunelleschi. Capela Pazzi na igreja de Santa Cruz, Florença, interior, 1442--1443. Foto: [Miguel Hermoso Cuesta, 2015](https://commons.wikimedia.org/wiki/File:Capilla_Pazzi_03.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Capilla_Pazzi_03.JPG/512px-Capilla_Pazzi_03.JPG){#fig:pazzi .slide-bg}
 
 ## Rumo à arquitetura correta ##
 
@@ -299,8 +305,6 @@ construtivos, de programas funcionais e de contextos culturais.
 
 # Arquitetura clássica I › Elementos #
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A reconstituição da linguagem clássica da arquitetura, que é feita na
 Itália a partir do século [XV]{.smallcaps}, é na verdade a *invenção* de um sistema
@@ -318,15 +322,13 @@ dos elementos da arquitetura antiga ([@Fig:forum-bellotto]), para
 resolver problemas de *utilitas* --- a composição de espaços interiores
 e exteriores. Se a arquitetura clássica pode ser considerada uma forma
 de linguagem, então os elementos são o vocabulário.
-
-![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-043-bellotto/preview"}
+![Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420--1446. @stokes:2013view](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:cupola-brunelleschi .slide-bg}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Bernardo Bellotto, Capricho romano, 1742--1747](https://www.integra.unb.br/s/tau0006-043-bellotto/preview){#fig:forum-bellotto}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## {data-background-image="https://i.pinimg.com/originals/8c/99/65/8c9965f4d949932127770e7f525f3e8a.jpg"}
+
+![Bernardo Bellotto, [Ruínas do fórum romano, 1743](https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg/1024px-Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg){#fig:forum-bellotto .slide-bg}
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-043-pannini-pantheon/preview"}
 
