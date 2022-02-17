@@ -7,7 +7,7 @@ date    : 2022-02-15
 toc:
   - Invenção do classicismo
   - Arquitetura clássica I › Elementos
-  - Arquitetura clássica II › Espaço
+  - Arquitetura clássica II › Volumes
   - Arquitetura clássica III › Superfícies e volumes
 leitura: Summerson 1--37, ver também o Glossário ao final
 header:
@@ -654,7 +654,7 @@ espaciais com geometrias primárias.
 
 ![Leon Battista Alberti, fachada da basílica de Sant'Andrea, Mântua, após 1470. Foto: [Zairon, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant'Andrea_Apostolo_Fassade_4.jpg){#fig:sandrea-facade .slide-bg}
 
-# Arquitetura clássica II › Espaço #
+# Arquitetura clássica II › Volumes #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura clássica se define, em primeiro lugar, pelo uso das
