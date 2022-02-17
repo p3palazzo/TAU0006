@@ -1563,8 +1563,8 @@ references:
   page: 7-17
   source: JSTOR
   title: >-
-    Toward postcolonial openings: rereading Sir Banister Fletcher's "History of
-    Architecture"
+    Toward postcolonial openings: rereading Sir Banister Fletcher's *History of
+    Architecture*
   title-short: Toward Postcolonial Openings
   type: article-journal
   URL: http://www.jstor.org/stable/3171235
@@ -1802,8 +1802,8 @@ references:
   page: 59-75
   source: Zotero
   title: >-
-    Unleashing the Potential of Traditional Construction Technique in the
-    Development of Modern Urban Mass Housing
+    Unleashing the potential of traditional construction technique in the
+    development of modern urban mass housing
   type: article-journal
   volume: '16'
 
@@ -4179,7 +4179,7 @@ references:
       given: Vikramaditya
   call-number: NA200 .C493 2011
   citation-key: ching:2011global
-  edition: 2nd ed
+  edition: '2'
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
   issued:
@@ -4329,7 +4329,7 @@ references:
   event-place: Paris
   issued:
     - year: 1883
-  language: French
+  language: fr
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -4349,6 +4349,7 @@ references:
   citation-key: choisy:1899architectures
   issued:
     - year: 1899
+  language: fr
   source: Wikimedia Commons
   title: >-
     Architectures du Nouveau-Monde fig. 1. Histoire de l'architecture t. I, ch.
@@ -6664,7 +6665,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1725
-  language: German
+  language: de
   number-of-pages: '248'
   publisher-place: Leipzig
   source: Internet Archive
@@ -6789,7 +6790,7 @@ references:
       given: Banister F.
   call-number: b12340145
   citation-key: fletcher:1905history
-  edition: 5. ed.
+  edition: '5'
   event-place: 'London : New York'
   issued:
     - year: 1905
@@ -7262,7 +7263,7 @@ references:
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: JSTOR
-  title: Typical Design Features of Ming Palaces and Altars in Beijing
+  title: Typical design features of Ming palaces and altars in Beijing
   translator:
     - family: Harrer
       given: Alexandra
@@ -7729,7 +7730,7 @@ references:
   issue: '1'
   issued:
     - year: 1989
-  language: ita
+  language: it
   page: 557-590
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -10267,8 +10268,9 @@ references:
     - family: Marx
       given: Daniel
   citation-key: kren:courtyard
+  language: en
   title: Courtyard by LAURANA, Luciano
-  type: webpage
+  type: graphic
   URL: https://www.wga.hu/html_m/l/lauranal/urbino1.html
 
 - id: krier:1988architectural
@@ -10402,7 +10404,7 @@ references:
   issued:
     - year: 2013
   language: en-GB
-  title: Proportion and Traditional Architecture
+  title: Proportion and traditional architecture
   type: article-journal
   URL: >-
     https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf
@@ -13794,7 +13796,7 @@ references:
   publisher: Kodansha International
   publisher-place: Tokyo
   source: Gemeinsamer Bibliotheksverbund ISBN
-  title: What is Japanese architecture? a survey of traditional Japanese architecture
+  title: What is Japanese architecture? A survey of traditional Japanese architecture
   title-short: What is Japanese architecture?
   translator:
     - family: Horton
@@ -14728,9 +14730,9 @@ references:
   page: 377-416
   source: Crossref
   title: >-
-    Architects Read Vitruvius: Renaissance Interpretations of the Atrium of the
-    Ancient House
-  title-short: Architects Read Vitruvius
+    Architects read Vitruvius: Renaissance interpretations of the atrium of the
+    Ancient house
+  title-short: Architects read vitruvius
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
@@ -15328,6 +15330,7 @@ references:
   citation-key: pirou:1904portrait
   issued:
     - year: 1904
+  language: fr
   medium: Photography
   source: Wikimedia Commons
   title: Portrait d'Auguste Choisy par Eugène Pirou
@@ -16339,7 +16342,7 @@ references:
   event-place: London
   issued:
     - year: 1912
-  language: English
+  language: en
   number-of-pages: '544'
   publisher: Chatto & Windus
   publisher-place: London
@@ -16836,7 +16839,7 @@ references:
   page: 121-144
   publisher: SAGE Publications
   source: SAGE Journals
-  title: A Parametric Shape Grammar of the Traditional Malay Long-Roof Type Houses
+  title: A parametric shape grammar of the traditional Malay long-roof type houses
   type: article-journal
   URL: https://doi.org/10.1260/147807708785850113
   volume: '6'
@@ -18666,7 +18669,7 @@ references:
   publisher-place: Torino
   source: Library of Congress ISBN
   title: 'Ricerca del Rinascimento: principi, città, architetti'
-  title-short: Ricerca del Rinascimento
+  title-short: Ricerca del rinascimento
   type: book
 
 - id: tagliaventi:2006european18
@@ -18709,9 +18712,9 @@ references:
   language: en
   page: 1-25
   title: >-
-    Reading the Traditional City of Maritime Southeast Asia: Reconstructing the
-    19th century Port Town at Gelam-Rochor-Kallang, Singapore
-  title-short: Reading the Traditional City of Maritime Southeast Asia
+    Reading the traditional city of maritime Southeast Asia: reconstructing the
+    19^th^ century port town at Gelam-Rochor-Kallang, Singapore
+  title-short: Reading the traditional city of maritime southeast asia
   type: article-journal
   volume: '8'
 
@@ -20728,7 +20731,7 @@ references:
   number-of-pages: '173'
   publisher: Alec Tiranti
   publisher-place: London
-  title: Architectural Principles in the Age of Humanism
+  title: Architectural principles in the age of humanism
   type: book
 
 - id: wittkower:1968arquitectura
@@ -20743,7 +20746,7 @@ references:
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
-  title: La arquitectura en la edad del Humanismo
+  title: La arquitectura en la edad del humanismo
   type: book
 
 - id: wittkower:1973art
@@ -21558,7 +21561,7 @@ references:
   URL: http://www.jstor.org/stable/3047511
   volume: '35'
 
-- id: zupnick:21iconology19
+- id: zupnick:1961iconology19
   accessed:
     - year: 2019
       month: 8
@@ -21566,7 +21569,7 @@ references:
   author:
     - family: Zupnick
       given: Irving L.
-  citation-key: zupnick:21iconology19
+  citation-key: zupnick:1961iconology19
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/428069
   ISSN: '00218529'
@@ -21577,7 +21580,8 @@ references:
   language: en-US
   page: '263'
   source: Crossref
-  title: The Iconology of Style (Or Wolfflin Reconsidered)
+  title: The iconology of style (or Wölfflin reconsidered)
+  title-short: The iconology of style
   type: article-journal
   URL: https://www.jstor.org/stable/428069?origin=crossref
   volume: '19'
