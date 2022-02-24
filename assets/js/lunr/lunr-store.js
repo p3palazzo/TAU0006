@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Teoria do classicismo",
-        "excerpt":"À medida que avançamos no recorte cronológico da Idade Moderna, a tradição clássica da arquitetura europeia se apresenta como um sistema teórico e técnico cada vez mais elaborado e como uma combinação cada vez mais diversificada de práticas construtivas e visões de mundo. As ordens de colunas dos antigos gregos...","categories": [],
+        "excerpt":"Arquitetura do humanismo À medida que avançamos no recorte cronológico da Idade Moderna, a tradição clássica da arquitetura europeia se apresenta como um sistema teórico e técnico cada vez mais elaborado e como uma combinação cada vez mais diversificada de práticas construtivas e visões de mundo. As ordens de colunas...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/teoria/",
         "teaser": null
