@@ -143,24 +143,6 @@ var store = [{
         "url": "/tau0006/plano/sobre-disciplina/",
         "teaser": null
       },{
-        "title": "Permutações",
-        "excerpt":"Ementa A arquitetura clássica é um sistema de ordenamento global do ambiente construído, fornecendo ao mesmo tempo harmonia entre edificações graças a uma linguagem partilhada e uma variedade de soluções possíveis para cada problema arquitetônico. Demonstre essa afirmação permutando uma fachada clássica em outra, através de cinco passos intermediários. Objetivo...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/2-permutacoes/",
-        "teaser": null
-      },{
-        "title": "Caráter",
-        "excerpt":"Ementa Converter uma composição murária em colunatas? Objetivo Refletir criticamente sobre a tradição historiográfica da arquitetura, e especialmente sobre os debates a respeito das noções de Antiguidade e Modernidade. Processo (10 pontos) Produto (10 pontos) Recursos e apoio Use o fórum da unidade e o ambiente de construção colaborativa do...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/3-carater/",
-        "teaser": null
-      },{
-        "title": "Pesquisa e crítica",
-        "excerpt":"Ementa Construção de um argumento historiográfico ou teórico fundamentado em pesquisa bibliográfica e iconográfica, versando sobre um tema relacionado à arte, arquitetura, urbanismo ou paisagismo dos séculos XV a XVIII. Objetivo Refletir criticamente sobre a tradição historiográfica da arquitetura, e especialmente sobre os debates a respeito das noções de Antiguidade...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/3-pesquisa/",
-        "teaser": null
-      },{
         "title": "Instrumentos e materiais",
         "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
         "tags": [],
@@ -174,7 +156,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Análise arquitetônica",
-        "excerpt":"Objetivo Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Ementa A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera...","categories": [],
+        "excerpt":"Objetivo Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Ementa Premissa Figura 1: Bernardo Vittone, projeto de uma capela, em Istruzioni diverse, 1766 Figura 2: Claude Perrault, escadaria dos Embaixadores, Louvre, c. 1672 (destruída) A...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/analise-arq/",
         "teaser": null
