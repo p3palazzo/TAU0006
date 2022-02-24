@@ -8,6 +8,7 @@ toc:
   - Arquitetura do humanismo
   - Plano e recessão
   - Jardins da Ásia central
+  - Mausoléus indianos
   - Saberes corporativos e tratadística na França
 leitura: 520--530, Summerson 39--62
 header:
@@ -795,7 +796,7 @@ Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
 [Jean Chardin, década de 1670]: https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg
 
-## Mausoléus indianos ##
+# Mausoléus indianos #
 
 ##
 
