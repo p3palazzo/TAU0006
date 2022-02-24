@@ -10,9 +10,14 @@ toc:
   - Jardins da Ásia central
   - Saberes corporativos e tratadística na França
 leitura: 520--530, Summerson 39--62
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
+  caption: "Paolo Veronese, [Banquete na casa de Levi, 1573](https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg)"
+title-slide-attributes:
+  data-background-image: https://i.pinimg.com/originals/84/8f/9a/848f9a2dcebd3e4186074c1f3802cefc.jpg
 ---
 
-##
+# Arquitetura do humanismo #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 À medida que avançamos no recorte cronológico da Idade Moderna, a
@@ -27,11 +32,9 @@ Assim como os intelectuais, artistas e construtores do século [XV]{.smallcaps},
 também vamos nos perguntar *o que* é a arquitetura clássica, *por que*
 ela tem essa capacidade de se adaptar a uma imensa variedade de lugares,
 culturas e funções, e, por fim, *como* fazer arquitetura clássica.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Arquitetura do humanismo #
+##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura clássica é a arquitetura do humanismo.
 
 O humanismo não é tanto uma doutrina filosófica singular, quanto um
@@ -44,25 +47,25 @@ ambiente construído --- também respondem a processos e atendem a
 necessidades conflitantes [@scott:1914architecture].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura do Renascimento manifesta o seu caráter humanista
 sobretudo em dois aspectos: A taxonomia das "cinco ordens" de colunas
-clássicas ([@Fig:vignola-intro]) e a "tríade vitruviana", geralmente
-descrita como "solidez, funcionalidade e beleza" ([@Fig:triade-intro]).
+clássicas ([@fig:vignola-intro]) e a "tríade vitruviana", geralmente
+descrita como "solidez, funcionalidade e beleza" ([@fig:triade-intro]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-intro}
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://i.pinimg.com/originals/3c/d3/ba/3cd3ba4d967c0e32010c57d6dcf16510.jpg){#fig:vignola-intro}
 :::
 ::: {.column width=50%}
-![Tríade vitruviana: Solidez, funcionalidade, beleza](https://www.integra.unb.br/s/tau0006-041-triade-vitruviana/preview){#fig:triade-intro}
+![Tríade vitruviana: Solidez, funcionalidade, beleza](https://i.pinimg.com/originals/d2/96/0d/d2960d3e3f3e81b9f5f445011cfd30d0.jpg){#fig:triade-intro}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-vitruvianman/preview"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O chamado "homem vitruviano" é o símbolo artístico mais icônico do
@@ -72,9 +75,9 @@ criaturas por ser a única que pode ser inscrita tanto num quadrado
 quanto num círculo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leonardo da Vinci, homem vitruviano, c. 1492](https://www.integra.unb.br/s/tau0006-041-vitruvianman-thumb/preview){#fig:leonardo-vitruvian}
+![Leonardo da Vinci, homem vitruviano, c. 1492](https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg){#fig:leonardo-vitruvian .slide-bg}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O homem vitruviano não é só um argumento pela perfeição do corpo humano
@@ -83,20 +86,20 @@ Idade Média cristã, para a qual o homem foi criado à imagem e semelhança
 de Deus. Ele também se articula com outros problemas da filosofia
 europeia, como a quadratura do círculo --- a busca impossível pela
 construção geométrica de um quadrado e de um círculo --- e a relação
-entre a Criação divina e as obras humanas ([@Fig:giorgio-vitruviano;
+entre a Criação divina e as obras humanas ([@fig:giorgio-vitruviano;
 @fig:andrea-vitruviano]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Francesco di Giorgio Martini. Homem vitruviano, c. 1490](https://www.integra.unb.br/s/tau0006-041-giorgio-vitruviano/preview){#fig:giorgio-vitruviano width=100%}
+![Francesco di Giorgio Martini. Homem vitruviano, c. 1490](https://i.pinimg.com/originals/5d/03/8b/5d038b08d2418726dc59de5172a99e62.jpg){#fig:giorgio-vitruviano width=100%}
 :::
 ::: {.column width=50%}
 ![Iacomo Andrea. Homem vitruviano, c. 1490](https://upload.wikimedia.org/wikipedia/commons/6/69/Vitruvian_Man_by_Giacomo_Andrea.jpg){#fig:andrea-vitruviano width=100%} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-sfera/preview"}
+## {data-background-image="https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Portanto, o humanismo significa entender o ser humano como "medida" de
@@ -104,22 +107,22 @@ todas as coisas, mas também a Criação divina como uma obra unitária,
 onde o todo é visível nas partes, e as partes demonstram os princípios
 que dão forma ao todo. Esse princípio metafísico é conhecido como a
 correspondência entre o macrocosmo --- o universo, entendido como "todas
-as coisas visíveis e invisíveis" ([@Fig:esferas]), mas também as leis
+as coisas visíveis e invisíveis" ([@fig:esferas]), mas também as leis
 que governam esse universo --- e o microcosmo --- qualquer criatura
 divina particular ou obra humana.
-
-![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://www.integra.unb.br/s/tau0006-041-sfera/preview){#fig:esferas}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-luopan/preview"}
+![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg){#fig:esferas .slide-bg}
+
+## {data-background-image="https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O rebatimento entre macrocosmo e microcosmo é um conceito que transcende
 a filosofia europeia, estando presente em várias culturas edilícias, da
-China ([@Fig:luopan]) e da Índia até as Américas.
-
-![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://www.integra.unb.br/s/tau0006-041-luopan/preview){#fig:luopan}
+China ([@fig:luopan]) e da Índia até as Américas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg){#fig:luopan .slide-bg}
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview"}
 
@@ -130,10 +133,10 @@ várias analogias arquitetônicas. A mais conhecida é o antropomorfismo
 corpo humano. Temos vários exemplos desse pensamento nos séculos [XV]{.smallcaps} e
 [XVI]{.smallcaps}; talvez a mais conhecida seja a série de desenhos manuscritos
 produzida pelo engenheiro militar e teórico Francesco di Giorgio Martini
-entre 1480 e 1490 ([@Fig:giorgio-capitel; @Fig:giorgio-ds48]).
+entre 1480 e 1490 ([@fig:giorgio-capitel; @fig:giorgio-ds48]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Francesco di Giorgio Martini, estudo de capitéis, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview){#fig:giorgio-capitel}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-ds48/preview"}
 
@@ -141,23 +144,23 @@ entre 1480 e 1490 ([@Fig:giorgio-capitel; @Fig:giorgio-ds48]).
 ![Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-ds48){#fig:giorgio-ds48}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além dessa analogia simples, derivada de Vitrúvio, Martini propõe
 várias associações originais da figura humana com edificações inteiras,
-em planta como em elevação ([@Fig:giorgio-basilica-plan;
-@Fig:giorgio-basilica-elv]), e por que não com cidades fortificadas
-([@Fig:giorgio-citadella-umana]).
+em planta como em elevação ([@fig:giorgio-basilica-plan;
+@fig:giorgio-basilica-elv]), e por que não com cidades fortificadas
+([@fig:giorgio-citadella-umana]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), c. 1478--1481](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica-plan}
 
-* * * *
+##
 
 ![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv}
 
-* * * *
+##
 
 ![Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg){#fig:giorgio-citadella-umana}
 
@@ -177,8 +180,8 @@ vitruviana" e a teoria das "ordens clássicas".
 A teoria das ordens aparece articulada por inteiro, na forma em que é
 familiar para nós hoje em dia, perto da metade do século [XVI]{.smallcaps}. A sua
 expressão mais famosa é a *Regra das cinco ordens da arquitetura* de
-Vinhola ([@Fig:vignola-5ordini]), talvez o tratado de arquitetura mais
-vezes reeditado, mais consultado e mais imitado ([@Fig:chitham-tuscan])
+Vinhola ([@fig:vignola-5ordini]), talvez o tratado de arquitetura mais
+vezes reeditado, mais consultado e mais imitado ([@fig:chitham-tuscan])
 dos últimos quinhentos anos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -222,12 +225,12 @@ parâmetros de base para os debates que se desenvolvem em torno da
 questão. Um dos elementos centrais nesse discurso teórico é a chamada
 "tríade vitruviana": a determinação de que a arquitetura deve equilibrar
 os requisitos da solidez construtiva, da utilidade funcional, e da
-beleza formal ([@Fig:triade]).
+beleza formal ([@fig:triade]).
 
 ![Tríade vitruviana](https://www.integra.unb.br/s/tau0006-041-triade-bg/preview){#fig:triade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para a filósofa e historiadora da arquitetura Françoise Choay, o tratado
@@ -254,7 +257,7 @@ centros de difusão do pensamento arquitetônico.
 
 ## Conceitos ##
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -265,51 +268,48 @@ centros de difusão do pensamento arquitetônico.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Eduard Wasow 1924]:
-https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png
-
-._
+[Eduard Wasow 1924]: https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png
 
 [Artribune]: https://www.artribune.com/professioni-e-professionisti/didattica/2015/09/didattica-storia-arte-giulio-carlo-argan-scuola-formazione/
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--_-->
 
 ## Do plano à recessão ##
 
-* * * *
+##
 
 ![Piero della Francesca. Flagelação de Cristo, 1468--1470](https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg){#fig:flagellazione}
 
-* * * *
+##
 
 ![Jacopo Tintoretto, Última Ceia, 1594](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg){#fig:tintoretto}
 
-* * * *
+##
 
 ![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Composição quase plana.
-
 [Paolo Monti (1975)]: https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg
 
-._
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Composição quase plana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ![Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520--1555. [Andrea Jemolo (2019)][]](https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG){#fig:sagrestia-nuova}
+
+[Andrea Jemolo (2019)]: https://jemolo.com/cgi-bin/WB/slideshow.cgi?lang=it&fid=11198
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Volume escultórico reforçado pelas diferenças de tamanho entre os
 elementos.
-
-[Andrea Jemolo (2019)]: https://jemolo.com/cgi-bin/WB/slideshow.cgi?lang=it&fid=11198
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cenografia ##
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cenografia é o domínio por excelência da profundidade, ou melhor, da
@@ -318,7 +318,7 @@ aparência de profundidade.
 
 ![Cesare Cesariano, edifícios cênicos da tradução do tratado *Da Arquitetura* de Vitrúvio, 1521](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg){#fig:cesariano-cavedi}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
@@ -327,7 +327,7 @@ espírito prático à visão do classicismo como sistema global.
 
 ![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg){#fig:serlio-orders}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A contribuição de Serlio para a cenografia renascentista é amplamente
@@ -338,31 +338,27 @@ peça.
 
 ![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg){#fig:serlio-tragica}
 
-* * * *
+##
 
 ![Sebastiano Serlio, cena cômica, publicado em 1569](https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg){#fig:serlio-comica}
 
 ## Rafael ##
 
-* * * *
+##
 
 ![Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. [Charles-Louis Clérisseau (1740--1760)][]](https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg){#fig:madama-clerisseau}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Charles-Louis Clérisseau (1740--1760)]: https://www.rome-roma.net/site-rome-art.php?lieu=villa%20madama
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ![Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. [Peter1936F (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg){#fig:chigh}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Peter1936F (2014)]: https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Miguel Ângelo ##
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na biblioteca Laurenciana ([@fig:laurenziana-plan;
@@ -372,7 +368,7 @@ a questão da volumetria sobre a parede, num contexto extremo.
 
 ![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534](https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w){#fig:laurenziana-plan}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O espaço exíguo do vestíbulo da biblioteca não permite a realização de
@@ -389,7 +385,7 @@ que é, e junto com ela todo o espaço do vestíbulo.
 
 ![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2019)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg){#fig:laurenziana-scala}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para modular a superfície da parede, Miguel Ângelo se afasta do costume
@@ -399,13 +395,11 @@ encaixa os elementos da arquitetura *dentro* da espessura da parede.
 
 ![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2009)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg){#fig:laurenziana-ricetto}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Massimo Listri (2009)]: http://massimolistri.com/en/catalogo/detail/27-Florence
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Ordem colossal ##
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O enquadramento de ordens menores por ordens maiores vem das basílicas
@@ -416,7 +410,7 @@ batistério de Florença ([@fig:battistero-nord]).
 
 ![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG){#fig:battistero-nord}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alberti se vale desse expediente para resolver o contato entre as
@@ -427,7 +421,7 @@ Alberti, cada ordem ainda compõe um único "nível" do espaço.
 
 ![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O palácio Tarugi, em Montepulciano, entre Roma e Florença, é um dos
@@ -440,7 +434,7 @@ uma ordem menor.
 
 [Strafforello (1895)]: https://commons.wikimedia.org/wiki/File:Montepulciano_Palazzo_Tarugi.jpg
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A ordem colossal é usada desde então como estratégia de unificação da
@@ -449,17 +443,17 @@ fachada, uma solução especialmente popular em Roma.
 
 ![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
 
-* * * *
+##
 
 ![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg/1280px-Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg){#fig:capitolium}
 
 [J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
 
-* * * *
+##
 
 ![Miguel Ângelo Buonarroti, Capitólio, Roma, 1536--1546, planta por Paul Letarouilly](https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg){#fig:campidoglio-plan}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Combinação de ordem colossal de pilastras e ordem pequena de colunas.
@@ -467,7 +461,7 @@ Combinação de ordem colossal de pilastras e ordem pequena de colunas.
 
 ![Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536--1546](https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg){#fig:pal-nuovo}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir daí se desenvolve uma diferenciação entre, de um lado, culturas
@@ -477,25 +471,23 @@ sobreposição de ordens, como Florença e a França...
 
 ![Pierre Lescot, palácio do Louvre, reconstruído 1546--1551. Desenho de [Jacques Androuet du Cerceau (1576)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg){#fig:louvre-ducerceau}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Jacques Androuet du Cerceau (1576)]: https://commons.wikimedia.org/wiki/File:Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg
 
-._
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<!--_-->
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ...e, do outro lado, culturas que favorecem a unificação da fachada numa
 composição unitária, sobretudo por meio do uso de uma ordem colossal
 sobre pódio, que é o caso de Roma e da terra firme veneziana.
-
-[Marcok (2006)]: https://commons.wikimedia.org/wiki/File:Palazzo_del_Capitanio_-_Vicenza.jpg
-
-._
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Andrea Palladio, loggia del Capitaniato, Vicenza, 1571--1572. [Marcok (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg){#fig:capitaniato-colossal}
+
+[Marcok (2006)]: https://commons.wikimedia.org/wiki/File:Palazzo_del_Capitanio_-_Vicenza.jpg
+
+<!--_-->
 
 # Jardins da Ásia central #
 
@@ -524,7 +516,7 @@ ajardinado.
 ![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 É claro que esses jardins irão desenvolver características particulares
 nas diferentes regiões. Porém, a principal característica comum a todos
@@ -568,7 +560,7 @@ surata (O clemente) do Alcorão que diz:
 | 66 Neles haverá duas fontes a jorrar.
 | 68 Em ambos haverá frutas, tamareiras e romãzeiras.
 
-* * * *
+##
 
 ![Diagrama de um jardim persa. @drpersi:2011persian](https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png){#fig:drpersi}
 
@@ -655,7 +647,7 @@ realizam obras públicas monumentais.
 ![Impérios Otomano, Safávida e Mogol no século [XVII]{.smallcaps}. @gibault:2011chapter21](https://gibaulthistory.files.wordpress.com/2011/01/ottoman-safavid-mughal-empires.jpg){#fig:gibault}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 O império Mogol foi fundado por Babur, um descendente de Genghis Khan
 que, com o auxílio dos Safávidas e Otomanos, conseguiram conquistar o
@@ -664,7 +656,7 @@ essa nova dinastia estrangeira remete à origem étnica *mongol*.
 
 ![Expansão do império Mogol, 1526--1687](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png){#fig:mogol-1687}
 
-* * * *
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar dessa origem étnica, o império
@@ -872,7 +864,7 @@ de amor entre o xá Jahan e sua esposa Mumtaz Mahal ([@fig:mumtaz;
 ![Vista aérea do Taj Mahal](https://www.integra.unb.br/s/tau6-063-taj-aerial/preview){#fig:taj-aerial}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -1193,7 +1185,7 @@ pátio Quadrado do Louvre,
 1546--1555](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1024px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg){#fig:louvre-lescot-pp}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -1210,7 +1202,7 @@ pátio Quadrado do Louvre,
 ![Andrea Palladio, palazzo Valmarana, Vicenza, 1560](https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif){#fig:valmarana-all}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -1221,7 +1213,7 @@ pátio Quadrado do Louvre,
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -1238,7 +1230,7 @@ pátio Quadrado do Louvre,
 ![Universidade de Paris (Sorbonne), planta](https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png){#fig:sorbonne-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
