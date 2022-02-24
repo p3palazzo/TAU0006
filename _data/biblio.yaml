@@ -1553,6 +1553,7 @@ references:
     - year: 2017
       month: 1
       day: 12
+  language: it
   title: Il Barocco - parte prima
   type: post-weblog
   URL: https://potenziamentolanzi.blogspot.com/2017/01/il-barocco-parte-1.html
@@ -9428,9 +9429,9 @@ references:
   page: 28–69
   source: Crossref
   title: >-
-    De-Scribing the Language of Looking: Wölfflin and the History of Aesthetic
-    Experientialism
-  title-short: De-Scribing the Language of Looking
+    De-scribing the language of looking: Wölfflin and the history of aesthetic
+    experientialism
+  title-short: De-scribing the language of looking
   type: article-journal
   URL: https://www.jstor.org/stable/3171230?origin=crossref
 
@@ -10925,6 +10926,33 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Guillaume_Guillon_Lethi%C3%A8re_-_Patrie_en_danger_01.jpg
+
+- id: lett:2017lautheur
+  abstract: "Cet article traite de l’implication de Charles Le\_Brun sur le chantier de l’escalier des Ambassadeurs. L’analyse des comptes des Bâtiments du roi permet de mettre en évidence l’arrivée tardive du premier peintre de Louis\_XIV sur ce chantier, alors qu’il n’existait pas d’escalier peint dans les résidences princières européennes. Bien que l’architecture fût inventée vraisemblablement sans son intervention, de nombreuses sources imprimées, en particulier une série d’articles parus dans le Mercure galant dans les années 1680, considèrent Le\_Brun comme l’auteur de l’ensemble de l’ouvrage, y compris de l’architecture. S’il est probable que l’on ait fait appel à lui en raison de l’étroitesse du lieu et du choix de représenter l’histoire du roi, Le\_Brun a saisi l’opportunité de prouver ses capacités à unir les arts de l’architecture, de la sculpture et de la peinture. L’accès restreint du lieu, qui ne permettait de voir son œuvre que dans les conditions exceptionnelles des fêtes, a sans doute contribué à renforcer le désir de l’artiste de contrôler la réception de son œuvre."
+  accessed:
+    - year: 2022
+      month: 2
+      day: 24
+  author:
+    - family: Lett
+      given: Matthieu
+  citation-key: lett:2017lautheur
+  container-title: Bulletin du Centre de recherche du château de Versailles
+  DOI: 10.4000/crcv.14452
+  ISSN: 1958-9271
+  issued:
+    - year: 2017
+      month: 11
+      day: 14
+  language: fr
+  publisher: Centre de recherche du château de Versailles
+  source: journals.openedition.org
+  title: >-
+    « L’autheur de ce magnifique ouvrage » : Charles Le Brun et la réception de
+    l’escalier des Ambassadeurs
+  title-short: « L’autheur de ce magnifique ouvrage »
+  type: article-journal
+  URL: https://journals.openedition.org/crcv/14452
 
 - id: li:09--buddhist
   accessed:
@@ -15904,7 +15932,7 @@ references:
     - year: 2017
       month: 7
       day: 5
-  language: English
+  language: en
   title: Il Redentore, Palladio Venice, Italy
   type: post-weblog
   URL: >-
@@ -21626,7 +21654,7 @@ references:
   language: en-GB
   page: 302-306
   source: JSTOR
-  title: The "Aesthetics" of the Early Mannerists
+  title: The "aesthetics" of the early mannerists
   type: article-journal
   URL: http://www.jstor.org/stable/3047511
   volume: '35'

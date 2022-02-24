@@ -159,6 +159,89 @@ caso. Além de referenciar a bibliografia nas notas de rodapé, acrescente essas
 mesmas referências na seção "Referências" ao pé da página. Envie na tarefa do
 Moodle o link para a sua edição no histórico da página.
 
+## Conteúdo ##
+
+Um breve texto argumentativo (aproximadamente 1.000 palavras), ilustrado
+conforme necessário. O texto deverá:
+
+1. Expor claramente, num parágrafo introdutório, o argumento a ser
+   desenvolvido e oferecer um sucinto contexto no qual o tema se insere,
+   incluindo uma breve descrição do principal objeto a ser estudado;
+2. Desenvolver o argumento numa sequência lógica, baseando-se em
+   pesquisa bibliográfica e em análise de imagens;
+3. Concluir com uma breve exposição do resultado da pesquisa e,
+   eventualmente, das suas limitações.
+
+A escrita argumentativa acadêmica é como um jogo de bonecas russas: os
+elementos que fazem parte de um texto têm estrutura semelhante à do
+texto como um todo. Assim, um artigo ou livro tem introdução, algumas
+seções de desenvolvimento, e conclusão. Do mesmo modo, cada seção tem um
+parágrafo introdutório (eventualmente mais de um), desenvolvimento do
+argumento, e um parágrafo de conclusão ou de ligação com a seção
+seguinte. Cada parágrafo geralmente começa com uma frase que expõe o
+tópico desse parágrafo, seguida de algumas frases desenvolvendo o
+tópico, e termina com uma frase de conclusão ou de ligação com o tópico
+seguinte. Conjunções, especialmente aquelas adversativas, são formas
+correntes de se fazer essas transições, seja no início ou no final de um
+parágrafo.
+
+Neste trabalho, vamos nos concentrar no nível intermediário --- uma
+*seção* que desenvolve, em alguns parágrafos, um único argumento
+simples. Escolha um tema suficientemente restrito, que possa ser tratado
+a contento nesta forma curta. Mas o que é um texto argumentativo, e como
+escolher um tema adequado?
+
+- Um texto argumentativo não é uma simples descrição formal ou
+  cronológica de uma obra ou de um conjunto de obras;
+- No outro extremo, um texto argumentativo não precisa necessariamente
+  "resolver" um grande mistério da história da arte --- ele pode, ainda
+  mais no caso deste trabalho, revisitar questões já bem trabalhadas na
+  bibliografia existente;
+- O texto argumentativo tem um objetivo ou problema claro: uma questão
+  pontual a ser discutida, e um roteiro igualmente claro para
+  desenvolver essa discussão;
+- Alguns tipos de problemas comuns em textos de história da arte são:
+  contraste ou comparação entre obras de arte, e/ou entre argumentos de
+  outros textos; relação entre uma obra ou um artista e o seu contexto
+  (clientes, ideologias, condições de produção em geral, etc.);
+  iconografia e iconologia (análise e discussão do significado de
+  formas, composições, elementos ou figuras de uma ou mais obras); esses
+  tipos podem, eventualmente, ser combinados entre si, especialmente em
+  textos mais longos;
+- O problema deve ser dimensionado de acordo com a extensão do texto no
+  qual ele vai ser desenvolvido: é melhor tratar de um tema mais simples
+  com profundidade, do que abordar um tema complexo de modo superficial
+  e incompleto --- textos longos em geral resolvem problemas complexos
+  como um encadeamento de questões simples.
+
+Um bom texto argumentativo se serve de outros textos como apoio para a
+argumentação e como fonte de informação. É importante reconhecer a nossa
+dívida para com esses textos, portanto sempre devemos mencionar as
+referências usadas para construir argumentos ou para afirmar certas
+informações (exceto as mais corriqueiras). A maioria dos livros e
+artigos que temos à disposição faz, ao mesmo tempo, as duas coisas ---
+dá informações e constrói interpretações. É importante distinguir esses
+dois tipos diferentes de contribuições, e reconhecer que diferentes
+autores podem interpretar um mesmo fato de modos diversos. No mais
+das vezes, essas diferenças de interpretação mostram que há maneiras
+distintas de olhar para um mesmo objeto --- ou seja, que cada autor
+escolhe um problema diferente para discutir --- e não que um autor
+esteja certo e o outro, errado.
+
+## Apresentação ##
+
+Texto, ilustrado conforme necessário, a ser postado na Wikipédia.
+Não anexar arquivos.
+
+- O texto deve ter um encadeamento lógico de ideias, começando com um
+  parágrafo introdutório e terminando com um parágrafo conclusivo (não é
+  necessário separar explicitamente em seções);
+- Listar as referências bibliográficas consultadas ao final do texto;
+- Toda figura deve ter legenda informativa, e qualquer imagem usada deve
+  ser analisada no texto (é a sua razão de ser);
+- Observar mais indicações para a produção e formatação do texto nas
+  seções *Critérios de avaliação* e *Recursos e apoio*, abaixo.
+
 # Critérios de avaliação #
 
 | Critério de avaliação                                      |  Valor |
