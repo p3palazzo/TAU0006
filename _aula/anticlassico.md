@@ -5,7 +5,7 @@ item    : III
 author  : Pedro P. Palazzo
 date    : 2022-03-08
 toc:
-  - Tratamento escultórico do espaço
+  - Tratamento volumétrico do vazio
   - Vicissitudes da basílica de São Pedro
   - Da tipologia espacial ao projeto geométrico
 leitura: 539--551
@@ -14,12 +14,9 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
   caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
-  actions:
-  - label: "Slides"
-    url  : "/slides/anticlassico/"
 ---
 
-##
+# Tratamento volumétrico do vazio #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
@@ -30,11 +27,7 @@ combinações cada vez mais elaboradas das ordens da arquitetura com
 molduras, esculturas e pinturas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Tratamento escultórico do espaço #
-
-1. Espaço bem definido
-2. Continuidade do espaço em diferentes composições
-3. Hierarquia e *Poché*
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura clássica reivindica capacidade de ordenar o espaço como um
@@ -47,11 +40,16 @@ produzir um ambiente construído resiliente, útil e agradável; (b)
 unificar a comunidade profissional dos arquitetos em torno de um
 conjunto de princípios teóricos e de ferramentas técnicas partilhadas.
 Esses propósitos se articulam em torno da "descoberta" de três "leis"
-fundamentais do projeto arquitetônico: (1) o espaço bem definido; (2) a
-continuidade entre espaços; e (3) a hierarquia entre espaços.
+fundamentais do projeto arquitetônico:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Espaço bem definido ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Vazios bem definidos
+2. Continuidade dos vazios em diferentes composições
+3. Hierarquia e relação figura--fundo
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Vazios bem definidos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todo espaço arquitetônico é um espaço convexo, ou seja,
@@ -62,9 +60,9 @@ o que se entende normalmente como espaço interior --- por isso Tempietto
 - Tempietto: resolvendo problemas de relação exterior/interior
 - Claustros e ~~jardins~~
 
-## Espaço interior e fachada ##
+## Volume interior e fachada ##
 
-- Diferentes modos de ligar sequências de espaços
+- Diferentes modos de ligar sequências de vazios
 - Limites da articulação literal entre interiores e fachadas. Portego
   veneziano vs. salões romanos.
 
@@ -76,7 +74,7 @@ o que se entende normalmente como espaço interior --- por isso Tempietto
 
 ![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--11. [Desenho anônimo do século [XVI]{.smallcaps}](https://www.metmuseum.org/art/collection/search/360533)](https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image){#fig:massimo-plan}
 
-## Poché ##
+## Figura--fundo ##
 
 - Tem a ver com a solução de cantos
 - Demarca espessura da parede e permite inserção de espaços de serviço
@@ -112,7 +110,7 @@ analogias visuais é o sistema das ordens clássicas.
 - Basílica longitudinal ou planta centralizada
 - Escola de Atenas: Rafael, Bramante e a basílica
 - Sangallo e Peruzzi
-- Uso do poché
+- Relações figura--fundo (*poché*)
 
 A reconstrução da basílica de São Pedro é, talvez, o maior canteiro de
 obras do Renascimento, tanto em área construída quanto em tempo de
