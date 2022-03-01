@@ -448,9 +448,9 @@ references:
   page: 58-74
   source: JSTOR
   title: >-
-    Ordering the Orders: Claude Perrault's "Ordonnance" and the Eastern
-    Colonnade of the Louvre
-  title-short: Ordering the Orders
+    Ordering the orders: Claude Perrault's "Ordonnance" and the eastern
+    colonnade of the Louvre
+  title-short: Ordering the orders
   type: article-journal
   URL: https://www.jstor.org/stable/43876206
 
@@ -1847,9 +1847,9 @@ references:
   publisher: 'SAGE PublicationsSage UK: London, England'
   source: journals.sagepub.com
   title: >-
-    A New Palladian Shape Grammar: A Subdivision Grammar as alternative to the
-    Palladian Grammar
-  title-short: A New Palladian Shape Grammar
+    A new Palladian shape grammar: a subdivision grammar as alternative to the
+    palladian grammar
+  title-short: A new Palladian shape grammar
   type: article-journal
   URL: >-
     https://journals.sagepub.com/doi/10.1260/1478-0771.10.4.521?icid=int.sj-related-articles.similar-articles.3
@@ -1906,7 +1906,8 @@ references:
   language: en-US
   publisher: Pennsylvania State University Press
   publisher-place: University Park, Penn.
-  title: 'The Palace of the Sun: The Louvre of Louis XIV'
+  title: 'The palace of the Sun: the Louvre of Louis XIV'
+  title-short: The palace of the Sun
   type: book
 
 - id: bernabei:1990jan
@@ -2334,6 +2335,7 @@ references:
       given: Hans
   citation-key: blumenfeld:1944russian
   container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/901141
   ISSN: 1544-9890
   issue: '1'
@@ -2342,7 +2344,7 @@ references:
   language: en-US
   page: 22-33
   source: JSTOR
-  title: Russian City Planning of the 18th and Early 19th Centuries
+  title: Russian city planning of the 18^th^ and early 19^th^ centuries
   type: article-journal
   URL: http://www.jstor.org/stable/901141
   volume: '4'
@@ -9009,17 +9011,18 @@ references:
       given: Deborah
   citation-key: howard:2003venice62
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/3592517
   ISSN: 00379808, 21505926
   issue: '3'
   issued:
     - year: 2003
       month: 9
-  language: en-US
+  language: en
   page: 306-325
   source: Crossref
   title: >-
-    Venice between East and West: Marc'Antonio Barbaro and Palladio's Church of
+    Venice between East and West: Marc'Antonio Barbaro and Palladio's church of
     the Redentore
   title-short: Venice between East and West
   type: article-journal
@@ -14334,7 +14337,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: en-GB
+  language: en
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -16756,7 +16759,7 @@ references:
   event-place: New York
   issued:
     - year: 2002
-  language: en-US
+  language: en
   publisher: Scribner
   publisher-place: New York
   title: 'The Perfect House: A journey with the Renaissance architect Andrea Palladio'
@@ -17484,6 +17487,25 @@ references:
   title-short: Contestualismo
   type: article-journal
 
+- id: schumacher:1986skull3
+  author:
+    - family: Schumacher
+      given: Thomas L.
+  call-number: 72.4.012.036
+  citation-key: schumacher:1986skull3
+  container-title: The Cornell Architectural Journal
+  container-title-short: CAJ
+  issued:
+    - year: 1986
+      season: 3
+  language: en
+  page: 4–11
+  title: 'The skull and the mask: the modern movement and the dilemma of the facade'
+  title-short: The skull and the mask
+  type: article-journal
+  URL: http://issuu.com/cornellaap/docs/cja003-opt
+  volume: '3'
+
 - id: schumacher:1987deep
   author:
     - family: Schumacher
@@ -17510,10 +17532,11 @@ references:
   call-number: '72.034.6(45) : 72:4'
   citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
+  container-title-short: CJA
   issued:
     - year: 1987
       season: 3
-  language: en-US
+  language: en
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
@@ -18624,7 +18647,7 @@ references:
     - year: 1967
   language: it
   page: 385-398
-  title: J. Barozzi da Vignola e la crisi del Manierismo a Roma
+  title: J. Barozzi da Vignola e la crisi del manierismo a Roma
   type: article-journal
   URL: https://www.palladiomuseum.org/annali/1967/30/pdf
 

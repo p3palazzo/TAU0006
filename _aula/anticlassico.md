@@ -6,7 +6,7 @@ author  : Pedro P. Palazzo
 date    : 2022-03-08
 toc:
   - Composição
-  - Instrumentos de ordenamento
+  - Parataxis
   - Projeto iterativo
   - Espaço geométrico
 leitura: 539--551
@@ -20,13 +20,18 @@ header:
 # Composição #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
+O início do século [XVI]{.smallcaps} na Itália é um período de
+consolidação e de
 aquisição de desenvoltura no manejo dos elementos arquitetônicos e
 espaciais clássicos. Essa consolidação resulta na livre manipulação
 plástica de superfícies construídas e de espaços e na exploração de
 combinações cada vez mais elaboradas das ordens da arquitetura com
 molduras, esculturas e pinturas.
 
+No Renascimento, em geral não vamos falar em "projeto" arquitetônico e
+sim em "composição". A palavra *projeto* se refere a um modo de planejar
+o uso do espaço com base em requisitos abstratos; já a *composição* quer
+dizer organizar elementos de um repertório preexistente.
 O processo de transformação da arquitetura renascentista consiste em
 passar de uma *aplicação* de soluções preestabelecidas --- os *tipos*
 --- para a *composição* de formas volumétricas elementares em
@@ -49,13 +54,13 @@ produzir um ambiente construído resiliente, útil e agradável; (b)
 unificar a comunidade profissional dos arquitetos em torno de um
 conjunto de princípios teóricos e de ferramentas técnicas partilhadas.
 Esses propósitos se articulam em torno da invenção de três "leis"
-fundamentais do projeto arquitetônico:
+fundamentais da composição arquitetônica:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 1. Vazios bem definidos
-2. Continuidade dos vazios em diferentes composições
 3. Hierarquia e relação figura--fundo
+2. Continuidade dos vazios em diferentes composições
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Vazios bem definidos ##
@@ -172,23 +177,26 @@ delimitado: o pátio do Belvedere, projetado por Bramante em 1505
 ([@fig:belvedere]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Volume interior e fachada ##
+## {data-background-image="https://images.metmuseum.org/CRDImages/dp/original/DP834471.jpg" data-background-size="contain"}
+
+![Philibert De l'Orme, projeto para a capela do castelo de Anet, França. Gravura baseada em desenho de [Jacques I Androuet Du Cerceau, c. 1555][]](https://images.metmuseum.org/CRDImages/dp/original/DP834471.jpg){#fig:anet .slide-bg}
+
+[Jacques I Androuet Du Cerceau, c. 1555]: https://www.metmuseum.org/art/collection/search/399304
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Diferentes modos de ligar sequências de vazios
-- Limites da articulação literal entre interiores e fachadas. Portego
-  veneziano vs. salões romanos.
+Justamente por isso, muitas das obras mais celebradas do alto
+Renascimento são ou volumes singulares, eventualmente com alguns
+apêndices subsidiários, como a capela de Philibert De l'Orme no castelo
+de Anet ([@fig:anet]), ou superfícies planas de fachadas, como a igreja
+de São Roque, em Lisboa, pelo engenheiro italiano Filippo Terzi
+([@fig:roque]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/2560px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lisboa-Igreja_de_São_Roque-20140917.jpg/2276px-Lisboa-Igreja_de_São_Roque-20140917.jpg" data-background-size="contain" data-background-position="right"}
 
-![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--1511. Foto: [Pedro P. Palazzo, 2015][palazzo:2015massimo]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/1023px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg){#fig:massimo-fac}
+![Filippo Terzi com Afonso e Bartolomeu Álvares, igreja de São Roque, Lisboa, iniciada 1553. Foto: [Daniel Villafruela, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lisboa-Igreja_de_São_Roque-20140917.jpg/853px-Lisboa-Igreja_de_São_Roque-20140917.jpg){#fig:roque .slide-bg}
 
-[palazzo:2015massimo]: https://commons.wikimedia.org/wiki/File:It-roma-pal_massimo_colonne-150813-pp-2406.jpg
-
-## {data-background-image="https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image"}
-
-![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--11. [Desenho anônimo do século [XVI]{.smallcaps}](https://www.metmuseum.org/art/collection/search/360533)](https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image){#fig:massimo-plan}
+[Daniel Villafruela, 2014]: https://commons.wikimedia.org/wiki/File:Lisboa-Igreja_de_São_Roque-20140917.jpg
 
 ## Figura--fundo ##
 
@@ -199,15 +207,65 @@ delimitado: o pátio do Belvedere, projetado por Bramante em 1505
 - Escadarias
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/2560px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As condicionantes funcionais e espaciais dos palácios urbanos não
+permitem a pureza formal de algumas dessas obras ideais do Renascimento.
+Então, começamos a ver as acomodações que podem ser feitas no
+ordenamento idealizado. Essas acomodações dizem respeito tanto à forma
+de elementos singulares (salas ou elevações) quanto ao modo de ligar
+volumes entre si.
+
+Para compreender essas acomodações, primeiro precisamos nos desembaraçar
+de alguns pressupostos modernistas, como o de que a fachada precisa
+estar coordenada com o interior da edificação [@schumacher:1986skull3].
+Isso está longe de ser o caso na arquitetura tradicional; a fachada de
+um edifício erudito como o palácio Massimo alle colonne, da primeira
+metade do século [XVI]{.smallcaps}, tem a sua própria lógica de
+composição, baseada na regularidade e na expressão contínua do "andar
+nobre", que é o primeiro piso e o nível, por assim dizer, social e
+cerimonial do palácio ([@fig:massimo-fac]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--1511. Foto: [Pedro P. Palazzo, 2015][palazzo:2015massimo]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/1023px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg){#fig:massimo-fac .slide-bg}
+
+[palazzo:2015massimo]: https://commons.wikimedia.org/wiki/File:It-roma-pal_massimo_colonne-150813-pp-2406.jpg
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/letarouilly-massimo-8789135-1080p.png"}
+
+![Peruzzi, palácio Massimo alle colonne, plantas levantadas em [Letarouilly, *Édifices de Rome moderne*, 1840][], v. 3](https://hcommons.org/app/uploads/sites/1002372/2022/03/letarouilly-massimo-8789135-1080crop.png){#fig:massimo-plans .line .slide-bg}
+
+[Letarouilly, *Édifices de Rome moderne*, 1840]: http://www.e-rara.ch/zut/8787968
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Salão no andar nobre não está centralizado na fachada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Preferência para a forma de cada vazio importante, acomodações nas
+ligações entre eles (axialidades deslocadas) e nos espaços secundários
+([@fig:massimo-plan]). Pouco a pouco, os arquitetos do Renascimento
+aceitam a verticalidade dos palácios de origem medieval, em oposição ao
+ideal clássico de que tudo o que é importante acontece no térreo. Com
+isso, as escadarias vão ganhando monumentalidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--11. Planta do térreo: [anônimo do século [XVI]{.smallcaps}](https://www.metmuseum.org/art/collection/search/360533)](https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image){#fig:massimo-plan .slide-bg}
+
+## Tipologia compositiva ##
+
+<!--Continuidade dos vazios em diferentes composições.-->
+
 ## Palladio ##
 
-## Registro bucólico ##
-
-[@tafuri:1969committenza]
-
-## Permutações ##
-
-## Dos *Quatro Livros* a Scamozzi ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Tipologia ↔ classe social, patriciado rural [@tafuri:1969committenza]
+- Permutações [@schumacher:1987palladio]
+- Legado: Scamozzi, Inigo Jones
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Conclusão ##
 
@@ -220,11 +278,11 @@ concretas. O principal instrumento artístico usado para realizar essas
 analogias visuais é o sistema das ordens clássicas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Instrumentos de ordenamento #
+# Parataxis #
+
+## Instrumentos de ordenamento ##
 
 ## Conceitos ##
-
-##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
