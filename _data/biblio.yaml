@@ -8138,7 +8138,7 @@ references:
   page: 7-7.12
   source: disegnarecon.univaq.it
   title: >-
-    Parametric grammar: the shape of villa giulia, between cognitive coherence
+    Parametric grammar: the shape of Villa Giulia, between cognitive coherence
     and data enrichment
   title-short: Parametric grammar
   type: article-journal
@@ -14774,6 +14774,30 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
 
+- id: perez-gomez:1982architecture36
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Pérez-Gómez
+      given: Alberto
+  citation-key: perez-gomez:1982architecture36
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424613
+  ISSN: '01492993'
+  issue: '2'
+  issued:
+    - year: 1982
+      season: 4
+  language: en-US
+  page: '2'
+  source: Crossref
+  title: Architecture as drawing
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424613?origin=crossref
+  volume: '36'
+
 - id: perez-gomez:1983architecture
   author:
     - family: Pérez-Gómez
@@ -14790,30 +14814,6 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Architecture and the crisis of modern science
   type: book
-
-- id: perez-gomez:24architecture36
-  accessed:
-    - year: 2019
-      month: 5
-      day: 15
-  author:
-    - family: Pérez-Gómez
-      given: Alberto
-  citation-key: perez-gomez:24architecture36
-  container-title: Journal of Architectural Education
-  DOI: 10.2307/1424613
-  ISSN: '01492993'
-  issue: '2'
-  issued:
-    - year: 1982
-      season: 4
-  language: en-US
-  page: '2'
-  source: Crossref
-  title: Architecture as Drawing
-  type: article-journal
-  URL: https://www.jstor.org/stable/1424613?origin=crossref
-  volume: '36'
 
 - id: pergiel:2016medici
   accessed:
