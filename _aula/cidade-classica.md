@@ -6,9 +6,15 @@ author  : Pedro P. Palazzo
 date    : 2022-03-15
 toc:
   - Geometria da fortificação à praça real
-  - Bioclimatismo e arquitetura clássica
+  - Urbanização colonial
   - Modos de morar no Mediterrâneo moderno
+  - Bioclimatismo e arquitetura clássica
 leitura: 552--572
+header:
+  overlay_image:
+  caption:
+title-slide-attributes:
+  data-background-image:
 ---
 
 # Geometrias da fortificação à praça real #
@@ -150,17 +156,7 @@ bonificação do vale do Po na região de Gualtieri.
 
 ## Plazas mayores ##
 
-# Bioclimatismo e arquitetura clássica #
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Classicismo não é one size fits all
-- Iluminação, ventilação, sombreamento e aquecimento
-- Confrontações: Itália, Espanha, França e Inglaterra
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg"}
-
-![Robert Smythson, Hardwick hall, Ault Hucknall, 1590--1597](https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg){#fig:hardwick-ext}
+# Urbanização colonial #
 
 # Modos de morar no Mediterrâneo moderno #
 
@@ -273,6 +269,18 @@ Gianfranco Caniggia e Gian Luigi Maffei, *Lettura dell'edilizia di base*, 1979
 - Chambord
 - Madrid
 - Louvre
+
+# Bioclimatismo e arquitetura clássica #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Classicismo não é one size fits all
+- Iluminação, ventilação, sombreamento e aquecimento
+- Confrontações: Itália, Espanha, França e Inglaterra
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg"}
+
+![Robert Smythson, Hardwick hall, Ault Hucknall, 1590--1597](https://davidoakesimages.files.wordpress.com/2014/11/hardwick-00326.jpg){#fig:hardwick-ext}
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 

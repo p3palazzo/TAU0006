@@ -5,18 +5,19 @@ item    : III
 author  : Pedro P. Palazzo
 date    : 2022-03-08
 toc:
-  - Tratamento volumétrico do vazio
-  - Vicissitudes da basílica de São Pedro
-  - Da tipologia espacial ao projeto geométrico
+  - Composição
+  - Instrumentos de ordenamento
+  - Projeto iterativo
+  - Espaço geométrico
 leitura: 539--551
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
+  data-background-image: https://i.pinimg.com/originals/db/e5/cd/dbe5cd7d5715ff9c5f2fc619d9115214.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
   caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
 ---
 
-# Tratamento volumétrico do vazio #
+# Composição #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
@@ -25,9 +26,17 @@ espaciais clássicos. Essa consolidação resulta na livre manipulação
 plástica de superfícies construídas e de espaços e na exploração de
 combinações cada vez mais elaboradas das ordens da arquitetura com
 molduras, esculturas e pinturas.
+
+O processo de transformação da arquitetura renascentista consiste em
+passar de uma *aplicação* de soluções preestabelecidas --- os *tipos*
+--- para a *composição* de formas volumétricas elementares em
+permutações cada vez mais variadas. A capacidade de manipular livremente
+os volumes geométricos, por sua vez, vai levar ao desenvolvimento do
+projeto iterativo, ou seja, a resolução de problemas espaciais sem
+formas definidas *a priori*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Tratamento volumétrico do vazio ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura clássica reivindica capacidade de ordenar o espaço como um
@@ -39,7 +48,7 @@ enquanto formação profissional, tem dois propósitos centrais: (a)
 produzir um ambiente construído resiliente, útil e agradável; (b)
 unificar a comunidade profissional dos arquitetos em torno de um
 conjunto de princípios teóricos e de ferramentas técnicas partilhadas.
-Esses propósitos se articulam em torno da "descoberta" de três "leis"
+Esses propósitos se articulam em torno da invenção de três "leis"
 fundamentais do projeto arquitetônico:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -51,24 +60,131 @@ fundamentais do projeto arquitetônico:
 
 ## Vazios bem definidos ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Todo espaço arquitetônico é um espaço convexo, ou seja,
-o que se entende normalmente como espaço interior --- por isso Tempietto
-é um paradigma de perfeição que não tem futuro.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg/2560px-Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg"}
+
+![Donato Bramante, "Tempietto" de S. Pietro in Montorio, Roma, 1502--1510. [Gravura francesa c. 1700][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg/999px-Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg){#fig:tempietto-stich .slide-bg}
+
+[Gravura francesa c. 1700]: https://commons.wikimedia.org/wiki/File:Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg
+
+<!--_-->
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=32%}
+![Pietro Perugino, [Esponsais da Virgem Maria, 1500][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Perugino_marriage_virgin_1504_(22170197579).jpg/583px-Perugino_marriage_virgin_1504_(22170197579).jpg){#fig:sposalizio-perugino .fragment .nobg}
+:::
+::: {.column width=30%}
+![Rafael Sanzio, [Esponsais da Virgem Maria, 1504][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg/535px-Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg){#fig:sposalizio-raffaello .fragment}
+:::
+::: {.column width=31.5%}
+![Donato Bramante, [Tempietto de S. Pietro in Montorio, Roma, 1502--1510][jtsh26:2017tempietto]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg/569px-Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg){#fig:tempietto-foto .fragment}
+:::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Tempietto: resolvendo problemas de relação exterior/interior
-- Claustros e ~~jardins~~
+[Esponsais da Virgem Maria, 1500]: https://commons.wikimedia.org/wiki/File:Perugino_marriage_virgin_1504_(22170197579).jpg
+
+[jtsh26:2017tempietto]: https://commons.wikimedia.org/wiki/File:Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg
+
+[Esponsais da Virgem Maria, 1504]: https://commons.wikimedia.org/wiki/File:Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+O domínio da linguagem clássica da arquitetura se dá, num primeiro
+momento, por meio da mesma lógica da perspectiva pictórica: dispor
+objetos num espaço contínuo, como o templo  de Jerusalém que aparece
+como um objeto isolado na esplanada das pinturas de Perugino e do seu
+aluno Rafael ([@fig:sposalizio-perugino; @fig:sposalizio-raffaello]).
+
+O *tempietto* ou "pequeno templo" construído por Donato Bramante nos
+arredores de Roma é a versão em pedra e cal desses templos
+([@fig:tempietto-foto]); os três artistas trabalharam por alguns anos em
+Urbino antes de Bramante e mais tarde Rafael se mudarem para Roma. É
+possível que a ideia do templo circular tenha sido partilhada entre
+eles.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8f/3597MilanoSSatiroInside.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas essa perfeição do objeto isolado no espaço em perspectiva não é um
+paradigma viável na prática da arquitetura no Renascimento. A capela e o
+claustro são os tipos mais característicos da espacialidade
+renascentista enquanto vazio delimitado por superfícies articuladas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Bramante, igreja de S. Maria presso San Satiro, Milão, 1476--1482. Foto: [Geobia, 2013][]](https://upload.wikimedia.org/wikipedia/commons/8/8f/3597MilanoSSatiroInside.JPG){#fig:satiro .slide-bg}
+
+[Geobia, 2013]: https://commons.wikimedia.org/wiki/File:3597MilanoSSatiroInside.JPG
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg"}
+
+![Bramante, claustro de S. Maria della Pace, Roma, 1500--1504. Foto: [Marie-Lan Nguyen, 2013][jastrow:2013chiostro]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1020px-Chiostro_SM_della_Pace.jpg){#fig:chiostro-pace .slide-bg}
+
+[jastrow:2013chiostro]: https://commons.wikimedia.org/wiki/File:Chiostro_SM_della_Pace.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg"}
+
+![Claustro de S. Maria della Pace, detalhe da pilastra de canto. Foto: [M.M., 2013][mm:2013angolo]](https://upload.wikimedia.org/wikipedia/commons/9/9f/RomaChiostroBramante-OrdineInferioreAngolo.jpg){#fig:chiostro-pace-angolo .align-right}
+
+[mm:2013angolo]: https://commons.wikimedia.org/wiki/File:RomaChiostroBramante-OrdineInferioreAngolo.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O claustro que Bramante projetou para a igreja de Santa Maria della
+Pace, em Roma ([@fig:chiostro-pace]), mostra como o sistema espacial
+abstrato da perspectiva pode ser usada para compor um espaço recluso. As
+arcadas articuladas com pilastras jônicas no térreo estão alinhadas numa
+malha inflexível que determina os eixos dos pilares. Isso faz com que a
+pilastra de canto esteja quase totalmente engolida pelo cruzamento das
+arcadas perpendiculares ([@fig:chiostro-pace-angolo]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/3_Estancia_del_Sello_(Escuela_de_Atenas).jpg/2560px-3_Estancia_del_Sello_(Escuela_de_Atenas).jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Escola de Atenas ([@fig:atene]): dupla camada de vazio bem definido ---
+tratamento da superfície murária na sala dos tratados no Vaticano, e
+sequência de vazios no espaço da pintura representando a nave da
+basílica de São Pedro. Não há mais objetos arquitetônicos ideais no
+espaço ilimitado da perspectiva, mas o próprio espaço é delimitado pela
+arquitetura. O ponto de fuga coincide com o centro temático da imagem,
+entre Platão e Aristóteles.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Rafael Sanzio, [Escola de Atenas, 1509][]. Afresco no palácio do Vaticano, stanza della Segnatura](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/3_Estancia_del_Sello_(Escuela_de_Atenas).jpg/990px-3_Estancia_del_Sello_(Escuela_de_Atenas).jpg){#fig:atene .slide-bg}
+
+[Escola de Atenas, 1509]: https://commons.wikimedia.org/wiki/File:3_Estancia_del_Sello_(Escuela_de_Atenas).jpg
+
+## {data-background-image="https://i.pinimg.com/originals/38/a0/52/38a052bb4b7f48aecaa1f9d555b3c39a.jpg"}
+
+![Bramante, pátio do Belvedere, palácio do Vaticano, iniciado 1505. Desenho: [Giovanni Antonio Dosio, entre 1558 e 1561][]](https://i.pinimg.com/originals/38/a0/52/38a052bb4b7f48aecaa1f9d555b3c39a.jpg){#fig:belvedere .slide-bg}
+
+[Giovanni Antonio Dosio, entre 1558 e 1561]: https://commons.wikimedia.org/wiki/File:Giovanni_antonio_dosio,_cortile_del_belvedere_secondo_il_progetto_del_Bramante.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A vista da janela dessa sala para o exterior também dava num espaço
+delimitado: o pátio do Belvedere, projetado por Bramante em 1505
+([@fig:belvedere]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Volume interior e fachada ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Diferentes modos de ligar sequências de vazios
 - Limites da articulação literal entre interiores e fachadas. Portego
   veneziano vs. salões romanos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/2560px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg"}
 
-![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--1511. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:It-roma-pal_massimo_colonne-150813-pp-2406.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/1023px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg){#fig:massimo-fac}
+![Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509--1511. Foto: [Pedro P. Palazzo, 2015][palazzo:2015massimo]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/1023px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg){#fig:massimo-fac}
+
+[palazzo:2015massimo]: https://commons.wikimedia.org/wiki/File:It-roma-pal_massimo_colonne-150813-pp-2406.jpg
 
 ## {data-background-image="https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image"}
 
@@ -76,14 +192,18 @@ o que se entende normalmente como espaço interior --- por isso Tempietto
 
 ## Figura--fundo ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Tem a ver com a solução de cantos
 - Demarca espessura da parede e permite inserção de espaços de serviço
 - Manipulações plásticas do primeiro Miguel Ângelo em Florença
 - Escadarias
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Palladio ##
 
 ## Registro bucólico ##
+
+[@tafuri:1969committenza]
 
 ## Permutações ##
 
@@ -100,7 +220,247 @@ concretas. O principal instrumento artístico usado para realizar essas
 analogias visuais é o sistema das ordens clássicas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Vicissitudes da basílica de São Pedro #
+# Instrumentos de ordenamento #
+
+## Conceitos ##
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png){#fig:woelfflin-1924 width=100%}
+:::
+::: {.column width=50%}
+![Giulio Carlo Argan (1909--1992). [Artribune][]](https://cdn07.artribune.com/wp-content/uploads/2015/09/Giulio-Carlo-Argan-negli-anni-80.jpg){#fig:argan-senato width=100%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Eduard Wasow 1924]: https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png
+
+[Artribune]: https://www.artribune.com/professioni-e-professionisti/didattica/2015/09/didattica-storia-arte-giulio-carlo-argan-scuola-formazione/
+
+<!--_-->
+
+## Plano e recessão ##
+
+##
+
+![Piero della Francesca. Flagelação de Cristo, 1468--1470](https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg){#fig:flagellazione}
+
+##
+
+![Jacopo Tintoretto, Última Ceia, 1594](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg){#fig:tintoretto}
+
+##
+
+![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia}
+
+[Paolo Monti (1975)]: https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Composição quase plana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+![Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520--1555. [Andrea Jemolo (2019)][]](https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG){#fig:sagrestia-nuova}
+
+[Andrea Jemolo (2019)]: https://jemolo.com/cgi-bin/WB/slideshow.cgi?lang=it&fid=11198
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Volume escultórico reforçado pelas diferenças de tamanho entre os
+elementos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Cenografia ##
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A cenografia é o domínio por excelência da profundidade, ou melhor, da
+aparência de profundidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cesare Cesariano, edifícios cênicos da tradução do tratado *Da Arquitetura* de Vitrúvio, 1521](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg){#fig:cesariano-cavedi}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
+espírito prático à visão do classicismo como sistema global.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg){#fig:serlio-orders}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A contribuição de Serlio para a cenografia renascentista é amplamente
+reconhecida por dois aspectos principais: o uso da perspectiva forçada e
+a caracterização dos diferentes tipos de cenários segundo o caráter da
+peça.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg){#fig:serlio-tragica}
+
+##
+
+![Sebastiano Serlio, cena cômica, publicado em 1569](https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg){#fig:serlio-comica}
+
+## Rafael ##
+
+##
+
+![Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. [Charles-Louis Clérisseau (1740--1760)][]](https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg){#fig:madama-clerisseau}
+
+[Charles-Louis Clérisseau (1740--1760)]: https://www.rome-roma.net/site-rome-art.php?lieu=villa%20madama
+
+##
+
+![Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. [Peter1936F (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg){#fig:chigh}
+
+[Peter1936F (2014)]: https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg
+
+## Miguel Ângelo ##
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na biblioteca Laurenciana ([@fig:laurenziana-plan;
+@fig:laurenziana-scala; @fig:laurenziana-ricetto]), Miguel Ângelo retoma
+a questão da volumetria sobre a parede, num contexto extremo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534](https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w){#fig:laurenziana-plan}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço exíguo do vestíbulo da biblioteca não permite a realização de
+jogos volumétricos muito desenvolvidos. Miguel Ângelo usa, então, essa
+falta de espaço para realçar a volumetria dos elementos construtivos, a
+começar pela escadaria monumentalizada.
+
+A relação entre a altura dos degraus e a do guarda-corpo mostra uma das
+estratégias que o artista usa para fazer a escadaria parecer maior do
+que é, e junto com ela todo o espaço do vestíbulo.
+
+[Massimo Listri (2019)]: http://massimolistri.com/en/catalogo/detail/27-Florence
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2019)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg){#fig:laurenziana-scala}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para modular a superfície da parede, Miguel Ângelo se afasta do costume
+de aplicar as pilastras e colunas *à frente* da superfície da parede, e
+encaixa os elementos da arquitetura *dentro* da espessura da parede.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2009)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg){#fig:laurenziana-ricetto}
+
+[Massimo Listri (2009)]: http://massimolistri.com/en/catalogo/detail/27-Florence
+
+## Ordem colossal ##
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O enquadramento de ordens menores por ordens maiores vem das basílicas
+da Roma antiga, e especialmente da descrição da basílica em Fano por
+Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
+batistério de Florença ([@fig:battistero-nord]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG){#fig:battistero-nord}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Alberti se vale desse expediente para resolver o contato entre as
+capelas laterais e a nave central na basílica de Santo André, um dos
+seus últimos projetos ([@fig:mantua-int]). No entanto, na solução de
+Alberti, cada ordem ainda compõe um único "nível" do espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O palácio Tarugi, em Montepulciano, entre Roma e Florença, é um dos
+primeiros a exibir uma ordem de colunas que abarca dois pavimentos, mas
+trata-se de uma composição unitária: a ordem colossal não interage com
+uma ordem menor.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Antonio da Sangallo, o velho (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. [Strafforello (1895)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi-persp}
+
+[Strafforello (1895)]: https://commons.wikimedia.org/wiki/File:Montepulciano_Palazzo_Tarugi.jpg
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A ordem colossal é usada desde então como estratégia de unificação da
+fachada, uma solução especialmente popular em Roma.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
+
+##
+
+![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg/1280px-Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg){#fig:capitolium}
+
+[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
+
+##
+
+![Miguel Ângelo Buonarroti, Capitólio, Roma, 1536--1546, planta por Paul Letarouilly](https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg){#fig:campidoglio-plan}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Combinação de ordem colossal de pilastras e ordem pequena de colunas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536--1546](https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg){#fig:pal-nuovo}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir daí se desenvolve uma diferenciação entre, de um lado, culturas
+arquitetônicas que favorecem a marcação dos pavimentos por meio da
+sobreposição de ordens, como Florença e a França...
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Pierre Lescot, palácio do Louvre, reconstruído 1546--1551. Desenho de [Jacques Androuet du Cerceau (1576)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg){#fig:louvre-ducerceau}
+
+[Jacques Androuet du Cerceau (1576)]: https://commons.wikimedia.org/wiki/File:Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg
+
+<!--_-->
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+...e, do outro lado, culturas que favorecem a unificação da fachada numa
+composição unitária, sobretudo por meio do uso de uma ordem colossal
+sobre pódio, que é o caso de Roma e da terra firme veneziana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Andrea Palladio, loggia del Capitaniato, Vicenza, 1571--1572. [Marcok (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg){#fig:capitaniato-colossal}
+
+[Marcok (2006)]: https://commons.wikimedia.org/wiki/File:Palazzo_del_Capitanio_-_Vicenza.jpg
+
+<!--_-->
+
+## Linear e pictórico ##
+
+# Projeto iterativo #
+
+## Vicissitudes da basílica de São Pedro ##
 
 ## 
 
@@ -204,7 +564,9 @@ serão, assim como em Alberti, uma referência à basílica de Constantino.
 
 ### Indícios do projeto de Bramante ###
 
-![Rafael Sanzio, Escola de Atenas, afresco na stanza della Segnatura, palácio do Vaticano, 1509](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/3_Estancia_del_Sello_(Escuela_de_Atenas).jpg/990px-3_Estancia_del_Sello_(Escuela_de_Atenas).jpg){#fig:atenas-bramante}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Escola de Atenas (ver [@fig:atene])
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg/2560px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg" data-background-size="contain"}
 
@@ -285,6 +647,8 @@ gigantesca da basílica de São Pedro.
 
 ![Caspar van Wittel, [São Pedro em Roma, 1711](https://commons.wikimedia.org/wiki/File:Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg){#fig:vanwittel-spietro .full}
 
+<!--_-->
+
 ## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -297,7 +661,7 @@ São Pedro no Vaticano constitui a matéria-prima para as explorações
 formais, espaciais e estruturais da arquitetura europeia no século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Da tipologia espacial ao projeto geométrico #
+# Espaço geométrico #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Segundo Argan, mas alertar sobre noção de "progresso"
