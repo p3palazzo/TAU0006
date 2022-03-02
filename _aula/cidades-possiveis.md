@@ -1173,7 +1173,7 @@ construção de casas geminadas, as *machiya*.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg"}
 
-![Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do [município de Himeji](https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji}
+![Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do [museu histórico da província de Hyōgo](https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de
