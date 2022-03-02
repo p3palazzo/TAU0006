@@ -3637,6 +3637,33 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg
 
+- id: cataneo:1567architettura
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Cataneo
+      given: Pietro
+  citation-key: cataneo:1567architettura
+  DOI: 10.3931/e-rara-9238
+  edition: >-
+    Alla quale oltre all'essere stati dall'istesso autore riuisti, meglio
+    ordinati e di diuersi disegni, e discorsi arricchiti i primi quattro libri
+    per l'adietro stampati, sono aggiunti di piu il quinto, sesto, settimo e
+    ottauo libro ...
+  event-place: Venezia
+  issued:
+    - year: 1567
+  language: it
+  publisher: Aldo Manuzio
+  publisher-place: Venezia
+  source: Library Catalog (Visual Library 2021)
+  title: L' architettura
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-9238
+
 - id: category:bonaccorso
   accessed:
     - year: 2020
@@ -4526,7 +4553,6 @@ references:
   language: fr
   source: Wikimedia Commons
   title: Vue aérienne de la ville d'Aigues Mortes
-  title-short: Français
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Aigues_mortes_vu_du_ciel_1.jpg
 
@@ -5590,8 +5616,8 @@ references:
   language: en-US
   page: e1201
   source: DOI.org (Crossref)
-  title: 'The Golden Beauty: Brain Response to Classical and Renaissance Sculptures'
-  title-short: The Golden Beauty
+  title: 'The golden beauty: brain response to classical and renaissance sculptures'
+  title-short: The golden beauty
   type: article-journal
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
@@ -5927,7 +5953,7 @@ references:
   URL: https://www.jstor.org/stable/1586743
   volume: '10'
 
-- id: duomo:a
+- id: 'duomo:'
   abstract: >-
     Arnolfo di Cambio had intended to cover the enormous space of 45,50 metres
     with a dome. No one really knew how to place a dome over such a wide space.
@@ -5935,7 +5961,7 @@ references:
     - year: 2020
       month: 8
       day: 1
-  citation-key: duomo:a
+  citation-key: 'duomo:'
   language: en-GB
   source: www.teggelaar.com
   title: 'The Duomo or the Santa Maria del Fiore: Brunelleschi''s Dome'
@@ -11390,6 +11416,31 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ambrogio_lorenzetti,_storie_di_san_nicola,_da_s._procolo_a_firenze,_1332-34_ca._(uffizi)_02_elemosina_della_dote_per_tre_fanciulle_povere_00.jpg
 
+- id: lorini:1609fortificationi
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Lorini
+      given: Buonaiuto
+  citation-key: lorini:1609fortificationi
+  DOI: 10.3931/e-rara-46829
+  edition: >-
+    Nvovamente ristampate, corrette & ampliate di tutto quello che mancaua per
+    la lor compita perfettione, con l'aggivnta del sesto libro
+  event-place: Venetia
+  issued:
+    - year: 1609
+  language: it
+  publisher: Francesco Rampazetto
+  publisher-place: Venetia
+  source: Library Catalog (Visual Library 2021)
+  title: Le fortificationi
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-46829
+
 - id: lotz:1998arquitetura
   author:
     - family: Lotz
@@ -14128,7 +14179,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Firenze_kosciol_Santa_Maria_Novella_3.jpg
 
-- id: overton:1774
+- id: overton:1774temple
   abstract: >-
     First published in 1766 as: Original designs of temples and other ornamental
     buildings for parks and gardens, in the Greek, Roman, and Gothic taste;
@@ -14147,7 +14198,7 @@ references:
     - family: Taylor
       given: Isaac
   call-number: '283927'
-  citation-key: overton:1774
+  citation-key: overton:1774temple
   event-place: London
   issued:
     - year: 1774
@@ -15252,7 +15303,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1680
-  language: Portuguese
+  language: pt
   publisher: Antonio Craesbeeck de Mello
   publisher-place: Lisboa
   source: catalogo.bnportugal.gov.pt Library Catalog
@@ -17425,7 +17476,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
 
-- id: schapiro:24criteria1
+- id: schapiro:1970criteria1
   accessed:
     - year: 2019
       month: 8
@@ -17437,7 +17488,7 @@ references:
       given: H. W.
     - family: Gombrich
       given: E. H.
-  citation-key: schapiro:24criteria1
+  citation-key: schapiro:1970criteria1
   container-title: New Literary History
   DOI: 10.2307/468623
   ISSN: '00286087'
@@ -20108,7 +20159,7 @@ references:
   event-place: London
   issued:
     - year: 1913
-  language: en-GB
+  language: en
   number-of-pages: '372'
   publisher: A. and C. Black
   publisher-place: London
