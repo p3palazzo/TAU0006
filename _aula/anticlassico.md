@@ -817,27 +817,23 @@ cada vez mais complexo de massas.
 
 ![Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568. @fletcher:1905history](http://www.wikitecnica.com/wp-content/uploads/2013/11/725_chiesa_del_gesù-1024x814.jpg){#fig:gesu-fletcher}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/3864px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/3864px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568--1584. @gemini:2019chiesa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/576px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg){#fig:gesu-nave}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568--1584. @gemini:2019chiesa](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/576px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg){#fig:gesu-nave .slide-bg}
+
+<!--_-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1280px-Gesù-Cupola01-SteO153.JPG"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Cúpula da igreja do Gesù, Roma, estrutura de Giacomo Della Porta, afrescos de Giovan Battista Gaulli « il Baccicio », 1674--1679. @steo153:2007dome](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1024px-Gesù-Cupola01-SteO153.JPG){#fig:gesu-cupola}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cúpula da igreja do Gesù, Roma, estrutura de Giacomo Della Porta, afrescos de Giovan Battista Gaulli « il Baccicio », 1674--1679. @steo153:2007dome](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1024px-Gesù-Cupola01-SteO153.JPG){#fig:gesu-cupola .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1280px-Triumph_St_Ignatius_Pozzo.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Andrea Pozzo, Apoteose de Santo Inácio de Loiola, 1685. Afresco na abóbada da nave da igreja de Santo Inácio, Roma](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1024px-Triumph_St_Ignatius_Pozzo.jpg){#fig:pozzo-apoteosi}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Andrea Pozzo, Apoteose de Santo Inácio de Loiola, 1685. Afresco na abóbada da nave da igreja de Santo Inácio, Roma](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1024px-Triumph_St_Ignatius_Pozzo.jpg){#fig:pozzo-apoteosi .slide-bg}
 
 ## {data-background-image="http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg"}
 
-![Plautilla Bricci, villa Il Vascello (o navio), Roma, 1647, fachada principal](http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg){#fig:vascello-fac}
+![Plautilla Bricci, villa Il Vascello (o navio), Roma, 1647, fachada principal](http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg){#fig:vascello-fac .slide-bg}
 
 ## 
 
@@ -867,13 +863,11 @@ Plautilla Bricci, fachadas laterais da villa Il Vascello
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1280px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Carlo Rainaldi, Santa Maria dei Miracoli, Roma, 1675 (direita). Gianlorenzo Bernini, Santa Maria in Montesanto, 1679 (esquerda). @halun:2014twin](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1024px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg){#fig:miracoli-montesanto}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Carlo Rainaldi, Santa Maria dei Miracoli, Roma, 1675 (direita). Gianlorenzo Bernini, Santa Maria in Montesanto, 1679 (esquerda). @halun:2014twin](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1024px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg){#fig:miracoli-montesanto .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png"}
 
-![Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant'Andrea al Quirinale, Roma, após 1658. Gravura por [Giovanni Battista Falda, 1667--1669][]](https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png){#fig:quirinale-falda}
+![Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant'Andrea al Quirinale, Roma, após 1658. Gravura por [Giovanni Battista Falda, 1667--1669][]](https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png){#fig:quirinale-falda .slide-bg}
 
 [Giovanni Battista Falda, 1667--1669]: https://commons.wikimedia.org/wiki/File:Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de'_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png
 
@@ -899,15 +893,13 @@ Plautilla Bricci, fachadas laterais da villa Il Vascello
 
 ## {data-background-image="https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Vista da cúpula da igreja de San Carlo alle quattro fontane](https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg){#fig:scarlino-cupola}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Vista da cúpula da igreja de San Carlo alle quattro fontane](https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg){#fig:scarlino-cupola .slide-bg}
 
 <!--_,-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1280px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg"}
 
-![Nave da igreja de San Carlo alle quattro fontane. @livioandronico2013:2015carlino](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1024px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg){#fig:scarlino-navata} 
+![Nave da igreja de San Carlo alle quattro fontane. @livioandronico2013:2015carlino](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg/1024px-San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg){#fig:scarlino-navata} .slide-bg 
 
 <!--_,-->
 
@@ -936,9 +928,7 @@ S. Carlino?
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Francesco Borromini, capela universitária de Sant'Ivo alla Sapienza, Roma, 1642--1660. @lesnov:2010archivio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1024px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:santivo-court}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Francesco Borromini, capela universitária de Sant'Ivo alla Sapienza, Roma, 1642--1660. @lesnov:2010archivio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1024px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:santivo-court .slide-bg}
 
 <!--_,-->
 
@@ -957,7 +947,7 @@ S. Carlino?
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1280px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg"}
 
-![Interior da cúpula de Sant'Ivo alla Sapienza. @architas:2018santivo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg){#fig:santivo-cupola}
+![Interior da cúpula de Sant'Ivo alla Sapienza. @architas:2018santivo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant'Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg){#fig:santivo-cupola .slide-bg}
 
 <!--_,-->
 
