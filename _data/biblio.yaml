@@ -5417,6 +5417,27 @@ references:
   type: article-journal
   URL: http://revistas.usp.br/posfau/article/view/43490
 
+- id: derntl:2013metodo
+  author:
+    - family: Derntl
+      given: Maria Fernanda
+  call-number: HT169.B72 S33265 2013
+  citation-key: derntl:2013metodo
+  event-place: São Paulo
+  ISBN: 978-85-7939-157-6
+  issued:
+    - year: 2013
+  language: pt-BR
+  number-of-pages: '276'
+  publisher: Alameda
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: >-
+    Método e arte: urbanização e formação territorial na capitania de São Paulo,
+    1765-1811
+  title-short: Método e arte
+  type: book
+
 - id: desconhecido:1868provincia
   accessed:
     - year: 2020
@@ -7423,6 +7444,87 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Accusing_the_anointers_in_the_great_plague_of_Milan_in_1630;_Wellcome_V0010581.jpg
+
+- id: garcia-pulido:2004imagenLXXVII
+  abstract: >-
+    [ES] Las representaciones iconográficas de una ciudad son siempre un valioso
+    testimonio que, cotejado y completado con otros documentos, permiten
+    aproximarse con mayor fidelidad a la morfología y estructura urbana de la
+    misma en un determinado momento histórico. De Santa Fe se ha conservado sólo
+    una imagen de excepcional valor que permite conocer su fisonomía en el
+    momento de su fundación en 1491: un tablero de la sillería del coro bajo de
+    la Catedral de Toledo. En este artículo se demuestra que dicho relieve,
+    atribuido erróneamente hasta ahora al cerco de Málaga, representa en
+    realidad al Real de la Vega y al Real de Santa Fe, con la ciudad de Granada
+    al fondo. La información contenida en esta imagen aporta datos reveladores
+    sobre la nueva ciudad y concuerda con los datos documentales contemporáneos
+    y con otras representaciones gráficas de siglos posteriores.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2004imagenLXXVII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '307'
+  issued:
+    - year: 2004
+  language: es
+  page: 247-266
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    La imagen de Santa Fe (Granada) en la sillería del coro bajo de la Catedral
+    de Toledo
+  title-short: La imagen de Santa Fe
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12784
+  volume: LXXVII
+
+- id: garcia-pulido:2005nuevasLXXVIII
+  abstract: >-
+    [ES] La Granada nazarí fue rendida mediante una larga guerra de desgaste.
+    Para culminar esta empresa, los Reyes Católicos establecieron a los largo de
+    1491 a todos sus efectivos en la vega granadina, alojando a este contingente
+    de tropas y bastimentos en las tiendas y chozas de un campamento militar, el
+    Real de la Vega. Inmediatamente se iniciaron las obras de construcción de
+    una ciudad-campamento para poder albergar una guarnición de invierno, el
+    Real de Santa Fe, donde se introdujeron alguna de las innovaciones propias
+    de la fortificación española de transición de la época medieval a la
+    moderna. Este artículo trata de desvelar cómo fueron protegidos estos dos
+    reales y cuáles fueron sus elementos más significativos, tomando como base
+    los datos contenidos en el relieve de la sillería del coro bajo de la
+    Catedral de Toledo en el que se representan estos acontecimientos.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2005nuevasLXXVIII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '309'
+  issued:
+    - year: 2005
+  language: es
+  page: 23-43
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    Nuevas aportaciones sobre las murallas y el sistema defensivo de Santa Fe
+    (Granada)
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12786
+  volume: LXXVIII
 
 - id: 'garden:'
   abstract: >-
@@ -12093,6 +12195,61 @@ references:
   type: graphic
   URL: >-
     http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&resultForward=opac/unifi/full.jsp&nentries=10&searchForm=opac/unifi/error.jsp&do_cmd=search_show_cmd&fname=none&item:13:bib.dc.identifier=TO00193721_1_1878_1_1-12_sp017
+
+- id: marin:2003policesno50-1
+  abstract: >-
+    Brigitte MARIN Les polices royales de Madrid et de Naples (fin
+    XVIIIe-d&#233;but XIXesi&#232;cle): conceptions, fonctions et r&#233;formes
+    des divisions du territoire urbain Dans le dernier tiers du
+    XVIIIesi&#232;cle, Naples et Madrid connaissent une profonde r&#233;forme
+    des institutions de police, fond&#233;e sur un nouveau d&#233;coupage de
+    l&#8217;espace urbain (en douze quartieri&#224; Naples, en huit cuarteleset
+    soixante-quatre barrios &#224; Madrid) qui doit garantir
+    l&#8217;efficacit&#233; nouvelle attendue des officiers. La police urbaine
+    se pr&#233;sente comme une institution profond&#233;ment
+    territorialis&#233;e qui exige des divisions de l&#8217;espace
+    sp&#233;cifiques, rationalis&#233;es et r&#233;fl&#233;chies, pour une bonne
+    r&#233;partition des forces de police. La formation des nouvelles
+    circonscriptions et l&#8217;&#233;tablissement de leurs limites donnent
+    lieu, au sein des administrations, &#224; des d&#233;bats qui
+    d&#233;bouchent sur des ajustements et modifications jusqu&#8217;au
+    d&#233;but du XIXesi&#232;cle. L&#8217;&#233;tude s&#8217;attache aux
+    crit&#232;res et aux exigences qui ont pr&#233;sid&#233; &#224; la formation
+    et aux r&#233;formes successives de ces circonscriptions, aux outils en
+    usage pour en d&#233;terminer les confins, ainsi qu&#8217;&#224; leurs
+    rapports avec les autres quadrillages de l&#8217;espace li&#233;s aux
+    diff&#233;rentes branches de l&#8217;administration urbaine, comme les
+    paroisses ou les circonscriptions municipales.Les contraintes
+    particuli&#232;res rencontr&#233;es par les r&#233;formateurs de la police,
+    en fonction de la s&#233;dimentation institutionnelle et de ses
+    cons&#233;quences territoriales, propres &#224; chacune des deux situations,
+    &#233;clairent les enjeux vari&#233;s que repr&#233;sentent ces
+    modifications de l&#8217;encadrement territorial des populations urbaines.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 1
+  author:
+    - family: Marin
+      given: Brigitte
+  citation-key: marin:2003policesno50-1
+  container-title: Revue dhistoire moderne contemporaine
+  ISSN: 0048-8003
+  issue: '1'
+  issued:
+    - year: 2003
+  language: fr
+  page: 81-103
+  publisher: Belin
+  source: www.cairn.info
+  title: >-
+    Les polices royales de Madrid et de Naples et les divisions du territoire
+    urbain (fin <span class="smallcaps">XVIII</span>^e^-début <span
+    class="smallcaps">XIX</span>^e^ siècle)
+  type: article-journal
+  URL: >-
+    https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2003-1-page-81.htm
+  volume: no50-1
 
 - id: 'mars:'
   accessed:

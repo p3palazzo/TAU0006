@@ -43,9 +43,25 @@ anteriormente](cidades-possiveis.md).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg"}
 
-![Monpazier, possessões inglesas na França, 1285. Foto: [Prefeitura de Monpazier, 2013][mairiemonpazier:2013vue]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne .slide-bg}
+![Monpazier, possessões inglesas na França, 1285. Foto: [Prefeitura de Monpazier, 2013][mairiemonpazier:2013vue]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne .full .slide-bg}
 
 [mairiemonpazier:2013vue]: https://commons.wikimedia.org/wiki/File:Vue_aérienne_de_Monpazier.jpg
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Hipotesis-del-trazado-del-Real-de-Santa-Fe.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Vila real de Santa Fé fundada em 1491 como base dos reis católicos para
+a conquista de Granada [@garcia-pulido:2004imagenLXXVII;
+@garcia-pulido:2005nuevasLXXVIII].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Reconstituição do traçado original de Santa Fé, Granada, 1491, por [García Pulido e Orihuela, 2005][]](https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Hipotesis-del-trazado-del-Real-de-Santa-Fe.png){#fig:santafe-plan .line .slide-bg}
+
+[García Pulido e Orihuela, 2005]: https://digital.csic.es/handle/10261/12786
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Perspectiva-aerea-idealizada-con-el-sistema-defensivo-y-la-disposicion-del-Real-de-Santa-Fe.png" data-background-size="contain"}
+
+![Reconstituição perspectiva de Santa Fé, por [García Pulido e Orihuela, 2005][]](https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Perspectiva-aerea-idealizada-con-el-sistema-defensivo-y-la-disposicion-del-Real-de-Santa-Fe.png){#fig:santafe-persp .line .slide-bg}
 
 ## Ensaios ideais ##
 
@@ -111,27 +127,11 @@ cidade fortificada nos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}
 [@lorini:1609fortificationi].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/89/Map_of_Palmanova_in_1593_by_Joris_Hoefnagel.jpg" data-background-size="contain"}
 
-![Vincenzo Scamozzi](){#fig:scamozzi}
+![Palmanova, república de Veneza, 1593. Desenho de [Joris Hoefnagel em Braun e Hogenberg, *Civitatis orbis terrarum*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Map_of_Palmanova_in_1593_by_Joris_Hoefnagel.jpg/1024px-Map_of_Palmanova_in_1593_by_Joris_Hoefnagel.jpg){#fig:palmanova .slide-bg}
 
-## {data-background-image=""}
-
-![Palmanova](){#fig:palmanova}
-
-## Expansão ultramarina europeia ##
-
-## {data-background-image=""}
-
-![Forte de S. Jorge da Mina](){#fig:mina}
-
-## {data-background-image=""}
-
-![Fort Belgica, ilha Neira, arquipélago de Banda, primeira metade do século [XVII]{.smallcaps}](){#fig:banda}
-
-## {data-background-image=""}
-
-![Forte e cidade de Nova Amsterdã, primeira metade do século [XVII]{.smallcaps}](){#fig:n-amsterdam}
+[Joris Hoefnagel em Braun e Hogenberg, *Civitatis orbis terrarum*]: https://commons.wikimedia.org/wiki/File:Map_of_Palmanova_in_1593_by_Joris_Hoefnagel.jpg
 
 ## Realização da técnica ##
 
@@ -146,6 +146,98 @@ cidade fortificada nos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}
 ## {data-background-image=""}
 
 ![Joaquim Serrão Pimentel. *Methodo lusitanico de desenhar praças regulares e irregulares...*](){#fig:serrao}
+
+## Abstração e padronização colonial ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Duas formas de abstração facilitam a empreitada colonial europeia:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Território como espaço homogêneo [@lara:2020american5]
+2. Transplante e reprodução metódica de modelos [@derntl:2013metodo]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visbility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A abstração territorial e o método de implantação colonial não dependem
+necessariamente de representações cartográficas no sentido moderno
+(mapas baseados em agrimensura), mas a cartografia tende a se
+desenvolver em paralelo na maioria dos casos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/08/76/09/087609833f25aa0fe365d6e44a040bb4.jpg"}
+
+![Forte de S. Jorge da Mina, iniciado 1482. Desenho: [Leonardo de Ferrari, 1655][]](https://i.pinimg.com/originals/08/76/09/087609833f25aa0fe365d6e44a040bb4.jpg){#fig:mina .slide-bg}
+
+[Leonardo de Ferrari, 1655]: https://commons.wikimedia.org/wiki/File:Planta_da_fortaleza_de_São_Jorge_da_Mina,_Leonardo_de_Ferrari,_1655.jpg
+
+<!--_-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg/2560px-AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg" data-background-position="top"}
+
+![Hans Propheet, [Vista do forte e ancoradouro da Mina, 1629][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg/1024px-AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg){#fig:elmina-propheet .slide-bg}
+
+[Vista do forte e ancoradouro da Mina, 1629]: https://commons.wikimedia.org/wiki/File:AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/da/Overzicht_gevel_Gouverneurshuis_met_bordes_aan_de_binnenplaats_-_Elmina_-_20375076_-_RCE.jpg" data-background-position="top"}
+
+![Vista do pátio e casa do governador do forte da Mina, parcialmente reconstruídos séculos [XVII--XVIII]{.smallcaps}. Foto: [Loek Tangel, 2000][]](https://upload.wikimedia.org/wikipedia/commons/d/da/Overzicht_gevel_Gouverneurshuis_met_bordes_aan_de_binnenplaats_-_Elmina_-_20375076_-_RCE.jpg){#fig:elmina-gov .slide-bg}
+
+[Loek Tangel, 2000]: https://commons.wikimedia.org/wiki/File:Overzicht_gevel_Gouverneurshuis_met_bordes_aan_de_binnenplaats_-_Elmina_-_20375076_-_RCE.jpg
+
+<!--_-->
+
+##
+
+:::::::::: {#fig:elmina-zamani .sketchfab-embed-wrapper .iframe-wrapper}
+<iframe title="Elmina Castle, Ghana" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1280" height="720" src="https://sketchfab.com/models/83a12cf451ab49439c95bfe9d540828a/embed?ui_theme=dark&dnt=1"> </iframe>
+
+Levantamento fotogramétrico do castelo de S. Jorge da Mina. [Zamani Project, 2020](https://sketchfab.com/3d-models/elmina-castle-ghana-83a12cf451ab49439c95bfe9d540828a?utm_medium=embed&utm_campaign=share-popup&utm_content=83a12cf451ab49439c95bfe9d540828a)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/33/AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg"}
+
+![Cidade Maurícia e o Recife. Mapa por [Andreas Drewisch Bongesaltensis, 1631][]](https://upload.wikimedia.org/wikipedia/commons/3/33/AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg){#fig:mauritsstad .full .slide-bg}
+
+[Andreas Drewisch Bongesaltensis, 1631]: https://commons.wikimedia.org/wiki/File:AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg
+
+## {data-background-image="https://i.pinimg.com/originals/15/36/c0/1536c043ba4ece9da6fa0fe650c47713.jpg"}
+
+![Assentamento colonial holandês em banda Naira, atual Indonésia. Levantamento por [Isaac de Graaf, após 1690][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/AMH-4722-NA_Map_of_part_of_the_island_of_Neira,_showing_the_forts_Nassouw_and_Belgica.jpg/1024px-AMH-4722-NA_Map_of_part_of_the_island_of_Neira,_showing_the_forts_Nassouw_and_Belgica.jpg){#fig:naira-graaf .slide-bg}
+
+[Isaac de Graaf, após 1690]: https://commons.wikimedia.org/wiki/File:AMH-4722-NA_Map_of_part_of_the_island_of_Neira,_showing_the_forts_Nassouw_and_Belgica.jpg
+
+<!--_-->
+
+## {data-background-image="https://i.pinimg.com/originals/ff/ce/fa/ffcefa38e1d4f2cfd2547b8f1cba2a81.jpg" data-background-position="bottom"}
+
+![ Johannes Vingboons, [vista de banda Naira, c. 1665][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/AMH-6165-NA_Bird's_eye_view_of_Bandanaira.jpg/1008px-AMH-6165-NA_Bird's_eye_view_of_Bandanaira.jpg){#fig:naira-vingboons .slide-bg}
+
+[vista de banda Naira, c. 1665]: https://commons.wikimedia.org/wiki/File:AMH-6165-NA_Bird's_eye_view_of_Bandanaira.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castelloplan.jpg/2560px-Castelloplan.jpg"}
+
+![Forte e cidade de Nova Amsterdã. Levantamento por [Jacques Cortelyou, 1660][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/CastelloPlanOriginal.jpg/1024px-CastelloPlanOriginal.jpg){#fig:n-amsterdam}
+
+[Jacques Cortelyou, 1660]: https://commons.wikimedia.org/wiki/File:CastelloPlanOriginal.jpg
+
+[John Wolcott Adams e I.N. Phelps Stokes, 1916]: https://commons.wikimedia.org/wiki/File:Castelloplan.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AMH-6740-NA_View_of_New_Amsterdam.jpg/2560px-AMH-6740-NA_View_of_New_Amsterdam.jpg" data-background-position="bottom"}
+
+![Johannes Vingboons, [vista de Nova Amsterdã, c. 1665][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AMH-6740-NA_View_of_New_Amsterdam.jpg/1024px-AMH-6740-NA_View_of_New_Amsterdam.jpg){#fig:nams-vingboons .slide-bg}
+
+[vista de Nova Amsterdã, c. 1665]: https://commons.wikimedia.org/wiki/File:AMH-6740-NA_View_of_New_Amsterdam.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/New_Yorke_1695._LOC_93680196.jpg/2560px-New_Yorke_1695._LOC_93680196.jpg"}
+
+![Nova York em 1695. Mapa de [John Miller (facsímile)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/New_Yorke_1695._LOC_93680196.jpg/1024px-New_Yorke_1695._LOC_93680196.jpg){#fig:nyc1695 .slide-bg}
+
+[John Miller (facsímile)]: https://commons.wikimedia.org/wiki/File:New_Yorke_1695._LOC_93680196.jpg
+
+<!--_-->
 
 # Praças reais e cidades coloniais #
 
@@ -167,6 +259,8 @@ Características frequentes das praças reais:
 - Pode conter um palácio, igreja ou outra edificação monumental que se
   destaque contra a uniformidade do perímetro.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Hipotesis-del-trazado-del-Real-de-Santa-Fe.png" data-background-size="contain"}
 
 ## Plaza Mayor ##
 
@@ -211,7 +305,7 @@ bonificação do vale do Po na região de Gualtieri.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg"}
 
-![Praça ducal, Charleville. Foto: [Velvet, 2013][velvet:2013place]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .slide-bg}
+![Praça ducal, Charleville. Foto: [Velvet, 2013][velvet:2013place]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .full .slide-bg}
 
 [velvet:2013place]: https://commons.wikimedia.org/wiki/File:Charleville_place_ducale_face.jpg
 
@@ -246,7 +340,7 @@ Oposição convencional entre absolutismo francês e direitos de
 propriedade ingleses não esgota o assunto [@derntl:2006inicio].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Urbanização colonial #
+## Urbanização colonial ##
 
 # Modos de morar no Mediterrâneo moderno #
 
