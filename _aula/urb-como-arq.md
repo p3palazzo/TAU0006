@@ -315,6 +315,12 @@ Os interiores do palácio de Versalhes como um percurso urbano.
 
 ## São Petersburgo ##
 
+# Hôtel: soluções funcionais da modernidade #
+
+- Parcelamento urbano periférico e as cinturas marginais.
+
+- Blondel [@etlin:1978dedans]
+
 # Sincretismo eurasiático #
 
 ## İstanbul: Palácio Topkapı ##

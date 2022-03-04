@@ -1,12 +1,11 @@
 ---
-title   : "Teoria do classicismo"
+title   : "Hidráulica"
 subtitle: "Gramática, vocabulário, dialetos"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-02-22
 toc:
   - Arquitetura do humanismo
-  - Plano e recessão
   - Jardins da Ásia central
   - Mausoléus indianos
   - Saberes corporativos e tratadística na França
@@ -29,12 +28,11 @@ de colunas dos antigos gregos e romanos, e os seus princípios de
 composição, se estendem no tempo e no espaço, e se adaptam às mais
 variadas necessidades funcionais, simbólicas e construtivas.
 
-Assim como os intelectuais, artistas e construtores do século [XV]{.smallcaps}, nós
+Assim como os intelectuais, artistas e construtores do século
+[XV]{.smallcaps}, nós
 também vamos nos perguntar *o que* é a arquitetura clássica, *por que*
 ela tem essa capacidade de se adaptar a uma imensa variedade de lugares,
 culturas e funções, e, por fim, *como* fazer arquitetura clássica.
-
-##
 
 A arquitetura clássica é a arquitetura do humanismo.
 
@@ -254,243 +252,7 @@ casas de edição, se torna no final do século [XV]{.smallcaps} um dos principa
 centros de difusão do pensamento arquitetônico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Plano e recessão #
-
-## Conceitos ##
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Heinrich Wölfflin (1864--1945). [Eduard Wasow 1924][]](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png){#fig:woelfflin-1924 width=100%}
-:::
-::: {.column width=50%}
-![Giulio Carlo Argan (1909--1992). [Artribune][]](https://cdn07.artribune.com/wp-content/uploads/2015/09/Giulio-Carlo-Argan-negli-anni-80.jpg){#fig:argan-senato width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[Eduard Wasow 1924]: https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png
-
-[Artribune]: https://www.artribune.com/professioni-e-professionisti/didattica/2015/09/didattica-storia-arte-giulio-carlo-argan-scuola-formazione/
-
-<!--_-->
-
-## Do plano à recessão ##
-
-##
-
-![Piero della Francesca. Flagelação de Cristo, 1468--1470](https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg){#fig:flagellazione}
-
-##
-
-![Jacopo Tintoretto, Última Ceia, 1594](https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg){#fig:tintoretto}
-
-##
-
-![Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. [Paolo Monti (1975)][]](https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg){#fig:sagrestia-vecchia}
-
-[Paolo Monti (1975)]: https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg
-
-<!--_-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Composição quase plana.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-![Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520--1555. [Andrea Jemolo (2019)][]](https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG){#fig:sagrestia-nuova}
-
-[Andrea Jemolo (2019)]: https://jemolo.com/cgi-bin/WB/slideshow.cgi?lang=it&fid=11198
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Volume escultórico reforçado pelas diferenças de tamanho entre os
-elementos.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Cenografia ##
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A cenografia é o domínio por excelência da profundidade, ou melhor, da
-aparência de profundidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Cesare Cesariano, edifícios cênicos da tradução do tratado *Da Arquitetura* de Vitrúvio, 1521](https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg){#fig:cesariano-cavedi}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
-espírito prático à visão do classicismo como sistema global.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Sebastiano Serlio, cinco maneiras de edificações, 1545](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l'architecture,_sur_les_cincq_manieres_d'edifices_MET_DP291981.jpg){#fig:serlio-orders}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A contribuição de Serlio para a cenografia renascentista é amplamente
-reconhecida por dois aspectos principais: o uso da perspectiva forçada e
-a caracterização dos diferentes tipos de cenários segundo o caráter da
-peça.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Sebastiano Serlio, cena trágica, publicado em 1569](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg){#fig:serlio-tragica}
-
-##
-
-![Sebastiano Serlio, cena cômica, publicado em 1569](https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg){#fig:serlio-comica}
-
-## Rafael ##
-
-##
-
-![Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. [Charles-Louis Clérisseau (1740--1760)][]](https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg){#fig:madama-clerisseau}
-
-[Charles-Louis Clérisseau (1740--1760)]: https://www.rome-roma.net/site-rome-art.php?lieu=villa%20madama
-
-##
-
-![Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. [Peter1936F (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg){#fig:chigh}
-
-[Peter1936F (2014)]: https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg
-
-## Miguel Ângelo ##
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na biblioteca Laurenciana ([@fig:laurenziana-plan;
-@fig:laurenziana-scala; @fig:laurenziana-ricetto]), Miguel Ângelo retoma
-a questão da volumetria sobre a parede, num contexto extremo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534](https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w){#fig:laurenziana-plan}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O espaço exíguo do vestíbulo da biblioteca não permite a realização de
-jogos volumétricos muito desenvolvidos. Miguel Ângelo usa, então, essa
-falta de espaço para realçar a volumetria dos elementos construtivos, a
-começar pela escadaria monumentalizada.
-
-A relação entre a altura dos degraus e a do guarda-corpo mostra uma das
-estratégias que o artista usa para fazer a escadaria parecer maior do
-que é, e junto com ela todo o espaço do vestíbulo.
-
-[Massimo Listri (2019)]: http://massimolistri.com/en/catalogo/detail/27-Florence
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2019)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg){#fig:laurenziana-scala}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Para modular a superfície da parede, Miguel Ângelo se afasta do costume
-de aplicar as pilastras e colunas *à frente* da superfície da parede, e
-encaixa os elementos da arquitetura *dentro* da espessura da parede.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Miguel Ângelo, biblioteca Laurenciana, Florença, 1519--1534. [Massimo Listri (2009)][]](http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg){#fig:laurenziana-ricetto}
-
-[Massimo Listri (2009)]: http://massimolistri.com/en/catalogo/detail/27-Florence
-
-## Ordem colossal ##
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O enquadramento de ordens menores por ordens maiores vem das basílicas
-da Roma antiga, e especialmente da descrição da basílica em Fano por
-Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
-batistério de Florença ([@fig:battistero-nord]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Batistério de San Giovanni, Florença, século [XII]{.smallcaps}. @sailko:2008battistero](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG){#fig:battistero-nord}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Alberti se vale desse expediente para resolver o contato entre as
-capelas laterais e a nave central na basílica de Santo André, um dos
-seus últimos projetos ([@fig:mantua-int]). No entanto, na solução de
-Alberti, cada ordem ainda compõe um único "nível" do espaço.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Leon Battista Alberti, basílica de Sant'Andrea, Mântua, 1470--1790, interior. @mykaul:2007basilica](https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg){#fig:mantua-int}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O palácio Tarugi, em Montepulciano, entre Roma e Florença, é um dos
-primeiros a exibir uma ordem de colunas que abarca dois pavimentos, mas
-trata-se de uma composição unitária: a ordem colossal não interage com
-uma ordem menor.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Antonio da Sangallo, o velho (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. [Strafforello (1895)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg){#fig:tarugi-persp}
-
-[Strafforello (1895)]: https://commons.wikimedia.org/wiki/File:Montepulciano_Palazzo_Tarugi.jpg
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A ordem colossal é usada desde então como estratégia de unificação da
-fachada, uma solução especialmente popular em Roma.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. @jensens:2008palazzo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d'Antica_Zecca.jpg/1132px-Palazzo_d'Antica_Zecca.jpg){#fig:zecca}
-
-##
-
-![Capitólio de Roma, reconstituição no reinado de Constantino (306--337) por Italo Gismondi, 1933--1937. [J.-P. Dalbéra (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg/1280px-Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg){#fig:capitolium}
-
-[J.-P. Dalbéra (2011)]: https://commons.wikimedia.org/wiki/File:Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg
-
-##
-
-![Miguel Ângelo Buonarroti, Capitólio, Roma, 1536--1546, planta por Paul Letarouilly](https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg){#fig:campidoglio-plan}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Combinação de ordem colossal de pilastras e ordem pequena de colunas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536--1546](https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg){#fig:pal-nuovo}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A partir daí se desenvolve uma diferenciação entre, de um lado, culturas
-arquitetônicas que favorecem a marcação dos pavimentos por meio da
-sobreposição de ordens, como Florença e a França...
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Pierre Lescot, palácio do Louvre, reconstruído 1546--1551. Desenho de [Jacques Androuet du Cerceau (1576)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg){#fig:louvre-ducerceau}
-
-[Jacques Androuet du Cerceau (1576)]: https://commons.wikimedia.org/wiki/File:Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg
-
-<!--_-->
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-...e, do outro lado, culturas que favorecem a unificação da fachada numa
-composição unitária, sobretudo por meio do uso de uma ordem colossal
-sobre pódio, que é o caso de Roma e da terra firme veneziana.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Andrea Palladio, loggia del Capitaniato, Vicenza, 1571--1572. [Marcok (2006)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg){#fig:capitaniato-colossal}
-
-[Marcok (2006)]: https://commons.wikimedia.org/wiki/File:Palazzo_del_Capitanio_-_Vicenza.jpg
-
-<!--_-->
-
-# Jardins da Ásia central #
+# Jardins na Ásia central #
 
 ## Paisagismo(s) do mundo islâmico ##
 
@@ -796,7 +558,7 @@ Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 
 [Jean Chardin, década de 1670]: https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg
 
-# Mausoléus indianos #
+# Jardins e mausoléus #
 
 ##
 
@@ -991,6 +753,8 @@ Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg"}
 
+<!--_-->
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Originalmente o jardim continha uma enorme variedade de plantas e
 flores, pois eles remetiam a ideia de fartura e prosperidade que deveria
@@ -1028,264 +792,17 @@ vice-reis e atual palácio presidencial, em Nova Delhi
 ![Mughal Gardens, Rashtrapati Bhavan. @stoughton:1962view](https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg){#fig:stoughton}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Saberes corporativos e tratadística na França #
+# Jardins no leste da Ásia #
 
-## Resiliência das tradições construtivas ##
+- Jardins zen
+- Preservação de florestas (madeira e falconismo)
+- Paisagismo chinês
 
-Na França, a tradição técnica do gótico é suficientemente forte para se
-desenvolver de modo independente da representação pictórica do espaço.
-Os ofícios da construção --- a carpintaria e a alvenaria --- absorvem as
-formas decorativas clássicas importadas da Itália sem alterar
-fundamentalmente o seus processos produtivos. Desse modo, a primeira
-lição do Renascimento fora da Itália diz respeito à fluidez das relações
-entre espaço, construção e decoração.
+# Jardins na Europa #
 
-Nesse contexto, o desenvolvimento das soluções construtivas espaciais
-ocorre na forma de aprimoramentos graduais sem contestar os princípios
-fundamentais da construção gótica. Os avanços ocorrem sobretudo no
-contexto da invenção de soluções mais eficientes na carpintaria de pisos
-e telhados e no aprimoramento da estereotomia — a resolução formal e
-estrutural de abóbadas em pedra. Abóbadas falsas em madeira e escadarias
-autoportantes são algumas das principais contribuições do gótico tardio
-na França para a solução de problemas construtivos.
-
-O estudo da arquitetura do Renascimento na França está marcado, desde o
-início do século [XIX]{.smallcaps}, por narrativas que tomam como premissa busca das
-raízes da nacionalidade. A afirmação do estado-nação e o embate político
-e militar com a Alemanha na segunda metade do século [XIX]{.smallcaps} direcionam a
-escrita da história da arte na França para uma exaltação da autonomia,
-unidade continuidade da cultura nacional. Por trás desse chauvinismo
-cultural, há um fundo de verdade na afirmação da continuidade
-construtiva e formal da arquitetura gótica para a versão francesa do
-Renascimento.
-
-Essa continuidade é mais um argumento contra o determinismo
-historicista, que busca um pretenso “esgotamento“ da arquitetura gótica
-como pré-condição para o florescimento da arte renascentista. Ao mesmo
-tempo que a construção de igrejas góticas mantém toda sua vitalidade, a
-pacificação Militar do território, a centralização política das
-instituições administrativas, e a reconstrução física e econômica das
-cidades após a guerra de Cem anos (1337–1453) permitem, ou mesmo
-demandam, um enriquecimento da arquitetura civil.
-
-Edifícios administrativos como o erário da Normandia em Ruão ou o Paço
-municipal em Compiègne apresentam uma maior regularidade na articulação
-das suas fachadas do que construções civis mais antigas. No entanto, é,
-de fato, a importação de esquemas decorativos do Renascimento italiano,
-a partir da segunda metade do século [XV]{.smallcaps} e sobretudo no início do [XVI]{.smallcaps},
-que impulsiona uma renovação marcante na arquitetura francesa. O
-escultor Jean Bullant e o arquiteto Philibert de L’Orme estão entre os
-primeiros franceses a viajarem para Itália com o objetivo de adquirirem
-conhecimento direto da arquitetura clássica. Bullant traduz esse
-conhecimento em obras refinadas e delicadas. De l’Orme, por outro lado,
-opera uma síntese mais profunda entre os princípios teóricos do
-classicismo italiano e as técnicas construtivas herdadas da tradição
-francesa. Outros, como o escultor Jean Goujon e o arquiteto Pierre
-Lescot, aproveitam a presença de artistas e arquitetos italianos na
-França do início do século [XVI]{.smallcaps}.
-
-Ao contrário de Brunelleschi e outros polímatas do Renascimento
-italiano, de l’Orme é antes de tudo um construtor. Esse fato permite
-tratar a sua obra em paralelo com a solução construtiva da cúpula de
-Brunelleschi, apesar do descompasso cronológico entre elas e de toda a
-influência exercida pelo renascimento italiano mais tardio sobre a
-arquitetura francesa. O tratado mais famoso de de l’Orme, intitulado
-*Novas descobertas para construir bem e com baixo custo*, incorpora
-sobretudo o acervo de práticas e saberes técnicos da tradição
-construtiva francesa. Apesar da formação italiana aprofundada do seu
-autor, esse livro tem apenas um verniz superficial e uma forma de
-organização inspirados nos tratados italianos.
-
-As contribuições mais marcantes desse tratado são uma técnica para a
-construção de arcos em carpintaria usando elementos de pequenas
-dimensões, e os estudos de estereotomia — a técnica de desenhar e
-executar estruturas em pedra, especialmente abóbadas, descrevendo
-geometricamente a sua curvatura. Um processo marcante na estereotomia
-renascentista na França é a gradual diminuição das nervuras que
-caracterizavam o gótico, resultando em superfícies abobadadas contínuas
-e, com frequência, muito rasas. Esse virtuosismo estrutural vai ser
-profundamente debatido ao longo do arco renascentista na França, até bem
-entrado o século [XIX]{.smallcaps}.
-
-## A autoimagem da arquitetura francesa enquanto solução técnica ##
-
-A relevância das contribuições técnicas de de l'Orme não pode ser
-subestimada. O seu tratado continua a ser citado como pertinente para a
-prática mais de 100 anos depois da sua publicação. Até o final do século
-[XIX]{.smallcaps}, ele é citado como exemplo da competência técnica dos artesãos e
-arquitetos franceses.
-
-As novas descobertas para construir bem e com baixo custo se destacam no
-panorama teórico do Renascimento por que o texto não coloca em questão a
-legitimidade teórica ou intelectual da disciplina da arquitetura. Ao
-mesmo tempo, o autor dá acesso a um público amplo os conhecimentos
-técnicos que são do domínio dos ofícios da construção. Esse ato coloca
-em xeque os limites disciplinares vigentes até então, sem tecer
-considerações teóricas a respeito desse reposicionamento. Também se
-destaca como um dos primeiros arquitetos do Renascimento a colocar em
-primeiro plano a sua preocupação com os aspectos práticos, técnicos e
-logísticos da construção.
-
-O fato de se tratar de um texto técnico sobre a construção pode dar a
-impressão de que o autor estava transmitindo o conhecimento corrente da
-sua época. Essa distinção entre formulações teóricas autorais e a
-suposta trivialidade do conhecimento técnico, porém, enganosa. A
-contribuição de de l'Orme consiste, de fato, em novas descobertas ou,
-melhor dizendo, invenções para aprimorar os procedimentos construtivos
-então em vigor ou a conveniência da sua execução.
-
-O elemento central desse tratado é uma discussão sobre as possibilidades
-estruturais da carpintaria. Ele apresenta uma nova técnica que substitui
-grandes vigas e barrotes com montagens de pequenas peças de madeira
-organizados em estruturas funcionando à compressão. Assim, ele propõe
-substituir grandes treliças tracionadas por arcos em madeira cujas peças
-podem ser substituídas com mais facilidade ao longo do tempo sem
-comprometer a estrutura como um todo. As coberturas a maneira de de
-l'Orme foram amplamente adotados não só na França mas na Europa e até
-nos Estados Unidos durante vários séculos.
-
-Essa contribuição sedimenta uma autoimagem da arquitetura francesa como
-especialmente capaz de oferecer soluções técnicas adequadas, eficientes
-e belas. A partir daí se desenvolve, de finais do século [XVI]{.smallcaps} em diante,
-um discurso que enxerga a arquitetura francesa como intrinsecamente
-superior aos arroubos artísticos do classicismo italiano. Autores do
-séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps} vão, corretamente, associar essa desenvoltura
-estrutural a herança dos ofícios construtivos góticos.
-
-A outra grande contribuição de de l'Orme nos seus escritos é explicitar
-procedimentos de traçado e execução de abóbadas em pedra. Codificar e
-ilustrar no papel tais procedimentos permite debater as suas
-características formais estruturais, levando a uma diversificação e ao
-aprimoramento de soluções técnicas e estéticas. de l'Orme reconhece e
-defende a validade técnica das soluções construtivas herdadas da
-tradição gótica, e pretende tornar essas soluções válidas também no
-contexto das formas arquitetônicas clássicas do Renascimento. Desse
-ponto de vista, fica evidente a necessidade de não apenas transmitir
-conhecimento no contexto da aprendizagem da profissão, mas codificar e
-tornar público esse conhecimento para que ele possa participar da
-construção universal do sistema arquitetônico clássico.
-
-## A arquitetura "à maneira francesa" como tema historiográfico ##
-
-Junto com a emergência de uma historiografia nacional na França do
-século [XIX]{.smallcaps}, a arquitetura à maneira francesa ganha definitivamente a sua
-legitimidade enquanto tema historiográfico. Servindo inicialmente para
-exaltar a particularidade e a pretensa excepcionalidade da nação
-francesa na Europa, o tema histórico da arquitetura à francesa se
-reinventa no século [XX]{.smallcaps} para caracterizar o emprego e a valorização
-teórica de certos procedimentos construtivos ao longo do tempo.
-
-Essa leitura na longa duração, ao gosto da Nova história francesa da
-primeira metade do século [XX]{.smallcaps}, pode assim ser desvinculada da exaltação
-nacionalista para se tornar um marco explicativo de uma característica
-legítima do contexto construtivo na França do século [XV]{.smallcaps} até o século
-[XIX]{.smallcaps}.
-
-A imagem do "bom arquiteto" ilustrada por de l'Orme, combinando o
-conhecimento histórico e literário com o domínio prático de problemas
-construtivos concretos, deixa de ser um ícone chauvinista para
-representar um ideal de formação e organização profissional que será
-resgatado na busca pela regulamentação do exercício profissional a
-partir da segunda metade do século [XIX]{.smallcaps}.
-
-## Elementos de arquitetura ou elementos de decoração ##
-
-- Louvre de Lescot a Du Cerceau: como articular as ordens clássicas com
-  os pavimentos. Priorizar unidade da fachada ou projeção da "verdade"
-  construtiva e espacial? A fachada é envoltória do quê --- do edifício
-  ou do espaço público?
-
-- As duas fachadas da Sorbonne por Lemercier.
-
-- Mansart, Le Vau e a adaptação do barroco romano.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-França tem tradições próprias acumuladas, que interagem com a introdução
-dos elementos arquitetônicos e espaciais clássicos. Os principais são a
-tipologia dos castelos, com salão no térreo, e as escadarias
-monumentais.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1280px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1024px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg){#fig:charleval-plan}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"}
-
-![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade}
-
-<!--_,-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1280px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Pierre Lescot (arquitetura) e Jean Goujon (escultura), fachada sobre o
-pátio Quadrado do Louvre,
-1546--1555](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1024px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg){#fig:louvre-lescot-pp}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare width=100%}
-:::
-::: {.column width=50%}
-![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Andrea Palladio, palazzo Valmarana, Vicenza, 1560](https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif){#fig:valmarana-all}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg){#fig:lescot-compare-valmarana width=100%}
-:::
-::: {.column width=50%}
-![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-louvre width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. @moore:1905character](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg){#fig:charleval-compare-valmarana width=100%}
-:::
-::: {.column width=50%}
-![Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura](http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg){#fig:valmarana-compare-charleval width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Universidade de Paris (Sorbonne), planta](https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png){#fig:sorbonne-plan}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Jacques Lemercier, capela da Sorbonne, fachada sobre a rua](https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg){#fig:sorbonne-rue width=100%}
-:::
-::: {.column width=50%}
-![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg){#fig:sorbonne-cour width=100%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Grâce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Grâce_reductwk.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![François Mansart, fachada da igreja da abadia do Val-de-Grâce, Paris, c. 1645--1667](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Grâce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Grâce_reductwk.JPG){#fig:valdegrace-ext}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- Jardim clássico italiano: passeio pedestre
+- Versão aumentada no jardim francês: passeio montado
+- Jardins portugueses: descanso em vez de passeio
 
 # Bibliografia # {- .allowframebreaks .unlisted}
+

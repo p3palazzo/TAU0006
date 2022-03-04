@@ -448,9 +448,9 @@ references:
   page: 58-74
   source: JSTOR
   title: >-
-    Ordering the Orders: Claude Perrault's "Ordonnance" and the Eastern
-    Colonnade of the Louvre
-  title-short: Ordering the Orders
+    Ordering the orders: Claude Perrault's "Ordonnance" and the eastern
+    colonnade of the Louvre
+  title-short: Ordering the orders
   type: article-journal
   URL: https://www.jstor.org/stable/43876206
 
@@ -1847,9 +1847,9 @@ references:
   publisher: 'SAGE PublicationsSage UK: London, England'
   source: journals.sagepub.com
   title: >-
-    A New Palladian Shape Grammar: A Subdivision Grammar as alternative to the
-    Palladian Grammar
-  title-short: A New Palladian Shape Grammar
+    A new Palladian shape grammar: a subdivision grammar as alternative to the
+    palladian grammar
+  title-short: A new Palladian shape grammar
   type: article-journal
   URL: >-
     https://journals.sagepub.com/doi/10.1260/1478-0771.10.4.521?icid=int.sj-related-articles.similar-articles.3
@@ -1906,7 +1906,8 @@ references:
   language: en-US
   publisher: Pennsylvania State University Press
   publisher-place: University Park, Penn.
-  title: 'The Palace of the Sun: The Louvre of Louis XIV'
+  title: 'The palace of the Sun: the Louvre of Louis XIV'
+  title-short: The palace of the Sun
   type: book
 
 - id: bernabei:1990jan
@@ -2334,6 +2335,7 @@ references:
       given: Hans
   citation-key: blumenfeld:1944russian
   container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/901141
   ISSN: 1544-9890
   issue: '1'
@@ -2342,7 +2344,7 @@ references:
   language: en-US
   page: 22-33
   source: JSTOR
-  title: Russian City Planning of the 18th and Early 19th Centuries
+  title: Russian city planning of the 18^th^ and early 19^th^ centuries
   type: article-journal
   URL: http://www.jstor.org/stable/901141
   volume: '4'
@@ -3635,6 +3637,33 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg
 
+- id: cataneo:1567architettura
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Cataneo
+      given: Pietro
+  citation-key: cataneo:1567architettura
+  DOI: 10.3931/e-rara-9238
+  edition: >-
+    Alla quale oltre all'essere stati dall'istesso autore riuisti, meglio
+    ordinati e di diuersi disegni, e discorsi arricchiti i primi quattro libri
+    per l'adietro stampati, sono aggiunti di piu il quinto, sesto, settimo e
+    ottauo libro ...
+  event-place: Venezia
+  issued:
+    - year: 1567
+  language: it
+  publisher: Aldo Manuzio
+  publisher-place: Venezia
+  source: Library Catalog (Visual Library 2021)
+  title: L' architettura
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-9238
+
 - id: category:bonaccorso
   accessed:
     - year: 2020
@@ -4524,7 +4553,6 @@ references:
   language: fr
   source: Wikimedia Commons
   title: Vue aérienne de la ville d'Aigues Mortes
-  title-short: Français
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Aigues_mortes_vu_du_ciel_1.jpg
 
@@ -5389,6 +5417,27 @@ references:
   type: article-journal
   URL: http://revistas.usp.br/posfau/article/view/43490
 
+- id: derntl:2013metodo
+  author:
+    - family: Derntl
+      given: Maria Fernanda
+  call-number: HT169.B72 S33265 2013
+  citation-key: derntl:2013metodo
+  event-place: São Paulo
+  ISBN: 978-85-7939-157-6
+  issued:
+    - year: 2013
+  language: pt-BR
+  number-of-pages: '276'
+  publisher: Alameda
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: >-
+    Método e arte: urbanização e formação territorial na capitania de São Paulo,
+    1765-1811
+  title-short: Método e arte
+  type: book
+
 - id: desconhecido:1868provincia
   accessed:
     - year: 2020
@@ -5588,8 +5637,8 @@ references:
   language: en-US
   page: e1201
   source: DOI.org (Crossref)
-  title: 'The Golden Beauty: Brain Response to Classical and Renaissance Sculptures'
-  title-short: The Golden Beauty
+  title: 'The golden beauty: brain response to classical and renaissance sculptures'
+  title-short: The golden beauty
   type: article-journal
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
@@ -5925,7 +5974,7 @@ references:
   URL: https://www.jstor.org/stable/1586743
   volume: '10'
 
-- id: duomo:a
+- id: 'duomo:'
   abstract: >-
     Arnolfo di Cambio had intended to cover the enormous space of 45,50 metres
     with a dome. No one really knew how to place a dome over such a wide space.
@@ -5933,7 +5982,7 @@ references:
     - year: 2020
       month: 8
       day: 1
-  citation-key: duomo:a
+  citation-key: 'duomo:'
   language: en-GB
   source: www.teggelaar.com
   title: 'The Duomo or the Santa Maria del Fiore: Brunelleschi''s Dome'
@@ -7396,6 +7445,87 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Accusing_the_anointers_in_the_great_plague_of_Milan_in_1630;_Wellcome_V0010581.jpg
 
+- id: garcia-pulido:2004imagenLXXVII
+  abstract: >-
+    [ES] Las representaciones iconográficas de una ciudad son siempre un valioso
+    testimonio que, cotejado y completado con otros documentos, permiten
+    aproximarse con mayor fidelidad a la morfología y estructura urbana de la
+    misma en un determinado momento histórico. De Santa Fe se ha conservado sólo
+    una imagen de excepcional valor que permite conocer su fisonomía en el
+    momento de su fundación en 1491: un tablero de la sillería del coro bajo de
+    la Catedral de Toledo. En este artículo se demuestra que dicho relieve,
+    atribuido erróneamente hasta ahora al cerco de Málaga, representa en
+    realidad al Real de la Vega y al Real de Santa Fe, con la ciudad de Granada
+    al fondo. La información contenida en esta imagen aporta datos reveladores
+    sobre la nueva ciudad y concuerda con los datos documentales contemporáneos
+    y con otras representaciones gráficas de siglos posteriores.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2004imagenLXXVII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '307'
+  issued:
+    - year: 2004
+  language: es
+  page: 247-266
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    La imagen de Santa Fe (Granada) en la sillería del coro bajo de la Catedral
+    de Toledo
+  title-short: La imagen de Santa Fe
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12784
+  volume: LXXVII
+
+- id: garcia-pulido:2005nuevasLXXVIII
+  abstract: >-
+    [ES] La Granada nazarí fue rendida mediante una larga guerra de desgaste.
+    Para culminar esta empresa, los Reyes Católicos establecieron a los largo de
+    1491 a todos sus efectivos en la vega granadina, alojando a este contingente
+    de tropas y bastimentos en las tiendas y chozas de un campamento militar, el
+    Real de la Vega. Inmediatamente se iniciaron las obras de construcción de
+    una ciudad-campamento para poder albergar una guarnición de invierno, el
+    Real de Santa Fe, donde se introdujeron alguna de las innovaciones propias
+    de la fortificación española de transición de la época medieval a la
+    moderna. Este artículo trata de desvelar cómo fueron protegidos estos dos
+    reales y cuáles fueron sus elementos más significativos, tomando como base
+    los datos contenidos en el relieve de la sillería del coro bajo de la
+    Catedral de Toledo en el que se representan estos acontecimientos.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2005nuevasLXXVIII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '309'
+  issued:
+    - year: 2005
+  language: es
+  page: 23-43
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    Nuevas aportaciones sobre las murallas y el sistema defensivo de Santa Fe
+    (Granada)
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12786
+  volume: LXXVIII
+
 - id: 'garden:'
   abstract: >-
     <br/>**Garden Carpet**<br/><br/><br/>Most of the literal representations of
@@ -8138,7 +8268,7 @@ references:
   page: 7-7.12
   source: disegnarecon.univaq.it
   title: >-
-    Parametric grammar: the shape of villa giulia, between cognitive coherence
+    Parametric grammar: the shape of Villa Giulia, between cognitive coherence
     and data enrichment
   title-short: Parametric grammar
   type: article-journal
@@ -9009,17 +9139,18 @@ references:
       given: Deborah
   citation-key: howard:2003venice62
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/3592517
   ISSN: 00379808, 21505926
   issue: '3'
   issued:
     - year: 2003
       month: 9
-  language: en-US
+  language: en
   page: 306-325
   source: Crossref
   title: >-
-    Venice between East and West: Marc'Antonio Barbaro and Palladio's Church of
+    Venice between East and West: Marc'Antonio Barbaro and Palladio's church of
     the Redentore
   title-short: Venice between East and West
   type: article-journal
@@ -11387,6 +11518,31 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ambrogio_lorenzetti,_storie_di_san_nicola,_da_s._procolo_a_firenze,_1332-34_ca._(uffizi)_02_elemosina_della_dote_per_tre_fanciulle_povere_00.jpg
 
+- id: lorini:1609fortificationi
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Lorini
+      given: Buonaiuto
+  citation-key: lorini:1609fortificationi
+  DOI: 10.3931/e-rara-46829
+  edition: >-
+    Nvovamente ristampate, corrette & ampliate di tutto quello che mancaua per
+    la lor compita perfettione, con l'aggivnta del sesto libro
+  event-place: Venetia
+  issued:
+    - year: 1609
+  language: it
+  publisher: Francesco Rampazetto
+  publisher-place: Venetia
+  source: Library Catalog (Visual Library 2021)
+  title: Le fortificationi
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-46829
+
 - id: lotz:1998arquitetura
   author:
     - family: Lotz
@@ -12039,6 +12195,61 @@ references:
   type: graphic
   URL: >-
     http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&resultForward=opac/unifi/full.jsp&nentries=10&searchForm=opac/unifi/error.jsp&do_cmd=search_show_cmd&fname=none&item:13:bib.dc.identifier=TO00193721_1_1878_1_1-12_sp017
+
+- id: marin:2003policesno50-1
+  abstract: >-
+    Brigitte MARIN Les polices royales de Madrid et de Naples (fin
+    XVIIIe-d&#233;but XIXesi&#232;cle): conceptions, fonctions et r&#233;formes
+    des divisions du territoire urbain Dans le dernier tiers du
+    XVIIIesi&#232;cle, Naples et Madrid connaissent une profonde r&#233;forme
+    des institutions de police, fond&#233;e sur un nouveau d&#233;coupage de
+    l&#8217;espace urbain (en douze quartieri&#224; Naples, en huit cuarteleset
+    soixante-quatre barrios &#224; Madrid) qui doit garantir
+    l&#8217;efficacit&#233; nouvelle attendue des officiers. La police urbaine
+    se pr&#233;sente comme une institution profond&#233;ment
+    territorialis&#233;e qui exige des divisions de l&#8217;espace
+    sp&#233;cifiques, rationalis&#233;es et r&#233;fl&#233;chies, pour une bonne
+    r&#233;partition des forces de police. La formation des nouvelles
+    circonscriptions et l&#8217;&#233;tablissement de leurs limites donnent
+    lieu, au sein des administrations, &#224; des d&#233;bats qui
+    d&#233;bouchent sur des ajustements et modifications jusqu&#8217;au
+    d&#233;but du XIXesi&#232;cle. L&#8217;&#233;tude s&#8217;attache aux
+    crit&#232;res et aux exigences qui ont pr&#233;sid&#233; &#224; la formation
+    et aux r&#233;formes successives de ces circonscriptions, aux outils en
+    usage pour en d&#233;terminer les confins, ainsi qu&#8217;&#224; leurs
+    rapports avec les autres quadrillages de l&#8217;espace li&#233;s aux
+    diff&#233;rentes branches de l&#8217;administration urbaine, comme les
+    paroisses ou les circonscriptions municipales.Les contraintes
+    particuli&#232;res rencontr&#233;es par les r&#233;formateurs de la police,
+    en fonction de la s&#233;dimentation institutionnelle et de ses
+    cons&#233;quences territoriales, propres &#224; chacune des deux situations,
+    &#233;clairent les enjeux vari&#233;s que repr&#233;sentent ces
+    modifications de l&#8217;encadrement territorial des populations urbaines.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 1
+  author:
+    - family: Marin
+      given: Brigitte
+  citation-key: marin:2003policesno50-1
+  container-title: Revue dhistoire moderne contemporaine
+  ISSN: 0048-8003
+  issue: '1'
+  issued:
+    - year: 2003
+  language: fr
+  page: 81-103
+  publisher: Belin
+  source: www.cairn.info
+  title: >-
+    Les polices royales de Madrid et de Naples et les divisions du territoire
+    urbain (fin <span class="smallcaps">XVIII</span>^e^-début <span
+    class="smallcaps">XIX</span>^e^ siècle)
+  type: article-journal
+  URL: >-
+    https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2003-1-page-81.htm
+  volume: no50-1
 
 - id: 'mars:'
   accessed:
@@ -14125,7 +14336,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Firenze_kosciol_Santa_Maria_Novella_3.jpg
 
-- id: overton:1774
+- id: overton:1774temple
   abstract: >-
     First published in 1766 as: Original designs of temples and other ornamental
     buildings for parks and gardens, in the Greek, Roman, and Gothic taste;
@@ -14144,7 +14355,7 @@ references:
     - family: Taylor
       given: Isaac
   call-number: '283927'
-  citation-key: overton:1774
+  citation-key: overton:1774temple
   event-place: London
   issued:
     - year: 1774
@@ -14334,7 +14545,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: en-GB
+  language: en
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -14774,6 +14985,30 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
 
+- id: perez-gomez:1982architecture36
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Pérez-Gómez
+      given: Alberto
+  citation-key: perez-gomez:1982architecture36
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424613
+  ISSN: '01492993'
+  issue: '2'
+  issued:
+    - year: 1982
+      season: 4
+  language: en-US
+  page: '2'
+  source: Crossref
+  title: Architecture as drawing
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424613?origin=crossref
+  volume: '36'
+
 - id: perez-gomez:1983architecture
   author:
     - family: Pérez-Gómez
@@ -14790,30 +15025,6 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Architecture and the crisis of modern science
   type: book
-
-- id: perez-gomez:24architecture36
-  accessed:
-    - year: 2019
-      month: 5
-      day: 15
-  author:
-    - family: Pérez-Gómez
-      given: Alberto
-  citation-key: perez-gomez:24architecture36
-  container-title: Journal of Architectural Education
-  DOI: 10.2307/1424613
-  ISSN: '01492993'
-  issue: '2'
-  issued:
-    - year: 1982
-      season: 4
-  language: en-US
-  page: '2'
-  source: Crossref
-  title: Architecture as Drawing
-  type: article-journal
-  URL: https://www.jstor.org/stable/1424613?origin=crossref
-  volume: '36'
 
 - id: pergiel:2016medici
   accessed:
@@ -15249,7 +15460,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1680
-  language: Portuguese
+  language: pt
   publisher: Antonio Craesbeeck de Mello
   publisher-place: Lisboa
   source: catalogo.bnportugal.gov.pt Library Catalog
@@ -16756,7 +16967,7 @@ references:
   event-place: New York
   issued:
     - year: 2002
-  language: en-US
+  language: en
   publisher: Scribner
   publisher-place: New York
   title: 'The Perfect House: A journey with the Renaissance architect Andrea Palladio'
@@ -17422,7 +17633,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
 
-- id: schapiro:24criteria1
+- id: schapiro:1970criteria1
   accessed:
     - year: 2019
       month: 8
@@ -17434,7 +17645,7 @@ references:
       given: H. W.
     - family: Gombrich
       given: E. H.
-  citation-key: schapiro:24criteria1
+  citation-key: schapiro:1970criteria1
   container-title: New Literary History
   DOI: 10.2307/468623
   ISSN: '00286087'
@@ -17484,6 +17695,25 @@ references:
   title-short: Contestualismo
   type: article-journal
 
+- id: schumacher:1986skull3
+  author:
+    - family: Schumacher
+      given: Thomas L.
+  call-number: 72.4.012.036
+  citation-key: schumacher:1986skull3
+  container-title: The Cornell Architectural Journal
+  container-title-short: CAJ
+  issued:
+    - year: 1986
+      season: 3
+  language: en
+  page: 4–11
+  title: 'The skull and the mask: the modern movement and the dilemma of the facade'
+  title-short: The skull and the mask
+  type: article-journal
+  URL: http://issuu.com/cornellaap/docs/cja003-opt
+  volume: '3'
+
 - id: schumacher:1987deep
   author:
     - family: Schumacher
@@ -17510,10 +17740,11 @@ references:
   call-number: '72.034.6(45) : 72:4'
   citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
+  container-title-short: CJA
   issued:
     - year: 1987
       season: 3
-  language: en-US
+  language: en
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
@@ -18624,7 +18855,7 @@ references:
     - year: 1967
   language: it
   page: 385-398
-  title: J. Barozzi da Vignola e la crisi del Manierismo a Roma
+  title: J. Barozzi da Vignola e la crisi del manierismo a Roma
   type: article-journal
   URL: https://www.palladiomuseum.org/annali/1967/30/pdf
 
@@ -20085,7 +20316,7 @@ references:
   event-place: London
   issued:
     - year: 1913
-  language: en-GB
+  language: en
   number-of-pages: '372'
   publisher: A. and C. Black
   publisher-place: London

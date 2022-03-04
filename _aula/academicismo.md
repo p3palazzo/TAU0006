@@ -7,6 +7,7 @@ date    : 2022-03-22
 toc:
   - Colunata do Louvre
   - Academias de arte e o ofício da arquitetura
+  - Desenho e convenção
   - "Hôtel: soluções funcionais da modernidade"
 leitura: 573--575, Summerson 63--88
 ---
@@ -489,18 +490,9 @@ definição da profissão de arquiteto.
 
 <!--._-->
 
-# Academias de arte e o fício da arquitetura #
+# Academias de arte e o ofício da arquitetura #
 
-## Querela dos Antigos e dos Modernos ##
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
-
-![Claude Perrault, ordenamento das cinco ordens de arquitetura, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:ordonnance}
-
-##
-
-- Renascimento  Conceito de "artes do desenho"
-- Poussin vs. Rubens: Roger de Piles
+## Encomenda e mecenato ##
 
 ## Academias e a redefinição do ofício da arquitetura ##
 
@@ -513,11 +505,12 @@ definição da profissão de arquiteto.
 
 - Prix de Rome
 
-# Hôtel: soluções funcionais da modernidade #
+# Desenho e convenção #
 
-- Parcelamento urbano periférico e as cinturas marginais.
+# Querela dos Antigos e dos Modernos #
 
-- Blondel [@etlin:1978dedans]
+- Renascimento  Conceito de "artes do desenho"
+- Poussin vs. Rubens: Roger de Piles
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 
