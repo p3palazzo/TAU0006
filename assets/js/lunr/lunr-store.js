@@ -29,20 +29,20 @@ var store = [{
         "url": "/tau0006/aula/linguagem/",
         "teaser": null
       },{
-        "title": "Teoria do classicismo",
+        "title": "Hidráulica",
         "excerpt":"Arquitetura do humanismo À medida que avançamos no recorte cronológico da Idade Moderna, a tradição clássica da arquitetura europeia se apresenta como um sistema teórico e técnico cada vez mais elaborado e como uma combinação cada vez mais diversificada de práticas construtivas e visões de mundo. As ordens de colunas...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/teoria/",
         "teaser": null
       },{
         "title": "Clássico Anticlássico",
-        "excerpt":"O início do século XVI na Itália é um período de consolidação e de aquisição de desenvoltura no manejo dos elementos arquitetônicos e espaciais clássicos. Essa consolidação resulta na livre manipulação plástica de superfícies construídas e de espaços e na exploração de combinações cada vez mais elaboradas das ordens da...","categories": [],
+        "excerpt":"Composição O início do século XVI na Itália é um período de consolidação e de aquisição de desenvoltura no manejo dos elementos arquitetônicos e espaciais clássicos. Essa consolidação resulta na livre manipulação plástica de superfícies construídas e de espaços e na exploração de combinações cada vez mais elaboradas das ordens...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/anticlassico/",
         "teaser": null
       },{
         "title": "Cidade clássica",
-        "excerpt":"Geometrias da fortificação à praça real Geometria e fortificação Castelos japoneses Controle do território Bastides construídas num contexto de organização do território e centralização administrativa do poder real. Figura 1: Aigas-Mòrtas, França, 1248. CirchirelloFrançais. Figura 2: Monpazier, possessões inglesas na França, 1285. MairieMonpazierVue aérienne. Ensaios ideais Figura 3: Filarete, cidade...","categories": [],
+        "excerpt":"Geometrias da fortificação Controle do território Figura 1: Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do museu histórico da província de Hyōgo Bastides são cidades novas construídas num contexto de organização do território e centralização administrativa do poder real, nos últimos séculos da...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/cidade-classica/",
         "teaser": null
