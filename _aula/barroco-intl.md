@@ -14,8 +14,6 @@ leitura:
 
 # Teorias do barroco #
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A história da arte e da arquitetura que temos acompanhado até agora é
 uma disciplina essencialmente europeia, tanto nos seus métodos e autores
