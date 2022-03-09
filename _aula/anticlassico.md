@@ -20,8 +20,7 @@ header:
 # Composição #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O início do século [XVI]{.smallcaps} na Itália é um período de
-consolidação e de
+O início do século [XVI]{.smallcaps} na Itália é um período de consolidação e de
 aquisição de desenvoltura no manejo dos elementos arquitetônicos e
 espaciais clássicos. Essa consolidação resulta na livre manipulação
 plástica de superfícies construídas e de espaços e na exploração de
