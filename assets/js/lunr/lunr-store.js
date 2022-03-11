@@ -89,6 +89,12 @@ var store = [{
         "url": "/tau0006/plano/analise-urbana/",
         "teaser": null
       },{
+        "title": "Como vamos trabalhar",
+        "excerpt":"Nossas ferramentas Moodle Neste semestre, você vai continuar estudando em modo remoto. Todo o conteúdo e as atividades da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/metodologia/",
+        "teaser": null
+      },{
         "title": "Leitura e estudo",
         "excerpt":"Como estudar Como estamos trabalhando a distância, a leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a videoconferência vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar as atividades! Antes, a videoconferência é uma ocasião para esclarecer dúvidas...","categories": [],
         "tags": [],
@@ -105,12 +111,6 @@ var store = [{
         "excerpt":"Como é feito o controle de frequência? A UnB considera oficialmente esta disciplina como sendo “presencial”, portanto temos que controlar a “frequência” ao longo do semestre. Assim, você deve se fazer “presente” em pelo menos 75 % da carga horária do semestre (45 de 60), participando ativa e produtivamente das discussões...","categories": [],
         "tags": [],
         "url": "/tau0006/plano/faq/",
-        "teaser": null
-      },{
-        "title": "Como vamos trabalhar",
-        "excerpt":"Nossas ferramentas Moodle Neste semestre, você vai continuar estudando em modo remoto. Todo o conteúdo e as atividades da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/metodologia/",
         "teaser": null
       },{
         "title": "Apresentação e acolhimento",
