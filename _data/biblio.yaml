@@ -1180,7 +1180,7 @@ references:
   language: en-US
   publisher: Penguin
   publisher-place: New York
-  title: Design of Cities
+  title: Design of cities
   type: book
 
 - id: badenhorst:2009central64
@@ -3531,9 +3531,9 @@ references:
   page: 448-469
   source: Crossref
   title: >-
-    Drawing with Numbers: Geometry and Numeracy in Early Modern Architectural
-    Design
-  title-short: Drawing with Numbers
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
   volume: '62'
@@ -6924,7 +6924,7 @@ references:
       month: 8
       day: 22
   citation-key: 'forbidden:'
-  language: English
+  language: en
   title: The Forbidden City 3D Model
   type: webpage
   URL: https://www.highend3d.com/3d-model/the-forbidden-city-3d-model-60598
@@ -8355,8 +8355,7 @@ references:
   language: en-GB
   page: 1-13
   source: JSTOR
-  title: 'Yingzao Fashi: twelfth-century Chinese building manual'
-  title-short: Yingzao fashi
+  title: '*Yingzao Fashi*: twelfth-century Chinese building manual'
   type: article-journal
   URL: https://www.jstor.org/stable/1568644
   volume: '41'
@@ -11163,9 +11162,9 @@ references:
   page: 470-489
   source: JSTOR
   title: >-
-    Reconstituting Chinese Building Tradition: The Yingzao fashi in the Early
-    Twentieth Century
-  title-short: Reconstituting Chinese Building Tradition
+    Reconstituting Chinese building tradition: the *Yingzao Fashi* in the early
+    twentieth century
+  title-short: Reconstituting Chinese building tradition
   type: article-journal
   URL: http://www.jstor.org/stable/3592498
   volume: '62'
@@ -19119,7 +19118,7 @@ references:
   number-of-pages: '52'
   publisher: Kokusai bunka shinkokai (The Society for International Cultural Relations)
   source: Google Books
-  title: Fundamentals of Japanese Architecture
+  title: Fundamentals of Japanese architecture
   type: book
 
 - id: teatro:gualtieri
