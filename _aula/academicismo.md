@@ -19,19 +19,17 @@ leitura: 573--575, Summerson 63--88
 
 # Colunata do Louvre #
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/1280px-Louvre_Paris_from_top.jpg"}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A contínua reconstrução e ampliação do Louvre é um retrato dos sistemas
 de poder político e cultural na França, e de como eles se transformam
 desde o século [XII]{.smallcaps} até o presente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Palácio do Louvre, vista aérea. [Kabel (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/1024px-Louvre_Paris_from_top.jpg){#fig:louvre-aerial}
+![Palácio do Louvre, vista aérea. [Kabel (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/1024px-Louvre_Paris_from_top.jpg){#fig:louvre-aerial .r-stretch}
 
 [Kabel (2005)]: https://commons.wikimedia.org/wiki/File:Louvre_Paris_from_top.jpg
 
-## 
+* * * *
 
 ![Fases de construção dos palácios do Louvre e das Tulherias, séculos [XII]{.smallcaps} a [XIX]{.smallcaps}. [Baseado em A.D.F. Hamlin (1915)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg.png){#fig:louvre-hamlin .line}
 
@@ -39,7 +37,7 @@ desde o século [XII]{.smallcaps} até o presente.
 
 <!--_-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg" data-background-position="top"}
+* * * *
 
 ![Vista do Louvre pelos irmãos Limbourg, [*Riquíssimas horas do duque de Berry* (1412--1416)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg/884px-Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg){#fig:louvre-berry}
 
@@ -54,7 +52,7 @@ artistas holandeses, para o livro de horas (ou seja, de orações) do
 duque de Berry ([@fig:louvre-berry]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-vue-moyen-age-jc-golvin.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O castelo do Louvre foi construído pelo rei da França Filipe Augusto em
@@ -66,13 +64,7 @@ rio Sena ([@fig:paris-golvin]).
 
 [Jean-Claude Golvin]: https://jeanclaudegolvin.com/paris/
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: slide-only
-<div class="fragment r-stretch">
-  <div class="r-frame" style="position: absolute; top: -20px; left: 24%; border: 8px solid #ff0000; border-radius: 50%; width: 120px; height: 120px"></div>
-</div>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg" data-background-position="top"}
+* * * *
 
 ![Louvre no século [XV]{.smallcaps}, segundo [Jean-Claude Golvin][]](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg){#fig:louvre-golvin}
 
@@ -83,7 +75,7 @@ nova muralha acaba sendo construída mais para oeste, e o castelo perde a
 sua função militar.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir daí, ele passa a funcionar sobretudo como um satélite do
@@ -100,7 +92,7 @@ debaixo das sucessivas reconstruções do palácio
 
 <!--._-->
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::: {.r-stack #fig:louvre-remplace}
 ![[1200--1555][]](https://upload.wikimedia.org/wikipedia/commons/6/64/Du_chateau_du_Louvre_à_la_cour_Carrée_1.jpg){#fig:louvre-remplaceA .align-left .fragment .current-visible}
@@ -125,7 +117,7 @@ ampliações do quadrado original, que prossegue até o século [XVII]{.smallcap
 ([@fig:louvre-remplace]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bd/Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg" background-position="bottom"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O passo crucial nesse processo é a decisão de dobrar o comprimento de
@@ -144,7 +136,7 @@ Pierre Lescot nas elevações sobre o pátio.
 
 <!--._-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/0b/Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg"}
+* * * *
 
 ![Sobreposição do Louvre moderno e do tecido urbano medieval e renascentista. [Berty (1866)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg/782px-Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg){#fig:louvre-berty .align-right}
 
@@ -159,7 +151,7 @@ extensa área urbanizada com algumas moradas nobres
 deixando por último a fachada principal, aquela voltada para o leste.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LouvreL13.jpg/1280px-LouvreL13.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O primeiro a enfrentar essa dificuldade é o arquiteto real de Luís XIII,
@@ -174,7 +166,7 @@ pai de Luís XIII ([@fig:louvre1642]).
 
 [Israël Silvestre (1642)]: https://commons.wikimedia.org/wiki/File:LouvreL13.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louvre_Cour_Carrée_June_2010.jpg/1280px-Louvre_Cour_Carrée_June_2010.jpg"}
+* * * *
 
 ![Pátio Quadrado do Louvre, vista das alas Lescot e Lemercier (oeste), 1546--1642. [King of Hearts (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louvre_Cour_Carrée_June_2010.jpg/1024px-Louvre_Cour_Carrée_June_2010.jpg){#fig:louvre-cour-lemercier}
 
@@ -186,7 +178,7 @@ composição de conjunto como um valor superior ao ego do arquiteto, ou
 mesmo à ideologia de expressar o estilo "do seu tempo" ([@fig:louvre-cour-lemercier]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entretanto, o problema da fachada oriental do Louvre continua em aberto.
@@ -202,7 +194,7 @@ ao gosto das primeiras décadas do século [XVII]{.smallcaps}.
 
 <!--_-->
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .r-stretch}
 ::: {.column width=50%}
@@ -230,7 +222,7 @@ geração de governantes assume o poder e um novo modelo de gestão das
 obras públicas começa a tomar forma.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa geração tem como primeira referência o cardeal italiano Júlio
@@ -257,7 +249,7 @@ públicas da Coroa.
 
 [Pierre Mignard (1658--1660)]: https://commons.wikimedia.org/wiki/File:Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg"}
+* * * *
 
 ![[Henri Testelin][], Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675--1680)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg){#fig:testelin}
 
@@ -274,7 +266,7 @@ outros na política mercantilista e absolutista da segunda metade do
 século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 À primeira vista, o novo primeiro arquiteto do Rei, Louis Le Vau
@@ -299,7 +291,7 @@ areia num dos endereços mais prestigiosos da capital.
 
 [Turgot (1739)]: https://commons.wikimedia.org/wiki/File:Ile_St-Louis_Plan_de_Turgot_1739.jpg
 
-##
+* * * *
 
 ![Fachada de Louis Le Vau para o exterior da ala sul do Louvre, 1657. [Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg){#fig:louvre-sud-marot .full}
 
@@ -315,7 +307,7 @@ palácio, inspirado em Lemercier, mas que traz alguns elementos do gosto
 italiano recente, como as colunas colossais ([@fig:louvre-sud-marot]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg/1280px-Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg" data-background-position="right"}
+* * * *
 
 ![Projeto de Louis Le Vau para o Louvre e o collège des Quatre-Nations, 1659 ou 1663. Reproduzido em [Ballon (1999)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg/1280px-Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg){#fig:plan-de-la-paix-det}
 
@@ -327,7 +319,7 @@ porém viável, para o Louvre. Ele considera o entorno urbanístico,
 inclusive as vistas de uma margem para a outra do rio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A situação de Le Vau perante a administração real começa a se complicar
@@ -354,28 +346,30 @@ movimentado.
 ::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
 
-### Gosto "romano" e francês c. 1660 ###
+Gosto "romano" e francês c. 1660
 
 - Fachada unificada com ordens colossais
 - Composição horizontal contínua
 - Ênfase no andar nobre
 - Coroamento horizontal com balaustradas e telhado oculto
 - Fachada com volumetria pronunciada
+
 :::
 ::: {.column width=50%}
 
-### Louvre existente e França c. 1600 ###
+Louvre existente e França c. 1600
 
 - Fachada em bandas horizontais por pavimento
 - Composição de pavilhões e alas
 - Ênfase no térreo
 - Telhados muito inclinados, mansardas e águas-furtadas
 - Fachada num plano pouco movimentado
+
 :::
 :::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/81/c1/5d/81c15de46710afdf2ff91df214cd349f.png" data-background-size="contain"}
+* * * *
 
 ![Reconstituição do projeto de 1664 de Le Vau para a fachada leste do Louvre, segundo [Tadgell, 1980][tadgell:1980claude122]](https://i.pinimg.com/originals/81/c1/5d/81c15de46710afdf2ff91df214cd349f.png){#fig:levau-tadgell}
 
@@ -391,7 +385,7 @@ reconstituição mostra a dificuldade que Le Vau tem para equacionar essas
 exigências conflitantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, Le Vau entra em conflito com Colbert. Como antigo
@@ -430,7 +424,7 @@ estatal diante das pressões políticas.
 
 [Gérard Edelinck (c. 1660--1700)]: https://commons.wikimedia.org/wiki/File:Claude_Perrault_by_Gérard_Edelinck.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/04/Bernini-Louvre-First-Design.jpg"}
+* * * *
 
 ![[Primeiro projeto de Bernini para o Louvre, junho de 1664][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bernini-Louvre-First-Design.jpg/1024px-Bernini-Louvre-First-Design.jpg){#fig:bernini1}
 
@@ -456,19 +450,28 @@ perfil da fachada de Bernini segue, aproximadamente, o traçado das alas
 projetantes de Le Vau que a essa altura já começaram a ser construídas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/bc/89/02/bc890233f0584820e228dbf3784d87f6.png"}
+* * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Depois de algumas idas e vindas por correspondência e uma primeira
 revisão do projeto para o tornar mais econômico, Bernini é convidado a
 visitar Paris no início de 1665. Mais do que uma realização artística,
 esse convite é um triunfo diplomático para Luís XIV, que demonstra o seu
 poder de convencer ninguém menos que o Papa a liberar o seu mais famoso
 artista.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Segundo projeto de Bernini para o Louvre, 1665](https://i.pinimg.com/originals/bc/89/02/bc890233f0584820e228dbf3784d87f6.png){#fig:bernini2}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg"}
+* * * *
 
+![[Quarto projeto de Bernini para o Louvre, 1664][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg){#fig:bernini4}
+
+[Quarto projeto de Bernini para o Louvre, 1664]: https://commons.wikimedia.org/wiki/File:L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg
+
+<!--._-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O prestígio de Bernini serve para descartar o projeto de Le Vau, mas o
 substitui por outro problema semelhante, aos olhos de Colbert: um
 artista independente da administração do Estado, com acesso direto ao
@@ -477,33 +480,22 @@ franceses. Por isso, Colbert toma o cuidado de capitalizar em cima do
 prestígio diplomático e cultural que representa a vinda de Bernini a
 Paris, mas intriga com Charles Perrault para inviabilizar a execução do
 projeto, que já chega na sua quarta versão ([@fig:bernini4]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![[Quarto projeto de Bernini para o Louvre, 1664][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg){#fig:bernini4}
+* * * *
 
-[Quarto projeto de Bernini para o Louvre, 1664]: https://commons.wikimedia.org/wiki/File:L'Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg
-
-<!--._-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mignot-Babelon-Mansart-227-de-Cotte-967.jpg/1280px-Mignot-Babelon-Mansart-227-de-Cotte-967.jpg"}
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com Bernini em Paris, Colbert consegue convencer Le Vau a colaborar com
 François Mansart e o pintor Charles Le Brun num projeto alternativo, em
 parte baseado no projeto de 1663 do próprio Le Vau, como atesta este
 desenho da mão de Mansart ([@fig:louvre-mansart]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Projeto de François Mansart para o Louvre, 1664 ou 1665. [Acervo Robert de Cotte 967][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mignot-Babelon-Mansart-227-de-Cotte-967.jpg/1024px-Mignot-Babelon-Mansart-227-de-Cotte-967.jpg){#fig:louvre-mansart}
 
 [Acervo Robert de Cotte 967]: https://commons.wikimedia.org/wiki/File:Mignot-Babelon-Mansart-227-de-Cotte-967.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Claude_Perrault,_perspective_bird's-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg/1280px-Claude_Perrault,_perspective_bird's-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg" data-background-position="bottom"}
-
-Em 1666, com Bernini já de volta em Roma, Colbert consegue virar o jogo
-em benefício próprio. O comitê de projetistas agora conta com Claude
-Perrault, irmão de Charles, no lugar do falecido Mansart, e com a
-colaboração de François, irmão de Louis Le Vau, e do primeiro desenhista
-do escritório de Le Vau, François d'Orbay. Esse grupo realiza um projeto
-totalmente novo, com uma colunata formada por pares de colunas colossais
-sobre um térreo rusticado ([@fig:colonnade-1668]).
+* * * *
 
 ![Mais antigo desenho remanescente do projeto executado para a colunata do Louvre. Provavelmente [Claude Perrault (1668)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Claude_Perrault,_perspective_bird's-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg/1280px-Claude_Perrault,_perspective_bird's-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg){#fig:colonnade-1668}
 
@@ -511,8 +503,19 @@ sobre um térreo rusticado ([@fig:colonnade-1668]).
 
 <!--._-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg/1280px-Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em 1666, com Bernini já de volta em Roma, Colbert consegue virar o jogo
+em benefício próprio. O comitê de projetistas agora conta com Claude
+Perrault, irmão de Charles, no lugar do falecido Mansart, e com a
+colaboração de François, irmão de Louis Le Vau, e do primeiro desenhista
+do escritório de Le Vau, François d'Orbay. Esse grupo realiza um projeto
+totalmente novo, com uma colunata formada por pares de colunas colossais
+sobre um térreo rusticado ([@fig:colonnade-1668]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em 1667, o projeto do comitê de Colbert é aprovado por Luís XIV, mas a
 essa altura o rei já tem dado mais atenção para Versalhes do que para o
 Louvre. O próprio Le Vau acaba deslocado para o novo palácio e deixa o
@@ -526,6 +529,7 @@ meio de um guindaste projetado por Claude Perrault. Essa conquista vira
 motivo para um debate que se intensifica na França do final do século
 [XVII]{.smallcaps} sobre os méritos relativos da Antiguidade e da modernidade --- um
 episódio conhecido como Querela dos Antigos e dos Modernos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Colocação das cornijas inclinadas na fachada leste do Louvre. Gravura por [Sébastien Leclerc (1677)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg/1024px-Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg){#fig:louvre-pediment}
 
@@ -533,18 +537,20 @@ episódio conhecido como Querela dos Antigos e dos Modernos.
 
 <!--._-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg/1280px-Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg" data-background-position="bottom"}
-
-Por fim, a resolução do projeto na famosa Colunata do Louvre tem
-consequências tanto para a orientação estética da arquitetura francesa
-do final do século [XVII]{.smallcaps} até meados do século [XVIII]{.smallcaps}, quanto para a
-definição da profissão de arquiteto.
+* * * *
 
 ![Fachada oriental do Louvre, projeto "definitivo" (construído com alterações). Publicado na [Enciclopédia (1762)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg/1018px-Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg){#fig:colonnade-encyclopedie}
 
 [Enciclopédia (1762)]: https://commons.wikimedia.org/wiki/File:Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg
 
 <!--._-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por fim, a resolução do projeto na famosa Colunata do Louvre tem
+consequências tanto para a orientação estética da arquitetura francesa
+do final do século [XVII]{.smallcaps} até meados do século [XVIII]{.smallcaps}, quanto para a
+definição da profissão de arquiteto.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Academias de arte e o ofício da arquitetura #
 
