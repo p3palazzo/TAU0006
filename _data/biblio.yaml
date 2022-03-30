@@ -374,7 +374,8 @@ references:
   language: en-US
   publisher: Oxford University Press
   publisher-place: New York
-  title: 'A Pattern Language: Towns, Buildings, Construction'
+  title: 'A pattern language: towns, buildings, construction'
+  title-short: A pattern language
   type: book
 
 - id: alexander:2002nature
@@ -6442,6 +6443,7 @@ references:
 - id: fauvelle:2019atlas
   call-number: G2446.S1 B3 2019
   citation-key: fauvelle:2019atlas
+  collection-title: Collection Atlas/mémoires
   editor:
     - family: Fauvelle
       given: François-Xavier
@@ -7362,9 +7364,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -10539,7 +10539,7 @@ references:
     - family: Langhein
       given: Joachim
   citation-key: langhein:2013proportion
-  container-title: INTBAU Ideas and Opinions
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
   issue: '10'
   issued:
     - year: 2013
@@ -13258,8 +13258,9 @@ references:
   page: 669-685
   source: JSTOR
   title: >-
-    Concepts of Abstraction in French Art Theory from the Enlightenment to
+    Concepts of abstraction in French art theory from the Enlightenment to
     Modernism
+  title-short: Concepts of abstraction
   type: article-journal
   URL: https://www.jstor.org/stable/2709943
   volume: '53'
