@@ -374,7 +374,8 @@ references:
   language: en-US
   publisher: Oxford University Press
   publisher-place: New York
-  title: 'A Pattern Language: Towns, Buildings, Construction'
+  title: 'A pattern language: towns, buildings, construction'
+  title-short: A pattern language
   type: book
 
 - id: alexander:2002nature
@@ -1180,7 +1181,7 @@ references:
   language: en-US
   publisher: Penguin
   publisher-place: New York
-  title: Design of Cities
+  title: Design of cities
   type: book
 
 - id: badenhorst:2009central64
@@ -3531,9 +3532,9 @@ references:
   page: 448-469
   source: Crossref
   title: >-
-    Drawing with Numbers: Geometry and Numeracy in Early Modern Architectural
-    Design
-  title-short: Drawing with Numbers
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
   volume: '62'
@@ -6442,6 +6443,7 @@ references:
 - id: fauvelle:2019atlas
   call-number: G2446.S1 B3 2019
   citation-key: fauvelle:2019atlas
+  collection-title: Collection Atlas/mémoires
   editor:
     - family: Fauvelle
       given: François-Xavier
@@ -6924,7 +6926,7 @@ references:
       month: 8
       day: 22
   citation-key: 'forbidden:'
-  language: English
+  language: en
   title: The Forbidden City 3D Model
   type: webpage
   URL: https://www.highend3d.com/3d-model/the-forbidden-city-3d-model-60598
@@ -7362,9 +7364,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -8355,8 +8355,7 @@ references:
   language: en-GB
   page: 1-13
   source: JSTOR
-  title: 'Yingzao Fashi: twelfth-century Chinese building manual'
-  title-short: Yingzao fashi
+  title: '*Yingzao Fashi*: twelfth-century Chinese building manual'
   type: article-journal
   URL: https://www.jstor.org/stable/1568644
   volume: '41'
@@ -10540,7 +10539,7 @@ references:
     - family: Langhein
       given: Joachim
   citation-key: langhein:2013proportion
-  container-title: INTBAU Ideas and Opinions
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
   issue: '10'
   issued:
     - year: 2013
@@ -11163,9 +11162,9 @@ references:
   page: 470-489
   source: JSTOR
   title: >-
-    Reconstituting Chinese Building Tradition: The Yingzao fashi in the Early
-    Twentieth Century
-  title-short: Reconstituting Chinese Building Tradition
+    Reconstituting Chinese building tradition: the *Yingzao Fashi* in the early
+    twentieth century
+  title-short: Reconstituting Chinese building tradition
   type: article-journal
   URL: http://www.jstor.org/stable/3592498
   volume: '62'
@@ -13259,8 +13258,9 @@ references:
   page: 669-685
   source: JSTOR
   title: >-
-    Concepts of Abstraction in French Art Theory from the Enlightenment to
+    Concepts of abstraction in French art theory from the Enlightenment to
     Modernism
+  title-short: Concepts of abstraction
   type: article-journal
   URL: https://www.jstor.org/stable/2709943
   volume: '53'
@@ -18806,14 +18806,13 @@ references:
       given: Christopher
   citation-key: tadgell:1980claude122
   container-title: The Burlington Magazine
-  container-title-short: The Burlington Magazine
   ISSN: 0007-6287
   issue: '926'
   issued:
     - year: 1980
       month: 5
       day: 1
-  language: English
+  language: en
   page: 326-337
   source: JSTOR
   title: Claude Perrault, François Le Vau and the Louvre Colonnade
@@ -19120,7 +19119,7 @@ references:
   number-of-pages: '52'
   publisher: Kokusai bunka shinkokai (The Society for International Cultural Relations)
   source: Google Books
-  title: Fundamentals of Japanese Architecture
+  title: Fundamentals of Japanese architecture
   type: book
 
 - id: teatro:gualtieri
