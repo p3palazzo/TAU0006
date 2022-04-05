@@ -9,7 +9,11 @@ toc:
   - Carpintaria japonesa
   - Virtuosismo estrutural
   - Presságios
-leitura: 
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg/2560px-Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg
+  caption: "Katsushika Hokusai, [Serraria em Honjo](https://commons.wikimedia.org/wiki/File:Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg), c. 1830"
+title-slide-attributes:
+  data-background-image: https://i.pinimg.com/originals/57/5b/0b/575b0b366b9196fac7a8c35db7d1a751.jpg
 ---
 
 # Teorias do barroco #
@@ -556,5 +560,5 @@ O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
 Guarini e tinha um interesse semelhante pela relação entre construção e
 matemática.
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Bibliografia # {- .allowframebreaks .unlisted}
 
