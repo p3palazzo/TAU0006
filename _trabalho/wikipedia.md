@@ -3,6 +3,11 @@ title   : "Pesquisa e crítica"
 subtitle: "Viação e território, inquietações contemporâneas"
 item    : "Trabalho III"
 date    : 2022-05-04
+excerpt: >
+  Construção de um argumento historiográfico ou teórico breve,
+  fundamentado em pesquisa bibliográfica e iconográfica, versando sobre
+  um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
+  séculos XV a XVIII, como parte de um verbete da Wikipédia.
 toc:
   - Objetivo
   - Contexto
@@ -12,8 +17,8 @@ toc:
   - Critérios de avaliação
   - Dicas de pesquisa
 header:
-  overlay_image:
-  caption:
+  overlay_image: http://burkecollection.org/system/images/46/original/46-1.jpg?1398281735
+  caption: "[A escritora Koōgimi](http://burkecollection.org/catalogue/46-ko%C5%8Dgimi-from-fujifusa-version-of-thirty-six-immortal-poets), de um rolo da primeira metade do século [XV]{.smallcaps}"
 ---
 
 # Objetivo #

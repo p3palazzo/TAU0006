@@ -4,10 +4,11 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-01-25
-toc:
-  - Retorno aos princípios na China
-  - Cidade e praça na Europa
-  - Campo e canal em Veneza
+excerpt: >
+  Retorno aos princípios na China –
+  Cidade e praça na Europa –
+  Campo e canal em Veneza –
+  Tratados de urbanismo
 leitura: 425, 491--500, Summerson 141--145
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/fra_carnevale-the_ideal_city-google_art_project-scaled.jpg
@@ -54,7 +55,9 @@ rumo à estabilidade.
 
 ## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
 
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .align-right}
+::: align-right
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng  }
+:::
 
 [Wang Weijen, 2010 [(A)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html
 
@@ -180,11 +183,15 @@ império.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg" data-background-size="contain"}
 
-![Parcelamento urbano na malha regular](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha .align-right}
+::: align-right
+![Parcelamento urbano na malha regular](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha  }
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg"}
 
-![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line .full}
+::: full
+![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line  }
+:::
 
 [Wang Weijen, 2010 [(C)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_10.html
 
@@ -235,7 +242,9 @@ bancas na frente das lojas tende a se tornar permanente, reduzindo a
 largura dessas avenidas em vários pontos e deformando o seu alinhamento ([@fig:song-shi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi .full}
+::: full
+![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi  }
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg"}
 
@@ -291,7 +300,9 @@ geralmente ocupando a outra extremidade.
 
 <!--_-->
 
-![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .full}
+::: full
+![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, mais do que a forma desse espaço, o que importa na cidade
@@ -367,7 +378,9 @@ praça, contribuem para organização regular do espaço.
 
 <!--_,-->
 
-![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .full}
+::: full
+![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em qualquer caso, no século [XV]{.smallcaps} a pintura em perspectiva no centro da
@@ -395,11 +408,15 @@ principalmente, um recurso para ordenar a disposição desses edifícios,
 auxiliado pela regularidade na paginação do piso sempre pavimentado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale .full}
+::: full
+![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale  }
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
 
-![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin .full}
+::: full
+![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin  }
+:::
 
 <!--_,-->
 
@@ -457,7 +474,9 @@ lembrem-se desta:
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png"}
 
-![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line .full}
+::: full
+![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em Pienza, a cidade do papa Pio II, o arquiteto Bernardo Rossellino
@@ -482,7 +501,9 @@ um antigo hipódromo romano, todos os edifícios --- mesmo os mais
 importantes, como a catedral --- se submetem à forma do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .full}
+::: full
+![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano  }
+:::
 
 ## {data-background-video="" data-background-video-muted="true"}
 
@@ -494,7 +515,9 @@ Vistas de Vigevano, incluindo a praça Ducal. Filmagem: [Massimo Nalli, 2021](ht
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png"}
 
-![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan .full}
+::: full
+![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan  }
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"}
 
@@ -512,7 +535,9 @@ suficiente.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"}
 
-![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .full}
+::: full
+![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Muitos desses espaços urbanos adquirem a sua forma ao longo de décadas
@@ -606,7 +631,9 @@ maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![[Estrada real por Monthléry e Linas][], departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745--80](https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg){#fig:trudaine .full}
+::: full
+![[Estrada real por Monthléry e Linas][], departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745--80](https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg){#fig:trudaine  }
+:::
 
 [Estrada real por Monthléry e Linas]: http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&FIELD_2=Cote&VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&NUMBER=4&GRP=0&REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&USRNAME=nobody&USRPWD=4%24%2534P&SPEC=9&SYN=1&IMLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All
 
@@ -653,7 +680,9 @@ praças ([@fig:canaletto1730; @fig:querena1878]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png" data-background-size="contain"}
 
-![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia .align-right}
+::: align-right
+![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -678,7 +707,9 @@ medievais, com corredor lateral.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg" data-background-size="contain"}
 
-![Saverio Muratori (1910--1973)](https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg){#fig:muratori-foto .align-right}
+::: align-right
+![Saverio Muratori (1910--1973)](https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg){#fig:muratori-foto  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 <!--Câmera--> 

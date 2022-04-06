@@ -1,14 +1,14 @@
 ---
-title   : "Hidráulica"
+title   : "Arquiteturas humanistas"
 subtitle: "Gramática, vocabulário, dialetos"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-02-22
-toc:
-  - Arquitetura do humanismo
-  - Jardins da Ásia central
-  - Mausoléus indianos
-  - Saberes corporativos e tratadística na França
+excerpt: >
+  Arquitetura do humanismo –
+  Jardins da Ásia central –
+  Mausoléus indianos –
+  Saberes corporativos e tratadística na França
 leitura: 520--530, Summerson 39--62
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
@@ -536,7 +536,9 @@ lado do rio ([@fig:isfahan-schema-charbagh]).
 
 ## {data-background-image="https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg" data-background-size="contain" data-background-position="right"}
 
-![Isfahan, chahār-bāgh e grande bazar](https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg){#fig:chaharbagh-bazaar .align-right .slide-bg}
+::: align-right
+![Isfahan, chahār-bāgh e grande bazar](https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg){#fig:chaharbagh-bazaar   .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg"}
 

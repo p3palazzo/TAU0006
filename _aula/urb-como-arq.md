@@ -4,11 +4,11 @@ subtitle: "Viação e território, inquietações contemporâneas"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-03-29
-toc:
-  - Sincretismo cultural na Etiópia
-  - Desenhos desmedidos
-  - Sincretismo eurasiático
-  - Jardim chinês
+excerpt: >
+  Sincretismo cultural na Etiópia –
+  Desenhos desmedidos –
+  Sincretismo eurasiático –
+  Jardim chinês
 leitura: 576--598
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/2560px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg

@@ -4,11 +4,11 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-02-15
-toc:
-  - Invenção do classicismo
-  - Arquitetura clássica I › Elementos
-  - Arquitetura clássica II › Volumes
-  - Arquitetura clássica III › Superfícies e volumes
+excerpt: >
+  Invenção do classicismo –
+  Arquitetura clássica I › Elementos –
+  Arquitetura clássica II › Volumes –
+  Arquitetura clássica III › Superfícies e volumes
 leitura: Summerson 1--37, ver também o Glossário ao final
 header:
   overlay_image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
@@ -106,7 +106,9 @@ obsoleta.
 
 ## {data-background-image="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg"}
 
-![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri .slide-bg .align-right}
+::: align-right
+![Manfredo Tafuri (1935--1994)](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri .slide-bg  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para Manfredo Tafuri ([@fig:tafuri]), um arquiteto marxista, o estudo da história da
@@ -435,7 +437,9 @@ horizontais ou abobadadas ([@fig:krier-27b]).
 
 ## {data-background-image="https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg" data-background-size="contain" data-background-position="right"}
 
-![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*](https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg){#fig:liang-order .slide-bg .align-right}
+::: align-right
+![Lin Huiyin e Liang Sicheng, "ordem chinesa" deduzida do *Yingzao fashi*](https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg){#fig:liang-order .slide-bg  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 De todos os elementos da arquitetura, as chamadas "ordens" de colunas
@@ -534,7 +538,9 @@ em 1570, que vai influenciar sobretudo a Inglaterra.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png"}
 
-![Robert Chitham, *As cinco ordens de arquitetura*, 2005](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png){#fig:chitham-5orders .slide-bg .full}
+::: full
+![Robert Chitham, *As cinco ordens de arquitetura*, 2005](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png){#fig:chitham-5orders .slide-bg  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir desses três tratados, o sistema clássico se estabiliza
@@ -555,11 +561,15 @@ clássica raramente existe isolada ([@fig:chitham-167]): o entablamento, que é 
 pingadeira e coroamento da ordem, sempre acompanha uma colunata...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Intercolúnios segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png){#fig:chitham-167 .slide-bg .full}
+::: full
+![Intercolúnios segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png){#fig:chitham-167 .slide-bg  }
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png"}
 
-![Proporções da ordem coríntia segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png){#fig:chitham-083-085 .slide-bg .full}
+::: full
+![Proporções da ordem coríntia segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png){#fig:chitham-083-085 .slide-bg  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ...mas é, sobretudo, um sistema decorativo. Cada um dos três componentes
@@ -583,11 +593,15 @@ ser igualmente manipulado a partir das dimensões do conjunto, por
 divisões sucessivas até chegar no módulo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Elementos complementares das ordens clássicas segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png){#fig:chitham-181-197 .slide-bg .full}
+::: full
+![Elementos complementares das ordens clássicas segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png){#fig:chitham-181-197 .slide-bg  }
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png"}
 
-![Arcadas e rusticação segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png){#fig:chitham-175-191 .full .slide-bg}
+::: full
+![Arcadas e rusticação segundo Chitham](https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png){#fig:chitham-175-191   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O algoritmo das ordens clássicas é, portanto, uma regra eficiente para

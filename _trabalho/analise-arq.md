@@ -6,6 +6,13 @@ date    : 2022-03-30
 header:
   overlay_image: https://mulvanyandrogers.com/wp-content/uploads/2020/07/Gallery-Louis-XVI-Library-.jpg
   caption: "Modelo em escala 1:12 de uma biblioteca em estilo Luís XVI, por [Mulvany and Rogers](https://mulvanyandrogers.com/gallery/)"
+excerpt: >
+  Analisar um volume clássico dos séculos XV ao
+  XVIII por meio da forma geométrica e proporções dos seus
+  espaços, evidenciando as operações que dão forma a esses volumes:
+  justaposição, união, subtração, deformação, e articulação de planos ou
+  recessão, em todas as escalas da configuração geral até os detalhes
+  construtivos e decorativos.
 toc:
   - Objetivo
   - Contexto

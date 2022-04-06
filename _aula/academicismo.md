@@ -4,11 +4,11 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : V
 author  : Pedro P. Palazzo
 date    : 2022-03-22
-toc:
-  - Colunata do Louvre
-  - Academias de arte e o ofício da arquitetura
-  - Desenho e convenção
-  - Querela dos Antigos e dos Modernos
+excerpt: >
+  Colunata do Louvre –
+  Academias de arte e o ofício da arquitetura –
+  Desenho e convenção –
+  Querela dos Antigos e dos Modernos
 header:
   overlay_image: https://i.pinimg.com/originals/37/eb/5d/37eb5d10cf3f9fbbe8d17fd9508b63fe.jpg
   caption: "Pierre-Antoine Demachy, [A colunata do Louvre recentemente liberada](https://commons.wikimedia.org/wiki/File:Pierre-Antoine_Demachy_-_La_colonnade_du_Louvre,_nouvellement_dégagée_-_P92_-_Musée_Carnavalet.jpg), 1773"
@@ -138,7 +138,9 @@ Pierre Lescot nas elevações sobre o pátio.
 
 * * * *
 
-![Sobreposição do Louvre moderno e do tecido urbano medieval e renascentista. [Berty (1866)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg/782px-Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg){#fig:louvre-berty .align-right}
+::: align-right
+![Sobreposição do Louvre moderno e do tecido urbano medieval e renascentista. [Berty (1866)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg/782px-Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg){#fig:louvre-berty  }
+:::
 
 [Berty (1866)]: https://commons.wikimedia.org/wiki/File:Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg
 
@@ -188,7 +190,9 @@ reproduzida no catálogo de *Arquitetura francesa* de Jean Marot
 ao gosto das primeiras décadas do século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. [Jean Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg){#fig:louvre-lemercier-orientale .full}
+::: full
+![Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. [Jean Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg){#fig:louvre-lemercier-orientale  }
+:::
 
 [Jean Marot (1686)]: https://commons.wikimedia.org/wiki/Category:L'Architecture_française_(Marot)_BnF_RES-V-371_–_Gallica_2013
 
@@ -293,7 +297,9 @@ areia num dos endereços mais prestigiosos da capital.
 
 * * * *
 
-![Fachada de Louis Le Vau para o exterior da ala sul do Louvre, 1657. [Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg){#fig:louvre-sud-marot .full}
+::: full
+![Fachada de Louis Le Vau para o exterior da ala sul do Louvre, 1657. [Marot (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg/1280px-L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg){#fig:louvre-sud-marot  }
+:::
 
 [Marot (1686)]: https://commons.wikimedia.org/wiki/File:L'Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg
 

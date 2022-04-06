@@ -4,11 +4,11 @@ subtitle: "Viação e território, inquietações contemporâneas"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-04-05
-toc:
-  - Teorias do barroco
-  - Carpintaria japonesa
-  - Virtuosismo estrutural
-  - Presságios
+excerpt: >
+  Teorias do barroco –
+  Carpintaria japonesa –
+  Virtuosismo estrutural –
+  Presságios
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg/2560px-Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg
   caption: "Katsushika Hokusai, [Serraria em Honjo](https://commons.wikimedia.org/wiki/File:Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg), c. 1830"

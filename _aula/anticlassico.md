@@ -4,11 +4,11 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-03-08
-toc:
-  - Composição
-  - Parataxis
-  - Projeto iterativo
-  - Espaço geométrico
+excerpt: >
+  Composição –
+  Parataxis –
+  Projeto iterativo –
+  Espaço geométrico
 leitura: 539--551
 title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/db/e5/cd/dbe5cd7d5715ff9c5f2fc619d9115214.jpg
@@ -133,7 +133,9 @@ renascentista enquanto vazio delimitado por superfícies articuladas.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg"}
 
-![Claustro de S. Maria della Pace, detalhe da pilastra de canto. Foto: [M.M., 2013][mm:2013angolo]](https://upload.wikimedia.org/wikipedia/commons/9/9f/RomaChiostroBramante-OrdineInferioreAngolo.jpg){#fig:chiostro-pace-angolo .align-right}
+::: align-right
+![Claustro de S. Maria della Pace, detalhe da pilastra de canto. Foto: [M.M., 2013][mm:2013angolo]](https://upload.wikimedia.org/wikipedia/commons/9/9f/RomaChiostroBramante-OrdineInferioreAngolo.jpg){#fig:chiostro-pace-angolo  }
+:::
 
 [mm:2013angolo]: https://commons.wikimedia.org/wiki/File:RomaChiostroBramante-OrdineInferioreAngolo.jpg
 
@@ -545,7 +547,9 @@ e aplicação do sistema da arquitetura clássica.
 
 ## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2017/10/italie-roma-cirque-de-caligula-jc-golvin.jpg" data-background-size="contain"}
 
-![Jean-Claude Golvin, reconstituição do circo de Calígula ao pé do monte do Vaticano, 37--50 d.C.](https://jeanclaudegolvin.com/wp-content/uploads/2017/10/italie-roma-cirque-de-caligula-jc-golvin.jpg){#fig:jcg-caligula .full .slide-bg}
+::: full
+![Jean-Claude Golvin, reconstituição do circo de Calígula ao pé do monte do Vaticano, 37--50 d.C.](https://jeanclaudegolvin.com/wp-content/uploads/2017/10/italie-roma-cirque-de-caligula-jc-golvin.jpg){#fig:jcg-caligula   .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg/1280px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg"}
 
@@ -632,7 +636,9 @@ Escola de Atenas (ver [@fig:atene])
 Primeiro de muitos ensaios de retorno a uma planta longitudinal.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Antonio e Giuliano da Sangallo (atribuição), projetos para a basílica de São Pedro, c. 1505--1510. Reconstituições por [Paul Letarouilly, c. 1850](https://commons.wikimedia.org/wiki/File:Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg/2560px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg){#fig:spietro-sangallo .full .slide-bg}
+::: full
+![Antonio e Giuliano da Sangallo (atribuição), projetos para a basílica de São Pedro, c. 1505--1510. Reconstituições por [Paul Letarouilly, c. 1850](https://commons.wikimedia.org/wiki/File:Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg/2560px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg){#fig:spietro-sangallo   .slide-bg}
+:::
 
 ## {data-background-image="https://www.researchgate.net/profile/Joao-Xavier-7/publication/226963956/figure/fig9/AS:311005834956811@1451160977754/Baldassarre-Peruzzi-design-for-San-Pietro-di-Roma-Firenze-U2A_W640.jpg" data-background-size="contain"}
 
@@ -703,7 +709,9 @@ gigantesca da basílica de São Pedro.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg"}
 
-![Caspar van Wittel, [São Pedro em Roma, 1711](https://commons.wikimedia.org/wiki/File:Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg){#fig:vanwittel-spietro .full .slide-bg}
+::: full
+![Caspar van Wittel, [São Pedro em Roma, 1711](https://commons.wikimedia.org/wiki/File:Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter's_in_Rome_-_WGA25822.jpg){#fig:vanwittel-spietro   .slide-bg}
+:::
 
 <!--_-->
 

@@ -4,10 +4,16 @@ subtitle: "Viação e território, inquietações contemporâneas"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-04-19
-toc:
-  - Classicismo para o povo
-  - Novidade e correção na crítica do século XVIII
+excerpt: >
+  Classicismo para o povo –
+  Novidade e correção na crítica do século XVIII –
+  Tradição e caráter nacional no Japão
 leitura: 599--625
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
+  caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
+title-slide-attributes:
+  data-background-slide: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
 ---
 
 # Classicismo para o povo #
@@ -555,7 +561,7 @@ Dois tipos de racionalismo:
 
 ## Maturidade das tradições ##
 
-## Tradição e caráter nacional no Japão ##
+# Tradição e caráter nacional no Japão #
 
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência

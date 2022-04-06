@@ -4,11 +4,11 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-03-15
-toc:
-  - Geometrias da fortificação
-  - Praças reais e cidades coloniais
-  - Modos de morar no Mediterrâneo moderno
-  - Bioclimatismo e arquitetura clássica
+excerpt: >
+  Geometrias da fortificação –
+  Praças reais e cidades coloniais –
+  Modos de morar no Mediterrâneo moderno –
+  Bioclimatismo e arquitetura clássica
 leitura: 552--572
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
@@ -43,7 +43,9 @@ anteriormente](cidades-possiveis.md).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg"}
 
-![Monpazier, possessões inglesas na França, 1285. Foto: [Prefeitura de Monpazier, 2013][mairiemonpazier:2013vue]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne .full .slide-bg}
+::: full
+![Monpazier, possessões inglesas na França, 1285. Foto: [Prefeitura de Monpazier, 2013][mairiemonpazier:2013vue]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1280px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-aerienne   .slide-bg}
+:::
 
 [mairiemonpazier:2013vue]: https://commons.wikimedia.org/wiki/File:Vue_aérienne_de_Monpazier.jpg
 
@@ -199,7 +201,9 @@ Levantamento fotogramétrico do castelo de S. Jorge da Mina. [Zamani Project, 20
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/33/AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg"}
 
-![Cidade Maurícia e o Recife. Mapa por [Andreas Drewisch Bongesaltensis, 1631][]](https://upload.wikimedia.org/wikipedia/commons/3/33/AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg){#fig:mauritsstad .full .slide-bg}
+::: full
+![Cidade Maurícia e o Recife. Mapa por [Andreas Drewisch Bongesaltensis, 1631][]](https://upload.wikimedia.org/wikipedia/commons/3/33/AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg){#fig:mauritsstad   .slide-bg}
+:::
 
 [Andreas Drewisch Bongesaltensis, 1631]: https://commons.wikimedia.org/wiki/File:AMH-8581-NA_Map_of_Mauritsstad_and_Recife.jpg
 
@@ -305,7 +309,9 @@ bonificação do vale do Po na região de Gualtieri.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg"}
 
-![Praça ducal, Charleville. Foto: [Velvet, 2013][velvet:2013place]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville .full .slide-bg}
+::: full
+![Praça ducal, Charleville. Foto: [Velvet, 2013][velvet:2013place]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Charleville_place_ducale_face.jpg/1024px-Charleville_place_ducale_face.jpg){#fig:ducale-charleville   .slide-bg}
+:::
 
 [velvet:2013place]: https://commons.wikimedia.org/wiki/File:Charleville_place_ducale_face.jpg
 
@@ -313,7 +319,9 @@ bonificação do vale do Po na região de Gualtieri.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg/2560px-Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg" data-background-position="top"}
 
-![Mapa de Paris por [Truschet e Hoyau, 1550][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg/2560px-Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg){#fig:truschet .full .slide-bg}
+::: full
+![Mapa de Paris por [Truschet e Hoyau, 1550][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg/2560px-Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg){#fig:truschet   .slide-bg}
+:::
 
 [Truschet e Hoyau, 1550]: https://commons.wikimedia.org/wiki/File:Map_of_Paris_by_Truschet_and_Hoyau_-_Basel_University_Library.jpg
 
@@ -327,7 +335,9 @@ bonificação do vale do Po na região de Gualtieri.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/2560px-mathaeus_merian_carosel_fait_a_la_place_royalle_a_paris_1648-paris_musees.jpg" data-background-size="contain"}
 
-![Jean Androuet Du Cerceau e Clément Métezeau, praça Real (atual place des Vosges), Paris, 1605--1612. Estampa baseada em desenho de [Mathäus Merian, 1648][]](https://hcommons.org/app/uploads/sites/1002372/2022/03/2560px-mathaeus_merian_carosel_fait_a_la_place_royalle_a_paris_1648-paris_musees.jpg){#fig:merian .full .slide-bg}
+::: full
+![Jean Androuet Du Cerceau e Clément Métezeau, praça Real (atual place des Vosges), Paris, 1605--1612. Estampa baseada em desenho de [Mathäus Merian, 1648][]](https://hcommons.org/app/uploads/sites/1002372/2022/03/2560px-mathaeus_merian_carosel_fait_a_la_place_royalle_a_paris_1648-paris_musees.jpg){#fig:merian   .slide-bg}
+:::
 
 [Mathäus Merian, 1648]: https://commons.wikimedia.org/wiki/File:Mathäus_Merian,_Carosel_fait_a_la_Place_Royalle_a_Paris,_1648_-_Paris_Musées.jpg
 
