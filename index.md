@@ -1,8 +1,6 @@
 ---
 title: Plano de ensino
 author_profile: true
-read_time: false
-toc: false
 excerpt: >
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século

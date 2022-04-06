@@ -758,18 +758,13 @@ igreja ocupa uma posição central na ilha.
 
 ##
 
-::::::::::::::::::::::::::::::::::::::: {#fig:grisostomo .r-stack .full}
-![1100](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg){#fig:grisostomo1100 .fragment .align-left}
-
-![1200](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg){#fig:grisostomo1200 .fragment .align-left}
-
-![1350](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg){#fig:grisostomo1350 .fragment .align-left}
-
-![1450](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg){#fig:grisostomo1450 .fragment .align-left}
-
-![1500](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg){#fig:grisostomo1500 .fragment .align-left}
-
-![1840](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg){#fig:grisostomo1840 .fragment .align-left}
+::::::::::::::::::::::::::::::::::::::: {#fig:grisostomo .full .third}
+<div class="r-stack"> ![1100](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg){#fig:grisostomo1100 .fragment .current-visible}
+![1200](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg){#fig:grisostomo1200 .fragment .current-visible}
+![1350](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg){#fig:grisostomo1350 .fragment .current-visible}
+![1450](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg){#fig:grisostomo1450 .fragment .current-visible}
+![1500](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg){#fig:grisostomo1500 .fragment .current-visible}
+![1840](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg){#fig:grisostomo1840 .fragment .current-visible} </div>
 
 Campo S. Giovanni Grisostomo, Veneza. Reconstituição em diferentes datas
 pelos alunos do ateliê Saverio Muratori no Istituto Universitario di

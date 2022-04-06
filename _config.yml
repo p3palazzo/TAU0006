@@ -306,7 +306,7 @@ defaults:
       toc_label: false
       toc_sticky: false
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: false
@@ -319,7 +319,7 @@ defaults:
     values:
       layout: single
       show_date: true
-      toc: true
+      read_time: true
   # _posts
   - scope:
       path: ""
