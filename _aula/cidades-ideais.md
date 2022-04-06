@@ -15,9 +15,6 @@ title-slide-attributes:
 header:
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
   caption: "Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)"
-  actions:
-  - label: Slides
-    url  : "/slides/cidades-ideais/"
 ---
 
 ##
