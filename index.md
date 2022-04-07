@@ -52,6 +52,8 @@ unidade1:
     url       : "/aula/sistemas-espaciais/"
     btn_label : "8 de fevereiro"
     btn_class : "btn btn--inverse btn--small"
+
+trabalho1:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_1748_05-12.jpg
     title     : "Trabalho I"
     excerpt   : "Análise urbana"
@@ -110,6 +112,8 @@ unidade2:
     url       : "/aula/academicismo/"
     btn_label : "15 de março"
     btn_class : "btn btn--inverse btn--small"
+
+trabalho2:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
     title     : "Trabalho II"
     excerpt   : "Análise arquitetônica"
@@ -166,6 +170,8 @@ unidade3:
     url       : "/aula/territorios/"
     btn_label : "19 de abril"
     btn_class : "btn btn--inverse btn--small"
+
+trabalho3:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-kooogimi-46-1.jpg
     title     : "Trabalho III"
     excerpt   : "Pesquisa e crítica"
@@ -188,17 +194,23 @@ unidade3:
 
 ```{=html}
 {% include feature_row id="unidade1" %}
+
+{% include feature_row id="trabalho1" type="right" %}
 ```
 
 # Linguagens e dialetos da arquitetura #
 
 ```{=html}
 {% include feature_row id="unidade2" %}
+
+{% include feature_row id="trabalho2" type="right" %}
 ```
 
 # Inquietações contemporâneas #
 
 ```{=html}
 {% include feature_row id="unidade3" %}
+
+{% include feature_row id="trabalho3" type="right" %}
 ```
 
