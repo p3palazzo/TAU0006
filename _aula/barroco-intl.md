@@ -415,11 +415,11 @@ conhecimentos matemáticos razoavelmente avançados ([@Fig:misurare]).
 Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1280px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg"}
+* * * *
 
 ![Fachada do palácio Carignano, Turim. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg){#fig:madama-dissegni}
 
-## {data-background-image="https://i.pinimg.com/originals/4e/df/20/4edf20972f0a3660fe2683e739f0688b.jpg"}
+* * * *
 
 ![Elevação interior do projeto para a igreja da Divina Providência, Lisboa. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg){#fig:lisboa-dissegni}
 
@@ -434,7 +434,7 @@ Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg"}
+* * * *
 
 ![Interior da cúpula da capela do Santo Sudário. [Bottallo][]](https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg){#fig:sindone-int}
 
@@ -448,27 +448,25 @@ nervurada. A mesma composição aparece na sua igreja de São Lourenço, em
 Turim.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan width=100%}
+![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1280px-Torino,_san_lorenzo,_10.JPG"}
+* * * *
 
 ![Interior da igreja de São Lourenço. [Sailko (2011a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1024px-Torino,_san_lorenzo,_10.JPG){#fig:slorenzo-int}
 
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1280px-San_Lorenzo_(Turin)_-_Dome_interior.jpg"}
+* * * *
 
 ![Cúpula da igreja de São Lourenço. [Livioandronico2013 (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg){#fig:slorenzo-dome}
 
-<!--._-->
+<!--_-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1280px-Torino,_san_lorenzo,_cupola_09.JPG"}
+* * * *
 
 ![Cúpula da igreja de São Lourenço. [Sailko (2011b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG){#fig:slorenzo-dome-persp}
 
-
 ## Arquitetura à francesa ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/23/Villard_de_Honnecourt_Traits.png"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O historiador da arquitetura Jean-Marie Pérouse de Montclos deu a
@@ -479,7 +477,7 @@ plenamente integradas à arquitetura do Renascimento na França.
 
 ![Cadernos de Villard de Honnecourt, século [XIII]{.smallcaps}. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Cour_Philibert_Delorme_Lyon.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Philibert de L'Orme, contemporâneo de Serlio, foi um dos principais
@@ -489,7 +487,7 @@ francesa.
 
 ![Philibert de l'Orme, Hôtel Bullioud, Lião, século [XVI]{.smallcaps}. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
 
-## {data-background-image="https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sua atuação prática e teórica em torno da metade do século
@@ -500,7 +498,7 @@ arquitetos.
 
 ![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. @roland:2008letude](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1280px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A difusão dos conhecimentos técnicos das corporações de ofício para os
@@ -548,9 +546,9 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 
 [Mbzt (2012)]: https://commons.wikimedia.org/wiki/File:P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg
 
-<!--._-->
+<!--_-->
 
-## Sinan ##
+## Barroco otomano ##
 
 # Presságios #
 
