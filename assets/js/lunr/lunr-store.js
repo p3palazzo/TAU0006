@@ -89,6 +89,12 @@ var store = [{
         "url": "/tau0006/plano/analise-urbana/",
         "teaser": null
       },{
+        "title": "Avaliação",
+        "excerpt":"Organização e normas gerais A nota final da disciplina é computada a partir do acompanhamento da leitura do livro-texto e de outros textos indicados, além de três trabalhos que correspondem a cada uma das três Unidades do Programa (tab. 1). Tabela 1: Atividades avaliativas da disciplina Atividade Entrega Nota Resenha e...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/avalia/",
+        "teaser": null
+      },{
         "title": "Leitura e estudo",
         "excerpt":"Como estudar Como estamos trabalhando a distância, a leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a videoconferência vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar as atividades! Antes, a videoconferência é uma ocasião para esclarecer dúvidas...","categories": [],
         "tags": [],
