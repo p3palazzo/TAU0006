@@ -1,6 +1,6 @@
 ---
 title   : "Territórios e viação"
-subtitle: "Viação e território, inquietações contemporâneas"
+subtitle: "Inquietações contemporâneas"
 item    : V
 author  : Pedro P. Palazzo
 date    : 2022-05-03

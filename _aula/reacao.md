@@ -1,6 +1,6 @@
 ---
 title   : "Reação clássica"
-subtitle: "Viação e território, inquietações contemporâneas"
+subtitle: "Inquietações contemporâneas"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-04-19

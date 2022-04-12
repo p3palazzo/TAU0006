@@ -1,6 +1,6 @@
 ---
 title   : "Barroco internacional"
-subtitle: "Viação e território, inquietações contemporâneas"
+subtitle: "Inquietações contemporâneas"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-04-05

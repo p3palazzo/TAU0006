@@ -1,6 +1,6 @@
 ---
 title   : "Urbanismo como arquitetura"
-subtitle: "Viação e território, inquietações contemporâneas"
+subtitle: "Inquietações contemporâneas"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-03-29

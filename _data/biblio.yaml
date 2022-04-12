@@ -1896,6 +1896,25 @@ references:
   URL: https://dx.plos.org/10.1371/journal.pone.0035026
   volume: '7'
 
+- id: benvenuto:1991vaulted
+  author:
+    - family: Benvenuto
+      given: Edoardo
+  citation-key: benvenuto:1991vaulted
+  collection-number: '2'
+  collection-title: An introduction to the history of structural mechanics
+  event-place: New York
+  ISBN: 978-1-4612-7751-4 978-3-540-97187-0 978-0-387-97187-2
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '309'
+  publisher: Springer
+  publisher-place: New York
+  source: K10plus ISBN
+  title: Vaulted structures and elastic systems
+  type: book
+
 - id: berger:1993palace
   author:
     - family: Berger
@@ -3065,6 +3084,23 @@ references:
     the Crossroads
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-33323-2_14
+
+- id: calder:2021architecture
+  author:
+    - family: Calder
+      given: Barnabas
+  citation-key: calder:2021architecture
+  event-place: Harmondsworth
+  ISBN: 978-0-241-39673-5
+  issued:
+    - year: 2021
+  language: en-GB
+  publisher: Penguin
+  publisher-place: Harmondsworth
+  source: Open WorldCat
+  title: 'Architecture: from prehistory to climate emergency'
+  title-short: Architecture
+  type: book
 
 - id: campbell:1715vitruvius
   abstract: >-
@@ -13928,7 +13964,7 @@ references:
   ISBN: 978-84-8427-119-2
   issued:
     - year: 2001
-  language: Spanish
+  language: es
   publisher: Ediciones de la Universidad de Castilla-La Mancha
   publisher-place: Cuenca
   source: ruidera.uclm.es
@@ -18888,7 +18924,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1985
-  language: Portuguese
+  language: pt
   number-of-pages: '122'
   publisher: Presença
   publisher-place: Lisboa
