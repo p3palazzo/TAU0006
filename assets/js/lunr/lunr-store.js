@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Universo em expansão",
-        "excerpt":" Antiquarismo e história da arte   Nascimento da história da arte e fronteiras da arquitetura    Ruínas e limites do clássico   Grand Tour e Pompeia Adam em Spalato    Pitoresco e arquiteturas nacionais   English landscape Goethe    Gótico como problema  (Neo)gótico inglês?     Bibliografia   ","categories": [],
+        "excerpt":"Origens do cálculo estrutural Figura 1: Galileu Galilei (1564–1642), retratado por Justus Sustermans, c. 1640 A ciência moderna mudou radicalmente o modo de olhar para os arcos. De uma busca pela geometria perfeita, passamos a olhar para as forças que agem sobre a estrutura. Esse conhecimento começou a ser desenvolvido na...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/universo/",
         "teaser": null
