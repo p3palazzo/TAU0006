@@ -11992,16 +11992,16 @@ references:
 - id: mallgrave:2017companions
   call-number: NA200 .C64 2017
   citation-key: mallgrave:2017companions
-  editor:
+  collection-editor:
     - family: Mallgrave
       given: Harry Francis
   event-place: Chichester, West Sussex ; Malden, Mass.
   ISBN: 978-1-4443-3851-5
   issued:
     - year: 2017
-  language: en-GB
-  number-of-pages: '4'
-  publisher: 'Wiley : Blackwell'
+  language: en
+  number-of-volumes: '4'
+  publisher: Wiley Blackwell
   publisher-place: Chichester, West Sussex ; Malden, Mass.
   source: Library of Congress ISBN
   title: The companions to the history of architecture
