@@ -4,8 +4,9 @@ author_profile: true
 excerpt: >
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
-  XVIII. Transposição da tradição técnico-construtiva e arquitetônica da
-  Europa para as colônias americanas de fala inglesa e francesa.
+  <span class="smallcaps">XVIII</span>. Transposição da tradição
+  técnico-construtiva e arquitetônica da Europa para as colônias
+  americanas de fala inglesa e francesa.
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
   caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma moderna](https://commons.wikimedia.org/wiki/Category:Modern_Rome_(Giovanni_Paolo_Pannini)), 1754"
@@ -15,7 +16,7 @@ unidade1:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-lossy-page1-797px-katip_celebis_cihannuma-map_of_south_east_asiatif.jpg
     title     : "Rotas comerciais"
     excerpt: >
-      Mundos conectados no século XIV –
+      Mundos conectados no século <span class="smallcaps">XIV</span> –
       Cidades do sudeste asiático –
       Entrepostos comerciais Suaíle –
       Infraestrutura hidráulica na América
@@ -155,7 +156,7 @@ unidade3:
     title     : "Reação clássica"
     excerpt: >
       Classicismo para o povo –
-      Novidade e correção na crítica do século XVIII –
+      Novidade e correção na crítica do século <span class="smallcaps">XVIII</span> –
       Tradição e caráter nacional no Japão
     url       : "/aula/reacao/"
     btn_label : "12 de abril"

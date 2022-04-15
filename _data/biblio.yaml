@@ -2821,6 +2821,24 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/650870
 
+- id: brothers:2002reconstruction
+  author:
+    - family: Brothers
+      given: Cammy
+  citation-key: brothers:2002reconstruction
+  container-title: Annali di architettura
+  issue: '14'
+  issued:
+    - year: 2002
+  language: en
+  page: 55-72
+  source: Zotero
+  title: >-
+    Reconstruction as design: Giuliano da Sangallo and the “palazo di mecenate”
+    on the Quirinal Hill
+  title-short: Reconstruction as design
+  type: article-journal
+
 - id: brown:1982classic
   author:
     - family: Brown
@@ -3158,8 +3176,8 @@ references:
   language: en-GB
   page: 240-258
   source: JSTOR
-  title: 'The City''s New Clothes: Ambrogio Lorenzetti and the Poetics of Peace'
-  title-short: The City's New Clothes
+  title: 'The city''s new clothes: Ambrogio Lorenzetti and the poetics of peace'
+  title-short: The city's new clothes
   type: article-journal
   URL: http://www.jstor.org/stable/3177208
   volume: '83'
@@ -3720,6 +3738,30 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Bonaccorso_ghiberti,_veduta_della_gru_di_brunelleschi,_post_1446,_BNCF,_B.R._228,_c._106r.jpg
+
+- id: cellauro:1998palladio22
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Cellauro
+      given: Louis
+  citation-key: cellauro:1998palladio22
+  container-title: Saggi e Memorie di storia dell'arte
+  ISSN: 0392-713X
+  issued:
+    - year: 1998
+  language: it
+  page: 55-128
+  publisher: >-
+    [Fondazione Giorgio Cini Onlus, Neri Pozza Editore S.p.a., Casa Editrice Leo
+    S. Olschki s.r.l.]
+  source: JSTOR
+  title: Palladio e le illustrazioni delle edizioni del 1556 e del 1567 di Vitruvio
+  type: article-journal
+  URL: https://www.jstor.org/stable/43140099
+  volume: '22'
 
 - id: chakrabarti:1998indian
   author:
@@ -5532,6 +5574,26 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_(Venice)_-_Portego.jpg
 
+- id: desgodets:1682edifices
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Desgodets
+      given: Antoine
+  citation-key: desgodets:1682edifices
+  event-place: Paris
+  issued:
+    - year: 1682
+  language: fr
+  number-of-pages: 'vi, 323 pages : illustrations, plans ; 44 cm'
+  publisher: J. B. Coignard
+  publisher-place: Paris
+  title: 'Les édifices antiques de Rome : dessinés et mesurés très exactement'
+  type: book
+  URL: https://digital.library.wisc.edu/1711.dl/DV7EFDVLIOW6S8A
+
 - id: desterro:2008
   abstract: >-
     A periodização que nos balizou situa-se entre um certo élan de modernidade
@@ -6925,14 +6987,19 @@ references:
     - family: Fletcher
       given: Banister F.
   citation-key: fletcher:1961history
-  event-place: London
+  edition: '17'
+  editor:
+    - family: Cordingley
+      given: R. A.
+  event-place: New York
   issued:
     - year: 1961
   language: en-GB
-  publisher: University of London
-  publisher-place: London
+  publisher: Charles Scribner’s Sons
+  publisher-place: New York
   title: History of architecture on the comparative method
   type: book
+  URL: https://archive.org/details/historyofarchite0000flet/
 
 - id: florimi:1600sena
   accessed:
@@ -7273,6 +7340,24 @@ references:
   source: Open WorldCat
   title: Raffaello architetto
   type: book
+
+- id: frommel:1988roma
+  author:
+    - family: Frommel
+      given: Christoph
+  citation-key: frommel:1988roma
+  editor:
+    - family: Chastel
+      given: André
+  event: 'Andrea Palladio : nuovi contributi'
+  event-place: Vicenza
+  issued:
+    - year: 1988
+  language: it
+  page: 146-155
+  publisher-place: Vicenza
+  title: Roma e la formazione architettonica di Palladio
+  type: paper-conference
 
 - id: fu:2017traditional
   abstract: >-
@@ -9006,6 +9091,7 @@ references:
     - year: 1958
   language: en-GB
   page: 23-53
+  publisher: '[Taylor & Francis, Ltd., College Art Association]'
   source: JSTOR
   title: Antoine Desgodets and the Académie Royale d'Architecture
   type: article-journal
@@ -11578,6 +11664,27 @@ references:
   type: book
   URL: http://dx.doi.org/10.3931/e-rara-46829
 
+- id: loth:2014can
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Loth
+      given: Calder
+  citation-key: loth:2014can
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2014
+      month: 6
+      day: 4
+  language: en
+  title: Can we trust Palladio? Antoine Desgodetz details Palladio’s inaccuracies
+  title-short: Can we trust Palladio?
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/
+
 - id: lotz:1998arquitetura
   author:
     - family: Lotz
@@ -12785,6 +12892,35 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/988682
   volume: '31'
+
+- id: millon:2010review69
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Millon
+      given: Henry
+  citation-key: millon:2010review69
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.1525/jsah.2010.69.3.444
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 2010
+  language: en
+  page: 444-446
+  publisher: '[Society of Architectural Historians, University of California Press]'
+  reviewed-author:
+    - family: Cellauro
+      given: Louis
+    - family: Richaud
+      given: Gilbert
+  source: JSTOR
+  title: Review of Antoine Desgodets, *Les édifices antiques de Rome*
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.1525/jsah.2010.69.3.444
+  volume: '69'
 
 - id: mingzhi:1875inner
   accessed:
@@ -14744,6 +14880,7 @@ references:
   issued:
     - year: 1668
       circa: true
+  language: fr
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Vue du château et des jardins de Versailles, prise de l'avenue de Paris
@@ -19691,6 +19828,7 @@ references:
       given: Liane
   citation-key: tzonis:1975mechanical
   container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.2307/1424316
   ISSN: 0149-2993
   issue: '1'
@@ -20555,6 +20693,58 @@ references:
   title-short: De architectura libri dece
   type: book
   URL: http://archive.org/details/gri_33125008262210
+
+- id: vitruvio:1556dieci
+  abstract: >-
+    The 1st ed. of Barbaro's translation; Woodcut architectural t.p., title and
+    imprint in letterpress. Full-page woodcut on A2v depicting an astronomer and
+    a horologist, with Barbaro's arms above; it incorporates a cartouche which
+    is blank here, but which contains the register in the repetition of the cut
+    on V4r. Barbaro's device of two candles appears at the foot of T3v; see
+    Mortimer. Marcolini's device appears on V4v (Truth). The 131 woodcuts
+    include both plates (some double-page) and in-text ill. Barbaro writes that
+    the more important were after Andrea Palladio (C6v). Some blocks may have
+    been cut by Giuseppe Porta (Salviati); see Mortimer. Overlay on plate C6r.
+    Cancel plates on E8v and F7r. Extension flaps on plates E7r, E8r, F3v, 2nd
+    I4r, I5r. Volvelles on Q2v, V2v and V3r. Music, K8r and L2v. Astronomical
+    tables, P7r-Q2r, with arabesque woodcut decorations. Head- and tail-pieces.
+    Initials, many historiated; In Getty copy the cancel plate on F7r is now
+    hinged on; In Getty copy the mistake in printing the wrong block on B3r has
+    been corrected with a full-sheet cancel signed B3.4, the 2nd variant
+    described by Mortimer. Leaf A8 is not a cancel, and the last word on line 1,
+    K3r, is "lettera," both variants noted by Mortimer in the Harvard copies;
+    Signatures: A⁸ B⁶ C⁶(C5+1) D-G⁸ H⁶ I⁸(I4+"I4.5") K⁸(+3) L⁸(L5+1) M-Q⁸ R⁶
+    S-T⁸ V⁴; Includes errata, V1r, V3v; Mortimer, R. Italian 16th-cent.;
+    Binding: later vellum. Title & author written on spine. Lapped foredges.
+    Page edges sprinkled red; Centered on front pastedown is Giovanni Muzio's
+    etched bookplate by Giacomo Manzù. Signature at foot of title: Abb.te
+    Leonardo Spinola. Extensive marginal notes written in Italian on leaf O6;
+    274 (i.e. 284) p. : 41 cm. (fol.)
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - literal: Vitruvio
+  call-number: '9924317580001551'
+  citation-key: vitruvio:1556dieci
+  editor:
+    - family: Barbaro
+      given: Daniele
+  event-place: Vinegia
+  issued:
+    - year: 1556
+  language: it
+  number-of-pages: '326'
+  publisher: Francesco Marcolini
+  publisher-place: Vinegia
+  source: Internet Archive
+  title: I dieci libri dell'architettura
+  translator:
+    - family: Barbaro
+      given: Daniele
+  type: book
+  URL: http://archive.org/details/gri_33125009320074
 
 - id: vitruvio:2006tratado
   author:
