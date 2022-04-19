@@ -167,9 +167,9 @@ references:
   page: 15–34
   source: JSTOR
   title: >-
-    The Tuscan / Rustic Order: A Study in the Metaphorical Language of
-    Architecture
-  title-short: The Tuscan / Rustic Order
+    The tuscan / rustic order: A study in the metaphorical language of
+    architecture
+  title-short: The tuscan / rustic order
   type: article-journal
   URL: https://www.jstor.org/stable/989854
   volume: '42'
@@ -475,7 +475,7 @@ references:
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
-  title: Swahili Culture and the Nature of East Coast Settlement
+  title: Swahili culture and the nature of east coast settlement
   type: article-journal
   URL: https://www.jstor.org/stable/218047
   volume: '14'
@@ -1563,6 +1563,7 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
+    - literal: Nalbantoḡlu
   citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
@@ -2167,9 +2168,9 @@ references:
   publisher: University of Chicago Press
   source: Google Books
   title: >-
-    The Anatomy of Architecture: Ontology and Metaphor in Batammaliba
-    Architectural Expression
-  title-short: The Anatomy of Architecture
+    The anatomy of architecture: ontology and metaphor in Batammaliba
+    architectural expression
+  title-short: The anatomy of architecture
   type: book
 
 - id: blond:2007atlas
@@ -2381,8 +2382,9 @@ references:
   language: en-GB
   page: 256–287
   title: >-
-    The Palazzo Barberini: The Contributions of Maderno, Bernini and Pietro da
+    The palazzo Barberini: The contributions of Maderno, Bernini and Pietro da
     Cortona
+  title-short: The palazzo Barberini
   type: article-journal
   volume: '21'
 
@@ -2741,7 +2743,7 @@ references:
   language: en
   page: 91-119
   source: JSTOR
-  title: The Tendency Toward Platonism in Neo-Classical Esthetics
+  title: The tendency toward Platonism in neo-classical esthetics
   type: article-journal
   URL: http://www.jstor.org/stable/2871691
   volume: '1'
@@ -3215,9 +3217,9 @@ references:
   page: 596-620
   source: JSTOR
   title: >-
-    "Fare una Cosa Morta Parer Viva": Michelangelo, Rosso, and the (Un)Divinity
-    of Art
-  title-short: Fare una Cosa Morta Parer Viva
+    "Fare una cosa morta parer viva": Michelangelo, Rosso, and the (un)divinity
+    of art
+  title-short: Fare una cosa morta parer viva
   type: article-journal
   URL: http://www.jstor.org/stable/3177286
   volume: '84'
@@ -6187,7 +6189,7 @@ references:
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Google Books
-  title: Theatricality in Early Modern Art and Architecture
+  title: Theatricality in early modern art and architecture
   type: book
 
 - id: ecoimagesphotos:aerial
@@ -6254,7 +6256,7 @@ references:
   language: en-US
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
-  title: The Beaux-Arts Tradition in French Architecture
+  title: The Beaux-Arts tradition in French architecture
   type: book
 
 - id: ehrmann:1950
@@ -6447,9 +6449,9 @@ references:
   page: 205-216
   source: JSTOR
   title: >-
-    The Culture of Malaysian Urbanization: Malay and Chinese Conceptions of
-    Space
-  title-short: The Culture of Malaysian Urbanization
+    The culture of Malaysian urbanization: Malay and Chinese conceptions of
+    space
+  title-short: The culture of Malaysian urbanization
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
@@ -6530,8 +6532,8 @@ references:
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
-  title: 'The Golden Rhinoceros: Histories of the African Middle Ages'
-  title-short: The Golden Rhinoceros
+  title: 'The golden rhinoceros: Histories of the African Middle Ages'
+  title-short: The golden rhinoceros
   translator:
     - family: Tice
       given: Troy
@@ -6712,12 +6714,12 @@ references:
   title: "La théorie architecturale à l’âge classique\_: essai d’anthologie critique"
   type: book
 
-- id: 'file:chronological:'
+- id: 'filechronological:'
   accessed:
     - year: 2020
       month: 7
       day: 31
-  citation-key: 'file:chronological:'
+  citation-key: 'filechronological:'
   container-title: Wikipedia
   language: en
   source: Wikipedia
@@ -6880,7 +6882,7 @@ references:
   language: en
   page: 171-207
   source: DOI.org (Crossref)
-  title: Finding Meaning in Ancient Swahili Spatial Practices
+  title: Finding meaning in ancient Swahili spatial practices
   type: article-journal
   URL: http://link.springer.com/10.1007/s10437-012-9121-0
   volume: '29'
@@ -7926,7 +7928,7 @@ references:
   publisher: University of Nairobi
   publisher-place: Nairobi
   source: Zotero
-  title: 'Lamu: Case Study of the Swahili Town'
+  title: 'Lamu: case study of the Swahili town'
   title-short: Lamu
   type: thesis
 
@@ -8711,7 +8713,7 @@ references:
   publisher: Routledge
   publisher-place: 'London : New York'
   source: Google Books
-  title: Vernacular Architecture in the Pre-Columbian Americas
+  title: Vernacular architecture in the pre-Columbian Americas
   type: book
 
 - id: halun:2009humble
@@ -8866,7 +8868,7 @@ references:
   language: en-GB
   page: 67-94
   source: JSTOR
-  title: 'Raphael and Giulio Romano: With Notes on the Raphael School'
+  title: 'Raphael and Giulio Romano: With notes on the Raphael school'
   title-short: Raphael and Giulio Romano
   type: article-journal
   URL: http://www.jstor.org/stable/3046936
@@ -9131,7 +9133,7 @@ references:
   language: en-US
   page: 71-89
   source: JSTOR
-  title: Associationism and Sensibility in Eighteenth-Century Architecture
+  title: Associationism and sensibility in eighteenth-century architecture
   type: article-journal
   URL: https://www.jstor.org/stable/2737614
   volume: '4'
@@ -9327,7 +9329,7 @@ references:
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
-  title: Broederstroom and the origins of cattle ‐ keeping in Southern Africa
+  title: Broederstroom and the origins of cattle-keeping in Southern Africa
   type: article-journal
   URL: https://doi.org/10.1080/00020189008707724
   volume: '49'
@@ -10111,8 +10113,8 @@ references:
   page: 431-564
   publisher: American Philosophical Society
   source: JSTOR
-  title: 'Three Revolutionary Architects: Boullée, Ledoux, and Lequeu'
-  title-short: Three Revolutionary Architects
+  title: 'Three revolutionary architects: Boullée, Ledoux, and Lequeu'
+  title-short: Three revolutionary architects
   type: article-journal
   URL: https://www.jstor.org/stable/1005689
   volume: '42'
@@ -11383,8 +11385,8 @@ references:
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
   source: Amazon
-  title: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
-  title-short: The Malay House
+  title: 'The Malay house: rediscovering Malaysia''s indigenous shelter system'
+  title-short: The Malay house
   type: book
 
 - id: linares:2013chard
@@ -12155,9 +12157,9 @@ references:
   publisher-place: Mankon
   source: JSTOR
   title: >-
-    The Politics of Community Resilience: A Closer Look into the Settlement
-    Hierarchy of Zimbabwe
-  title-short: The Politics of Community Resilience
+    The politics of community resilience: A closer look into the settlement
+    hierarchy of Zimbabwe
+  title-short: The politics of community resilience
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvgc61mv.11
 
@@ -12699,7 +12701,7 @@ references:
   language: en-US
   page: 140-148
   source: Crossref
-  title: Jacques François Blondel and the "Cours d'Architecture"
+  title: Jacques François Blondel and the *Cours d'Architecture*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/987903
   volume: '18'
@@ -12715,7 +12717,7 @@ references:
   language: en-GB
   publisher: Thames & Hudson
   publisher-place: London
-  title: The Beaux-Arts and Nineteenth-Century French Architecture
+  title: The Beaux-Arts and nineteenth-century French architecture
   type: book
 
 - id: middleton:1985architects
@@ -12993,7 +12995,7 @@ references:
       day: 18
   language: en
   source: Blogger
-  title: 'The Establishment of ''Air House'' Standard in Tropical Countries : Part 2'
+  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
   URL: >-
     http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
@@ -13517,9 +13519,9 @@ references:
   page: 6-29
   source: Crossref
   title: >-
-    Guarini and the Pursuit of Originality: The Church for Lisbon and Related
-    Projects
-  title-short: Guarini and the Pursuit of Originality
+    Guarini and the pursuit of originality: the church for Lisbon and related
+    projects
+  title-short: Guarini and the pursuit of originality
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/991402
   volume: '57'
@@ -13544,7 +13546,7 @@ references:
   language: en-US
   page: 202-208
   source: Crossref
-  title: The Authenticity of Guarini's Stereotomy in His "Architettura Civile"
+  title: The authenticity of Guarini's stereotomy in his *Architettura civile*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988502
   volume: '27'
@@ -13625,6 +13627,26 @@ references:
   title-short: Studi per una operante storia urbana di Venezia
   type: article-journal
   volume: <span class="smallcaps">IX</span>
+
+- id: muratori:1967civilta
+  accessed:
+    - year: 2020
+      month: 1
+      day: 16
+  author:
+    - family: Muratori
+      given: Saverio
+  citation-key: muratori:1967civilta
+  event-place: Roma
+  issued:
+    - year: 1967
+  language: it
+  publisher: Centro studi di storia urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: Civiltà e territorio
+  type: book
+  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
 
 - id: muratori:1978metodologia
   author:
@@ -14189,12 +14211,12 @@ references:
     - year: 2014
       month: 3
       day: 1
-  language: English
+  language: en
   page: 59-85
   source: Springer Link
   title: >-
-    An Ethnographic and Space Syntax Analysis of Benin Kingdom Nobility
-    Architecture
+    An ethnographic and space syntax analysis of Benin kingdom nobility
+    architecture
   type: article-journal
   URL: https://doi.org/10.1007/s10437-014-9151-x
   volume: '31'
@@ -14259,9 +14281,9 @@ references:
   publisher: Scientific & Academic Publishing
   source: article.sapub.org
   title: >-
-    From Home Owners Perspective, “*Ikun* Concept*”* of Design in Benin,
-    Nigeria: Some Like It Some Don’t
-  title-short: From Home Owners Perspective, “*Ikun* Concept*”* of Design in Benin, Nigeria
+    From home owners perspective, “*ikun* concept*”* of design in Benin,
+    Nigeria: some like it some don’t
+  title-short: From home owners perspective, “*ikun* concept*”* of design in benin, nigeria
   type: article-journal
   URL: >-
     Benin domestic courtyard design is as old as Benin kingdom (40 BC). The Edos
@@ -14430,7 +14452,9 @@ references:
   language: pt-BR
   publisher: Unesco
   publisher-place: Brasília
-  title: África do Século XVI ao XVIII
+  title: >-
+    África do século <span class="smallcaps">XVI</span> ao <span
+    class="smallcaps">XVIII</span>
   type: book
 
 - id: oliveras:1998nuevas
@@ -14959,7 +14983,7 @@ references:
   language: en-US
   page: 322-342
   source: JSTOR
-  title: Rudolf Wittkower and Architectural Principles in the Age of Modernism
+  title: Rudolf Wittkower and architectural principles in the age of modernism
   type: article-journal
   URL: http://www.jstor.org/stable/990940
   volume: '53'
@@ -15229,7 +15253,7 @@ references:
       given: Jean-Marie
   citation-key: perouse:1977sixieme36
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/989279
   ISSN: 0037-9808
   issue: '4'
@@ -15240,8 +15264,8 @@ references:
   page: 223-240
   source: JSTOR
   title: >-
-    Le Sixième Ordre d'Architecture, ou la Pratique des Ordres Suivant les
-    Nations
+    Le sixième ordre d'architecture, ou la pratique des ordres suivant les
+    nations
   type: article-journal
   URL: http://www.jstor.org/stable/989279
   volume: '36'
@@ -15261,8 +15285,9 @@ references:
   publisher-place: Paris
   source: Open WorldCat
   title: >-
-    L'architecture à la française: du milieu du XV^e^ à la fin du XVIII^e^
-    siècle
+    L'architecture à la française: du milieu du <span
+    class="smallcaps">XV</span>^e^ à la fin du <span
+    class="smallcaps">XVIII</span>^e^ siècle
   title-short: L'architecture à la française
   type: book
 
@@ -15275,9 +15300,9 @@ references:
   issued:
     - year: 1989
   language: fr-FR
-  publisher: Mengès / Caisse nationale des monuments historiques et des sites
+  publisher: 'Mengès : Caisse nationale des monuments historiques et des sites'
   publisher-place: Paris
-  title: Histoire de l’Architecture Française
+  title: Histoire de l’architecture française
   type: book
   volume: '2'
 
@@ -15862,7 +15887,7 @@ references:
   language: en
   page: 123–132
   source: JSTOR
-  title: Cloister, Court and City Square
+  title: Cloister, court and city square
   type: article-journal
   URL: http://www.jstor.org/stable/766639
   volume: '12'
@@ -16049,7 +16074,7 @@ references:
   language: en
   page: 32-74
   source: JSTOR
-  title: The Architecture of Islam in West Africa
+  title: The architecture of Islam in West Africa
   type: article-journal
   URL: http://www.jstor.org/stable/3334324
   volume: '1'
@@ -16743,8 +16768,8 @@ references:
   page: 155-172
   source: Crossref
   title: >-
-    Sebastiano Serlio's Late Style in the Avery Library Version of the Sixth
-    Book on Domestic Architecture
+    Sebastiano Serlio's late style in the Avery library version of the *Sixth
+    book on domestic architecture*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988555
   volume: '28'
@@ -17035,7 +17060,7 @@ references:
   language: en-GB
   page: '81'
   source: Crossref
-  title: Raphael, Angelo Colocci, and the Genesis of the Architectural Orders
+  title: Raphael, Angelo Colocci, and the genesis of the architectural orders
   type: article-journal
   URL: https://www.jstor.org/stable/3046004?origin=crossref
   volume: '76'
@@ -17143,7 +17168,8 @@ references:
   language: en
   publisher: Scribner
   publisher-place: New York
-  title: 'The Perfect House: A journey with the Renaissance architect Andrea Palladio'
+  title: 'The perfect house: A journey with the Renaissance architect Andrea Palladio'
+  title-short: The perfect house
   type: book
 
 - id: rykwert:1991first
@@ -17730,25 +17756,6 @@ references:
   URL: >-
     https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
-- id: saverio:1967civilta
-  accessed:
-    - year: 2020
-      month: 1
-      day: 16
-  author:
-    - literal: Saverio Muratori
-  citation-key: saverio:1967civilta
-  event-place: Roma
-  issued:
-    - year: 1967
-  language: it
-  publisher: Centro studi di storia urbanistica
-  publisher-place: Roma
-  source: Open WorldCat
-  title: Civiltà e territorio
-  type: book
-  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
-
 - id: savin:2018fasil
   accessed:
     - year: 2020
@@ -17829,7 +17836,7 @@ references:
   language: en
   page: '113'
   source: Crossref
-  title: Criteria of Periodization in the History of European Art
+  title: Criteria of periodization in the history of European art
   type: article-journal
   URL: https://www.jstor.org/stable/468623?origin=crossref
   volume: '1'
@@ -17898,7 +17905,7 @@ references:
     - year: 1987
   language: en-US
   page: 37-42
-  title: Deep Space Shallow Space
+  title: Deep space shallow space
   type: article-journal
   volume: '175'
 
@@ -18113,7 +18120,7 @@ references:
   publisher: Dover
   publisher-place: New York
   source: Google Books
-  title: Serlio on Domestic Architecture
+  title: Serlio on domestic architecture
   translator:
     - family: Rosenfeld
       given: Myra Nan
@@ -19133,9 +19140,9 @@ references:
   page: 46–52
   source: escholarship.org
   title: >-
-    The European Transect: An Organic way for Architecture to Develop Towns,
-    Cities, and Metropolises
-  title-short: The European Transect
+    The European transect: an organic way for architecture to develop towns,
+    cities, and metropolises
+  title-short: The European transect
   type: article-journal
   URL: https://escholarship.org/uc/item/4xc2j7qw
   volume: '18'
@@ -19188,8 +19195,8 @@ references:
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
   title: >-
-    Beyond Racialized Representation: Architectural Linguæ Francæ and Urban
-    Histories in the Kampung Houses and Shophouses of Melaka and Singapore
+    Beyond racialized representation: architectural *linguæ francæ* and urban
+    histories in the kampung houses and shophouses of Melaka and Singapore
   type: chapter
 
 - id: tajudeen:kampung
@@ -19988,7 +19995,7 @@ references:
   page: 280-297
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
-  title: The Structure of "De re aedificatoria" Reconsidered
+  title: The structure of *De re aedificatoria* reconsidered
   type: article-journal
   URL: https://www.jstor.org/stable/991347
   volume: '57'
@@ -21558,7 +21565,7 @@ references:
   publisher: Cambridge University Press
   publisher-place: Cambridge
   source: DOI.org (Crossref)
-  title: Swahili Urban Spaces of the Eastern African Coast
+  title: Swahili urban spaces of the eastern African coast
   type: chapter
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781107110274%23c04652-4-1/type/book_part
@@ -21714,12 +21721,12 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg
 
-- id: zamaniproject:2016animation
+- id: zamani:2016animation
   accessed:
     - year: 2020
       month: 8
       day: 24
-  citation-key: zamaniproject:2016animation
+  citation-key: zamani:2016animation
   dimensions: '0:50'
   director:
     - literal: Zamani Project
@@ -22056,7 +22063,7 @@ references:
   number-of-pages: xxiii, 287 p.
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
-  title: 'Town and Square: From the Agora to the Village Green'
+  title: 'Town and square: from the agora to the village green'
   type: book
 
 - id: zulu:1903
