@@ -505,7 +505,5 @@ Segundo Alexander Tzonis [@tzonis:1972non-oppressive;
 
 ## Classicismo visionário ##
 
-
-
 # Bibliografia # {- .allowframebreaks .unlisted}
 
