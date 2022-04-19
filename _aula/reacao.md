@@ -6,7 +6,7 @@ author  : Pedro P. Palazzo
 date    : 2022-04-19
 excerpt: >
   Classicismo para o povo –
-  Novidade e correção na crítica do século XVIII –
+  Novidade e correção na crítica do século <span class="smallcaps">XVIII</span> –
   Tradição e caráter nacional no Japão
 leitura: 599--625
 header:
@@ -29,19 +29,23 @@ legitimação conceitual da disciplina.
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Jacopo Barozzi da Vignola, *Regola degli cinque ordini di architettura*, 1563, frontispício. Ap. [Aikin & Enfield (1818)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg/454px-thumbnail.jpg){#fig:vignola-front}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--_-->
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir da segunda metade do século [XVI]{.smallcaps} é que aparecem os primeiros
 livros com informações práticas para os arquitetos práticos e os
 profissionais da construção, apresentadas de modo direto e resumido. O
-tratado das cinco ordens do Vinhola, de 1563 ([@Fig:vignola-front]), é a
+tratado das cinco ordens do Vinhola, de 1563 ([@fig:vignola-front]), é a
 primeira referência sobre o assunto publicada em forma compacta e
 simples de copiar. A partir daí, o gênero do manual de referência vai se
 difundir sobretudo no norte da Europa, muitas vezes em edições de bolso.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Jacopo Barozzi da Vignola, *Regola degli cinque ordini di architettura*, 1563, frontispício. Ap. [Aikin & Enfield (1818)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg/454px-thumbnail.jpg){#fig:vignola-front}
-
-<!--,_-->
 
 ## Estampas alemãs ##
 
@@ -49,7 +53,7 @@ difundir sobretudo no norte da Europa, muitas vezes em edições de bolso.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O livro ilustrado de Wendel Dietterlin, publicado no final do século [XVI]{.smallcaps}
-na Bavária, é um dos mais difundidos nesse gênero ([@Fig:dietterlin]).
+na Bavária, é um dos mais difundidos nesse gênero ([@fig:dietterlin]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:dietterlin}
@@ -68,7 +72,7 @@ Wendel [Dietterlin, *Architectura* (1598)][]
 Dietterlin produziu essencialmente um catálogo de detalhes
 arquitetônicos: portais, janelas, lareiras, chafarizes e poços. Os
 projetos são organizados segundo as cinco ordens clássicas, e
-apresentados cada um numa única prancha ([@Fig:diet74-77]).
+apresentados cada um numa única prancha ([@fig:diet74-77]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet74-77}
@@ -86,7 +90,7 @@ Wendel [Dietterlin, *Architectura* (1598)][]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O formato em vista perspectivada, sem cotas de proporções, é concebido
 para servir como inspiração para artesãos e artistas já experientes
-([@Fig:diet82-85]). As pranchas eram muitas vezes destacadas do livro
+([@fig:diet82-85]). As pranchas eram muitas vezes destacadas do livro
 encadernado e circulavam amplamente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -106,7 +110,7 @@ Wendel [Dietterlin, *Architectura* (1598)][]
 A tradição iconográfica da Alemanha católica e dos Países Baixos vai ser
 especialmente influente na Áustria e na península Ibérica. Daí, essa
 iconografia circula também para a América colonial, e vai influenciar o
-ornamento arquitetônico do barroco mineiro ([@Fig:contos]). O uso
+ornamento arquitetônico do barroco mineiro ([@fig:contos]). O uso
 variado de referências baseadas em Dietterlin 
 mostra que não se tratava de copiar, simplesmente, uma composição
 escolhida --- o que também seria possível ---, mas de se basear numa
@@ -183,36 +187,43 @@ variedade de motivos presentes em várias pranchas diferentes.
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Urban Design Associates. *The Architectural Pattern Book*, 2004](https://images-na.ssl-images-amazon.com/images/I/419M-VXbH5L.jpg){#fig:uda-pattern}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como os livros de estampas alemães, os livros de padrões ingleses
 são referências gerais para serem recompostas pelos construtores
 conforme o caso específico. Essa linhagem de obras, iniciada no final do
-século [XVII]{.smallcaps}, persiste até hoje na arquitetura do Reino Unido e dos
-Estados Unidos ([@Fig:uda-pattern]).
+século [XVII]{.smallcaps}, persiste até hoje na arquitetura do Reino
+Unido e dos Estados Unidos ([@fig:uda-pattern]).
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Urban Design Associates. *The Architectural Pattern Book*, 2004](https://images-na.ssl-images-amazon.com/images/I/419M-VXbH5L.jpg){#fig:uda-pattern}
+* * * *
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-2656px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg" data-background-position="top"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-544px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg){#fig:britannicus-front}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A obra de Colen Campbell intitulada *Vitruvius Britannicus*, de 1715, é
 um marco na consolidação dos livros de arquitetura na Inglaterra
-([@Fig:britannicus-front]).
+([@fig:britannicus-front]).
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![[Colen Campbell, *Vitruvius Britannicus* (1715)][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-544px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg){#fig:britannicus-front}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1280px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg"}
+## {.no-slide}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa publicação vai além do catálogo de ordens clássicas ou de motivos
 detalhados, e oferece também plantas e fachadas completas de edifícios
---- sobretudo mansões e palacetes ([@Fig:wilbury]).
+--- sobretudo mansões e palacetes ([@fig:wilbury]).
 
-::: {#fig:wilbury}
+::: {#fig:wilbury .half}
 ![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv}
-
 ![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan}
 
 William Benson, Wilbury House, 1710. In *Vitruvius Britannicus* 
@@ -224,20 +235,20 @@ William Benson, Wilbury House, 1710. In *Vitruvius Britannicus*
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ela é inspirada no tratado de Palladio, que também contém um inventário
 de plantas de moradas nobres ([Fig:dellatorre]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Andrea Palladio, palácio Della Torre, Verona. In [*The Four Books of Architecture* (1738)][], v. 2, pr. VII](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg/1024px-Palazzo_Della_Torre_Verona_Ware_2.VII.jpg){#fig:dellatorre}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A primeira tradução de Palladio diretamente do italiano para o inglês é
-feita por Isaac Ware, e publicada em 1738 ([@Fig:ware]). No entanto, o
+feita por Isaac Ware, e publicada em 1738 ([@fig:ware]). No entanto, o
 original italiano era conhecido na Inglaterra desde a época de Inigo
 Jones, no início do século [XVII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -258,7 +269,7 @@ Palladio, [*The Four Books of Architecture* (1738)], trad. Isaac Ware
 Por essa mesma época, o mercado editorial britânico em arquitetura se
 diversifica, e alguns autores lançam manuais de ofício (*handbooks*). Um
 dos primeiros é o *British Carpenter* de Francis Price, publicado
-em 1733. ([@Fig:britcarp]).
+em 1733. ([@fig:britcarp]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp}
@@ -278,8 +289,8 @@ Longe de ser um mero compilado de imagens de referência, como era o
 álbum de Dietterlin, o *British Carpenter* é um manual razoavelmente
 sistemático dos conhecimentos do ofício da carpintaria. O livro cobre
 desde os traçados geométricos elementares para a disposição do canteiro
-([@Fig:britcarp-a]) até os detalhes construtivos das conexões
-([@Fig:britcarp-c]).
+([@fig:britcarp-a]) até os detalhes construtivos das conexões
+([@fig:britcarp-c]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-ac}
@@ -295,9 +306,9 @@ desde os traçados geométricos elementares para a disposição do canteiro
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ele inclui desde o projeto geral de assoalhos ([@Fig:britcarp-cd]) aos
+Ele inclui desde o projeto geral de assoalhos ([@fig:britcarp-cd]) aos
 métodos de projeção de telhados sobre plantas irregulares
-([@Fig:britcarp-fg]).
+([@fig:britcarp-fg]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -314,10 +325,10 @@ métodos de projeção de telhados sobre plantas irregulares
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *British Carpenter* inclui explicações sobre a ergonomia e a
-construção de escadas ([@Fig:britcarp-uw]). Ele termina com um apêndice
+construção de escadas ([@fig:britcarp-uw]). Ele termina com um apêndice
 detalhando as cinco ordens clássicas segundo Palladio e algumas
 composições de portadas residenciais baseadas nessas ordens
-([@Fig:britcarp-app]) --- isso porque essas portadas geralmente eram
+([@fig:britcarp-app]) --- isso porque essas portadas geralmente eram
 construídas em madeira na cultura construtiva britânica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -331,31 +342,31 @@ construídas em madeira na cultura construtiva britânica.
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O escopo do livro de Price mostra o alcance do ofício da carpintaria e a
 autonomia que essa profissão detinha no mundo britânico do século [XVIII]{.smallcaps},
 comparável ao dos pedreiros na França da mesma época.
-
-![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg"}
+![[Georg Forster, English joiners, 1816][]](https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg){#fig:forster}
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa primazia do carpinteiro sobre os outros ofícios das construção
-persiste até hoje no Reino Unido e nos Estados Unidos ([@Fig:nwslc]).
-
-![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
+persiste até hoje no Reino Unido e nos Estados Unidos ([@fig:nwslc]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page3-1320px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg" data-background-position="top"}
+![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *City and Country Builder's and Workman's Treasury of Designs*,
 publicado por Batty Langley em 1741, é um álbum de detalhes de talha e
-marcenaria ([@Fig:langley-front]).
+marcenaria ([@fig:langley-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Batty [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][], folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page3-573px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley-front}
@@ -365,7 +376,7 @@ marcenaria ([@Fig:langley-front]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ele se aproxima do modelo de Dietterlin, com imagens de referência, mas
 também fornece dimensões específicas e abarca todo gênero de marcenaria,
-principalmente para interiores ([@Fig:langley-join]).
+principalmente para interiores ([@fig:langley-join]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-join}
@@ -382,7 +393,7 @@ principalmente para interiores ([@Fig:langley-join]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A seção que trata de carpintaria estrutural é muito mais breve e simples
-do que no livro de Price ([@Fig:langley-carp]). Isso mostra a
+do que no livro de Price ([@fig:langley-carp]). Isso mostra a
 diversificação e a especialização desse mercado editorial.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -396,12 +407,12 @@ diversificação e a especialização desse mercado editorial.
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-1245px-thumbnail.pdf.jpg" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O primeiro manual de ofício publicado nos Estados Unidos é o *Country
 Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
-1797 ([@Fig:asher; @Fig:cba-front]).
+1797 ([@fig:asher; @fig:cba-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -418,7 +429,7 @@ Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O livro de Benjamin é destinado a um mercado ainda pequeno e pouco
 sofisticado. Por isso, ele é uma compilação de alguns modelos e medidas
-simples, derivados de outros autores ([@Fig:cba-plates]). O livro reúne
+simples, derivados de outros autores ([@fig:cba-plates]). O livro reúne
 alguma indicação técnica sobre a carpintaria e marcenaria com modelos
 decorativos, provavelmente para profissionais menos especializados do
 que aqueles que trabalham na Grã-Bretanha.
@@ -441,7 +452,7 @@ O livro mais famoso de Asher Benjamin, *The American Builder's
 Companion*, de 1806, é muito mais extenso e refinado do que o anterior.
 Mesmo assim, ele mantém a lógica de fornecer detalhes construtivos e
 modelos decorativos numa mesma obra, visando a um público profissional
-generalista ([@Fig:abc]).
+generalista ([@fig:abc]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:abc}
@@ -460,7 +471,7 @@ Asher [Benjamin, *The American Builder's Companion* (1806)][]
 Esses livros de padrões são os precursores de dois tipos de literatura
 arquitetônica atual. Por um lado, temos os livros de referências
 técnicas, como o *Architectural Graphic Standards* americano
-([@Fig:ags]) e o nosso "Neufert" ([@Fig:neufert]), o alemão que
+([@fig:ags]) e o nosso "Neufert" ([@fig:neufert]), o alemão que
 conquistou o mundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -479,8 +490,8 @@ conquistou o mundo.
 Por outro lado, os livros de padrões formais para inspiração e
 reprodução de modelos decorativos ainda são muito difundidos. Esses
 padrões podem ser tradicionais, tendo uso muito difundido e inclusive
-normativo em algumas localidades do mundo anglófono ([@Fig:tsw-milton;
-@Fig:pdp-nola]).
+normativo em algumas localidades do mundo anglófono ([@fig:tsw-milton;
+@fig:pdp-nola]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -496,7 +507,7 @@ normativo em algumas localidades do mundo anglófono ([@Fig:tsw-milton;
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas é claro que também existem os livros de modelos modernistas
-([@Fig:viviendas; @Fig:archnow]): essas publicações nem sempre confessam
+([@fig:viviendas; @fig:archnow]): essas publicações nem sempre confessam
 o seu objetivo de servirem como base para a cópia, mas sabemos bem que
 eles são usados desse modo por estudantes e arquitetos!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -548,9 +559,9 @@ eles são usados desse modo por estudantes e arquitetos!
 
 [PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015]: http://www.pdparchitects.com/vieux-carre-historic-district-design-guidelines
 
-<!--,_-->
+<!--_-->
 
-# Novidade e correção na crítica do século XVIII #
+# Novidade e correção na crítica do século [XVIII]{.smallcaps} #
 
 Dois tipos de racionalismo:
 
@@ -566,5 +577,5 @@ Dois tipos de racionalismo:
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência
 
-# Bibliografia # {.allowframebreaks .unlisted}
+# Bibliografia # {- .allowframebreaks .unlisted}
 

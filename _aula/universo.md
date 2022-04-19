@@ -503,5 +503,7 @@ Segundo Alexander Tzonis [@tzonis:1972non-oppressive;
 
 ## Analogias literárias e rigorismo ##
 
+## Classicismo visionário ##
+
 # Bibliografia # {- .allowframebreaks .unlisted}
 
