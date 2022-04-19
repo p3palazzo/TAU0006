@@ -316,7 +316,26 @@ politicamente possível e do economicamente viável.
 
 Os interiores do palácio de Versalhes como um percurso urbano.
 
+- Caserta
+- Stupinigi
+- Mafra
+- Invalides é palácio ou não?
+
+Mas o Escorial veio antes de todos.
+
 ## São Petersburgo ##
+
+## Complexos não palacianos ##
+
+![Antigas tabernas da via Recta (preto), Roma, sobrepostas ao traçado atual (vermelho), segundo Saverio Muratori, Gianfranco Caniggia e Giuseppe Strappa](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:recta}
+
+![Royal Hospital, Greenwich](){#fig:greenwich}
+
+![Carlo Fontana e Mattia de' Rossi, arquitetos. Ospizio di San Michele a Ripa grade, Roma, 1686--1834](){#fig:ripa}
+
+![Ferdinando Fuga, arquiteto, Celeiro de Nápoles](){#fig:granaio}
+
+![Cordoaria, Lisboa](){#fig:cordoaria}
 
 # Hôtel: soluções funcionais da modernidade #
 
