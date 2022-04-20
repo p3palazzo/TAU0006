@@ -7,8 +7,8 @@ date    : 2022-04-12
 excerpt: >
   Origens do cálculo estrutural –
   Antiquarismo e história da arte –
-  Fim do vitruvianismo e ascensão do mecanicismo –
-  Arqueologia e nacionalismo como fatores de ruptura
+  Ascensão do mecanicismo –
+  Arqueologia e nacionalismo
 leitura: Summerson 89--125
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/View_of_the_Wilderness_at_Kew_MET_DP105027.jpg/2560px-View_of_the_Wilderness_at_Kew_MET_DP105027.jpg
@@ -470,15 +470,7 @@ Johann Joachim Winckelmann (1717--1768)
 (Neo)gótico inglês?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Fim do vitruvianismo #
-
-## Tradições conscientes ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A intenção de preservar linguagens tradicionais (principalmente
-eruditas) por meio da cristalização de cânones emerge da consciência da
-perda iminente dessas tradições.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Ascensão do mecanicismo #
 
 ## Energia e arquitetura ##
 
@@ -494,16 +486,14 @@ mesmo boa parte da construção em pedra (lavrada ou cantaria)
 [@calder:2021architecture].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Ascensão do mecanicismo ##
+## Método Beaux-Arts de projeto arquitetônico ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Alexander Tzonis [@tzonis:1972non-oppressive;
 @tzonis:1975mechanical].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Analogias literárias e rigorismo ##
-
-## Classicismo visionário ##
+# Arqueologia e nacionalismo #
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 

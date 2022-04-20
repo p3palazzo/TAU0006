@@ -7,6 +7,7 @@ date    : 2022-04-19
 excerpt: >
   Classicismo para o povo –
   Novidade e correção na crítica do século <span class="smallcaps">XVIII</span> –
+  Fim do vitruvianismo –
   Tradição e caráter nacional no Japão
 leitura: 599--625
 header:
@@ -565,12 +566,26 @@ eles são usados desse modo por estudantes e arquitetos!
 
 Dois tipos de racionalismo:
 
-1. Eficiência técnica
+1. Eficiência técnica --- ver [Viação e território](territorios.md)
    - Politécnica, engenharia viária e de minas
 2. Abstração
    - Ordonnance, Laugier
 
 ## Maturidade das tradições ##
+
+## Classicismo visionário ##
+
+# Fim do vitruvianismo #
+
+## Tradições conscientes ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A intenção de preservar linguagens tradicionais (principalmente
+eruditas) por meio da cristalização de cânones emerge da consciência da
+perda iminente dessas tradições.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Analogias literárias e rigorismo ##
 
 # Tradição e caráter nacional no Japão #
 
