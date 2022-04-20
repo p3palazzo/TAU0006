@@ -146,9 +146,10 @@ unidade3:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-800px-View_of_the_Wilderness_at_Kew_MET_DP105027.jpg
     title     : "Universo em expansão"
     excerpt: >
+      Sociedade burguesa –
       Antiquarismo e história da arte –
-      Fim do vitruvianismo e ascensão do mecanicismo –
-      Arqueologia e nacionalismo como fatores de ruptura
+      Romantismo –
+      Arqueologia e colonialismo
     url       : "/aula/universo/"
     btn_label : "5 de abril"
     btn_class : "btn btn--inverse btn--small"
@@ -156,7 +157,8 @@ unidade3:
     title     : "Reação clássica"
     excerpt: >
       Classicismo para o povo –
-      Novidade e correção na crítica do século <span class="smallcaps">XVIII</span> –
+      Origens do cálculo estrutural –
+      Fim do vitruvianismo –
       Tradição e caráter nacional no Japão
     url       : "/aula/reacao/"
     btn_label : "12 de abril"
