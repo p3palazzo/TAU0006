@@ -568,7 +568,7 @@ eles são usados desse modo por estudantes e arquitetos!
 
 # Origens do cálculo estrutural #
 
-* * * *
+## Os últimos polímatas ##
 
 ::: align-right
 ![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg){#fig:galileo}
@@ -687,50 +687,7 @@ que era amigo de Hooke, usou essa descoberta no processo de projeto da
 cúpula da catedral de São Paulo, em Londres ([@fig:wren]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Apesar dessa descoberta, a parábola de Galileu continua sendo útil,
-porque ela descreve a forma de uma corrente uniformemente carregada ---
-por exemplo, os cabos ou cordas que sustentam o tabuleiro de uma ponte
-suspensa, por exemplo as pontes tradicionais dos Andes ([@fig:qeswachaka]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Trecho do filme <em><a href="https://vimeo.com/140923607">Weaving the Bridge at Q&rsquo;eswachaka</a></em>. Produção: <a href="https://vimeo.com/user17621929"><span class="smallcaps">NMAI</span> Media Group</a>](https://cdn.palazzo.arq.br/firmitas/arcos/weaving_the_bridge_at_qeswachaka-140923607.webm){#fig:qeswachaka}
-
-* * * *
-
-::: align-right
-![Planta da igreja da Sagrada Família. [Acervo da fundação Templo Expiatório da Sagrada Família] via ArchDaily](https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447){#fig:gaudi-plan .line}
-:::
-
-[Acervo da fundação Templo Expiatório da Sagrada Família]: https://www.archdaily.com.br/br/787647/classicos-da-arquitetura-la-sagrada-familia-antoni-gaudi
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-::: align-right
-![Corte longitudinal da igreja da Sagrada Família, Barcelona](https://images.adsttc.com/media/images/5255/a0fd/e8e4/4ecb/1700/0702/slideshow/SECCIO_2011_neta.jpg?1381343451){#fig:gaudi-sec .line}
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-![Antoni Gaudí, arquiteto, maquete de cargas nas abóbadas do templo expiatório da Sagrada Família, Barcelona, último quartel do século [XIX]{.smallcaps}. Foto: [David Clay, 2013]](https://3.bp.blogspot.com/-oQ3LMOL9U58/UfkDQY3JDdI/AAAAAAAAAX4/IT43XNeoSlE/s1600/SagradaWeightModel.jpg){#fig:gaudi-model}
-
-[David Clay, 2013]: https://davidclayphotography.blogspot.com/2013/07/gaudis-weight-bearing-model-of-sagrada.html
-
-* * * *
-
-![Vista da igreja da Sagrada Família em construção, 2002](https://images.adsttc.com/media/images/5254/43b3/e8e4/4ecb/1700/066a/slideshow/2002.jpg?1381254039){#fig:familia-2002}
-
-* * * *
+## Explorações matemáticas da estabilidade de arcos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na verdade, como já dissemos, a construção tradicional considera que
@@ -744,10 +701,17 @@ Philippe de la Hire ([@fig:hire]) [@benvenuto:1991vaulted, 326].
 
 ![Philippe de La Hire, modelo de forças num arco, 1695](https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png){#fig:hire .line}
 
-## Classicismo visionário ##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ledoux, Boullée, Lequeu [@kaufmann:1968three].
+[@wendland:2007traditional1]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Análise de construções ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Rondelet, Patte e a avaliação da estabilidade estrutural do Louvre e de
+S. Genoveva [@rabreau:1972soufflot130; @patte:1770memoire].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Fim do vitruvianismo #
@@ -798,6 +762,12 @@ Segundo Alexander Tzonis [@tzonis:1972non-oppressive;
 Durand e o historicismo.
 
 Fisiocratas (Cointereaux).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Classicismo visionário ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ledoux, Boullée, Lequeu [@kaufmann:1968three].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tradição e caráter nacional no Japão #
