@@ -209,6 +209,13 @@ grande prestígio no começo do século [XVIII]{.smallcaps}.
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desenho do Partenon pelo P^e^ Babin, publicado em 1674 por Jacob Spon
+[@middleton:1962abbe25, 286].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::: {.columns #fig:stuart-revett}
 ::: {.column width=50%}
 ![[Nicholas Revett (1720--1804)](https://commons.wikimedia.org/wiki/File:Portrait_of_Nicholas_Revett_-_1830.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e3/Portrait_of_Nicholas_Revett_-_1830.jpg){#fig:revett}
@@ -269,7 +276,7 @@ Revett eles eram quase totalmente desconhecidos fora da Grécia.
 A circulação de desenhos precisos da arquitetura da Grécia antiga foi um
 dos primeiros golpes na tradição renascentista. Até então, os teóricos
 europeus acreditavam que as ordens clássicas romanas fossem quase iguais
-às gregas, e a antiguidade da Grécia era uma autoridade histórica
+às gregas [@middleton:1962abbe25, 280], e a antiguidade da Grécia era uma autoridade histórica
 reivindicada pelo próprio Vitrúvio. Os novos levantamentos mostravam
 claramente a diferença entre a arquitetura grega e a romana, tanto nas
 proporções e detalhes das ordens ([@fig:sr-delos; @fig:desg-colisee])
@@ -278,9 +285,17 @@ quanto na tipologia dos edifícios.
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Leroy
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A existência de não uma só, mas duas tradições clássicas muito
 diferentes entre si, tornava caduco o argumento acadêmico de que o bom
 gosto arquitetônico seria universal. Só que essa ficha demorou a cair.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -316,9 +331,17 @@ Johann Joachim Winckelmann (1717--1768)
 
 # Romantismo #
 
+<!--Individualismo e relatividade do gosto na França-->
+
 <!--Estética kantiana-->
 
 # Arqueologia e colonialismo #
+
+## Estética das ruínas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Piranesi, Jean-Laurent Le Geay [@kaufmann:1952three, 451].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Pompeia ##
 

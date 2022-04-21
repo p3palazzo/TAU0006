@@ -159,7 +159,7 @@ unidade3:
       Classicismo para o povo –
       Origens do cálculo estrutural –
       Fim do vitruvianismo –
-      Tradição e caráter nacional no Japão
+      Tradicionalismos programáticos
     url       : "/aula/reacao/"
     btn_label : "12 de abril"
     btn_class : "btn btn--inverse btn--small"

@@ -8,7 +8,7 @@ excerpt: >
   Classicismo para o povo –
   Origens do cálculo estrutural –
   Fim do vitruvianismo –
-  Tradição e caráter nacional no Japão
+  Tradicionalismos programáticos
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
   caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
@@ -716,6 +716,24 @@ S. Genoveva [@rabreau:1972soufflot130; @patte:1770memoire].
 
 # Fim do vitruvianismo #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O vitruvianismo --- a adesão à tradição renascentista baseada no ideal
+de um corpo universal e tangível da arquitetura inspirado em Vitrúvio
+--- se desagrega em prol de dois tipos de racionalismo:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Eficiência técnica
+   - Ciência das estruturas (visto logo acima)
+   - Consumo de energia
+   - Politécnica, engenharia viária e de minas ---
+     ver [Viação e território](territorios.md)
+2. Abstração
+   - Romantismo literário
+   - Rigorismo
+   - Classicismo visionário
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Energia e arquitetura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -725,25 +743,140 @@ combustível fóssil: o carvão mineral. Fornalhas a carvão permitem a
 produção de tijolos e peças em ferro (inclusive pregos) em grande escala
 e com custos cada vez mais baixos. Isso, por sua vez, marginaliza
 sistemas construtivos mais tradicionais, como o frontal com adobe ou
-pau-a-pique, as grandes estruturas em madeira com conexões de pinos, e
+pau-a-pique, as grandes estruturas em madeira com sambladuras, e
 mesmo boa parte da construção em pedra (lavrada ou cantaria)
 [@calder:2021architecture].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Ascensão do mecanicismo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Alexander Tzonis, paradigma da eficiência burocrática começava a
+suplantar o da tipologia tradicional [@tzonis:1972non-oppressive;
+@tzonis:1975mechanical]. O novo paradigma começou se desdobrando em dois
+aspectos: o racionalismo estrutural de Lodoli e o funcionalismo
+programático. Nenhum dos dois, porém, tinha os meios tecnológicos de
+realizar os seus objetivos --- o cálculo estrutural ainda demoraria
+bastante até se tornar viável, e a função ainda seria por um bom tempo
+compreendida em termos de analogias fisionômicas ou fisiológicas.
+
+Durand e o historicismo (ver também Legrand, mais abaixo).
+
+Fisiocratas (Cointereaux).
+
+Racionalização da estocagem e da saúde (lazaretos) --- J.B. Le Roy
+[@tzonis:1975mechanical, 6].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Analogias literárias e rigorismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Laugier, Cordemoy
+No seu pensamento mais tardio, Boffrand argumentou que a arquitetura
+devia ser determinada por dois conjuntos de leis independentes do gosto
+cultural: a natureza e o caráter fisionômico. Essa visão deu origem ao
+conceito de *architecture parlante* [@kaufmann:1952three, 447] ou
+"arquitetura tagarela" (tradução de Sylvia Ficher).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Novidade e correção na crítica do século [XVIII]{.smallcaps} ##
+* * * *
 
-Dois tipos de racionalismo:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Michel de Frémin, Cordemoy e a apreciação da arquitetura gótica
+paralelamente à grega [@middleton:1962abbe25].
 
-1. Eficiência técnica --- ver [Viação e território](territorios.md)
-   - Politécnica, engenharia viária e de minas
-2. Abstração
-   - Ordonnance, Laugier
+Cordemoy defende as colunas acopladas [@middleton:1962abbe25, 284], cf.
+gosto gótico segundo Perrault [@herrmann:1980theorie].
+
+Cordemoy, Laugier e o culto da colunata. Disputa entre Cordemoy e
+Frézier acerca do aspecto do cruzeiro em Val-de-Grâce --- Cordemoy
+preferia que os arcos do cruzeiro fossem substituídos por colunatas,
+Frézier rejeita este argumento e outros purismos, como a proibição de
+frontões decorativos ou de pedestais sob colunas. Primeiros debates
+sobre a aparência das basílicas constantinianas [@middleton:1962abbe25,
+287-288] repercutidos por Desgodets [@herrmann:1958antoine40].
+
+Em última análise chega-se a colocar em pauta a validade do
+Renascimento como um todo, frente à pureza do grego e à autenticidade
+monumental do gótico. Frézier representa a defesa do conhecimento
+disciplinar francês da estereotomia (que não tem descontinuidade
+fundamental entre o gótico e o Renascimento) perante esse purismo
+literário e néscio [@perouse:2001architecture]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Abóbada gótica segundo Frézier](){#fig:frezier}
+
+## Genealogia do neoclassicismo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Itália e Inglaterra primeiro, depois França (Servandoni). Cordemoy →
+Boffrand (Nancy pré-Stanislas) → Héré (Stanislas), Gabriel (Louis XV).
+
+Jacques-François Blondel, professor de Boullée, defendia uma justa
+medida clássica contra os excessos do barroco (pelo estudo dos
+monumentos antigos) e do rigorismo (condenando a excessiva simplificação
+à maneira grega) [@kaufmann:1952three, 436]. Consideração por conjuntos
+de vários edifícios e relação entre interior e exterior (vistas) seria
+cada vez mais importante daí para a frente. Não há contradição entre a
+teoria e a pedagogia de Blondel e a tradição renascentista,
+especialmente de gosto italiano, mas demonstra ênfase crescente na
+natureza (e não no precedente dos antigos) como fonte de autoridade para
+a arquitetura [@kaufmann:1952three, 439-440].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A formulação do conceito de *distribuição*, por oposição ao antigo
+conceito de *economias*, permite pensar em termos de projetos
+arquitetônicos não predeterminados pela tipologia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Classicismo visionário ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Camus de Mézières (architecture parlante), Ledoux, Boullée, Lequeu.
+
+Princípios da arquitetura "revolucionária" francesa no final do século
+[XVIII]{.smallcaps}:
+
+- Expressão do caráter na volumetria (por oposição à comunicação usando
+  iconografia) ou *architecture parlante*;
+- Criação de atmosfera decorosa (severa e comedida, mas por vezes
+  desmedida);
+- Separação da composição em partes autônomas feitas de geometrias
+  elementares [@kaufmann:1952three, 434].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em última análise, o classicismo visionário não teve continuação
+imediata e seria suplantado pelos tradicionalismos programáticos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Tradicionalismos programáticos #
+
+## Medievalismo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Continuidade do gótico na França [@middleton:1962abbe25, 291] e na
+Inglaterra.
+
+Jean-François Félibien (*Recueil*): analogia do gótico com a cultura do
+norte da Europa, com dosséis e tendas delicadas feitas de ramos mais
+finos do que os troncos da cabana primitiva vitruviana
+[@middleton:1962abbe25, 301]. H. Leblanc compara com florestas druídicas
+[@middleton:1962abbe25, 319].
+
+John Evelyn e Florent Le Comte propõem uma origem árabe para a
+arquitetura gótica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Historiografia ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Legrand e Durand.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Método Beaux-Arts de projeto arquitetônico ##
 
@@ -753,24 +886,7 @@ eruditas) por meio da cristalização de cânones emerge da consciência da
 perda iminente dessas tradições.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Ascensão do mecanicismo ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Segundo Alexander Tzonis [@tzonis:1972non-oppressive;
-@tzonis:1975mechanical].
-
-Durand e o historicismo.
-
-Fisiocratas (Cointereaux).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Classicismo visionário ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ledoux, Boullée, Lequeu [@kaufmann:1968three].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Tradição e caráter nacional no Japão #
+## Tradição e caráter nacional no Japão ##
 
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência
