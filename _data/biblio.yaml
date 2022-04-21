@@ -66,6 +66,7 @@ references:
       month: 9
       day: 7
   language: en
+  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Streets of Stone town, Zanzibar
   type: graphic
@@ -86,6 +87,9 @@ references:
   issued:
     - year: 1989
   language: en
+  note: |-
+    ZSCC: NoCitationData[s0] 
+    OCLC: 610999409
   number-of-pages: '443'
   publisher: Oxford University Press
   publisher-place: 'New York : Oxford'
@@ -106,6 +110,9 @@ references:
   issued:
     - year: 1961
   language: en-US
+  note: |-
+    ZSCC: 0000002 
+    OCLC: 926786618
   publisher: Viking
   publisher-place: New York
   source: Open WorldCat
@@ -184,6 +191,9 @@ references:
   issued:
     - year: 1986
   language: en-US
+  note: |-
+    ZSCC: 0000362 
+    OCLC: 926786618
   publisher: University of Chicago Press
   publisher-place: Chicago
   source: Open WorldCat
@@ -272,6 +282,7 @@ references:
       month: 7
       day: 14
   language: en-US
+  note: 'ZSCC: NoCitationData[s0]'
   title: Piazza Bentivoglio, Gualtieri. RE Italy
   type: post-weblog
   URL: http://www.dronestagr.am/piazza-bentivoglio-gualtieri-re-italy/
@@ -326,6 +337,7 @@ references:
   issued:
     - year: 2011
   language: pt-PT
+  note: 'OCLC: 796387496'
   publisher: Fundação Calouste Gulbenkian
   publisher-place: Lisboa
   source: Open WorldCat
@@ -388,6 +400,7 @@ references:
   issued:
     - year: 2002
   language: en-US
+  note: 'OCLC: 51093192'
   number-of-volumes: '4'
   publisher: Center for Environmental Structure
   publisher-place: Berkeley, Calif.
@@ -472,6 +485,7 @@ references:
   issued:
     - year: 1981
   language: en
+  note: 'ZSCC: 0000060'
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
@@ -539,6 +553,7 @@ references:
   issued:
     - year: 2007
   language: en
+  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '812'
   publisher: Springer
   publisher-place: New York ; London
@@ -13183,6 +13198,33 @@ references:
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/987903
   volume: '18'
+
+- id: middleton:1962abbe25
+  accessed:
+    - year: 2021
+      month: 5
+      day: 13
+  author:
+    - family: Middleton
+      given: Robin D.
+  citation-key: middleton:1962abbe25
+  container-title: Journal of the Warburg and Courtauld Institutes
+  DOI: 10.2307/750811
+  ISSN: 0075-4390
+  issue: 3/4
+  issued:
+    - year: 1962
+  language: en-GB
+  page: 278-320
+  publisher: Warburg Institute
+  source: JSTOR
+  title: >-
+    The abbé de Cordemoy and the Graeco-Gothic ideal: A prelude to romantic
+    classicism
+  title-short: The abbé de Cordemoy and the Graeco-Gothic ideal
+  type: article-journal
+  URL: https://www.jstor.org/stable/750811
+  volume: '25'
 
 - id: middleton:1982beauxarts
   citation-key: middleton:1982beauxarts
