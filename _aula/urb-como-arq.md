@@ -335,6 +335,8 @@ Mas o Escorial veio antes de todos.
 
 ![Ferdinando Fuga, arquiteto, Celeiro de Nápoles](){#fig:granaio}
 
+![Ferdinando Fuga, arquiteto, abrigo dos Pobres, Nápoles, 1751](){#fig:albergo-poveri}
+
 ![Cordoaria, Lisboa](){#fig:cordoaria}
 
 # Hôtel: soluções funcionais da modernidade #

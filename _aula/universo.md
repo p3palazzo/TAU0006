@@ -306,6 +306,13 @@ foi feito.
 
 ## Nascimento da história da arte e fronteiras da arquitetura ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Piranesi vs Winckelmann e Leroy: superioridade da Grécia antiga ou
+origem autônoma da arte etrusca e romana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![[Retrato de Winckelmann][] por Anton von Maron, 1768](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg/555px-Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg){#fig:winckelmann}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -314,6 +321,8 @@ foi feito.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Johann Joachim Winckelmann (1717--1768)
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Pitoresco e arquiteturas nacionais ##
@@ -342,6 +351,10 @@ Johann Joachim Winckelmann (1717--1768)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Piranesi, Jean-Laurent Le Geay [@kaufmann:1952three, 451].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Carlo Marchioni, principal arquiteto, villa Albani, Roma, 1755--1763](){#fig:albani}
 
 ## Pompeia ##
 

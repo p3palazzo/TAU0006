@@ -8,7 +8,7 @@ excerpt: >
   Classicismo para o povo –
   Origens do cálculo estrutural –
   Fim do vitruvianismo –
-  Tradicionalismos programáticos
+  Moralidade e arquitetura
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
   caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
@@ -687,6 +687,20 @@ que era amigo de Hooke, usou essa descoberta no processo de projeto da
 cúpula da catedral de São Paulo, em Londres ([@fig:wren]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Dimensionamento geométrico ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Do Louvre de Perrault à S. Genoveva de Soufflot [@petzet:1961soufflots;
+@rabreau:1972soufflot130], passando pelo hôtel de la Marine de Gabriel.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Análise de construções ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Rondelet, Patte e a avaliação da estabilidade estrutural do Louvre e de
+S. Genoveva [@rabreau:1972soufflot130; @patte:1770memoire].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Explorações matemáticas da estabilidade de arcos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -707,19 +721,14 @@ Philippe de la Hire ([@fig:hire]) [@benvenuto:1991vaulted, 326].
 [@wendland:2007traditional1]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Análise de construções ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Rondelet, Patte e a avaliação da estabilidade estrutural do Louvre e de
-S. Genoveva [@rabreau:1972soufflot130; @patte:1770memoire].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Fim do vitruvianismo #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O vitruvianismo --- a adesão à tradição renascentista baseada no ideal
-de um corpo universal e tangível da arquitetura inspirado em Vitrúvio
---- se desagrega em prol de dois tipos de racionalismo:
+O vitruvianismo pode ser definido como a adesão à tradição renascentista
+baseada no ideal de um corpo universal e tangível da arquitetura
+inspirado em Vitrúvio [@germann:1991vitruve]. O vitruvianismo se
+desagregou na segunda metade do século  [XVIII]{.smallcaps} em prol de
+dois tipos de racionalismo:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
@@ -732,6 +741,23 @@ de um corpo universal e tangível da arquitetura inspirado em Vitrúvio
    - Romantismo literário
    - Rigorismo
    - Classicismo visionário
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O final do século [XVIII]{.smallcaps} e início do [XIX]{.smallcaps} é
+reconhecido pelos historiadores como um período de transição fundamental
+na arquitetura europeia, e especialmente francesa, desde os primeiros
+livros-texto da nossa disciplina, no final do século [XIX]{.smallcaps} e
+início do [XX]{.smallcaps}. O que muda é a natureza  e o momento dessa
+transição --- alguns autores, como Geymüller e Ward, a definem como a
+virada revivalista que acompanha a Restauração da monarquia francesa
+depois da Revolução e do império de Napoleão [@geymueller:1898baukunst1;
+@ward:1911architecture2]. Já os historiadores modernistas no começo do
+século [XX]{.smallcaps} enxergaram a transição bem antes, na obra
+teórica dos rigoristas e classicistas visionários da segunda metade do
+século [XVIII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Energia e arquitetura ##
@@ -767,6 +793,141 @@ Fisiocratas (Cointereaux).
 Racionalização da estocagem e da saúde (lazaretos) --- J.B. Le Roy
 [@tzonis:1975mechanical, 6].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Novidade e correção na Itália ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Teorias: de Carlo Lodoli a Francesco Milizia.
+
+Prática: de Alessandro Galilei a Giuseppe Valadier e Luigi Poletti.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O neoclassicismo começa na Itália com uma reaproximação dos arquitetos
+do século [XVIII]{.smallcaps} ao gosto do alto Renascimento, como em
+Bramante, Rafael e Antonio da Sangallo, o jovem. É um programa
+ideológico de rejeição do barroco e, pouco a pouco, também da obra de
+Miguel Ângelo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Filippo Juvarra, arquiteto, basílica da Superga, Turim](){#fig:superga}
+
+* * * *
+
+![Alessandro Galilei, arquiteto, fachada da arquibasílica de S. João no Latrão, Roma, iniciada 1733. Foto: [Heribert Pohl, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rom,_Basilika_San_Giovanni_in_Laterano_%2814164084913%29.jpg/2560px-Rom,_Basilika_San_Giovanni_in_Laterano_%2814164084913%29.jpg){#fig:laterano}
+
+[Heribert Pohl, 2011]: https://commons.wikimedia.org/wiki/File:Rom,_Basilika_San_Giovanni_in_Laterano_(14164084913).jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O projeto de Alessandro Galilei (um primo distante de Galileu) para a
+reconstrução da fachada da arquibasílica de S. João no Latrão
+([@fig:laterano]) representa a transição da arquitetura sensorial do
+barroco para uma expressão rígida das teorias acadêmicas sobre o
+classicismo, incluindo a perda do senso de escala em favor da
+manipulação de proporções abstratas, o uso exagerado de correções
+ópticas nas estátuas gigantescas do coroamento e a tentativa de unificar
+a fachada da basílica tanto em largura quanto em altura, por meio da
+ordem colossal. Especialmente a perda do senso de escala vai ser um
+problema crescente para a arquitetura desde então.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Ferdinando Fuga, Caffèhas (casa de café) no palácio do Quirinal, Roma, 1741](){#fig:caffehas}
+
+* * * *
+
+![Giacomo Quarenghi, arquiteto, igreja de Santa Escolástica, Subiaco, 1770--1776](){#fig:scolastica}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No projeto do teatro alla Scala de Milão, construído no sítio da antiga
+igreja de Santa Maria alla Scala demolida expressamente, a separação
+física entre o palácio e o teatro, assim como o uso de uma *porte
+cochère* ou marquise, são indicativos da nova ênfase em atender a um
+público burguês.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Giuseppe Piermarini, arquiteto, teatro alla Scala, Milão, 1776--1778](){#fig:scala}
+
+* * * *
+
+![Giuseppe Piermarini, arquiteto, Academia de Belas-Artes de Brera, Milão, após 1776](){#fig:brera}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A reforma da segunda ordem do Panteão sob Bento XIV em 1756
+([@fig:pantheon]) revela a dificuldade dos italianos na segunda metade
+do século [XVIII]{.smallcaps} em admitir certas incongruências no limite
+das regras de articulação clássica. No entanto, a crítica generalizada
+ao resultado dessa reforma revela queda na confiança na arquitetura
+contemporânea [@kirk:2005architecture1, 17].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::: {#fig:pantheon .half .r-stack .full}
+![estado anterior a 1756, publicado por [Francesco Piranesi, 1790][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg){#fig:pantheon-pira .fragment .current-visible}
+![após a reforma da segunda ordem por Paolo Posi em 1756, [gravura de 1774][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg){#fig:pantheon-posi .fragment .current-visible}
+
+Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Desenhos:
+Giovanni Battista Piranesi
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[gravura de 1774]: https://commons.wikimedia.org/wiki/File:Piranesi-17005.jpg
+
+[Francesco Piranesi, 1790]: https://commons.wikimedia.org/wiki/File:Piranesi-6034.jpg
+
+## Genealogia do neoclassicismo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Itália e Inglaterra primeiro, depois França (Servandoni). Cordemoy →
+Boffrand (Nancy pré-Stanislas) → Héré (Stanislas), Gabriel (Louis XV).
+
+Jacques-François Blondel, professor de Boullée, defendia uma justa
+medida clássica contra os excessos do barroco (pelo estudo dos
+monumentos antigos) e do rigorismo (condenando a excessiva simplificação
+à maneira grega) [@kaufmann:1952three, 436]. Consideração por conjuntos
+de vários edifícios e relação entre interior e exterior (vistas) seria
+cada vez mais importante daí para a frente. Não há contradição entre a
+teoria e a pedagogia de Blondel e a tradição renascentista,
+especialmente de gosto italiano, mas demonstra ênfase crescente na
+natureza (e não no precedente dos antigos) como fonte de autoridade para
+a arquitetura [@kaufmann:1952three, 439-440].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A formulação do conceito de *distribuição*, por oposição ao antigo
+conceito de *economias*, permite pensar em termos de projetos
+arquitetônicos não predeterminados pela tipologia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O neoclassicismo corrente na segunda metade do século
+[XVIII]{.smallcaps} tem sido um paradigma popular no ensino e na prática
+da arquitetura pela clareza dos seus princípios formais: traçado
+regulador elementar e predominantemente retangular, uso sisudo das
+ordens clássicas, aplicação parcimoniosa de decoração
+[@ward:1911architecture2, 417]. O chamado "estilo Luís XVI", nome mais
+pomposo e específico para essa variante francesa do neoclassicismo,
+serviu como modelo para o ensino e a prática da arquitetura clássica em
+grande parte da Europa e das Américas durante todo o século
+[XIX]{.smallcaps} e a primeira metade do século [XX]{.smallcaps}.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Historiografia ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Legrand e Durand.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Moralidade e arquitetura #
 
 ## Analogias literárias e rigorismo ##
 
@@ -805,62 +966,106 @@ literário e néscio [@perouse:2001architecture]
 
 ![Abóbada gótica segundo Frézier](){#fig:frezier}
 
-## Genealogia do neoclassicismo ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Itália e Inglaterra primeiro, depois França (Servandoni). Cordemoy →
-Boffrand (Nancy pré-Stanislas) → Héré (Stanislas), Gabriel (Louis XV).
-
-Jacques-François Blondel, professor de Boullée, defendia uma justa
-medida clássica contra os excessos do barroco (pelo estudo dos
-monumentos antigos) e do rigorismo (condenando a excessiva simplificação
-à maneira grega) [@kaufmann:1952three, 436]. Consideração por conjuntos
-de vários edifícios e relação entre interior e exterior (vistas) seria
-cada vez mais importante daí para a frente. Não há contradição entre a
-teoria e a pedagogia de Blondel e a tradição renascentista,
-especialmente de gosto italiano, mas demonstra ênfase crescente na
-natureza (e não no precedente dos antigos) como fonte de autoridade para
-a arquitetura [@kaufmann:1952three, 439-440].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A formulação do conceito de *distribuição*, por oposição ao antigo
-conceito de *economias*, permite pensar em termos de projetos
-arquitetônicos não predeterminados pela tipologia.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Classicismo visionário ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A relevância histórica dos classicistas visionários da segunda metadedo
+século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
+de um classicismo visionário ou revolucionário, fora do percurso
+acadêmico padrão, não aparece na maioria das histórias da arquitetura
+francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
+entravam nas narrativas históricas mais amplas, por serem muito
+excêntricos e terem tido pouca influência sobre a geração seguinte.
+
+O conceito de classicismo "revolucionário" só foi estabelecido na
+primeira metade do século [XX]{.smallcaps} por autores austríacos como
+Emil Kaufmann e Nikolaus Pevsner. Foi um projeto historiográfico
+retrospectivo que buscava dar ao modernismo racionalista da década de
+1920 um antecedente pretensamente injustiçado. Esse movimento tentava
+relacionar a rejeição da tradição clássica por Le Corbusier, entre
+outros, com o interesse formalista pela abstração geométrica na obra de
+Ledoux [@kaufmann:1936claude8] e Boullée. De resto, o classicismo
+visionário foi mais um aprofundamento do neoclassicismo dominante na
+França da segunda metade do século [XVIII]{.smallcaps}, com a sua ênfase
+na simplicidade e nas geometrias elementares.
+
 Camus de Mézières (architecture parlante), Ledoux, Boullée, Lequeu.
 
 Princípios da arquitetura "revolucionária" francesa no final do século
-[XVIII]{.smallcaps}:
+[XVIII]{.smallcaps} segundo Emil Kaufmann [-@kaufmann:1952three, 434]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - Expressão do caráter na volumetria (por oposição à comunicação usando
   iconografia) ou *architecture parlante*;
 - Criação de atmosfera decorosa (severa e comedida, mas por vezes
   desmedida);
 - Separação da composição em partes autônomas feitas de geometrias
-  elementares [@kaufmann:1952three, 434].
+  elementares.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na obra de Boullée, a palavra "projetado" começa a aparecer com maior
+frequência. O termo é usado em francês desde o século [XV]{.smallcaps}
+para se referir a propostas de ação em geral. Com Boullée, o conceito de
+proposta vai se alinhando cada vez mais com a apresentação de desenhos
+arquitetônicos, ao mesmo tempo que esses desenhos vão se distanciando
+das bases tipológicas da composição renascentista. Assim, o conceito de
+*projeto arquitetônico* ganha corpo como a representação de propostas
+que não se baseiam num repertório pré-estabelecido --- exatamente a
+definição de projeto que Helio Piñón defende séculos mais tarde
+[@pinon:2006teoria, 49].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tentativa de vincular o classicismo visionário do século
+[XVIII]{.smallcaps} ao modernismo é anacrônica: nem esses classicistas
+concebiam a abstração como um objetivo em si, nem os primeiros
+modernistas reivindicavam essa herança. No entanto, a geração visionária
+francesa participou de um processo de modernização importante: a
+profissionalização do ensino e da crítica na Real Academia de
+Arquitetura e, depois da Revolução, na Escola de Belas-Artes de Paris.
+
+Os acadêmicos da primeira metade do século [XVIII]{.smallcaps} tinham na
+Academia principalmente uma credencial de reconhecimento do seu valor
+como arquitetos do ofício. Em contraste, no período logo antes e durante
+a Revolução francesa, consolidou-se a figura do acadêmico profissional.
+Boullée em particular foi um profesor e acadêmico dedicado, que
+construiu muito pouco mas abraçou o seu papel de professor e crítico com
+muita dedicação [@kaufmann:1952three, 456]. Mas isso não tinha nada a
+ver com o estilo abstracionista dos visionários, já que o
+tradicionalista programático Quatremère de Quincy foi um dos mais
+destacados desses acadêmicos profissionais.
+
 Em última análise, o classicismo visionário não teve continuação
 imediata e seria suplantado pelos tradicionalismos programáticos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Tradicionalismos programáticos #
+## Tradicionalismos programáticos ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Se o classicismo visionário não teme maiores implicações para o estilo
+dominante no final do século [XVIII]{.smallcaps} e início do
+[XIX]{.smallcaps}, ele ainda assim reforçou um movimento emergente: a
+introdução de argumentos moralistas na teoria da arquitetura e na
+justificativa dos projetos [@watkin:1977morality].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Medievalismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Continuidade do gótico na França [@middleton:1962abbe25, 291] e na
 Inglaterra.
+
+O objetivo de se estudar a arquitetura gótica, no século
+[XVIII]{.smallcaps}, não era tanto o de estabelecer regras e proporções
+para a prática, mas o de descrever os seus atributos formais e conteúdos
+intelectuais [@patetta:1975larchitettura]. Isso o aproximava do estudo
+da arquitetura grega na mesma época.
 
 Jean-François Félibien (*Recueil*): analogia do gótico com a cultura do
 norte da Europa, com dosséis e tendas delicadas feitas de ramos mais
@@ -872,24 +1077,27 @@ John Evelyn e Florent Le Comte propõem uma origem árabe para a
 arquitetura gótica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Historiografia ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Legrand e Durand.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Método Beaux-Arts de projeto arquitetônico ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A intenção de preservar linguagens tradicionais (principalmente
 eruditas) por meio da cristalização de cânones emerge da consciência da
-perda iminente dessas tradições.
+perda iminente dessas tradições [@moneo:1978typology].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Quatremère de Quincy, Rondelet e o projeto enciclopédico
+[@schneider:1910esthetique].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Tradição e caráter nacional no Japão ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Cultura burguesa e nacionalismo
 - Sinofilia no poder político, nacionalismo como resistência
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 

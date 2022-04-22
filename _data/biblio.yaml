@@ -66,7 +66,6 @@ references:
       month: 9
       day: 7
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Streets of Stone town, Zanzibar
   type: graphic
@@ -87,9 +86,6 @@ references:
   issued:
     - year: 1989
   language: en
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 610999409
   number-of-pages: '443'
   publisher: Oxford University Press
   publisher-place: 'New York : Oxford'
@@ -110,9 +106,6 @@ references:
   issued:
     - year: 1961
   language: en-US
-  note: |-
-    ZSCC: 0000002 
-    OCLC: 926786618
   publisher: Viking
   publisher-place: New York
   source: Open WorldCat
@@ -191,9 +184,6 @@ references:
   issued:
     - year: 1986
   language: en-US
-  note: |-
-    ZSCC: 0000362 
-    OCLC: 926786618
   publisher: University of Chicago Press
   publisher-place: Chicago
   source: Open WorldCat
@@ -282,7 +272,6 @@ references:
       month: 7
       day: 14
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   title: Piazza Bentivoglio, Gualtieri. RE Italy
   type: post-weblog
   URL: http://www.dronestagr.am/piazza-bentivoglio-gualtieri-re-italy/
@@ -337,7 +326,6 @@ references:
   issued:
     - year: 2011
   language: pt-PT
-  note: 'OCLC: 796387496'
   publisher: Fundação Calouste Gulbenkian
   publisher-place: Lisboa
   source: Open WorldCat
@@ -400,7 +388,6 @@ references:
   issued:
     - year: 2002
   language: en-US
-  note: 'OCLC: 51093192'
   number-of-volumes: '4'
   publisher: Center for Environmental Structure
   publisher-place: Berkeley, Calif.
@@ -485,7 +472,6 @@ references:
   issued:
     - year: 1981
   language: en
-  note: 'ZSCC: 0000060'
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
@@ -535,7 +521,6 @@ references:
       month: 9
       day: 21
   language: Spanish
-  note: 'Page Version ID: 129450381'
   source: Wikipedia
   title: Andén (agricultura)
   type: entry-encyclopedia
@@ -553,7 +538,6 @@ references:
   issued:
     - year: 2007
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '812'
   publisher: Springer
   publisher-place: New York ; London
@@ -651,9 +635,6 @@ references:
   issued:
     - year: 1511
   medium: Oil on canvas
-  note: |-
-    ZSCC: NoCitationData[s0]
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: >-
     Anonymous Venetian, follower of Gentile Bellini. The reception of the
@@ -734,7 +715,6 @@ references:
   issued:
     - literal: 13--
   language: Portuguese
-  note: dimensions QS:P2048,+61U174728;P2049,+42U174728
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -755,7 +735,6 @@ references:
       month: 11
       day: 8
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: 'Banaue, Philippines: Batad Rice Terraces'
   title-short: Batad Rice Terraces
@@ -779,7 +758,6 @@ references:
       day: 4
   language: en
   medium: Photography
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Hall of Prayer for Good Harvests
   type: graphic
@@ -920,7 +898,6 @@ references:
   issued:
     - year: 1973
   language: es
-  note: 'OCLC: 911768274'
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -961,7 +938,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: 'OCLC: 77541632'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -983,7 +959,6 @@ references:
   issued:
     - year: 1999
   language: pt-BR
-  note: 'OCLC: 50833926'
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1104,7 +1079,6 @@ references:
       month: 9
       day: 6
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Vimeo
   title: Venezia
   type: motion_picture
@@ -1132,7 +1106,6 @@ references:
       month: 7
       day: 20
   language: en
-  note: 'Page Version ID: 968645086'
   source: Wikipedia
   title: '*Atlas Maior*'
   type: entry-encyclopedia
@@ -1147,7 +1120,6 @@ references:
   issued:
     - year: 2013
   language: en-US
-  note: 'OCLC: 948280647'
   publisher: G3B
   source: Open WorldCat
   title: 'Renaissance Revit: creating classical architecture with modern software'
@@ -1233,7 +1205,6 @@ references:
   issued:
     - year: 2009
   language: en-ZA
-  note: 'ZSCC: 0000039'
   page: 148-155
   source: Scopus
   title: >-
@@ -1305,7 +1276,6 @@ references:
   issued:
     - year: 1999
   language: en-US
-  note: 'OCLC: 636790777'
   publisher: Princeton Architectural Press
   publisher-place: Princeton
   source: Open WorldCat
@@ -1528,14 +1498,6 @@ references:
   issued:
     - year: 1500
   language: it
-  note: >-
-    date QS:P571,+1500-00-00T00:00:00Z/9
-
-    Esta  é uma imagem retocada, o que significa que a versão original foi
-    alterada digitalmente. Modificações: Removed distortion, cropped, changed to
-    grayscale, levels adjusted, lightened shades, +contrast, sharpened. O
-    original pode ser visto aqui: Jacopo de' Barbari - Venetie MD.jpg: .
-    Modificações feitas por AlMare.   Godromil
   source: Wikimedia Commons
   title: Venezia
   type: graphic
@@ -1569,15 +1531,14 @@ references:
       month: 1
       day: 7
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number: '1'
   page: Art. 2
   publisher: Ubiquity Press
   source: journal.eahn.org
   title: >-
-    Scamozzi’s Orders and Proportions: An End to Illusions or a Visionary
-    Harbinger?
-  title-short: Scamozzi’s Orders and Proportions
+    Scamozzi’s orders and proportions: an end to illusions or a visionary
+    harbinger?
+  title-short: Scamozzi’s orders and proportions
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.ce/
   volume: '3'
@@ -1688,10 +1649,6 @@ references:
     - year: 1768
   language: pt
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    date QS:P571,+1768-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Immanuel Kant
   type: graphic
@@ -1725,7 +1682,6 @@ references:
       month: 7
       day: 17
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Aerial view of Great Zimbabwe's Great Enclosure and adjacent ruins looking
@@ -1750,7 +1706,6 @@ references:
     - literal: 1740date QS:P571,+1740-00-00T00:00:00Z/9
   language: en
   medium: Óleo sobre telamedium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Piazza della Signoria in Florence
   type: graphic
@@ -1796,10 +1751,6 @@ references:
     - year: 1747
   language: pt
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,70.8U174728;P2049,111U174728
   source: Wikimedia Commons
   title: Campo di SS. Giovanni e Paolo
   type: graphic
@@ -1815,9 +1766,6 @@ references:
   issued:
     - year: 1972
   language: pt-BR
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 816824084
   publisher: Mestre Jou
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1865,7 +1813,6 @@ references:
     - year: 2015
       month: 6
   language: en-GB
-  note: 'ZSCC: 0000004'
   page: 59-75
   source: Zotero
   title: >-
@@ -1899,7 +1846,6 @@ references:
       month: 12
       day: 1
   language: en
-  note: 'ZSCC: 0000014'
   publisher: 'SAGE PublicationsSage UK: London, England'
   source: journals.sagepub.com
   title: >-
@@ -1942,7 +1888,6 @@ references:
       month: 4
       day: 13
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: e35026
   source: DOI.org (Crossref)
   title: >-
@@ -2044,9 +1989,6 @@ references:
       month: 1
       day: 1
   language: en
-  note: >-
-    ArticleType: research-article / Full publication date: 1990 / Copyright ©
-    1990 IRSA s.c.
   page: 9-21
   source: JSTOR
   title: Jan Białostocki, Formalism, and Iconology
@@ -2171,7 +2113,6 @@ references:
   citation-key: bin:kampung
   container-title: Singapura Stories
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: singapurastories.com
   title: >-
     Kampung Rochor – Remembering Java Road, Palembang Road, Minto Road, Sumbawa
@@ -2223,7 +2164,6 @@ references:
   issued:
     - year: 1994
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '335'
   publisher: University of Chicago Press
   source: Google Books
@@ -2259,7 +2199,6 @@ references:
       month: 6
       day: 1
   language: fr-FR
-  note: 'ZSCC: 0000005'
   number: '25'
   page: 66-82
   publisher: Centre d'Histoire "Espaces et Cultures"
@@ -2462,7 +2401,6 @@ references:
   issued:
     - year: 1988
   language: en-GB
-  note: 'OCLC: 1028658908'
   publisher: Wordsworth
   publisher-place: Ware, Hertfordshire
   source: Open WorldCat
@@ -2516,20 +2454,6 @@ references:
     - year: 1820
   language: fr
   medium: Lithograph
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    Nederlands: IdentificatieTitel(s): Portret van de architect Antoine
-    Chrysostome QuatremèreQuatremère de Quincy, Antoine-Chrysostôme (titel op
-    object)Leden van het Institut Royal de France (serietitel)Iconographie de
-    l'Institut royal de France (serietitel op object)Objecttype: prent
-    Objectnummer: RP-P-1911-979Catalogusreferentie: IFF 9Opschriften / Merken:
-    verzamelaarsmerk, verso, gestempeld: Lugt 2228aVervaardigingVervaardiger:
-    prentmaker: Julien-Léopold Boilly (vermeld op object)uitgever: D.
-    BénardPlaats vervaardiging: ParijsDatering: 1820Materiaal: papier Techniek:
-    lithografie (techniek)Afmetingen: blad: h 356 mm × b 276 mmOnderwerpWat:
-    historical personsWie: Antoine-Chrysostome Quatremère de QuincyVerwerving en
-    rechtenVerwerving: aankoop 1905Copyright: Publiek domein
   source: Wikimedia Commons
   title: Antoine-Chrysostome Quatremère de Quincy
   type: graphic
@@ -2545,9 +2469,6 @@ references:
   issued:
     - year: 1963
   language: pt-BR
-  note: |-
-    ZSCC: 0000018 
-    OCLC: 32474863
   number-of-volumes: '5'
   publisher: Escola de Arquitetura da <span class="smallcaps">U.M.G.</span>
   publisher-place: Belo Horizonte
@@ -2571,7 +2492,6 @@ references:
     - year: 1298
   language: de
   medium: afresco
-  note: medium QS:P186,Q25631150
   source: Wikimedia Commons
   title: >-
     Freskenzyklus zum Leben des Hl. Franziskus von Assisi, Szene: Die Predigt
@@ -2654,7 +2574,6 @@ references:
       day: 11
   language: en
   medium: photo
-  note: 'ZSCC: NoCitationData[s0]'
   source: Flickr
   title: CNV00001
   type: graphic
@@ -2699,10 +2618,6 @@ references:
     - year: 1495
   language: pt
   medium: têmpera  sobre madeira
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q175166;P186,Q1348059,P518,Q861259
-    dimensions QS:P2048,49.5U174728;P2049,61.9U174728
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -2739,7 +2654,6 @@ references:
   issued:
     - year: 1819
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '568'
   publisher: J. Murray
   publisher-place: London
@@ -2782,9 +2696,6 @@ references:
     - year: 1999
       month: 5
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: May, 1999 / Copyright
-    © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -2848,7 +2759,6 @@ references:
   issued:
     - year: 2016
   language: fr-FR
-  note: ill. en coul. 29 cm. Bibliogr. vol. 3,  p. 290-359. Index.
   number-of-pages: '444'
   number-of-volumes: '3'
   publisher: Fayard Louvre éditions
@@ -2867,7 +2777,6 @@ references:
     - literal: Briangotts
   citation-key: briangotts:map
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Map of Eurasia and North Africa, c. 870 CE. Trade routes of the Radhanite
@@ -2959,7 +2868,6 @@ references:
   issued:
     - year: 1752
   language: fr
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Plan de Pékin
   type: graphic
@@ -2985,9 +2893,6 @@ references:
       month: 4
       day: 1
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: Spring, 1964 /
-    Copyright © 1964 The American Society for Aesthetics
   page: 303-313
   source: JSTOR
   title: >-
@@ -3013,7 +2918,6 @@ references:
       month: 5
       day: 19
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The interior of the basilica
   type: graphic
@@ -3030,7 +2934,6 @@ references:
   issued:
     - year: 1994
   language: pt-BR
-  note: 'OCLC: 683755753'
   publisher: J. Zahar
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -3118,7 +3021,6 @@ references:
     - year: 2010
       month: 12
   language: en
-  note: 'ZSCC: 0000008'
   page: 434-451
   publisher: Cambridge University Press
   source: Cambridge University Press
@@ -3141,7 +3043,6 @@ references:
   issued:
     - year: 1978
   language: en-US
-  note: 'OCLC: 300187358'
   publisher: Weatherhill
   publisher-place: New York
   source: Open WorldCat
@@ -3194,7 +3095,6 @@ references:
   issued:
     - year: 2020
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 159-167
   publisher: Springer International Publishing
   publisher-place: Cham
@@ -3215,7 +3115,6 @@ references:
   issued:
     - year: 2021
   language: en-GB
-  note: 'OCLC: 1242773890'
   publisher: Penguin
   publisher-place: Harmondsworth
   source: Open WorldCat
@@ -3315,9 +3214,6 @@ references:
       month: 12
       day: 1
   language: en-GB
-  note: >-
-    ArticleType: research-article / Full publication date: Dec., 2002 /
-    Copyright © 2002 College Art Association
   page: 596-620
   source: JSTOR
   title: >-
@@ -3345,11 +3241,6 @@ references:
       circa: true
   language: pt
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,150U174728;P2049,197U174728
-    date QS:P571,+1726-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Canal Grande desde o palazzo Balbi
   type: graphic
@@ -3374,11 +3265,6 @@ references:
     - year: 1760
   language: it
   medium: Óleo sobre tela
-  note: |-
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,46U174728;P2049,77U174728
-    Deutsch: 2. Drittel 18. Jh. English: 2nd third of 18th century
-    institution QS:P195,Q768717Mailand
   source: Wikimedia Commons
   title: Il Campo e la Chiesa di San Francesco della Vigna
   type: graphic
@@ -3405,7 +3291,6 @@ references:
     - year: 1730
       circa: true
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   title: Campo Sant'Angelo
   type: graphic
   URL: https://www.metmuseum.org/art/collection/search/438103
@@ -3428,13 +3313,6 @@ references:
     - year: 1734
   language: it
   medium: Óleo sobre tela
-  note: >-
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-
-    dimensions QS:P2048,76U174728;P2049,118.8U174728
-
-    date
-    QS:P571,+1730-00-00T00:00:00Z/8,P1319,+1730-00-00T00:00:00Z/9,P1326,+1734-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Piazza San Marco
   type: graphic
@@ -3458,11 +3336,6 @@ references:
       circa: true
   language: pt
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,73U174728;P2049,129U174728
-    date QS:P571,+1735-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Vista do canal Grande
   type: graphic
@@ -3584,7 +3457,6 @@ references:
       month: 11
       day: 12
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     A detailed Robinson projection SVG map with grouping enabled to connect all
@@ -3688,7 +3560,6 @@ references:
   issued:
     - year: 2001
   language: en-US
-  note: 'OCLC: 52291077'
   source: Open WorldCat
   title: >-
     Architecture in the age of printing: orality, writing, typography, and
@@ -3843,7 +3714,6 @@ references:
   issued:
     - year: 1567
   language: it
-  note: 'Accession Number: 990038628590205503'
   publisher: Aldo Manuzio
   publisher-place: Venezia
   source: Library Catalog (Visual Library 2021)
@@ -3863,7 +3733,6 @@ references:
       dropping-particle: filename or
   citation-key: category:bonaccorso
   language: it
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Bonaccorso ghiberti, veduta della gru di brunelleschi, post 1446, BNCF, B.R.
@@ -3934,7 +3803,6 @@ references:
   issued:
     - year: 1998
   language: en-US
-  note: 'OCLC: 833268859'
   number-of-pages: '212'
   publisher: Curzon
   publisher-place: Richmond
@@ -3988,7 +3856,6 @@ references:
   issued:
     - year: 1757
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Desseins des edifices, meubles, habits, machines, et ustenciles des Chinois
@@ -4010,7 +3877,6 @@ references:
   issued:
     - year: 1759
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     The Primitive Buildings: The first sort of huts — The second sort of huts –
@@ -4099,9 +3965,6 @@ references:
     - year: 1736
   language: en
   medium: Five artists from the Qing court. Handscroll, ink and color on silk
-  note: |-
-    ZSCC: NoCitationData[s0]
-    date QS:P571,+1736-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: >-
     Along the River During the Qingming Festival (Qing Court Version) = 
@@ -4402,7 +4265,6 @@ references:
   issued:
     - year: 2007
   language: en-US
-  note: 'OCLC: 635729264'
   number-of-pages: '431'
   publisher: Wiley
   publisher-place: Hoboken, N.J.
@@ -4435,7 +4297,6 @@ references:
   issued:
     - year: 2007
   language: en-US
-  note: 'OCLC: 62393141'
   publisher: J. Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Open WorldCat
@@ -4453,7 +4314,6 @@ references:
   issued:
     - year: 2008
   language: English
-  note: 'OCLC: 941657674'
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Open WorldCat
@@ -4538,7 +4398,6 @@ references:
       month: 4
       day: 20
   language: pt-BR
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Senac São Paulo
   publisher-place: São Paulo
   source: Amazon
@@ -4599,7 +4458,6 @@ references:
   issued:
     - year: 2005
   language: en-GB
-  note: 'OCLC: 249097815'
   number-of-pages: '228'
   publisher: Architectural Press
   publisher-place: Amsterdam
@@ -4616,7 +4474,6 @@ references:
   issued:
     - year: 1986
   language: pt-BR
-  note: 'OCLC: 817514234'
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4633,9 +4490,6 @@ references:
   issued:
     - year: 1883
   language: fr
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 66375597
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -4656,7 +4510,6 @@ references:
   issued:
     - year: 1899
   language: fr
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Architectures du Nouveau-Monde fig. 1. Histoire de l'architecture t. I, ch.
@@ -4725,7 +4578,6 @@ references:
   issued:
     - literal: 18 de junho de 2015, 11:52:14
   language: en
-  note: 'Bahasa Melayu: Kampung Morten, Bandaraya Melaka, Melaka, Malaysia'
   source: Wikimedia Commons
   title: Morten Village, Malacca City, Malacca, Malaysia
   type: graphic
@@ -4742,7 +4594,6 @@ references:
   issued:
     - year: 1977
   language: es-ES
-  note: 'OCLC: 433976576'
   publisher: Alianza
   publisher-place: Madrid
   source: Open WorldCat
@@ -4761,7 +4612,6 @@ references:
   issued:
     - year: 1613
   language: it
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Duomo di Firenze
   type: graphic
@@ -4810,7 +4660,6 @@ references:
   issued:
     - literal: 10 de dezembro de 2011, 16:43:21
   language: fr
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Vue aérienne de la ville d'Aigues Mortes
   type: graphic
@@ -4987,7 +4836,6 @@ references:
   issued:
     - year: 1839
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Town Map of Singapore
   type: graphic
@@ -5027,14 +4875,6 @@ references:
   issued:
     - year: 1847
   language: it
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    de formats divers. Le titre est en haut et à droite, décoré d'une vue
-    perspective du port. En haut, l'orientation du plan est illustrée par un
-    aigle à deux têtes portant les armes de la ville, avec une devise sur une
-    banderole. En haut et à gauche, plan, profil et section du pont sur la
-    lagune. En bas, index des monuments.
   publisher: Bernardo & Gaetano Combatti
   publisher-place: Venise
   source: BnF Catalogue général (http://catalogue.bnf.fr)
@@ -5054,7 +4894,6 @@ references:
     - literal: Community Consortium
   citation-key: community:asante
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   title: Asante Traditional Buildings - Kumasi Region, Ghana
   type: webpage
   URL: http://www.communityconsortium.net/asante-traditional-buildings
@@ -5172,7 +5011,6 @@ references:
   issued:
     - year: 2010
   language: en-GB
-  note: 'ZSCC: 0000000'
   number-of-pages: '6'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -5206,7 +5044,6 @@ references:
   issued:
     - year: 2000
   language: pt-BR
-  note: 'OCLC: 69925789'
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -5268,7 +5105,6 @@ references:
   issued:
     - year: 1995
   language: pt-PT
-  note: 'Accepted: 2012-01-17T15:20:19Z'
   page: 103-112
   publisher: Faculdade de Ciências Sociais Humanas, Universidade Nova de Lisboa
   source: run.unl.pt
@@ -5298,7 +5134,6 @@ references:
   issued:
     - year: 2013
   language: en
-  note: 'OCLC: 929825971'
   publisher: Universidade de Évora
   publisher-place: Évora
   source: Open WorldCat
@@ -5316,7 +5151,6 @@ references:
   issued:
     - year: 2001
   language: pt-PT
-  note: 'OCLC: 51171792'
   publisher: 'Horizonte : Faculdade de Arquitectura, <span class="smallcaps">UTL</span>'
   publisher-place: Lisboa
   source: Open WorldCat
@@ -5429,7 +5263,6 @@ references:
   issued:
     - year: 2009
   language: pt-PT
-  note: 'OCLC: 817222774'
   publisher: Edições 70
   publisher-place: Lisboa
   source: Open WorldCat
@@ -5449,7 +5282,6 @@ references:
   issued:
     - literal: novembro de 2015
   medium: Photography
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Firenze, la cattedrale metropolitana di Santa Maria del Fiore
   type: graphic
@@ -5466,7 +5298,6 @@ references:
   citation-key: daderot:1893tokyo
   issued:
     - year: 1893
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Tokyo map
   title-short: English
@@ -5587,9 +5418,6 @@ references:
       month: 12
       day: 1
   language: en
-  note: >-
-    ArticleType: book-review / Full publication date: Winter, 2003 / Copyright ©
-    2003 The Sixteenth Century Journal
   page: 1184-1185
   source: JSTOR
   title: >-
@@ -5615,7 +5443,6 @@ references:
       month: 7
       day: 3
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Thirteenth century globalization according to the world-system theory; based
@@ -5710,7 +5537,6 @@ references:
   issued:
     - year: 2013
   language: pt-BR
-  note: 'OCLC: ocn864683873'
   number-of-pages: '276'
   publisher: Alameda
   publisher-place: São Paulo
@@ -5733,7 +5559,6 @@ references:
   issued:
     - literal: cerca de 1868
   language: pt
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Provincia di Siena
   title-short: Italiano
@@ -5754,7 +5579,6 @@ references:
     - year: 2012
       month: 5
       day: 7
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Ca'Rezzonico à Venise Vue de la façade par Giorgio Massari
   type: graphic
@@ -5774,7 +5598,6 @@ references:
     - year: 2019
       month: 5
       day: 4
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Portego
   type: graphic
@@ -6020,7 +5843,6 @@ references:
   issued:
     - year: 2021
   language: en
-  note: 'OCLC: 1274200091'
   page: 55-67
   publisher: Archaeopress
   publisher-place: Catania
@@ -6213,7 +6035,6 @@ references:
   issued:
     - year: 2003
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '384'
   publisher: Rizzoli
   publisher-place: New York
@@ -6249,13 +6070,6 @@ references:
     - literal: de 1308 a 1311
   language: Portuguese
   medium: têmpera  sobre madeira
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    medium QS:P186,Q175166;P186,Q287,P518,Q861259
-
-    date
-    QS:P571,+1350-00-00T00:00:00Z/7,P580,+1308-00-00T00:00:00Z/9,P582,+1311-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -6315,7 +6129,6 @@ references:
   citation-key: dv8stees:2017doctor
   issued:
     - year: 2017
-  note: 'ZSCC: NoCitationData[s0]'
   title: Doctor Schnabel of Rome
   type: graphic
   URL: >-
@@ -6362,7 +6175,6 @@ references:
       month: 8
       day: 5
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Polynesian Migration
   title-short: An orthographic projection of Polynesia, created from the same data as File
@@ -6420,7 +6232,6 @@ references:
     - literal: Ecoimagesphotos
   citation-key: ecoimagesphotos:aerial
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   title: >-
     Aerial Photographs Of A Village In Niger, Africa Stock Photo - Image of
     northern, roofs: 7924848
@@ -6438,7 +6249,6 @@ references:
   citation-key: ecole:jonas
   language: French
   medium: Enluminure de la Bible de Jean XXII
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Jonas rejeté par la baleine
   type: graphic
@@ -6457,9 +6267,6 @@ references:
     QS:P2048,31U218593;P2049,33U218593
   issued:
     - year: 1849
-  note: |-
-    ZSCC: NoCitationData[s0]
-    date QS:P571,+1849-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Edo
   type: graphic
@@ -6499,9 +6306,6 @@ references:
       month: 2
       day: 1
   language: en-GB
-  note: >-
-    ArticleType: research-article / Full publication date: Feb., 1950 /
-    Copyright © 1950 The Burlington Magazine Publications Ltd.
   page: 34-39
   source: JSTOR
   title: Antoine Caron
@@ -6555,7 +6359,6 @@ references:
       month: 5
       day: 28
   medium: SketchUp model
-  note: 'ZSCC: NoCitationData[s0]'
   source: Flickr
   title: Piazza del Campo, Siena, Italy
   type: graphic
@@ -6631,7 +6434,6 @@ references:
   issued:
     - year: 1995
   language: en-US
-  note: 'OCLC: 247937364'
   number-of-pages: '413'
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
@@ -6709,7 +6511,6 @@ references:
   issued:
     - year: 1975
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '8'
   publisher: Cambridge University Press
   publisher-place: Cambridge ; New York
@@ -6733,11 +6534,6 @@ references:
       circa: true
   language: Chinese
   medium: tinta  sobre seda
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q127418;P186,Q37681,P518,Q861259
-    dimensions QS:P2048,206.3U174728;P2049,103.3U174728
-    date QS:P571,+1000-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: 谿山行旅 = Travelers Among Mountains and Streams
   type: graphic
@@ -6761,7 +6557,6 @@ references:
       month: 12
       day: 4
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
@@ -6787,7 +6582,6 @@ references:
   issued:
     - year: 2019
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '1'
   publisher: Autrement
   publisher-place: Paris
@@ -6813,7 +6607,6 @@ references:
   issued:
     - year: 2011
   language: pt-BR
-  note: 'OCLC: 880434775'
   publisher: Bookman
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -6838,7 +6631,6 @@ references:
     - year: 2020
       month: 3
       day: 28
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Florence TV
   publisher-place: Firenze
   source: YouTube
@@ -6858,7 +6650,6 @@ references:
   issued:
     - year: 2007
   language: en-US
-  note: 'OCLC: 836537976'
   number-of-pages: '676'
   publisher: Stone Bridge Classics [u.a.]
   publisher-place: Berkeley, Calif.
@@ -7061,7 +6852,6 @@ references:
   issued:
     - year: 1725
   language: de
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '248'
   publisher-place: Leipzig
   source: Internet Archive
@@ -7118,7 +6908,6 @@ references:
     - year: 2012
       month: 9
   language: en
-  note: 'ZSCC: 0000050'
   page: 171-207
   source: DOI.org (Crossref)
   title: Finding meaning in ancient Swahili spatial practices
@@ -7169,7 +6958,6 @@ references:
       month: 9
       day: 1
   language: en
-  note: 'ZSCC: 0000020'
   page: 1-22
   source: ScienceDirect
   title: The complexity of public space at the Swahili town of Songo Mnara, Tanzania
@@ -7194,8 +6982,6 @@ references:
   issued:
     - year: 1905
   language: en-GB
-  note: >-
-    https://en.wikisource.org/wiki/Index:A_history_of_architecture_on_the_comparative_method_for_the_student,_craftsman,_and_amateur.djvu
   number-of-pages: '808'
   publisher: 'Batsford : Scribner''s sons'
   publisher-place: 'London : New York'
@@ -7220,7 +7006,6 @@ references:
   citation-key: fletcher:1905tree
   issued:
     - year: 1905
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Tree of Architecture
   type: graphic
@@ -7262,7 +7047,6 @@ references:
   issued:
     - year: 1600
   medium: Kupferdruck
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Sena vetus civitas virginis
   type: graphic
@@ -7341,7 +7125,6 @@ references:
   issued:
     - year: 1857
   language: es-ES
-  note: 'OCLC: 55385590'
   publisher: Mariano Cabrerizo
   publisher-place: Valencia
   source: Open WorldCat
@@ -7358,9 +7141,6 @@ references:
   issued:
     - year: 1990
   language: pt-PT
-  note: |-
-    ZSCC: 0000004 
-    OCLC: 186337393
   publisher: Presença
   publisher-place: Lisboa
   source: Open WorldCat
@@ -7442,15 +7222,6 @@ references:
     - literal: entre 1442 e 1443
   language: Portuguese
   medium: afresco
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    medium QS:P186,Q25631150
-
-    dimensions QS:P2048,230U174728;P2049,321U174728
-
-    date
-    QS:P571,+1442-00-00T00:00:00Z/8,P1319,+1442-00-00T00:00:00Z/9,P1326,+1443-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -7472,11 +7243,6 @@ references:
       circa: true
     - year: 1484
   medium: oil and tempera on panel
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    title QS:P1476,en:"The Ideal City"
-    medium  English: oil and tempera on panel
-    dimensions QS:P2048,104.1402082804U174789;P2049,243.840487681U174789
   source: Wikimedia Commons
   title: Città ideale
   type: graphic
@@ -7580,7 +7346,6 @@ references:
   issued:
     - year: 2014
   language: en-US
-  note: 'OCLC: 892799713'
   publisher: Crowood
   publisher-place: New York
   source: Open WorldCat
@@ -7600,9 +7365,6 @@ references:
   issued:
     - year: 1984
   language: it
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 490860274
   publisher: Electa
   publisher-place: Milano
   source: Open WorldCat
@@ -7665,7 +7427,6 @@ references:
   issued:
     - year: 2017
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '390'
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -7709,7 +7470,6 @@ references:
   issued:
     - year: 2017
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   page: 315-348
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -7739,9 +7499,6 @@ references:
   issued:
     - literal: após 1656
   medium: Gravura em cobre
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P,+1656-00-00T00:00:00Z/7,P1319,+1656-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Doctor Schnabel
   type: graphic
@@ -7758,7 +7515,6 @@ references:
   issued:
     - year: 2004
   language: en-US
-  note: 'OCLC: 56103959'
   publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
@@ -7870,7 +7626,6 @@ references:
   issued:
     - year: 2004
   language: es
-  note: 'Accepted: 2009-05-05T07:55:47Z'
   page: 247-266
   publisher: CSIC - Instituto de Historia (IH)
   source: digital.csic.es
@@ -7912,7 +7667,6 @@ references:
   issued:
     - year: 2005
   language: es
-  note: 'Accepted: 2009-05-05T08:24:30Z'
   page: 23-43
   publisher: CSIC - Instituto de Historia (IH)
   source: digital.csic.es
@@ -8067,7 +7821,6 @@ references:
     - year: 2006
       month: 6
       day: 11
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Pisa, Toscana, Italia. Duomo e Battistero dalla Torre
   type: graphic
@@ -8190,6 +7943,20 @@ references:
   title-short: François Blondel
   type: book
 
+- id: germann:1991vitruve
+  author:
+    - family: Germann
+      given: Georg
+  citation-key: germann:1991vitruve
+  event-place: Lausanne
+  issued:
+    - year: 1991
+  language: fr
+  publisher: Presses Polytechniques et Universitaires Romandes
+  publisher-place: Lausanne
+  title: "Vitruve et le Vitruvianisme\_: introduction à l’histoire de la théorie architecturale"
+  type: book
+
 - id: ghaidan:1974lamu
   author:
     - family: Ghaidan
@@ -8268,7 +8035,6 @@ references:
   issued:
     - year: 1989
   language: it
-  note: 'ZSCC: 0000005'
   page: 557-590
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -8341,7 +8107,6 @@ references:
   issued:
     - literal: 11 de fevereiro de 2010, 12:44
   language: Español
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Provincias tributarias de la Triple Alianza encabezada por Tenochtitlan
@@ -8365,7 +8130,6 @@ references:
     - year: 2015
       month: 11
       day: 4
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Territorial Organization of the Aztec Empire 1519
   type: graphic
@@ -8387,9 +8151,6 @@ references:
   issued:
     - year: 1997
   language: en
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    Accepted: 2013-05-16T20:23:11Z
   source: dome.mit.edu
   title: 'Piazza del Campo: Aerial and Topographic Views'
   title-short: Piazza del Campo
@@ -8410,10 +8171,6 @@ references:
     - year: 1306
   language: Portuguese
   medium: afresco
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    label QS:Len,"Pentecost"
-    medium QS:P186,Q25631150
   source: Wikimedia Commons
   title: Pentecostes
   type: graphic
@@ -8433,10 +8190,6 @@ references:
     - literal: década de 1310
   language: Portuguese
   medium: afresco
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q25631150
-    date QS:P571,+1310-00-00T00:00:00Z/8
   source: Wikimedia Commons
   title: Cristo entre os doutores
   type: graphic
@@ -8514,7 +8267,6 @@ references:
   issued:
     - year: 2000
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '738'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -8534,7 +8286,6 @@ references:
   citation-key: gray:great
   container-title: 'Sacred Sites: World Pilgrimage Guide'
   language: en-gb
-  note: 'ZSCC: NoCitationData[s0]'
   title: Great Zimbabwe Ruins
   type: webpage
   URL: https://sacredsites.com/africa/zimbabwe/great_zimbabwe_ruins.html
@@ -8549,11 +8300,6 @@ references:
   dimensions: 27,0 ×43,6 cm
   issued:
     - year: 1675
-  note: >-
-    Altura: 27,0 cm; Largura: 46,3 cm dimensions
-    QS:P2048,27U174728;P2049,46.37U174728
-
-    date QS:P571,+1675-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Great fire of London
   title-short: label QS
@@ -8641,7 +8387,6 @@ references:
       given: Kaizhi
   citation-key: gu:scene
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Scene 4 (Lady Feng and the bear) of the Song Dynasty Palace Museum copy of
@@ -8732,7 +8477,6 @@ references:
       given: Davide
   citation-key: guidolin:view
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   title: Inside view of Santa Maria Novella church
   type: graphic
   URL: >-
@@ -8753,11 +8497,6 @@ references:
     - year: 1072
   language: Chinese
   medium: tinta e aquarela  sobre seda
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    title QS:P1476,zh:"早春圖"
-    dimensions QS:P2048,+158.3U174728;P2049,+108.1U174728
-    date QS:P571,+1072-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: 早春圖 = Early Spring
   type: graphic
@@ -8929,7 +8668,6 @@ references:
       month: 2
       day: 1
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 51-55
   source: ScienceDirect
   title: >-
@@ -8951,7 +8689,6 @@ references:
     - year: 2010
       month: 3
   language: en-GB
-  note: 'ZSCC: 0000012'
   page: '6'
   source: Zotero
   title: The generative nature of islamic rules for the built environment
@@ -8973,7 +8710,6 @@ references:
   issued:
     - year: 1996
   language: en
-  note: 'ZSCC: 0000012'
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -9015,7 +8751,6 @@ references:
       month: 9
       day: 13
   language: en-US
-  note: 'ZSCC: 0000003'
   number-of-pages: '243'
   publisher: Routledge
   publisher-place: 'London : New York'
@@ -9111,7 +8846,6 @@ references:
   issued:
     - year: 1926
   language: en-US
-  note: 'OCLC: 1154128'
   publisher: Pencil Points
   publisher-place: New York
   source: Open WorldCat
@@ -9133,7 +8867,6 @@ references:
   issued:
     - year: 2009
   language: en
-  note: 'OCLC: ocn262883617'
   number-of-pages: '287'
   publisher: Reaktion Books
   publisher-place: London
@@ -9175,9 +8908,6 @@ references:
       month: 6
       day: 1
   language: en-GB
-  note: >-
-    ArticleType: research-article / Full publication date: Jun., 1944 /
-    Copyright © 1944 College Art Association
   page: 67-94
   source: JSTOR
   title: 'Raphael and Giulio Romano: With notes on the Raphael school'
@@ -9378,7 +9108,6 @@ references:
   issued:
     - year: 1969
   language: en-US
-  note: 'ZSCC: 0000020'
   page: '153'
   source: DOI.org (Crossref)
   title: >-
@@ -9460,9 +9189,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 953870631
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9506,7 +9232,6 @@ references:
   issued:
     - year: 1999
   language: en-US
-  note: 'OCLC: 40624753'
   publisher: Thames and Hudson
   publisher-place: New York
   source: Open WorldCat
@@ -9524,7 +9249,6 @@ references:
   citation-key: himejihan:1806himejijoshitaezu
   issued:
     - year: 1806
-  note: '日本語: 「姫路城下絵図」。姫路城下と街道沿いの町割りを描いたもの。文化３年（１８０６年）。兵庫県立歴史博物館所蔵。'
   source: Wikimedia Commons
   title: 姫路城下絵図
   title-short: 日本語
@@ -9580,13 +9304,6 @@ references:
         before 1641 date
         QS:P571,+1641-00-00T00:00:00Z/7,P1326,+1641-00-00T00:00:00Z/9
   language: Latin
-  note: >-
-    ZSCC: NoCitationData[s0]
-
-    New Geographic and Hydrographic Map of the Whole World
-
-    title QS:P1476,la:"Nova Totius Terrarum Orbis Geographica ac Hydrographica
-    Tabula"
   source: Wikimedia Commons
   title: Nova Totius Terrarum Orbis Geographica ac Hydrographica Tabula
   title-short: Nova Totius Terrarum
@@ -9668,9 +9385,6 @@ references:
       month: 1
       day: 1
   language: en
-  note: |-
-    ZSCC: 0000071 
-    _eprint: https://doi.org/10.1080/00020189008707724
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -9709,7 +9423,6 @@ references:
       month: 3
       day: 1
   language: en
-  note: 'ZSCC: 0000129'
   page: 37-54
   source: ScienceDirect
   title: >-
@@ -9741,7 +9454,6 @@ references:
     - year: 2011
       month: 12
   language: en
-  note: 'ZSCC: 0000015'
   page: 189-206
   source: DOI.org (Crossref)
   title: Khami and the Venda in the Mapungubwe Landscape
@@ -9775,7 +9487,6 @@ references:
   citation-key: imgur:medieval
   container-title: Imgur
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   title: Medieval trade networks v.4
   type: webpage
   URL: https://imgur.com/gallery/MsXaOdV
@@ -9791,9 +9502,6 @@ references:
   issued:
     - year: 1998
   language: en
-  note: |-
-    ZSCC: 0000041 
-    OCLC: 245991213
   number-of-pages: '204'
   publisher: Kodansha International
   publisher-place: Tokyo
@@ -9879,7 +9587,6 @@ references:
   issued:
     - year: 2013
   language: en
-  note: 'OCLC: 900292116'
   publisher: Laurence King
   source: Open WorldCat
   title: Parametric design for architecture
@@ -9900,13 +9607,6 @@ references:
   issued:
     - year: 1822
   language: English
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    by Lieutenant Philip Jackson, who was the engineer and land surveyor tasked
-    to oversee the physical development of Singapore. Commonly known as the
-    Jackson Plan, it is now displayed in the Singapore History Gallery of the
-    National Museum of Singapore.
   source: Wikimedia Commons
   title: Plan of the Town of Singapore
   type: graphic
@@ -9937,7 +9637,6 @@ references:
   issued:
     - year: 2011
   language: pt-BR
-  note: 'OCLC: 940080734'
   publisher: WMF Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9990,7 +9689,6 @@ references:
   issued:
     - year: 2014
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   page: 411-423
   publisher: University of Minnesota Press
   source: JSTOR
@@ -10085,7 +9783,6 @@ references:
   issued:
     - year: 2008
   language: en-GB
-  note: 'OCLC: ocn199455706'
   number-of-volumes: '2'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -10123,7 +9820,6 @@ references:
     - family: Jie
       given: Li
   citation-key: jie:yingzao
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Yingzao Fashi 1
   type: graphic
@@ -10231,7 +9927,6 @@ references:
     - year: 2006
       month: 12
       day: 16
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Temple of Heaven in Beijing, China
   type: graphic
@@ -10300,7 +9995,6 @@ references:
     - year: 1470
       circa: true
   language: Latin
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: e-codices - Virtual Manuscript Library of Switzerland
   source: DOI.org (Datacite)
   title: Antiquitates iudaicae
@@ -10333,9 +10027,6 @@ references:
   issued:
     - literal: 9--
   language: English
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P571,+950-00-00T00:00:00Z/7
   source: Wikimedia Commons
   title: Seeking the Tao in Autumn Mountains
   type: graphic
@@ -10379,7 +10070,6 @@ references:
   issued:
     - year: 2019
   language: english
-  note: 'ZSCC: NoCitationData[s0]'
   title: Dimitar Karanikolov on Behance
   type: webpage
   URL: https://www.behance.net/karanikolov
@@ -10399,7 +10089,6 @@ references:
       month: 8
       day: 10
   language: Portuguese
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Império de Majapait em sua maior extensão
   title-short: Português
@@ -10421,7 +10110,6 @@ references:
       month: 10
       day: 13
   language: Portuguese
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Sultanato de Malaca em sua maior extensão
   type: graphic
@@ -10441,16 +10129,38 @@ references:
   issued:
     - year: 1764
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,97U174728;P2049,71U174728
-    date QS:P571,+1764-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Johann Joachim Winckelmann
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Angelika_Kaufmann).jpg
+
+- id: kaufmann:1936claude8
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1936claude8
+  container-title: Parnassus
+  DOI: 10.2307/771111
+  ISSN: 1543-6314
+  issue: '5'
+  issued:
+    - year: 1936
+  language: en
+  page: 16-18
+  publisher: '[College Art Association, Taylor & Francis, Ltd.]'
+  source: JSTOR
+  title: >-
+    Claude Nicolas Ledoux. A pioneer of modern architecture in the eighteenth
+    century
+  type: article-journal
+  URL: https://www.jstor.org/stable/771111
+  volume: '8'
 
 - id: kaufmann:1943claude-nicolas3
   accessed:
@@ -10469,7 +10179,6 @@ references:
   issued:
     - year: 1943
   language: en
-  note: 'ZSCC: 0000011'
   page: 12-20
   publisher: '[University of California Press, Society of Architectural Historians]'
   source: JSTOR
@@ -10497,7 +10206,6 @@ references:
     - year: 1952
       month: 10
   language: en-US
-  note: 'ZSCC: 0000128'
   publisher: American Philosophical Society
   publisher-place: Philadelphia, Penn.
   source: JSTOR
@@ -10515,9 +10223,6 @@ references:
   issued:
     - year: 1968
   language: en
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 962266811
   publisher: The American Philosophical Society
   publisher-place: Philadelphia
   source: Open WorldCat
@@ -10602,7 +10307,6 @@ references:
       month: 8
       day: 3
   language: en
-  note: 'Page Version ID: 970909707'
   source: Wikipedia
   title: Kilwa Kisiwani
   type: entry-encyclopedia
@@ -10617,9 +10321,6 @@ references:
   issued:
     - year: 1874
   language: en
-  note: |-
-    Page Version ID: 887201112
-    2019-03-11T05:50:03Z
   source: Wikipedia
   title: King Koffee Palace
   title-short: File
@@ -10687,6 +10388,25 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg
 
+- id: kirk:2005architecture1
+  author:
+    - family: Kirk
+      given: Terry
+  call-number: NA1114 .K574 2005
+  citation-key: kirk:2005architecture1
+  event-place: New York
+  ISBN: 978-1-56898-438-4 978-1-56898-420-9 978-1-56898-436-0
+  issued:
+    - year: 2005
+  language: en
+  number-of-volumes: '2'
+  publisher: Princeton Architectural Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: The architecture of modern Italy
+  type: book
+  volume: '1'
+
 - id: kisacky:2001history60
   abstract: >-
     In eighteenth-century France, the influential architect and historian
@@ -10742,7 +10462,6 @@ references:
   issued:
     - year: 2009
   language: es
-  note: 'OCLC: 981367454'
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -10760,7 +10479,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: 'OCLC: 742520908'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -10818,7 +10536,6 @@ references:
     - year: 2016
       month: 2
       day: 9
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Shophouses. Kandahar Street. Kampong Glam, Central Region, Singapore
   type: graphic
@@ -10879,7 +10596,6 @@ references:
       month: 5
       day: 24
   medium: Photography
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Immanuel Wallerstein (b. 1930), a sociologist, giving a talk at a seminar in
@@ -10975,7 +10691,6 @@ references:
   issued:
     - year: 1991
   language: en-GB
-  note: 'OCLC: 258219151'
   number-of-pages: '174'
   publisher: Academy Editions
   publisher-place: London
@@ -11025,7 +10740,6 @@ references:
   dimensions: 'Altura: 23,0 pol (58,4 cm); Largura: 33,0 pol (83,8 cm)'
   issued:
     - literal: 1935 Showa 11
-  note: dimensions QS:P2048,23U218593;P2049,33U218593
   source: Wikimedia Commons
   title: Kyoto
   type: graphic
@@ -11063,9 +10777,6 @@ references:
   citation-key: lanciani:1893apostolic
   issued:
     - literal: entre 1893 e 1901
-  note: >-
-    date
-    QS:P,+1500-00-00T00:00:00Z/6,P1319,+1893-00-00T00:00:00Z/9,P1326,+1901-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Apostolic Palace and St. Peter's Basilica
   type: graphic
@@ -11224,7 +10935,6 @@ references:
   issued:
     - year: 1714
   language: fr-FR
-  note: 'OCLC: 851326712'
   number-of-volumes: '2'
   publisher: Giffart
   publisher-place: Paris
@@ -11259,7 +10969,6 @@ references:
   issued:
     - year: 1977
   language: pt-BR
-  note: 'OCLC: 816905073'
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -11288,7 +10997,6 @@ references:
   issued:
     - year: 1804
   language: fr-FR
-  note: 'OCLC: 2518268'
   publisher: H.L. Peronneau
   publisher-place: Paris
   source: Open WorldCat
@@ -11309,7 +11017,6 @@ references:
   container-title: Cargo Collective
   issued:
     - year: 2012
-  note: 'ZSCC: 0000215'
   title: Maps
   type: webpage
   URL: http://cargocollective.com/xinli/Maps
@@ -11374,7 +11081,6 @@ references:
     - year: 1466
       circa: true
     - year: 1468
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Argano a tre velocità di Brunelleschi, 1480 circa, biblioteca ambrosiana,
@@ -11396,7 +11102,6 @@ references:
     - year: 1466
       circa: true
     - year: 1468
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Gru girevole di brunelleschi, codice ambrosiano CA, c. 965 r.jpg
   type: graphic
@@ -11418,11 +11123,6 @@ references:
       circa: true
   language: Portuguese
   medium: Óleo sobre madeira
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q287,P518,Q861259
-    dimensions QS:P2048,98U174728;P2049,217U174728
-    date QS:P571,+1472-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -11441,9 +11141,6 @@ references:
     - year: 1492
       circa: true
   medium: desenho a caneta, tinta e aguada sobre papel
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P571,+1492-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Homem Vitruviano
   type: graphic
@@ -11607,9 +11304,6 @@ references:
   issued:
     - year: 1799
   medium: Óleo sobre tela
-  note: |-
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    date QS:P571,+1799-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: La Patrie en danger
   type: graphic
@@ -11656,9 +11350,6 @@ references:
   issued:
     - literal: 9--
   language: English
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P,+950-00-00T00:00:00Z/7
   source: Wikimedia Commons
   title: Buddhist Temple in Mountain
   type: graphic
@@ -11680,10 +11371,6 @@ references:
     - year: 1124
   language: Chinese
   medium: Hanging scroll, tinta e aquarela sobre seda
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    dimensions QS:P2048,188.7U174728;P2049,139.8U174728
-    date QS:P571,+1124-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: 萬壑松風 = Wind in Pines Among a Myriad Valleys
   type: graphic
@@ -11779,7 +11466,6 @@ references:
   issued:
     - year: 1984
   language: en-US
-  note: 'OCLC: 273063609'
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
@@ -11824,7 +11510,6 @@ references:
       month: 7
       day: 30
   language: en
-  note: 'ZSCC: 0000002'
   number-of-pages: '152'
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
@@ -11902,7 +11587,6 @@ references:
       month: 9
       day: 11
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Dome of Cattedrale di Santa Maria del Fiore (Florence)
   type: graphic
@@ -11925,7 +11609,6 @@ references:
   issued:
     - year: 2012
   language: pt-BR
-  note: 'OCLC: 1005618436'
   publisher: 'SciELO : Editora Mackenzie'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -11963,9 +11646,6 @@ references:
       month: 9
       day: 1
   language: en-GB
-  note: >-
-    ArticleType: research-article / Full publication date: Sep., 2004 /
-    Copyright © 2004 College Art Association
   page: 477-504
   source: JSTOR
   title: >-
@@ -11990,11 +11670,6 @@ references:
     - year: 1338
     - year: 1339
   medium: afrescomedium QS:P186,Q25631150
-  note: >-
-    ZSCC: NoCitationData[s0]
-
-    inglês:  Effects of Good Government in the citytitle QS:P1476,en:"Effects of
-    Good Government in the city"
   source: Wikimedia Commons
   title: Effects of Good Government in the city
   title-short: inglês
@@ -12016,9 +11691,6 @@ references:
     - year: 1338
     - year: 1339
   medium: afresco
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q25631150
   source: Wikimedia Commons
   title: Effetti del buon governo nella città
   type: graphic
@@ -12040,11 +11712,6 @@ references:
     - year: 1342
   language: Portuguese
   medium: Óleo sobre madeira
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q287,P518,Q861259
-    dimensions QS:P2048,257U174728;P2049,168U174728
-    date QS:P571,+1342-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Apresentação ao Templo
   type: graphic
@@ -12063,7 +11730,6 @@ references:
   issued:
     - year: 1342
   language: Portuguese
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Natividade da Virgem
   type: graphic
@@ -12082,7 +11748,6 @@ references:
   issued:
     - year: 1344
   language: Italian
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Annunciazione dal palazzo Pubblico
   type: graphic
@@ -12099,7 +11764,6 @@ references:
       given: Ambrogio
   citation-key: lorenzetti:legenda
   language: Italian
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Legenda di San Nicola
   type: graphic
@@ -12124,7 +11788,6 @@ references:
   issued:
     - year: 1609
   language: it
-  note: 'Accession Number: 990021670190205503'
   publisher: Francesco Rampazetto
   publisher-place: Venetia
   source: Library Catalog (Visual Library 2021)
@@ -12163,9 +11826,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 817613779
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -12188,7 +11848,6 @@ references:
       month: 6
       day: 26
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   title: Musgum Mud Huts
   type: webpage
   URL: http://socks-studio.com/2015/06/26/musgum-mud-huts/
@@ -12211,7 +11870,6 @@ references:
     - year: 2010
       month: 1
   language: en
-  note: 'ZSCC: 0000006'
   page: 77-95
   source: DOI.org (Crossref)
   title: >-
@@ -12251,7 +11909,6 @@ references:
   issued:
     - year: 1960
   language: en-US
-  note: 'OCLC: 255254857'
   number-of-pages: '194'
   publisher: MIT Press
   publisher-place: Cambridge, Mass.
@@ -12269,7 +11926,6 @@ references:
   issued:
     - year: 1999
   language: pt-PT
-  note: 'OCLC: 1120441524'
   publisher: Edições 70
   publisher-place: Lisboa
   source: Open WorldCat
@@ -12293,7 +11949,6 @@ references:
     - year: 1160
     - year: 1225
   medium: tinta  sobre sedamedium QS:P186,Q127418;P186,Q37681,P518,Q861259
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Clouds Rising from the Green Sea, from a series of paintings of water = 水圖卷
   title-short: English
@@ -12318,9 +11973,6 @@ references:
     - year: 1225
   language: English
   medium: Album leaf, ink on silk
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P571,+1225-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Scholar Reclining and Watching Rising Clouds, Poem by Wang Wei
   type: graphic
@@ -12341,9 +11993,6 @@ references:
     - literal: late 12th–early 13th century
   language: Chinese
   medium: Album leaf; ink and color on silk
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    南宋 馬遠 高士觀瀑圖 冊頁 絹本
   source: Wikimedia Commons
   title: 高士觀瀑圖 = Scholar viewing a waterfall
   type: graphic
@@ -12369,9 +12018,6 @@ references:
       month: 3
       day: 1
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: Mar., 1969 /
-    Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -12456,7 +12102,6 @@ references:
     - year: 2013
       month: 8
       day: 1
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Vue aérienne
   type: graphic
@@ -12491,7 +12136,6 @@ references:
       month: 7
       day: 31
   language: en
-  note: 'Page Version ID: 970513625'
   source: Wikipedia
   title: Majapahit
   type: entry-encyclopedia
@@ -12542,7 +12186,6 @@ references:
       month: 7
       day: 31
   language: en
-  note: 'Page Version ID: 970443282'
   source: Wikipedia
   title: Malacca Sultanate
   type: entry-encyclopedia
@@ -12658,7 +12301,6 @@ references:
   citation-key: map:17--
   issued:
     - literal: 17--
-  note: date QS:P,+1750-00-00T00:00:00Z/7
   source: Wikimedia Commons
   title: Map of Charleville
   type: graphic
@@ -12914,7 +12556,6 @@ references:
   issued:
     - literal: cerca de 1333 date QS:P571,+1333-00-00T00:00:00Z/9,P1480,Q5727902
   medium: têmpera  sobre madeiramedium QS:P186,Q175166;P186,Q287,P518,Q861259
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Annunciation and Two Saints
   type: graphic
@@ -12933,7 +12574,6 @@ references:
   issued:
     - year: 1470
       circa: true
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Rappresentazione simbolica della città fortificata così come la concepiva
@@ -12979,9 +12619,6 @@ references:
       circa: true
   language: Portuguese
   medium: Color on gold-leaf paper
-  note: |-
-    dimensions QS:P2048,162.7U174728;P2049,342.4U174728
-    date QS:P571,+1650-00-00T00:00:00Z/7 around 1615
   source: Wikimedia Commons
   title: Cenas da vida em Quioto e arredores (par de biombos Funaki, 2)
   type: graphic
@@ -13000,7 +12637,6 @@ references:
   citation-key: matrakci:1533istanbul
   issued:
     - year: 1533
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: İstanbul ve Galata betimlemesi
   title-short: Türkçe
@@ -13378,7 +13014,6 @@ references:
   citation-key: miller:1887tabula
   issued:
     - year: 1887
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Tabula Peutingeriana, 1-4th century CE. Facsimile edition by Konrad Miller,
@@ -13406,9 +13041,6 @@ references:
       month: 5
       day: 1
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: May, 1972 / Copyright
-    © 1972 Society of Architectural Historians
   page: 83-91
   source: JSTOR
   title: >-
@@ -13460,11 +13092,6 @@ references:
   citation-key: mingzhi:1875inner
   issued:
     - literal: entre 1875 e 1887
-  note: >-
-    ZSCC: NoCitationData[s0]
-
-    date
-    QS:P,+1850-00-00T00:00:00Z/7,P1319,+1875-00-00T00:00:00Z/9,P1326,+1887-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Inner and outer city of Beijing
   title-short: English
@@ -13502,9 +13129,6 @@ references:
       month: 12
       day: 30
   medium: "Fotografie\_: Negativ"
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P571,+1930-12-30T00:00:00Z/11
   source: Wikimedia Commons
   title: Niamey LBS MH02-08-0093
   type: graphic
@@ -13526,7 +13150,6 @@ references:
       month: 10
       day: 18
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Blogger
   title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
@@ -13569,7 +13192,6 @@ references:
       month: 7
       day: 31
   language: en
-  note: 'ZSCC: 0000029'
   number: '2'
   number-of-pages: '14'
   page: 31-44
@@ -13694,7 +13316,6 @@ references:
     - year: 1975
   language: Italian
   medium: 'Strisce: 4, Fotogrammi complessivi: 19'
-  note: date QS:P571,+1975-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: >-
     Basilica di San Lorenzo. Sacrestia Vecchia: interno con particolari
@@ -13718,7 +13339,6 @@ references:
   issued:
     - year: 1979
   medium: Positivo b/n, gelatina bromuro d'argento/ carta
-  note: date QS:P571,+1979-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Palazzo della Cancelleria. Servizio fotografico (Roma, 1979)
   type: graphic
@@ -13739,7 +13359,6 @@ references:
   issued:
     - year: 1980
   medium: 'Strisce: 7, Fotogrammi complessivi: 36'
-  note: date QS:P571,+1980-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Servizio fotografico (Vigevano, 1980)
   type: graphic
@@ -13804,7 +13423,6 @@ references:
   issued:
     - year: 1905
   language: eng
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '328'
   publisher: 'New York, London : The Macmillan Company'
   source: Internet Archive
@@ -13905,7 +13523,6 @@ references:
   citation-key: moreau:1625charleville
   issued:
     - year: 1625
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Charleville sur le bord de la Meuse
   type: graphic
@@ -14029,7 +13646,6 @@ references:
   issued:
     - year: 1985
   language: es
-  note: 'OCLC: 971178946'
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat
@@ -14101,9 +13717,6 @@ references:
   issued:
     - year: 1995
   language: es-ES
-  note: |-
-    ZSCC: 0000002 
-    OCLC: 757182684
   number-of-volumes: '2'
   publisher: Alianza
   publisher-place: Madrid
@@ -14146,7 +13759,6 @@ references:
   issued:
     - year: 1998
   language: pt-BR
-  note: 'OCLC: 314328800'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -14185,7 +13797,6 @@ references:
   issued:
     - year: 1967
   language: it
-  note: 'OCLC: 609814196'
   publisher: Centro studi di storia urbanistica
   publisher-place: Roma
   source: Open WorldCat
@@ -14202,7 +13813,6 @@ references:
   issued:
     - year: 1978
   language: it
-  note: 'OCLC: 799650409'
   publisher: Centro studi di storia urbanistica
   publisher-place: Roma
   source: Open WorldCat
@@ -14221,9 +13831,6 @@ references:
   issued:
     - year: 1972
   language: es-ES
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 841140923
   publisher: Aguilar
   publisher-place: Madrid
   source: Open WorldCat
@@ -14325,7 +13932,6 @@ references:
   issued:
     - year: 2019
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 313-327
   publisher: Springer
   publisher-place: Cham
@@ -14673,9 +14279,6 @@ references:
   issued:
     - year: 2001
   language: es
-  note: |-
-    ZSCC: 0000022 
-    Accepted: 2015-02-19T09:11:25Z
   publisher: Ediciones de la Universidad de Castilla-La Mancha
   publisher-place: Cuenca
   source: ruidera.uclm.es
@@ -14696,7 +14299,6 @@ references:
     - family: Nelli
       given: Giovanni Battista
   citation-key: nelli:ricostruzione
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Ricostruzione dei ponteggi interni della cupola di brunelleschi, seconda
@@ -14717,13 +14319,6 @@ references:
   citation-key: nenci:1818palio
   issued:
     - literal: agosto de 1818
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    date QS:P571,+1818-08-00T00:00:00Z/10
-
-    Nederlands: Het palio van Siena in augustus 1818 in aanwezigheid van
-    Ferdinand III van Toscane. Geschilderd door Francesco Nenci.
   source: Wikimedia Commons
   title: Palio di Siena in onore di Ferdinando III di Toscana
   type: graphic
@@ -14773,7 +14368,6 @@ references:
       month: 3
       day: 1
   language: en
-  note: 'ZSCC: 0000009'
   page: 59-85
   source: Springer Link
   title: >-
@@ -14796,7 +14390,6 @@ references:
   issued:
     - year: 1996
   language: en-US
-  note: 'OCLC: 833056113'
   number-of-pages: '144'
   publisher: Kodansha International
   publisher-place: Tokyo
@@ -14840,7 +14433,6 @@ references:
   issued:
     - literal: /26/2014
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   page: 20-34
   publisher: Scientific & Academic Publishing
   source: article.sapub.org
@@ -14895,9 +14487,6 @@ references:
   issued:
     - year: 1989
   language: es-ES
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 1024068816
   publisher: Aguilar-Asuri
   publisher-place: Madrid
   source: Open WorldCat
@@ -14914,9 +14503,6 @@ references:
   issued:
     - year: 1989
   language: es-ES
-  note: |-
-    ZSCC: NoCitationData[s1] 
-    OCLC: 838178807
   publisher: Aguilar
   publisher-place: Madrid
   source: Open WorldCat
@@ -14956,14 +14542,6 @@ references:
     - year: 2019
       month: 7
       day: 14
-  note: >-
-    ZSCC: NoCitationData[s0]
-
-    English: Porot-historic and historic maritime trade network of the
-    Austronesian peoples in the Indian Ocean per "Austronesian Shipping in the
-    Indian Ocean: From Outrigger Boats to Trading Ships" in   (2016)  Early
-    Exchange between Africa and the Wider Indian Ocean World, Palgrave
-    Macmillan, pp. 51-76  ISBN:  9783319338224.
   source: Wikimedia Commons
   title: Austronesian maritime trade network in the Indian Ocean
   type: graphic
@@ -14984,7 +14562,6 @@ references:
   citation-key: oers:2009great
   issued:
     - literal: 15 de março de 2009
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     [Great mosque of Kilwa Kisiwani] Ruins of Kilwa Kisiwani and Ruins of Songo
@@ -15007,7 +14584,6 @@ references:
   citation-key: oers:2009main
   issued:
     - literal: 15 de março de 2009
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     [Main building in Songo Mnara] Ruins of Kilwa Kisiwani and Ruins of Songo
@@ -15088,7 +14664,6 @@ references:
   citation-key: oschirmer:2013deutsch
   issued:
     - literal: 5 de setembro de 2013, 13:48:11
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: 'Deutsch: Piazza Pio II im Zentrum von Pienza (Toskana, Italien)'
   title-short: Deutsch
@@ -15173,7 +14748,6 @@ references:
   issued:
     - year: 2014
   language: pt-BR
-  note: 'OCLC: ocn928396505'
   page: 143–156
   publisher: Editora Unicamp ; Editora <span class="smallcaps">FAP</span>–Unifesp
   publisher-place: 'Campinas : São Paulo'
@@ -15214,7 +14788,6 @@ references:
     - year: 2020
       month: 8
       day: 20
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Batammaliba (Somba) people in Africa
   type: map
@@ -15258,7 +14831,6 @@ references:
     - year: 2020
       month: 8
       day: 20
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Empire of Benin, approximate location in Africa
   type: map
@@ -15391,10 +14963,6 @@ references:
   issued:
     - year: 1759
   medium: Óleo sobre tela
-  note: |-
-    date QS:P571,+1759-00-00T00:00:00Z/9
-    dimensions QS:P2048,231U174728;P2049,303U174728
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: Gallery of Views of Modern Rome
   type: graphic
@@ -15434,7 +15002,6 @@ references:
   issued:
     - year: 1997
   language: en-US
-  note: 'OCLC: 37267264'
   number-of-pages: '196'
   publisher: Zone
   publisher-place: New York
@@ -15455,7 +15022,6 @@ references:
   issued:
     - year: 2001
   language: pt-BR
-  note: 'OCLC: 742206692'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -15496,14 +15062,28 @@ references:
       circa: true
   language: fr
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    date QS:P571,+1668-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Vue du château et des jardins de Versailles, prise de l'avenue de Paris
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
+
+- id: patetta:1975larchitettura
+  author:
+    - family: Patetta
+      given: Luciano
+  citation-key: patetta:1975larchitettura
+  event-place: Milano
+  issued:
+    - year: 1975
+  language: it
+  number-of-pages: '412'
+  publisher: G. Mazzotta
+  publisher-place: Milano
+  source: Google Books
+  title: 'L''architettura dell''eclettismo: fonti, teorie, modelli 1750-1900'
+  title-short: L'architettura dell'eclettismo
+  type: book
 
 - id: patte:1769memoires
   abstract: >-
@@ -15574,9 +15154,6 @@ references:
       month: 9
       day: 1
   language: en-US
-  note: >-
-    ArticleType: research-article / Full publication date: Sep., 1994 /
-    Copyright © 1994 Society of Architectural Historians
   page: 322-342
   source: JSTOR
   title: Rudolf Wittkower and architectural principles in the age of modernism
@@ -15720,7 +15297,6 @@ references:
   citation-key: peking:1914
   issued:
     - year: 1914
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: 北京地図 = Map of Peking
   title-short: English
@@ -15813,7 +15389,6 @@ references:
   issued:
     - year: 1983
   language: en-US
-  note: 'OCLC: 258263937'
   number-of-pages: '400'
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
@@ -15835,7 +15410,6 @@ references:
     - year: 2016
       month: 12
       day: 15
-  note: 'ZSCC: NoCitationData[s0]'
   title: Medici, Brunelleschi and the Cathedral in Florence
   title-short: Pergelator
   type: post-weblog
@@ -15880,7 +15454,6 @@ references:
   issued:
     - year: 2001
   language: fr-FR
-  note: 'OCLC: 852227425'
   publisher: Picard
   publisher-place: Paris
   source: Open WorldCat
@@ -15933,7 +15506,6 @@ references:
   issued:
     - year: 1683
   language: French
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Ordonnance des cinq espèces de colonnes selon la méthode des anciens, pl. I
   title-short: English
@@ -16051,7 +15623,6 @@ references:
   issued:
     - year: 1998
   language: en-US
-  note: 'OCLC: 794645294'
   publisher: >-
     Aga Khan Program for Islamic Architecture at Harvard University :
     Massachusetts Institute of Technology
@@ -16088,9 +15659,6 @@ references:
   issued:
     - year: 2013
   language: en-GB
-  note: |-
-    ZSCC: 0000047 
-    OCLC: 956671220
   publisher: Taylor and Francis
   publisher-place: Florence
   source: Open WorldCat
@@ -16144,9 +15712,6 @@ references:
   issued:
     - year: 2002
   language: pt-BR
-  note: |-
-    ZSCC: 0000089 
-    OCLC: 742254918
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -16213,9 +15778,6 @@ references:
   citation-key: photoglob:189020029
   issued:
     - literal: entre 1890 e 1900
-  note: >-
-    date
-    QS:P,+1500-00-00T00:00:00Z/6,P1319,+1890-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: 20029 P.Z. Agra, Taj Mahal
   type: graphic
@@ -16237,7 +15799,6 @@ references:
     - year: 1470
   language: Portuguese
   medium: óleo e têmpera  sobre madeira
-  note: dimensions QS:P2048,58.3U174728;P2049,81.5U174728 (painted surface)
   source: Wikimedia Commons
   title: Flagellazione
   type: graphic
@@ -16255,13 +15816,6 @@ references:
   issued:
     - literal: entre 1460 e 1470
   language: Portuguese
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    label QS:Len,"Annunciation (St. Anthony)"
-
-    date
-    QS:P571,+1450-00-00T00:00:00Z/7,P1319,+1460-00-00T00:00:00Z/9,P1326,+1470-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Anunciação (S. António)
   type: graphic
@@ -16289,6 +15843,27 @@ references:
   title-short: Methodo lusitanico
   type: book
   URL: http://purl.pt/24485
+
+- id: pinon:2006teoria
+  author:
+    - family: Piñón
+      given: Helio
+  call-number: MLCM 2007/40331 (N)
+  citation-key: pinon:2006teoria
+  collection-number: '24'
+  collection-title: Col·lecció d'Arquitectura
+  edition: '1'
+  event-place: Barcelona
+  ISBN: 978-84-8301-847-7
+  issued:
+    - year: 2006
+  language: es
+  number-of-pages: '221'
+  publisher: Universitat Politècnica de Catalunya
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: Teoría del proyecto
+  type: book
 
 - id: piotrowski:2001discipline
   call-number: NA2750 .D485 2001
@@ -16397,7 +15972,6 @@ references:
     - year: 1904
   language: fr
   medium: Photography
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Portrait d'Auguste Choisy par Eugène Pirou
   type: graphic
@@ -16421,7 +15995,6 @@ references:
       month: 5
       day: 23
   language: fr
-  note: 'Page Version ID: 171200008'
   source: Wikipedia
   title: Place Ducale
   type: entry-encyclopedia
@@ -16443,9 +16016,6 @@ references:
       circa: true
   language: nl
   medium: ingekleurde tekening op papier
-  note: |-
-    date QS:P571,+1656-00-00T00:00:00Z/9,P1480,Q5727902
-     dimensions QS:P2048,73U174728;P2049,52U174728
   source: Wikimedia Commons
   title: >-
     Plan van alle de bolwerken ofte punten, oock alle andere principale platesen
@@ -16485,17 +16055,6 @@ references:
       circa: true
     - year: 1520
   medium: Óleo sobre madeira
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    title QS:P1476,it:"Ritratto di Cosimo il Vecchio"
-
-    medium QS:P186,Q296955;P186,Q287,P518,Q861259
-
-    date
-    QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1518-00-00T00:00:00Z/9,P1326,+1520-00-00T00:00:00Z/9,P1480,Q5727902
-
-    dimensions QS:P2048,86U174728;P2049,65U174728
   source: Wikimedia Commons
   title: Ritratto di Cosimo il Vecchio
   type: graphic
@@ -16520,9 +16079,6 @@ references:
   issued:
     - year: 1973
   language: en
-  note: >-
-    ArticleType: research-article / Full publication date: 1973 / Copyright ©
-    1973 International Center of Medieval Art
   page: 123–132
   source: JSTOR
   title: Cloister, court and city square
@@ -16543,10 +16099,6 @@ references:
   issued:
     - year: 1685
   medium: afresco
-  note: |-
-    title QS:P1476,it:"Gloria di Sant'Ignazio"
-    medium QS:P186,Q25631150
-    date QS:P571,+1685-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Gloria di Sant'Ignazio
   type: graphic
@@ -16622,7 +16174,6 @@ references:
   issued:
     - year: 2018
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   page: 153-168
   publisher: Archaeopress
   source: JSTOR
@@ -16680,9 +16231,6 @@ references:
   citation-key: priestley:1769new
   issued:
     - year: 1769
-  note: |-
-    ZSCC: 0000018 
-    title QS:P1476,en:"A New Chart of History."
   source: Wikimedia Commons
   title: A New Chart of History
   type: graphic
@@ -16700,9 +16248,6 @@ references:
       circa: true
     - year: 1791
   medium: Óleo sobre tela
-  note: |-
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-     date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1789-00-00T00:00:00Z/9,P1326,+1791-00-00T00:00:00Z/9,P1480,Q5727902
   source: Wikimedia Commons
   title: Prise de la Bastille
   type: graphic
@@ -16764,7 +16309,6 @@ references:
   citation-key: punch:1903sketch
   issued:
     - year: 1903
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Sketch Plan by Mr. C. Punch, to show the position of the important Igora and
@@ -16786,7 +16330,6 @@ references:
   issued:
     - literal: último quartel do século XIII
   language: pt
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Consorte Yang montando a cavalo
   type: graphic
@@ -16808,7 +16351,6 @@ references:
   issued:
     - literal: 15--
   medium: Nanquim e pintura sobre seda
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Manhã de primavera no palácio Han
   type: graphic
@@ -16830,7 +16372,6 @@ references:
     - year: 20
   language: it
   medium: afresco
-  note: medium QS:P186,Q25631150
   source: Wikimedia Commons
   title: >-
     Quadro centrale di una parete rossa, rappresentante un paesaggio
@@ -16880,9 +16421,6 @@ references:
   issued:
     - year: 1878
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: >-
     Campo di San Giovanni e Paolo, Venice, with the church and the Scuola Grande
@@ -16904,7 +16442,6 @@ references:
   issued:
     - year: 1509
   medium: Fresco
-  note: date QS:P571,+1509-10-00T00:00:00Z/10
   source: Wikimedia Commons
   title: Disputa del Sacramento
   title-short: Español
@@ -16970,9 +16507,6 @@ references:
   issued:
     - year: 1990
   language: en-US
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 773533390
   publisher: University of Arizona Press
   publisher-place: Tucson, Ariz.
   source: Open WorldCat
@@ -17012,7 +16546,6 @@ references:
       month: 3
       day: 30
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Map showing the exent of Norse explorations
   type: map
@@ -17206,9 +16739,6 @@ references:
       month: 4
       day: 1
   language: de-DE
-  note: >-
-    ArticleType: book-review / Full publication date: Apr., 1931 / Copyright ©
-    1931 The Burlington Magazine Publications Ltd.
   page: 202-203
   source: JSTOR
   title: Manierismus
@@ -17231,11 +16761,6 @@ references:
     - year: 1782
   language: en-GB
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-    dimensions QS:P2048,118.1U174728;P2049,143.5U174728
-    date QS:P571,+1782-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Sir William Chambers; Joseph Wilton; Sir Joshua Reynolds
   type: graphic
@@ -17255,7 +16780,6 @@ references:
       month: 3
       day: 8
   language: it-IT
-  note: 'ZSCC: NoCitationData[s0]'
   title: In viaggio in Emilia Romagna a spasso per Gualtieri
   type: post-weblog
   URL: http://www.noluogo.it/in-viaggio-in-emilia-romagna-a-spasso-per-gualtieri/
@@ -17290,9 +16814,6 @@ references:
   dimensions: 'Sheet: 93 cm x 57 cm'
   issued:
     - year: 1785
-  note: |-
-    ZSCC: NoCitationData[s0]
-    date QS:P571,+1785-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: >-
     A general chart exhibiting the discoveries made by Captain James Cook in
@@ -17544,7 +17065,6 @@ references:
   citation-key: rosselli:1470pianta
   issued:
     - year: 1470
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Pianta della Catena
   title-short: English
@@ -17567,7 +17087,6 @@ references:
   citation-key: roth:1897city
   issued:
     - year: 1897
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The City of Benin, from H. Ling Roth's Great Benin
   type: graphic
@@ -17590,7 +17109,6 @@ references:
   issued:
     - year: 1903
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   number-of-pages: '290'
   publisher: F. King & Sons
   publisher-place: Halifax (England)
@@ -17660,7 +17178,6 @@ references:
       month: 2
       day: 15
   language: pt-BR
-  note: 'ZSCC: NoCitationData[s2]'
   publisher: Gustavo Gili Brasil
   publisher-place: Barcelona
   source: Amazon
@@ -17685,7 +17202,6 @@ references:
       month: 12
       day: 9
   language: Spanish
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Imperio azteca 1427–1520
   type: graphic
@@ -17705,7 +17221,6 @@ references:
       month: 6
       day: 1
   language: Portuguese
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: África Ocidental em 1625
   type: graphic
@@ -17765,7 +17280,6 @@ references:
       month: 6
       day: 5
   language: en
-  note: 'ZSCC: 0000102'
   page: '14'
   source: BioMed Central
   title: 'MicMac: a free, open-source solution for photogrammetry'
@@ -17805,7 +17319,6 @@ references:
       month: 2
       day: 29
   medium: photo
-  note: 'ZSCC: NoCitationData[s0]'
   source: Flickr
   title: peponi hotel, Lamu aerial
   type: graphic
@@ -17854,7 +17367,6 @@ references:
   issued:
     - year: 1991
   language: en-US
-  note: 'OCLC: 915809303'
   publisher: The MIT Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
@@ -17873,7 +17385,6 @@ references:
   issued:
     - year: 1998
   language: en-US
-  note: 'OCLC: 933439161'
   number-of-pages: '598'
   publisher: The MIT Press
   publisher-place: Cambridge, Mass.
@@ -17911,7 +17422,6 @@ references:
   issued:
     - year: 2007
   language: en
-  note: 'ZSCC: 0000004'
   publisher: <span class="smallcaps">CUMINCAD</span>
   source: papers.cumincad.org
   title: >-
@@ -17958,7 +17468,6 @@ references:
       month: 6
       day: 1
   language: en
-  note: 'ZSCC: 0000016'
   page: 121-144
   publisher: SAGE Publications
   source: SAGE Journals
@@ -17997,7 +17506,6 @@ references:
       month: 6
       day: 29
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Santo Spirito church, inside view, in Florence Italy
   type: graphic
@@ -18066,7 +17574,6 @@ references:
   citation-key: sailko:2011parco
   issued:
     - literal: 11 de janeiro de 2011, 23:26:40
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
@@ -18087,7 +17594,6 @@ references:
   citation-key: sailko:2011parcoa
   issued:
     - literal: 11 de janeiro de 2011, 23:26:53
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
@@ -18108,7 +17614,6 @@ references:
   citation-key: sailko:2013pianta
   issued:
     - literal: 13 de julho de 2013, 19:09:13
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Pianta del buonsignori, 1594,
   type: graphic
@@ -18141,7 +17646,6 @@ references:
   citation-key: sailko:2015museo
   issued:
     - literal: 5 de novembro de 2015, 12:45:36
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Museo dell'Opera del Duomo (Florence)
   type: graphic
@@ -18176,7 +17680,6 @@ references:
   citation-key: sailko:2016spedale
   issued:
     - literal: 9 de julho de 2016, 10:53:57
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Spedale degli Innocenti
   type: graphic
@@ -18310,10 +17813,6 @@ references:
     - year: 1495
       circa: true
   medium: óleo  sobre madeira de álamo
-  note: |-
-    label QS:Len,"Architectural Veduta"
-    medium QS:P186,Q296955;P186,Q291034,P518,Q861259
-    dimensions QS:P2048,+131U174728;P2049,+233U174728
   source: Wikimedia Commons
   title: Perspectiva arquitetônica com porto
   type: graphic
@@ -18384,7 +17883,6 @@ references:
   issued:
     - year: 1998
   language: en
-  note: 'ZSCC: 0000007'
   page: 217-234
   publisher: Alexandrine Press
   source: JSTOR
@@ -18436,7 +17934,6 @@ references:
       month: 11
       day: 14
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Routledge
   source: Google Books
   title: Japanese castle towns as models for contemporary urban planning
@@ -18479,7 +17976,6 @@ references:
     - literal: Scaliger
   citation-key: scaliger:interior
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   title: Interior Of The Basilica Di Santa Maria Del Fiore In Florence
   type: graphic
   URL: >-
@@ -18497,7 +17993,6 @@ references:
   citation-key: schafer:2003plan
   issued:
     - literal: março de 2003
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Plan und Bild von Monpazier
   type: graphic
@@ -18672,7 +18167,6 @@ references:
   issued:
     - year: 2016
   language: en-US
-  note: 'OCLC: 8539666767'
   page: 14-KJ1
   source: Open WorldCat
   title: >-
@@ -18723,7 +18217,6 @@ references:
       month: 2
       day: 16
   language: Portuguese
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Bacia do México em 1519
   type: graphic
@@ -18766,7 +18259,6 @@ references:
     - year: 2009
       month: 4
       day: 3
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Houses in Stone Town, Zanzibar City
   title-short: English
@@ -18831,9 +18323,6 @@ references:
   citation-key: serre:scene
   dimensions: 125 × 210 cm
   medium: Óleo sobre tela
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    medium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: Scène de la peste de 1720 à la Tourette (Marseille)
   title-short: Scène de la peste
@@ -18855,26 +18344,6 @@ references:
   issued:
     - year: 1733
   medium: etsen an papier
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    (titel op object)Objecttype: prent boekillustratie Objectnummer:
-    RP-P-OB-39.195Opschriften / Merken: verzamelaarsmerk, verso, gestempeld:
-    Lugt 2228Omschrijving: Exterieur van de Santa Maria del Fiore te Florence.
-    Linksboven een verklarende lijst met letters. Genummerd rechtsboven: Fig.
-    VI.VervaardigingVervaardiger: prentmaker: Bernardo Sansone Sgrilli (vermeld
-    op object)naar tekening van: Giovanni Battista Nelli (vermeld op
-    object)Plaats vervaardiging: ItaliëDatering: 1655 - 1755Fysieke kenmerken:
-    etsMateriaal: papier Techniek: etsenAfmetingen: plaatrand: h 405 mm × b 535
-    mmToelichtingPrent gebruikt voor Sgrilli, Bernardo Sansone. Descrizione e
-    studj dell'insigne fabbrica di Santa Maria del Fiore, metropolitana
-    fiorentina in varie carte intagliati, Florence 1733.OnderwerpWat: church
-    (exterior)Waar: Dom van FlorenceVerwerving en rechtenVerwerving: onbekend
-    2006
-
-
-    date
-    QS:P,+1500-00-00T00:00:00Z/6,P1319,+1655-00-00T00:00:00Z/9,P1326,+1755-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Alzata Esteriore del medesimo Tempio (Santa Maria del Fiore)
   title-short: Nederlands
@@ -18913,11 +18382,6 @@ references:
   issued:
     - literal: entre 1733 e 1755
   language: Italian
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    date
-    QS:P,+1750-00-00T00:00:00Z/7,P1319,+1733-00-00T00:00:00Z/9,P1326,+1755-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: >-
     Taglio del medesimo tempio: Descrizione e studj dell'insigne fabbrica di
@@ -18958,7 +18422,6 @@ references:
   citation-key: shindaikyoShi:1800
   issued:
     - year: 1800
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
   title-short: 京师城内首善全图
@@ -19108,7 +18571,6 @@ references:
   citation-key: shooter:1857british
   issued:
     - year: 1857
-  note: 'ZSCC: NoCitationData[s0]'
   source: Flickr
   title: >-
     British Library digitised image from page 33 of "The Kafirs of Natal and the
@@ -19126,7 +18588,6 @@ references:
   issued:
     - year: 2008
   language: en-US
-  note: 'OCLC: 228033045'
   publisher: Preservation Institute
   publisher-place: Berkeley, Calif.
   source: Open WorldCat
@@ -19309,7 +18770,6 @@ references:
       month: 1
       day: 16
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: >-
     Map outlining migratory paths of Austronesian speaking populations,
@@ -19331,10 +18791,6 @@ references:
   issued:
     - year: 1656
   medium: pittura
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    title QS:P1476,it:"Largo Mercatello a Napoli durante la peste del 1656."
-    date QS:P571,+1656-00-00T00:00:00Z/9
   source: Wikimedia Commons
   title: Largo Mercatello a Napoli durante la peste del 1656
   type: graphic
@@ -19382,7 +18838,6 @@ references:
   issued:
     - literal: 1 de janeiro de 2017, 14:08
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Ruins of the Great mosque of Kilwa Kisiwani
   title-short: English
@@ -19416,7 +18871,6 @@ references:
   issued:
     - year: 2002
   language: en-US
-  note: 'OCLC: 48517028'
   publisher: Yale University Press
   publisher-place: New Haven
   source: Open WorldCat
@@ -19456,9 +18910,6 @@ references:
   issued:
     - year: 2019
   language: en-US
-  note: |-
-    ZSCC: 0000005 
-    OCLC: on1059269515
   number-of-pages: '388'
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -19517,7 +18968,6 @@ references:
       month: 6
       day: 18
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   title: Stunning Aerial Photos Offer a Unique Perspective of Venice
   type: post-weblog
   URL: https://mymodernmet.com/dimitar-karanikolov-aerial-venice-photos/
@@ -19703,7 +19153,6 @@ references:
     - year: 2008
       month: 11
       day: 29
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Koussoukoingou, Atakora, Benin
   type: graphic
@@ -19722,9 +19171,6 @@ references:
   issued:
     - literal: entre 1382 e 1453
   medium: desenho
-  note: |-
-    ZSCC: NoCitationData[s0]
-     date QS:P571,+1500-00-00T00:00:00Z/6,P1319,+1382-00-00T00:00:00Z/9,P1326,+1453-00-00T00:00:00Z/9 (cerca de 1430 date QS:P571,+1430-00-00T00:00:00Z/9,P1480,Q5727902)
   source: Wikimedia Commons
   title: Veduta generale della gru di Brunelleschi
   type: graphic
@@ -19912,7 +19358,6 @@ references:
   issued:
     - year: 2005
   language: en
-  note: 'ZSCC: 0000008'
   page: 1-25
   title: >-
     Reading the traditional city of maritime Southeast Asia: reconstructing the
@@ -19948,7 +19393,6 @@ references:
   issued:
     - year: 2012
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
   title: >-
@@ -19968,7 +19412,6 @@ references:
   citation-key: tajudeen:kampung
   container-title: Singapura Stories
   language: en
-  note: 'ZSCC: NoCitationData[s0]'
   source: singapurastories.com
   title: Kampung Gelam & Kampung Rochor – morphological changes
   type: webpage
@@ -20086,7 +19529,6 @@ references:
   issued:
     - year: 2012
   language: pt-BR
-  note: 'OCLC: 820432253'
   publisher: 'Unesp : Imprensa Oficial do Estado'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -20232,9 +19674,6 @@ references:
   issued:
     - year: 1997
   language: es-ES
-  note: |-
-    ZSCC: 0000045 
-    OCLC: 906711189
   publisher: Könemann
   publisher-place: Colonia
   source: Open WorldCat
@@ -20301,7 +19740,6 @@ references:
       month: 6
       day: 20
   language: en-GB
-  note: 'ZSCC: 0000002'
   number: '1'
   page: Art. 13
   publisher: Ubiquity Press
@@ -20374,7 +19812,6 @@ references:
     - year: 1745
     - year: 1780
   language: fr-FR
-  note: 'ZSCC: NoCitationData[s0]'
   title: Atlas de Trudaine CP/F/14/8447
   type: manuscript
   URL: >-
@@ -20393,7 +19830,6 @@ references:
     - year: 2011
       month: 4
       day: 19
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Afro-Eurasia on the globe (grey) with borders
   title-short: Deutsch
@@ -20414,7 +19850,6 @@ references:
     - year: 2011
       month: 6
       day: 22
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: French Polynesia on the globe (French Polynesia centered)
   title-short: Deutsch
@@ -20435,7 +19870,6 @@ references:
     - year: 2011
       month: 4
       day: 26
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Kingdom of Denmark on the globe (Greenland centered)
   title-short: Deutsch
@@ -20456,7 +19890,6 @@ references:
     - year: 2011
       month: 5
       day: 6
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Kingdom of Denmark on the globe (Faroer special) (Europe centered)
   title-short: Deutsch
@@ -20477,7 +19910,6 @@ references:
     - year: 2011
       month: 5
       day: 6
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Maldives on the globe (Afro-Eurasia centered)
   title-short: Deutsch
@@ -20498,7 +19930,6 @@ references:
     - year: 2011
       month: 4
       day: 20
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Tajikistan on the globe (Eurasia centered)
   title-short: Deutsch
@@ -20519,7 +19950,6 @@ references:
     - year: 2011
       month: 8
       day: 30
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Tunisia on the globe (North Africa centered)
   title-short: Deutsch
@@ -20725,7 +20155,6 @@ references:
     - literal: >-
         entre 1861 e 1890 date
         QS:P,+1850-00-00T00:00:00Z/7,P1319,+1861-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Urban map of the inner city of Beijing
   title-short: English
@@ -20764,7 +20193,6 @@ references:
   issued:
     - year: 1998
   language: en-US
-  note: 'ZSCC: 0000036'
   page: 280-297
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -20823,7 +20251,6 @@ references:
   citation-key: velvet:2013place
   issued:
     - literal: 11 de novembro de 2013, 09:22:00
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: La Place Ducale à Charleville-Mézières
   title-short: Français
@@ -20952,9 +20379,6 @@ references:
   issued:
     - year: 2010
   language: en
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: ocn701206944
   publisher: Ante quem
   publisher-place: Bologna
   source: Library of Congress ISBN
@@ -21256,7 +20680,6 @@ references:
   issued:
     - year: 1906
   language: fr
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: "Carte postale ancienne éditée par J. Winling, éditeur à Charleville\_:CHARLEVILLE - Place Ducale (N°2)"
   type: graphic
@@ -21414,7 +20837,6 @@ references:
   issued:
     - year: 1684
   language: fr-FR
-  note: 'OCLC: 1008411230'
   publisher: J. B. Coignard
   publisher-place: Paris
   source: Open WorldCat
@@ -21557,7 +20979,6 @@ references:
   issued:
     - year: 2007
   language: pt-BR
-  note: 'OCLC: 319216217'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -21644,7 +21065,6 @@ references:
   event-place: Leipzig
   issued:
     - year: 1914
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: Karl Baedeker, p. 290 f.
   publisher-place: Leipzig
   scale: >-
@@ -21687,9 +21107,6 @@ references:
   issued:
     - year: 1993
   language: es
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 1097802088
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -21731,7 +21148,6 @@ references:
   issued:
     - year: 2007
   language: en-US
-  note: 'OCLC: 79256721'
   publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
@@ -21753,7 +21169,6 @@ references:
       month: 9
       day: 11
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   title: The Imperial Chinese Cities I
   title-short: 王維仁/Wang Weijen
   type: post-weblog
@@ -21774,7 +21189,6 @@ references:
       month: 9
       day: 8
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   title: The Imperial Chinese Cities II
   title-short: 王維仁/Wang Weijen
   type: post-weblog
@@ -21808,6 +21222,80 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
+- id: ward:1911architecture1
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture1
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '320'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  title-short: The architecture of the Renaissance in France
+  type: book
+  URL: http://archive.org/details/architectureofre01ward
+  volume: '1'
+
+- id: ward:1911architecture2
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture2
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '306'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  type: book
+  URL: http://archive.org/details/architectureofre02ward
+  volume: '2'
+
+- id: watkin:1977morality
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:1977morality
+  event-place: Oxford
+  ISBN: 978-0-19-817350-2
+  issued:
+    - year: 1977
+  language: en-GB
+  publisher: Clarendon
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: >-
+    Morality and architecture: the development of a theme in architectural
+    history and theory from the Gothic revival to the modern movement
+  title-short: Morality and architecture
+  type: book
+
 - id: watkin:2001historia
   author:
     - family: Watkin
@@ -21818,9 +21306,6 @@ references:
   issued:
     - year: 2001
   language: es-ES
-  note: |-
-    ZSCC: NoCitationData[s2] 
-    OCLC: 893542927
   publisher: Könemann
   publisher-place: Barcelona
   source: Open WorldCat
@@ -21960,7 +21445,6 @@ references:
       month: 3
       day: 7
   language: pt
-  note: 'Page Version ID: 57719988'
   source: Wikipedia
   title: Pequena Idade do Gelo
   type: entry-encyclopedia
@@ -21999,7 +21483,6 @@ references:
   issued:
     - year: 1982
   language: en
-  note: 'ZSCC: 0000073'
   page: 201-219
   publisher: Frobenius Institute
   source: JSTOR
@@ -22098,9 +21581,6 @@ references:
   issued:
     - year: 1968
   language: es
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 629355407
   publisher: Nueva Visión
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -22133,9 +21613,6 @@ references:
   issued:
     - year: 1974
   language: en-US
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    OCLC: 1091922876
   publisher: G. Braziller
   publisher-place: New York
   source: Open WorldCat
@@ -22284,7 +21761,6 @@ references:
       month: 6
       day: 1
   language: en
-  note: 'ZSCC: 0000058'
   page: 368-380
   source: DOI.org (Crossref)
   title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
@@ -22330,7 +21806,6 @@ references:
       month: 12
       day: 1
   language: en
-  note: 'ZSCC: 0000056'
   page: 759-773
   source: ScienceDirect
   title: The public life of the Swahili stonehouse, 14th–15th centuries AD
@@ -22361,7 +21836,6 @@ references:
   issued:
     - year: 2014
   language: en-GB
-  note: 'ZSCC: NoCitationData[s0]'
   page: 111-144
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -22383,7 +21857,6 @@ references:
       given: Jeffrey
   citation-key: wynne-jones:ruins
   container-title: Zamani Project
-  note: 'ZSCC: NoCitationData[s0]'
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
@@ -22462,7 +21935,6 @@ references:
   citation-key: yingfang:river
   dimensions: 34.8 x 804.2 cm
   medium: Handscroll, ink and colors on silk
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Along the River During the Qingming Festival (Suzhou Imitation)「蘇州片」清明上河圖
   type: graphic
@@ -22500,7 +21972,6 @@ references:
     - year: 2019
       month: 8
       day: 3
-  note: 'ZSCC: NoCitationData[s0]'
   title: Where was the original Malacca Palace located?
   type: webpage
   URL: https://www.quora.com/Where-was-the-original-Malacca-Palace-located
@@ -22539,7 +22010,6 @@ references:
     - year: 2016
       month: 9
       day: 19
-  note: 'ZSCC: NoCitationData[s0]'
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
@@ -22573,7 +22043,6 @@ references:
     - literal: Zatletic
   citation-key: zatletic:allegory
   language: English
-  note: 'ZSCC: NoCitationData[s0]'
   title: Allegory of the Art of Building, Cattedrale di Santa Maria del Fiore
   type: graphic
   URL: >-
@@ -22586,7 +22055,6 @@ references:
       day: 6
   archive: http://diq.wikipedia.org/wiki/Image:Sima_Qian_%28painted_portrait%29.jpg
   citation-key: zazapress:sima
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Sima Qian
   type: graphic
@@ -22633,7 +22101,6 @@ references:
     - year: 2014
       month: 5
       day: 31
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Kenya, Lamu Island, Matondoni
   type: graphic
@@ -22653,7 +22120,6 @@ references:
   citation-key: zenz:1457plan
   issued:
     - year: 1457
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Plan der Idealstadt Sforzinda, 1457
   type: graphic
@@ -22731,14 +22197,6 @@ references:
     - literal: 15--
   language: en
   medium: Hanging scroll. Painted in ink and colours on silk. Signature and seal.
-  note: >-
-    ZSCC: NoCitationData[s0] 
-
-    See Roderick Whitfield, 'Some Che School Paintings in the British Museum,
-    'Burlington Magazine', May 1972, pp. 285-294. 
-        '87. Excellent work.'
-        'Imperial Tomb.' 'Apotheosis?' 'Seal, Chu Pang (H.C.1500)'
-        'Fēng-Ch'i 豐嵠' (unattributed annotations in the specially interleaved Japanese Study Room copy of Anderson 1886)
   title: Portrait of an official in front of the Forbidden City
   type: graphic
   URL: https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH
@@ -22757,7 +22215,6 @@ references:
     - literal: 15--
   language: Portuguese
   medium: Rolo suspenso, tinta e cor  sobre seda
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: Retrato de um administrador na frente da Cidade Proibida
   type: graphic
@@ -22787,7 +22244,6 @@ references:
     - year: 1744
   language: English
   medium: Etching with engraving
-  note: 'ZSCC: NoCitationData[s0]'
   title: >-
     Veduta della Metropolitana Fiorentina, e del Battistero di S. Gio. con la
     Processione del Corpus Domini
@@ -22810,7 +22266,6 @@ references:
   issued:
     - literal: primeira metade de século XVIII date QS:P571,+1750-00-00T00:00:00Z/7
   medium: Óleo sobre telamedium QS:P186,Q296955;P186,Q12321255,P518,Q861259
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: The Piazza della Signoria in Florence
   type: graphic
@@ -22848,7 +22303,6 @@ references:
       month: 12
       day: 18
   language: en-US
-  note: 'ZSCC: NoCitationData[s0]'
   source: publicseminar.org
   title: Remembering Janet Lippman Abu-Lughod
   type: webpage
@@ -22913,7 +22367,6 @@ references:
     - year: 2016
       month: 10
       day: 1
-  note: 'ZSCC: NoCitationData[s0]'
   source: Wikimedia Commons
   title: "Plan schématique de Chang'an durant la dynastie Tang. A partir de Ivan P. Kamenarovic, La Chine Classique, Paris, Les Belles Lettres, coll. «\_Guide des civilisations\_», 1999, p. 67 et Mark Edward Lewis, China's Cosmopolitan Empire\_: The Tang Dynasty, Cambridge et Londres, Belknap Press of Harvard University Press, coll. «\_History of imperial China\_», 2009, p. 87."
   title-short: Plan schématique de Chang'an durant la dynastie Tang
@@ -22939,9 +22392,6 @@ references:
       month: 12
       day: 1
   language: en-GB
-  note: >-
-    ArticleType: research-article / Full publication date: Dec., 1953 /
-    Copyright © 1953 College Art Association
   page: 302-306
   source: JSTOR
   title: The "aesthetics" of the early mannerists
