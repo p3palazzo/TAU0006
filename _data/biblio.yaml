@@ -16323,6 +16323,29 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvndv7rf.18
 
+- id: preciado:2015restif
+  accessed:
+    - year: 2022
+      month: 4
+      day: 24
+  author:
+    - family: Preciado
+      given: Paul B.
+  citation-key: preciado:2015restif
+  collection-title: Documenta 14
+  container-title: South
+  issue: '6'
+  issued:
+    - year: 2015
+  language: en
+  title: >-
+    Restif de la Bretonne’s state brothel: sperm, sovereignty, and debt in the
+    eighteenth-century utopian construction of Europe
+  title-short: Restif de la bretonne’s state brothel
+  type: article-journal
+  URL: >-
+    http://www.documenta14.de/en/south/45_restif_de_la_bretonne_s_state_brothel_sperm_sovereignty_and_debt_in_the_eighteenth_century_utopian_construction_of_europe
+
 - id: price:1735british
   abstract: >-
     Signatures: A⁴ a1 B⁴(-B4) C-H⁴,²A²,²B-C⁴; "A supplement to The British
@@ -20336,7 +20359,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
 
-- id: van:1998structure57
+- id: vaneck:1998structure57
   abstract: >-
     Despite Alberti's well-known doubts about the usefulness of Vitruvius as a
     guide for the study of architecture, most architectural historians have
@@ -20360,7 +20383,7 @@ references:
     - family: Eck
       given: Caroline
       non-dropping-particle: van
-  citation-key: van:1998structure57
+  citation-key: vaneck:1998structure57
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991347
   ISSN: 0037-9808

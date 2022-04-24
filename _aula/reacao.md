@@ -216,29 +216,22 @@ Unido e dos Estados Unidos ([@fig:uda-pattern]).
 A obra de Colen Campbell intitulada *Vitruvius Britannicus*, de 1715, é
 um marco na consolidação dos livros de arquitetura na Inglaterra
 ([@fig:britannicus-front]).
-
-* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.no-slide}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa publicação vai além do catálogo de ordens clássicas ou de motivos
 detalhados, e oferece também plantas e fachadas completas de edifícios
 --- sobretudo mansões e palacetes ([@fig:wilbury]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: {#fig:wilbury .half}
-![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv}
-![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan}
+::: {#fig:wilbury .half .full}
+<div class="r-stack">![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan .fragment .current-visible}
+![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv .fragment .current-visible}</div>
 
 William Benson, Wilbury House, 1710. In *Vitruvius Britannicus* 
 :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1280px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -1173,13 +1166,9 @@ considerada sob a relação dos costumes e da legislação*.
 
 ![Claude Nicolas Ledoux, teatro municipal de Besançon, 1784, visto no reflexo de um olho. Publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ledoux,_Theatre_of_Besançon.jpg/2560px-Ledoux,_Theatre_of_Besançon.jpg){#fig:besancon-oeil}
 
-[*L'architecture...*, 1804]: https://commons.wikimedia.org/wiki/File:Ledoux,_Theatre_of_Besançon.jpg
+[*L'architecture...*, 1804]: https://commons.wikimedia.org/wiki/Category:L'architecture_considérée_sous_le_rapport_de_l'art,_des_mœurs_et_de_la_législation
 
 <!--_-->
-
-* * * *
-
-![Claude Nicolas Ledoux, *oikema*, projeto utópico, 1780](https://hiddenarchitecture.net/wp-content/plugins/simple-lightbox/themes/default/images/nav_next.png){#fig:oikema}
 
 * * * *
 
@@ -1191,12 +1180,9 @@ retrospectivo que buscava dar ao modernismo racionalista da década de
 1920 um antecedente pretensamente injustiçado. Esse movimento tentava
 relacionar a rejeição da tradição clássica por Le Corbusier, entre
 outros, com o interesse formalista pela abstração geométrica na obra de
-Ledoux [@kaufmann:1936claude8] e Boullée. De resto, o classicismo
-visionário foi mais um aprofundamento do neoclassicismo dominante na
-França da segunda metade do século [XVIII]{.smallcaps}, com a sua ênfase
-na simplicidade e nas geometrias elementares.
+Ledoux [@kaufmann:1936claude8] e Boullée.
 
-A relevância histórica dos classicistas visionários da segunda metadedo
+A relevância histórica dos classicistas visionários da segunda metade do
 século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
 de um classicismo visionário ou revolucionário, fora do percurso
 acadêmico padrão, não aparece na maioria das histórias da arquitetura
@@ -1204,8 +1190,53 @@ francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
 entravam nas narrativas históricas mais amplas, por serem muito
 excêntricos e terem tido pouca influência sobre a geração seguinte.
 
-Princípios da arquitetura "revolucionária" francesa no final do século
-[XVIII]{.smallcaps} segundo Emil Kaufmann [-@kaufmann:1952three, 434]:
+De resto, o classicismo visionário foi mais um aprofundamento do
+neoclassicismo dominante na França da segunda metade do século
+[XVIII]{.smallcaps}, com a sua ênfase na simplicidade e nas geometrias
+elementares. Exemplo dessa ênfase exagerada é o projeto utópico de
+cenotáfio para Isaac Newton, por Étienne Louis Boullée
+([@fig:cenotaphe]). Na vista exterior, o uso da perspectiva se afasta da
+convenção do ofício, que pede uma elevação ortográfica, e enfatiza a
+busca do arquiteto por um efeito sensorial sobre o observador, como
+Camus de Mézières tinha proposto.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:cenotaphe .full .half}
+<div class="r-stack">![elevação perspectivada](https://upload.wikimedia.org/wikipedia/commons/d/d8/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_02_-_Élévation_perspective.jpg){#fig:cenotapheA}
+![corte com iluminação interior](https://upload.wikimedia.org/wikipedia/commons/3/30/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_05_-_Coupe,_représentation_de_nuit_avec_un_effet_de_jour_à_l'intérieur.jpg){#fig:cenotapheB}</div>
+
+Étienne Louis Boullée, [cenotáfio para Newton, 1784][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[cenotáfio para Newton, 1784]: https://commons.wikimedia.org/wiki/Category:Cénotaphe_à_Newton
+
+* * * *
+
+![Boullée, projeto de ampliação da [Biblioteca Real, 1785][]](https://upload.wikimedia.org/wikipedia/commons/3/3a/Boullée%2C_Etienne-Louis_-_Project_for_a_library.jpg){#fig:boullee-bib}
+
+[Biblioteca Real, 1785]: https://commons.wikimedia.org/wiki/File:Boullée,_Etienne-Louis_-_Project_for_a_library.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na obra de Boullée, a palavra "projetado" começa a aparecer com maior
+frequência. O termo é usado em francês desde o século [XV]{.smallcaps}
+para se referir a propostas de ação em geral. Com Boullée, o conceito de
+proposta vai se alinhando cada vez mais com a apresentação de desenhos
+arquitetônicos, ao mesmo tempo que esses desenhos vão se distanciando
+das bases tipológicas da composição renascentista. Assim, o conceito de
+*projeto arquitetônico* ganha corpo como a representação de propostas
+que não se baseiam num repertório pré-estabelecido --- exatamente a
+definição de projeto que Helio Piñón defende séculos mais tarde
+[@pinon:2006teoria, 49].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir desses aspectos visuais do classicismo visionário, Emil
+Kaufmann propôs três características fundamentais para identificar esse
+estilo [-@kaufmann:1952three, 434]:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
@@ -1220,16 +1251,105 @@ Princípios da arquitetura "revolucionária" francesa no final do século
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na obra de Boullée, a palavra "projetado" começa a aparecer com maior
-frequência. O termo é usado em francês desde o século [XV]{.smallcaps}
-para se referir a propostas de ação em geral. Com Boullée, o conceito de
-proposta vai se alinhando cada vez mais com a apresentação de desenhos
-arquitetônicos, ao mesmo tempo que esses desenhos vão se distanciando
-das bases tipológicas da composição renascentista. Assim, o conceito de
-*projeto arquitetônico* ganha corpo como a representação de propostas
-que não se baseiam num repertório pré-estabelecido --- exatamente a
-definição de projeto que Helio Piñón defende séculos mais tarde
-[@pinon:2006teoria, 49].
+Talvez até mais do que essas características plásticas, o classicismo
+visionário expressa as últimas consequências de uma visão tecnocrática
+da produção do ambiente construído, que estava se desenvolvendo na
+França do final do Antigo Regime. É uma visão que decorre do processo de
+aumento na eficiência e regularidade administrativa das obras públicas,
+promovido por Colbert desde o reinado de Luís XIV, como vimos
+[anteriormente](academicismo.md). Sob Luís XVI, esse processo continua a
+se expandir para toda a extensão do território francês e para todos os
+processos produtivos que estão sob o controle do Estado.
+
+O mais notável produto desse controle universal sobre o território e a
+produção é a salina de Chaux, implantada entre os vilarejos de Arc e
+Senans, no leste da França ([@fig:arc-senans]). O arquiteto Claude
+Nicolas Ledoux foi nomeado em 1773 administrador das salinas da região,
+e desenvolveu um projeto de racionalização da produção que era também um
+método de aprimoramento do controle estatal sobre o processo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Claude Nicolas Ledoux, Mapa de Arc e Senans com o projeto das salinas de Chaux, publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg/2560px-Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg){#fig:arc-senans}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Claude Nicolas Ledoux, salinas de Chaux, 1775--79. Foto: [[INRAP]{.smallcaps}][]](https://www.inrap.fr/dossiers/userdata/c_bloc_album/1/1600/1600_1600_vignette_5-Vue-aerienne-2003.jpg){#fig:chaux-inrap}
+
+[[INRAP]{.smallcaps}]: https://www.inrap.fr/dossiers/Archeologie-du-Sel/Les-sites/Arc-et-Senans-France#.YmVnO5KZMUF
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A salina era mesmo um programa ideal para efetivar o paradigma de
+controle total. O empreendimento era um monopólio estatal, e a produção
+e o comércio de sal eram rigorosamente fiscalizados para evitar
+contrabando, já que o imposto sobre o sal (a gabela) era uma das maiores
+fontes de receita tributária da França no Antigo Regime. Por isso, o
+complexo produtivo ([@fig:chaux-inrap]) era completo e fechado sobre si
+mesmo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os operários da salina viviam em estado de servidão, e os seus
+dormitórios coletivos estavam ao alcance de um golpe de vista do
+diretor, que morava num casarão no centro da planta circular do
+conjunto. De um lado e outro da casa do diretor ficam os galpões onde a
+salmoura era fervida para desidratar o sal ([@fig:chaux-plan]). Ao lado
+desses galpões há ainda as casas dos jardineiros que cuidavam das hortas
+implantadas atrás dos dormitórios: era o projeto de uma comunidade quase
+autossuficiente, minuciosamente regrada e estritamente controlada pelo
+estado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Claude Nicolas Ledoux, salina de Chaux, [planta geral][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arc-et-Senans_-_Plan_de_la_saline_royale.jpg/2560px-Arc-et-Senans_-_Plan_de_la_saline_royale.jpg){#fig:chaux-plan}
+
+[planta geral]: https://commons.wikimedia.org/wiki/File:Arc-et-Senans_-_Plan_de_la_saline_royale.jpg
+
+<!--_-->
+
+* * * *
+
+![Ledoux, salina de Chaux, casa do diretor. Corte longitudinal publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/L'architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg/2560px-L'architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg){#fig:dirlo}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Não era só o processo produtivo que devia ser objeto de um controle
+totalitário. Até a capela da salina estava subordinada à diretoria, e a
+nave ficava numa sobreloja da casa do diretor ([@fig:dirlo]). O arranjo
+era incongruente e inconveniente, mas por isso mesmo sinalizava o papel
+secundário da Igreja nos interesses administrativos do estado, em pleno
+Antigo Regime!
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ledoux foi ainda mais longe no seu cargo de administrador das salinas.
+Talvez inspirado num manifesto de 1769 pelo escritor Restif de la
+Bretonne, ele propôs regulamentar também a prostituição em Chaux. O
+projeto do *oikema* ([@fig:oikema]) visava a segregar espacialmente as
+mulheres, ao mesmo tempo retirando-as do convívio social e explicitando
+a sua condição social por meio da forma característica do edifício
+[@preciado:2014restif]. Ao ensejo de Camus de Mézières, a forma da
+planta do edifício é sugestiva do seu caráter, ou seja, ela expressa a
+natureza das atividades que teriam lugar no edifício --- mas mais ainda,
+a alegoria fálica deixa claro quem detém o poder sobre a prostituição...
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Claude Nicolas Ledoux, projeto de *oikema* para Chaux, 1780](https://i.pinimg.com/originals/37/ec/4a/37ec4ae4d64cfa8ae427b7cc3652b0b2.jpg){#fig:oikema}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Se os ideais iluministas de racionalidade pretendiam emancipar o homem e
+aprofundar o seu controle sobre o mundo, a mulher fazia parte dos
+objetos a serem controlados pelos homens. Isso fica ainda mais evidente
+nos escritos de Jean-Jacques Rousseau, o famoso filósofo da igualdade
+natural entre os homens: ele tratava as mulheres como bens a serem
+distribuídos igualitariamente entre os homens. Anos depois da Revolução
+Francesa, a pintora Élisabeth Vigée-Le Brun registrou nas suas memórias
+o quanto essa Revolução que se pretendia libertadora retirou direitos e
+status social das mulheres!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
