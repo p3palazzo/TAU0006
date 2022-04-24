@@ -13,7 +13,7 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
   caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
 title-slide-attributes:
-  data-background-slide: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
+  data-background-image: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
 sidebar:
 - title: "Leitura"
   text : |
@@ -786,20 +786,60 @@ realizar os seus objetivos --- o cálculo estrutural ainda demoraria
 bastante até se tornar viável, e a função ainda seria por um bom tempo
 compreendida em termos de analogias fisionômicas ou fisiológicas.
 
-Durand e o historicismo (ver também Legrand, mais abaixo).
-
 Fisiocratas (Cointereaux).
 
 Racionalização da estocagem e da saúde (lazaretos) --- J.B. Le Roy
-[@tzonis:1975mechanical, 6].
+[@tzonis:1975mechanical, 6], Béllanger.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Tzonis:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> [...] depois do século [XVIII]{.smallcaps}, o projeto é visto cada vez
+> menos como um processo que estrutura o ambiente físico em padrões
+> visuais por meio das quais a sociedade se organiza. Ele passa a ser
+> uma atividade que produz *commodities* geradoras de utilidade
+> econômica. [@tzonis:1972non-oppressive, 17]
 
 ## Novidade e correção na Itália ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Teorias: de Carlo Lodoli a Francesco Milizia.
+* * * *
 
-Prática: de Alessandro Galilei a Giuseppe Valadier e Luigi Poletti.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=51.5%}
+![Carlo Lodoli retratado por [Alessandro Longhi, década de 1760][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carlo_Lodoli_by_Alessandro_Longhi.jpg/555px-Carlo_Lodoli_by_Alessandro_Longhi.jpg){#fig:lodoli}
+:::
+::: {.column width=48.5%}
+![Andrea Memmo retratado por Angelika Kauffmann, gravura por [G. Carattoni e A. Cavallucci, 1785][]](https://upload.wikimedia.org/wikipedia/commons/4/4b/Kaufmann_-_Memmo.jpg){#fig:memmo}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Alessandro Longhi, década de 1760]: https://commons.wikimedia.org/wiki/File:Carlo_Lodoli_by_Alessandro_Longhi.jpg
+
+[G. Carattoni e A. Cavallucci, 1785]: https://commons.wikimedia.org/wiki/File:Kaufmann_-_Memmo.jpg
+
+<!--_-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Frontispício do [*Vite de' piú celebri architetti...*][], por Francesco Milizia, 1768](https://drawingmatter.org/wp-content/uploads/2020/09/Frontispiece-to-Francesco-Milizia%E2%80%99s-The-Lives-of-the-Celebrated-Architects-Ancient-and-Modern-1768.-Engraving.-RIBA-Collections-714x1024.jpg){#fig:milizia-vite}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Vite de' piú celebri architetti...*]: https://drawingmatter.org/watkin-on-milizia-frontispiece-to-the-lives-of-the-celebrated-architects-ancient-and-modern/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arquiteto, crítico e historiador Francesco Milizia foi, talvez, o
+primeiro a usar o termo *barroco* para designar, inequivocamente, o
+estilo da arquitetura italiana dominante no século [XVII]{.smallcaps}.
+Ele o fez com uma intenção pejorativa explícita, e condenava desde
+Miguel Ângelo até Borromini e Guarini. Em contraste, no frontispício do
+seu livro de biografias de arquitetos, a deusa Atena aponta para uma
+cabana primitiva e um templo antigo como modelos a serem seguidos
+([@fig:milizia-vite]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -868,9 +908,9 @@ ao resultado dessa reforma revela queda na confiança na arquitetura
 contemporânea [@kirk:2005architecture1, 17].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::: {#fig:pantheon .half .r-stack .full}
-![estado anterior a 1756, publicado por [Francesco Piranesi, 1790][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg){#fig:pantheon-pira .fragment .current-visible}
-![após a reforma da segunda ordem por Paolo Posi em 1756, [gravura de 1774][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg){#fig:pantheon-posi .fragment .current-visible}
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:pantheon .half .full}
+<div class="r-stack">![estado anterior a 1756, publicado por [Francesco Piranesi, 1790][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg){#fig:pantheon-pira .fragment .current-visible}
+![após a reforma da segunda ordem por Paolo Posi em 1756, [gravura de 1774][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg){#fig:pantheon-posi .fragment .current-visible}</div>
 
 Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Desenhos:
 Giovanni Battista Piranesi
@@ -921,6 +961,31 @@ grande parte da Europa e das Américas durante todo o século
 [XIX]{.smallcaps} e a primeira metade do século [XX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O neoclassicismo enquanto estilo plástico é bastante evidente e
+diferenciado da estética do barroco que o precedeu. No entanto, ele
+assume também um conteúdo moral que vai ser enfatizado pelos teóricos do
+século [XVIII]{.smallcaps}, especialmente no que diz respeito à
+valorização da clareza e da simplicidade. Esse conteúdo moral também
+aparece na distribuição e no uso dos espaços interiores, especialmente
+os domésticos. A distribuição moderna que o neoclassicismo começa a
+aplicar se pauta por valores burgueses como o desejo de privacidade
+familiar e de naturalidade na apreciação da paisagem.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses valores comparecem até em programas aristocráticos; um exemplo é o
+petit Trianon nos projetado em 1761 por Ange-Jacques Gabriel para a
+Madame de Pompadour, amante de Luís XV. O projeto original, apenas
+parcialmente executado, previa distribuições e mecanismos que reduziam a
+visibilidade do serviço doméstico e o contato dos serventes com os
+usuários [@watkin:2005history, 391].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Historiografia ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -929,17 +994,7 @@ Legrand e Durand.
 
 # Moralidade e arquitetura #
 
-## Analogias literárias e rigorismo ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No seu pensamento mais tardio, Boffrand argumentou que a arquitetura
-devia ser determinada por dois conjuntos de leis independentes do gosto
-cultural: a natureza e o caráter fisionômico. Essa visão deu origem ao
-conceito de *architecture parlante* [@kaufmann:1952three, 447] ou
-"arquitetura tagarela" (tradução de Sylvia Ficher).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
+## Arquitetura tagarela ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Michel de Frémin, Cordemoy e a apreciação da arquitetura gótica
@@ -966,17 +1021,169 @@ literário e néscio [@perouse:2001architecture]
 
 ![Abóbada gótica segundo Frézier](){#fig:frezier}
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No seu pensamento mais tardio, Boffrand argumentou que a arquitetura
+devia ser determinada por dois conjuntos de leis independentes do gosto
+cultural: a natureza e o caráter fisionômico. Essa visão deu origem ao
+conceito de *architecture parlante* [@kaufmann:1952three, 447] ou
+"arquitetura tagarela" (tradução de Sylvia Ficher). O conceito foi
+articulado sobretudo pelo arquiteto Nicolas Le Camus de Mézières no seu
+tratado sobre "o gênio da arquitetura ou a analogia dessa arte com as
+nossas sensações" [@camus:1780genie].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Le Camus de Mézières era um perito judicial em arquitetura na cidade de
+Paris, e escreveu alguns manuais práticos de construção e contratação de
+obras. O seu mais famoso projeto realizado foi o novo armazém de trigo
+de Paris, concluído em 1767. Essa estrutura devia ser uma garantia de
+abastecimento para o centro da cidade; por isso, ela tinha alguns
+requisitos bem específicos: ser à prova de fogo e ter uma logística de
+abastecimento conveniente. Camus projetou uma arcada circular em volta
+de um pátio espaçoso ([@fig:halle-camus]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Nicolas Le Camus de Mézières, projeto para o [armazém de trigo][], 1763, detalhe](http://vergue.com/media/.plan-halle-au-ble-1763-det_m.jpg){#fig:halle-camus}
+
+[armazém de trigo]: http://vergue.com/post/213/Halle-au-ble
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Le Camus de Mézières, planta do [armazém de trigo][] e seu entorno, 1763](http://vergue.com/media/.plan-halle-au-ble-grav_m.jpg){#fig:halle-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Olhando do ponto de vista desses dois requisitos, o armazém de trigo de
+Camus de Mézières era um edifício que poderíamos chamar de racional e
+funcional. A planta de implantação ([@fig:halle-plan]) nos mostra o que
+essa racionalização e funcionalidade do projeto implicavam. A proposta
+de uma rotunda geometricamente perfeita e resolvida apenas de acordo com
+os requisitos intrínsecos ao projeto só podia ser realizada às custas de
+deixar um entorno mal resolvido do ponto de vista da malha viária e do
+parcelamento do solo.
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Nicolas Le Camus de Mézières, folha de rosto do livro [*Le génie de l'architecture*][]](https://i.pinimg.com/1200x/f6/cf/ae/f6cfae5152078c058633c32aa31a47a1.jpg){#fig:genie}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Le génie de l'architecture*]: https://archive.org/details/legeniedelarchit00leca/page/n5/mode/2up
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É sob essa lógica que podemos entender o livro de Camus de Mézières
+sobre as "sensações" da arquitetura. A premissa central do argumento era
+a de que o decoro de uma obra de arquitetura se realizava sobretudo
+nas relações entre massas, e só secundariamente no uso de ornamentos.
+Esse decoro, dizia Camus de Mézières, decorria "menos das regras"
+próprias ao ofício da arquitetura e mais aos "usos e costumes do século
+e do país onde vivemos" [@camus:1780genie, 56]. Essa era uma afirmação
+que rompia com a tradição do Renascimento; desde o século
+[XV]{.smallcaps}, estava mais ou menos entendido que as artes visuais,
+arquitetura incluída, tinham que se basear em princípios intrínsecos à
+harmonia visual.
+
+Agora, Camus de Mézières afirmava que a qualidade da arquitetura era
+função das convenções sociais e do desejo de "luxo e prazer"
+[@camus:1780genie, 109]. A arquitetura devia responder a essas
+convenções e expectativas por meio de efeitos visuais que transmitissem
+sensações emocionais mais do que por meio de alegorias iconográficas.
+Acerca de um quarto de dormir íntimo, ele admoesta:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> [...] em todo o conjunto faça com que a monotonia domine; ela
+> entorpece e bloqueia os sentidos; ela faz bocejar, e a gente pega no
+> sono. [@camus:1780genie, 147]
+
+## {.slide-only}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É sob essa lógica que podemos entender o livro de Camus de Mézières
+sobre as "sensações" da arquitetura. A premissa central do argumento era
+a de que o decoro de uma obra de arquitetura se realizava sobretudo
+nas relações entre massas, e só secundariamente no uso de ornamentos.
+Esse decoro, dizia Camus de Mézières, decorria "menos das regras"
+próprias ao ofício da arquitetura e mais aos "usos e costumes do século
+e do país onde vivemos". Essa era uma afirmação
+que rompia com a tradição do Renascimento; desde o século
+[XV]{.smallcaps}, estava mais ou menos entendido que as artes visuais,
+arquitetura incluída, tinham que se basear em princípios intrínsecos à
+harmonia visual.
+
+Agora, Camus de Mézières afirmava que a qualidade da arquitetura era
+função das convenções sociais e do desejo de "luxo e prazer".
+A arquitetura devia responder a essas
+convenções e expectativas por meio de efeitos visuais que transmitissem
+sensações emocionais mais do que por meio de alegorias iconográficas.
+Acerca de um quarto de dormir íntimo, ele admoesta:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::: {.column width=50%}
+![Nicolas Le Camus de Mézières, folha de rosto do livro [*Le génie de l'architecture*][]](https://i.pinimg.com/1200x/f6/cf/ae/f6cfae5152078c058633c32aa31a47a1.jpg)
+::::::
+:::::: {.column width=50%}
+::: fragment
+> [...] em todo o conjunto faça com que a monotonia domine; ela
+> entorpece e bloqueia os sentidos; ela faz bocejar, e a gente pega no
+> sono.
+>
+> <footer>Nicolas Le Camus de Mézières, <cite>Le génie de
+> l'architecture</cite>, 147
+:::
+::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Classicismo visionário ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A relevância histórica dos classicistas visionários da segunda metadedo
-século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
-de um classicismo visionário ou revolucionário, fora do percurso
-acadêmico padrão, não aparece na maioria das histórias da arquitetura
-francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
-entravam nas narrativas históricas mais amplas, por serem muito
-excêntricos e terem tido pouca influência sobre a geração seguinte.
+O argumento de Camus de Mézières refletia até certo ponto a polêmica
+iniciada por Claude Perrault mais de cem anos antes sobre a natureza
+universal ou relativa de, ao menos, parte da beleza da arquitetura
+[@herrmann:1980theorie]. Mas, enquanto Perrault argumentava apenas que
+parte do juízo de gosto era socialmente condicionada, Camus de Mézières
+defendia que a essência da arquitetura estava inteiramente em responder
+às condições sociais e à função psicológica dos usuários. Perrault
+queria, portanto, chamar atenção para a distinção entre atributos
+universais e contingentes da beleza; Camus, por outro lado, queria
+reduzir o ofício da arquitetura às suas condicionantes não
+arquitetônicas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tratado de Camus de Mézières não era ilustrado e nem mencionava
+exemplos de edifícios reais. Por isso, o rebatimento dessa teoria na
+prática do ofício acabou dando resultados inusitados, embora muito
+limitados. Esse rebatimento foi feito, sobretudo, pelo arquiteto
+Claude Nicolas Ledoux, que escreveu um livro intitulado *A arquitetura
+considerada sob a relação dos costumes e da legislação*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Claude Nicolas Ledoux, teatro municipal de Besançon, 1784, visto no reflexo de um olho. Publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ledoux,_Theatre_of_Besançon.jpg/2560px-Ledoux,_Theatre_of_Besançon.jpg){#fig:besancon-oeil}
+
+[*L'architecture...*, 1804]: https://commons.wikimedia.org/wiki/File:Ledoux,_Theatre_of_Besançon.jpg
+
+<!--_-->
+
+* * * *
+
+![Claude Nicolas Ledoux, *oikema*, projeto utópico, 1780](https://hiddenarchitecture.net/wp-content/plugins/simple-lightbox/themes/default/images/nav_next.png){#fig:oikema}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de classicismo "revolucionário" só foi estabelecido na
 primeira metade do século [XX]{.smallcaps} por autores austríacos como
 Emil Kaufmann e Nikolaus Pevsner. Foi um projeto historiográfico
@@ -989,7 +1196,13 @@ visionário foi mais um aprofundamento do neoclassicismo dominante na
 França da segunda metade do século [XVIII]{.smallcaps}, com a sua ênfase
 na simplicidade e nas geometrias elementares.
 
-Camus de Mézières (architecture parlante), Ledoux, Boullée, Lequeu.
+A relevância histórica dos classicistas visionários da segunda metadedo
+século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
+de um classicismo visionário ou revolucionário, fora do percurso
+acadêmico padrão, não aparece na maioria das histórias da arquitetura
+francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
+entravam nas narrativas históricas mais amplas, por serem muito
+excêntricos e terem tido pouca influência sobre a geração seguinte.
 
 Princípios da arquitetura "revolucionária" francesa no final do século
 [XVIII]{.smallcaps} segundo Emil Kaufmann [-@kaufmann:1952three, 434]:
