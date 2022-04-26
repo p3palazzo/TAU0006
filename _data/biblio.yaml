@@ -1536,9 +1536,9 @@ references:
   publisher: Ubiquity Press
   source: journal.eahn.org
   title: >-
-    Scamozzi’s Orders and Proportions: An End to Illusions or a Visionary
-    Harbinger?
-  title-short: Scamozzi’s Orders and Proportions
+    Scamozzi’s orders and proportions: an end to illusions or a visionary
+    harbinger?
+  title-short: Scamozzi’s orders and proportions
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.ce/
   volume: '3'
@@ -3224,6 +3224,32 @@ references:
   URL: http://www.jstor.org/stable/3177286
   volume: '84'
 
+- id: camus:1780genie
+  abstract: >-
+    Signatures: pi A-R S; Bound in old mottled calf; edges stained red; vii (i.
+    e. viii), 276, [4] pages 21 cm; Signatures: pi⁴ A-R⁸ S⁴
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Le Camus de Mézières
+      given: Nicolas
+  call-number: '127201'
+  citation-key: camus:1780genie
+  event-place: Paris
+  issued:
+    - year: 1780
+  language: fr
+  number-of-pages: '304'
+  publisher: L'auteur [et] chez B. Morin
+  publisher-place: Paris
+  source: Internet Archive
+  title: Le génie de l'architecture, ou l'analogie de cet art avec nos sensations
+  title-short: Le génie de l'architecture
+  type: book
+  URL: http://archive.org/details/legeniedelarchit00leca
+
 - id: canaletto:1726canal
   accessed:
     - year: 2020
@@ -3764,6 +3790,34 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/43140099
   volume: '22'
+
+- id: cellauro:2012architecture75
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Cellauro
+      given: Louis
+    - family: Richaud
+      given: Gilbert
+  citation-key: cellauro:2012architecture75
+  container-title: Zeitschrift für Kunstgeschichte
+  ISSN: 0044-2992
+  issue: '1'
+  issued:
+    - year: 2012
+  language: fr
+  page: 51-74
+  publisher: Deutscher Kunstverlag GmbH Munchen Berlin
+  source: JSTOR
+  title: >-
+    Architecture et physiocratie au siècle des Lumières: les ateliers et les
+    écoles d'architecture rurale de François Cointeraux, 1785-1809
+  title-short: Architecture et physiocratie au siècle des Lumières
+  type: article-journal
+  URL: https://www.jstor.org/stable/41642645
+  volume: '75'
 
 - id: chakrabarti:1998indian
   author:
@@ -7915,6 +7969,68 @@ references:
   title-short: François Blondel
   type: book
 
+- id: germann:1991vitruve
+  author:
+    - family: Germann
+      given: Georg
+  citation-key: germann:1991vitruve
+  event-place: Lausanne
+  issued:
+    - year: 1991
+  language: fr
+  publisher: Presses Polytechniques et Universitaires Romandes
+  publisher-place: Lausanne
+  title: "Vitruve et le Vitruvianisme\_: introduction à l’histoire de la théorie architecturale"
+  type: book
+
+- id: geymueller:1898baukunst1
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Geymüller
+      given: Heinrich Adolf
+      dropping-particle: von
+  citation-key: geymueller:1898baukunst1
+  issued:
+    - year: 1898
+  language: German
+  number-of-pages: '362'
+  publisher: 'A. Bergsträsser : A . Kröner'
+  source: Internet Archive
+  title: Die Baukunst der Renaissance in Frankreich
+  type: book
+  URL: http://archive.org/details/diebaukunstderr01geymgoog
+  volume: '1'
+
+- id: geymueller:1901baukunst2
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Geymüller
+      given: Heinrich Adolf
+      dropping-particle: von
+  citation-key: geymueller:1901baukunst2
+  issued:
+    - year: 1901
+  language: German
+  number-of-pages: '372'
+  publisher: Kröner
+  source: Internet Archive
+  title: Die Baukunst der Renaissance in Frankreich
+  type: book
+  URL: http://archive.org/details/diebaukunstderr00geymgoog
+  volume: '2'
+
 - id: ghaidan:1974lamu
   author:
     - family: Ghaidan
@@ -10093,7 +10209,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Angelika_Kaufmann).jpg
 
-- id: kaufmann:1952three42
+- id: kaufmann:1936claude8
   accessed:
     - year: 2020
       month: 8
@@ -10102,22 +10218,90 @@ references:
   author:
     - family: Kaufmann
       given: Emil
-  citation-key: kaufmann:1952three42
-  container-title: Transactions of the American Philosophical Society
-  DOI: 10.2307/1005689
-  ISSN: 0065-9746
+  citation-key: kaufmann:1936claude8
+  container-title: Parnassus
+  DOI: 10.2307/771111
+  ISSN: 1543-6314
+  issue: '5'
+  issued:
+    - year: 1936
+  language: en
+  page: 16-18
+  publisher: '[College Art Association, Taylor & Francis, Ltd.]'
+  source: JSTOR
+  title: >-
+    Claude Nicolas Ledoux. A pioneer of modern architecture in the eighteenth
+    century
+  type: article-journal
+  URL: https://www.jstor.org/stable/771111
+  volume: '8'
+
+- id: kaufmann:1943claude-nicolas3
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1943claude-nicolas3
+  container-title: Journal of the American Society of Architectural Historians
+  DOI: 10.2307/901223
+  ISSN: 1544-9890
   issue: '3'
   issued:
+    - year: 1943
+  language: en
+  page: 12-20
+  publisher: '[University of California Press, Society of Architectural Historians]'
+  source: JSTOR
+  title: Claude-Nicolas Ledoux, inaugurator of a new architectural system
+  type: article-journal
+  URL: https://www.jstor.org/stable/901223
+  volume: '3'
+
+- id: kaufmann:1952three
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1952three
+  collection-number: v. 42 pt. 3
+  collection-title: Transactions of the American Philosophical Society
+  DOI: 10.2307/1005689
+  event-place: Philadelphia, Penn.
+  ISSN: 0065-9746
+  issued:
     - year: 1952
+      month: 10
   language: en-US
-  page: 431-564
   publisher: American Philosophical Society
+  publisher-place: Philadelphia, Penn.
   source: JSTOR
   title: 'Three revolutionary architects: Boullée, Ledoux, and Lequeu'
   title-short: Three revolutionary architects
-  type: article-journal
+  type: book
   URL: https://www.jstor.org/stable/1005689
-  volume: '42'
+
+- id: kaufmann:1968three
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1968three
+  event-place: Philadelphia
+  issued:
+    - year: 1968
+  language: en
+  publisher: The American Philosophical Society
+  publisher-place: Philadelphia
+  source: Open WorldCat
+  title: Three revolutionary architects, Boullée, Ledoux, and Lequeu
+  type: book
 
 - id: keete37:2014interior
   accessed:
@@ -10277,6 +10461,25 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg
+
+- id: kirk:2005architecture1
+  author:
+    - family: Kirk
+      given: Terry
+  call-number: NA1114 .K574 2005
+  citation-key: kirk:2005architecture1
+  event-place: New York
+  ISBN: 978-1-56898-438-4 978-1-56898-420-9 978-1-56898-436-0
+  issued:
+    - year: 2005
+  language: en
+  number-of-volumes: '2'
+  publisher: Princeton Architectural Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: The architecture of modern Italy
+  type: book
+  volume: '1'
 
 - id: kisacky:2001history60
   abstract: >-
@@ -10787,7 +10990,7 @@ references:
   publisher: Hennessey & Ingalls
   publisher-place: Los Angeles
   source: Google Books
-  title: An Essay on Architecture
+  title: An essay on architecture
   translator:
     - family: Herrmann
       given: Wolfgang
@@ -12706,6 +12909,33 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/987903
   volume: '18'
 
+- id: middleton:1962abbe25
+  accessed:
+    - year: 2021
+      month: 5
+      day: 13
+  author:
+    - family: Middleton
+      given: Robin D.
+  citation-key: middleton:1962abbe25
+  container-title: Journal of the Warburg and Courtauld Institutes
+  DOI: 10.2307/750811
+  ISSN: 0075-4390
+  issue: 3/4
+  issued:
+    - year: 1962
+  language: en-GB
+  page: 278-320
+  publisher: Warburg Institute
+  source: JSTOR
+  title: >-
+    The abbé de Cordemoy and the Graeco-Gothic ideal: A prelude to romantic
+    classicism
+  title-short: The abbé de Cordemoy and the Graeco-Gothic ideal
+  type: article-journal
+  URL: https://www.jstor.org/stable/750811
+  volume: '25'
+
 - id: middleton:1982beauxarts
   citation-key: middleton:1982beauxarts
   editor:
@@ -13047,6 +13277,20 @@ references:
   type: article-journal
   URL: https://strathprints.strath.ac.uk/53996/
   volume: '9'
+
+- id: moneo:1978typology
+  author:
+    - family: Moneo
+      given: Rafael
+  citation-key: moneo:1978typology
+  container-title: Oppositions
+  issued:
+    - year: 1978
+  language: en-US
+  page: 23–45
+  title: On typology
+  type: article-journal
+  volume: '13'
 
 - id: montano:1638architettvra
   abstract: >-
@@ -14912,6 +15156,23 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
 
+- id: patetta:1975larchitettura
+  author:
+    - family: Patetta
+      given: Luciano
+  citation-key: patetta:1975larchitettura
+  event-place: Milano
+  issued:
+    - year: 1975
+  language: it
+  number-of-pages: '412'
+  publisher: G. Mazzotta
+  publisher-place: Milano
+  source: Google Books
+  title: 'L''architettura dell''eclettismo: fonti, teorie, modelli 1750-1900'
+  title-short: L'architettura dell'eclettismo
+  type: book
+
 - id: patte:1769memoires
   abstract: >-
     Etched title vignette. Etched head-piece by Marvie. Woodcut head-piece by
@@ -14942,6 +15203,39 @@ references:
   title: Mémoires sur les objets les plus importans de l'architecture
   type: book
   URL: http://archive.org/details/memoiressurlesob00patt
+
+- id: patte:1770memoire
+  abstract: >-
+    Signatures: A-D⁴ E⁴(-E4); Errata, p. 38; Binding: 19th-century blue and
+    black marbled paper. Hand-written title on slips affixed to front cover and
+    spine
+  accessed:
+    - year: 2017
+      month: 11
+      day: 24
+  author:
+    - family: Patte
+      given: Pierre
+  call-number: '9928785910001551'
+  citation-key: patte:1770memoire
+  event-place: Paris
+  issued:
+    - year: 1770
+  language: fr-FR
+  number-of-pages: '52'
+  publisher: Gueffier
+  publisher-place: Paris
+  source: Internet Archive
+  title: >-
+    Mémoire sur la construction de la coupole, projettée pour couronner la
+    nouvelle église de Sainte Genevieve à Paris : ou il est question de prouver
+    que les piliers déja exécutés & destinés à porter cette coupole, n'ont point
+    les dimensions nécessaires pour espérer d'y élever un semblable ouvrage avec
+    solidité : problesme adressé à toutes les sociétés savantes, aux ingenieurs,
+    aux architects, et à ceux qui se connoissent en construction
+  title-short: Mémoire sur la construction de la coupole
+  type: book
+  URL: http://archive.org/details/memoiresurlacons00patt
 
 - id: payne:1994rudolf
   abstract: >-
@@ -15515,6 +15809,24 @@ references:
   title-short: Mapping and charting in early modern England and France
   type: book
 
+- id: petzet:1961soufflots
+  author:
+    - family: Petzet
+      given: Michael
+  citation-key: petzet:1961soufflots
+  ISBN: 978-3-11-003271-0
+  issued:
+    - year: 1961
+  language: de
+  number-of-pages: '218'
+  publisher: Walter de Gruyter
+  source: Google Books
+  title: >-
+    Soufflots Sainte-Geneviève und der französische Kirchenbau des 18
+    Jahrhunderts
+  title-short: Petzet
+  type: book
+
 - id: petzet:2000claude
   author:
     - family: Petzet
@@ -15670,6 +15982,27 @@ references:
   title-short: Methodo lusitanico
   type: book
   URL: http://purl.pt/24485
+
+- id: pinon:2006teoria
+  author:
+    - family: Piñón
+      given: Helio
+  call-number: MLCM 2007/40331 (N)
+  citation-key: pinon:2006teoria
+  collection-number: '24'
+  collection-title: Col·lecció d'Arquitectura
+  edition: '1'
+  event-place: Barcelona
+  ISBN: 978-84-8301-847-7
+  issued:
+    - year: 2006
+  language: es
+  number-of-pages: '221'
+  publisher: Universitat Politècnica de Catalunya
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: Teoría del proyecto
+  type: book
 
 - id: piotrowski:2001discipline
   call-number: NA2750 .D485 2001
@@ -15990,6 +16323,29 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvndv7rf.18
 
+- id: preciado:2015restif
+  accessed:
+    - year: 2022
+      month: 4
+      day: 24
+  author:
+    - family: Preciado
+      given: Paul B.
+  citation-key: preciado:2015restif
+  collection-title: Documenta 14
+  container-title: South
+  issue: '6'
+  issued:
+    - year: 2015
+  language: en
+  title: >-
+    Restif de la Bretonne’s state brothel: sperm, sovereignty, and debt in the
+    eighteenth-century utopian construction of Europe
+  title-short: Restif de la bretonne’s state brothel
+  type: article-journal
+  URL: >-
+    http://www.documenta14.de/en/south/45_restif_de_la_bretonne_s_state_brothel_sperm_sovereignty_and_debt_in_the_eighteenth_century_utopian_construction_of_europe
+
 - id: price:1735british
   abstract: >-
     Signatures: A⁴ a1 B⁴(-B4) C-H⁴,²A²,²B-C⁴; "A supplement to The British
@@ -16243,6 +16599,27 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Campo_di_San_Giovanni_e_Paolo,_Venice.jpg#
+
+- id: rabreau:1972soufflot130
+  accessed:
+    - year: 2017
+      month: 11
+      day: 27
+  author:
+    - family: Rabreau
+      given: Daniel
+  citation-key: rabreau:1972soufflot130
+  container-title: Bulletin Monumental
+  issue: '4'
+  issued:
+    - year: 1972
+  language: fr
+  page: 359-362
+  source: www.persee.fr
+  title: Soufflot et l'église Sainte-Geneviève
+  type: article-journal
+  URL: http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982
+  volume: '130'
 
 - id: raffaellosanzio:1509disputa
   accessed:
@@ -17859,6 +18236,28 @@ references:
   title: 'Architecture and model building: concepts, methods, materials'
   title-short: Architecture and model building
   type: book
+
+- id: schneider:1910esthetique
+  accessed:
+    - year: 2017
+      month: 11
+      day: 28
+  author:
+    - family: Schneider
+      given: René
+  call-number: N 7483 .Q3 S34 1910
+  citation-key: schneider:1910esthetique
+  event-place: Paris
+  issued:
+    - year: 1910
+  language: fr
+  number-of-pages: '202'
+  publisher: Hachette
+  publisher-place: Paris
+  source: Internet Archive
+  title: L’esthétique classique chez Quatremère de Quincy (1805–1823)
+  type: book
+  URL: http://archive.org/details/lesthtiqueclas00schn
 
 - id: schumacher:1971contestualismo
   author:
@@ -19960,7 +20359,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
 
-- id: van:1998structure57
+- id: vaneck:1998structure57
   abstract: >-
     Despite Alberti's well-known doubts about the usefulness of Vitruvius as a
     guide for the study of architecture, most architectural historians have
@@ -19984,7 +20383,7 @@ references:
     - family: Eck
       given: Caroline
       non-dropping-particle: van
-  citation-key: van:1998structure57
+  citation-key: vaneck:1998structure57
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991347
   ISSN: 0037-9808
@@ -21021,6 +21420,80 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
+- id: ward:1911architecture1
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture1
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '320'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  title-short: The architecture of the Renaissance in France
+  type: book
+  URL: http://archive.org/details/architectureofre01ward
+  volume: '1'
+
+- id: ward:1911architecture2
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture2
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '306'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  type: book
+  URL: http://archive.org/details/architectureofre02ward
+  volume: '2'
+
+- id: watkin:1977morality
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:1977morality
+  event-place: Oxford
+  ISBN: 978-0-19-817350-2
+  issued:
+    - year: 1977
+  language: en-GB
+  publisher: Clarendon
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: >-
+    Morality and architecture: the development of a theme in architectural
+    history and theory from the Gothic revival to the modern movement
+  title-short: Morality and architecture
+  type: book
+
 - id: watkin:2001historia
   author:
     - family: Watkin
@@ -21039,6 +21512,68 @@ references:
     - family: Rosenbaum
       given: David
   type: book
+
+- id: watkin:2005history
+  abstract: >-
+    720 pages : 24 cm; The history of Western architecture from the earliest
+    times in Mesopotamia and Egypt to the dramatic impact of CAD on
+    architectural practice at the beginning of the 21st century; Previous
+    edition: London : Watson-Guptill, 2000; Includes bibliographical references
+    and index; Mesopotamia and Egypt -- The classical foundation: Greek,
+    Hellenistic, Roman -- Early Christian and Byzantine -- Carolingian and
+    Romanesque -- The Gothic experiment -- Renaissance harmony -- Baroque
+    expansion -- Eighteenth-century classicism -- The Nineteenth century -- Art
+    Nouveau -- The Twentieth century and beyond
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:2005history
+  edition: '4'
+  event-place: London
+  ISBN: 978-1-85669-459-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '726'
+  publisher: Laurence King
+  publisher-place: London
+  source: Internet Archive
+  title: A history of Western architecture
+  type: book
+  URL: http://archive.org/details/historyofwestern0000watk_y0h2
+
+- id: wendland:2007traditional1
+  accessed:
+    - year: 2021
+      month: 1
+      day: 20
+  author:
+    - family: Wendland
+      given: David
+  citation-key: wendland:2007traditional1
+  container-title: International Journal of Architectural Heritage
+  container-title-short: IJAH
+  DOI: 10.1080/15583050701373803
+  ISSN: 1558-3058, 1558-3066
+  issue: '4'
+  issued:
+    - year: 2007
+      month: 11
+      day: 20
+  language: en
+  page: 311-365
+  source: DOI.org (Crossref)
+  title: >-
+    Traditional vault construction without formwork: masonry pattern and vault
+    shape in the historical technical literature and in experimental studies
+  title-short: Traditional vault construction without formwork
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/abs/10.1080/15583050701373803
+  volume: '1'
 
 - id: westfall:1991architectural
   author:
