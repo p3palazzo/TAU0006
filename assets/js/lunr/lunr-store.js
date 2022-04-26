@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Universo em expansão",
-        "excerpt":"Origens do cálculo estrutural Figura 1: Galileu Galilei (1564–1642), retratado por Justus Sustermans, c. 1640 A ciência moderna mudou radicalmente o modo de olhar para os arcos. De uma busca pela geometria perfeita, passamos a olhar para as forças que agem sobre a estrutura. Esse conhecimento começou a ser desenvolvido na...","categories": [],
+        "excerpt":"Sociedade burguesa Mercado de arte Privacidade doméstica burguesa e a sua influência na aristocracia Rococó Antiquarismo e história da arte Grand Tour Figura 1: Claude Gellée, dito Lorrain, Paisagem com o templo da Sibila de Tivoli, 1630–35 Figura 2: Claude Lorrain, Vista idealizada de Tivoli, 1644 Figura 3: Nicolaes Berchem,...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/universo/",
         "teaser": null
