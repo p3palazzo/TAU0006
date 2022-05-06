@@ -4,12 +4,12 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-02-01
-toc:
-  - Espacialidade e vazio na pintura chinesa
-  - História da arquitetura como história do espaço
-  - Urbanismo de colina
-  - Cidades e castelos no Japão
-  - Do boma banto às cidades da Guiné
+excerpt: >
+  Espacialidade e vazio na pintura chinesa –
+  História da arquitetura como história do espaço –
+  Urbanismo de colina –
+  Cidades e castelos no Japão –
+  Do boma banto às cidades da Guiné
 leitura: 501--518, 537--538
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/02/rakuchu_rakugai_zu_byobu_fukuoka_city_museuml.jpg
@@ -77,7 +77,9 @@ desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg" data-background-size="contain"}
 
-![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan .full}
+::: full
+![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan  }
+:::
 
 [Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)_by_Emperor_Huizong_(1082–1135).jpg
 
@@ -106,13 +108,17 @@ cavaleira se firma desde cedo como o modo preferencial de projeção das
 formas geométricas na pintura ([@fig:zhouwenju]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music,_Ming_dynasty,_Chicago_Institute_of_Art.jpg){#fig:zhouwenju .full .r-stack}
+::: full
+![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music,_Ming_dynasty,_Chicago_Institute_of_Art.jpg){#fig:zhouwenju   .r-stack}
+:::
 
 <!--_-->
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg" data-background-size="contain"}
 
-![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang .align-right}
+::: align-right
+![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das primeiras teorias críticas da arte foi escrita na China do
@@ -320,7 +326,9 @@ corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
 
 ## Perspectiva linear e arquitetura ##
 
-![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky .align-right .overlay-slide}
+::: align-right
+![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky   .overlay-slide}
+:::
 
 [Princeton University Press]: https://press.princeton.edu/our-authors/panofsky-erwin
 
@@ -348,7 +356,9 @@ arquitetônico ([@fig:farnesina-cubB]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ohrid_annunciation_icon.jpg" data-background-size="contain"}
 
-![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid .align-right}
+::: align-right
+![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
@@ -368,7 +378,9 @@ século [XIV]{.smallcaps} com a obra de artistas como Giotto
 ([@fig:giotto]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto .full}
+::: full
+![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto  }
+:::
 
 [Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg
 
@@ -394,7 +406,9 @@ delimitação maior dos ambientes onde se desenvolve a cena ([@fig:martini-ann])
 
 ## {data-background-image="https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg" data-background-size="contain"}
 
-![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita .align-right}
+::: align-right
+![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita  }
+:::
 
 [Natividade da Virgem Maria, 1342]: https://www.wga.hu/frames-e.html?/html/l/lorenzet/pietro/2/15birth.html
 
@@ -410,7 +424,9 @@ posicionamento das figuras e a sua relação com o espaço.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg" data-background-size="contain"}
 
-![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann .align-right}
+::: align-right
+![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann  }
+:::
 
 [Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-_1344..jpg
 
@@ -507,7 +523,9 @@ espaço da forma arquitetônica construída.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png" data-background-size="contain"}
 
-![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line .align-right}
+::: align-right
+![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A noção do espaço como força geradora das transformações
@@ -529,7 +547,9 @@ autores se vinculam.
 
 ## {data-background-image="https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg" data-background-size="contain"}
 
-![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion .align-right}
+::: align-right
+![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar da aparente revolução no entendimento da arquitetura que essa
@@ -583,7 +603,9 @@ libertação formal e criativa iniciado pelo barroco.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg" data-background-size="contain"}
 
-![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne .align-right}
+::: align-right
+![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne  }
+:::
 
 [Fundação Alexander von Humboldt, 2006]: https://www.humboldt-foundation.de/en/entdecken/newsroom/dossier-max-planck-humboldt-research-award/max-planck-research-award-winners-2006
 
@@ -746,7 +768,9 @@ comerciais ou defensivas.
 
 ##
 
-![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa .align-right .overlay-slide}
+::: align-right
+![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa   .overlay-slide}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para o urbanista e historiador português Walter Rossa ([@fig:rossa]),
@@ -772,11 +796,15 @@ Mesmo assim, as cidades portuguesas que existem nesse século
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png"}
 
-![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d .full}
+::: full
+![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d  }
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
 
-![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .full .line}
+::: full
+![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia   .line}
+:::
 
 ## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg"}
 
@@ -818,13 +846,21 @@ arrabalde de uma cidade existente, como em Florença
 ##
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
-![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment .align-right}
+::: align-right
+![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment  }
+:::
 
-![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment .align-right}
+::: align-right
+![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment  }
+:::
 
-![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment .align-right}
+::: align-right
+![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment  }
+:::
 
-![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment .align-right}
+::: align-right
+![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment  }
+:::
 
 Reconstituição da urbanização de Castelo de Vide, Portugal. Desenho:
 Pedro P. Palazzo, 2021
@@ -949,7 +985,9 @@ José Geraldo Simões Júnior chamassem a esse paradigma de "urbanismo de
 colina" [@lobo:2012urbanismo].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .full}
+::: full
+![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina  }
+:::
 
 ##
 
@@ -1003,7 +1041,9 @@ Vista aérea de Caminha por [Polychronis Drone, 2021](https://youtu.be/fbduT2k8p
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg"}
 
-![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa .full}
+::: full
+![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa  }
+:::
 
 ## Parcelamento e tipologia edilícia ##
 
@@ -1035,7 +1075,9 @@ casas-pátio mediterrânicas em casas correntes semelhantes às do norte da
 Europa pode ter contribuído para esse objetivo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .full}
+::: full
+![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela  }
+:::
 
 ## {data-background-video="" data-background-video-muted="true"}
 
@@ -1121,13 +1163,17 @@ O desenho urbano inicial da capital Heian (atual Quioto), fundada em
 capital da dinastia Tang chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Plano urbanístico de Heian (Quioto), 794. Planta de [Mori Kōan, 1750][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian .full}
+::: full
+![Plano urbanístico de Heian (Quioto), 794. Planta de [Mori Kōan, 1750][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian  }
+:::
 
 [Mori Kōan, 1750]: https://commons.wikimedia.org/wiki/File:Plan_of_Heiankyo.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg"}
 
-![Modelo da cidade de Heian (Quioto). Foto: [Nagoya Tarō, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model .full}
+::: full
+![Modelo da cidade de Heian (Quioto). Foto: [Nagoya Tarō, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model  }
+:::
 
 [Nagoya Tarō, 2018]: https://commons.wikimedia.org/wiki/File:Heiankyo_overall_model.jpg
 
@@ -1173,7 +1219,7 @@ construção de casas geminadas, as *machiya*.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg"}
 
-![Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do [município de Himeji](https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji}
+![Planta de 1806 mostrando o castelo de Himeji e áreas residenciais dos samurais. Acervo do [museu histórico da província de Hyōgo](https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Himeji-castletown-plan.jpg/888px-Himeji-castletown-plan.jpg){#fig:himeji .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos séculos [XVI]{.smallcaps} e [XVII]{.smallcaps}, a construção de
@@ -1213,7 +1259,9 @@ de madeira --- geralmente 6 pés ou 1,95 metro ([@fig:tsuruoka]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/view_of_edo_tsuyama_city_museum.jpg"}
 
-![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama .full}
+::: full
+![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama  }
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/enlarged_plan_of_edo_revised_in_third_month_year_of_the_sheep_and_illustrated_14066153104.jpg"}
 
@@ -1293,7 +1341,9 @@ território.
 
 ##
 
-![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman .align-right .overlay-slide}
+::: align-right
+![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman   .overlay-slide}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
@@ -1318,7 +1368,9 @@ tem a sua própria casa perto desse espaço central ([@fig:boma])
 
 ## {data-background-video="https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm" data-background-video-muted="true"}
 
-![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .align-right .nobg .overlay-slide}
+::: align-right
+![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA   .nobg .overlay-slide}
+:::
 
 ![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba}
 
@@ -1336,7 +1388,9 @@ americana [Suzanne Blier][] no final da década de 1980.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg"}
 
-![Planta de um Tata somba segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line .align-right .overlay-slide}
+::: align-right
+![Planta de um Tata somba segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line   .overlay-slide}
+:::
 
 ![Tata somba em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
 
@@ -1387,7 +1441,9 @@ entre eles começa, então, a tomar a forma de rua--corredor.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png" data-background-size="contain" data-background-position="left"}
 
-![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){#fig:benin-loc .align-right .overlay-slide .nobg}
+::: align-right
+![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){#fig:benin-loc   .overlay-slide .nobg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -1408,7 +1464,9 @@ muralha feita de terraplenos. Os mercados se situavam fora dos limites
 da cidade ([@fig:benin-markets]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cidade de Benim e seus principais mercados extra-muros. Esquema por C. Punch em [H. Ling Roth, *The Great Benin*](https://archive.org/details/greatbeninitscus00roth/page/134/mode/2up)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .align-right .line}
+::: align-right
+![Cidade de Benim e seus principais mercados extra-muros. Esquema por C. Punch em [H. Ling Roth, *The Great Benin*](https://archive.org/details/greatbeninitscus00roth/page/134/mode/2up)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets   .line}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png"}
 
@@ -1456,7 +1514,9 @@ ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista de uma rua em Kumasi, por T. Edward Bowdich](https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg){#fig:kumasi-frontage .full}
+::: full
+![Vista de uma rua em Kumasi, por T. Edward Bowdich](https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg){#fig:kumasi-frontage  }
+:::
 
 ## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 

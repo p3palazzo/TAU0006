@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "TAU 0006 História da Arquitetura e da Arte II"
+title                    : "TAU 0006"
 title_separator          : "-"
-subtitle                 : "2.º/2021"
+subtitle                 : "História da Arquitetura e da Arte II · 2.º/2021"
 name                     : "Pedro P. Palazzo"
 description: >-
   História das cidades, dos edifícios e da edificação na tradição
@@ -306,7 +306,7 @@ defaults:
       toc_label: false
       toc_sticky: false
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: false
@@ -319,7 +319,7 @@ defaults:
     values:
       layout: single
       show_date: true
-      toc: true
+      read_time: true
   # _posts
   - scope:
       path: ""

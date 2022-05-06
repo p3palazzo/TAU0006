@@ -4,20 +4,17 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-02-08
-toc:
-  - Teoria da arquitetura na Idade Moderna
-  - História da arquitetura como história da construção
-  - A cúpula de Brunelleschi
-  - Cúpulas islâmicas e malhas espaciais
+excerpt: >
+  Teoria da arquitetura na Idade Moderna –
+  História da arquitetura como história da construção –
+  A cúpula de Brunelleschi –
+  Cúpulas islâmicas e malhas espaciais
 leitura: 474--490, 530--536
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/the_spy_zambur_brings_mahiya_to_the_city_of_tawariq_folio_from_a_hamzanama_book_of_hamza_met_dt249920-bg.jpg
   caption: "Kesav Das (atribuição), [O espião Zambur leva Mahiya à cidade de Tawariq](https://www.metmuseum.org/art/collection/search/447743), folha do *Hamzanama*, c. 1570"
-  actions:
-  - label: "Slides"
-    url  : "/slides/sistemas-espaciais/"
 ---
 
 # Teoria da arquitetura na Idade Moderna #
@@ -90,7 +87,9 @@ um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![[Atribuído a Giuliano da Sangallo](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg). Perspectiva arquitetônica com porto, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495 .full}
+::: full
+![[Atribuído a Giuliano da Sangallo](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg). Perspectiva arquitetônica com porto, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495  }
+:::
 
 <!--_-->
 
@@ -126,7 +125,9 @@ Qiu Ying. [Manhã de primavera no palácio Han][], primeira metade do século [X
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
 
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno .full}
+::: full
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno  }
+:::
 
 <!--_,-->
 
@@ -213,7 +214,9 @@ gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquit
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"}
 
-![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale .full}
+::: full
+![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale  }
+:::
 
 <!--_-->
 
@@ -239,7 +242,9 @@ do território ([@fig:versailles-patel]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 
-![Pintor da escola Tosa, talvez Iwasa Katsumochi Matabei. [Vistas de Quioto e arredores](https://commons.wikimedia.org/wiki/File:Scenes_in_and_around_Kyoto_Funaki_2.jpg), do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki .full}
+::: full
+![Pintor da escola Tosa, talvez Iwasa Katsumochi Matabei. [Vistas de Quioto e arredores](https://commons.wikimedia.org/wiki/File:Scenes_in_and_around_Kyoto_Funaki_2.jpg), do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
@@ -296,7 +301,9 @@ período cronológico e "estilo" ou movimento artístico.
 
 ## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-position="left" data-background-size="contain"}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950)](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
+::: align-right
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950)](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por trás desse sistema de "caixas" está a descoberta e o interesse na
@@ -339,7 +346,9 @@ europeia como um todo.
 
 ## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain"}
 
-![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
+::: align-right
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A classificação de Quatremère opera duas formas de hierarquização da
@@ -427,7 +436,9 @@ apresentar de modo mais realizado:
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg" data-background-size="contain"}
 
-![Henry Kraus, [*Gold Was the Mortar*, 1979](https://archive.org/details/goldwasmortareco0000krau/mode/2up)](https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg){#fig:kraus .align-right}
+::: align-right
+![Henry Kraus, [*Gold Was the Mortar*, 1979](https://archive.org/details/goldwasmortareco0000krau/mode/2up)](https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg){#fig:kraus  }
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A História da construção se renova a partir do final do século [XX]{.smallcaps}. Ela

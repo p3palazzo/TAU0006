@@ -167,9 +167,9 @@ references:
   page: 15–34
   source: JSTOR
   title: >-
-    The Tuscan / Rustic Order: A Study in the Metaphorical Language of
-    Architecture
-  title-short: The Tuscan / Rustic Order
+    The tuscan / rustic order: A study in the metaphorical language of
+    architecture
+  title-short: The tuscan / rustic order
   type: article-journal
   URL: https://www.jstor.org/stable/989854
   volume: '42'
@@ -374,7 +374,8 @@ references:
   language: en-US
   publisher: Oxford University Press
   publisher-place: New York
-  title: 'A Pattern Language: Towns, Buildings, Construction'
+  title: 'A pattern language: towns, buildings, construction'
+  title-short: A pattern language
   type: book
 
 - id: alexander:2002nature
@@ -448,9 +449,9 @@ references:
   page: 58-74
   source: JSTOR
   title: >-
-    Ordering the Orders: Claude Perrault's "Ordonnance" and the Eastern
-    Colonnade of the Louvre
-  title-short: Ordering the Orders
+    Ordering the orders: Claude Perrault's "Ordonnance" and the eastern
+    colonnade of the Louvre
+  title-short: Ordering the orders
   type: article-journal
   URL: https://www.jstor.org/stable/43876206
 
@@ -474,7 +475,7 @@ references:
   page: 306-334
   publisher: Boston University African Studies Center
   source: JSTOR
-  title: Swahili Culture and the Nature of East Coast Settlement
+  title: Swahili culture and the nature of east coast settlement
   type: article-journal
   URL: https://www.jstor.org/stable/218047
   volume: '14'
@@ -1180,7 +1181,7 @@ references:
   language: en-US
   publisher: Penguin
   publisher-place: New York
-  title: Design of Cities
+  title: Design of cities
   type: book
 
 - id: badenhorst:2009central64
@@ -1535,9 +1536,9 @@ references:
   publisher: Ubiquity Press
   source: journal.eahn.org
   title: >-
-    Scamozzi’s Orders and Proportions: An End to Illusions or a Visionary
-    Harbinger?
-  title-short: Scamozzi’s Orders and Proportions
+    Scamozzi’s orders and proportions: an end to illusions or a visionary
+    harbinger?
+  title-short: Scamozzi’s orders and proportions
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.ce/
   volume: '3'
@@ -1553,6 +1554,7 @@ references:
     - year: 2017
       month: 1
       day: 12
+  language: it
   title: Il Barocco - parte prima
   type: post-weblog
   URL: https://potenziamentolanzi.blogspot.com/2017/01/il-barocco-parte-1.html
@@ -1561,6 +1563,7 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
+    - literal: Nalbantoḡlu
   citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
@@ -1846,9 +1849,9 @@ references:
   publisher: 'SAGE PublicationsSage UK: London, England'
   source: journals.sagepub.com
   title: >-
-    A New Palladian Shape Grammar: A Subdivision Grammar as alternative to the
-    Palladian Grammar
-  title-short: A New Palladian Shape Grammar
+    A new Palladian shape grammar: a subdivision grammar as alternative to the
+    palladian grammar
+  title-short: A new Palladian shape grammar
   type: article-journal
   URL: >-
     https://journals.sagepub.com/doi/10.1260/1478-0771.10.4.521?icid=int.sj-related-articles.similar-articles.3
@@ -1894,6 +1897,25 @@ references:
   URL: https://dx.plos.org/10.1371/journal.pone.0035026
   volume: '7'
 
+- id: benvenuto:1991vaulted
+  author:
+    - family: Benvenuto
+      given: Edoardo
+  citation-key: benvenuto:1991vaulted
+  collection-number: '2'
+  collection-title: An introduction to the history of structural mechanics
+  event-place: New York
+  ISBN: 978-1-4612-7751-4 978-3-540-97187-0 978-0-387-97187-2
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '309'
+  publisher: Springer
+  publisher-place: New York
+  source: K10plus ISBN
+  title: Vaulted structures and elastic systems
+  type: book
+
 - id: berger:1993palace
   author:
     - family: Berger
@@ -1905,7 +1927,8 @@ references:
   language: en-US
   publisher: Pennsylvania State University Press
   publisher-place: University Park, Penn.
-  title: 'The Palace of the Sun: The Louvre of Louis XIV'
+  title: 'The palace of the Sun: the Louvre of Louis XIV'
+  title-short: The palace of the Sun
   type: book
 
 - id: bernabei:1990jan
@@ -2145,9 +2168,9 @@ references:
   publisher: University of Chicago Press
   source: Google Books
   title: >-
-    The Anatomy of Architecture: Ontology and Metaphor in Batammaliba
-    Architectural Expression
-  title-short: The Anatomy of Architecture
+    The anatomy of architecture: ontology and metaphor in Batammaliba
+    architectural expression
+  title-short: The anatomy of architecture
   type: book
 
 - id: blond:2007atlas
@@ -2333,6 +2356,7 @@ references:
       given: Hans
   citation-key: blumenfeld:1944russian
   container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/901141
   ISSN: 1544-9890
   issue: '1'
@@ -2341,7 +2365,7 @@ references:
   language: en-US
   page: 22-33
   source: JSTOR
-  title: Russian City Planning of the 18th and Early 19th Centuries
+  title: Russian city planning of the 18^th^ and early 19^th^ centuries
   type: article-journal
   URL: http://www.jstor.org/stable/901141
   volume: '4'
@@ -2358,8 +2382,9 @@ references:
   language: en-GB
   page: 256–287
   title: >-
-    The Palazzo Barberini: The Contributions of Maderno, Bernini and Pietro da
+    The palazzo Barberini: The contributions of Maderno, Bernini and Pietro da
     Cortona
+  title-short: The palazzo Barberini
   type: article-journal
   volume: '21'
 
@@ -2718,7 +2743,7 @@ references:
   language: en
   page: 91-119
   source: JSTOR
-  title: The Tendency Toward Platonism in Neo-Classical Esthetics
+  title: The tendency toward Platonism in neo-classical esthetics
   type: article-journal
   URL: http://www.jstor.org/stable/2871691
   volume: '1'
@@ -2797,6 +2822,24 @@ references:
   title: The Académie Royale des Sciences and the pursuit of utility
   type: article-journal
   URL: https://www.jstor.org/stable/650870
+
+- id: brothers:2002reconstruction
+  author:
+    - family: Brothers
+      given: Cammy
+  citation-key: brothers:2002reconstruction
+  container-title: Annali di architettura
+  issue: '14'
+  issued:
+    - year: 2002
+  language: en
+  page: 55-72
+  source: Zotero
+  title: >-
+    Reconstruction as design: Giuliano da Sangallo and the “palazo di mecenate”
+    on the Quirinal Hill
+  title-short: Reconstruction as design
+  type: article-journal
 
 - id: brown:1982classic
   author:
@@ -3062,6 +3105,23 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-33323-2_14
 
+- id: calder:2021architecture
+  author:
+    - family: Calder
+      given: Barnabas
+  citation-key: calder:2021architecture
+  event-place: Harmondsworth
+  ISBN: 978-0-241-39673-5
+  issued:
+    - year: 2021
+  language: en-GB
+  publisher: Penguin
+  publisher-place: Harmondsworth
+  source: Open WorldCat
+  title: 'Architecture: from prehistory to climate emergency'
+  title-short: Architecture
+  type: book
+
 - id: campbell:1715vitruvius
   abstract: >-
     ETH-Bibliothek (NEBIS). Campbell, Colin: Vitruvius Britannicus, or, the
@@ -3118,8 +3178,8 @@ references:
   language: en-GB
   page: 240-258
   source: JSTOR
-  title: 'The City''s New Clothes: Ambrogio Lorenzetti and the Poetics of Peace'
-  title-short: The City's New Clothes
+  title: 'The city''s new clothes: Ambrogio Lorenzetti and the poetics of peace'
+  title-short: The city's new clothes
   type: article-journal
   URL: http://www.jstor.org/stable/3177208
   volume: '83'
@@ -3157,12 +3217,38 @@ references:
   page: 596-620
   source: JSTOR
   title: >-
-    "Fare una Cosa Morta Parer Viva": Michelangelo, Rosso, and the (Un)Divinity
-    of Art
-  title-short: Fare una Cosa Morta Parer Viva
+    "Fare una cosa morta parer viva": Michelangelo, Rosso, and the (un)divinity
+    of art
+  title-short: Fare una cosa morta parer viva
   type: article-journal
   URL: http://www.jstor.org/stable/3177286
   volume: '84'
+
+- id: camus:1780genie
+  abstract: >-
+    Signatures: pi A-R S; Bound in old mottled calf; edges stained red; vii (i.
+    e. viii), 276, [4] pages 21 cm; Signatures: pi⁴ A-R⁸ S⁴
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Le Camus de Mézières
+      given: Nicolas
+  call-number: '127201'
+  citation-key: camus:1780genie
+  event-place: Paris
+  issued:
+    - year: 1780
+  language: fr
+  number-of-pages: '304'
+  publisher: L'auteur [et] chez B. Morin
+  publisher-place: Paris
+  source: Internet Archive
+  title: Le génie de l'architecture, ou l'analogie de cet art avec nos sensations
+  title-short: Le génie de l'architecture
+  type: book
+  URL: http://archive.org/details/legeniedelarchit00leca
 
 - id: canaletto:1726canal
   accessed:
@@ -3528,9 +3614,9 @@ references:
   page: 448-469
   source: Crossref
   title: >-
-    Drawing with Numbers: Geometry and Numeracy in Early Modern Architectural
-    Design
-  title-short: Drawing with Numbers
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
   volume: '62'
@@ -3634,6 +3720,33 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg
 
+- id: cataneo:1567architettura
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Cataneo
+      given: Pietro
+  citation-key: cataneo:1567architettura
+  DOI: 10.3931/e-rara-9238
+  edition: >-
+    Alla quale oltre all'essere stati dall'istesso autore riuisti, meglio
+    ordinati e di diuersi disegni, e discorsi arricchiti i primi quattro libri
+    per l'adietro stampati, sono aggiunti di piu il quinto, sesto, settimo e
+    ottauo libro ...
+  event-place: Venezia
+  issued:
+    - year: 1567
+  language: it
+  publisher: Aldo Manuzio
+  publisher-place: Venezia
+  source: Library Catalog (Visual Library 2021)
+  title: L' architettura
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-9238
+
 - id: category:bonaccorso
   accessed:
     - year: 2020
@@ -3653,6 +3766,58 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Bonaccorso_ghiberti,_veduta_della_gru_di_brunelleschi,_post_1446,_BNCF,_B.R._228,_c._106r.jpg
+
+- id: cellauro:1998palladio22
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Cellauro
+      given: Louis
+  citation-key: cellauro:1998palladio22
+  container-title: Saggi e Memorie di storia dell'arte
+  ISSN: 0392-713X
+  issued:
+    - year: 1998
+  language: it
+  page: 55-128
+  publisher: >-
+    [Fondazione Giorgio Cini Onlus, Neri Pozza Editore S.p.a., Casa Editrice Leo
+    S. Olschki s.r.l.]
+  source: JSTOR
+  title: Palladio e le illustrazioni delle edizioni del 1556 e del 1567 di Vitruvio
+  type: article-journal
+  URL: https://www.jstor.org/stable/43140099
+  volume: '22'
+
+- id: cellauro:2012architecture75
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Cellauro
+      given: Louis
+    - family: Richaud
+      given: Gilbert
+  citation-key: cellauro:2012architecture75
+  container-title: Zeitschrift für Kunstgeschichte
+  ISSN: 0044-2992
+  issue: '1'
+  issued:
+    - year: 2012
+  language: fr
+  page: 51-74
+  publisher: Deutscher Kunstverlag GmbH Munchen Berlin
+  source: JSTOR
+  title: >-
+    Architecture et physiocratie au siècle des Lumières: les ateliers et les
+    écoles d'architecture rurale de François Cointeraux, 1785-1809
+  title-short: Architecture et physiocratie au siècle des Lumières
+  type: article-journal
+  URL: https://www.jstor.org/stable/41642645
+  volume: '75'
 
 - id: chakrabarti:1998indian
   author:
@@ -4523,7 +4688,6 @@ references:
   language: fr
   source: Wikimedia Commons
   title: Vue aérienne de la ville d'Aigues Mortes
-  title-short: Français
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Aigues_mortes_vu_du_ciel_1.jpg
 
@@ -5388,6 +5552,27 @@ references:
   type: article-journal
   URL: http://revistas.usp.br/posfau/article/view/43490
 
+- id: derntl:2013metodo
+  author:
+    - family: Derntl
+      given: Maria Fernanda
+  call-number: HT169.B72 S33265 2013
+  citation-key: derntl:2013metodo
+  event-place: São Paulo
+  ISBN: 978-85-7939-157-6
+  issued:
+    - year: 2013
+  language: pt-BR
+  number-of-pages: '276'
+  publisher: Alameda
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: >-
+    Método e arte: urbanização e formação territorial na capitania de São Paulo,
+    1765-1811
+  title-short: Método e arte
+  type: book
+
 - id: desconhecido:1868provincia
   accessed:
     - year: 2020
@@ -5444,6 +5629,26 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_(Venice)_-_Portego.jpg
+
+- id: desgodets:1682edifices
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Desgodets
+      given: Antoine
+  citation-key: desgodets:1682edifices
+  event-place: Paris
+  issued:
+    - year: 1682
+  language: fr
+  number-of-pages: 'vi, 323 pages : illustrations, plans ; 44 cm'
+  publisher: J. B. Coignard
+  publisher-place: Paris
+  title: 'Les édifices antiques de Rome : dessinés et mesurés très exactement'
+  type: book
+  URL: https://digital.library.wisc.edu/1711.dl/DV7EFDVLIOW6S8A
 
 - id: desterro:2008
   abstract: >-
@@ -5587,8 +5792,8 @@ references:
   language: en-US
   page: e1201
   source: DOI.org (Crossref)
-  title: 'The Golden Beauty: Brain Response to Classical and Renaissance Sculptures'
-  title-short: The Golden Beauty
+  title: 'The golden beauty: brain response to classical and renaissance sculptures'
+  title-short: The golden beauty
   type: article-journal
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
@@ -5924,7 +6129,7 @@ references:
   URL: https://www.jstor.org/stable/1586743
   volume: '10'
 
-- id: duomo:a
+- id: 'duomo:'
   abstract: >-
     Arnolfo di Cambio had intended to cover the enormous space of 45,50 metres
     with a dome. No one really knew how to place a dome over such a wide space.
@@ -5932,7 +6137,7 @@ references:
     - year: 2020
       month: 8
       day: 1
-  citation-key: duomo:a
+  citation-key: 'duomo:'
   language: en-GB
   source: www.teggelaar.com
   title: 'The Duomo or the Santa Maria del Fiore: Brunelleschi''s Dome'
@@ -6038,7 +6243,7 @@ references:
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Google Books
-  title: Theatricality in Early Modern Art and Architecture
+  title: Theatricality in early modern art and architecture
   type: book
 
 - id: ecoimagesphotos:aerial
@@ -6105,7 +6310,7 @@ references:
   language: en-US
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
-  title: The Beaux-Arts Tradition in French Architecture
+  title: The Beaux-Arts tradition in French architecture
   type: book
 
 - id: ehrmann:1950
@@ -6298,9 +6503,9 @@ references:
   page: 205-216
   source: JSTOR
   title: >-
-    The Culture of Malaysian Urbanization: Malay and Chinese Conceptions of
-    Space
-  title-short: The Culture of Malaysian Urbanization
+    The culture of Malaysian urbanization: Malay and Chinese conceptions of
+    space
+  title-short: The culture of Malaysian urbanization
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
@@ -6381,8 +6586,8 @@ references:
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
   source: DOI.org (Crossref)
-  title: 'The Golden Rhinoceros: Histories of the African Middle Ages'
-  title-short: The Golden Rhinoceros
+  title: 'The golden rhinoceros: Histories of the African Middle Ages'
+  title-short: The golden rhinoceros
   translator:
     - family: Tice
       given: Troy
@@ -6392,6 +6597,7 @@ references:
 - id: fauvelle:2019atlas
   call-number: G2446.S1 B3 2019
   citation-key: fauvelle:2019atlas
+  collection-title: Collection Atlas/mémoires
   editor:
     - family: Fauvelle
       given: François-Xavier
@@ -6562,12 +6768,12 @@ references:
   title: "La théorie architecturale à l’âge classique\_: essai d’anthologie critique"
   type: book
 
-- id: 'file:chronological:'
+- id: 'filechronological:'
   accessed:
     - year: 2020
       month: 7
       day: 31
-  citation-key: 'file:chronological:'
+  citation-key: 'filechronological:'
   container-title: Wikipedia
   language: en
   source: Wikipedia
@@ -6730,7 +6936,7 @@ references:
   language: en
   page: 171-207
   source: DOI.org (Crossref)
-  title: Finding Meaning in Ancient Swahili Spatial Practices
+  title: Finding meaning in ancient Swahili spatial practices
   type: article-journal
   URL: http://link.springer.com/10.1007/s10437-012-9121-0
   volume: '29'
@@ -6837,14 +7043,19 @@ references:
     - family: Fletcher
       given: Banister F.
   citation-key: fletcher:1961history
-  event-place: London
+  edition: '17'
+  editor:
+    - family: Cordingley
+      given: R. A.
+  event-place: New York
   issued:
     - year: 1961
   language: en-GB
-  publisher: University of London
-  publisher-place: London
+  publisher: Charles Scribner’s Sons
+  publisher-place: New York
   title: History of architecture on the comparative method
   type: book
+  URL: https://archive.org/details/historyofarchite0000flet/
 
 - id: florimi:1600sena
   accessed:
@@ -6874,7 +7085,7 @@ references:
       month: 8
       day: 22
   citation-key: 'forbidden:'
-  language: English
+  language: en
   title: The Forbidden City 3D Model
   type: webpage
   URL: https://www.highend3d.com/3d-model/the-forbidden-city-3d-model-60598
@@ -7186,6 +7397,24 @@ references:
   title: Raffaello architetto
   type: book
 
+- id: frommel:1988roma
+  author:
+    - family: Frommel
+      given: Christoph
+  citation-key: frommel:1988roma
+  editor:
+    - family: Chastel
+      given: André
+  event: 'Andrea Palladio : nuovi contributi'
+  event-place: Vicenza
+  issued:
+    - year: 1988
+  language: it
+  page: 146-155
+  publisher-place: Vicenza
+  title: Roma e la formazione architettonica di Palladio
+  type: paper-conference
+
 - id: fu:2017traditional
   abstract: >-
     Fu Xinian is considered by many to be the world's leading historian of
@@ -7312,9 +7541,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -7394,6 +7621,87 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Accusing_the_anointers_in_the_great_plague_of_Milan_in_1630;_Wellcome_V0010581.jpg
+
+- id: garcia-pulido:2004imagenLXXVII
+  abstract: >-
+    [ES] Las representaciones iconográficas de una ciudad son siempre un valioso
+    testimonio que, cotejado y completado con otros documentos, permiten
+    aproximarse con mayor fidelidad a la morfología y estructura urbana de la
+    misma en un determinado momento histórico. De Santa Fe se ha conservado sólo
+    una imagen de excepcional valor que permite conocer su fisonomía en el
+    momento de su fundación en 1491: un tablero de la sillería del coro bajo de
+    la Catedral de Toledo. En este artículo se demuestra que dicho relieve,
+    atribuido erróneamente hasta ahora al cerco de Málaga, representa en
+    realidad al Real de la Vega y al Real de Santa Fe, con la ciudad de Granada
+    al fondo. La información contenida en esta imagen aporta datos reveladores
+    sobre la nueva ciudad y concuerda con los datos documentales contemporáneos
+    y con otras representaciones gráficas de siglos posteriores.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2004imagenLXXVII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '307'
+  issued:
+    - year: 2004
+  language: es
+  page: 247-266
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    La imagen de Santa Fe (Granada) en la sillería del coro bajo de la Catedral
+    de Toledo
+  title-short: La imagen de Santa Fe
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12784
+  volume: LXXVII
+
+- id: garcia-pulido:2005nuevasLXXVIII
+  abstract: >-
+    [ES] La Granada nazarí fue rendida mediante una larga guerra de desgaste.
+    Para culminar esta empresa, los Reyes Católicos establecieron a los largo de
+    1491 a todos sus efectivos en la vega granadina, alojando a este contingente
+    de tropas y bastimentos en las tiendas y chozas de un campamento militar, el
+    Real de la Vega. Inmediatamente se iniciaron las obras de construcción de
+    una ciudad-campamento para poder albergar una guarnición de invierno, el
+    Real de Santa Fe, donde se introdujeron alguna de las innovaciones propias
+    de la fortificación española de transición de la época medieval a la
+    moderna. Este artículo trata de desvelar cómo fueron protegidos estos dos
+    reales y cuáles fueron sus elementos más significativos, tomando como base
+    los datos contenidos en el relieve de la sillería del coro bajo de la
+    Catedral de Toledo en el que se representan estos acontecimientos.
+  accessed:
+    - year: 2022
+      month: 3
+      day: 3
+  author:
+    - family: García-Pulido
+      given: Luis José
+    - family: Orihuela
+      given: Antonio
+  citation-key: garcia-pulido:2005nuevasLXXVIII
+  container-title: Archivo Español de Arte
+  ISSN: 0004-0428
+  issue: '309'
+  issued:
+    - year: 2005
+  language: es
+  page: 23-43
+  publisher: CSIC - Instituto de Historia (IH)
+  source: digital.csic.es
+  title: >-
+    Nuevas aportaciones sobre las murallas y el sistema defensivo de Santa Fe
+    (Granada)
+  type: article-journal
+  URL: https://digital.csic.es/handle/10261/12786
+  volume: LXXVIII
 
 - id: 'garden:'
   abstract: >-
@@ -7661,6 +7969,68 @@ references:
   title-short: François Blondel
   type: book
 
+- id: germann:1991vitruve
+  author:
+    - family: Germann
+      given: Georg
+  citation-key: germann:1991vitruve
+  event-place: Lausanne
+  issued:
+    - year: 1991
+  language: fr
+  publisher: Presses Polytechniques et Universitaires Romandes
+  publisher-place: Lausanne
+  title: "Vitruve et le Vitruvianisme\_: introduction à l’histoire de la théorie architecturale"
+  type: book
+
+- id: geymueller:1898baukunst1
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Geymüller
+      given: Heinrich Adolf
+      dropping-particle: von
+  citation-key: geymueller:1898baukunst1
+  issued:
+    - year: 1898
+  language: German
+  number-of-pages: '362'
+  publisher: 'A. Bergsträsser : A . Kröner'
+  source: Internet Archive
+  title: Die Baukunst der Renaissance in Frankreich
+  type: book
+  URL: http://archive.org/details/diebaukunstderr01geymgoog
+  volume: '1'
+
+- id: geymueller:1901baukunst2
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Geymüller
+      given: Heinrich Adolf
+      dropping-particle: von
+  citation-key: geymueller:1901baukunst2
+  issued:
+    - year: 1901
+  language: German
+  number-of-pages: '372'
+  publisher: Kröner
+  source: Internet Archive
+  title: Die Baukunst der Renaissance in Frankreich
+  type: book
+  URL: http://archive.org/details/diebaukunstderr00geymgoog
+  volume: '2'
+
 - id: ghaidan:1974lamu
   author:
     - family: Ghaidan
@@ -7674,7 +8044,7 @@ references:
   publisher: University of Nairobi
   publisher-place: Nairobi
   source: Zotero
-  title: 'Lamu: Case Study of the Swahili Town'
+  title: 'Lamu: case study of the Swahili town'
   title-short: Lamu
   type: thesis
 
@@ -8137,7 +8507,7 @@ references:
   page: 7-7.12
   source: disegnarecon.univaq.it
   title: >-
-    Parametric grammar: the shape of villa giulia, between cognitive coherence
+    Parametric grammar: the shape of Villa Giulia, between cognitive coherence
     and data enrichment
   title-short: Parametric grammar
   type: article-journal
@@ -8224,8 +8594,7 @@ references:
   language: en-GB
   page: 1-13
   source: JSTOR
-  title: 'Yingzao Fashi: twelfth-century Chinese building manual'
-  title-short: Yingzao fashi
+  title: '*Yingzao Fashi*: twelfth-century Chinese building manual'
   type: article-journal
   URL: https://www.jstor.org/stable/1568644
   volume: '41'
@@ -8460,7 +8829,7 @@ references:
   publisher: Routledge
   publisher-place: 'London : New York'
   source: Google Books
-  title: Vernacular Architecture in the Pre-Columbian Americas
+  title: Vernacular architecture in the pre-Columbian Americas
   type: book
 
 - id: halun:2009humble
@@ -8615,7 +8984,7 @@ references:
   language: en-GB
   page: 67-94
   source: JSTOR
-  title: 'Raphael and Giulio Romano: With Notes on the Raphael School'
+  title: 'Raphael and Giulio Romano: With notes on the Raphael school'
   title-short: Raphael and Giulio Romano
   type: article-journal
   URL: http://www.jstor.org/stable/3046936
@@ -8840,6 +9209,7 @@ references:
     - year: 1958
   language: en-GB
   page: 23-53
+  publisher: '[Taylor & Francis, Ltd., College Art Association]'
   source: JSTOR
   title: Antoine Desgodets and the Académie Royale d'Architecture
   type: article-journal
@@ -8879,7 +9249,7 @@ references:
   language: en-US
   page: 71-89
   source: JSTOR
-  title: Associationism and Sensibility in Eighteenth-Century Architecture
+  title: Associationism and sensibility in eighteenth-century architecture
   type: article-journal
   URL: https://www.jstor.org/stable/2737614
   volume: '4'
@@ -9008,17 +9378,18 @@ references:
       given: Deborah
   citation-key: howard:2003venice62
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/3592517
   ISSN: 00379808, 21505926
   issue: '3'
   issued:
     - year: 2003
       month: 9
-  language: en-US
+  language: en
   page: 306-325
   source: Crossref
   title: >-
-    Venice between East and West: Marc'Antonio Barbaro and Palladio's Church of
+    Venice between East and West: Marc'Antonio Barbaro and Palladio's church of
     the Redentore
   title-short: Venice between East and West
   type: article-journal
@@ -9074,7 +9445,7 @@ references:
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
-  title: Broederstroom and the origins of cattle ‐ keeping in Southern Africa
+  title: Broederstroom and the origins of cattle-keeping in Southern Africa
   type: article-journal
   URL: https://doi.org/10.1080/00020189008707724
   volume: '49'
@@ -9428,9 +9799,9 @@ references:
   page: 28–69
   source: Crossref
   title: >-
-    De-Scribing the Language of Looking: Wölfflin and the History of Aesthetic
-    Experientialism
-  title-short: De-Scribing the Language of Looking
+    De-scribing the language of looking: Wölfflin and the history of aesthetic
+    experientialism
+  title-short: De-scribing the language of looking
   type: article-journal
   URL: https://www.jstor.org/stable/3171230?origin=crossref
 
@@ -9838,7 +10209,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Angelika_Kaufmann).jpg
 
-- id: kaufmann:1952three42
+- id: kaufmann:1936claude8
   accessed:
     - year: 2020
       month: 8
@@ -9847,22 +10218,90 @@ references:
   author:
     - family: Kaufmann
       given: Emil
-  citation-key: kaufmann:1952three42
-  container-title: Transactions of the American Philosophical Society
-  DOI: 10.2307/1005689
-  ISSN: 0065-9746
+  citation-key: kaufmann:1936claude8
+  container-title: Parnassus
+  DOI: 10.2307/771111
+  ISSN: 1543-6314
+  issue: '5'
+  issued:
+    - year: 1936
+  language: en
+  page: 16-18
+  publisher: '[College Art Association, Taylor & Francis, Ltd.]'
+  source: JSTOR
+  title: >-
+    Claude Nicolas Ledoux. A pioneer of modern architecture in the eighteenth
+    century
+  type: article-journal
+  URL: https://www.jstor.org/stable/771111
+  volume: '8'
+
+- id: kaufmann:1943claude-nicolas3
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1943claude-nicolas3
+  container-title: Journal of the American Society of Architectural Historians
+  DOI: 10.2307/901223
+  ISSN: 1544-9890
   issue: '3'
   issued:
-    - year: 1952
-  language: en-US
-  page: 431-564
-  publisher: American Philosophical Society
+    - year: 1943
+  language: en
+  page: 12-20
+  publisher: '[University of California Press, Society of Architectural Historians]'
   source: JSTOR
-  title: 'Three Revolutionary Architects: Boullée, Ledoux, and Lequeu'
-  title-short: Three Revolutionary Architects
+  title: Claude-Nicolas Ledoux, inaugurator of a new architectural system
   type: article-journal
+  URL: https://www.jstor.org/stable/901223
+  volume: '3'
+
+- id: kaufmann:1952three
+  accessed:
+    - year: 2020
+      month: 8
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1952three
+  collection-number: v. 42 pt. 3
+  collection-title: Transactions of the American Philosophical Society
+  DOI: 10.2307/1005689
+  event-place: Philadelphia, Penn.
+  ISSN: 0065-9746
+  issued:
+    - year: 1952
+      month: 10
+  language: en-US
+  publisher: American Philosophical Society
+  publisher-place: Philadelphia, Penn.
+  source: JSTOR
+  title: 'Three revolutionary architects: Boullée, Ledoux, and Lequeu'
+  title-short: Three revolutionary architects
+  type: book
   URL: https://www.jstor.org/stable/1005689
-  volume: '42'
+
+- id: kaufmann:1968three
+  author:
+    - family: Kaufmann
+      given: Emil
+  citation-key: kaufmann:1968three
+  event-place: Philadelphia
+  issued:
+    - year: 1968
+  language: en
+  publisher: The American Philosophical Society
+  publisher-place: Philadelphia
+  source: Open WorldCat
+  title: Three revolutionary architects, Boullée, Ledoux, and Lequeu
+  type: book
 
 - id: keete37:2014interior
   accessed:
@@ -10022,6 +10461,25 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_006.jpg
+
+- id: kirk:2005architecture1
+  author:
+    - family: Kirk
+      given: Terry
+  call-number: NA1114 .K574 2005
+  citation-key: kirk:2005architecture1
+  event-place: New York
+  ISBN: 978-1-56898-438-4 978-1-56898-420-9 978-1-56898-436-0
+  issued:
+    - year: 2005
+  language: en
+  number-of-volumes: '2'
+  publisher: Princeton Architectural Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: The architecture of modern Italy
+  type: book
+  volume: '1'
 
 - id: kisacky:2001history60
   abstract: >-
@@ -10408,7 +10866,7 @@ references:
     - family: Langhein
       given: Joachim
   citation-key: langhein:2013proportion
-  container-title: INTBAU Ideas and Opinions
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
   issue: '10'
   issued:
     - year: 2013
@@ -10532,7 +10990,7 @@ references:
   publisher: Hennessey & Ingalls
   publisher-place: Los Angeles
   source: Google Books
-  title: An Essay on Architecture
+  title: An essay on architecture
   translator:
     - family: Herrmann
       given: Wolfgang
@@ -10926,6 +11384,33 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Guillaume_Guillon_Lethi%C3%A8re_-_Patrie_en_danger_01.jpg
 
+- id: lett:2017lautheur
+  abstract: "Cet article traite de l’implication de Charles Le\_Brun sur le chantier de l’escalier des Ambassadeurs. L’analyse des comptes des Bâtiments du roi permet de mettre en évidence l’arrivée tardive du premier peintre de Louis\_XIV sur ce chantier, alors qu’il n’existait pas d’escalier peint dans les résidences princières européennes. Bien que l’architecture fût inventée vraisemblablement sans son intervention, de nombreuses sources imprimées, en particulier une série d’articles parus dans le Mercure galant dans les années 1680, considèrent Le\_Brun comme l’auteur de l’ensemble de l’ouvrage, y compris de l’architecture. S’il est probable que l’on ait fait appel à lui en raison de l’étroitesse du lieu et du choix de représenter l’histoire du roi, Le\_Brun a saisi l’opportunité de prouver ses capacités à unir les arts de l’architecture, de la sculpture et de la peinture. L’accès restreint du lieu, qui ne permettait de voir son œuvre que dans les conditions exceptionnelles des fêtes, a sans doute contribué à renforcer le désir de l’artiste de contrôler la réception de son œuvre."
+  accessed:
+    - year: 2022
+      month: 2
+      day: 24
+  author:
+    - family: Lett
+      given: Matthieu
+  citation-key: lett:2017lautheur
+  container-title: Bulletin du Centre de recherche du château de Versailles
+  DOI: 10.4000/crcv.14452
+  ISSN: 1958-9271
+  issued:
+    - year: 2017
+      month: 11
+      day: 14
+  language: fr
+  publisher: Centre de recherche du château de Versailles
+  source: journals.openedition.org
+  title: >-
+    « L’autheur de ce magnifique ouvrage » : Charles Le Brun et la réception de
+    l’escalier des Ambassadeurs
+  title-short: « L’autheur de ce magnifique ouvrage »
+  type: article-journal
+  URL: https://journals.openedition.org/crcv/14452
+
 - id: li:09--buddhist
   accessed:
     - year: 2020
@@ -11004,9 +11489,9 @@ references:
   page: 470-489
   source: JSTOR
   title: >-
-    Reconstituting Chinese Building Tradition: The Yingzao fashi in the Early
-    Twentieth Century
-  title-short: Reconstituting Chinese Building Tradition
+    Reconstituting Chinese building tradition: the *Yingzao Fashi* in the early
+    twentieth century
+  title-short: Reconstituting Chinese building tradition
   type: article-journal
   URL: http://www.jstor.org/stable/3592498
   volume: '62'
@@ -11103,8 +11588,8 @@ references:
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
   source: Amazon
-  title: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
-  title-short: The Malay House
+  title: 'The Malay house: rediscovering Malaysia''s indigenous shelter system'
+  title-short: The Malay house
   type: book
 
 - id: linares:2013chard
@@ -11359,6 +11844,52 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ambrogio_lorenzetti,_storie_di_san_nicola,_da_s._procolo_a_firenze,_1332-34_ca._(uffizi)_02_elemosina_della_dote_per_tre_fanciulle_povere_00.jpg
 
+- id: lorini:1609fortificationi
+  accessed:
+    - year: 2022
+      month: 3
+      day: 2
+  archive_location: E01
+  author:
+    - family: Lorini
+      given: Buonaiuto
+  citation-key: lorini:1609fortificationi
+  DOI: 10.3931/e-rara-46829
+  edition: >-
+    Nvovamente ristampate, corrette & ampliate di tutto quello che mancaua per
+    la lor compita perfettione, con l'aggivnta del sesto libro
+  event-place: Venetia
+  issued:
+    - year: 1609
+  language: it
+  publisher: Francesco Rampazetto
+  publisher-place: Venetia
+  source: Library Catalog (Visual Library 2021)
+  title: Le fortificationi
+  type: book
+  URL: http://dx.doi.org/10.3931/e-rara-46829
+
+- id: loth:2014can
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Loth
+      given: Calder
+  citation-key: loth:2014can
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2014
+      month: 6
+      day: 4
+  language: en
+  title: Can we trust Palladio? Antoine Desgodetz details Palladio’s inaccuracies
+  title-short: Can we trust Palladio?
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/
+
 - id: lotz:1998arquitetura
   author:
     - family: Lotz
@@ -11435,7 +11966,7 @@ references:
   container-title: Clio-Mexico-luiselli
   issued:
     - literal: jueves, 19 de septiembre de 2013
-  language: es-MX
+  language: es
   title: Chinampas
   title-short: Clio-Mexico-luiselli
   type: post-weblog
@@ -11773,16 +12304,16 @@ references:
 - id: mallgrave:2017companions
   call-number: NA200 .C64 2017
   citation-key: mallgrave:2017companions
-  editor:
+  collection-editor:
     - family: Mallgrave
       given: Harry Francis
   event-place: Chichester, West Sussex ; Malden, Mass.
   ISBN: 978-1-4443-3851-5
   issued:
     - year: 2017
-  language: en-GB
-  number-of-pages: '4'
-  publisher: 'Wiley : Blackwell'
+  language: en
+  number-of-volumes: '4'
+  publisher: Wiley Blackwell
   publisher-place: Chichester, West Sussex ; Malden, Mass.
   source: Library of Congress ISBN
   title: The companions to the history of architecture
@@ -11829,9 +12360,9 @@ references:
   publisher-place: Mankon
   source: JSTOR
   title: >-
-    The Politics of Community Resilience: A Closer Look into the Settlement
-    Hierarchy of Zimbabwe
-  title-short: The Politics of Community Resilience
+    The politics of community resilience: A closer look into the settlement
+    hierarchy of Zimbabwe
+  title-short: The politics of community resilience
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvgc61mv.11
 
@@ -12011,6 +12542,61 @@ references:
   type: graphic
   URL: >-
     http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&resultForward=opac/unifi/full.jsp&nentries=10&searchForm=opac/unifi/error.jsp&do_cmd=search_show_cmd&fname=none&item:13:bib.dc.identifier=TO00193721_1_1878_1_1-12_sp017
+
+- id: marin:2003policesno50-1
+  abstract: >-
+    Brigitte MARIN Les polices royales de Madrid et de Naples (fin
+    XVIIIe-d&#233;but XIXesi&#232;cle): conceptions, fonctions et r&#233;formes
+    des divisions du territoire urbain Dans le dernier tiers du
+    XVIIIesi&#232;cle, Naples et Madrid connaissent une profonde r&#233;forme
+    des institutions de police, fond&#233;e sur un nouveau d&#233;coupage de
+    l&#8217;espace urbain (en douze quartieri&#224; Naples, en huit cuarteleset
+    soixante-quatre barrios &#224; Madrid) qui doit garantir
+    l&#8217;efficacit&#233; nouvelle attendue des officiers. La police urbaine
+    se pr&#233;sente comme une institution profond&#233;ment
+    territorialis&#233;e qui exige des divisions de l&#8217;espace
+    sp&#233;cifiques, rationalis&#233;es et r&#233;fl&#233;chies, pour une bonne
+    r&#233;partition des forces de police. La formation des nouvelles
+    circonscriptions et l&#8217;&#233;tablissement de leurs limites donnent
+    lieu, au sein des administrations, &#224; des d&#233;bats qui
+    d&#233;bouchent sur des ajustements et modifications jusqu&#8217;au
+    d&#233;but du XIXesi&#232;cle. L&#8217;&#233;tude s&#8217;attache aux
+    crit&#232;res et aux exigences qui ont pr&#233;sid&#233; &#224; la formation
+    et aux r&#233;formes successives de ces circonscriptions, aux outils en
+    usage pour en d&#233;terminer les confins, ainsi qu&#8217;&#224; leurs
+    rapports avec les autres quadrillages de l&#8217;espace li&#233;s aux
+    diff&#233;rentes branches de l&#8217;administration urbaine, comme les
+    paroisses ou les circonscriptions municipales.Les contraintes
+    particuli&#232;res rencontr&#233;es par les r&#233;formateurs de la police,
+    en fonction de la s&#233;dimentation institutionnelle et de ses
+    cons&#233;quences territoriales, propres &#224; chacune des deux situations,
+    &#233;clairent les enjeux vari&#233;s que repr&#233;sentent ces
+    modifications de l&#8217;encadrement territorial des populations urbaines.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 1
+  author:
+    - family: Marin
+      given: Brigitte
+  citation-key: marin:2003policesno50-1
+  container-title: Revue dhistoire moderne contemporaine
+  ISSN: 0048-8003
+  issue: '1'
+  issued:
+    - year: 2003
+  language: fr
+  page: 81-103
+  publisher: Belin
+  source: www.cairn.info
+  title: >-
+    Les polices royales de Madrid et de Naples et les divisions du territoire
+    urbain (fin <span class="smallcaps">XVIII</span>^e^-début <span
+    class="smallcaps">XIX</span>^e^ siècle)
+  type: article-journal
+  URL: >-
+    https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2003-1-page-81.htm
+  volume: no50-1
 
 - id: 'mars:'
   accessed:
@@ -12318,10 +12904,37 @@ references:
   language: en-US
   page: 140-148
   source: Crossref
-  title: Jacques François Blondel and the "Cours d'Architecture"
+  title: Jacques François Blondel and the *Cours d'Architecture*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/987903
   volume: '18'
+
+- id: middleton:1962abbe25
+  accessed:
+    - year: 2021
+      month: 5
+      day: 13
+  author:
+    - family: Middleton
+      given: Robin D.
+  citation-key: middleton:1962abbe25
+  container-title: Journal of the Warburg and Courtauld Institutes
+  DOI: 10.2307/750811
+  ISSN: 0075-4390
+  issue: 3/4
+  issued:
+    - year: 1962
+  language: en-GB
+  page: 278-320
+  publisher: Warburg Institute
+  source: JSTOR
+  title: >-
+    The abbé de Cordemoy and the Graeco-Gothic ideal: A prelude to romantic
+    classicism
+  title-short: The abbé de Cordemoy and the Graeco-Gothic ideal
+  type: article-journal
+  URL: https://www.jstor.org/stable/750811
+  volume: '25'
 
 - id: middleton:1982beauxarts
   citation-key: middleton:1982beauxarts
@@ -12334,7 +12947,7 @@ references:
   language: en-GB
   publisher: Thames & Hudson
   publisher-place: London
-  title: The Beaux-Arts and Nineteenth-Century French Architecture
+  title: The Beaux-Arts and nineteenth-century French architecture
   type: book
 
 - id: middleton:1985architects
@@ -12512,6 +13125,35 @@ references:
   URL: http://www.jstor.org/stable/988682
   volume: '31'
 
+- id: millon:2010review69
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - family: Millon
+      given: Henry
+  citation-key: millon:2010review69
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.1525/jsah.2010.69.3.444
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 2010
+  language: en
+  page: 444-446
+  publisher: '[Society of Architectural Historians, University of California Press]'
+  reviewed-author:
+    - family: Cellauro
+      given: Louis
+    - family: Richaud
+      given: Gilbert
+  source: JSTOR
+  title: Review of Antoine Desgodets, *Les édifices antiques de Rome*
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.1525/jsah.2010.69.3.444
+  volume: '69'
+
 - id: mingzhi:1875inner
   accessed:
     - year: 2020
@@ -12583,7 +13225,7 @@ references:
       day: 18
   language: en
   source: Blogger
-  title: 'The Establishment of ''Air House'' Standard in Tropical Countries : Part 2'
+  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
   URL: >-
     http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
@@ -12635,6 +13277,20 @@ references:
   type: article-journal
   URL: https://strathprints.strath.ac.uk/53996/
   volume: '9'
+
+- id: moneo:1978typology
+  author:
+    - family: Moneo
+      given: Rafael
+  citation-key: moneo:1978typology
+  container-title: Oppositions
+  issued:
+    - year: 1978
+  language: en-US
+  page: 23–45
+  title: On typology
+  type: article-journal
+  volume: '13'
 
 - id: montano:1638architettvra
   abstract: >-
@@ -13020,8 +13676,9 @@ references:
   page: 669-685
   source: JSTOR
   title: >-
-    Concepts of Abstraction in French Art Theory from the Enlightenment to
+    Concepts of abstraction in French art theory from the Enlightenment to
     Modernism
+  title-short: Concepts of abstraction
   type: article-journal
   URL: https://www.jstor.org/stable/2709943
   volume: '53'
@@ -13106,9 +13763,9 @@ references:
   page: 6-29
   source: Crossref
   title: >-
-    Guarini and the Pursuit of Originality: The Church for Lisbon and Related
-    Projects
-  title-short: Guarini and the Pursuit of Originality
+    Guarini and the pursuit of originality: the church for Lisbon and related
+    projects
+  title-short: Guarini and the pursuit of originality
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/991402
   volume: '57'
@@ -13133,7 +13790,7 @@ references:
   language: en-US
   page: 202-208
   source: Crossref
-  title: The Authenticity of Guarini's Stereotomy in His "Architettura Civile"
+  title: The authenticity of Guarini's stereotomy in his *Architettura civile*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988502
   volume: '27'
@@ -13214,6 +13871,26 @@ references:
   title-short: Studi per una operante storia urbana di Venezia
   type: article-journal
   volume: <span class="smallcaps">IX</span>
+
+- id: muratori:1967civilta
+  accessed:
+    - year: 2020
+      month: 1
+      day: 16
+  author:
+    - family: Muratori
+      given: Saverio
+  citation-key: muratori:1967civilta
+  event-place: Roma
+  issued:
+    - year: 1967
+  language: it
+  publisher: Centro studi di storia urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: Civiltà e territorio
+  type: book
+  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
 
 - id: muratori:1978metodologia
   author:
@@ -13689,7 +14366,7 @@ references:
   ISBN: 978-84-8427-119-2
   issued:
     - year: 2001
-  language: Spanish
+  language: es
   publisher: Ediciones de la Universidad de Castilla-La Mancha
   publisher-place: Cuenca
   source: ruidera.uclm.es
@@ -13778,12 +14455,12 @@ references:
     - year: 2014
       month: 3
       day: 1
-  language: English
+  language: en
   page: 59-85
   source: Springer Link
   title: >-
-    An Ethnographic and Space Syntax Analysis of Benin Kingdom Nobility
-    Architecture
+    An ethnographic and space syntax analysis of Benin kingdom nobility
+    architecture
   type: article-journal
   URL: https://doi.org/10.1007/s10437-014-9151-x
   volume: '31'
@@ -13848,9 +14525,9 @@ references:
   publisher: Scientific & Academic Publishing
   source: article.sapub.org
   title: >-
-    From Home Owners Perspective, “*Ikun* Concept*”* of Design in Benin,
-    Nigeria: Some Like It Some Don’t
-  title-short: From Home Owners Perspective, “*Ikun* Concept*”* of Design in Benin, Nigeria
+    From home owners perspective, “*ikun* concept*”* of design in Benin,
+    Nigeria: some like it some don’t
+  title-short: From home owners perspective, “*ikun* concept*”* of design in benin, nigeria
   type: article-journal
   URL: >-
     Benin domestic courtyard design is as old as Benin kingdom (40 BC). The Edos
@@ -14019,7 +14696,9 @@ references:
   language: pt-BR
   publisher: Unesco
   publisher-place: Brasília
-  title: África do Século XVI ao XVIII
+  title: >-
+    África do século <span class="smallcaps">XVI</span> ao <span
+    class="smallcaps">XVIII</span>
   type: book
 
 - id: oliveras:1998nuevas
@@ -14097,7 +14776,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Firenze_kosciol_Santa_Maria_Novella_3.jpg
 
-- id: overton:1774
+- id: overton:1774temple
   abstract: >-
     First published in 1766 as: Original designs of temples and other ornamental
     buildings for parks and gardens, in the Greek, Roman, and Gothic taste;
@@ -14116,7 +14795,7 @@ references:
     - family: Taylor
       given: Isaac
   call-number: '283927'
-  citation-key: overton:1774
+  citation-key: overton:1774temple
   event-place: London
   issued:
     - year: 1774
@@ -14306,7 +14985,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: en-GB
+  language: en
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -14469,12 +15148,30 @@ references:
   issued:
     - year: 1668
       circa: true
+  language: fr
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Vue du château et des jardins de Versailles, prise de l'avenue de Paris
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
+
+- id: patetta:1975larchitettura
+  author:
+    - family: Patetta
+      given: Luciano
+  citation-key: patetta:1975larchitettura
+  event-place: Milano
+  issued:
+    - year: 1975
+  language: it
+  number-of-pages: '412'
+  publisher: G. Mazzotta
+  publisher-place: Milano
+  source: Google Books
+  title: 'L''architettura dell''eclettismo: fonti, teorie, modelli 1750-1900'
+  title-short: L'architettura dell'eclettismo
+  type: book
 
 - id: patte:1769memoires
   abstract: >-
@@ -14506,6 +15203,39 @@ references:
   title: Mémoires sur les objets les plus importans de l'architecture
   type: book
   URL: http://archive.org/details/memoiressurlesob00patt
+
+- id: patte:1770memoire
+  abstract: >-
+    Signatures: A-D⁴ E⁴(-E4); Errata, p. 38; Binding: 19th-century blue and
+    black marbled paper. Hand-written title on slips affixed to front cover and
+    spine
+  accessed:
+    - year: 2017
+      month: 11
+      day: 24
+  author:
+    - family: Patte
+      given: Pierre
+  call-number: '9928785910001551'
+  citation-key: patte:1770memoire
+  event-place: Paris
+  issued:
+    - year: 1770
+  language: fr-FR
+  number-of-pages: '52'
+  publisher: Gueffier
+  publisher-place: Paris
+  source: Internet Archive
+  title: >-
+    Mémoire sur la construction de la coupole, projettée pour couronner la
+    nouvelle église de Sainte Genevieve à Paris : ou il est question de prouver
+    que les piliers déja exécutés & destinés à porter cette coupole, n'ont point
+    les dimensions nécessaires pour espérer d'y élever un semblable ouvrage avec
+    solidité : problesme adressé à toutes les sociétés savantes, aux ingenieurs,
+    aux architects, et à ceux qui se connoissent en construction
+  title-short: Mémoire sur la construction de la coupole
+  type: book
+  URL: http://archive.org/details/memoiresurlacons00patt
 
 - id: payne:1994rudolf
   abstract: >-
@@ -14547,7 +15277,7 @@ references:
   language: en-US
   page: 322-342
   source: JSTOR
-  title: Rudolf Wittkower and Architectural Principles in the Age of Modernism
+  title: Rudolf Wittkower and architectural principles in the age of modernism
   type: article-journal
   URL: http://www.jstor.org/stable/990940
   volume: '53'
@@ -14746,6 +15476,30 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
 
+- id: perez-gomez:1982architecture36
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Pérez-Gómez
+      given: Alberto
+  citation-key: perez-gomez:1982architecture36
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424613
+  ISSN: '01492993'
+  issue: '2'
+  issued:
+    - year: 1982
+      season: 4
+  language: en-US
+  page: '2'
+  source: Crossref
+  title: Architecture as drawing
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424613?origin=crossref
+  volume: '36'
+
 - id: perez-gomez:1983architecture
   author:
     - family: Pérez-Gómez
@@ -14762,30 +15516,6 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Architecture and the crisis of modern science
   type: book
-
-- id: perez-gomez:24architecture36
-  accessed:
-    - year: 2019
-      month: 5
-      day: 15
-  author:
-    - family: Pérez-Gómez
-      given: Alberto
-  citation-key: perez-gomez:24architecture36
-  container-title: Journal of Architectural Education
-  DOI: 10.2307/1424613
-  ISSN: '01492993'
-  issue: '2'
-  issued:
-    - year: 1982
-      season: 4
-  language: en-US
-  page: '2'
-  source: Crossref
-  title: Architecture as Drawing
-  type: article-journal
-  URL: https://www.jstor.org/stable/1424613?origin=crossref
-  volume: '36'
 
 - id: pergiel:2016medici
   accessed:
@@ -14817,7 +15547,7 @@ references:
       given: Jean-Marie
   citation-key: perouse:1977sixieme36
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/989279
   ISSN: 0037-9808
   issue: '4'
@@ -14828,8 +15558,8 @@ references:
   page: 223-240
   source: JSTOR
   title: >-
-    Le Sixième Ordre d'Architecture, ou la Pratique des Ordres Suivant les
-    Nations
+    Le sixième ordre d'architecture, ou la pratique des ordres suivant les
+    nations
   type: article-journal
   URL: http://www.jstor.org/stable/989279
   volume: '36'
@@ -14849,8 +15579,9 @@ references:
   publisher-place: Paris
   source: Open WorldCat
   title: >-
-    L'architecture à la française: du milieu du XV^e^ à la fin du XVIII^e^
-    siècle
+    L'architecture à la française: du milieu du <span
+    class="smallcaps">XV</span>^e^ à la fin du <span
+    class="smallcaps">XVIII</span>^e^ siècle
   title-short: L'architecture à la française
   type: book
 
@@ -14863,9 +15594,9 @@ references:
   issued:
     - year: 1989
   language: fr-FR
-  publisher: Mengès / Caisse nationale des monuments historiques et des sites
+  publisher: 'Mengès : Caisse nationale des monuments historiques et des sites'
   publisher-place: Paris
-  title: Histoire de l’Architecture Française
+  title: Histoire de l’architecture française
   type: book
   volume: '2'
 
@@ -15078,6 +15809,24 @@ references:
   title-short: Mapping and charting in early modern England and France
   type: book
 
+- id: petzet:1961soufflots
+  author:
+    - family: Petzet
+      given: Michael
+  citation-key: petzet:1961soufflots
+  ISBN: 978-3-11-003271-0
+  issued:
+    - year: 1961
+  language: de
+  number-of-pages: '218'
+  publisher: Walter de Gruyter
+  source: Google Books
+  title: >-
+    Soufflots Sainte-Geneviève und der französische Kirchenbau des 18
+    Jahrhunderts
+  title-short: Petzet
+  type: book
+
 - id: petzet:2000claude
   author:
     - family: Petzet
@@ -15221,7 +15970,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1680
-  language: Portuguese
+  language: pt
   publisher: Antonio Craesbeeck de Mello
   publisher-place: Lisboa
   source: catalogo.bnportugal.gov.pt Library Catalog
@@ -15233,6 +15982,27 @@ references:
   title-short: Methodo lusitanico
   type: book
   URL: http://purl.pt/24485
+
+- id: pinon:2006teoria
+  author:
+    - family: Piñón
+      given: Helio
+  call-number: MLCM 2007/40331 (N)
+  citation-key: pinon:2006teoria
+  collection-number: '24'
+  collection-title: Col·lecció d'Arquitectura
+  edition: '1'
+  event-place: Barcelona
+  ISBN: 978-84-8301-847-7
+  issued:
+    - year: 2006
+  language: es
+  number-of-pages: '221'
+  publisher: Universitat Politècnica de Catalunya
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: Teoría del proyecto
+  type: book
 
 - id: piotrowski:2001discipline
   call-number: NA2750 .D485 2001
@@ -15450,7 +16220,7 @@ references:
   language: en
   page: 123–132
   source: JSTOR
-  title: Cloister, Court and City Square
+  title: Cloister, court and city square
   type: article-journal
   URL: http://www.jstor.org/stable/766639
   volume: '12'
@@ -15553,6 +16323,29 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvndv7rf.18
 
+- id: preciado:2015restif
+  accessed:
+    - year: 2022
+      month: 4
+      day: 24
+  author:
+    - family: Preciado
+      given: Paul B.
+  citation-key: preciado:2015restif
+  collection-title: Documenta 14
+  container-title: South
+  issue: '6'
+  issued:
+    - year: 2015
+  language: en
+  title: >-
+    Restif de la Bretonne’s state brothel: sperm, sovereignty, and debt in the
+    eighteenth-century utopian construction of Europe
+  title-short: Restif de la bretonne’s state brothel
+  type: article-journal
+  URL: >-
+    http://www.documenta14.de/en/south/45_restif_de_la_bretonne_s_state_brothel_sperm_sovereignty_and_debt_in_the_eighteenth_century_utopian_construction_of_europe
+
 - id: price:1735british
   abstract: >-
     Signatures: A⁴ a1 B⁴(-B4) C-H⁴,²A²,²B-C⁴; "A supplement to The British
@@ -15637,7 +16430,7 @@ references:
   language: en
   page: 32-74
   source: JSTOR
-  title: The Architecture of Islam in West Africa
+  title: The architecture of Islam in West Africa
   type: article-journal
   URL: http://www.jstor.org/stable/3334324
   volume: '1'
@@ -15807,6 +16600,27 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Campo_di_San_Giovanni_e_Paolo,_Venice.jpg#
 
+- id: rabreau:1972soufflot130
+  accessed:
+    - year: 2017
+      month: 11
+      day: 27
+  author:
+    - family: Rabreau
+      given: Daniel
+  citation-key: rabreau:1972soufflot130
+  container-title: Bulletin Monumental
+  issue: '4'
+  issued:
+    - year: 1972
+  language: fr
+  page: 359-362
+  source: www.persee.fr
+  title: Soufflot et l'église Sainte-Geneviève
+  type: article-journal
+  URL: http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982
+  volume: '130'
+
 - id: raffaellosanzio:1509disputa
   accessed:
     - year: 2020
@@ -15904,7 +16718,7 @@ references:
     - year: 2017
       month: 7
       day: 5
-  language: English
+  language: en
   title: Il Redentore, Palladio Venice, Italy
   type: post-weblog
   URL: >-
@@ -16331,8 +17145,8 @@ references:
   page: 155-172
   source: Crossref
   title: >-
-    Sebastiano Serlio's Late Style in the Avery Library Version of the Sixth
-    Book on Domestic Architecture
+    Sebastiano Serlio's late style in the Avery library version of the *Sixth
+    book on domestic architecture*
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988555
   volume: '28'
@@ -16623,7 +17437,7 @@ references:
   language: en-GB
   page: '81'
   source: Crossref
-  title: Raphael, Angelo Colocci, and the Genesis of the Architectural Orders
+  title: Raphael, Angelo Colocci, and the genesis of the architectural orders
   type: article-journal
   URL: https://www.jstor.org/stable/3046004?origin=crossref
   volume: '76'
@@ -16728,10 +17542,11 @@ references:
   event-place: New York
   issued:
     - year: 2002
-  language: en-US
+  language: en
   publisher: Scribner
   publisher-place: New York
-  title: 'The Perfect House: A journey with the Renaissance architect Andrea Palladio'
+  title: 'The perfect house: A journey with the Renaissance architect Andrea Palladio'
+  title-short: The perfect house
   type: book
 
 - id: rykwert:1991first
@@ -17318,25 +18133,6 @@ references:
   URL: >-
     https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
-- id: saverio:1967civilta
-  accessed:
-    - year: 2020
-      month: 1
-      day: 16
-  author:
-    - literal: Saverio Muratori
-  citation-key: saverio:1967civilta
-  event-place: Roma
-  issued:
-    - year: 1967
-  language: it
-  publisher: Centro studi di storia urbanistica
-  publisher-place: Roma
-  source: Open WorldCat
-  title: Civiltà e territorio
-  type: book
-  URL: http://books.google.com/books?id=RtE8AQAAIAAJ
-
 - id: savin:2018fasil
   accessed:
     - year: 2020
@@ -17394,7 +18190,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
 
-- id: schapiro:24criteria1
+- id: schapiro:1970criteria1
   accessed:
     - year: 2019
       month: 8
@@ -17406,7 +18202,7 @@ references:
       given: H. W.
     - family: Gombrich
       given: E. H.
-  citation-key: schapiro:24criteria1
+  citation-key: schapiro:1970criteria1
   container-title: New Literary History
   DOI: 10.2307/468623
   ISSN: '00286087'
@@ -17417,7 +18213,7 @@ references:
   language: en
   page: '113'
   source: Crossref
-  title: Criteria of Periodization in the History of European Art
+  title: Criteria of periodization in the history of European art
   type: article-journal
   URL: https://www.jstor.org/stable/468623?origin=crossref
   volume: '1'
@@ -17441,6 +18237,28 @@ references:
   title-short: Architecture and model building
   type: book
 
+- id: schneider:1910esthetique
+  accessed:
+    - year: 2017
+      month: 11
+      day: 28
+  author:
+    - family: Schneider
+      given: René
+  call-number: N 7483 .Q3 S34 1910
+  citation-key: schneider:1910esthetique
+  event-place: Paris
+  issued:
+    - year: 1910
+  language: fr
+  number-of-pages: '202'
+  publisher: Hachette
+  publisher-place: Paris
+  source: Internet Archive
+  title: L’esthétique classique chez Quatremère de Quincy (1805–1823)
+  type: book
+  URL: http://archive.org/details/lesthtiqueclas00schn
+
 - id: schumacher:1971contestualismo
   author:
     - family: Schumacher
@@ -17456,6 +18274,25 @@ references:
   title-short: Contestualismo
   type: article-journal
 
+- id: schumacher:1986skull3
+  author:
+    - family: Schumacher
+      given: Thomas L.
+  call-number: 72.4.012.036
+  citation-key: schumacher:1986skull3
+  container-title: The Cornell Architectural Journal
+  container-title-short: CAJ
+  issued:
+    - year: 1986
+      season: 3
+  language: en
+  page: 4–11
+  title: 'The skull and the mask: the modern movement and the dilemma of the facade'
+  title-short: The skull and the mask
+  type: article-journal
+  URL: http://issuu.com/cornellaap/docs/cja003-opt
+  volume: '3'
+
 - id: schumacher:1987deep
   author:
     - family: Schumacher
@@ -17467,7 +18304,7 @@ references:
     - year: 1987
   language: en-US
   page: 37-42
-  title: Deep Space Shallow Space
+  title: Deep space shallow space
   type: article-journal
   volume: '175'
 
@@ -17482,10 +18319,11 @@ references:
   call-number: '72.034.6(45) : 72:4'
   citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
+  container-title-short: CJA
   issued:
     - year: 1987
       season: 3
-  language: en-US
+  language: en
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
@@ -17681,7 +18519,7 @@ references:
   publisher: Dover
   publisher-place: New York
   source: Google Books
-  title: Serlio on Domestic Architecture
+  title: Serlio on domestic architecture
   translator:
     - family: Rosenfeld
       given: Myra Nan
@@ -18547,14 +19385,13 @@ references:
       given: Christopher
   citation-key: tadgell:1980claude122
   container-title: The Burlington Magazine
-  container-title-short: The Burlington Magazine
   ISSN: 0007-6287
   issue: '926'
   issued:
     - year: 1980
       month: 5
       day: 1
-  language: English
+  language: en
   page: 326-337
   source: JSTOR
   title: Claude Perrault, François Le Vau and the Louvre Colonnade
@@ -18596,7 +19433,7 @@ references:
     - year: 1967
   language: it
   page: 385-398
-  title: J. Barozzi da Vignola e la crisi del Manierismo a Roma
+  title: J. Barozzi da Vignola e la crisi del manierismo a Roma
   type: article-journal
   URL: https://www.palladiomuseum.org/annali/1967/30/pdf
 
@@ -18630,7 +19467,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1985
-  language: Portuguese
+  language: pt
   number-of-pages: '122'
   publisher: Presença
   publisher-place: Lisboa
@@ -18702,9 +19539,9 @@ references:
   page: 46–52
   source: escholarship.org
   title: >-
-    The European Transect: An Organic way for Architecture to Develop Towns,
-    Cities, and Metropolises
-  title-short: The European Transect
+    The European transect: an organic way for architecture to develop towns,
+    cities, and metropolises
+  title-short: The European transect
   type: article-journal
   URL: https://escholarship.org/uc/item/4xc2j7qw
   volume: '18'
@@ -18757,8 +19594,8 @@ references:
   publisher: Ashgate Publishing, Ltd.
   source: Google Books
   title: >-
-    Beyond Racialized Representation: Architectural Linguæ Francæ and Urban
-    Histories in the Kampung Houses and Shophouses of Melaka and Singapore
+    Beyond racialized representation: architectural *linguæ francæ* and urban
+    histories in the kampung houses and shophouses of Melaka and Singapore
   type: chapter
 
 - id: tajudeen:kampung
@@ -18861,7 +19698,7 @@ references:
   number-of-pages: '52'
   publisher: Kokusai bunka shinkokai (The Society for International Cultural Relations)
   source: Google Books
-  title: Fundamentals of Japanese Architecture
+  title: Fundamentals of Japanese architecture
   type: book
 
 - id: teatro:gualtieri
@@ -19397,6 +20234,7 @@ references:
       given: Liane
   citation-key: tzonis:1975mechanical
   container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.2307/1424316
   ISSN: 0149-2993
   issue: '1'
@@ -19521,7 +20359,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
 
-- id: van:1998structure57
+- id: vaneck:1998structure57
   abstract: >-
     Despite Alberti's well-known doubts about the usefulness of Vitruvius as a
     guide for the study of architecture, most architectural historians have
@@ -19545,7 +20383,7 @@ references:
     - family: Eck
       given: Caroline
       non-dropping-particle: van
-  citation-key: van:1998structure57
+  citation-key: vaneck:1998structure57
   container-title: Journal of the Society of Architectural Historians
   DOI: 10.2307/991347
   ISSN: 0037-9808
@@ -19556,7 +20394,7 @@ references:
   page: 280-297
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
-  title: The Structure of "De re aedificatoria" Reconsidered
+  title: The structure of *De re aedificatoria* reconsidered
   type: article-journal
   URL: https://www.jstor.org/stable/991347
   volume: '57'
@@ -19658,7 +20496,8 @@ references:
   source: JSTOR
   title: >-
     Proportions harmoniques et proportions architecturales dans la théorie
-    française des XVII^e^ et XVIII^e^ siècles
+    française des <span class="smallcaps">XVII</span>^e^ et <span
+    class="smallcaps">XVIII</span>^e^ siècles
   type: article-journal
   URL: http://www.jstor.org/stable/836548
   volume: '20'
@@ -19929,7 +20768,8 @@ references:
       day: 10
   author:
     - family: Vignola
-      given: 1507-1573
+      given: Giacomo Barozzi
+      dropping-particle: da
     - family: Esquié
       given: Pierre
   citation-key: vignola:1890five
@@ -20057,7 +20897,7 @@ references:
   event-place: London
   issued:
     - year: 1913
-  language: en-GB
+  language: en
   number-of-pages: '372'
   publisher: A. and C. Black
   publisher-place: London
@@ -20245,7 +21085,7 @@ references:
   event-place: Como
   issued:
     - year: 1521
-  language: Italian
+  language: it
   number-of-pages: '390'
   publisher: Gottardo da Ponte
   publisher-place: Como
@@ -20259,6 +21099,58 @@ references:
   title-short: De architectura libri dece
   type: book
   URL: http://archive.org/details/gri_33125008262210
+
+- id: vitruvio:1556dieci
+  abstract: >-
+    The 1st ed. of Barbaro's translation; Woodcut architectural t.p., title and
+    imprint in letterpress. Full-page woodcut on A2v depicting an astronomer and
+    a horologist, with Barbaro's arms above; it incorporates a cartouche which
+    is blank here, but which contains the register in the repetition of the cut
+    on V4r. Barbaro's device of two candles appears at the foot of T3v; see
+    Mortimer. Marcolini's device appears on V4v (Truth). The 131 woodcuts
+    include both plates (some double-page) and in-text ill. Barbaro writes that
+    the more important were after Andrea Palladio (C6v). Some blocks may have
+    been cut by Giuseppe Porta (Salviati); see Mortimer. Overlay on plate C6r.
+    Cancel plates on E8v and F7r. Extension flaps on plates E7r, E8r, F3v, 2nd
+    I4r, I5r. Volvelles on Q2v, V2v and V3r. Music, K8r and L2v. Astronomical
+    tables, P7r-Q2r, with arabesque woodcut decorations. Head- and tail-pieces.
+    Initials, many historiated; In Getty copy the cancel plate on F7r is now
+    hinged on; In Getty copy the mistake in printing the wrong block on B3r has
+    been corrected with a full-sheet cancel signed B3.4, the 2nd variant
+    described by Mortimer. Leaf A8 is not a cancel, and the last word on line 1,
+    K3r, is "lettera," both variants noted by Mortimer in the Harvard copies;
+    Signatures: A⁸ B⁶ C⁶(C5+1) D-G⁸ H⁶ I⁸(I4+"I4.5") K⁸(+3) L⁸(L5+1) M-Q⁸ R⁶
+    S-T⁸ V⁴; Includes errata, V1r, V3v; Mortimer, R. Italian 16th-cent.;
+    Binding: later vellum. Title & author written on spine. Lapped foredges.
+    Page edges sprinkled red; Centered on front pastedown is Giovanni Muzio's
+    etched bookplate by Giacomo Manzù. Signature at foot of title: Abb.te
+    Leonardo Spinola. Extensive marginal notes written in Italian on leaf O6;
+    274 (i.e. 284) p. : 41 cm. (fol.)
+  accessed:
+    - year: 2022
+      month: 4
+      day: 14
+  author:
+    - literal: Vitruvio
+  call-number: '9924317580001551'
+  citation-key: vitruvio:1556dieci
+  editor:
+    - family: Barbaro
+      given: Daniele
+  event-place: Vinegia
+  issued:
+    - year: 1556
+  language: it
+  number-of-pages: '326'
+  publisher: Francesco Marcolini
+  publisher-place: Vinegia
+  source: Internet Archive
+  title: I dieci libri dell'architettura
+  translator:
+    - family: Barbaro
+      given: Daniele
+  type: book
+  URL: http://archive.org/details/gri_33125009320074
 
 - id: vitruvio:2006tratado
   author:
@@ -20528,6 +21420,80 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
+- id: ward:1911architecture1
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture1
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '320'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  title-short: The architecture of the Renaissance in France
+  type: book
+  URL: http://archive.org/details/architectureofre01ward
+  volume: '1'
+
+- id: ward:1911architecture2
+  abstract: '52'
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Ward
+      given: William Henry
+  call-number: AAK-1408
+  citation-key: ward:1911architecture2
+  event-place: London
+  issued:
+    - year: 1911
+  language: English
+  number-of-pages: '306'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The architecture of the Renaissance in France; a history of the evolution of
+    the arts of building, decoration and garden design under classical influence
+    from 1495 to 1830
+  type: book
+  URL: http://archive.org/details/architectureofre02ward
+  volume: '2'
+
+- id: watkin:1977morality
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:1977morality
+  event-place: Oxford
+  ISBN: 978-0-19-817350-2
+  issued:
+    - year: 1977
+  language: en-GB
+  publisher: Clarendon
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: >-
+    Morality and architecture: the development of a theme in architectural
+    history and theory from the Gothic revival to the modern movement
+  title-short: Morality and architecture
+  type: book
+
 - id: watkin:2001historia
   author:
     - family: Watkin
@@ -20546,6 +21512,68 @@ references:
     - family: Rosenbaum
       given: David
   type: book
+
+- id: watkin:2005history
+  abstract: >-
+    720 pages : 24 cm; The history of Western architecture from the earliest
+    times in Mesopotamia and Egypt to the dramatic impact of CAD on
+    architectural practice at the beginning of the 21st century; Previous
+    edition: London : Watson-Guptill, 2000; Includes bibliographical references
+    and index; Mesopotamia and Egypt -- The classical foundation: Greek,
+    Hellenistic, Roman -- Early Christian and Byzantine -- Carolingian and
+    Romanesque -- The Gothic experiment -- Renaissance harmony -- Baroque
+    expansion -- Eighteenth-century classicism -- The Nineteenth century -- Art
+    Nouveau -- The Twentieth century and beyond
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:2005history
+  edition: '4'
+  event-place: London
+  ISBN: 978-1-85669-459-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '726'
+  publisher: Laurence King
+  publisher-place: London
+  source: Internet Archive
+  title: A history of Western architecture
+  type: book
+  URL: http://archive.org/details/historyofwestern0000watk_y0h2
+
+- id: wendland:2007traditional1
+  accessed:
+    - year: 2021
+      month: 1
+      day: 20
+  author:
+    - family: Wendland
+      given: David
+  citation-key: wendland:2007traditional1
+  container-title: International Journal of Architectural Heritage
+  container-title-short: IJAH
+  DOI: 10.1080/15583050701373803
+  ISSN: 1558-3058, 1558-3066
+  issue: '4'
+  issued:
+    - year: 2007
+      month: 11
+      day: 20
+  language: en
+  page: 311-365
+  source: DOI.org (Crossref)
+  title: >-
+    Traditional vault construction without formwork: masonry pattern and vault
+    shape in the historical technical literature and in experimental studies
+  title-short: Traditional vault construction without formwork
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/abs/10.1080/15583050701373803
+  volume: '1'
 
 - id: westfall:1991architectural
   author:
@@ -20718,7 +21746,7 @@ references:
   page: 201-219
   publisher: Frobenius Institute
   source: JSTOR
-  title: Spatial Analysis and Settlement Patterns on the East African Coast
+  title: Spatial analysis and settlement patterns on the East African coast
   type: article-journal
   URL: https://www.jstor.org/stable/41409884
   volume: '28'
@@ -21072,7 +22100,7 @@ references:
   publisher: Cambridge University Press
   publisher-place: Cambridge
   source: DOI.org (Crossref)
-  title: Swahili Urban Spaces of the Eastern African Coast
+  title: Swahili urban spaces of the eastern African coast
   type: chapter
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781107110274%23c04652-4-1/type/book_part
@@ -21228,12 +22256,12 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Mantova_Concattedrale_Sant%27Andrea_Apostolo_Fassade_4.jpg
 
-- id: zamaniproject:2016animation
+- id: zamani:2016animation
   accessed:
     - year: 2020
       month: 8
       day: 24
-  citation-key: zamaniproject:2016animation
+  citation-key: zamani:2016animation
   dimensions: '0:50'
   director:
     - literal: Zamani Project
@@ -21570,7 +22598,7 @@ references:
   number-of-pages: xxiii, 287 p.
   publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
-  title: 'Town and Square: From the Agora to the Village Green'
+  title: 'Town and square: from the agora to the village green'
   type: book
 
 - id: zulu:1903
@@ -21626,7 +22654,7 @@ references:
   language: en-GB
   page: 302-306
   source: JSTOR
-  title: The "Aesthetics" of the Early Mannerists
+  title: The "aesthetics" of the early mannerists
   type: article-journal
   URL: http://www.jstor.org/stable/3047511
   volume: '35'

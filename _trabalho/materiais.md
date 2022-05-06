@@ -4,12 +4,12 @@ date: 2022-01-18
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/lequeu-crop.jpg
   caption: "Jean-Jacques Lequeu, [instrumentos de desenho técnico](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu), 1782"
-toc:
-  - Desenho à mão
-  - Desenho no computador
-  - Maquetes físicas
-  - Modelagem digital
-  - Digitalização de entregas
+excerpt: >
+  Desenho à mão –
+  Desenho no computador –
+  Maquetes físicas –
+  Modelagem digital –
+  Digitalização de entregas
 ---
 
 Para fazer as atividades da disciplina, você vai precisar de um conjunto

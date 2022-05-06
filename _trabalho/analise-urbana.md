@@ -6,14 +6,12 @@ date    : 2022-02-23
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG/2560px-Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG
   caption: Giambattista Nolli, [*Nova planta de Roma*, 1748](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG)
-toc:
-  - Objetivo
-  - Contexto
-  - Ementa
-  - Processo
-  - Produto
-  - Critérios de avaliação
-  - Dicas de pesquisa
+excerpt: >
+  A tipologia edilícia e a forma urbana se influenciam mutuamente. A
+  arquitetura responde simultaneamente às condições singulares da sua
+  implantação no lugar, e gera condicionantes para intervenções futuras.
+  Explore este diálogo analisando um conjunto urbanístico formado ou
+  transformado entre os séculos XV e XVIII.
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph

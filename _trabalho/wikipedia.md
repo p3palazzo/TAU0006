@@ -3,17 +3,15 @@ title   : "Pesquisa e crítica"
 subtitle: "Viação e território, inquietações contemporâneas"
 item    : "Trabalho III"
 date    : 2022-05-04
-toc:
-  - Objetivo
-  - Contexto
-  - Ementa
-  - Processo
-  - Produto
-  - Critérios de avaliação
-  - Dicas de pesquisa
+excerpt: >
+  Construção de um argumento historiográfico ou teórico breve,
+  fundamentado em pesquisa bibliográfica e iconográfica, versando sobre
+  um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
+  séculos <span class="smallcaps">XV</span> a
+  <span class="smallcaps">XVIII</span>, como parte de um verbete da Wikipédia.
 header:
-  overlay_image:
-  caption:
+  overlay_image: http://burkecollection.org/system/images/46/original/46-1.jpg?1398281735
+  caption: "[A escritora Koōgimi](http://burkecollection.org/catalogue/46-ko%C5%8Dgimi-from-fujifusa-version-of-thirty-six-immortal-poets), de um rolo da primeira metade do século [XV]{.smallcaps}"
 ---
 
 # Objetivo #
@@ -159,6 +157,89 @@ caso. Além de referenciar a bibliografia nas notas de rodapé, acrescente essas
 mesmas referências na seção "Referências" ao pé da página. Envie na tarefa do
 Moodle o link para a sua edição no histórico da página.
 
+## Conteúdo ##
+
+Um breve texto argumentativo (aproximadamente 1.000 palavras), ilustrado
+conforme necessário. O texto deverá:
+
+1. Expor claramente, num parágrafo introdutório, o argumento a ser
+   desenvolvido e oferecer um sucinto contexto no qual o tema se insere,
+   incluindo uma breve descrição do principal objeto a ser estudado;
+2. Desenvolver o argumento numa sequência lógica, baseando-se em
+   pesquisa bibliográfica e em análise de imagens;
+3. Concluir com uma breve exposição do resultado da pesquisa e,
+   eventualmente, das suas limitações.
+
+A escrita argumentativa acadêmica é como um jogo de bonecas russas: os
+elementos que fazem parte de um texto têm estrutura semelhante à do
+texto como um todo. Assim, um artigo ou livro tem introdução, algumas
+seções de desenvolvimento, e conclusão. Do mesmo modo, cada seção tem um
+parágrafo introdutório (eventualmente mais de um), desenvolvimento do
+argumento, e um parágrafo de conclusão ou de ligação com a seção
+seguinte. Cada parágrafo geralmente começa com uma frase que expõe o
+tópico desse parágrafo, seguida de algumas frases desenvolvendo o
+tópico, e termina com uma frase de conclusão ou de ligação com o tópico
+seguinte. Conjunções, especialmente aquelas adversativas, são formas
+correntes de se fazer essas transições, seja no início ou no final de um
+parágrafo.
+
+Neste trabalho, vamos nos concentrar no nível intermediário --- uma
+*seção* que desenvolve, em alguns parágrafos, um único argumento
+simples. Escolha um tema suficientemente restrito, que possa ser tratado
+a contento nesta forma curta. Mas o que é um texto argumentativo, e como
+escolher um tema adequado?
+
+- Um texto argumentativo não é uma simples descrição formal ou
+  cronológica de uma obra ou de um conjunto de obras;
+- No outro extremo, um texto argumentativo não precisa necessariamente
+  "resolver" um grande mistério da história da arte --- ele pode, ainda
+  mais no caso deste trabalho, revisitar questões já bem trabalhadas na
+  bibliografia existente;
+- O texto argumentativo tem um objetivo ou problema claro: uma questão
+  pontual a ser discutida, e um roteiro igualmente claro para
+  desenvolver essa discussão;
+- Alguns tipos de problemas comuns em textos de história da arte são:
+  contraste ou comparação entre obras de arte, e/ou entre argumentos de
+  outros textos; relação entre uma obra ou um artista e o seu contexto
+  (clientes, ideologias, condições de produção em geral, etc.);
+  iconografia e iconologia (análise e discussão do significado de
+  formas, composições, elementos ou figuras de uma ou mais obras); esses
+  tipos podem, eventualmente, ser combinados entre si, especialmente em
+  textos mais longos;
+- O problema deve ser dimensionado de acordo com a extensão do texto no
+  qual ele vai ser desenvolvido: é melhor tratar de um tema mais simples
+  com profundidade, do que abordar um tema complexo de modo superficial
+  e incompleto --- textos longos em geral resolvem problemas complexos
+  como um encadeamento de questões simples.
+
+Um bom texto argumentativo se serve de outros textos como apoio para a
+argumentação e como fonte de informação. É importante reconhecer a nossa
+dívida para com esses textos, portanto sempre devemos mencionar as
+referências usadas para construir argumentos ou para afirmar certas
+informações (exceto as mais corriqueiras). A maioria dos livros e
+artigos que temos à disposição faz, ao mesmo tempo, as duas coisas ---
+dá informações e constrói interpretações. É importante distinguir esses
+dois tipos diferentes de contribuições, e reconhecer que diferentes
+autores podem interpretar um mesmo fato de modos diversos. No mais
+das vezes, essas diferenças de interpretação mostram que há maneiras
+distintas de olhar para um mesmo objeto --- ou seja, que cada autor
+escolhe um problema diferente para discutir --- e não que um autor
+esteja certo e o outro, errado.
+
+## Apresentação ##
+
+Texto, ilustrado conforme necessário, a ser postado na Wikipédia.
+Não anexar arquivos.
+
+- O texto deve ter um encadeamento lógico de ideias, começando com um
+  parágrafo introdutório e terminando com um parágrafo conclusivo (não é
+  necessário separar explicitamente em seções);
+- Listar as referências bibliográficas consultadas ao final do texto;
+- Toda figura deve ter legenda informativa, e qualquer imagem usada deve
+  ser analisada no texto (é a sua razão de ser);
+- Observar mais indicações para a produção e formatação do texto nas
+  seções *Critérios de avaliação* e *Recursos e apoio*, abaixo.
+
 # Critérios de avaliação #
 
 | Critério de avaliação                                      |  Valor |
@@ -186,30 +267,39 @@ Moodle o link para a sua edição no histórico da página.
   bibliografia, mas atente para as referências *que os verbetes citam*;
 - Escolha um formato de citação e referências bibliográficas e atenha-se
   a ele ao longo de todo o texto: os mais populares na nossa disciplina
-  são as normas da ABNT 10.520 e 6023 e o Chicago Manual of Style;
+  são as normas da [ABNT]{.smallcaps} 10.520 e 6023 e o *Chicago Manual of Style*;
 - Evite escrever frases excessivamente longas e complexas, abusar de
   jargão, e saltar de um argumento a outro sem ligação clara.
 
-## Lista de verbetes ##
+## Listas de verbetes ##
+
+As listas abaixo são exemplos de verbetes que podem ser aprimorados ou
+expandidos. Elas não são exaustivas; fique à vontade para propor outros
+temas!
 
 ### Obras e elementos ###
 
 - [Covent Garden Square, Londres](https://pt.wikipedia.org/wiki/Covent_Garden) 
 - Mapa de Roma por [Giambattista Nolli](https://pt.wikipedia.org/wiki/Giambattista_Nolli) (criar verbete ou expandir a seção)
-- Tratado [*Da arte edificatória*](https://pt.wikipedia.org/wiki/De_re_aedificatoria) por Leon Battista Alberti
+- ~~Tratado [*Da arte
+  edificatória*](https://pt.wikipedia.org/wiki/De_re_aedificatoria) por
+  Leon Battista Alberti~~
 - Praça ducal de [Gualtieri](https://pt.wikipedia.org/wiki/Gualtieri)
 - *Regra das cinco ordens da arquitetura* por [Giacomo Barozzi da Vignola](https://pt.wikipedia.org/wiki/Giacomo_Vignola)
-- [Savannah](https://pt.wikipedia.org/wiki/Savannah_(Geórgia)), plano urbanístico de James Oglethorpe
+- ~~[Savannah](https://pt.wikipedia.org/wiki/Savannah_(Geórgia)), plano
+  urbanístico de James Oglethorpe~~
 - [Serliana](https://pt.wikipedia.org/wiki/Janela_serliana)
 - [Place Stanislas e place de la Carrière, Nancy](https://pt.wikipedia.org/wiki/Nancy) (criar o verbete usando o link em vermelho no final da página)
 - Strawberry Hill, mansão de e por [Horace Walpole](https://pt.wikipedia.org/wiki/Horace_Walpole)
-- Place des Vosges, Paris (criar verbete)
-- [*Yingzao fashi*](https://pt.wikipedia.org/wiki/Yingzao_Fashi), tratado por Li Jie
+- [Place des Vosges](https://pt.wikipedia.org/wiki/Place_des_Vosges), Paris
+- ~~[*Yingzao fashi*](https://pt.wikipedia.org/wiki/Yingzao_Fashi),
+  tratado por Li Jie~~
 
 ### Pessoas e instituições ###
 
 - [Academia Real de Arquitetura, França](https://pt.wikipedia.org/wiki/Academia_Real_de_Arquitetura)
-- [Robert Adam](https://pt.wikipedia.org/wiki/Robert_Adam) (arquiteto do século [XVIII]{.smallcaps})
+- ~~[Robert Adam](https://pt.wikipedia.org/wiki/Robert_Adam) (arquiteto
+  do século [XVIII]{.smallcaps})~~
 - [Étienne-Louis Boullée](https://pt.wikipedia.org/wiki/Étienne-Louis_Boullée)
 - [Colen Campbell](https://pt.wikipedia.org/wiki/Colen_Campbell)
 - Marc-Antoine Laugier (criar verbete)
@@ -244,9 +334,8 @@ Para trabalhar com conceitos, identifique uma lacuna no tratamento
 teórico do respectivo verbete no domínio disciplinar da arte ou da
 arquitetura e no recorte cronológico da Idade Moderna.
 
-<!--
+### Lugares ###
 
-Lugares
 - [Benim](https://pt.wikipedia.org/wiki/Cidade_do_Benim)
 - [Edo](https://pt.wikipedia.org/wiki/Edo)
 - [Gondar](https://pt.wikipedia.org/wiki/Gondar_(Etiópia))
@@ -260,9 +349,8 @@ Lugares
 - [São Petersburgo](https://pt.wikipedia.org/wiki/São_Petersburgo)
 - [Zanzibar](https://pt.wikipedia.org/wiki/Zanzibar)
 
--->
-
-Outros verbetes podem ser usados após consulta ao professor.
+Ao tratar de lugares, descreva a forma urbana ou construída histórica,
+bem como o processe de constituição desse tecido edilício.
 
 # Referências #
 
@@ -281,5 +369,4 @@ Outros verbetes podem ser usados após consulta ao professor.
 + [Convenções de nomenclatura](http://pt.wikipedia.org/wiki/Wikipédia:Convenção_de_nomenclatura);
 + [Princípio da imparcialidade](http://pt.wikipedia.org/wiki/Wikipédia:Ponto_de_vista_neutro);
 + [Princípio da verificabilidade](http://pt.wikipedia.org/wiki/Wikipédia:Verificabilidade).
-
 
