@@ -8,7 +8,8 @@ excerpt: >
   Arquitetura do humanismo –
   Jardins da Ásia central –
   Mausoléus indianos –
-  Saberes corporativos e tratadística na França
+  Jardins no leste da Ásia –
+  Jardins na Europa
 leitura: 520--530, Summerson 39--62
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
@@ -64,7 +65,7 @@ descrita como "solidez, funcionalidade e beleza" ([@fig:triade-intro]).
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O chamado "homem vitruviano" é o símbolo artístico mais icônico do
@@ -74,7 +75,7 @@ criaturas por ser a única que pode ser inscrita tanto num quadrado
 quanto num círculo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leonardo da Vinci, homem vitruviano, c. 1492](https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg){#fig:leonardo-vitruvian .slide-bg}
+![Leonardo da Vinci, homem vitruviano, c. 1492](https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg){#fig:leonardo-vitruvian}
 
 ##
 
@@ -91,14 +92,14 @@ entre a Criação divina e as obras humanas ([@fig:giorgio-vitruviano;
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Francesco di Giorgio Martini. Homem vitruviano, c. 1490](https://i.pinimg.com/originals/5d/03/8b/5d038b08d2418726dc59de5172a99e62.jpg){#fig:giorgio-vitruviano width=100%}
+![Francesco di Giorgio Martini. Homem vitruviano, c. 1490](https://i.pinimg.com/originals/5d/03/8b/5d038b08d2418726dc59de5172a99e62.jpg){#fig:giorgio-vitruviano}
 :::
 ::: {.column width=50%}
-![Iacomo Andrea. Homem vitruviano, c. 1490](https://upload.wikimedia.org/wikipedia/commons/6/69/Vitruvian_Man_by_Giacomo_Andrea.jpg){#fig:andrea-vitruviano width=100%} 
+![Iacomo Andrea. Homem vitruviano, c. 1490](https://upload.wikimedia.org/wikipedia/commons/6/69/Vitruvian_Man_by_Giacomo_Andrea.jpg){#fig:andrea-vitruviano}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Portanto, o humanismo significa entender o ser humano como "medida" de
@@ -111,9 +112,9 @@ que governam esse universo --- e o microcosmo --- qualquer criatura
 divina particular ou obra humana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg){#fig:esferas .slide-bg}
+![Iluminura do século [XIV]{.smallcaps} representando as esferas celestes](https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg){#fig:esferas}
 
-## {data-background-image="https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O rebatimento entre macrocosmo e microcosmo é um conceito que transcende
@@ -121,9 +122,9 @@ a filosofia europeia, estando presente em várias culturas edilícias, da
 China ([@fig:luopan]) e da Índia até as Américas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg){#fig:luopan .slide-bg}
+![Bússola *luo pan* para geomancia chinesa (*feng shui*)](https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg){#fig:luopan}
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No caso específico do Renascimento europeu, porém, ele dá ensejo a
@@ -135,15 +136,13 @@ produzida pelo engenheiro militar e teórico Francesco di Giorgio Martini
 entre 1480 e 1490 ([@fig:giorgio-capitel; @fig:giorgio-ds48]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Francesco di Giorgio Martini, estudo de capitéis, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-capitel/preview){#fig:giorgio-capitel}
+![Francesco di Giorgio Martini, estudo de capitéis, c. 1478--1500](https://i.pinimg.com/originals/2b/80/6f/2b806fdbcab6db4fe4b511370dc49d9d.jpg){#fig:giorgio-capitel}
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-giorgio-ds48/preview"}
+* * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478--1500](https://www.integra.unb.br/s/tau0006-041-giorgio-ds48){#fig:giorgio-ds48}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478--1500](https://i.pinimg.com/originals/e3/21/f2/e321f2f66705f30cf8a48b34fdaa0aaf.jpg){#fig:giorgio-ds48}
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além dessa analogia simples, derivada de Vitrúvio, Martini propõe
@@ -155,15 +154,19 @@ em planta como em elevação ([@fig:giorgio-basilica-plan;
 
 ![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), c. 1478--1481](https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg){#fig:giorgio-basilica-plan}
 
-##
+* * * *
 
-![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://www.integra.unb.br/s/tau0006-041-giorgio-facade/preview){#fig:giorgio-basilica-elv}
+![Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século [XV]{.smallcaps}](https://i.pinimg.com/originals/a8/2a/81/a82a816c3f373c7bde9b0568aec379a8.jpg){#fig:giorgio-basilica-elv}
 
-##
+* * * *
 
 ![Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg){#fig:giorgio-citadella-umana}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg"}
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://i.pinimg.com/originals/4f/98/b2/4f98b2cb6a47410d96bb904b514865ef.jpg){#fig:vignola-5ordini}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interpretação das afirmações de Vitrúvio sobre o antropomorfismo é
@@ -171,11 +174,7 @@ apenas um dos terrenos onde o humanismo da arquitetura se manifesta. Os
 dois legados da interpretação humanista de Vitrúvio que foram mais
 consequentes no longo prazo são, sem dúvida, a chamada "tríade
 vitruviana" e a teoria das "ordens clássicas".
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria das ordens aparece articulada por inteiro, na forma em que é
 familiar para nós hoje em dia, perto da metade do século [XVI]{.smallcaps}. A sua
 expressão mais famosa é a *Regra das cinco ordens da arquitetura* de
@@ -184,9 +183,7 @@ vezes reeditado, mais consultado e mais imitado ([@fig:chitham-tuscan])
 dos últimos quinhentos anos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jacopo Barozzi da Vignola, *Regra das cinco ordens de arquitetura*, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602](https://www.integra.unb.br/s/tau0006-041-vignola-5ordini/preview){#fig:vignola-5ordini}
-
-## 
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria das ordens expressa a busca dos arquitetos do Renascimento por
@@ -194,11 +191,13 @@ um sistema por assim dizer perfeito, livre de contradições. A taxonomia
 das cinco espécies de colunas clássicas com os seus elementos
 complementares sintetiza, no seu tempo, mais de um século de estudo e
 experimentação.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://www.integra.unb.br/s/tau0006-011-ordonnance/preview){#fig:perrault}
+![Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/3a/c4/61/3ac461cf9ecc2e18cf670dd406c07bff.jpg){#fig:perrault}
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-chitham2005-37/preview"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir desse esforço, a regra propõe *modos de montar* uma composição
@@ -206,12 +205,16 @@ clássica simples e coerente. Justamente porque o seu objetivo é a
 solução desse problema prático, várias "regras" propostas por diferentes
 autores ao longo do tempo podem existir lado a lado, com ligeiras
 discrepâncias entre si. 
-
-![Robert Chitham, quadro comparativo de ordens toscanas, 1982](https://www.integra.unb.br/s/tau0006-041-chitham2005-37/preview){#fig:chitham-tuscan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Robert Chitham, quadro comparativo de ordens toscanas, 1982](https://i.pinimg.com/originals/7f/f9/e5/7ff9e5367b7ddb37b050f5b20bf3f0c4.jpg){#fig:chitham-tuscan .line}
 
-## {data-background-image="https://www.integra.unb.br/s/tau0006-041-triade-bg/preview"}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Tríade vitruviana](https://i.pinimg.com/originals/d2/96/0d/d2960d3e3f3e81b9f5f445011cfd30d0.jpg){#fig:triade .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A taxonomia das ordens é um expediente prático para executar composições
@@ -225,11 +228,13 @@ questão. Um dos elementos centrais nesse discurso teórico é a chamada
 "tríade vitruviana": a determinação de que a arquitetura deve equilibrar
 os requisitos da solidez construtiva, da utilidade funcional, e da
 beleza formal ([@fig:triade]).
-
-![Tríade vitruviana](https://www.integra.unb.br/s/tau0006-041-triade-bg/preview){#fig:triade}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Leon Battista Alberti, *Da arte edificatória*, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011](https://i.pinimg.com/originals/b4/43/cf/b443cfb847d9524318eef73a56df24b9.jpg){#fig:alberti-gulbenkian}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para a filósofa e historiadora da arquitetura Françoise Choay, o tratado
@@ -240,9 +245,7 @@ campo da retórica clássica e da filosofia escolástica durante o período
 medieval [@vaneck:1998structure57].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Leon Battista Alberti, *Da arte edificatória*, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011](https://www.integra.unb.br/s/tau0006-041-alberti-gulbenkian/preview){#fig:alberti-gulbenkian}
-
-## Conclusão
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A introdução na Europa, em meados do século [XV]{.smallcaps}, da imprensa de tipos
@@ -279,7 +282,7 @@ palavra persa é que vem o nosso conceito de "paraíso" como um lugar
 ajardinado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez .slide-bg}
+![Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg){#fig:chipiez}
 
 ##
 
@@ -307,7 +310,7 @@ reais, como o Generalife, na Alhambra de Granada, construído no século
 [XIV]{.smallcaps} ([@fig:alhambra]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século [XIV]{.smallcaps}. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra .slide-bg}
+![Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século [XIV]{.smallcaps}. @kovacs:2014alhambra](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg){#fig:alhambra}
 
 ## Chahār-bāgh ##
 
@@ -346,11 +349,11 @@ cruzamento dos eixos precisa estar no centro do jardim
 ([@fig:jahangir-charbagh]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. @alam:2014layout](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg){#fig:jahangir-charbagh .slide-bg}
+![Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. @alam:2014layout](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg){#fig:jahangir-charbagh}
 
 ## {data-background-image="https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg"}
 
-![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. Reproduzido por [Bruce Healy, 2020][]](https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg){#fig:jaipur-carpet .slide-bg}
+![Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. Reproduzido por [Bruce Healy, 2020][]](https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg){#fig:jaipur-carpet}
 
 [Bruce Healy, 2020]: https://hali.com/articles/the-jaipur-garden-carpet/
 
@@ -373,7 +376,7 @@ idênticos, e essa é uma das principais fontes de variedade nos projetos
 de jardins persas e indianos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Tapete persa, Curdistão, segunda metade do século [XVIII]{.smallcaps}. [Metropolitan Museum of Art  22.100.128][]](https://i.pinimg.com/originals/b2/5f/74/b25f74384adcd1b398fca47db6e955d9.jpg){#fig:rug-met .slide-bg}
+![Tapete persa, Curdistão, segunda metade do século [XVIII]{.smallcaps}. [Metropolitan Museum of Art  22.100.128][]](https://i.pinimg.com/originals/b2/5f/74/b25f74384adcd1b398fca47db6e955d9.jpg){#fig:rug-met}
 
 [Metropolitan Museum of Art  22.100.128]: https://www.metmuseum.org/art/collection/search/447583
 
@@ -391,11 +394,11 @@ botânicos que conseguiam manter tantas e tão variadas espécies de
 plantas em climas tão áridos como o do Irã.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bāgh-e Shazdeh, Mahan, província de Quermã, Irã, criado em 1850 e reconstruído em 1870. @mirfendereski:architectural](https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w){#fig:shazdeh-aerial .slide-bg}
+![Bāgh-e Shazdeh, Mahan, província de Quermã, Irã, criado em 1850 e reconstruído em 1870. @mirfendereski:architectural](https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w){#fig:shazdeh-aerial}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Timur_Empire.jpg"}
 
-![Império Timúrida no final do século [XIV]{.smallcaps}. Mapa: [Stuntelaar, 2008][stuntelaar:2008timur]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg){#fig:timur .slide-bg}
+![Império Timúrida no final do século [XIV]{.smallcaps}. Mapa: [Stuntelaar, 2008][stuntelaar:2008timur]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg){#fig:timur}
 
 [stuntelaar:2008timur]: https://commons.wikimedia.org/wiki/File:Timur_Empire.jpg
 
@@ -419,13 +422,13 @@ dos nômades Timúridas por estados com administrações estáveis, que
 realizam obras públicas monumentais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Impérios Otomano, Safávida e Mogol no século [XVII]{.smallcaps}. Reproduzido em [Gibault, *World History*][gibault:2011chapter21]](https://i.pinimg.com/originals/ef/35/be/ef35be534dde5198e0b0679efd6dbe96.jpg){#fig:gibault .slide-bg}
+![Impérios Otomano, Safávida e Mogol no século [XVII]{.smallcaps}. Reproduzido em [Gibault, *World History*][gibault:2011chapter21]](https://i.pinimg.com/originals/ef/35/be/ef35be534dde5198e0b0679efd6dbe96.jpg){#fig:gibault}
 
 [gibault:2011chapter21]: https://web.archive.org/web/20121003030510/http://gibaulthistory.wordpress.com/chapter-21/
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png" data-background-size="contain" data-background-position="right"}
 
-![Expansão do império Mogol, 1526--1687](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png){#fig:mogol-1687 .slide-bg}
+![Expansão do império Mogol, 1526--1687](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png){#fig:mogol-1687}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O império Mogol foi fundado por Babur, um descendente de Genghis Khan
@@ -464,7 +467,7 @@ sinalizando o cosmopolitismo artístico da Pérsia ([@fig:abbas]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/2560px-Isfahan-Agra-pt.svg.png"}
 
-![Impérios Safávida e Mogol no século [XVII]{.smallcaps} com a localização de Isfahan e Agra. Mapa: [Pedro P. Palazzo, 2022][palazzo:2022isfahan-agra]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/1024px-Isfahan-Agra-pt.svg.png){#fig:isfahan-agra .slide-bg}
+![Impérios Safávida e Mogol no século [XVII]{.smallcaps} com a localização de Isfahan e Agra. Mapa: [Pedro P. Palazzo, 2022][palazzo:2022isfahan-agra]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/1024px-Isfahan-Agra-pt.svg.png){#fig:isfahan-agra}
 
 [palazzo:2022isfahan-agra]: https://commons.wikimedia.org/wiki/File:Isfahan-Agra-pt.svg
 
@@ -488,11 +491,11 @@ xiita, matemático, arquiteto e astrônomo, Bahā al-Dīn
 de Isfahan, e também de vários dos seus edifícios emblemáticos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din .slide-bg}
+![Retrato do xeque Bahā al-Dīn al-‘Āmilī, final do século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg){#fig:baha-al-din}
 
 ## {data-background-image="https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg"}
 
-![Plano urbanístico de Isfahan. Mapa: [Caroline Mawer, 2013][]](https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg){#fig:isfahan-plan .slide-bg}
+![Plano urbanístico de Isfahan. Mapa: [Caroline Mawer, 2013][]](https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg){#fig:isfahan-plan}
 
 [Caroline Mawer, 2013]: http://www.carolinemawer.com/isfahan-is-half-the-world-they-say-but-by-so-saying-they-only-go-half-the-way/
 
@@ -516,13 +519,13 @@ princípio organizador de todo o conjunto urbanístico
 ([@fig:isfahan-schema]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Configuração urbana de Isfahan no século [XVII]{.smallcaps}. Mapa baseado em [Fabien Khan, 2007][]](https://i.pinimg.com/originals/ab/8d/ae/ab8daea0c897297b49a96ea4d72e7b98.jpg){#fig:isfahan-schema .slide-bg}
+![Configuração urbana de Isfahan no século [XVII]{.smallcaps}. Mapa baseado em [Fabien Khan, 2007][]](https://i.pinimg.com/originals/ab/8d/ae/ab8daea0c897297b49a96ea4d72e7b98.jpg){#fig:isfahan-schema}
 
 [Fabien Khan, 2007]: https://commons.wikimedia.org/wiki/File:Sch%C3%A9ma_isfahan_safavides.svg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Isfahan-charbagh.svg/2162px-Isfahan-charbagh.svg.png" data-background-size="contain" data-background-transition="fade-in slide-out"}
 
-![Configuração urbana de Isfahan no século [XVII]{.smallcaps} mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh. Mapa por [Pedro P. Palazzo, 2020][palazzo:2020chahrbagh]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Isfahan-charbagh.svg/811px-Isfahan-charbagh.svg.png){#fig:isfahan-schema-charbagh .slide-bg}
+![Configuração urbana de Isfahan no século [XVII]{.smallcaps} mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh. Mapa por [Pedro P. Palazzo, 2020][palazzo:2020chahrbagh]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Isfahan-charbagh.svg/811px-Isfahan-charbagh.svg.png){#fig:isfahan-schema-charbagh}
 
 [palazzo:2020chahrbagh]: https://commons.wikimedia.org/wiki/File:Isfahan-charbagh.svg
 
@@ -537,7 +540,7 @@ lado do rio ([@fig:isfahan-schema-charbagh]).
 ## {data-background-image="https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg" data-background-size="contain" data-background-position="right"}
 
 ::: align-right
-![Isfahan, chahār-bāgh e grande bazar](https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg){#fig:chaharbagh-bazaar   .slide-bg}
+![Isfahan, chahār-bāgh e grande bazar](https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg){#fig:chaharbagh-bazaar}
 :::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg"}
@@ -550,19 +553,19 @@ visitaram a cidade nos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}, como o
 Bruyn ([@fig:cornelis]) e o francês Jean Chardin ([@fig:chardin]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista da avenida Charbagh por [Cornelis de Bruyn, 1705][]](https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg){#fig:cornelis .slide-bg}
+![Vista da avenida Charbagh por [Cornelis de Bruyn, 1705][]](https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg){#fig:cornelis}
 
 [Cornelis de Bruyn, 1705]: https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/68/52_Chardin_Esfahan_gardens.jpg"}
 
-![Vista da avenida Charbagh por [Jean Chardin, década de 1670][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/52_Chardin_Esfahan_gardens.jpg/1024px-52_Chardin_Esfahan_gardens.jpg){#fig:chardin .slide-bg}
+![Vista da avenida Charbagh por [Jean Chardin, década de 1670][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/52_Chardin_Esfahan_gardens.jpg/1024px-52_Chardin_Esfahan_gardens.jpg){#fig:chardin}
 
 [Jean Chardin, década de 1670]: https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg
 
 # Jardins e mausoléus #
 
-##
+## Chahār bāgh na Índia Mogol ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O princípio do *chahār bāgh* se origina na Pérsia antiga, onde ele
@@ -578,16 +581,16 @@ Villiers-Stuart [-@villiers-stuart:1913gardens].
 
 :::::::::::::::::::::::::::::::::::::::: {.columns #fig:villiers-stuart} 
 ::: {.column width=50%}
-![Verso da folha de guarda](https://www.integra.unb.br/s/tau6-063-villiers-0/preview){#fig:villiers-stuartA}
+![Verso da folha de guarda](https://i.pinimg.com/originals/f0/fd/4f/f0fd4f1c7191e096a7c28430be49c5c6.jpg){#fig:villiers-stuartA}
 :::
 ::: {.column width=50%}
-![Folha de rosto](https://www.integra.unb.br/s/tau6-063-villiers-1/preview){#fig:villiers-stuartB}
+![Folha de rosto](https://i.pinimg.com/originals/77/80/e8/7780e8ad6c9d6cc3b5dd1a93b5e61085.jpg){#fig:villiers-stuartB}
 :::
 
 Villiers-Stuart, Constance Mary. *Gardens of the Great Mughals.* London: A. and C. Black, 1913
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1280px-Samarcanda,_Gur-e_Amir_19.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O império Mogol é um estado governado por uma dinastia originária da
@@ -606,9 +609,11 @@ Tamerlão, construída em Samarcanda no início do século [XV]{.smallcaps}
 
 <!--_-->
 
-## {data-background-image="https://images-production.gardenvisit.com/uploads/images/12013/bagh_e_babur_kabul_original.jpg"}
+* * * *
 
-![Bāgh-e Babur (jardim de Babur), Cabul, 1528. @kelly:2009babur](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur .slide-bg}
+![Bāgh-e Babur (jardim de Babur), Cabul, 1528. Foto: [Jim Kelly, 2009][kelly:2009babur]](https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg){#fig:bagh-e-babur}
+
+[kelly:2009babur]: https://commons.wikimedia.org/wiki/File:Babur_Gardens_from_a_mountain_top_CROPPED.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa das práticas religiosas hinduístas, a Índia não desenvolveu
@@ -623,7 +628,7 @@ dinastia, na sua primeira capital, Cabul. Nesse caso, ainda não temos um
 extremidade ([@fig:bagh-e-babur]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma canônica do mausoléu no centro de um *chahār bāgh* é realizada
@@ -631,11 +636,11 @@ no túmulo do imperador Hamayun, construído em Delhi em 1569--1570
 ([@fig:humayun-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mausoléu de Hamayun, Delhi, 1569--1570. Planta: [Aga Khan Historic Cities Programme, 2017][humayuns:2017]](https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510){#fig:humayun-plan .slide-bg}
+![Mausoléu de Hamayun, Delhi, 1569--1570. Planta: [Aga Khan Historic Cities Programme, 2017][humayuns:2017]](https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510){#fig:humayun-plan}
 
-## {data-background-image="https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg"}
+* * * *
 
-![Mausoléu de Hamayun, Delhi, vista aérea do monumento central. Foto: [Aga Khan Historic Cities Programme, 2017][humayuns:2017]](https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg){#fig:humayun-aerial .slide-bg}
+![Mausoléu de Hamayun, Delhi, vista aérea do monumento central. Foto: [Aga Khan Historic Cities Programme, 2017][humayuns:2017]](https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg){#fig:humayun-aerial}
 
 [humayuns:2017]: https://www.archnet.org/sites/4144
 
@@ -645,20 +650,18 @@ centro, mas também a transposição do tipo do mausoléu com cúpula da Ásia
 central para a Índia ([@fig:humayun-aerial]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1280px-Aerial_view_of_Jahangir_Tomb.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse tipo canônico repercute no túmulo do imperador Jahangir, construído
 em Lahore em 1637 ([@fig:jahangir-aerial]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mausoléu de Jahangir, Lahore, 1637. Foto: [Maaz Kamal, 2018][kamal:2018early]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg){#fig:jahangir-aerial .slide-bg}
+![Mausoléu de Jahangir, Lahore, 1637. Foto: [Maaz Kamal, 2018][kamal:2018early]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg){#fig:jahangir-aerial}
 
 [kamal:2018early]: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Jahangir_Tomb.jpg
 
 ## Taj Mahal ##
-
-## {data-background-image="https://www.integra.unb.br/s/tau6-063-taj-aerial/preview"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O mais famoso desses mausoléus é o Taj Mahal ([@fig:taj-aerial]), que
@@ -667,9 +670,9 @@ de amor entre o xá Jahan e sua esposa Mumtaz Mahal ([@fig:mumtaz;
 @fig:jahan]), para quem o mausoléu foi construído.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea do Taj Mahal](https://www.integra.unb.br/s/tau6-063-taj-aerial/preview){#fig:taj-aerial .slide-bg}
+![Vista aérea do Taj Mahal](https://i.pinimg.com/originals/36/40/2b/36402be6440eb2202a46fecaf851c140.jpg){#fig:taj-aerial}
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -680,17 +683,17 @@ de amor entre o xá Jahan e sua esposa Mumtaz Mahal ([@fig:mumtaz;
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://www.integra.unb.br/s/tau6-063-taj-iso/preview"}
+* * * *
+
+![Desenho isométrico do Taj Mahal e seu jardim *chahār bāgh*](https://i.pinimg.com/originals/e3/13/81/e31381c0a54655c866361b045b719b5f.jpg){#fig:taj-iso}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Taj Mahal se assemelha ao Bāgh-e Babur, com o monumento na extremidade
 de uma esplanada que tem uma acéquia no seu eixo central
 ([@fig:taj-iso]).
-
-![Desenho isométrico do Taj Mahal e seu jardim *chahār bāgh*](https://www.integra.unb.br/s/tau6-063-taj-iso/preview){#fig:taj-iso}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1280px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A estrutura que delimita esse espelho d'água é em mármore, assim como o
@@ -698,17 +701,23 @@ revestimento do próprio monumento ([@fig:taj-axis]). O mausoléu de
 Mumtaz Mahal é enquadrado por dois pavilhões laterais --- um deles é uma
 mesquita, e o outro foi construído só para manter a simetria do conjunto
 ([@fig:taj-bldgs]).
-
-![Vista do Taj Mahal desde o chahār bāgh. @halun:2019taj](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1024px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg){#fig:taj-axis}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1280px-Taj_Mahal-11.jpg"}
+![Vista do Taj Mahal desde o chahār bāgh. Foto: [Jakub Hałun, 2019][halun:2019taj]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1024px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg){#fig:taj-axis}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Taj Mahal e pavilhões. @castor:2008taj](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1024px-Taj_Mahal-11.jpg){#fig:taj-bldgs}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[halun:2019taj]: https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Taj_site_plan.png"}
+* * * *
+
+![Taj Mahal e pavilhões. Foto: [David Castor, 2008][castor:2008taj]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1024px-Taj_Mahal-11.jpg){#fig:taj-bldgs}
+
+[castor:2008taj]: https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg
+
+* * * *
+
+![Planta de conjunto do complexo paisagístico do Taj Mahal. Foto: [McGinnly, 2007][mcginnly:2007taj]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png){#fig:taj-site}
+
+[mcginnly:2007taj]: https://commons.wikimedia.org/wiki/File:Taj_site_plan.png
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, a reconstituição do projeto original dá uma outra imagem do
@@ -716,11 +725,9 @@ conjunto, que restitui a completude do *chahār bāgh* ([@fig:taj-site]).
 Esse projeto nunca chegou a ser concluído, e para compreendê-lo melhor
 precisamos olhar para o rio Yamuna, às costas do Taj Mahal, e pensar na
 solução urbanística de Isfahan.
-
-![Planta de conjunto do complexo paisagístico do Taj Mahal. @mcginnly:2007taj](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png){#fig:taj-site}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na outra margem do rio, foram descobertos vestígios do Mehtab bāgh
@@ -728,34 +735,32 @@ Na outra margem do rio, foram descobertos vestígios do Mehtab bāgh
 Mahal ([@fig:taj-watercolor]). Esse jardim sugere que o complexo se
 estendia para além do rio; o Taj Mahal seria, literalmente, refletido
 num espelho d'água octogonal, tornando a composição completa.
-
-![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"}
+![Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird's_Eye_View_of_the_Taj_Mahal_at_Agra.jpg){#fig:taj-watercolor}
+
+* * * *
+
+![Escavações do Mehtab bāgh](http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg){#fig:mahtab}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse jardim acabou abandonado por ser muito vulnerável às cheias do rio
 Yamuna. O Mehtab bāgh foi restaurado na década de 1990, depois de uma
 prospecção arqueológica que descobriu o seu tanque octogonal com 25
 fontes e a configuração do *chahār bāgh* ([@fig:mahtab]).
-
-![Escavações do Mehtab bāgh](http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg){#fig:mahtab}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://media.gettyimages.com/photos/view-of-taj-mahal-from-mehtab-bagh-picture-id978615838?s=2048x2048"}
+* * * *
 
 ::: {#fig:mahtab-getty}
 <a id='1VkEA-GZTM5wqTTKjvgWtg' class='gie-single' href='http://www.gettyimages.pt/detail/978615838' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'1VkEA-GZTM5wqTTKjvgWtg',sig:'MTqmpXpHM_n4-fS6tkApZuiLbjT_eNeX6Vi58cGdNZA=',w:'509px',h:'338px',items:'978615838',caption: true ,tld:'pt',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
-Vista do Taj Mahal desde o Mehtab bāgh. @banerjee:view
+Vista do Taj Mahal desde o Mehtab bāgh. Foto: [Mukul Banerjee](https://www.gettyimages.pt/detail/foto/view-of-taj-mahal-from-mehtab-bagh-imagem-royalty-free/978615838)
 :::
 
 ## Colonização britânica ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg"}
-
-<!--_-->
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Originalmente o jardim continha uma enorme variedade de plantas e
@@ -764,18 +769,25 @@ estar presente no "paraíso" ([@fig:taj-1890]). Mas, com o domínio
 britânico no século [XIX]{.smallcaps}, não só o jardim do Taj Mahal, mas de diversos
 outros jardins mogóis foram transformados em extensos gramados
 ([@fig:taj-lawn]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista do Taj Mahal entre 1890 e 1900](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg/997px-Taj_Mahal,_Agra,_India,_ca._1900.jpg){#fig:taj-1890}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1280px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg"}
+* * * *
+
+![Vista do Taj Mahal desde o sudoeste. Foto: [Herojik Waikhom, 2010][waikhom:2012view]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg){#fig:taj-lawn}
+
+[waikhom:2012view]: https://commons.wikimedia.org/wiki/File:A_view_of_Taj_Mahal_from_the_south-western_side..jpg
+
+* * * *
+
+![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. Foto: [Harvinder Chandigarh, 2017][chandigarh:2017mughal]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1024px-Mughal_Garden_Delhi,_India_08.jpg){#fig:mughal-gardens}
+
+[chandigarh:2017mughal]: https://commons.wikimedia.org/wiki/File:Mughal_Garden_Delhi,_India_08.jpg
+
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Vista do Taj Mahal desde o sudoeste. @waikhom:2012view](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg){#fig:taj-lawn}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1280px-Mughal_Garden_Delhi,_India_08.jpg"}
-
 Apesar disso, a presença britânica na Índia também resultou no início da
 pesquisa histórica e arqueológica da região. Um dos produtos mais
 importantes para a história do paisagismo é o livro de Constance
@@ -785,14 +797,13 @@ A pesquisa de Villiers-Stuart foi a base de um dos últimos projetos
 coloniais britânicos na Índia, o "jardim mogol" do antigo palácio dos
 vice-reis e atual palácio presidencial, em Nova Delhi
 ([@fig:mughal-gardens; @fig:stoughton]).
-
-![Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, "Mughal Gardens", Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912--1914. @chandigarh:2017mughal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1024px-Mughal_Garden_Delhi,_India_08.jpg){#fig:mughal-gardens}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Mughal Gardens, Rashtrapati Bhavan. @stoughton:1962view](https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg){#fig:stoughton}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Mughal Gardens, Rashtrapati Bhavan. Foto: [Cecil W. Stoughton, 1962][stoughton:1962view]](https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg){#fig:stoughton}
+
+[stoughton:1962view]: https://commons.wikimedia.org/wiki/File:View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg
 
 # Jardins no leste da Ásia #
 
