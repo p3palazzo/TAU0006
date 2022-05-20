@@ -9,12 +9,20 @@ excerpt: >
   Cidades mercantes do Sudeste asiático –
   Cidades da costa Suaíle –
   Infraestrutura hidráulica na América
-leitura: 455--468
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/katip_celebis_cihannuma-map_of_south_east_asia-bg-blur.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/katip_celebis_cihannuma-map_of_south_east_asia-bg-blur.jpg
   caption: "İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*](https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)) de Kâtip Çelebi, 1648"
+  actions:
+  - label: Slides
+    url  : /slides/rotas/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* v–vii, 455–468
+    - Summerson 1–15
 ---
 
 # Mundos conectados no século [XIV]{.smallcaps} #

@@ -9,12 +9,20 @@ excerpt: >
   Arquitetura clássica I › Elementos –
   Arquitetura clássica II › Volumes –
   Arquitetura clássica III › Superfícies e volumes
-leitura: Summerson 1--37, ver também o Glossário ao final
+title-slide-attributes:
+  data-background-image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
 header:
   overlay_image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
   caption: "Sandro Botticelli. Castigo dos levitas. Afresco na [capela Sistina, 1481--482][]" 
-title-slide-attributes:
-  data-background-image: https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg
+  actions:
+  - label: Slides
+    url  : /slides/linguagem/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 539–547
+    - Summerson 17–37
 ---
 
 # Invenção do classicismo #

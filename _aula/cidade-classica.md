@@ -9,12 +9,19 @@ excerpt: >
   Praças reais e cidades coloniais –
   Modos de morar no Mediterrâneo moderno –
   Bioclimatismo e arquitetura clássica
-leitura: 552--572
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
   caption: "Mathäus Merian, [carrossel na praça Real em Paris, 1648](https://commons.wikimedia.org/wiki/File:Mathäus_Merian,_Carosel_fait_a_la_Place_Royalle_a_Paris,_1648_-_Paris_Musées.jpg)"
-title-slide-attributes:
-  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
+  actions:
+  - label: Slides
+    url  : /slides/cidade-classica/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 552–572
 ---
 
 # Geometrias da fortificação #

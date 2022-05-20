@@ -12,6 +12,14 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg/2560px-Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg
   caption: "Katsushika Hokusai, [Serraria em Honjo](https://commons.wikimedia.org/wiki/File:Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg), c. 1830"
+  actions:
+  - label: Slides
+    url  : /slides/barroco-intl/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 585–598
 title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/57/5b/0b/575b0b366b9196fac7a8c35db7d1a751.jpg
 ---

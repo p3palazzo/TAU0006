@@ -12,6 +12,14 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
   caption: "Utagawa Hiroshige, [Narumi](https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg), das 53 estações do Tōkaidō, 1833--35"
+  actions:
+  - label: Slides
+    url  : /slides/territorios/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - Sambricio
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
 ---
@@ -383,3 +391,4 @@ só os mais pobres viajavam a pé.
 ## Malha continental ##
 
 # Bibliografia # {.allowframebreaks .unlisted}
+

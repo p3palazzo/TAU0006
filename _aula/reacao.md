@@ -12,13 +12,17 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
   caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
+  actions:
+  - label: Slides
+    url  : /slides/reacao/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - Summerson 89–127
+    - *História global* 616–625
 title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
-sidebar:
-- title: "Leitura"
-  text : |
-    - Summerson 89–125
-    - *História global* 616–625
 ---
 
 # Classicismo para o povo #
