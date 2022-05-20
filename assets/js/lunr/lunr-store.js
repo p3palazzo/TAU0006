@@ -89,58 +89,10 @@ var store = [{
         "url": "/tau0006/plano/analise-urbana/",
         "teaser": null
       },{
-        "title": "Avaliação",
-        "excerpt":"Organização e normas gerais A nota final da disciplina é computada a partir do acompanhamento da leitura do livro-texto e de outros textos indicados, além de três trabalhos que correspondem a cada uma das três Unidades do Programa (tab. 1). Tabela 1: Atividades avaliativas da disciplina Atividade Entrega Nota Resenha e...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/avalia/",
-        "teaser": null
-      },{
-        "title": "Leitura e estudo",
-        "excerpt":"Como estudar Como estamos trabalhando a distância, a leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a videoconferência vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar as atividades! Antes, a videoconferência é uma ocasião para esclarecer dúvidas...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/bibliografia/",
-        "teaser": null
-      },{
-        "title": "TAU 0006 · História da Arquitetura e da Arte II",
-        "excerpt":"Conteúdo Leituras e Atividades Prazo UNIDADE I · REDES URBANAS NA FUNDAÇÃO DO MUNDO MODERNO Trabalho: Análise urbana 01/02 a 26/02 1 Arquitetura do humanismo – Introdução à arquitetura da Idade Moderna – Arquitetura clássica entre a prática e a teoria – Problemas de historiografia e crítica – Construção medieval...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/cronograma/",
-        "teaser": null
-      },{
-        "title": "Perguntas frequentes",
-        "excerpt":"Como é feito o controle de frequência? A UnB considera oficialmente esta disciplina como sendo “presencial”, portanto temos que controlar a “frequência” ao longo do semestre. Assim, você deve se fazer “presente” em pelo menos 75 % da carga horária do semestre (45 de 60), participando ativa e produtivamente das discussões...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/faq/",
-        "teaser": null
-      },{
-        "title": "Como vamos trabalhar",
-        "excerpt":"Nossas ferramentas Moodle Neste semestre, você vai continuar estudando em modo remoto. Todo o conteúdo e as atividades da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/metodologia/",
-        "teaser": null
-      },{
         "title": "Apresentação e acolhimento",
         "excerpt":"Boas-vindas Esta é a Turma C da disciplina História da Arquitetura e da Arte II. Vamos acompanhar vocês num percurso que vai do século XV ao XVIII. Começamos falando um pouco sobre como a disciplina vai ser desenvolvida este semestre — se você está com dúvidas sobre o funcionamento das...","categories": [],
         "tags": [],
         "url": "/tau0006/plano/intro/",
-        "teaser": null
-      },{
-        "title": "Páginas do livro-texto",
-        "excerpt":"Era páginas Tópico Un. Mód. Aula v–vii 3 Prefácio 0 0 0 1200 425 1 Yingzao Fashi I iii 5 436 1 Grande Zimbábue I i 2 1400 455–459 5 Introdução 0 0 0 460–468 9 Américas II vi 12 469–473 5 Veneza – Império Otomano I i 2 474–490...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/livro-texto/",
-        "teaser": null
-      },{
-        "title": "Objetivos de aprendizagem",
-        "excerpt":"O objetivo geral da disciplina é adquirir um domínio operativo da arquitetura e do urbanismo da Idade Moderna (séculos XV a XVIII) enquanto objeto de pesquisa historiográfica e enquanto tradição fundadora do campo profissional, estético e técnico da contemporaneidade. Os quatro objetivos específicos correspondem, respectivamente, à visão de conjunto da...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/objetivos/",
-        "teaser": null
-      },{
-        "title": "TAU 0006 · História da Arquitetura e da Arte II",
-        "excerpt":"Apresentação Esta disciplina dá sequência ao conteúdo de história da arquitetura em ordem cronológica e visando a atingir uma perspectiva mundial. O fundamento da cadeia de disciplinas de Teoria e História da Arquitetura e do Urbanismo, incluindo Estética e História das Artes, é subsidiar, por meio do conhecimento de repertórios...","categories": [],
-        "tags": [],
-        "url": "/tau0006/plano/plano/",
         "teaser": null
       },{
         "title": "Sobre a disciplina",
@@ -149,10 +101,34 @@ var store = [{
         "url": "/tau0006/plano/sobre-disciplina/",
         "teaser": null
       },{
-        "title": "Instrumentos e materiais",
-        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
+        "title": "Avaliação",
+        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
         "tags": [],
-        "url": "/tau0006/trabalho/materiais/",
+        "url": "/tau0006/plano/avalia/",
+        "teaser": null
+      },{
+        "title": "Leitura e estudo",
+        "excerpt":"A leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a aula expositiva vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar os trabalhos! Antes, o encontro em aula é uma ocasião para esclarecer dúvidas sobre pontos do conteúdo...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/bibliografia/",
+        "teaser": null
+      },{
+        "title": "Perguntas frequentes",
+        "excerpt":"Como é feito o controle de frequência? A UnB considera oficialmente esta disciplina como sendo “presencial”, portanto temos que controlar a “frequência” ao longo do semestre. Assim, você deve se fazer “presente” em pelo menos 75 % da carga horária do semestre (45 de 60), participando ativa e produtivamente das discussões...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/faq/",
+        "teaser": null
+      },{
+        "title": "Metodologia e recursos de apoio",
+        "excerpt":"Moodle Todo o conteúdo e as ementas dos trabalhos da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir à plataforma virtual como o Moodle. O login do...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/metodologia/",
+        "teaser": null
+      },{
+        "title": "Objetivos de aprendizagem",
+        "excerpt":"Objetivo geral O objetivo geral da disciplina é adquirir um domínio operativo da arquitetura e do urbanismo da Idade Moderna (séculos XV a XVIII) enquanto objeto de pesquisa historiográfica e enquanto tradição fundadora do campo profissional, estético e técnico da contemporaneidade. Os quatro objetivos específicos correspondem, respectivamente, à visão de...","categories": [],
+        "tags": [],
+        "url": "/tau0006/plano/objetivos/",
         "teaser": null
       },{
         "title": "Análise urbana",
@@ -168,14 +144,20 @@ var store = [{
         "teaser": null
       },{
         "title": "Resenha e discussão de texto",
-        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula na quinta-feira. Produto (3 pontos) Em um ou dois parágrafos (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras, discuta os principais argumentos levantados pela leitura indicada para esta semana. Não é...","categories": [],
+        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula. Produto (3 pontos) Em um ou dois parágrafos (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras, discuta os principais argumentos levantados pela leitura indicada para esta semana. Não é preciso cobrir...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/resenha/",
-        "teaser": null
+        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
       },{
         "title": "Pesquisa e crítica",
         "excerpt":"Objetivo Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos,...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/wikipedia/",
+        "teaser": null
+      },{
+        "title": "Instrumentos e materiais",
+        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/materiais/",
         "teaser": null
       }]
