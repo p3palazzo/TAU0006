@@ -1204,7 +1204,7 @@ references:
   issue: '190'
   issued:
     - year: 2009
-  language: en-ZA
+  language: en
   page: 148-155
   source: Scopus
   title: >-
@@ -6976,7 +6976,6 @@ references:
       given: Jeffrey
   citation-key: fleisher:2014complexity35
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2014.04.002
   ISSN: 0278-4165
   issued:
@@ -8733,7 +8732,6 @@ references:
       given: Besim Selim
   citation-key: hakim:1999urban16
   container-title: Cities
-  container-title-short: Cities
   DOI: 10.1016/S0264-2751(98)00054-7
   ISSN: 0264-2751
   issue: '1'
@@ -9471,7 +9469,6 @@ references:
       given: Thomas N.
   citation-key: huffman:2009mapungubwe28
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2008.10.004
   ISSN: 0278-4165
   issue: '1'
@@ -14024,8 +14021,8 @@ references:
   publisher: Springer
   publisher-place: Cham
   source: Springer Link
-  title: 'Case Study: Lamu Old Town'
-  title-short: Case Study
+  title: 'Case study: Lamu old town'
+  title-short: Case study
   type: chapter
   URL: https://doi.org/10.1007/978-981-10-8887-2_17
 
@@ -14816,6 +14813,17 @@ references:
   URL: http://archive.org/details/templebuildersmo00over
 
 - id: palazzo:2014louvre
+  abstract: >-
+    Exploramos aqui as interações entre a pesquisa historiográfica e os
+    interesses estéticos e culturais em jogo em meados do século XX, os quais se
+    rebatem na leitura dos monumentos arquitetônicos do passado. Um dos
+    principais aspectos desse contexto é a percepção dos períodos históricos, em
+    particular das fases clássica e neoclássica da arte francesa entre os
+    séculos XVII e XVIII. O modo como os historiadores da arte franceses, entre
+    1924 e 1964, interpretam a arquitetura do Louvre de Luís XIV reflete as
+    preocupações modernistas então em vigor e a exaltação de modelos teóricos
+    fundados no neoclassicismo do século XVIII, anacronicamente projetados sobre
+    a arquitetura monumental do século XVII.
   author:
     - family: Palazzo
       given: Pedro P.
@@ -16421,7 +16429,6 @@ references:
       given: Labelle
   citation-key: prussin:1968architecture
   container-title: African Arts
-  container-title-short: African Arts
   DOI: 10.2307/3334324
   ISSN: 0001-9933
   issue: '2'
@@ -17651,7 +17658,6 @@ references:
       given: Mohamed R.
   citation-key: said:2008parametric6
   container-title: International Journal of Architectural Computing
-  container-title-short: International Journal of Architectural Computing
   DOI: 10.1260/147807708785850113
   ISSN: 1478-0771
   issue: '2'
@@ -19591,7 +19597,7 @@ references:
   issued:
     - year: 2012
   language: en
-  publisher: Ashgate Publishing, Ltd.
+  publisher: Ashgate
   source: Google Books
   title: >-
     Beyond racialized representation: architectural *linguæ francæ* and urban
@@ -20591,6 +20597,7 @@ references:
       day: 16
   citation-key: 'vernacular:'
   container-title: Archnet
+  language: en
   title: Vernacular Housing of Lamu (Swahili Housing)
   type: webpage
   URL: https://archnet.org/sites/6076
@@ -22012,7 +22019,6 @@ references:
       given: Stephanie
   citation-key: wynne-jones:2007creating81
   container-title: Antiquity
-  container-title-short: Antiquity
   DOI: 10.1017/S0003598X00095247
   ISSN: 0003-598X, 1745-1744
   issue: '312'
@@ -22057,7 +22063,6 @@ references:
       given: Stephanie
   citation-key: wynne-jones:2013public32
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2013.05.003
   ISSN: 0278-4165
   issue: '4'
@@ -22117,6 +22122,7 @@ references:
       given: Jeffrey
   citation-key: wynne-jones:ruins
   container-title: Zamani Project
+  language: en
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
@@ -22270,6 +22276,7 @@ references:
     - year: 2016
       month: 9
       day: 19
+  language: en
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
@@ -22284,6 +22291,7 @@ references:
       day: 24
   citation-key: zamaniproject:swaheli
   container-title: Zamani Project
+  language: en
   title: Swaheli House Museum
   type: webpage
   URL: https://zamaniproject.org/site-kenya-lamu-swahili-house-musemu.html

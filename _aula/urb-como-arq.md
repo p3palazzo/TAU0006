@@ -15,6 +15,14 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/2560px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
   caption: "Pierre Patel, [Vista do castelo e jardins de Versalhes desde a avenida de Paris](https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg), 1668"
+  actions:
+  - label: Slides
+    url  : /slides/urb-como-arq/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 573–584
 ---
 
 # Sincretismo cultural na Etiópia #

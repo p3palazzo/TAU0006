@@ -9,12 +9,19 @@ excerpt: >
   Parataxis –
   Projeto iterativo –
   Espaço geométrico
-leitura: 539--551
 title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/db/e5/cd/dbe5cd7d5715ff9c5f2fc619d9115214.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
   caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
+  actions:
+  - label: Slides
+    url  : /slides/anticlassico/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 548–551
 ---
 
 # Composição #

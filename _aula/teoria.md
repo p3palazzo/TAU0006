@@ -10,12 +10,19 @@ excerpt: >
   Mausoléus indianos –
   Jardins no leste da Ásia –
   Jardins na Europa
-leitura: 520--530, Summerson 39--62
+title-slide-attributes:
+  data-background-image: https://i.pinimg.com/originals/84/8f/9a/848f9a2dcebd3e4186074c1f3802cefc.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
   caption: "Paolo Veronese, [Banquete na casa de Levi, 1573](https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg)"
-title-slide-attributes:
-  data-background-image: https://i.pinimg.com/originals/84/8f/9a/848f9a2dcebd3e4186074c1f3802cefc.jpg
+  actions:
+  - label: Slides
+    url  : /slides/linguagem/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - Summerson 39–62
 ---
 
 # Arquitetura do humanismo #
