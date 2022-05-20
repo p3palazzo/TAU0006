@@ -1,11 +1,18 @@
 ---
 title: Resenha e discussão de texto
+header:
+  teaser: https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg
+  overlay_image: https://i.pinimg.com/originals/7e/c8/2e/7ec82e0a9a71475c602ce2884268260e.jpg
+  caption: "Giuseppe Maria Crespi, [Estantes](https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Bookshelves_-_WGA05755.jpg), c. 1725"
+excerpt: >
+  Reflexão crítica sobre a leitura da semana, preparatória para a
+  discussão em aula.
 ---
 
 # Ementa #
 
 Reflexão crítica sobre a leitura da semana, preparatória para a
-discussão em aula na quinta-feira.
+discussão em aula.
 
 # Produto (3 pontos) #
 
@@ -44,6 +51,5 @@ Há apenas duas notas possíveis para a Resenha:
 
 # Eu preciso fazer *todas* as resenhas? #
 
-Você precisa *pontuar* em 10 das 15 leituras do semestre (somar 30
-pontos).
+Você precisa somar 30 pontos no conjunto das resenhas.
 
