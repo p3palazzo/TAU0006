@@ -52,8 +52,10 @@ sidebar:
 
 <i class="fas fa-tasks"></i>
 
-: Você precisa entregar *todos* os três trabalhos para ter aprovação na
-  disciplina. Se deixar de entregar algum dos trabalhos, receberá a
+: Você precisa entregar *todos* os trabalhos, fazer a prova e marcar 30
+  pontos nas resenhas para ter aprovação na
+  disciplina. Se deixar de entregar algum dos trabalhos, faltar à prova,
+  ou não atingir 30 pontos nas resenhas, receberá a
   menção [SR]{.smallcaps} independentemente da média final.
 
 <i class="fas fa-calendar-check"></i>
