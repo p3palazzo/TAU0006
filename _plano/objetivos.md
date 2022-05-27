@@ -35,7 +35,7 @@ trabalho2:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
     title     : "Prova II"
     excerpt   : "Análise arquitetônica"
-    url       : "/trabalho/analise-arq/"
+    url       : "/trabalho/prova/"
     btn_label : "11 de agosto"
     btn_class : "btn btn--inverse btn--small"
 

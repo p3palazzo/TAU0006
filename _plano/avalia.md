@@ -57,7 +57,7 @@ trabalhos:
       Análise arquitetônica
 
       Peso: 25 pontos
-    url       : "/trabalho/analise-arq/"
+    url       : "/trabalho/prova/"
     btn_label : "Realização 11 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-kooogimi-46-1.jpg

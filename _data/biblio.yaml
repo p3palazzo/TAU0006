@@ -4934,6 +4934,7 @@ references:
       given: Kenneth J.
   citation-key: conant:1968after-life27
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/988426
   ISSN: 0037-9808
   issue: '1'
@@ -4942,7 +4943,7 @@ references:
   language: en-US
   page: 33-38
   source: JSTOR
-  title: The after-Life of Vitruvius in the Middle Ages
+  title: The after-life of Vitruvius in the Middle Ages
   type: article-journal
   URL: https://www.jstor.org/stable/988426
   volume: '27'
@@ -6566,53 +6567,48 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
 
-- id: fauvelle:2018golden
-  accessed:
-    - year: 2020
-      month: 7
-      day: 18
+- id: fauvelle:2018rinoceronte
   author:
     - family: Fauvelle
       given: François-Xavier
-  citation-key: fauvelle:2018golden
-  DOI: 10.2307/j.ctvc77kzq
-  event-place: Princeton, N.J.
-  ISBN: 978-0-691-18394-7
+  citation-key: fauvelle:2018rinoceronte
+  event-place: São Paulo
+  ISBN: 978-85-314-1699-6
   issued:
     - year: 2018
-      month: 12
-      day: 4
-  language: en-US
-  publisher: Princeton University Press
-  publisher-place: Princeton, N.J.
-  source: DOI.org (Crossref)
-  title: 'The golden rhinoceros: Histories of the African Middle Ages'
-  title-short: The golden rhinoceros
+  language: pt-BR
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Amazon
+  title: 'O rinoceronte de ouro: histórias da Idade Média africana'
+  title-short: O rinoceronte de ouro
   translator:
-    - family: Tice
-      given: Troy
+    - family: Campos
+      given: Regina Salgado
+    - family: Poletti
+      given: Iraci D.
   type: book
-  URL: http://www.jstor.org/stable/10.2307/j.ctvc77kzq
 
-- id: fauvelle:2019atlas
-  call-number: G2446.S1 B3 2019
-  citation-key: fauvelle:2019atlas
-  collection-title: Collection Atlas/mémoires
+- id: fauvelle:2020atlas
+  citation-key: fauvelle:2020atlas
   editor:
     - family: Fauvelle
       given: François-Xavier
     - family: Surun
       given: Isabelle
-  event-place: Paris
-  ISBN: 978-2-7467-5114-9
+  event-place: Lisboa
+  ISBN: 978-989-702-566-2
   issued:
-    - year: 2019
-  language: fr-FR
-  number-of-pages: '1'
-  publisher: Autrement
-  publisher-place: Paris
-  source: Library of Congress ISBN
-  title: Atlas historique de l'Afrique
+    - year: 2020
+  language: pt
+  publisher: Guerra & Paz
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Atlas histórico de África: da pré-história aos nossos dias'
+  title-short: Atlas histórico de África
+  translator:
+    - family: Lopes
+      given: Isabel
   type: book
 
 - id: fazio:2011historia
@@ -7810,8 +7806,8 @@ references:
       given: Jean-Philippe
   citation-key: garric:2017decadence
   collection-title: >-
-    Collections électroniques de l’INHA. Actes de colloques et livres en ligne
-    de l’Institut national d'histoire de l'art
+    Collections électroniques de l’<span class="smallcaps">INHA</span>. Actes de
+    colloques et livres en ligne de l’Institut national d'histoire de l'art
   container-title: 'Architecture et théorie: l''héritage de la Renaissance'
   editor:
     - family: Garric
@@ -7826,10 +7822,12 @@ references:
       month: 4
       day: 22
   language: fr-FR
-  publisher: INHA
+  publisher: Institut national d’histoire de l’art
   publisher-place: Paris
   source: journals.openedition.org
-  title: Décadence de la théorie des ordres à la fin du XVIII^e^ siècle
+  title: >-
+    Décadence de la théorie des ordres à la fin du <span
+    class="smallcaps">XVIII</span>^e^ siècle
   type: chapter
   URL: http://journals.openedition.org/inha/3399
 
@@ -7877,11 +7875,13 @@ references:
       given: Pierre
   call-number: '585378'
   citation-key: gautier:1697lart
+  event-place: Paris
   issued:
     - year: 1697
   language: fr-FR
   number-of-pages: '290'
-  publisher: 'A Paris : Chez Christophe Ballard ...'
+  publisher: Christophe Ballard
+  publisher-place: Paris
   source: Internet Archive
   title: >-
     L'art de dessiner proprement les plans, profils, elevations geometrales, et
@@ -7890,9 +7890,7 @@ references:
     ingenieurs representent les divers materiaux d'une place : et la maniere de
     s'en servir dans les vûës des sieges, campements, & autres morceaux de
     païsage
-  title-short: >-
-    L'art de dessiner proprement les plans, porfils, elevations geometrales, et
-    perspectives, soit d'architecture militaire ou civile
+  title-short: L'art de dessiner proprement les plans
   type: book
   URL: http://archive.org/details/lartdedessinerpr00giff
 
@@ -8021,7 +8019,7 @@ references:
   citation-key: geymueller:1901baukunst2
   issued:
     - year: 1901
-  language: German
+  language: de
   number-of-pages: '372'
   publisher: Kröner
   source: Internet Archive
@@ -12070,7 +12068,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B_%E9%A6%AC%E9%81%A0_%E9%AB%98%E5%A3%AB%E8%A7%80%E7%80%91%E5%9C%96_%E5%86%8A%E9%A0%81_%E7%B5%B9%E6%9C%AC-Scholar_viewing_a_waterfall_MET_DP154090.jpg
 
-- id: maass:1969where
+- id: maass:1969where28
   accessed:
     - year: 2012
       month: 12
@@ -12078,7 +12076,7 @@ references:
   author:
     - family: Maass
       given: John
-  citation-key: maass:1969where
+  citation-key: maass:1969where28
   container-title: The Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988523
@@ -14606,7 +14604,7 @@ references:
   issued:
     - year: 54
     - year: 68
-  language: Italian
+  language: it
   source: Wikimedia Commons
   title: >-
     Nozze di Zefiro e Clori; affresco da Pompei, Casa del Naviglio (VI,10,11,
@@ -17624,8 +17622,8 @@ references:
   publisher: <span class="smallcaps">CUMINCAD</span>
   source: papers.cumincad.org
   title: >-
-    Towards a digital representation of vernacular architecture – the
-    traditional Malay houses in perspective
+    Towards a digital representation of vernacular architecture: the traditional
+    Malay houses in perspective
   title-short: Towards a digital representation of vernacular architecture
   type: paper-conference
   URL: http://papers.cumincad.org/cgi-bin/works/Show?caadria2007_211
@@ -19779,7 +19777,7 @@ references:
   language: en
   page: 32-94
   source: JSTOR
-  title: Origin Traditions and History in Central Africa
+  title: Origin traditions and history in central Africa
   type: article-journal
   URL: https://www.jstor.org/stable/3338010
   volume: '37'
@@ -20438,7 +20436,7 @@ references:
   issued:
     - literal: sábado, 19 de janeiro de 2013
   language: pt-BR
-  title: Paris das Luzes segundo o Plano de Turgot (1739)
+  title: Paris das Luzes segundo o plano de Turgot (1739)
   title-short: rocinante
   type: post-weblog
   URL: >-
@@ -21305,7 +21303,7 @@ references:
 - id: waisman:1993interior
   author:
     - family: Waisman
-      given: Manno
+      given: Marina
   citation-key: waisman:1993interior
   edition: '2'
   event-place: Bogotá
@@ -21742,7 +21740,7 @@ references:
       day: 1
   archive: JSTOR
   author:
-    - family: WIlson
+    - family: Wilson
       given: Thomas H.
   citation-key: wilson:1982spatial28
   container-title: Paideuma
@@ -22029,7 +22027,9 @@ references:
   language: en
   page: 368-380
   source: DOI.org (Crossref)
-  title: Creating urban communities at Kilwa Kisiwani, Tanzania, AD 800-1300
+  title: >-
+    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
+    class="smallcaps">AD</span> 800-1300
   type: article-journal
   URL: >-
     https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
@@ -22073,7 +22073,9 @@ references:
   language: en
   page: 759-773
   source: ScienceDirect
-  title: The public life of the Swahili stonehouse, 14th–15th centuries AD
+  title: >-
+    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
+    class="smallcaps">AD</span>
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
   volume: '32'
