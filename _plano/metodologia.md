@@ -2,7 +2,7 @@
 title: "Metodologia e recursos de apoio"
 date: 2022-06-09
 excerpt: >
-  Moodle – Bibliotecas –
+  Moodle – Bibliotecas – Caderno de croquis e anotações –
   Como acompanhar o programa
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
@@ -78,6 +78,29 @@ minha senha!` na tela de login.
   ou eletrônicos das bibliotecas, verifique os treinamentos disponíveis
   no site da [[BCE]{.smallcaps}] ou peça ajuda à equipe docente da
   disciplina.
+
+# Caderno de croquis e anotações #
+
+Ao longo do semestre, você deve constituir um caderno com croquis e
+anotações referentes ao conteúdo desta disciplina. O caderno pode ser
+preenchido durante as aulas presenciais e também durante o seu estudo
+independente fora do horário da aula.
+
+<i class="fas fa-check-circle"></i>
+
+: Você pode comprar um caderno de desenho ou fazer o seu próprio caderno
+  artesanal encadernando folhas de papel de boa qualidade
+  (90 g/m² ou maior, com textura) entre duas folhas de papel Paraná.
+
+Uma imagem vale mais do que mil palavras! Dê preferência ao desenho
+antes que a longas anotações por escrito. Esses desenhos serão
+principalmente croquis e diagramas analisando as características
+construtivas e de composição dos edifícios estudados, explicitando as
+informações que o desenho pretende comunicar.
+
+No dia da prova, você vai usar o mesmo caderno de croquis e anotações
+para responder a prova. Entregue o caderno aos professores ou monitores
+quando terminar de responder a todas as questões.
 
 # Como acompanhar o programa #
 
