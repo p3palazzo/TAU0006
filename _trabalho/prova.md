@@ -36,6 +36,12 @@ independente fora do horário da aula.
   artesanal encadernando folhas de papel de boa qualidade
   (90 g/m² ou maior, com textura) entre duas folhas de papel Paraná.
 
+Uma imagem vale mais do que mil palavras! Dê preferência ao desenho
+antes que a longas anotações por escrito. Esses desenhos serão
+principalmente croquis e diagramas analisando as características
+construtivas e de composição dos edifícios estudados, explicitando as
+informações que o desenho pretende comunicar.
+
 ## Realização da prova ##
 
 No dia da prova, você vai usar o mesmo caderno de croquis e anotações
