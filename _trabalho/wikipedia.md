@@ -14,7 +14,13 @@ header:
   caption: "[A escritora Koōgimi](http://burkecollection.org/catalogue/46-ko%C5%8Dgimi-from-fujifusa-version-of-thirty-six-immortal-poets), de um rolo da primeira metade do século [XV]{.smallcaps}"
 ---
 
-# Objetivo #
+# Objetivo de aprendizagem #
+
+Saber pesquisar
+
+: Refletir criticamente sobre a tradição historiográfica da arquitetura,
+  e especialmente sobre os debates a respeito das noções de Antiguidade
+  e Modernidade.
 
 # Ementa #
 
@@ -39,12 +45,6 @@ em examinar um aspecto pontual desse processo:
 > um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
 > séculos [XV]{.smallcaps} a [XVIII]{.smallcaps}, como parte de um
 > verbete da Wikipédia.
-
-## Objetivo ##
-
-Refletir criticamente sobre a tradição historiográfica da arquitetura, e
-especialmente sobre os debates a respeito das noções de Antiguidade e
-Modernidade.
 
 # Processo #
 

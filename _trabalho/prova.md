@@ -15,11 +15,13 @@ excerpt: >
   global.
 ---
 
-# Objetivo #
+# Objetivo de aprendizagem #
 
-Dominar e ser capaz de empregar os elementos do vocabulário e a
-gramática das tradições arquitetônicas da era moderna, com ênfase na
-linguagem clássica.
+Saber projetar
+
+: Dominar e ser capaz de empregar os elementos do vocabulário e a
+  gramática das tradições arquitetônicas da era moderna, com ênfase na
+  linguagem clássica.
 
 # Processo #
 
