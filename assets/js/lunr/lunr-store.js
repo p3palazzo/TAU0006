@@ -150,7 +150,7 @@ var store = [{
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
       },{
         "title": "Pesquisa e crítica",
-        "excerpt":"Objetivo Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos,...","categories": [],
+        "excerpt":"Objetivo de aprendizagem Saber pesquisar Refletir criticamente sobre a tradição historiográfica da arquitetura, e especialmente sobre os debates a respeito das noções de Antiguidade e Modernidade. Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/wikipedia/",
         "teaser": null
@@ -162,7 +162,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Análise arquitetônica",
-        "excerpt":"Objetivo Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Processo Caderno de croquis e anotações Ao longo do semestre, você deve constituir um caderno com croquis e anotações referentes ao conteúdo desta disciplina. O...","categories": [],
+        "excerpt":"Objetivo de aprendizagem Saber projetar Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Processo Caderno de croquis e anotações Ao longo do semestre, você deve constituir um caderno com croquis e anotações referentes ao...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/prova/",
         "teaser": null
