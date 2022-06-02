@@ -9,11 +9,6 @@ excerpt: >
   discussão em aula.
 ---
 
-# Ementa #
-
-Reflexão crítica sobre a leitura da semana, preparatória para a
-discussão em aula.
-
 # Objetivo de aprendizagem #
 
 Conhecer os fatos urbanos
