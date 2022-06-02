@@ -143,6 +143,12 @@ var store = [{
         "url": "/tau0006/trabalho/analise-arq/",
         "teaser": null
       },{
+        "title": "Resenha e discussão de texto",
+        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula. Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/resenha/",
+        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
+      },{
         "title": "Pesquisa e crítica",
         "excerpt":"Objetivo Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos,...","categories": [],
         "tags": [],
@@ -160,10 +166,4 @@ var store = [{
         "tags": [],
         "url": "/tau0006/trabalho/prova/",
         "teaser": null
-      },{
-        "title": "Resenha e discussão de texto",
-        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula. Produto (3 pontos) Em um ou dois parágrafos (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras, discuta os principais argumentos levantados pela leitura indicada para esta semana. Não é preciso cobrir...","categories": [],
-        "tags": [],
-        "url": "/tau0006/trabalho/resenha/",
-        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
       }]
