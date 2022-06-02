@@ -144,7 +144,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Resenha e discussão de texto",
-        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula. Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um...","categories": [],
+        "excerpt":"Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um parágrafo (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras,...","categories": [],
         "tags": [],
         "url": "/tau0006/trabalho/resenha/",
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
