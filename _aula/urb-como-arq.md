@@ -3,7 +3,7 @@ title   : "Urbanismo como arquitetura"
 subtitle: "Inquietações contemporâneas"
 item    : I
 author  : Pedro P. Palazzo
-date    : 2022-03-29
+date    : 2022-08-11
 excerpt: >
   Sincretismo cultural na Etiópia –
   Desenhos desmedidos –

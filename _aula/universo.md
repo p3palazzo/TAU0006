@@ -3,7 +3,7 @@ title   : "Universo em expansão"
 subtitle: "Inquietações contemporâneas"
 item    : III
 author  : Pedro P. Palazzo
-date    : 2022-04-12
+date    : 2022-08-25
 excerpt: >
   Sociedade burguesa –
   Antiquarismo e história da arte –
