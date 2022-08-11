@@ -54,7 +54,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Urbanismo como arquitetura",
-        "excerpt":"Sincretismo cultural na Etiópia Etiópia até o século XVII O império da Etiópia é o estado africano mais duradouro depois do antigo Egito, e um dos dois mais antigos reinos cristãos do mundo, junto com a Armênia (Figs. 1, 2). Figura 1: Estados Africanos até o século XVI. The Map Archive“The...","categories": [],
+        "excerpt":"Sincretismo cultural na Etiópia Etiópia até o século XVII O império da Etiópia é o estado africano mais duradouro depois do antigo Egito, e um dos dois mais antigos reinos cristãos do mundo, junto com a Armênia (Figs. 1, 2). Figura 1: Estados Africanos até o século XVI. Fonte: The Map...","categories": [],
         "tags": [],
         "url": "/tau0006/aula/urb-como-arq/",
         "teaser": null
