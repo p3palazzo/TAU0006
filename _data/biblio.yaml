@@ -6246,34 +6246,6 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_068.jpg
 
-- id: dunzhen:1982traditional10
-  accessed:
-    - year: 2020
-      month: 10
-      day: 11
-  archive: JSTOR
-  author:
-    - family: Dunzhen
-      given: Liu
-  citation-key: dunzhen:1982traditional10
-  container-title: Garden History
-  DOI: 10.2307/1586743
-  ISSN: 0307-1243
-  issue: '2'
-  issued:
-    - year: 1982
-  language: en
-  page: 108-141
-  publisher: The Garden History Society
-  source: JSTOR
-  title: The Traditional Gardens of Suzhou ("Su zhou gu dian yuan lin")
-  translator:
-    - family: Wood
-      given: Frances
-  type: article-journal
-  URL: https://www.jstor.org/stable/1586743
-  volume: '10'
-
 - id: 'duomo:'
   abstract: >-
     Arnolfo di Cambio had intended to cover the enormous space of 45,50 metres
@@ -11992,6 +11964,34 @@ references:
     los Reyes Aztecas in Tláhuac, Mexico City
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:LagoReyesTlahuac76.JPG
+
+- id: liu:1982traditional10
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Liu
+      given: Dunzhen
+  citation-key: liu:1982traditional10
+  container-title: Garden History
+  DOI: 10.2307/1586743
+  ISSN: 0307-1243
+  issue: '2'
+  issued:
+    - year: 1982
+  language: en
+  page: 108-141
+  publisher: The Garden History Society
+  source: JSTOR
+  title: The Traditional Gardens of Suzhou ("Su zhou gu dian yuan lin")
+  translator:
+    - family: Wood
+      given: Frances
+  type: article-journal
+  URL: https://www.jstor.org/stable/1586743
+  volume: '10'
 
 - id: livioandronico2013:2015carlino
   accessed:
