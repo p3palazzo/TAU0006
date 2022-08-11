@@ -3,7 +3,7 @@ title   : "Reação clássica"
 subtitle: "Inquietações contemporâneas"
 item    : IV
 author  : Pedro P. Palazzo
-date    : 2022-04-19
+date    : 2022-09-08
 excerpt: >
   Classicismo para o povo –
   Origens do cálculo estrutural –
@@ -12,13 +12,17 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David,_Le_Serment_des_Horaces.jpg
   caption: "Jacques Louis David, [Juramento dos Horácios](https://commons.wikimedia.org/wiki/Category:Le_Serment_des_Horaces_by_Jacques-Louis_David), 1785"
-title-slide-attributes:
-  data-background-slide: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
+  actions:
+  - label: Slides
+    url  : /slides/reacao/
+
 sidebar:
-- title: "Leitura"
-  text : |
-    - Summerson 89–125
+- title: "Leitura obrigatória"
+  text: |
+    - Summerson 89–127
     - *História global* 616–625
+title-slide-attributes:
+  data-background-image: https://i.pinimg.com/originals/a0/c9/22/a0c922a8734c95d9e1793d1532c10067.jpg
 ---
 
 # Classicismo para o povo #
@@ -63,10 +67,10 @@ na Bavária, é um dos mais difundidos nesse gênero ([@fig:dietterlin]).
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:dietterlin}
 ::: {.column width=50%}
-![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page7-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinA width=100%}
+![Autorretrato](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page7-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinA}
 :::
 ::: {.column width=50%}
-![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page5-522px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinB width=100%}
+![Frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page5-522px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:dietterlinB}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -82,10 +86,10 @@ apresentados cada um numa única prancha ([@fig:diet74-77]).
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet74-77}
 ::: {.column width=50%}
-![pr. 74](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page151-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet74 width=100%}
+![pr. 74](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page151-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet74}
 :::
 ::: {.column width=50%}
-![pr. 77](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page157-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet77 width=100%}
+![pr. 77](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page157-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet77}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -101,10 +105,10 @@ encadernado e circulavam amplamente.
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet82-85}
 ::: {.column width=50%}
-![pr. 82](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page167-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet82 width=100%}
+![pr. 82](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page167-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet82}
 :::
 ::: {.column width=50%}
-![pr. 85](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page173-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet85 width=100%}
+![pr. 85](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page173-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet85}
 :::
 Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -126,46 +130,50 @@ variedade de motivos presentes em várias pranchas diferentes.
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:diet16-26 .columns}
 ::: {.column width=50%}
-![pr. 16](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page35-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet16 width=100%}
+![pr. 16](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page35-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet16}
 :::
-::: {.column .r-stack width=50% #fig:contos-dietterlin}
-![pr. 26](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page55-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet26 width=100%}
+::: {.column width=50%}
+![pr. 26](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page55-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet26}
 :::
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:diet31-37 .columns}
 ::: {.column width=50%}
-![pr. 31](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page65-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet31 width=100%}
+![pr. 31](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page65-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet31}
 :::
 ::: {.column width=50%}
-![pr. 37](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page77-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet37 width=100%}
+![pr. 37](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page77-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet37}
 :::
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:diet68-71 .columns}
 ::: {.column width=50%}
-![pr. 68](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page139-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet68 width=100%}
+![pr. 68](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page139-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet68}
 :::
 ::: {.column width=50%}
-![pr. 71](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page145-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet71 width=100%}
+![pr. 71](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page145-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet71}
 :::
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diet-contos}
 ::: {.column width=50%}
 ![Chafariz dos Contos, 1760. [Py4nf (2011)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg){#fig:contos-redux}
 :::
 ::: {.column width=50%}
-![pr. 104](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page211-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet104 width=100%}
+![pr. 104](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page211-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg){#fig:diet104}
 :::
+Wendel [Dietterlin, *Architectura* (1598)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -216,29 +224,22 @@ Unido e dos Estados Unidos ([@fig:uda-pattern]).
 A obra de Colen Campbell intitulada *Vitruvius Britannicus*, de 1715, é
 um marco na consolidação dos livros de arquitetura na Inglaterra
 ([@fig:britannicus-front]).
-
-* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.no-slide}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa publicação vai além do catálogo de ordens clássicas ou de motivos
 detalhados, e oferece também plantas e fachadas completas de edifícios
 --- sobretudo mansões e palacetes ([@fig:wilbury]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: {#fig:wilbury .half}
-![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv}
-![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan}
+::: {#fig:wilbury .half .full}
+<div class="r-stack">![planta do térreo, pr. 51](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg){#fig:wilbury-plan .fragment .current-visible}
+![fachada, pr. 52](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg){#fig:wilbury-elv .fragment .current-visible}</div>
 
 William Benson, Wilbury House, 1710. In *Vitruvius Britannicus* 
 :::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1280px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -260,10 +261,10 @@ Jones, no início do século [XVII]{.smallcaps}.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:ware}
 ::: {.column width=50%}
-![frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page10-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-front width=100%}
+![frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page10-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-front}
 :::
 ::: {.column width=50%}
-![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page11-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-rosto width=100%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page11-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg){#fig:ware-rosto}
 :::
 Palladio, [*The Four Books of Architecture* (1738)], trad. Isaac Ware
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -279,10 +280,10 @@ em 1733. ([@fig:britcarp]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp}
 ::: {.column width=50%}
-![endosso](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page8-964px-thumbnail.pdf.jpg){#fig:britcarp-end width=100%}
+![endosso](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page8-964px-thumbnail.pdf.jpg){#fig:britcarp-end}
 :::
 ::: {.column width=50%}
-![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page9-964px-thumbnail.pdf.jpg){#fig:britcarp-front width=100%}
+![folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page9-964px-thumbnail.pdf.jpg){#fig:britcarp-front}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -300,10 +301,10 @@ desde os traçados geométricos elementares para a disposição do canteiro
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-ac}
 ::: {.column width=50%}
-![traçados geométricos elementares, pr. A](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page20-964px-thumbnail.pdf.jpg){#fig:britcarp-a width=100%}
+![traçados geométricos elementares, pr. A](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page20-964px-thumbnail.pdf.jpg){#fig:britcarp-a}
 :::
 ::: {.column width=50%}
-![detalhes de ligações, pr. C](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page30-964px-thumbnail.pdf.jpg){#fig:britcarp-c width=100%}
+![detalhes de ligações, pr. C](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page30-964px-thumbnail.pdf.jpg){#fig:britcarp-c}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -318,10 +319,10 @@ métodos de projeção de telhados sobre plantas irregulares
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![projeto de assoalhos, pr. C\*, D\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page33-964px-thumbnail.pdf.jpg){#fig:britcarp-cd width=100%}
+![projeto de assoalhos, pr. C\*, D\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page33-964px-thumbnail.pdf.jpg){#fig:britcarp-cd}
 :::
 ::: {.column width=50%}
-![projeção de telhado sobre planta irregular, pr. F\*, G\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page48-964px-thumbnail.pdf.jpg){#fig:britcarp-fg width=100%}
+![projeção de telhado sobre planta irregular, pr. F\*, G\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page48-964px-thumbnail.pdf.jpg){#fig:britcarp-fg}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -339,10 +340,10 @@ construídas em madeira na cultura construtiva britânica.
 
 :::::::::::::::::::::::::::::::::::::::: {.columns #fig:britcarp-uw-app}
 ::: {.column width=50%}
-![construção de escadas, pr. U\*, W\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page140-964px-thumbnail.pdf.jpg){#fig:britcarp-uw width=100%}
+![construção de escadas, pr. U\*, W\*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page140-964px-thumbnail.pdf.jpg){#fig:britcarp-uw}
 :::
 ::: {.column width=50%}
-![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app width=100%}
+![portadas em madeira, apêndice pr. P](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page206-977px-thumbnail.pdf.jpg){#fig:britcarp-app}
 :::
 [Price, *The British Carpenter* (1735)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -364,9 +365,13 @@ Essa primazia do carpinteiro sobre os outros ofícios das construção
 persiste até hoje no Reino Unido e nos Estados Unidos ([@fig:nwslc]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/2019/01/carpentry-leve1.jpg){#fig:nwslc}
+![Escola técnica de carpintaria, [North Warwickshire and South Leicestershire College][], Inglaterra](https://www.nwslc.ac.uk/wp-content/uploads/Level-2-CARPENTRY-AND-JOINERY-1.jpg){#fig:nwslc}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Batty [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][], folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page3-573px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley-front}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *City and Country Builder's and Workman's Treasury of Designs*,
@@ -374,22 +379,22 @@ publicado por Batty Langley em 1741, é um álbum de detalhes de talha e
 marcenaria ([@fig:langley-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Batty [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][], folha de rosto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page3-573px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley-front}
-
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ele se aproxima do modelo de Dietterlin, com imagens de referência, mas
 também fornece dimensões específicas e abarca todo gênero de marcenaria,
 principalmente para interiores ([@fig:langley-join]).
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-join}
 ::: {.column width=50%}
-![estante jônica, pr. CLXI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page347-560px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley161 width=100%}
+![estante jônica, pr. CLXI](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page347-560px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley161}
 :::
 ::: {.column width=50%}
-![teto, pr. CLXXVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page381-565px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley178 width=100%}
+![teto, pr. CLXXVIII](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page381-565px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley178}
 :::
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -404,10 +409,10 @@ diversificação e a especialização desse mercado editorial.
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:langley-carp}
 ::: {.column width=50%}
-![planta de telhado de geometria irregular, pr. 11](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page419-566px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley11 width=100%}
+![planta de telhado de geometria irregular, pr. 11](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page419-566px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley11}
 :::
 ::: {.column width=50%}
-![esquemas de tesouras, pr. 13](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page423-563px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley13 width=100%}
+![esquemas de tesouras, pr. 13](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page423-563px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg){#fig:langley13}
 :::
 [Langley, *The City and Country Builder's and Workman's Treasury* (1745)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -422,10 +427,10 @@ Builder's Assistant* de Asher Benjamin, impresso na Nova Inglaterra em
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher width=100%}
+![Asher Benjamin](http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg){#fig:asher}
 :::
 ::: {.column width=50%}
-![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front width=100%}
+![Asher [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg){#fig:cba-front}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -442,10 +447,10 @@ que aqueles que trabalham na Grã-Bretanha.
 
 ::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:cba-plates}
 ::: {.column width=50%}
-![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13 width=100%}
+![modelos de portais, pr. 12--13](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg){#fig:cba-12-13}
 :::
 ::: {.column width=50%}
-![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28 width=100%}
+![detalhes de marcenaria, pr. 20 e 28](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder's_assistant,_The_American_builder's_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg){#fig:cba-20-28}
 :::
 [Benjamin, *The Country Builder's Assistant* (1797, fac-simile de 1917)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -462,10 +467,10 @@ generalista ([@fig:abc]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:abc}
 ::: {.column width=50%}
-![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34 width=100%}
+![balaústres e urnas, pr. 34](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg){#fig:abc-34}
 :::
 ::: {.column width=50%}
-![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39 width=100%}
+![construção de uma janela, pr. 39](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder's_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg){#fig:abc-39}
 :::
 Asher [Benjamin, *The American Builder's Companion* (1806)][]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -481,11 +486,11 @@ conquistou o mundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![*Architectural Graphic Standards*, 12.ª edição](https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg){#fig:ags width=100%}
+::: {.column width=52.5%}
+![*Architectural Graphic Standards*, 12.ª edição](https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg){#fig:ags}
 :::
-::: {.column width=50%}
-![Ernst e Peter Neufert, *Arte de projetar em arquitetura*, 18.ª edição](https://ggili.com.br/media/catalog/product/uploader/4c6f3071a9e143da319c725a57fedcac.jpg){#fig:neufert width=100%}
+::: {.column width=47.5%}
+![Ernst e Peter Neufert, *Arte de projetar em arquitetura*, 18.ª edição](https://images.adsttc.com/media/images/563d/d201/e58e/cee2/c400/009a/slideshow/9788565985086_06_x.jpg?1446892027){#fig:neufert}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -501,10 +506,10 @@ normativo em algumas localidades do mundo anglófono ([@fig:tsw-milton;
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013](https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg){#fig:tsw-milton width=100%}
+![TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013](https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg){#fig:tsw-milton}
 :::
 ::: {.column width=50%}
-![PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015](https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg){#fig:pdp-nola width=100%}
+![PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015](https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg){#fig:pdp-nola}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -518,11 +523,11 @@ eles são usados desse modo por estudantes e arquitetos!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Friederike Schneider, *Atlas de plantas de viviendas*, Gustavo Gili](https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg){#fig:viviendas width=100%}
+::: {.column width=45.5%}
+![Friederike Schneider, *Atlas de plantas de viviendas*, Gustavo Gili](https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg){#fig:viviendas}
 :::
-::: {.column width=50%}
-![Série *Architecture Now*, Taschen](http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png){#fig:archnow width=100%}
+::: {.column width=54.5%}
+![Série *Architecture Now*, Taschen](http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png){#fig:archnow .nobg}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -622,23 +627,21 @@ publicado em 1628 ([@fig:ufano]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Galileu, porém, descobriu que a trajetória era curva do começo ao fim,
-como ele anotou nos seus cadernos ([@fig:galileo-c72f116]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Galileu Galilei, manuscrito no [códice 72, fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116}
-
-[códice 72, fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
-
-* * * *
-
-![Galileu Galilei, manuscrito no [códice 72, fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117}
-
-[códice 72, fl. 117 r.º]: http://www.imss.fi.it/ms72/HTML/F117_R/C117_R.HTM
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+como ele anotou nos seus cadernos.
 Galileu considerou que a curva balística se aproximava a uma parábola, e
-descreveu essa curva pelas suas tangentes ([@fig:galileo-c72f117]).
+descreveu essa curva pelas suas tangentes ([@fig:galileo-c72]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::: {#fig:galileo-c72 .full}
+<div class="half r-stack">![[fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116 .fragment .current-visible}
+![[fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117 .fragment .current-visible}</div>
+
+Galileu Galilei, manuscrito no códice 72
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
+
+[fl. 117 r.º]: http://www.imss.fi.it/ms72/HTML/F117_R/C117_R.HTM
 
 * * * *
 
@@ -786,20 +789,60 @@ realizar os seus objetivos --- o cálculo estrutural ainda demoraria
 bastante até se tornar viável, e a função ainda seria por um bom tempo
 compreendida em termos de analogias fisionômicas ou fisiológicas.
 
-Durand e o historicismo (ver também Legrand, mais abaixo).
-
 Fisiocratas (Cointereaux).
 
 Racionalização da estocagem e da saúde (lazaretos) --- J.B. Le Roy
-[@tzonis:1975mechanical, 6].
+[@tzonis:1975mechanical, 6], Béllanger.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Tzonis:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> [...] depois do século [XVIII]{.smallcaps}, o projeto é visto cada vez
+> menos como um processo que estrutura o ambiente físico em padrões
+> visuais por meio das quais a sociedade se organiza. Ele passa a ser
+> uma atividade que produz *commodities* geradoras de utilidade
+> econômica. [@tzonis:1972non-oppressive, 17]
 
 ## Novidade e correção na Itália ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Teorias: de Carlo Lodoli a Francesco Milizia.
+* * * *
 
-Prática: de Alessandro Galilei a Giuseppe Valadier e Luigi Poletti.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=51.5%}
+![Carlo Lodoli retratado por [Alessandro Longhi, década de 1760][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carlo_Lodoli_by_Alessandro_Longhi.jpg/555px-Carlo_Lodoli_by_Alessandro_Longhi.jpg){#fig:lodoli}
+:::
+::: {.column width=48.5%}
+![Andrea Memmo retratado por Angelika Kauffmann, gravura por [G. Carattoni e A. Cavallucci, 1785][]](https://upload.wikimedia.org/wikipedia/commons/4/4b/Kaufmann_-_Memmo.jpg){#fig:memmo}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Alessandro Longhi, década de 1760]: https://commons.wikimedia.org/wiki/File:Carlo_Lodoli_by_Alessandro_Longhi.jpg
+
+[G. Carattoni e A. Cavallucci, 1785]: https://commons.wikimedia.org/wiki/File:Kaufmann_-_Memmo.jpg
+
+<!--_-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Frontispício do [*Vite de' piú celebri architetti...*][], por Francesco Milizia, 1768](https://drawingmatter.org/wp-content/uploads/2020/09/Frontispiece-to-Francesco-Milizia%E2%80%99s-The-Lives-of-the-Celebrated-Architects-Ancient-and-Modern-1768.-Engraving.-RIBA-Collections-714x1024.jpg){#fig:milizia-vite}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Vite de' piú celebri architetti...*]: https://drawingmatter.org/watkin-on-milizia-frontispiece-to-the-lives-of-the-celebrated-architects-ancient-and-modern/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arquiteto, crítico e historiador Francesco Milizia foi, talvez, o
+primeiro a usar o termo *barroco* para designar, inequivocamente, o
+estilo da arquitetura italiana dominante no século [XVII]{.smallcaps}.
+Ele o fez com uma intenção pejorativa explícita, e condenava desde
+Miguel Ângelo até Borromini e Guarini. Em contraste, no frontispício do
+seu livro de biografias de arquitetos, a deusa Atena aponta para uma
+cabana primitiva e um templo antigo como modelos a serem seguidos
+([@fig:milizia-vite]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -868,9 +911,9 @@ ao resultado dessa reforma revela queda na confiança na arquitetura
 contemporânea [@kirk:2005architecture1, 17].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::: {#fig:pantheon .half .r-stack .full}
-![estado anterior a 1756, publicado por [Francesco Piranesi, 1790][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg){#fig:pantheon-pira .fragment .current-visible}
-![após a reforma da segunda ordem por Paolo Posi em 1756, [gravura de 1774][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg){#fig:pantheon-posi .fragment .current-visible}
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:pantheon .half .full}
+<div class="r-stack">![estado anterior a 1756, publicado por [Francesco Piranesi, 1790][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg){#fig:pantheon-pira .fragment .current-visible}
+![após a reforma da segunda ordem por Paolo Posi em 1756, [gravura de 1774][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg){#fig:pantheon-posi .fragment .current-visible}</div>
 
 Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Desenhos:
 Giovanni Battista Piranesi
@@ -921,6 +964,31 @@ grande parte da Europa e das Américas durante todo o século
 [XIX]{.smallcaps} e a primeira metade do século [XX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O neoclassicismo enquanto estilo plástico é bastante evidente e
+diferenciado da estética do barroco que o precedeu. No entanto, ele
+assume também um conteúdo moral que vai ser enfatizado pelos teóricos do
+século [XVIII]{.smallcaps}, especialmente no que diz respeito à
+valorização da clareza e da simplicidade. Esse conteúdo moral também
+aparece na distribuição e no uso dos espaços interiores, especialmente
+os domésticos. A distribuição moderna que o neoclassicismo começa a
+aplicar se pauta por valores burgueses como o desejo de privacidade
+familiar e de naturalidade na apreciação da paisagem.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses valores comparecem até em programas aristocráticos; um exemplo é o
+petit Trianon nos projetado em 1761 por Ange-Jacques Gabriel para a
+Madame de Pompadour, amante de Luís XV. O projeto original, apenas
+parcialmente executado, previa distribuições e mecanismos que reduziam a
+visibilidade do serviço doméstico e o contato dos serventes com os
+usuários [@watkin:2005history, 391].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Historiografia ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -929,17 +997,7 @@ Legrand e Durand.
 
 # Moralidade e arquitetura #
 
-## Analogias literárias e rigorismo ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No seu pensamento mais tardio, Boffrand argumentou que a arquitetura
-devia ser determinada por dois conjuntos de leis independentes do gosto
-cultural: a natureza e o caráter fisionômico. Essa visão deu origem ao
-conceito de *architecture parlante* [@kaufmann:1952three, 447] ou
-"arquitetura tagarela" (tradução de Sylvia Ficher).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
+## Arquitetura tagarela ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Michel de Frémin, Cordemoy e a apreciação da arquitetura gótica
@@ -966,17 +1024,165 @@ literário e néscio [@perouse:2001architecture]
 
 ![Abóbada gótica segundo Frézier](){#fig:frezier}
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No seu pensamento mais tardio, Boffrand argumentou que a arquitetura
+devia ser determinada por dois conjuntos de leis independentes do gosto
+cultural: a natureza e o caráter fisionômico. Essa visão deu origem ao
+conceito de *architecture parlante* [@kaufmann:1952three, 447] ou
+"arquitetura tagarela" (tradução de Sylvia Ficher). O conceito foi
+articulado sobretudo pelo arquiteto Nicolas Le Camus de Mézières no seu
+tratado sobre "o gênio da arquitetura ou a analogia dessa arte com as
+nossas sensações" [@camus:1780genie].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Le Camus de Mézières era um perito judicial em arquitetura na cidade de
+Paris, e escreveu alguns manuais práticos de construção e contratação de
+obras. O seu mais famoso projeto realizado foi o novo armazém de trigo
+de Paris, concluído em 1767. Essa estrutura devia ser uma garantia de
+abastecimento para o centro da cidade; por isso, ela tinha alguns
+requisitos bem específicos: ser à prova de fogo e ter uma logística de
+abastecimento conveniente. Camus projetou uma arcada circular em volta
+de um pátio espaçoso ([@fig:halle-camus]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Nicolas Le Camus de Mézières, projeto para o [armazém de trigo][], 1763, detalhe](http://vergue.com/media/.plan-halle-au-ble-1763-det_m.jpg){#fig:halle-camus}
+
+[armazém de trigo]: http://vergue.com/post/213/Halle-au-ble
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Le Camus de Mézières, planta do [armazém de trigo][] e seu entorno, 1763](http://vergue.com/media/.plan-halle-au-ble-grav_m.jpg){#fig:halle-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Olhando do ponto de vista desses dois requisitos, o armazém de trigo de
+Camus de Mézières era um edifício que poderíamos chamar de racional e
+funcional. A planta de implantação ([@fig:halle-plan]) nos mostra o que
+essa racionalização e funcionalidade do projeto implicavam. A proposta
+de uma rotunda geometricamente perfeita e resolvida apenas de acordo com
+os requisitos intrínsecos ao projeto só podia ser realizada às custas de
+deixar um entorno mal resolvido do ponto de vista da malha viária e do
+parcelamento do solo.
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Nicolas Le Camus de Mézières, folha de rosto do livro [*Le génie de l'architecture*][]](https://i.pinimg.com/1200x/f6/cf/ae/f6cfae5152078c058633c32aa31a47a1.jpg){#fig:genie}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Le génie de l'architecture*]: https://archive.org/details/legeniedelarchit00leca/page/n5/mode/2up
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É sob essa lógica que podemos entender o livro de Camus de Mézières
+sobre as "sensações" da arquitetura. A premissa central do argumento era
+a de que o decoro de uma obra de arquitetura se realizava sobretudo
+nas relações entre massas, e só secundariamente no uso de ornamentos.
+Esse decoro, dizia Camus de Mézières, decorria "menos das regras"
+próprias ao ofício da arquitetura e mais aos "usos e costumes do século
+e do país onde vivemos" [@camus:1780genie, 56]. Essa era uma afirmação
+que rompia com a tradição do Renascimento; desde o século
+[XV]{.smallcaps}, estava mais ou menos entendido que as artes visuais,
+arquitetura incluída, tinham que se basear em princípios intrínsecos à
+harmonia visual.
+
+Agora, Camus de Mézières afirmava que a qualidade da arquitetura era
+função das convenções sociais e do desejo de "luxo e prazer"
+[@camus:1780genie, 109]. A arquitetura devia responder a essas
+convenções e expectativas por meio de efeitos visuais que transmitissem
+sensações emocionais mais do que por meio de alegorias iconográficas.
+Acerca de um quarto de dormir íntimo, ele admoesta:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> [...] em todo o conjunto faça com que a monotonia domine; ela
+> entorpece e bloqueia os sentidos; ela faz bocejar, e a gente pega no
+> sono. [@camus:1780genie, 147]
+
+## {.slide-only}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É sob essa lógica que podemos entender o livro de Camus de Mézières
+sobre as "sensações" da arquitetura. A premissa central do argumento era
+a de que o decoro de uma obra de arquitetura se realizava sobretudo
+nas relações entre massas, e só secundariamente no uso de ornamentos.
+Esse decoro, dizia Camus de Mézières, decorria "menos das regras"
+próprias ao ofício da arquitetura e mais aos "usos e costumes do século
+e do país onde vivemos". Essa era uma afirmação
+que rompia com a tradição do Renascimento; desde o século
+[XV]{.smallcaps}, estava mais ou menos entendido que as artes visuais,
+arquitetura incluída, tinham que se basear em princípios intrínsecos à
+harmonia visual.
+
+Agora, Camus de Mézières afirmava que a qualidade da arquitetura era
+função das convenções sociais e do desejo de "luxo e prazer".
+A arquitetura devia responder a essas
+convenções e expectativas por meio de efeitos visuais que transmitissem
+sensações emocionais mais do que por meio de alegorias iconográficas.
+Acerca de um quarto de dormir íntimo, ele admoesta:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::: {.column width=50%}
+![Nicolas Le Camus de Mézières, folha de rosto do livro [*Le génie de l'architecture*][]](https://i.pinimg.com/1200x/f6/cf/ae/f6cfae5152078c058633c32aa31a47a1.jpg)
+::::::
+:::::: {.column width=50%}
+::: fragment
+> [...] em todo o conjunto faça com que a monotonia domine; ela
+> entorpece e bloqueia os sentidos; ela faz bocejar, e a gente pega no
+> sono.
+>
+> <footer>Nicolas Le Camus de Mézières, <cite>Le génie de
+> l'architecture</cite>, 147
+:::
+::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Classicismo visionário ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A relevância histórica dos classicistas visionários da segunda metadedo
-século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
-de um classicismo visionário ou revolucionário, fora do percurso
-acadêmico padrão, não aparece na maioria das histórias da arquitetura
-francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
-entravam nas narrativas históricas mais amplas, por serem muito
-excêntricos e terem tido pouca influência sobre a geração seguinte.
+O argumento de Camus de Mézières refletia até certo ponto a polêmica
+iniciada por Claude Perrault mais de cem anos antes sobre a natureza
+universal ou relativa de, ao menos, parte da beleza da arquitetura
+[@herrmann:1980theorie]. Mas, enquanto Perrault argumentava apenas que
+parte do juízo de gosto era socialmente condicionada, Camus de Mézières
+defendia que a essência da arquitetura estava inteiramente em responder
+às condições sociais e à função psicológica dos usuários. Perrault
+queria, portanto, chamar atenção para a distinção entre atributos
+universais e contingentes da beleza; Camus, por outro lado, queria
+reduzir o ofício da arquitetura às suas condicionantes não
+arquitetônicas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tratado de Camus de Mézières não era ilustrado e nem mencionava
+exemplos de edifícios reais. Por isso, o rebatimento dessa teoria na
+prática do ofício acabou dando resultados inusitados, embora muito
+limitados. Esse rebatimento foi feito, sobretudo, pelo arquiteto
+Claude Nicolas Ledoux, que escreveu um livro intitulado *A arquitetura
+considerada sob a relação dos costumes e da legislação*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Claude Nicolas Ledoux, teatro municipal de Besançon, 1784, visto no reflexo de um olho. Publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ledoux,_Theatre_of_Besançon.jpg/2560px-Ledoux,_Theatre_of_Besançon.jpg){#fig:besancon-oeil}
+
+[*L'architecture...*, 1804]: https://commons.wikimedia.org/wiki/Category:L'architecture_considérée_sous_le_rapport_de_l'art,_des_mœurs_et_de_la_législation
+
+<!--_-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de classicismo "revolucionário" só foi estabelecido na
 primeira metade do século [XX]{.smallcaps} por autores austríacos como
 Emil Kaufmann e Nikolaus Pevsner. Foi um projeto historiográfico
@@ -984,15 +1190,63 @@ retrospectivo que buscava dar ao modernismo racionalista da década de
 1920 um antecedente pretensamente injustiçado. Esse movimento tentava
 relacionar a rejeição da tradição clássica por Le Corbusier, entre
 outros, com o interesse formalista pela abstração geométrica na obra de
-Ledoux [@kaufmann:1936claude8] e Boullée. De resto, o classicismo
-visionário foi mais um aprofundamento do neoclassicismo dominante na
-França da segunda metade do século [XVIII]{.smallcaps}, com a sua ênfase
-na simplicidade e nas geometrias elementares.
+Ledoux [@kaufmann:1936claude8] e Boullée.
 
-Camus de Mézières (architecture parlante), Ledoux, Boullée, Lequeu.
+A relevância histórica dos classicistas visionários da segunda metade do
+século [XVIII]{.smallcaps} não foi sempre evidente. O próprio conceito
+de um classicismo visionário ou revolucionário, fora do percurso
+acadêmico padrão, não aparece na maioria das histórias da arquitetura
+francesa antes de 1930. Arquitetos como Boullée ou Ledoux sequer
+entravam nas narrativas históricas mais amplas, por serem muito
+excêntricos e terem tido pouca influência sobre a geração seguinte.
 
-Princípios da arquitetura "revolucionária" francesa no final do século
-[XVIII]{.smallcaps} segundo Emil Kaufmann [-@kaufmann:1952three, 434]:
+De resto, o classicismo visionário foi mais um aprofundamento do
+neoclassicismo dominante na França da segunda metade do século
+[XVIII]{.smallcaps}, com a sua ênfase na simplicidade e nas geometrias
+elementares. Exemplo dessa ênfase exagerada é o projeto utópico de
+cenotáfio para Isaac Newton, por Étienne Louis Boullée
+([@fig:cenotaphe]). Na vista exterior, o uso da perspectiva se afasta da
+convenção do ofício, que pede uma elevação ortográfica, e enfatiza a
+busca do arquiteto por um efeito sensorial sobre o observador, como
+Camus de Mézières tinha proposto.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:cenotaphe .full .half}
+<div class="r-stack">![elevação perspectivada](https://upload.wikimedia.org/wikipedia/commons/d/d8/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_02_-_Élévation_perspective.jpg){#fig:cenotapheA}
+![corte com iluminação interior](https://upload.wikimedia.org/wikipedia/commons/3/30/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_05_-_Coupe,_représentation_de_nuit_avec_un_effet_de_jour_à_l'intérieur.jpg){#fig:cenotapheB}</div>
+
+Étienne Louis Boullée, [cenotáfio para Newton, 1784][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[cenotáfio para Newton, 1784]: https://commons.wikimedia.org/wiki/Category:Cénotaphe_à_Newton
+
+* * * *
+
+![Boullée, projeto de ampliação da [Biblioteca Real, 1785][]](https://upload.wikimedia.org/wikipedia/commons/3/3a/Boullée%2C_Etienne-Louis_-_Project_for_a_library.jpg){#fig:boullee-bib}
+
+[Biblioteca Real, 1785]: https://commons.wikimedia.org/wiki/File:Boullée,_Etienne-Louis_-_Project_for_a_library.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na obra de Boullée, a palavra "projetado" começa a aparecer com maior
+frequência. O termo é usado em francês desde o século [XV]{.smallcaps}
+para se referir a propostas de ação em geral. Com Boullée, o conceito de
+proposta vai se alinhando cada vez mais com a apresentação de desenhos
+arquitetônicos, ao mesmo tempo que esses desenhos vão se distanciando
+das bases tipológicas da composição renascentista. Assim, o conceito de
+*projeto arquitetônico* ganha corpo como a representação de propostas
+que não se baseiam num repertório pré-estabelecido --- exatamente a
+definição de projeto que Helio Piñón defende séculos mais tarde
+[@pinon:2006teoria, 49].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir desses aspectos visuais do classicismo visionário, Emil
+Kaufmann propôs três características fundamentais para identificar esse
+estilo [-@kaufmann:1952three, 434]:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
@@ -1007,16 +1261,105 @@ Princípios da arquitetura "revolucionária" francesa no final do século
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na obra de Boullée, a palavra "projetado" começa a aparecer com maior
-frequência. O termo é usado em francês desde o século [XV]{.smallcaps}
-para se referir a propostas de ação em geral. Com Boullée, o conceito de
-proposta vai se alinhando cada vez mais com a apresentação de desenhos
-arquitetônicos, ao mesmo tempo que esses desenhos vão se distanciando
-das bases tipológicas da composição renascentista. Assim, o conceito de
-*projeto arquitetônico* ganha corpo como a representação de propostas
-que não se baseiam num repertório pré-estabelecido --- exatamente a
-definição de projeto que Helio Piñón defende séculos mais tarde
-[@pinon:2006teoria, 49].
+Talvez até mais do que essas características plásticas, o classicismo
+visionário expressa as últimas consequências de uma visão tecnocrática
+da produção do ambiente construído, que estava se desenvolvendo na
+França do final do Antigo Regime. É uma visão que decorre do processo de
+aumento na eficiência e regularidade administrativa das obras públicas,
+promovido por Colbert desde o reinado de Luís XIV, como vimos
+[anteriormente](academicismo.md). Sob Luís XVI, esse processo continua a
+se expandir para toda a extensão do território francês e para todos os
+processos produtivos que estão sob o controle do Estado.
+
+O mais notável produto desse controle universal sobre o território e a
+produção é a salina de Chaux, implantada entre os vilarejos de Arc e
+Senans, no leste da França ([@fig:arc-senans]). O arquiteto Claude
+Nicolas Ledoux foi nomeado em 1773 administrador das salinas da região,
+e desenvolveu um projeto de racionalização da produção que era também um
+método de aprimoramento do controle estatal sobre o processo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Claude Nicolas Ledoux, Mapa de Arc e Senans com o projeto das salinas de Chaux, publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg/2560px-Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg){#fig:arc-senans}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Claude Nicolas Ledoux, salinas de Chaux, 1775--79. Foto: [[INRAP]{.smallcaps}][]](https://www.inrap.fr/dossiers/userdata/c_bloc_album/1/1600/1600_1600_vignette_5-Vue-aerienne-2003.jpg){#fig:chaux-inrap}
+
+[[INRAP]{.smallcaps}]: https://www.inrap.fr/dossiers/Archeologie-du-Sel/Les-sites/Arc-et-Senans-France#.YmVnO5KZMUF
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A salina era mesmo um programa ideal para efetivar o paradigma de
+controle total. O empreendimento era um monopólio estatal, e a produção
+e o comércio de sal eram rigorosamente fiscalizados para evitar
+contrabando, já que o imposto sobre o sal (a gabela) era uma das maiores
+fontes de receita tributária da França no Antigo Regime. Por isso, o
+complexo produtivo ([@fig:chaux-inrap]) era completo e fechado sobre si
+mesmo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os operários da salina viviam em estado de servidão, e os seus
+dormitórios coletivos estavam ao alcance de um golpe de vista do
+diretor, que morava num casarão no centro da planta circular do
+conjunto. De um lado e outro da casa do diretor ficam os galpões onde a
+salmoura era fervida para desidratar o sal ([@fig:chaux-plan]). Ao lado
+desses galpões há ainda as casas dos jardineiros que cuidavam das hortas
+implantadas atrás dos dormitórios: era o projeto de uma comunidade quase
+autossuficiente, minuciosamente regrada e estritamente controlada pelo
+estado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Claude Nicolas Ledoux, salina de Chaux, [planta geral][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arc-et-Senans_-_Plan_de_la_saline_royale.jpg/2560px-Arc-et-Senans_-_Plan_de_la_saline_royale.jpg){#fig:chaux-plan}
+
+[planta geral]: https://commons.wikimedia.org/wiki/File:Arc-et-Senans_-_Plan_de_la_saline_royale.jpg
+
+<!--_-->
+
+* * * *
+
+![Ledoux, salina de Chaux, casa do diretor. Corte longitudinal publicado em [*L'architecture...*, 1804][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/L'architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg/2560px-L'architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg){#fig:dirlo}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Não era só o processo produtivo que devia ser objeto de um controle
+totalitário. Até a capela da salina estava subordinada à diretoria, e a
+nave ficava numa sobreloja da casa do diretor ([@fig:dirlo]). O arranjo
+era incongruente e inconveniente, mas por isso mesmo sinalizava o papel
+secundário da Igreja nos interesses administrativos do estado, em pleno
+Antigo Regime!
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ledoux foi ainda mais longe no seu cargo de administrador das salinas.
+Talvez inspirado num manifesto de 1769 pelo escritor Restif de la
+Bretonne, ele propôs regulamentar também a prostituição em Chaux. O
+projeto do *oikema* ([@fig:oikema]) visava a segregar espacialmente as
+mulheres, ao mesmo tempo retirando-as do convívio social e explicitando
+a sua condição social por meio da forma característica do edifício
+[@preciado:2015restif]. Ao ensejo de Camus de Mézières, a forma da
+planta do edifício é sugestiva do seu caráter, ou seja, ela expressa a
+natureza das atividades que teriam lugar no edifício --- mas mais ainda,
+a alegoria fálica deixa claro quem detém o poder sobre a prostituição...
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Claude Nicolas Ledoux, projeto de *oikema* para Chaux, 1780](https://i.pinimg.com/originals/37/ec/4a/37ec4ae4d64cfa8ae427b7cc3652b0b2.jpg){#fig:oikema}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Se os ideais iluministas de racionalidade pretendiam emancipar o homem e
+aprofundar o seu controle sobre o mundo, a mulher fazia parte dos
+objetos a serem controlados pelos homens. Isso fica ainda mais evidente
+nos escritos de Jean-Jacques Rousseau, o famoso filósofo da igualdade
+natural entre os homens: ele tratava as mulheres como bens a serem
+distribuídos igualitariamente entre os homens. Anos depois da Revolução
+Francesa, a pintora Élisabeth Vigée-Le Brun registrou nas suas memórias
+o quanto essa Revolução que se pretendia libertadora retirou direitos e
+status social das mulheres!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *

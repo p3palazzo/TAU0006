@@ -12,8 +12,16 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
   caption: "Utagawa Hiroshige, [Narumi](https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg), das 53 estações do Tōkaidō, 1833--35"
+  actions:
+  - label: Slides
+    url  : /slides/territorios/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - Sambricio
 title-slide-attributes:
-  data-background-slide: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
 ---
 
 # Viação como estratégia espacial #
@@ -45,7 +53,7 @@ engenheiro de pontes e calçamentos do Rei".
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em 1747, o diretor de pontes e calçamentos Daniel-Charles Trudaine
 decide fundar uma "Real Escola de Pontes e Calçamentos" para padronizar
-a formação desses engenheiros civis ([@Fig:hotel-liberal]). Essa escola,
+a formação desses engenheiros civis ([@fig:hotel-liberal]). Essa escola,
 no início, é um escritório de projetos dirigido pelo antigo primeiro
 engenheiro da cidade de Paris e membro da Real Academia de Arquitetura,
 Jean-Rodolphe Perronnet.
@@ -58,7 +66,7 @@ Jean-Rodolphe Perronnet.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa escola tem o objetivo de formar quadros para desenvolver o Atlas de
 estradas que Trudaine manda produzir a partir de 1745
-([@Fig:trudaine-metz]). O projeto é concluído em 1780, mas a escola
+([@fig:trudaine-metz]). O projeto é concluído em 1780, mas a escola
 continua a formar engenheiros até hoje.
 
 ![Folha do Atlas para a cidade de Metz e seu entorno. [Trudaine (1745--1780)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Atlas_de_Trudaine_pour_la_généralité_de_Metz._1_-_Archives_Nationales_-_CP-F-14-8486.jpg/1024px-Atlas_de_Trudaine_pour_la_généralité_de_Metz._1_-_Archives_Nationales_-_CP-F-14-8486.jpg){#fig:trudaine-metz}
@@ -182,7 +190,7 @@ normas para o transporte de produtos e para a circulação de pessoas.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O elemento estruturante dessa política de viação é o *gokaidō*, o
 sistema de cinco estradas para Edo, complementado por uma rota marítima
-e estradas secundárias ([@Fig:gokaido]).
+e estradas secundárias ([@fig:gokaido]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Gokaidō, rotas marítimas e estradas secundárias. [Bollen (2018)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png/674px-Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png){#fig:gokaido}
@@ -191,7 +199,7 @@ e estradas secundárias ([@Fig:gokaido]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O objetivo desse sistema era levar tributos, mercadorias e pessoas das
-províncias até Edo ([@Fig:edo-hiroshige]), a sede do governo central, de
+províncias até Edo ([@fig:edo-hiroshige]), a sede do governo central, de
 modo eficiente mas também controlado.
 
 ![Vista de Edo por [Utagawa Hiroshige (1858)][]](https://upload.wikimedia.org/wikipedia/commons/7/79/Shitamachi.jpg){#fig:edo-hiroshige}
@@ -232,7 +240,7 @@ Por causa do expansionismo espanhol na região e dos conflitos políticos
 atiçados pelos jesuítas e japoneses convertidos ao catolicismo, em 1635
 o governo regulamenta ainda mais o comércio exterior, determinando os
 lugares onde comerciantes estrangeiros podem operar, e impedindo os
-japoneses de se deslocarem para o exterior ([@Fig:nagasaki]).
+japoneses de se deslocarem para o exterior ([@fig:nagasaki]).
 
 ![Vista aérea de Nagasaki. [Kawahara (1820)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kawahara_Nagasaki.jpg/1024px-Kawahara_Nagasaki.jpg){#fig:nagasaki}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -241,7 +249,7 @@ japoneses de se deslocarem para o exterior ([@Fig:nagasaki]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar disso, o Japão conserva um mercado interno forte
-([@Fig:fishmarket]), associado a um desenvolvimento tecnológico às vezes
+([@fig:fishmarket]), associado a um desenvolvimento tecnológico às vezes
 autônomo, às vezes baseado na introdução de conhecimentos europeus. A
 coleta de impostos sobre o comércio e a produção agrícola, assim como a
 circulação de mercadorias, são problemas logísticos importantes nesse
@@ -267,7 +275,7 @@ integral. Tudo isso demanda um sistema de transporte eficiente.
 A principal estrada do Japão na Idade Moderna é o Tōkaidō, que liga
 Quioto a Edo. Assim como nas outras quatro estradas que formam a rede
 principal de transporte terrestre, o governo mantém uma caixa de via
-muito larga, pavimentada ([@Fig:nakasendo]). A qualidade do percurso era
+muito larga, pavimentada ([@fig:nakasendo]). A qualidade do percurso era
 tal que se podia ir de Edo a Quioto, uma distância de 500 quilômetros,
 em uma semana --- mais de 50 quilômetros por dia de viagem.
 
@@ -280,7 +288,7 @@ em uma semana --- mais de 50 quilômetros por dia de viagem.
 As estradas eram pontuadas por estações, postos fiscais do governo em
 volta dos quais se desenvolvia uma urbanização comercial de apoio ao
 viajante. Essas estações se tornaram pontos turísticos e foram
-registradas por alguns artistas do período Edo ([@Fig:shinagawa]).
+registradas por alguns artistas do período Edo ([@fig:shinagawa]).
 
 ![Shinagawa, 1.ª estação do Tōkaidō. [Hiroshige (1833)][]](https://upload.wikimedia.org/wikipedia/commons/5/5d/Hiroshige-53-Stations-Hoeido-02-Shinagawa-MIA-01.jpg){#fig:shinagawa}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -383,3 +391,4 @@ só os mais pobres viajavam a pé.
 ## Malha continental ##
 
 # Bibliografia # {.allowframebreaks .unlisted}
+

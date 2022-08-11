@@ -27,11 +27,13 @@ excerpt: >
 > Leitão. Brasília: Editora UnB, 2006, 53</cite></footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Objetivo #
+# Objetivo de aprendizagem #
 
-Desenvolver uma visão de conjunto sobre os fundamentos urbanísticos e
-construtivos a partir dos quais se desenvolvem as culturas
-arquitetônicas da era moderna.
+Saber ler o ambiente construído
+
+: Desenvolver uma visão de conjunto sobre os fundamentos
+  urbanísticos e construtivos sobre os quais se desenvolvem as
+  culturas arquitetônicas da era moderna.
 
 # Contexto #
 

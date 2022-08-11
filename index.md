@@ -1,5 +1,6 @@
 ---
-title: Plano de ensino
+title: "Programa e cronograma"
+classes: wide
 author_profile: true
 excerpt: >
   História das cidades, dos edifícios e da edificação na tradição
@@ -11,6 +12,9 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
   caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma moderna](https://commons.wikimedia.org/wiki/Category:Modern_Rome_(Giovanni_Paolo_Pannini)), 1754"
   overlay_filter: 0.5
+  actions:
+  - label: "Plano de ensino"
+    url  : "/plano/"
 
 unidade1:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-lossy-page1-797px-katip_celebis_cihannuma-map_of_south_east_asiatif.jpg
@@ -21,7 +25,7 @@ unidade1:
       Entrepostos comerciais Suaíle –
       Infraestrutura hidráulica na América
     url       : "/aula/rotas/"
-    btn_label : "18 de janeiro"
+    btn_label : "9 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg
     title     : "Cidades ideais"
@@ -31,7 +35,7 @@ unidade1:
       Campo e canal em Veneza –
       Tratados de urbanismo
     url       : "/aula/cidades-ideais"
-    btn_label : "25 de janeiro"
+    btn_label : "16 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Rakuchu_rakugai_zu_byobu_Fukuoka_City_MuseumL.jpg
     title     : "Cidades possíveis"
@@ -41,7 +45,7 @@ unidade1:
       Urbanismo de colina –
       Do boma banto às cidades da Guiné
     url       : "/aula/cidades-possiveis/"
-    btn_label : "1.º de fevereiro"
+    btn_label : "23 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-DT249920.jpg
     title     : "Sistemas espaciais"
@@ -51,7 +55,7 @@ unidade1:
       Cúpula de Brunelleschi –
       Cúpulas islâmicas e malhas espaciais
     url       : "/aula/sistemas-espaciais/"
-    btn_label : "8 de fevereiro"
+    btn_label : "30 de junho"
     btn_class : "btn btn--inverse btn--small"
 
 trabalho1:
@@ -59,7 +63,7 @@ trabalho1:
     title     : "Trabalho I"
     excerpt   : "Análise urbana"
     url       : "/trabalho/analise-urbana"
-    btn_label : "Entrega 23 de fevereiro"
+    btn_label : "Entrega 14 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 unidade2:
@@ -71,7 +75,7 @@ unidade2:
       Volumes –
       Superfícies
     url       : "/aula/linguagem/"
-    btn_label : "15 de fevereiro"
+    btn_label : "7 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-paolo_veronese-feast_in_the_house_of_levi-wga24877.jpg
     title     : "Arquiteturas humanistas"
@@ -81,7 +85,7 @@ unidade2:
       Mausoléus indianos –
       Saberes corporativos na França
     url       : "/aula/teoria/"
-    btn_label : "22 de fevereiro"
+    btn_label : "14 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-le_cardinal_melchior_de_polignac_visitant_saint-pierre_de_rome-giovanni_paolo_panini-q18573439.jpg
     title     : "Clássico anticlássico"
@@ -91,7 +95,7 @@ unidade2:
       Projeto iterativo –
       Espaço geométrico
     url       : "/aula/anticlassico/"
-    btn_label : "1.º de março"
+    btn_label : "21 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-mathaeus_merian_carosel_fait_a_la_place_royalle_a_paris_1648-paris_musees.jpg
     title     : "Cidade clássica"
@@ -101,7 +105,7 @@ unidade2:
       Modos de morar no Mediterrâneo –
       Bioclimatismo
     url       : "/aula/cidade-classica"
-    btn_label : "8 de março"
+    btn_label : "28 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-pierre-antoine_demachy-la_colonnade_du_louvre_nouvellement_degagee-p92-musee_carnavalet.jpg
     title     : "Arquitetura acadêmica"
@@ -111,15 +115,15 @@ unidade2:
       Desenho e convenção –
       Querela dos Antigos e dos Modernos
     url       : "/aula/academicismo/"
-    btn_label : "15 de março"
+    btn_label : "4 de agosto"
     btn_class : "btn btn--inverse btn--small"
 
 trabalho2:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
-    title     : "Trabalho II"
+    title     : "Prova II"
     excerpt   : "Análise arquitetônica"
     url       : "/trabalho/analise-arq"
-    btn_label : "Entrega 31 de março"
+    btn_label : "11 de agosto"
     btn_class : "btn btn--inverse btn--small"
 
 unidade3:
@@ -131,7 +135,7 @@ unidade3:
       Transferências eurasiáticas –
       Jardim chinês
     url       : "/aula/urb-como-arq"
-    btn_label : "22 de março"
+    btn_label : "11 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-honjo_tatekawa_the_timberyard_at_honjo.jpg
     title     : "Barroco internacional"
@@ -141,7 +145,7 @@ unidade3:
       Virtuosismo estrutural –
       Presságios
     url       : "/aula/barroco-intl/"
-    btn_label : "29 de março"
+    btn_label : "18 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-800px-View_of_the_Wilderness_at_Kew_MET_DP105027.jpg
     title     : "Universo em expansão"
@@ -151,7 +155,7 @@ unidade3:
       Romantismo –
       Arqueologia e colonialismo
     url       : "/aula/universo/"
-    btn_label : "5 de abril"
+    btn_label : "25 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-779px-jacques-louis_david_le_serment_des_horaces.jpg
     title     : "Reação clássica"
@@ -161,7 +165,7 @@ unidade3:
       Fim do vitruvianismo –
       Moralidade e arquitetura
     url       : "/aula/reacao/"
-    btn_label : "12 de abril"
+    btn_label : "8 de setembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
     title     : "Territórios e viação"
@@ -171,7 +175,7 @@ unidade3:
       Projetos urbanos na América do Norte –
       Agrimensura e representação
     url       : "/aula/territorios/"
-    btn_label : "19 de abril"
+    btn_label : "15 de setembro"
     btn_class : "btn btn--inverse btn--small"
 
 trabalho3:
@@ -179,41 +183,51 @@ trabalho3:
     title     : "Trabalho III"
     excerpt   : "Pesquisa e crítica"
     url       : "/trabalho/wikipedia/"
-    btn_label : "Entrega 2 de maio"
+    btn_label : "Entrega 15 de setembro"
     btn_class : "btn btn--inverse btn--small"
+
+sidebar:
+- text: |
+    <div itemscope="" itemtype="https://schema.org/Person">
+    <div class="author__avatar">
+    <img src="" alt="Carlos Henrique" itemprop="image" />
+    </div>
+    <div class="author__content">
+    <h3 class="author__name" itemprop="name">Carlos Henrique Magalhães de Lima</h3>
+    <div class="author__bio" itemprop="description">
+    <p>Professor adjunto</p>
+    </div>
+    </div>
+    </div>
 ---
 
-# Antes de começar #
-
-<!--1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md)-->
-1. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
-3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
-4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_,-->
-5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
-6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md) <!--_,-->
-6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_,-->
-
-# Cidades e redes na fundação do mundo moderno #
+# Unidade I · Cidades e redes na fundação do mundo moderno #
 
 ```{=html}
 {% include feature_row id="unidade1" %}
 
+{% comment -%}
 {% include feature_row id="trabalho1" type="right" %}
+{%- endcomment %}
 ```
 
-# Linguagens e dialetos da arquitetura #
+# Unidade II · Linguagens e dialetos da arquitetura #
 
 ```{=html}
 {% include feature_row id="unidade2" %}
 
+{% comment -%}
 {% include feature_row id="trabalho2" type="right" %}
+{%- endcomment %}
 ```
 
-# Inquietações contemporâneas #
+# Unidade III · Inquietações contemporâneas #
 
 ```{=html}
 {% include feature_row id="unidade3" %}
 
+{% comment -%}
 {% include feature_row id="trabalho3" type="right" %}
+{%- endcomment %}
 ```
 

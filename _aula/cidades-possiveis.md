@@ -10,12 +10,19 @@ excerpt: >
   Urbanismo de colina –
   Cidades e castelos no Japão –
   Do boma banto às cidades da Guiné
-leitura: 501--518, 537--538
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/02/rakuchu_rakugai_zu_byobu_fukuoka_city_museuml.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [Vistas dentro e fora de Quioto](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), biombo esquerdo de um par, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
+  actions:
+  - label: Slides
+    url  : /slides/cidades-possiveis/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História global* 491–518, 537–538
 ---
 
 # Espacialidade e vazio na pintura chinesa #
