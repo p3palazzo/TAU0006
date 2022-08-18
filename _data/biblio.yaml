@@ -984,9 +984,10 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:2004imagem
+  editor:
     - family: Contardi
       given: Bruno
-  citation-key: argan:2004imagem
   event-place: São Paulo
   ISBN: 85-359-0579-0
   issued:
@@ -1287,7 +1288,7 @@ references:
   publisher: '<span class="smallcaps">EDUFBA : PPGAU</span>'
   publisher-place: Salvador
   source: Open WorldCat
-  title: Teoria do Barroco
+  title: Teoria do barroco
   type: book
 
 - id: ballon:1999louis
