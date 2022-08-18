@@ -943,18 +943,19 @@ isolada, o traçado do perímetro externo abraça sempre que possível os
 volumes internos. Esse é o caso da igreja da Madonna delle Carceri, em
 Prato, construída em 1485 pelo arquiteto Giuliano da Sangallo
 ([@fig:carceri-ext; @fig:carceri-dwg]).
-
-![Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485](https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview){#fig:carceri-ext}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485](https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview){#fig:carceri-ext .slide-bg}
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:carceri-dwg .columns}
 ::: {.column width=50%}
-![planta](https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview){#fig:carceri-plan
-.stretch} ::: ::: {.column width=50%}
-![corte](https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview){#fig:carceri-sez
-width=100%} :::
+![planta](https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview){#fig:carceri-plan}
+:::
+::: {.column width=50%}
+![corte](https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview){#fig:carceri-sez}
+:::
 
 Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485.
 @rocchi:1884chiesa

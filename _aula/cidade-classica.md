@@ -60,8 +60,8 @@ anteriormente](cidades-possiveis.md).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Vila real de Santa Fé fundada em 1491 como base dos reis católicos para
-a conquista de Granada [@garcia-pulido:2004imagenLXXVII;
-@garcia-pulido:2005nuevasLXXVIII].
+a conquista de Granada [@garcia-pulido:2004imagenlxxvii;
+@garcia-pulido:2005nuevaslxxviii].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição do traçado original de Santa Fé, Granada, 1491, por [García Pulido e Orihuela, 2005][]](https://hcommons.org/app/uploads/sites/1002372/2022/03/orihuela-35-Hipotesis-del-trazado-del-Real-de-Santa-Fe.png){#fig:santafe-plan .line .slide-bg}
