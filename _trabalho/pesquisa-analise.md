@@ -28,7 +28,7 @@ excerpt: >
 > Pombal. Este programa de reformas alteraram irreversivelmente os rumos
 > da sociedade portuguesa do Antigo Regime.
 >
-> <footer>Helena Murteira, <cite>“The Lisbon Earthquake of
+> <footer><cite>Helena Murteira, “The Lisbon Earthquake of
 > 1755”</cite>.</footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
