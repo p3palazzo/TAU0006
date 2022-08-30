@@ -143,6 +143,12 @@ var store = [{
         "url": "/tau0006/trabalho/analise-arq/",
         "teaser": null
       },{
+        "title": "Resenha e discussão de texto",
+        "excerpt":"Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um parágrafo (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras,...","categories": [],
+        "tags": [],
+        "url": "/tau0006/trabalho/resenha/",
+        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
+      },{
         "title": "Pesquisa e crítica",
         "excerpt":"Objetivo de aprendizagem Saber pesquisar Refletir criticamente sobre a tradição historiográfica da arquitetura, e especialmente sobre os debates a respeito das noções de Antiguidade e Modernidade. Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e...","categories": [],
         "tags": [],
@@ -161,9 +167,9 @@ var store = [{
         "url": "/tau0006/trabalho/prova/",
         "teaser": null
       },{
-        "title": "Resenha e discussão de texto",
-        "excerpt":"Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um parágrafo (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras,...","categories": [],
+        "title": "Pesquisa e análise",
+        "excerpt":"[Após o terremoto de Lisboa em 1755,] Portugal não ficou estagnado. O centro de Lisboa foi reconstruído pelos engenheiros militares Manuel da Maia, Eugénio dos Santos e Carlos Mardel, entre outros, cujas ideias acerca do planeamento urbano eram consoantes com os projetos do [marquês de] Pombal para Lisboa: uma cidade...","categories": [],
         "tags": [],
-        "url": "/tau0006/trabalho/resenha/",
-        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
+        "url": "/tau0006/trabalho/pesquisa-analise/",
+        "teaser": null
       }]
