@@ -3,7 +3,7 @@ title   : "Reação clássica"
 subtitle: "Inquietações contemporâneas"
 item    : IV
 author  : Pedro P. Palazzo
-date    : 2022-04-19
+date    : 2022-09-08
 excerpt: >
   Classicismo para o povo –
   Origens do cálculo estrutural –
@@ -632,9 +632,11 @@ Galileu considerou que a curva balística se aproximava a uma parábola, e
 descreveu essa curva pelas suas tangentes ([@fig:galileo-c72]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::: {#fig:galileo-c72 .full .half}
-<div class="r-stack">![Galileu Galilei, manuscrito no códice 72, [fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116 .fragment .current-visible}
-![Galileu Galilei, manuscrito no códice 72, [fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117 .fragment .current-visible}</div>
+::::::::::::::::::::::::::::::::::::::::::::::: {#fig:galileo-c72 .full}
+<div class="half r-stack">![[fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116 .fragment .current-visible}
+![[fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117 .fragment .current-visible}</div>
+
+Galileu Galilei, manuscrito no códice 72
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
@@ -1338,7 +1340,7 @@ Bretonne, ele propôs regulamentar também a prostituição em Chaux. O
 projeto do *oikema* ([@fig:oikema]) visava a segregar espacialmente as
 mulheres, ao mesmo tempo retirando-as do convívio social e explicitando
 a sua condição social por meio da forma característica do edifício
-[@preciado:2014restif]. Ao ensejo de Camus de Mézières, a forma da
+[@preciado:2015restif]. Ao ensejo de Camus de Mézières, a forma da
 planta do edifício é sugestiva do seu caráter, ou seja, ela expressa a
 natureza das atividades que teriam lugar no edifício --- mas mais ainda,
 a alegoria fálica deixa claro quem detém o poder sobre a prostituição...

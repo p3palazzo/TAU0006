@@ -559,6 +559,56 @@ references:
   title-short: The geometry of an art
   type: book
 
+- id: andre:2012morfologia
+  abstract: >-
+    A Rede Portuguesa de Morfologia Urbana, PNUM (Portuguese Network on Urban
+    Morphology), realizou a segunda edição da sua conferência anual, com o tema
+    ‘Morfologia Urbana nos Países Lusófonos’. Esta conferência foi organizada
+    com o apoio do DINÂMIA'CET-IUL e realizou-se no Instituto Universitário de
+    Lisboa ISCTE-IUL nos dias 5 e 6 de Julho de 2012. Incluiu comunicações de
+    conferencistas convidados, comunicações em sessões paralelas, posters, uma
+    mesa redonda com arquitectos convidados e um conjunto de eventos sociais. 
+
+    O PNUM 2012: Morfologia Urbana nos Países Lusófonos, PNUM 2012: Urban
+    Morphology in Portuguese Speaking Countries, promoveu uma oportunidade de
+    debate e de reflexão sobre morfologia urbana. Estabeleceu um espaço
+    primordial para a articulação entre as questões chave do International
+    Seminar on Urban Form (ISUF) e temas específicos da forma urbana no espaço
+    Lusófono. Nomeadamente, no que se refere às diferentes teorias, conceitos e
+    técnicas morfológicas; à história da forma urbana; aos diferentes elementos
+    da forma urbana; às diferentes escalas de análise e de intervenção; à
+    interdisciplinaridade; às relações entre teoria e prática profissional; bem
+    como às diferentes abordagens desenvolvidas no espaço Lusófono.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 17
+  citation-key: andre:2012morfologia
+  editor:
+    - family: André
+      given: Paula
+    - family: Marat-Mendes
+      given: Teresa
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+  event-place: Lisboa
+  ISBN: 978-989-732-023-1
+  issued:
+    - year: 2012
+      month: 7
+  language: pt-PT
+  license: openAccess
+  publisher: 'ISCTE : ISUF'
+  publisher-place: Lisboa
+  source: repositorio.iscte-iul.pt
+  title: >-
+    Morfologia Urbana nos Países Lusófonos. Actas da Conferência Internacional -
+    <span class="smallcaps">PNUM</span> 2012 - Portuguese Network of Urban
+    Morphology
+  type: book
+  URL: https://repositorio.iscte-iul.pt/handle/10071/3633
+
 - id: andriasyan:2020point12
   abstract: >-
     Building Information Modelling (BIM) is a globally adapted methodology by
@@ -778,6 +828,30 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Beijing_China_Hall-of-Prayer-for-Good-Harvests-01.jpg
 
+- id: araujo:1998universo
+  archive_location: 711 (469) "14/18"
+  call-number: HT384.P8 U54 1998
+  citation-key: araujo:1998universo
+  edition: '1'
+  editor:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: pt-PT
+  number-of-pages: '569'
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  title-short: Universo urbanístico português 1415-1822
+  type: book
+
 - id: arayici:2017heritage
   abstract: >-
     Building Information Modelling (BIM) is being debated, tested and
@@ -984,9 +1058,10 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:2004imagem
+  editor:
     - family: Contardi
       given: Bruno
-  citation-key: argan:2004imagem
   event-place: São Paulo
   ISBN: 85-359-0579-0
   issued:
@@ -1287,7 +1362,7 @@ references:
   publisher: '<span class="smallcaps">EDUFBA : PPGAU</span>'
   publisher-place: Salvador
   source: Open WorldCat
-  title: Teoria do Barroco
+  title: Teoria do barroco
   type: book
 
 - id: ballon:1999louis
@@ -3183,6 +3258,28 @@ references:
   title-short: Tools for reading and designing the ‘Islamic city’
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-33323-2_14
+
+- id: caldas:1999casa
+  author:
+    - family: Caldas
+      given: João Vieira
+  call-number: 728.6 (469.411) "17"
+  citation-key: caldas:1999casa
+  contributor:
+    - family: Correia
+      given: José Eduardo Horta
+  event-place: Porto
+  ISBN: 978-972-9483-31-8
+  issued:
+    - year: 1999
+  language: pt-PT
+  publisher: FAUP
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    A Casa rural dos arredores de Lisboa no século <span
+    class="smallcaps">XVIII</span>
+  type: book
 
 - id: calder:2021architecture
   author:
@@ -6068,6 +6165,28 @@ references:
   type: thesis
   URL: http://hdl.handle.net/10362/8541
 
+- id: diogo:2021inventing
+  author:
+    - family: Diogo
+      given: Maria Paula
+    - family: Saraiva
+      given: Tiago
+  citation-key: diogo:2021inventing
+  collection-number: '6'
+  collection-title: Synthesis lectures on global engineering
+  event-place: San Rafael, Cal.
+  ISBN: 978-1-62705-515-4 978-1-68173-787-4
+  issued:
+    - year: 2021
+  language: en
+  number-of-pages: '151'
+  publisher: Morgan & Claypool
+  publisher-place: San Rafael, Cal.
+  source: K10plus ISBN
+  title: 'Inventing a European nation: engineers for Portugal, from Baroque to Fascism'
+  title-short: Inventing a European nation
+  type: book
+
 - id: dors:1990barroco
   author:
     - family: Ors
@@ -6261,6 +6380,65 @@ references:
   title-short: The Duomo or the Santa Maria del Fiore
   type: post-weblog
   URL: https://www.teggelaar.com/en/florence-day-1-continuation-1/
+
+- id: duraes:2016modos8
+  abstract: >-
+    En este artículo se analiza el papel de la vivienda como un mecanismo de
+    diferenciación social, subrayando su dimensión escénica, apoyo a la
+    comunicación con el exterior, señal de distinción social e económica. Con
+    este fin, la casa urbana se abordará a partir de dos vectores fundamentales:
+    análisis de formas de propiedad y de habitar.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 19
+  author:
+    - family: Durães
+      given: Andreia
+  citation-key: duraes:2016modos8
+  container-title: Revista electrónica de Historia Moderna
+  ISSN: 1699-7778
+  issue: '32'
+  issued:
+    - year: 2016
+      month: 6
+      day: 30
+  language: pt-PT
+  license: Copyright (c) 2016 Revista electr?nica de Historia Moderna
+  number: '32'
+  page: 358-385
+  source: www.tiemposmodernos.org
+  title: Modos de habitar em Lisboa (1755-1836)
+  type: article-journal
+  URL: http://www.tiemposmodernos.org/tm3/index.php/tm/article/view/1289
+  volume: '8'
+
+- id: durao:2012analise12
+  accessed:
+    - year: 2019
+      month: 12
+      day: 2
+  author:
+    - family: Durão
+      given: Vitor C. M.
+  citation-key: durao:2012analise12
+  container-title: Revista de Gestão Costeira Integrada
+  ISSN: 1646-8872
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 3
+  language: pt-PT
+  page: 17-30
+  source: SciELO
+  title: >-
+    Análise urbana de territórios construídos: os aterros na Baixa e na frente
+    ribeirinha de Lisboa, Portugal
+  title-short: Análise urbana de territórios construídos
+  type: article-journal
+  URL: >-
+    http://www.scielo.mec.pt/scielo.php?script=sci_abstract&pid=S1646-88722012000100003&lng=pt&nrm=iso&tlng=pt
+  volume: '12'
 
 - id: dv8stees:2017doctor
   accessed:
@@ -6688,6 +6866,34 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
 
+- id: faria:2014terreiro
+  abstract: >-
+    A presente obra, coordenada por Miguel Figueira de Faria, procura
+    compreender a progressiva metamorfose do Terreiro do Paço/Praça do Comércio
+    como referente da cultura urbanística de Lisboa. Organizado numa linha de
+    escrutínio evolutivo das soluções arquitetónicas e monumentais que se
+    sucederam e da utilização quotidiana que, entre os séculos XVI e XIX, se deu
+    a este espaço nobre da cidade de Lisboa, Do Terreiro do Paço à Praça do
+    Comércio oferece ao público um conjunto de ensaios que constituem uma fonte
+    segura de informação e consulta.
+  citation-key: faria:2014terreiro
+  editor:
+    - family: Faria
+      given: Miguel Figueira
+      dropping-particle: de
+  ISBN: 978-972-27-2302-2
+  issued:
+    - year: 2014
+      month: 2
+      day: 14
+  language: pt-PT
+  number-of-pages: '328'
+  publisher: Leya
+  source: Google Books
+  title: Do terreiro do Paço à praça do Comércio - história de um espaço urbano
+  title-short: Do terreiro do Paço à praça do Comércio
+  type: book
+
 - id: fauvelle:2018rinoceronte
   author:
     - family: Fauvelle
@@ -6855,6 +7061,26 @@ references:
     Architecture (Seventeenth–Eighteenth Centuries)
   type: chapter
   URL: https://doi.org/10.1007/978-3-319-21885-4_7
+
+- id: fialho:2018sistema
+  author:
+    - family: Fialho
+      given: Manuel
+  citation-key: fialho:2018sistema
+  container-title: 'Meios vias e trajetos...: entrar e sair de Lisboa'
+  editor:
+    - family: Senna-Martínes
+      given: João Carlos
+  event-place: Lisboa
+  ISBN: 978-972-8543-49-5
+  issued:
+    - year: 2018
+  language: pt-PT
+  publisher: Câmara Municipal de Lisboa
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O sistema viário da Lisboa medieval
+  type: chapter
 
 - id: ficher:1988construcao
   archive: Fichário 01
@@ -7432,6 +7658,73 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg#
 
+- id: franca:1980lisboa
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1980lisboa
+  collection-number: '53'
+  collection-title: Biblioteca Breve de Artes Visuais
+  edition: '1'
+  event-place: Lisboa
+  issued:
+    - year: 1980
+  language: pt-PT
+  publisher: Instituto de Cultura e Língua Portuguesa, M.E.C.
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Lisboa: urbanismo e arquitectura'
+  title-short: Lisboa
+  type: book
+
+- id: franca:1989reconstrucao
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1989reconstrucao
+  collection-number: '12'
+  collection-title: Biblioteca Breve
+  edition: '3'
+  event-place: Lisboa
+  issued:
+    - year: 1989
+  language: pt-PT
+  publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: A reconstrução de Lisboa e a arquitectura pombalina
+  type: book
+
+- id: franca:2004pombalismo
+  author:
+    - family: França
+      given: José-Augusto
+  citation-key: franca:2004pombalismo
+  collection-editor:
+    - family: Ferreira de Almeida
+      given: Carlos Alberto
+    - family: França
+      given: José-Augusto
+    - family: Barroca
+      given: Mário Jorge
+    - family: Serrão
+      given: Vítor Manuel
+  collection-number: '5'
+  collection-title: História da arte em Portugal
+  edition: '1'
+  event-place: Lisboa
+  ISBN: >-
+    978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
+    978-972-23-3154-8 978-972-23-3244-6
+  issued:
+    - year: 2004
+  language: pt-PT
+  publisher: Presença
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O pombalismo e o romantismo
+  type: book
+
 - id: frankl:1914entwicklungsphasen
   accessed:
     - year: 2017
@@ -7579,6 +7872,30 @@ references:
   publisher-place: Vicenza
   title: Roma e la formazione architettonica di Palladio
   type: paper-conference
+
+- id: frommel:2017bologna
+  call-number: NA1324 .D33 2017
+  citation-key: frommel:2017bologna
+  edition: Prima edizione
+  editor:
+    - family: Frommel
+      given: Sabine
+    - family: Antonucci
+      given: Micaela
+  event-place: Bologna
+  ISBN: 978-88-6923-244-2
+  issued:
+    - year: 2017
+  language: ita eng fre
+  number-of-pages: '324'
+  publisher: Bononia University Press
+  publisher-place: Bologna
+  source: Library of Congress ISBN
+  title: >-
+    Da Bologna all'Europa: artisti bolognesi in Portogallo (secoli <span
+    class="smallcaps">XVI-XIX</span>)
+  title-short: Da Bologna all'Europa
+  type: book
 
 - id: fu:2017traditional
   abstract: >-
@@ -11123,6 +11440,26 @@ references:
   type: chapter
   URL: https://digitalis.uc.pt/handle/10316.2/36685
 
+- id: kubler:1959art
+  author:
+    - family: Kubler
+      given: George
+    - family: Soria
+      given: Martin
+  citation-key: kubler:1959art
+  event-place: London
+  issued:
+    - year: 1959
+  language: English
+  number-of-pages: '676'
+  publisher: Penguin
+  publisher-place: London
+  source: Google Books
+  title: >-
+    Art and architecture in Spain and Portugal and their American dominions,
+    1500 to 1800
+  type: book
+
 - id: kyoto:1935
   accessed:
     - year: 2020
@@ -12105,9 +12442,9 @@ references:
   page: 477-504
   source: JSTOR
   title: >-
-    New and Improved: Repetition as Originality in Italian Baroque Practice and
-    Theory
-  title-short: New and Improved
+    New and improved: repetition as originality in Italian baroque practice and
+    theory
+  title-short: New and improved
   type: article-journal
   URL: http://www.jstor.org/stable/4134443
   volume: '86'
@@ -13106,6 +13443,25 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Scenes_in_and_around_Kyoto_Funaki_2.jpg
 
+- id: matos:2009edificio
+  author:
+    - family: Matos
+      given: Vanda Pereira
+      dropping-particle: de
+  citation-key: matos:2009edificio
+  event-place: Lisboa
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2009
+  language: pt-PT
+  publisher: Faculdade de Arquitectura e Artes da Universidade Lusíada de Lisboa
+  publisher-place: Lisboa
+  title: >-
+    O edifício de rendimento em Lisboa de 1758 ao dealbar do Estado Novo: da
+    Cotovia ao Rato
+  title-short: O edifício de rendimento em Lisboa
+  type: thesis
+
 - id: matrakci:1533istanbul
   accessed:
     - year: 2020
@@ -13295,6 +13651,29 @@ references:
     solidità scientifica e con eleganza non capricciosa, libri due
   type: book
   URL: http://archive.org/details/elementidellarch00lodo
+
+- id: mendes:2010vila
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  citation-key: mendes:2010vila
+  editor:
+    - family: Mendes
+      given: António Rosa
+  event-place: Vila Real de Santo António
+  issued:
+    - year: 2010
+      month: 6
+  language: pt-PT
+  publisher: >-
+    Câmara Municipal : Centro de Estudos do Património e História do Algarve :
+    Universidade do Algarve
+  publisher-place: Vila Real de Santo António
+  title: Vila Real de Santo António e o urbanismo iluminista
+  type: book
+  URL: >-
+    https://issuu.com/aicei/docs/vila_real_de_santo_ant_nio_e_o_urbanismo_iluminist
 
 - id: middleton:1959jacques18
   accessed:
@@ -14363,6 +14742,34 @@ references:
   title-short: Arquitectura del renacimiento
   type: book
 
+- id: murteira:2004lisbon10
+  abstract: >-
+    Published in Economia Global e Gestão (Global Economics and Management
+    Review), Lisboa, vol. 10 (2004), p. 79-99. This paper is based on a section
+    of the author’s PhD thesis: A Place for Lisbon in …
+  accessed:
+    - year: 2022
+      month: 2
+      day: 28
+  author:
+    - family: Murteira
+      given: Helena
+  citation-key: murteira:2004lisbon10
+  container-title: Economia Global e Gestão
+  ISSN: 0873-7444
+  issued:
+    - year: 2004
+  language: en-GB
+  page: 79-99
+  title: >-
+    The Lisbon earthquake of 1755: the catastrophe and its European
+    repercussions
+  title-short: The Lisbon earthquake of 1755
+  type: article-journal
+  URL: >-
+    https://lisbon-pre-1755-earthquake.org/en/the-lisbon-earthquake-of-1755-the-catastrophe-and-its-european-repercussions/
+  volume: '10'
+
 - id: musicaloris:2016pavillion
   abstract: From my China tour 11.2016
   accessed:
@@ -15267,6 +15674,35 @@ references:
   type: book
   URL: http://archive.org/details/templebuildersmo00over
 
+- id: pais:1882carta
+  author:
+    - family: Pais
+      given: Miguel Carlos Correia
+    - family: Folque
+      given: Filipe de Sousa
+  call-number: 711.5(469.411.16)(084.3)
+  citation-key: pais:1882carta
+  contributor:
+    - family: Portugal.
+      given: ''
+  event-place: '[Lisboa]'
+  issued:
+    - year: 1882
+  language: pt-PT
+  publisher: Direcção Geral dos Trabalhos Geodésicos
+  publisher-place: '[Lisboa]'
+  scale: Escala 1:10000
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Carta topographica da cidade de Lisboa reduzida da que foi levantada na
+    escala 1:1000 em 1856 a 1858; Esta carta indica os melhoramentos posteriores
+    e o projecto d[e] algumas obras d[e] arte a executar no futuro pelo
+    engenheiro M. C. C. Paes, 1882
+  title-short: >-
+    Carta topographica da cidade de Lisboa reduzida da que foi levantada na
+    escala 1
+  type: map
+
 - id: palazzo:2014louvre
   abstract: >-
     Exploramos aqui as interações entre a pesquisa historiográfica e os
@@ -15948,6 +16384,22 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
 
+- id: pereira:1992arquitectura
+  author:
+    - family: Pereira
+      given: José Fernandes
+  citation-key: pereira:1992arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-566-171-0
+  issued:
+    - year: 1992
+  language: Portuguese
+  publisher: Instituto de Cultura e Língua Portuguesa, Ministério da Educação e Cultura
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Arquitectura barroca em Portugal
+  type: book
+
 - id: perez-gomez:1982architecture36
   accessed:
     - year: 2019
@@ -16603,6 +17055,26 @@ references:
   URL: >-
     http://archive.org/details/McGillLibrary-rbsc_monumenta_piranesi_diverse-maniere-cammini_elfWFKP66cutter-18760
 
+- id: pires:1885planta
+  author:
+    - family: Pires
+      given: Caldeira
+  call-number: 711.5(469.411.16)(084.3)
+  citation-key: pires:1885planta
+  contributor:
+    - family: Grima
+      given: M.
+  event-place: Lisboa
+  issued:
+    - year: 1885
+  language: pt-PT
+  publisher: Lithografia Malta Ca
+  publisher-place: Lisboa
+  scale: Escala [ca 1:27000]
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: Planta da cidade de Lisboa e seus arredores
+  type: map
+
 - id: pirou:1904portrait
   accessed:
     - year: 2020
@@ -16672,6 +17144,27 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
+
+- id: planta:1786
+  accessed:
+    - year: 2019
+      month: 12
+      day: 2
+  archive: Biblioteca Digital Hispánica
+  archive_location: MR/43/66
+  citation-key: planta:1786
+  issued:
+    - year: 1786
+      circa: true
+  language: pt-PT
+  license: Public domain
+  source: Wikimedia Commons
+  title: >-
+    Planta da Cidade de Lisboa Novamente edeficada della Ruina que padeceó no
+    Terramoto do Primeiro de Novembro del Anno 1755
+  title-short: Planta da Cidade de Lisboa
+  type: map
+  URL: http://bdh.bne.es/bnesearch/detalle/bdh0000070373
 
 - id: podro:1982critical
   author:
@@ -17342,6 +17835,29 @@ references:
   type: article-journal
   URL: http://revistas.jasarqueologia.es/index.php/otarq/article/view/96
 
+- id: ribeiro:2013evolucaoa
+  citation-key: ribeiro:2013evolucaoa
+  editor:
+    - family: Ribeiro
+      given: Maria do Carmo
+    - family: Melo
+      given: Arnaldo Sousa
+  event-place: Braga
+  ISBN: 978-989-8612-05-2
+  issued:
+    - year: 2013
+  language: pt-PT
+  publisher: >-
+    <span class="smallcaps">CITCEM</span>-Centro de Investigação
+    Transdisciplinar "Cultura Espaço e Memória"
+  publisher-place: Braga
+  source: Open WorldCat
+  title: >-
+    Evolução da paisagem urbana: transformação morfológica dos tecidos
+    históricos
+  title-short: Evolução da paisagem urbana
+  type: book
+
 - id: ribeiro:2016facade
   accessed:
     - year: 2020
@@ -17578,6 +18094,27 @@ references:
   type: graphic
   URL: >-
     http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&rpnquery=%40attrset+bib-1++%40attr+1%3D1016+%40attr+4%3D6+%22Prato%22&totalResult=42&select_db=solr_unifi&nentries=1&rpnlabel=+Tutti+i+campi+%3D+Prato+%28Parole+tutte%29+&resultForward=opac%2Funifi%2Ffull.jsp&searchForm=opac%2Funifi%2Ferror.jsp&do_cmd=search_show_cmd&fname=none&from=26&search_text=
+
+- id: rocha:2015muralha
+  author:
+    - family: Rocha
+      given: Artur
+  citation-key: rocha:2015muralha
+  event-place: Lisboa
+  ISBN: 978-989-678-375-4
+  issued:
+    date-parts:
+      - - '2015'
+  language: pt-PT
+  original-date:
+    - year: 2015
+  publisher: 'Edição Banco de Portugal : Museu do Dinheiro'
+  publisher-place: Lisboa
+  title: >-
+    A muralha de D. Dinis e a cidade de Lisboa: fragmentos arqueológicos e
+    evolução histórica
+  title-short: A muralha de D. Dinis e a cidade de Lisboa
+  type: book
 
 - id: rochapeixoto:2013estrategia
   author:
@@ -18534,6 +19071,63 @@ references:
       given: Elane Ribeiro
   type: chapter
 
+- id: sampayo:2012lei
+  abstract: >-
+    A Rede Portuguesa de Morfologia Urbana, PNUM (Portuguese Network on Urban
+    Morphology), realizou a segunda edição da sua conferência anual, com o tema
+    ‘Morfologia Urbana nos Países Lusófonos’. Esta conferência foi organizada
+    com o apoio do DINÂMIA'CET-IUL e realizou-se no Instituto Universitário de
+    Lisboa ISCTE-IUL nos dias 5 e 6 de Julho de 2012. Incluiu comunicações de
+    conferencistas convidados, comunicações em sessões paralelas, posters, uma
+    mesa redonda com arquitectos convidados e um conjunto de eventos sociais. 
+
+    O PNUM 2012: Morfologia Urbana nos Países Lusófonos, PNUM 2012: Urban
+    Morphology in Portuguese Speaking Countries, promoveu uma oportunidade de
+    debate e de reflexão sobre morfologia urbana. Estabeleceu um espaço
+    primordial para a articulação entre as questões chave do International
+    Seminar on Urban Form (ISUF) e temas específicos da forma urbana no espaço
+    Lusófono. Nomeadamente, no que se refere às diferentes teorias, conceitos e
+    técnicas morfológicas; à história da forma urbana; aos diferentes elementos
+    da forma urbana; às diferentes escalas de análise e de intervenção; à
+    interdisciplinaridade; às relações entre teoria e prática profissional; bem
+    como às diferentes abordagens desenvolvidas no espaço Lusófono.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 17
+  author:
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+    - family: Marat-Mendes
+      given: Teresa
+  citation-key: sampayo:2012lei
+  container-title: Morfologia Urbana nos Países Lusófonos. Actas da Conferência Internacional
+  editor:
+    - family: André
+      given: Paula
+    - family: Marat-Mendes
+      given: Teresa
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+  event-place: Lisboa
+  event-title: Portuguese Network of Urban Morphology
+  ISBN: 978-989-732-023-1
+  issued:
+    - year: 2012
+      month: 7
+  language: pt-PT
+  license: openAccess
+  publisher: 'ISCTE : ISUF'
+  publisher-place: Lisboa
+  source: repositorio.iscte-iul.pt
+  title: >-
+    A lei da permanência do plano na cartografia da parte baixa de Lisboa de
+    1756 a 1786
+  type: paper-conference
+  URL: https://repositorio.iscte-iul.pt/handle/10071/3633
+
 - id: san:2014
   abstract: >-
     The church of San Miniato al Monte is often described as one of the finest
@@ -18600,6 +19194,28 @@ references:
   source: Open WorldCat
   title: 'Barroco: do quadrado à elipse'
   title-short: Barroco
+  type: book
+
+- id: santos:2005baixa
+  author:
+    - family: Santos
+      given: Maria Helena Ribeiro
+      dropping-particle: dos
+  citation-key: santos:2005baixa
+  collection-number: '34'
+  collection-title: Colecção Cidade de Lisboa
+  edition: 2. ed
+  event-place: Lisboa
+  ISBN: 978-972-24-1408-1
+  issued:
+    - year: 2005
+  language: pt
+  number-of-pages: '246'
+  publisher: Livros Horizonte
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: 'A Baixa Pombalina: passado e futuro'
+  title-short: A Baixa Pombalina
   type: book
 
 - id: sarah:2016plan
@@ -19403,6 +20019,48 @@ references:
   title: Siena, Italy by Drone
   type: motion_picture
   URL: https://www.youtube.com/watch?v=_avuy1Hzw70
+
+- id: silva:1950plantas
+  accessed:
+    - year: 2019
+      month: 6
+      day: 15
+  author:
+    - family: Silva
+      given: Augusto Vieira
+      dropping-particle: da
+  call-number: 528(469.411.16)(084.4)
+  citation-key: silva:1950plantas
+  event-place: Lisboa
+  issued:
+    - year: 1950
+  language: pt-PT
+  publisher: Câmara Municipal
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: Plantas topográficas de Lisboa
+  type: map
+  URL: http://purl.pt/27804
+
+- id: silva:1997lisboa
+  author:
+    - family: Silva
+      given: Raquel Henriques
+      dropping-particle: da
+  call-number: '72'
+  citation-key: silva:1997lisboa
+  event-place: Lisboa
+  genre: Tese (Doutoramento em História da Arte)
+  issued:
+    - year: 1997
+  language: pt-PT
+  number-of-pages: '2'
+  publisher: Universidade Nova de Lisboa
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Lisboa romântica: urbanismo e arquitectura, 1777-1874'
+  title-short: Lisboa romântica
+  type: thesis
 
 - id: simoes:2013permanencias5
   abstract: >-
@@ -20358,6 +21016,201 @@ references:
   title: A forma da cidade de origem portuguesa
   type: book
 
+- id: teixeira:2013jose
+  abstract: >-
+    Esta investigação procurou mapear a obra de José da Costa e Silva
+    (1747-1819) no  
+
+    contexto da prática e da cultura arquitetónica vigentes em Portugal nos
+    finais do século XVIII  
+
+    e princípios do XIX. Decorrente da sua formação na Accademia Clementina de
+    Bolonha  
+
+    (1769-1779) o seu discurso profissional traduz a demarcação das persistentes
+    correntes  
+
+    tardobarrocas e rococó que dominavam o panorama da criação e da encomenda
+    naquela 
+
+    moldura histórica. A focagem que estabelece no discurso neoclássico opera-se
+    através das  
+
+    propostas que ilustram a atualização absorvida em Itália, onde o ensino
+    escolar e o gosto  
+
+    estético rececionaram o novo código artístico que circulava
+    internacionalmente. 
+
+    O protagonismo que vem a alcançar no seu regresso a Lisboa revela-se na
+    atribuição  
+
+    dos grandes empreendimentos construtivos com que foi distinguido e que
+    definiram a  
+
+    dinâmica artística epocal. A emergência da arquitetura de incidência
+    pública, de entoação  
+
+    iluminista, acusada nas obras do Érario Régio (1789), do Real Teatro de São
+    Carlos (1792),  
+
+    do Hospital Militar de Inválidos, em Runa, (1792) ou da Academia do Comércio
+    e de  
+
+    Marinha do Porto (1803) enunciam a subordinação às novas tipologias de
+    índole secular, que  
+
+    inscreviam a modernidade e o novo compromisso do espaço urbano.  
+
+    Com o elenco das residências de aparato para as elites aristocráticas
+    (Pombal, Marialva,  
+
+    Quintela, Anadia, Pina Manique, ou ainda o palacete do Ramalhão (1802) para
+    a princesa 
+
+    D. Carlota Joaquina), alinham-se coerentemente princípios de composição que
+    assimilam  
+
+    modelos contemporâneos. Projetos que vêm ainda a acolher programas
+    ornamentais nos  
+
+    interiores, tributários de alinhamentos neo pompeianos ou ilustrando léxicos
+    anglopalladianos  
+
+    codificados pelos irmãos Adams. 
+
+    Na radicalidade da afirmação linguística, na invocação das referências a
+    Andrea  
+
+    Palladio  em que se alimentou e enformou a sua identidade de arquiteto -  o
+    epíteto de  
+
+    neopalladiano é susceptível de traduzir o seu registo idiomático. Quando lhe
+    foi pedido um  
+
+    programa para a instalação do corte no Terrreio do Paço veio a produzir uma
+    apreciação  
+
+    contundente à arquitetura da reconstrução, no pressuposto do seu empirismo,
+    que declina uma  
+
+    gramática projetual de matriz seiscentista e no pragmatismo retardatário do
+    desenho dos engenheiros militares. No enquadramento taxativo das premissas
+    do Plano pombalino de 1758  
+
+    formatou-se o paradigma que impôs a estandardização e a supremacia da
+    intervenção  
+
+    territorial. A aplicação dos preceitos vitruvianos que criam a textura das
+    propostas  
+
+    neoclássicas não ocorreram e a vernacularidade revelou ser a sua marca de
+    água – 
+
+    argumentação que acerrimamente sustentou. Em contrapartida foi criticado, de
+    modo severo,  
+
+    pelas suas opções construtivas no Real Erário e pela escala colossal do
+    edifício, não sem  
+
+    mesmo revelar intransigente insensibilidade à sua reavaliação.  
+
+    A encomenda para o novo projeto do palácio da Ajuda (1802) provocou uma
+    fratura que  
+
+    exemplifica a incorporação do neoclassicismo nos programas de representação
+    da corte, sob o  
+
+    despotismo ilustrado de Rodrigo de Sousa Coutinho, 1.º conde de Linhares.
+    Com a adoção das  
+
+    novas linguagens que Costa e Silva e Francisco Xavier Fabri aportaram ao seu
+    desenho, pode  
+
+    aferir-se o patamar cosmopolita na dinâmica do establishement mariano. A
+    vincada obsessão  
+
+    de Costa e Silva pela monumentalidade que atravessou a sua trajetória, e em
+    que Caserta  
+
+    definia o arquétipo, pôde vazar-se nesta residência da corte (centro
+    simbólico que o  
+
+    Terramoto fizera elidir e se improvisara, em alternativa, na Real Barraca).
+    Com o acervo  
+
+    documental encontrado, revela-se a competência de atelier e a preparação
+    técnica derivada de  
+
+    uma aprendizagem académica, instrumentos que marcaram a diferença
+    profissional que  
+
+    soube, assim, instalar na cultura arquitetónica portuguesa – sendo,
+    consequentemente de  
+
+    lamentar que não chegasse a editar o seu anunciado tratado de “Arquitectura
+    matemática”. 
+
+    Sob a requisição do príncipe regente, a recuperar da turbulência provocada
+    pelas  
+
+    invasões francesas, vem a transferir-se para o Rio de Janeiro (1812), como
+    “arquitecto de  
+
+    todas as obras reais”, mas prioritariamente para acompanhar o acabamento do
+    Real Teatro da  
+
+    Ópera de São João. Edifício que manifesta como que uma clonagem do São
+    Carlos de Lisboa,  
+
+    a demonstrar ainda o esforço de metropolitização da agora capital do
+    império, e a querer  
+
+    afirmar-se como indicador de registo político e urbano. No largo do Rocio
+    onde se situava a  
+
+    Ópera deu ainda o risco para o elegante palacete para o poderoso barão de
+    Rio Seco,  
+
+    residência de prestígio e de aparato.  
+
+    Costa e Silva reuniu quer, uma excecional biblioteca, quer uma
+    extraordinária coleção  
+
+    de desenhos sobretudo de maneiristas italianos, - ambas, encontram-se hoje
+    na Biblioteca  
+
+    Nacional do Rio de Janeiro -, a certificarem a dimensão humanista de um
+    arquiteto que, de modo rigoroso e consistente, foi permeável à apropriação
+    do neoclassicismo, cujo modelos  
+
+    procurou disseminar em Portugal e no Brasil.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Teixeira
+      given: José de Monterroso
+  citation-key: teixeira:2013jose
+  event-place: Lisboa
+  genre: Tese (doutoramento) em História da Arte
+  issued:
+    - year: 2013
+      month: 4
+      day: 24
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade Aberta
+  publisher-place: Lisboa
+  source: repositorio.ual.pt
+  title: >-
+    José da Costa Silva (1747-1819) e a receção do neoclassicismo em Portugal: a
+    clivagem de discurso e a prática arquitetónica
+  title-short: José da Costa Silva e a receção do neoclassicismo em Portugal
+  type: thesis
+  URL: http://repositorio.ual.pt/handle/11144/305
+
 - id: temple:2011renovatio
   author:
     - family: Temple
@@ -21011,6 +21864,25 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal_from_the_sky.jpg
 
+- id: underwood:1988pombaline
+  author:
+    - family: Underwood
+      given: David Kendrick
+  citation-key: underwood:1988pombaline
+  event-place: University Park, Penn.
+  genre: Dissertation (Ph.D. in History of Art)
+  issued:
+    - year: 1988
+      month: 1
+      day: 1
+  publisher: University of Pennsylvania
+  publisher-place: University Park, Penn.
+  title: >-
+    The Pombaline style and international neoclassicism in Lisbon and Rio de
+    Janeiro
+  type: thesis
+  URL: https://repository.upenn.edu/dissertations/AAI8824801
+
 - id: unidentified:1570
   accessed:
     - year: 2020
@@ -21088,6 +21960,44 @@ references:
   title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
+
+- id: valla:2012engenharia6
+  abstract: >-
+    A prática de intervenção dos portugueses nos diversos territórios como
+    África, Oriente levou à consolidação de teorias e de trocas de experiências
+    que se veio a reflectir na formação territorial do Brasil. As primeiras
+    ocupações deram-se na costa, com a construção de fortes e implantação
+    decidades construídas pelos arquitectos, mestre de obras ou fortificadores,
+    que seguiam os modelos urbanísticos das cidades portuguesas e as teorias
+    renascentistas que então circulavam na época adaptando-as aos locais de
+    implantação. O papel dos engenheiros militares, continuadores dessa prática,
+    formados nas escolas especializadas em teorias de fortificação, abrangeu
+    desde a construçãode sistemas de defesa cada vez mais complexos de acordo
+    com as novas tecnologias, ao levantamento de cidades e regiões que serviram
+    para o reconhecimento do território e demarcação de fronteiras, e ao
+    planeamento das inúmeras cidades novas construídas no século XVIII
+    querefletem a crescente racionalidade impressa no século das “luzes”.
+  accessed:
+    - year: 2013
+      month: 8
+      day: 27
+  author:
+    - family: Valla
+      given: Margarida
+  call-number: 711.034(81)
+  citation-key: valla:2012engenharia6
+  container-title: 'Anais: Seminário de História da Cidade e do Urbanismo'
+  issue: '3'
+  issued:
+    - year: 2012
+      month: 8
+      day: 1
+  language: pt-BR
+  source: www.anpur.org.br
+  title: A engenharia militar na construção da cidade
+  type: article-journal
+  URL: http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842
+  volume: '6'
 
 - id: vaneck:1998structure57
   abstract: >-
@@ -22319,6 +23229,31 @@ references:
   title: A history of Western architecture
   type: book
   URL: http://archive.org/details/historyofwestern0000watk_y0h2
+
+- id: watson:1908portuguese
+  abstract: '"Books consulted": p. 272'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 8
+  author:
+    - family: Watson
+      given: Walter Crum
+  call-number: '9926166180001551'
+  citation-key: watson:1908portuguese
+  contributor:
+    - literal: Getty Research Institute
+  event-place: London
+  issued:
+    - year: 1908
+  language: en
+  number-of-pages: '419'
+  publisher: A. Constable and company, ltd.
+  publisher-place: London
+  source: Internet Archive
+  title: Portuguese architecture
+  type: book
+  URL: http://archive.org/details/gri_33125000280996
 
 - id: wendland:2007traditional1
   accessed:

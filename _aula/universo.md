@@ -3,7 +3,7 @@ title   : "Universo em expansão"
 subtitle: "Inquietações contemporâneas"
 item    : III
 author  : Pedro P. Palazzo
-date    : 2022-04-12
+date    : 2022-08-25
 excerpt: >
   Sociedade burguesa –
   Antiquarismo e história da arte –
@@ -22,6 +22,9 @@ sidebar:
     - *História global* 599–615
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/View_of_the_Wilderness_at_Kew_MET_DP105027.jpg/2560px-View_of_the_Wilderness_at_Kew_MET_DP105027.jpg
+sidebar:
+- title: "Leitura"
+  text : "*História global* p. 599–615"
 ---
 
 # Sociedade burguesa #
@@ -373,8 +376,6 @@ Piranesi, Jean-Laurent Le Geay [@kaufmann:1952three, 451].
      - Amritsar
      - Bangkok
    -->
-
-## Classicismo visionário ##
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 
