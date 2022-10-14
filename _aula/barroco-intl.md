@@ -26,8 +26,6 @@ title-slide-attributes:
 
 # Teorias do barroco #
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A história da arte e da arquitetura que temos acompanhado até agora é
 uma disciplina essencialmente europeia, tanto nos seus métodos e autores
@@ -86,7 +84,7 @@ dinastias Sui e Tang.
 
 ## Tōdaiji ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg/1280px-200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Datam dessa época os vários mosteiros budistas na antiga capital, Nara,
@@ -95,9 +93,11 @@ leste", construído a partir de 743 para abrigar uma estátua monumental
 do Buda ([@Fig:todaiji-garan-model]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Maquete do *garan* (recinto) do Tōdaiji, Nara, 743. Projeto de Chōgen. Prefeitura de Nara, foto por [Nagoya (2020a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg/1024px-200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg){#fig:todaiji-garan-model}
+![Maquete do *garan* (recinto) do Tōdaiji, Nara, 743. Projeto de Chōgen. Prefeitura de Nara, foto por [Nagoya (2020a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg/1024px-200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg){#fig:todaiji-garan-model .outset}
 
-* * * *
+------
+
+![Planta do Tōdaiji. Desenho: [Binabik155 (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plan_of_Todaiji.svg/832px-Plan_of_Todaiji.svg.png){#fig:todaiji-garan-plan .outset .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Tōdaiji, como a maioria dos mosteiros budistas na China e no Japão,
@@ -106,18 +106,18 @@ foi certamente concebido por um monge especializado. No final do século
 complexo, após a devastação causada pelas guerras civis.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta do Tōdaiji. [Binabik155 (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plan_of_Todaiji.svg/832px-Plan_of_Todaiji.svg.png){.stretch #fig:todaiji-garan-plan}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/1280px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando construído, o edifício principal do Tōdaiji --- o salão dourado
 ou salão do grande Buda --- era a maior construção em madeira do mundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Maquete do salão dourado do Tōdaiji, Nara, 743--751. Foto: [Nagoya (2020b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/1024px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg){#fig:todaiji-kondo-model}
+![Maquete do salão dourado do Tōdaiji, Nara, 743--751. Foto: [Nagoya (2020b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/1024px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg){#fig:todaiji-kondo-model .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1280px-Tōdai-ji_Temple_in_Nara,_Japan.jpg"}
+------
+
+![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Moïse (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1024px-Tōdai-ji_Temple_in_Nara,_Japan.jpg){#fig:todaiji-kondo-angle .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O salão dourado original foi destruído num incêndio provocado por um
@@ -126,9 +126,7 @@ raio, e foi reconstruído em 1709. O novo edifício
 madeira do mundo até a inauguração do Parasol em Sevilha, em 2014.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Moïse (2005)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1024px-Tōdai-ji_Temple_in_Nara,_Japan.jpg){#fig:todaiji-kondo-angle}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1280px-Buddha_in_Todai-ji,_Nara.JPG"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A estátua colossal de Buda também foi quase inteiramente refeita, mas
@@ -136,13 +134,15 @@ mantém as suas dimensões originais ([@Fig:daibutsu-front;
 @fig:daibutsu-side])
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Grande Buda do Tōdaiji, Nara, 741--752, restaurado em 1185 e 1692. [Løken (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1024px-Buddha_in_Todai-ji,_Nara.JPG){#fig:daibutsu-front}
+![Grande Buda do Tōdaiji, Nara, 741--752, restaurado em 1185 e 1692. [Løken (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1024px-Buddha_in_Todai-ji,_Nara.JPG){#fig:daibutsu-front .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1280px-Japan_070416_Todaiji_08.jpg"}
+------
 
-![Grande Buda do Tōdaiji. [Rozen (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1024px-Japan_070416_Todaiji_08.jpg){#fig:daibutsu-side}
+![Grande Buda do Tōdaiji. [Rozen (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1024px-Japan_070416_Todaiji_08.jpg){#fig:daibutsu-side .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1280px-Todaiji_daibutsuden1.jpg"}
+------
+
+![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Kenpei (2009)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1024px-Todaiji_daibutsuden1.jpg){#fig:todaiji-kondo-front .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As construções originais do Tōdaiji estabeleceram um "estilo" que foi,
@@ -155,9 +155,11 @@ Mesmo o salão reconstruído no século [XVIII]{.smallcaps} permanece fiel ao es
 original ([@Fig:todaiji-kondo-front]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Salão dourado do Tōdaiji, Nara, reconstruído em 1709. [Kenpei (2009)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1024px-Todaiji_daibutsuden1.jpg){#fig:todaiji-kondo-front}
+------
 
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Kara-hafu. [Mukai (2007)][]](https://upload.wikimedia.org/wikipedia/commons/6/63/Kara-hafu.png){#fig:karahafu .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A diferença mais marcante da antiga construção para a atual é o tímpano
@@ -167,9 +169,7 @@ nome, ele foi criado no Japão no início do século [XII]{.smallcaps}. Portanto
 dos poucos elementos da arquitetura budista a não ser de origem chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Kara-hafu. [Mukai (2007)][]](https://upload.wikimedia.org/wikipedia/commons/6/63/Kara-hafu.png){#fig:karahafu}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NinomaruPalace.jpg/1280px-NinomaruPalace.jpg"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *karahafu* vai ser um motivo arquitetônico especialmente difundido
@@ -181,6 +181,8 @@ edificações cívicas e religiosas ([@Fig:nijo-karamon]).
 
 * * * *
 
+![Detalhe da fachada do salão dourado do Tōdaiji com *karamon* e *tokyō*. [Urashima (2013)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Todaiji_-_Daibutsuden-13.jpg/762px-Todaiji_-_Daibutsuden-13.jpg){#fig:todaiji-kondo-karamon .outset}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No Tōdaiji, o *karahafu* se associa a elementos de origem claramente
 chinesa para dar o efeito de monumentalidade na portada principal
@@ -191,8 +193,6 @@ a função primária de reduzir o esforço cortante nas extremidades das
 vigas. Esse esforço é o principal fator de dimensionamento das
 estruturas em madeira.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Detalhe da fachada do salão dourado do Tōdaiji com *karamon* e *tokyō*. [Urashima (2013)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Todaiji_-_Daibutsuden-13.jpg/762px-Todaiji_-_Daibutsuden-13.jpg){#fig:todaiji-kondo-karamon}
 
 * * * *
 
@@ -213,7 +213,9 @@ adotado no Japão do século [XIII]{.smallcaps} em diante.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1280px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg"}
+------
+
+![Portada principal do salão dourado, Tōdaiji. [ESU (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1024px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg){#fig:todaiji-kondo-under .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa combinação ressalta o virtuosismo da carpintaria japonesa no século
@@ -221,9 +223,7 @@ Essa combinação ressalta o virtuosismo da carpintaria japonesa no século
 grande Buda" ([@Fig:todaiji-kondo-under]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Portada principal do salão dourado, Tōdaiji. [ESU (2010)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1024px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg){#fig:todaiji-kondo-under}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1280px-Todaiji17s4592.jpg"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A característica mais marcante do *daibutsuyō* é o uso de estruturas de
@@ -236,9 +236,11 @@ estruturais --- das vigas aos *kumimono* --- são colossais em proporção
 aos pilares.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Portão sul do recinto do Tōdaiji, Nara, reconstruída em 1199--1203. [663highland (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1024px-Todaiji17s4592.jpg){#fig:todaiji-nandaimon}
+![Portão sul do recinto do Tōdaiji, Nara, reconstruída em 1199--1203. [663highland (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1024px-Todaiji17s4592.jpg){#fig:todaiji-nandaimon .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1280px-Todai_ji_dougong.JPG"}
+------
+
+![*Tokyō* na fachada do salão dourado do Tōdaiji, Nara, 743. [Gisling (2007)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1024px-Todai_ji_dougong.JPG){#fig:todaiji-tokyo .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além das simples dimensões de cada elemento, a sua repetição e
@@ -252,8 +254,6 @@ tanto a casa Imperial quanto o governo dos xoguns estabelecem áreas
 protegidas para garantir a renovação dessas florestas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![*Tokyō* na fachada do salão dourado do Tōdaiji, Nara, 743. [Gisling (2007)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1024px-Todai_ji_dougong.JPG){#fig:todaiji-tokyo}
-
 ## Nikkō Tōshōgū ##
 
 * * * *
@@ -266,9 +266,13 @@ capacidade técnica e expressiva desse modo de construir é o santuário
 Tōshōgū, em Nikkō, no leste do Japão ([@Fig:toshogu-view]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista de conjunto do Tōshōgū, Nikkō. [(1912)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toshogu_map.jpg/659px-Toshogu_map.jpg){#fig:toshogu-view}
+![Vista de conjunto do Tōshōgū, Nikkō. [(1912)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toshogu_map.jpg/659px-Toshogu_map.jpg){#fig:toshogu-view .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/1280px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg"}
+------
+
+![Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634--1636. [Acervo da Biblioteca nacional (Brasil)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg){#fig:toshogu-bn .outset}
+
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Tōshōgū é um santuário xintoísta oferecido por um senhor feudal do
@@ -278,10 +282,7 @@ por uma sucessão de recintos --- murados ou não --- e por uma escala
 mais modesta ([@Fig:toshogu-bn]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634--1636. [Acervo da Biblioteca nacional (Brasil)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg){#fig:toshogu-bn}
-
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1280px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar das dimensões relativamente pequenas do Tōshōgū, ele é decorado
@@ -291,10 +292,13 @@ um conjunto expressivo de motivos ornamentais, que valeram ao Tōshōgū a
 alcunha de "barroco japonês".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Yōmeimon, Tōshōgū. [Zairon (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1024px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg){#fig:yomeimon-front}
+![Yōmeimon, Tōshōgū. [Zairon (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1024px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg){#fig:yomeimon-front .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1280px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG"}
+------
 
+![Yōmeimon, detalhe. [Arone (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1024px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG){#fig:yomeimon-kumimono .outset}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O rebuscamento construtivo e a riqueza ornamental do Yōmeimon
 ([@Fig:yomeimon-kumimono]) contradizem o senso comum ocidental de que a
 arquitetura japonesa teria uma essência minimalista, quase
@@ -302,10 +306,13 @@ funcionalista, com uma expressão clara do esqueleto estrutural. Essa
 visão foi propagada por autores modernistas como Bruno Taut e Walter
 Gropius, que visitaram o Japão nas décadas de 1930 e 40,
 respectivamente.
-
-![Yōmeimon, detalhe. [Arone (2008)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1024px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG){#fig:yomeimon-kumimono}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![*Katsura*, por Walter Gropius e Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960](https://www.book-komiyama.co.jp/i_item/2020/06/109179.jpg){#fig:katsura-cover}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Eles publicaram artigos e livros até hoje bastante
@@ -314,9 +321,7 @@ populares entre os arquitetos [@taut:1936fundamentals;
 seus autores *desejavam* enxergar ([@Fig:katsura-cover]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![*Katsura*, por Walter Gropius e Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960](https://www.book-komiyama.co.jp/i_item/2020/06/109179.jpg){#fig:katsura-cover}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1280px-Karamon_of_Nikko_Tosho_Shrine.JPG"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A combinação de elementos figurativos, geométricos e arabescos explora a
@@ -328,9 +333,9 @@ caracteriza a cultura urbana do Japão nos séculos [XVII]{.smallcaps} a [XIX]{.
 
 ![Tōshōgū, *karamon*. [Soramimi (2014)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1024px-Karamon_of_Nikko_Tosho_Shrine.JPG){#fig:toshogu-karamon}
 
-## {data-background-image="https://live.staticflickr.com/5483/11284487324_128c03e2f9_k_d.jpg"}
+------
 
-![Nikkō Tōshōgū, detalhe. [Berlin (2013)][]](https://live.staticflickr.com/5483/11284487324_62ce101314_c_d.jpg){#fig:toshogu-det}
+![Nikkō Tōshōgū, detalhe. [Berlin (2013)][]](https://live.staticflickr.com/5483/11284487324_62ce101314_c_d.jpg){#fig:toshogu-det .outset}
 
 [Nagoya (2020a)]: https://commons.wikimedia.org/wiki/File:200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg
 
@@ -391,17 +396,19 @@ associa, desde a segunda metade do século [XVII]{.smallcaps}, a um interesse re
 pelo estudo das ruínas da Antiguidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Henry Parke, medição do templo de Castor e Pólux. Ap. [Loth (2014)][]](https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg){#fig:parke-castor}
+![Henry Parke, medição do templo de Castor e Pólux. Ap. [Loth (2014)][]](https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg){#fig:parke-castor .outset}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Retrato póstumo de Guarino Guarini. [Anônimo (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg){#fig:guarini .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A obra do frade teatino e arquiteto italiano Guarino Guarini
 (1624--1683) é um exemplo dessa cooperação entre modernidade matemática
 e antiquarianismo estético.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Retrato póstumo de Guarino Guarini. [Anônimo (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0007.jpg){#fig:guarini}
 
 * * * *
 
@@ -413,40 +420,44 @@ eram incomuns na prática construtiva corrente da época e dependiam de
 conhecimentos matemáticos razoavelmente avançados ([@Fig:misurare]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:misurare}
+::::::::::::::::::::::::::::::::::::::: {.columns #fig:misurare}
 ::: {.column width=50%}
-![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareA width=100%}
+![p. 102](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareA}
 :::
 ::: {.column width=50%}
-![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB width=100%}
+![p. 195](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg){#fig:misurareB}
 :::
 Guarino Guarini, *L'arte di misurare le fabbriche*, 1674
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-![Fachada do palácio Carignano, Turim. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg){#fig:madama-dissegni}
+![Fachada do palácio Carignano, Turim. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0094.jpg){#fig:madama-dissegni .outset}
 
 * * * *
 
-![Elevação interior do projeto para a igreja da Divina Providência, Lisboa. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg){#fig:lisboa-dissegni}
+![Elevação interior do projeto para a igreja da Divina Providência, Lisboa. [Guarini (1686)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d'architettura_civile_et_ecclesiastica_0065.jpg){#fig:lisboa-dissegni .outset}
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .outset}
 ::: {.column width=50%}
-![Guarino Guarini, capela do Santo Sudário, Turim, 1668--1694. [Guarini (1682)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg){#fig:sindone-sez width=100%}
+![Guarino Guarini, capela do Santo Sudário, Turim, 1668--1694. [Guarini (1682)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg){#fig:sindone-sez}
 :::
 ::: {.column width=50%}
-![Exterior da capela do Santo Sudário. [Phyrexian (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG){#fig:sindone-ext width=100%}
+![Exterior da capela do Santo Sudário. [Phyrexian (2019)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG){#fig:sindone-ext}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-![Interior da cúpula da capela do Santo Sudário. [Bottallo][]](https://static-www.quotidianopiemontese.it/wp-content/2018/09/27131156/IMG_5940_crediti-Daniele-Bottallo.jpg){#fig:sindone-int}
+![Interior da cúpula da capela do Santo Sudário. [Bottallo][]](https://i.pinimg.com/1200x/3d/25/f3/3d25f364dc9c37a60ebd3c604ca3fde6.jpg){#fig:sindone-int .outset}
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além do domínio da concepção estrutural, Guarini tem uma vasta
@@ -456,21 +467,19 @@ nervurada. A mesma composição aparece na sua igreja de São Lourenço, em
 Turim.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Guarino Guarini, igreja de São Lourenço, Turim, 1667. [Gurlitt (1882)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg){#fig:guarini-slorenzo-plan}
-
 * * * *
 
 ![Interior da igreja de São Lourenço. [Sailko (2011a)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1024px-Torino,_san_lorenzo,_10.JPG){#fig:slorenzo-int}
 
 * * * *
 
-![Cúpula da igreja de São Lourenço. [Livioandronico2013 (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg){#fig:slorenzo-dome}
+![Cúpula da igreja de São Lourenço. [Livioandronico2013 (2016)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg){#fig:slorenzo-dome .outset}
 
 <!--_-->
 
 * * * *
 
-![Cúpula da igreja de São Lourenço. [Sailko (2011b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG){#fig:slorenzo-dome-persp}
+![Cúpula da igreja de São Lourenço. [Sailko (2011b)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG){#fig:slorenzo-dome-persp .outset}
 
 ## Arquitetura à francesa ##
 
@@ -483,9 +492,11 @@ técnicos e de práticas construtivas herdadas do período gótico e
 plenamente integradas à arquitetura do Renascimento na França.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cadernos de Villard de Honnecourt, século [XIII]{.smallcaps}. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt}
+![Cadernos de Villard de Honnecourt, século [XIII]{.smallcaps}. Ap. [Quicherat (1886)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png){#fig:honnecourt .line .outset}
 
 * * * *
+
+![Philibert de l'Orme, Hôtel Bullioud, Lião, século [XVI]{.smallcaps}. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Philibert de L'Orme, contemporâneo de Serlio, foi um dos principais
@@ -493,20 +504,20 @@ responsáveis por codificar e difundir por escrito a arquitetura à
 francesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Philibert de l'Orme, Hôtel Bullioud, Lião, século [XVI]{.smallcaps}. [Belzunce (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg){#fig:bullioud}
-
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sua atuação prática e teórica em torno da metade do século
 [XVI]{.smallcaps} marca o início de um processo de transferência e apropriação de
 conhecimentos das corporações de ofício da construção para os
-arquitetos.
+arquitetos [@roland:2008letude].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. @roland:2008letude](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve}
+![Telhado à maneira de de l'Orme, Cartigny, Genebra, após 1860. Foto: [Isabelle Roland, 2008][]](https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg){#fig:geneve .outset}
 
 * * * *
+
+![Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. [Mbzt (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg){#fig:hardouin-arles .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A difusão dos conhecimentos técnicos das corporações de ofício para os
@@ -514,19 +525,15 @@ arquitetos vem associada à transposição da autoridade para fazer e,
 sobretudo, falar de arquitetura entre esses dois grupos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. [Mbzt (2012)][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg){#fig:hardouin-arles}
-
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Este último movimento se estende, a partir do final do século [XVII]{.smallcaps}, com
 a gradual transferência de autoridade teórica dos arquitetos para os
 intelectuais letrados.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
 
 Michel de Frémin, *Mémoires critiques d'architecture* 1702
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Loth (2014)]: https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/
 
@@ -552,6 +559,8 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 
 [Belzunce (2012)]: https://commons.wikimedia.org/wiki/File:Cour_Philibert_Delorme_Lyon.jpg
 
+[Isabelle Roland, 2008]: http://journals.openedition.org/insitu/3619
+
 [Mbzt (2012)]: https://commons.wikimedia.org/wiki/File:P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg
 
 <!--_-->
@@ -562,9 +571,11 @@ Michel de Frémin, *Mémoires critiques d'architecture* 1702
 
 ## Wren ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arquiteto e astrônomo inglês Christopher Wren foi contemporâneo de
 Guarini e tinha um interesse semelhante pela relação entre construção e
 matemática.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 

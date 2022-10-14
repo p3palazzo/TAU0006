@@ -39,6 +39,10 @@ assets/css/%.scss : _sass/%.scss
 	@cp $< $@
 	@echo "$@ atualizado."
 
+%.pdf : %.md latex.yaml biblio.yaml metadata.yaml
+	@pandoc -o $@ -d _spec/latex.yaml $<
+	@echo $@
+
 .PHONY : serve
 serve : $(SLIDES)
 	@echo "####################"
