@@ -92,7 +92,7 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: >-
     Before European hegemony: the world system <span
-    class="smallcaps">A.D.</span> 1250 - 1350
+    class="smallcaps">A.D.</span> 1250–1350
   title-short: Before European hegemony
   type: book
   URL: http://archive.org/details/beforeeuropeanhe00abul_1
@@ -306,6 +306,7 @@ references:
   issued:
     - year: 1512
   language: la
+  license: http://creativecommons.org/publicdomain/mark/1.0/
   number-of-pages: '381'
   publisher: >-
     in Sole aureo vici Sancti Iacobi [Berthold Rembolt]. Et in intersignio trium
@@ -321,6 +322,10 @@ references:
     - family: Alberti
       given: Leon Battista
   citation-key: alberti:2011arte
+  contributor:
+    - family: Espírito Santo
+      given: Arnaldo
+      dropping-particle: do
   event-place: Lisboa
   ISBN: 978-972-31-1374-7
   issued:
@@ -408,6 +413,7 @@ references:
   issued:
     - year: 1590
   language: it
+  license: Public domain
   source: Wikimedia Commons
   title: Pianta di San Pietro
   type: graphic
@@ -521,6 +527,7 @@ references:
       month: 9
       day: 21
   language: Spanish
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Andén (agricultura)
   type: entry-encyclopedia
@@ -547,6 +554,56 @@ references:
     perspective from Alberti to Monge
   title-short: The geometry of an art
   type: book
+
+- id: andre:2012morfologia
+  abstract: >-
+    A Rede Portuguesa de Morfologia Urbana, PNUM (Portuguese Network on Urban
+    Morphology), realizou a segunda edição da sua conferência anual, com o tema
+    ‘Morfologia Urbana nos Países Lusófonos’. Esta conferência foi organizada
+    com o apoio do DINÂMIA'CET-IUL e realizou-se no Instituto Universitário de
+    Lisboa ISCTE-IUL nos dias 5 e 6 de Julho de 2012. Incluiu comunicações de
+    conferencistas convidados, comunicações em sessões paralelas, posters, uma
+    mesa redonda com arquitectos convidados e um conjunto de eventos sociais. 
+
+    O PNUM 2012: Morfologia Urbana nos Países Lusófonos, PNUM 2012: Urban
+    Morphology in Portuguese Speaking Countries, promoveu uma oportunidade de
+    debate e de reflexão sobre morfologia urbana. Estabeleceu um espaço
+    primordial para a articulação entre as questões chave do International
+    Seminar on Urban Form (ISUF) e temas específicos da forma urbana no espaço
+    Lusófono. Nomeadamente, no que se refere às diferentes teorias, conceitos e
+    técnicas morfológicas; à história da forma urbana; aos diferentes elementos
+    da forma urbana; às diferentes escalas de análise e de intervenção; à
+    interdisciplinaridade; às relações entre teoria e prática profissional; bem
+    como às diferentes abordagens desenvolvidas no espaço Lusófono.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 17
+  citation-key: andre:2012morfologia
+  editor:
+    - family: André
+      given: Paula
+    - family: Marat-Mendes
+      given: Teresa
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+  event-place: Lisboa
+  ISBN: 978-989-732-023-1
+  issued:
+    - year: 2012
+      month: 7
+  language: pt-PT
+  license: openAccess
+  publisher: 'ISCTE : ISUF'
+  publisher-place: Lisboa
+  source: repositorio.iscte-iul.pt
+  title: >-
+    Morfologia Urbana nos Países Lusófonos. Actas da Conferência Internacional -
+    <span class="smallcaps">PNUM</span> 2012 - Portuguese Network of Urban
+    Morphology
+  type: book
+  URL: https://repositorio.iscte-iul.pt/handle/10071/3633
 
 - id: andriasyan:2020point12
   abstract: >-
@@ -618,6 +675,7 @@ references:
   issued:
     - year: 1579
   language: de
+  license: Public domain
   source: Wikimedia Commons
   title: Grundriss des Schlosses Charleval, Stich aus dem 16. Jahrhundert
   type: graphic
@@ -634,6 +692,7 @@ references:
   dimensions: L. 201 cm; H. 175 cm
   issued:
     - year: 1511
+  license: Public domain
   medium: Oil on canvas
   source: Wikimedia Commons
   title: >-
@@ -715,6 +774,7 @@ references:
   issued:
     - literal: 13--
   language: Portuguese
+  license: Public domain
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
@@ -763,6 +823,30 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Beijing_China_Hall-of-Prayer-for-Good-Harvests-01.jpg
+
+- id: araujo:1998universo
+  archive_location: 711 (469) "14/18"
+  call-number: HT384.P8 U54 1998
+  citation-key: araujo:1998universo
+  edition: '1'
+  editor:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: pt-PT
+  number-of-pages: '569'
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  title-short: Universo urbanístico português 1415-1822
+  type: book
 
 - id: arayici:2017heritage
   abstract: >-
@@ -970,9 +1054,10 @@ references:
   author:
     - family: Argan
       given: Giulio Carlo
+  citation-key: argan:2004imagem
+  editor:
     - family: Contardi
       given: Bruno
-  citation-key: argan:2004imagem
   event-place: São Paulo
   ISBN: 85-359-0579-0
   issued:
@@ -1106,6 +1191,7 @@ references:
       month: 7
       day: 20
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: '*Atlas Maior*'
   type: entry-encyclopedia
@@ -1141,6 +1227,14 @@ references:
   issued:
     - year: 2008
   language: it
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Particolare dell'Ospedale degli Innocenti, realizzato da Brunelleschi
   type: graphic
@@ -1175,6 +1269,7 @@ references:
     - family: Bacon
       given: Edmund N.
   citation-key: bacon:1974design
+  edition: Rev. ed.
   event-place: New York
   issued:
     - year: 1974
@@ -1263,7 +1358,7 @@ references:
   publisher: '<span class="smallcaps">EDUFBA : PPGAU</span>'
   publisher-place: Salvador
   source: Open WorldCat
-  title: Teoria do Barroco
+  title: Teoria do barroco
   type: book
 
 - id: ballon:1999louis
@@ -1445,6 +1540,9 @@ references:
       month: 10
       day: 28
   language: en
+  producer:
+    - family: Weise
+      given: Hans
   publisher: National Geographic Society
   publisher-place: Washington, D.C.
   source: YouTube
@@ -1498,6 +1596,7 @@ references:
   issued:
     - year: 1500
   language: it
+  license: Public domain
   source: Wikimedia Commons
   title: Venezia
   type: graphic
@@ -1531,6 +1630,28 @@ references:
       month: 1
       day: 7
   language: en-GB
+  license: >-
+    Authors who publish with this journal agree to the following terms:   
+    Authors retain copyright and grant the journal right of first publication
+    with the work simultaneously licensed under a  Creative Commons Attribution
+    License  that allows others to share the work with an acknowledgement of the
+    work's authorship and initial publication in this journal.  Authors are able
+    to enter into separate, additional contractual arrangements for the
+    non-exclusive distribution of the journal's published version of the work
+    (e.g., post it to an institutional repository or publish it in a book), with
+    an acknowledgement of its initial publication in this journal.  Authors are
+    permitted and encouraged to post their work online (e.g., in institutional
+    repositories or on their website) prior to and during the submission
+    process, as it can lead to productive exchanges, as well as earlier and
+    greater citation of published work (See  The Effect of Open Access ).  All
+    third-party images reproduced on this journal are shared under Educational
+    Fair Use. For more information on  Educational Fair Use , please see  this
+    useful checklist prepared by Columbia University Libraries .   All
+    copyright  of third-party content posted here for research purposes belongs
+    to its original owners.  Unless otherwise stated all references to
+    characters and comic art presented on this journal are ©, ® or ™ of their
+    respective owners. No challenge to any owner’s rights is intended or should
+    be inferred.
   number: '1'
   page: Art. 2
   publisher: Ubiquity Press
@@ -1648,6 +1769,7 @@ references:
   issued:
     - year: 1768
   language: pt
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Immanuel Kant
@@ -1705,6 +1827,7 @@ references:
   issued:
     - literal: 1740date QS:P571,+1740-00-00T00:00:00Z/9
   language: en
+  license: Public domain
   medium: Óleo sobre telamedium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: The Piazza della Signoria in Florence
@@ -1727,6 +1850,7 @@ references:
     - year: 1742
     - year: 1747
   language: it
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Capriccio Romano
@@ -1750,6 +1874,7 @@ references:
     - year: 1743
     - year: 1747
   language: pt
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Campo di SS. Giovanni e Paolo
@@ -1989,6 +2114,7 @@ references:
       month: 1
       day: 1
   language: en
+  license: Copyright © 1990 IRSA s.c.
   page: 9-21
   source: JSTOR
   title: Jan Białostocki, Formalism, and Iconology
@@ -2129,6 +2255,7 @@ references:
   archive: The Arthur M. Sackler Gallery
   citation-key: 'bird''s:'
   dimensions: 52.8 x 34.4 cm
+  license: Public domain
   medium: Opaque watercolor and ink on paper
   source: Wikimedia Commons
   title: Bird's Eye View of the Taj Mahal at Agra
@@ -2199,6 +2326,7 @@ references:
       month: 6
       day: 1
   language: fr-FR
+  license: Tous droits réservés
   number: '25'
   page: 66-82
   publisher: Centre d'Histoire "Espaces et Cultures"
@@ -2491,6 +2619,7 @@ references:
     - year: 1296
     - year: 1298
   language: de
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: >-
@@ -2536,10 +2665,10 @@ references:
   citation-key: bonini:2021bim
   container-title: Proceedings …
   DOI: 10.4995/arqueologica9.2021.12104
-  event: >-
+  event-place: Valencia
+  event-title: >-
     Arqueológica 2.0 - 9^th^ International Congress & 3^rd^ Geores - Geomatics
     and Preservation
-  event-place: Valencia
   issued:
     - year: 2021
       month: 4
@@ -2573,6 +2702,7 @@ references:
       month: 8
       day: 11
   language: en
+  license: Attribution-NonCommercial-NoDerivs License
   medium: photo
   source: Flickr
   title: CNV00001
@@ -2594,6 +2724,7 @@ references:
     - year: 1481
     - year: 1482
   language: en
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: The Punishment of Korah and the Stoning of Moses and Aaron
@@ -2617,6 +2748,7 @@ references:
       circa: true
     - year: 1495
   language: pt
+  license: Public domain
   medium: têmpera  sobre madeira
   source: Wikimedia Commons
   title: Anunciação
@@ -2696,6 +2828,7 @@ references:
     - year: 1999
       month: 5
   language: en-US
+  license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -2711,6 +2844,9 @@ references:
     - family: Braudel
       given: Fernand
   citation-key: braudel:2007modelo
+  editor:
+    - family: Miceli
+      given: Sérgio
   event-place: São Paulo
   ISBN: 978-85-359-1096-4
   issued:
@@ -2721,8 +2857,9 @@ references:
   source: Open WorldCat
   title: O modelo italiano
   translator:
-    - family: Miceli
-      given: Sérgio
+    - family: Mattos
+      given: Franklin
+      dropping-particle: de
   type: book
 
 - id: bredvold:1934tendency
@@ -2777,6 +2914,14 @@ references:
     - literal: Briangotts
   citation-key: briangotts:map
   language: en
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: >-
     Map of Eurasia and North Africa, c. 870 CE. Trade routes of the Radhanite
@@ -2868,6 +3013,7 @@ references:
   issued:
     - year: 1752
   language: fr
+  license: Public domain
   source: Wikimedia Commons
   title: Plan de Pékin
   type: graphic
@@ -2893,6 +3039,7 @@ references:
       month: 4
       day: 1
   language: en-US
+  license: Copyright © 1964 The American Society for Aesthetics
   page: 303-313
   source: JSTOR
   title: >-
@@ -2957,6 +3104,8 @@ references:
       given: Robert Scott
   call-number: '39273233'
   citation-key: burn:1856illustrated
+  contributor:
+    - literal: NCSU Libraries
   event-place: London
   issued:
     - year: 1856
@@ -3096,14 +3245,37 @@ references:
     - year: 2020
   language: en
   page: 159-167
-  publisher: Springer International Publishing
+  publisher: Springer International
   publisher-place: Cham
   source: Springer Link
   title: >-
-    Tools for Reading and Designing the ‘Islamic City’. Italian Urban Studies at
-    the Crossroads
+    Tools for reading and designing the ‘Islamic city’. Italian urban studies at
+    the crossroads
+  title-short: Tools for reading and designing the ‘Islamic city’
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-33323-2_14
+
+- id: caldas:1999casa
+  author:
+    - family: Caldas
+      given: João Vieira
+  call-number: 728.6 (469.411) "17"
+  citation-key: caldas:1999casa
+  contributor:
+    - family: Correia
+      given: José Eduardo Horta
+  event-place: Porto
+  ISBN: 978-972-9483-31-8
+  issued:
+    - year: 1999
+  language: pt-PT
+  publisher: FAUP
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    A Casa rural dos arredores de Lisboa no século <span
+    class="smallcaps">XVIII</span>
+  type: book
 
 - id: calder:2021architecture
   author:
@@ -3214,6 +3386,7 @@ references:
       month: 12
       day: 1
   language: en-GB
+  license: Copyright © 2002 College Art Association
   page: 596-620
   source: JSTOR
   title: >-
@@ -3266,6 +3439,7 @@ references:
     - year: 1726
       circa: true
   language: pt
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Canal Grande desde o palazzo Balbi
@@ -3315,6 +3489,7 @@ references:
       circa: true
     - year: 1760
   language: it
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Il Campo e la Chiesa di San Francesco della Vigna
@@ -3338,6 +3513,7 @@ references:
       circa: true
     - year: 1734
   language: it
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Piazza San Marco
@@ -3361,6 +3537,7 @@ references:
     - year: 1735
       circa: true
   language: pt
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Vista do canal Grande
@@ -3483,6 +3660,7 @@ references:
       month: 11
       day: 12
   language: en
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     A detailed Robinson projection SVG map with grouping enabled to connect all
@@ -3546,6 +3724,7 @@ references:
       circa: true
     - year: 1484
   language: en
+  license: Public domain
   medium: oil and tempera on panel
   source: Wikimedia Commons
   title: The Ideal City
@@ -3694,6 +3873,7 @@ references:
       month: 3
       day: 1
   language: fr-FR
+  license: Cahiers de la recherche architecturale et urbaine
   page: 13-35
   source: journals.openedition.org
   title: Saverio Muratori (1910-1973). La ville comme seul modèle
@@ -3715,6 +3895,7 @@ references:
       month: 9
       day: 18
   language: en
+  license: Public domain
   source: Wikimedia Commons
   title: Taj Mahal world heritage site in Agra, India
   type: graphic
@@ -3740,6 +3921,7 @@ references:
   issued:
     - year: 1567
   language: it
+  license: pdm
   publisher: Aldo Manuzio
   publisher-place: Venezia
   source: Library Catalog (Visual Library 2021)
@@ -3759,6 +3941,7 @@ references:
       dropping-particle: filename or
   citation-key: category:bonaccorso
   language: it
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Bonaccorso ghiberti, veduta della gru di brunelleschi, post 1446, BNCF, B.R.
@@ -3903,6 +4086,7 @@ references:
   issued:
     - year: 1759
   language: en-GB
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     The Primitive Buildings: The first sort of huts — The second sort of huts –
@@ -3990,6 +4174,7 @@ references:
   issued:
     - year: 1736
   language: en
+  license: Public domain
   medium: Five artists from the Qing court. Handscroll, ink and color on silk
   source: Wikimedia Commons
   title: >-
@@ -4185,6 +4370,11 @@ references:
       day: 10
   citation-key: chen:2020tracing9
   collection-title: My Inspire Project
+  contributor:
+    - family: Schmelz
+      given: Dennis
+    - family: Blaurock
+      given: Pascal
   dimensions: '7:36'
   director:
     - family: Chen
@@ -4194,7 +4384,13 @@ references:
       month: 2
       day: 15
   language: en
+  producer:
+    - family: Hu
+      given: Henry
   publisher: Gloren
+  script-writer:
+    - family: Chen
+      given: Andrew
   source: YouTube
   title: Tracing The Poetic Heritage of Water Town Suzhou
   type: motion_picture
@@ -4382,8 +4578,10 @@ references:
   author:
     - family: Ching
       given: Francis D. K.
+    - family: Juroszek
+      given: Steven P.
   citation-key: ching:2012desenho
-  edition: 2.ª ed.
+  edition: '2'
   event-place: Porto Alegre
   ISBN: 978-85-407-0191-5
   issued:
@@ -4438,7 +4636,7 @@ references:
     - family: Ching
       given: Francis D. K.
   citation-key: ching:2017representacao
-  edition: 6.ª ed.
+  edition: '6'
   event-place: Porto Alegre
   ISBN: 978-85-8260-437-3
   issued:
@@ -4466,6 +4664,7 @@ references:
       given: Charles
   citation-key: chipiez:panoramic
   language: en
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     A panoramic view of the gardens and outside of the Palace of Darius I of
@@ -4536,6 +4735,7 @@ references:
   issued:
     - year: 1899
   language: fr
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Architectures du Nouveau-Monde fig. 1. Histoire de l'architecture t. I, ch.
@@ -4638,6 +4838,7 @@ references:
   issued:
     - year: 1613
   language: it
+  license: Public domain
   source: Wikimedia Commons
   title: Duomo di Firenze
   type: graphic
@@ -4701,6 +4902,7 @@ references:
   dimensions: 'Altura: 67,7 cm'
   issued:
     - literal: década de 1480
+  license: Public domain
   medium: têmpera  sobre madeira
   source: Wikimedia Commons
   title: Città ideale
@@ -4799,8 +5001,9 @@ references:
   citation-key: clerc:1684vitruvius
   issued:
     - year: 1684
+  license: Public domain
   source: Wikimedia Commons
-  title: Vitruvius presenting De Architectura to Augustus
+  title: \[Vitruvius presenting *De Architectura* to Augustus]
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Vitruvius.jpg
 
@@ -4839,6 +5042,7 @@ references:
   dimensions: "Altura: 1\_347,00 mm; Largura: 2\_136,00 mm"
   issued:
     - year: 1840
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Architect’s Dream
@@ -4862,6 +5066,7 @@ references:
   issued:
     - year: 1839
   language: English
+  license: Public domain
   source: Wikimedia Commons
   title: Town Map of Singapore
   type: graphic
@@ -4911,16 +5116,16 @@ references:
   type: map
   URL: http://gallica.bnf.fr/ark:/12148/btv1b53075148q
 
-- id: communityconsortium:asante
+- id: community:asante
   accessed:
     - year: 2020
       month: 8
       day: 30
   author:
     - literal: Community Consortium
-  citation-key: communityconsortium:asante
+  citation-key: community:asante
   language: en-US
-  title: Asante Traditional Buildings - Kumasi Region, Ghana
+  title: Asante traditional buildings - Kumasi region, Ghana
   type: webpage
   URL: http://www.communityconsortium.net/asante-traditional-buildings
 
@@ -5019,7 +5224,7 @@ references:
   publisher: Springer
   publisher-place: Cham
   source: Crossref
-  title: Core Concepts in Town-Plan Analysis
+  title: Core concepts in town-plan analysis
   type: chapter
   URL: http://link.springer.com/10.1007/978-3-319-76126-8
 
@@ -5132,6 +5337,7 @@ references:
   issued:
     - year: 1995
   language: pt-PT
+  license: openAccess
   page: 103-112
   publisher: Faculdade de Ciências Sociais Humanas, Universidade Nova de Lisboa
   source: run.unl.pt
@@ -5325,6 +5531,7 @@ references:
   citation-key: daderot:1893tokyo
   issued:
     - year: 1893
+  license: Public domain
   source: Wikimedia Commons
   title: Tokyo map
   title-short: English
@@ -5342,6 +5549,7 @@ references:
   citation-key: daderot:1906tokyo
   issued:
     - year: 1906
+  license: Public domain
   source: Wikimedia Commons
   title: Tokyo map
   title-short: English
@@ -5403,6 +5611,7 @@ references:
     - year: 2008
       month: 2
       day: 10
+  license: Attribution-NonCommercial-NoDerivs License
   medium: photo
   source: Flickr
   title: Piazza Ducale, Vigevano
@@ -5445,6 +5654,7 @@ references:
       month: 12
       day: 1
   language: en
+  license: Copyright © 2003 The Sixteenth Century Journal
   page: 1184-1185
   source: JSTOR
   title: >-
@@ -5586,6 +5796,7 @@ references:
   issued:
     - literal: cerca de 1868
   language: pt
+  license: Public domain
   source: Wikimedia Commons
   title: Provincia di Siena
   title-short: Italiano
@@ -5625,6 +5836,7 @@ references:
     - year: 2019
       month: 5
       day: 4
+  license: Public domain
   source: Wikimedia Commons
   title: Portego
   type: graphic
@@ -5723,6 +5935,7 @@ references:
   issued:
     - year: 2008
   language: pt-PT
+  license: open access
   publisher: Universidade de Lisboa, Faculdade de Letras
   publisher-place: Lisboa
   title: >-
@@ -5864,8 +6077,8 @@ references:
   container-title: >-
     Open software, hardware, processes, data and formats in archeological
     research
-  event: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
   event-place: Catania
+  event-title: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
   ISBN: 978-1-80327-124-8
   issued:
     - year: 2021
@@ -5924,6 +6137,7 @@ references:
   issued:
     - year: 2011
   language: pt-PT
+  license: openAccess
   publisher: Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia
   publisher-place: Lisboa
   title: >-
@@ -5932,6 +6146,28 @@ references:
     esmalte
   type: thesis
   URL: http://hdl.handle.net/10362/8541
+
+- id: diogo:2021inventing
+  author:
+    - family: Diogo
+      given: Maria Paula
+    - family: Saraiva
+      given: Tiago
+  citation-key: diogo:2021inventing
+  collection-number: '6'
+  collection-title: Synthesis lectures on global engineering
+  event-place: San Rafael, Cal.
+  ISBN: 978-1-62705-515-4 978-1-68173-787-4
+  issued:
+    - year: 2021
+  language: en
+  number-of-pages: '151'
+  publisher: Morgan & Claypool
+  publisher-place: San Rafael, Cal.
+  source: K10plus ISBN
+  title: 'Inventing a European nation: engineers for Portugal, from Baroque to Fascism'
+  title-short: Inventing a European nation
+  type: book
 
 - id: dors:1990barroco
   author:
@@ -6021,6 +6257,14 @@ references:
       month: 2
       day: 7
   language: en
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Persian Garden
   type: graphic
@@ -6066,8 +6310,8 @@ references:
   publisher: Rizzoli
   publisher-place: New York
   source: Google Books
-  title: 'The New Civic Art: Elements of Town Planning'
-  title-short: The New Civic Art
+  title: 'The new civic art: elements of town planning'
+  title-short: The new civic art
   type: book
 
 - id: 'ducal:'
@@ -6096,39 +6340,12 @@ references:
   issued:
     - literal: de 1308 a 1311
   language: Portuguese
+  license: Public domain
   medium: têmpera  sobre madeira
   source: Wikimedia Commons
   title: Anunciação
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_068.jpg
-
-- id: dunzhen:1982traditional10
-  accessed:
-    - year: 2020
-      month: 10
-      day: 11
-  archive: JSTOR
-  author:
-    - family: Dunzhen
-      given: Liu
-  citation-key: dunzhen:1982traditional10
-  container-title: Garden History
-  DOI: 10.2307/1586743
-  ISSN: 0307-1243
-  issue: '2'
-  issued:
-    - year: 1982
-  language: en
-  page: 108-141
-  publisher: The Garden History Society
-  source: JSTOR
-  title: The Traditional Gardens of Suzhou ("Su zhou gu dian yuan lin")
-  translator:
-    - family: Wood
-      given: Frances
-  type: article-journal
-  URL: https://www.jstor.org/stable/1586743
-  volume: '10'
 
 - id: 'duomo:'
   abstract: >-
@@ -6145,6 +6362,65 @@ references:
   title-short: The Duomo or the Santa Maria del Fiore
   type: post-weblog
   URL: https://www.teggelaar.com/en/florence-day-1-continuation-1/
+
+- id: duraes:2016modos8
+  abstract: >-
+    En este artículo se analiza el papel de la vivienda como un mecanismo de
+    diferenciación social, subrayando su dimensión escénica, apoyo a la
+    comunicación con el exterior, señal de distinción social e económica. Con
+    este fin, la casa urbana se abordará a partir de dos vectores fundamentales:
+    análisis de formas de propiedad y de habitar.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 19
+  author:
+    - family: Durães
+      given: Andreia
+  citation-key: duraes:2016modos8
+  container-title: Revista electrónica de Historia Moderna
+  ISSN: 1699-7778
+  issue: '32'
+  issued:
+    - year: 2016
+      month: 6
+      day: 30
+  language: pt-PT
+  license: Copyright (c) 2016 Revista electr?nica de Historia Moderna
+  number: '32'
+  page: 358-385
+  source: www.tiemposmodernos.org
+  title: Modos de habitar em Lisboa (1755-1836)
+  type: article-journal
+  URL: http://www.tiemposmodernos.org/tm3/index.php/tm/article/view/1289
+  volume: '8'
+
+- id: durao:2012analise12
+  accessed:
+    - year: 2019
+      month: 12
+      day: 2
+  author:
+    - family: Durão
+      given: Vitor C. M.
+  citation-key: durao:2012analise12
+  container-title: Revista de Gestão Costeira Integrada
+  ISSN: 1646-8872
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 3
+  language: pt-PT
+  page: 17-30
+  source: SciELO
+  title: >-
+    Análise urbana de territórios construídos: os aterros na Baixa e na frente
+    ribeirinha de Lisboa, Portugal
+  title-short: Análise urbana de territórios construídos
+  type: article-journal
+  URL: >-
+    http://www.scielo.mec.pt/scielo.php?script=sci_abstract&pid=S1646-88722012000100003&lng=pt&nrm=iso&tlng=pt
+  volume: '12'
 
 - id: dv8stees:2017doctor
   accessed:
@@ -6275,6 +6551,7 @@ references:
     - literal: École française du XIVe siècle
   citation-key: ecolefrancaisexivesiecle:jonas
   language: French
+  license: Public domain
   medium: Enluminure de la Bible de Jean XXII
   source: Wikimedia Commons
   title: Jonas rejeté par la baleine
@@ -6294,6 +6571,7 @@ references:
     QS:P2048,31U218593;P2049,33U218593
   issued:
     - year: 1849
+  license: Public domain
   source: Wikimedia Commons
   title: Edo
   type: graphic
@@ -6333,6 +6611,7 @@ references:
       month: 2
       day: 1
   language: en-GB
+  license: Copyright © 1950 The Burlington Magazine Publications Ltd.
   page: 34-39
   source: JSTOR
   title: Antoine Caron
@@ -6385,6 +6664,7 @@ references:
     - year: 2010
       month: 5
       day: 28
+  license: All Rights Reserved
   medium: SketchUp model
   source: Flickr
   title: Piazza del Campo, Siena, Italy
@@ -6446,7 +6726,7 @@ references:
   language: en-US
   page: 137–147
   title: '"Les dedans," Jacques-François Blondel and the system of the home'
-  title-short: Les Dedans
+  title-short: Les dedans
   type: article-journal
   URL: >-
     http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home
@@ -6560,12 +6840,41 @@ references:
     - year: 1000
       circa: true
   language: Chinese
+  license: Public domain
   medium: tinta  sobre seda
   source: Wikimedia Commons
   title: 谿山行旅 = Travelers Among Mountains and Streams
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
+
+- id: faria:2014terreiro
+  abstract: >-
+    A presente obra, coordenada por Miguel Figueira de Faria, procura
+    compreender a progressiva metamorfose do Terreiro do Paço/Praça do Comércio
+    como referente da cultura urbanística de Lisboa. Organizado numa linha de
+    escrutínio evolutivo das soluções arquitetónicas e monumentais que se
+    sucederam e da utilização quotidiana que, entre os séculos XVI e XIX, se deu
+    a este espaço nobre da cidade de Lisboa, Do Terreiro do Paço à Praça do
+    Comércio oferece ao público um conjunto de ensaios que constituem uma fonte
+    segura de informação e consulta.
+  citation-key: faria:2014terreiro
+  editor:
+    - family: Faria
+      given: Miguel Figueira
+      dropping-particle: de
+  ISBN: 978-972-27-2302-2
+  issued:
+    - year: 2014
+      month: 2
+      day: 14
+  language: pt-PT
+  number-of-pages: '328'
+  publisher: Leya
+  source: Google Books
+  title: Do terreiro do Paço à praça do Comércio - história de um espaço urbano
+  title-short: Do terreiro do Paço à praça do Comércio
+  type: book
 
 - id: fauvelle:2018rinoceronte
   author:
@@ -6653,6 +6962,9 @@ references:
     - year: 2020
       month: 3
       day: 28
+  producer:
+    - family: Conti
+      given: Leonardo
   publisher: Florence TV
   publisher-place: Firenze
   source: YouTube
@@ -6732,6 +7044,26 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-3-319-21885-4_7
 
+- id: fialho:2018sistema
+  author:
+    - family: Fialho
+      given: Manuel
+  citation-key: fialho:2018sistema
+  container-title: 'Meios vias e trajetos...: entrar e sair de Lisboa'
+  editor:
+    - family: Senna-Martínes
+      given: João Carlos
+  event-place: Lisboa
+  ISBN: 978-972-8543-49-5
+  issued:
+    - year: 2018
+  language: pt-PT
+  publisher: Câmara Municipal de Lisboa
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O sistema viário da Lisboa medieval
+  type: chapter
+
 - id: ficher:1988construcao
   archive: Fichário 01
   author:
@@ -6756,9 +7088,10 @@ references:
       given: Françoise
   citation-key: fichet:1979theorie
   event-place: Bruxelles
+  ISBN: 2-87009-104-4
   issued:
     - year: 1979
-  language: fr-BE
+  language: fr
   publisher: Mardaga
   publisher-place: Bruxelles
   title: "La théorie architecturale à l’âge classique\_: essai d’anthologie critique"
@@ -6772,6 +7105,7 @@ references:
   citation-key: 'filechronological:'
   container-title: Wikipedia
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: >-
     File:Chronological dispersal of Austronesian people across the Pacific (per
@@ -6835,6 +7169,7 @@ references:
   citation-key: firenze:1894
   issued:
     - year: 1894
+  license: Public domain
   source: Wikimedia Commons
   title: 'Firenze: Palazzo Rucellai'
   type: graphic
@@ -6870,6 +7205,8 @@ references:
       given: former owner DSI
   call-number: '39088008238313'
   citation-key: fischer:1725entwurff
+  contributor:
+    - literal: Smithsonian Libraries
   event-place: Leipzig
   issued:
     - year: 1725
@@ -7027,6 +7364,7 @@ references:
   citation-key: fletcher:1905tree
   issued:
     - year: 1905
+  license: Public domain
   source: Wikimedia Commons
   title: The Tree of Architecture
   type: graphic
@@ -7067,6 +7405,7 @@ references:
     QS:P2048,35U174728;P2049,50U174728
   issued:
     - year: 1600
+  license: Public domain
   medium: Kupferdruck
   source: Wikimedia Commons
   title: Sena vetus civitas virginis
@@ -7157,17 +7496,21 @@ references:
     - family: Forssman
       given: Erik
   citation-key: forssman:1990dorico
+  collection-number: '24'
+  collection-title: Colecçāo dimensões
+  edition: 1. ed
   event-place: Lisboa
   ISBN: 978-972-23-1276-9
   issued:
     - year: 1990
-  language: pt-PT
+  language: pt
+  number-of-pages: '119'
   publisher: Presença
   publisher-place: Lisboa
-  source: Open WorldCat
+  source: K10plus ISBN
   title: >-
     Dórico, jónico e coríntio na arquitectura dos séculos <span
-    class="smallcaps">XVI-XVIII</span>
+    class="smallcaps">XVI–XVIII</span>
   title-short: Dórico, jónico e coríntio
   type: book
 
@@ -7177,6 +7520,15 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1728engenheiro
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
   event-place: Lisboa Occidental
   issued:
     - year: 1728
@@ -7242,6 +7594,7 @@ references:
   issued:
     - literal: entre 1442 e 1443
   language: Portuguese
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Anunciação
@@ -7263,12 +7616,80 @@ references:
     - year: 1480
       circa: true
     - year: 1484
+  license: Public domain
   medium: oil and tempera on panel
   source: Wikimedia Commons
   title: Città ideale
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fra_Carnevale_-_The_Ideal_City_-_Google_Art_Project.jpg#
+
+- id: franca:1980lisboa
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1980lisboa
+  collection-number: '53'
+  collection-title: Biblioteca Breve de Artes Visuais
+  edition: '1'
+  event-place: Lisboa
+  issued:
+    - year: 1980
+  language: pt-PT
+  publisher: Instituto de Cultura e Língua Portuguesa, M.E.C.
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Lisboa: urbanismo e arquitectura'
+  title-short: Lisboa
+  type: book
+
+- id: franca:1989reconstrucao
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1989reconstrucao
+  collection-number: '12'
+  collection-title: Biblioteca Breve
+  edition: '3'
+  event-place: Lisboa
+  issued:
+    - year: 1989
+  language: pt-PT
+  publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: A reconstrução de Lisboa e a arquitectura pombalina
+  type: book
+
+- id: franca:2004pombalismo
+  author:
+    - family: França
+      given: José-Augusto
+  citation-key: franca:2004pombalismo
+  collection-editor:
+    - family: Ferreira de Almeida
+      given: Carlos Alberto
+    - family: França
+      given: José-Augusto
+    - family: Barroca
+      given: Mário Jorge
+    - family: Serrão
+      given: Vítor Manuel
+  collection-number: '5'
+  collection-title: História da arte em Portugal
+  edition: '1'
+  event-place: Lisboa
+  ISBN: >-
+    978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
+    978-972-23-3154-8 978-972-23-3244-6
+  issued:
+    - year: 2004
+  language: pt-PT
+  publisher: Presença
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O pombalismo e o romantismo
+  type: book
 
 - id: frankl:1914entwicklungsphasen
   accessed:
@@ -7280,6 +7701,8 @@ references:
       given: Paul
   call-number: SRLF_UCLA:LAGE-1334174
   citation-key: frankl:1914entwicklungsphasen
+  contributor:
+    - literal: University of California Libraries
   event-place: Leipzig, Berlin
   issued:
     - year: 1914
@@ -7334,6 +7757,7 @@ references:
       month: 12
       day: 23
   language: pt-BR
+  license: Copyright (c) 2020 Labor e Engenho
   page: e020019-e020019
   source: periodicos.sbu.unicamp.br
   title: >-
@@ -7375,6 +7799,11 @@ references:
 
 - id: frommel:1984raffaello
   citation-key: frommel:1984raffaello
+  contributor:
+    - family: Burns
+      given: Howard
+    - family: Nesselrath
+      given: Arnold
   editor:
     - family: Frommel
       given: Christoph Luitpold
@@ -7400,8 +7829,8 @@ references:
   editor:
     - family: Chastel
       given: André
-  event: 'Andrea Palladio : nuovi contributi'
   event-place: Vicenza
+  event-title: 'Andrea Palladio : nuovi contributi'
   issued:
     - year: 1988
   language: it
@@ -7409,6 +7838,30 @@ references:
   publisher-place: Vicenza
   title: Roma e la formazione architettonica di Palladio
   type: paper-conference
+
+- id: frommel:2017bologna
+  call-number: NA1324 .D33 2017
+  citation-key: frommel:2017bologna
+  edition: Prima edizione
+  editor:
+    - family: Frommel
+      given: Sabine
+    - family: Antonucci
+      given: Micaela
+  event-place: Bologna
+  ISBN: 978-88-6923-244-2
+  issued:
+    - year: 2017
+  language: it
+  number-of-pages: '324'
+  publisher: Bononia University Press
+  publisher-place: Bologna
+  source: Library of Congress ISBN
+  title: >-
+    Da Bologna all'Europa: artisti bolognesi in Portogallo (secoli <span
+    class="smallcaps">XVI-XIX</span>)
+  title-short: Da Bologna all'Europa
+  type: book
 
 - id: fu:2017traditional
   abstract: >-
@@ -7519,6 +7972,7 @@ references:
   citation-key: furst:1656doctor
   issued:
     - literal: após 1656
+  license: Public domain
   medium: Gravura em cobre
   source: Wikimedia Commons
   title: Doctor Schnabel
@@ -7559,6 +8013,14 @@ references:
     - year: 2012
       month: 11
       day: 9
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Library of Yohannes I in the Fasil Ghebbi, Gondar, Ethiopia
   type: graphic
@@ -7578,6 +8040,14 @@ references:
     - year: 2012
       month: 11
       day: 9
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Library and Chancellery of Yohannes I in the Fasil Ghebbi, Gondar, Ethiopia
   type: graphic
@@ -7647,6 +8117,7 @@ references:
   issued:
     - year: 2004
   language: es
+  license: openAccess
   page: 247-266
   publisher: CSIC - Instituto de Historia (IH)
   source: digital.csic.es
@@ -7688,6 +8159,7 @@ references:
   issued:
     - year: 2005
   language: es
+  license: openAccess
   page: 23-43
   publisher: CSIC - Instituto de Historia (IH)
   source: digital.csic.es
@@ -7822,6 +8294,7 @@ references:
       month: 4
       day: 22
   language: fr-FR
+  license: Tous droits réservés
   publisher: Institut national d’histoire de l’art
   publisher-place: Paris
   source: journals.openedition.org
@@ -7942,6 +8415,7 @@ references:
       month: 1
       day: 1
   language: en-GB
+  license: Copyright © 2002 SAHGB Publications Limited
   page: 289-324
   source: JSTOR
   title: The Library of François Blondel 1618-1686
@@ -7972,6 +8446,7 @@ references:
       given: Georg
   citation-key: germann:1991vitruve
   event-place: Lausanne
+  ISBN: 978-2-88915-167-7
   issued:
     - year: 1991
   language: fr
@@ -7995,7 +8470,7 @@ references:
   citation-key: geymueller:1898baukunst1
   issued:
     - year: 1898
-  language: German
+  language: de
   number-of-pages: '362'
   publisher: 'A. Bergsträsser : A . Kröner'
   source: Internet Archive
@@ -8106,6 +8581,7 @@ references:
   issued:
     - year: 1989
   language: it
+  license: free
   page: 557-590
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -8201,6 +8677,14 @@ references:
     - year: 2015
       month: 11
       day: 4
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Territorial Organization of the Aztec Empire 1519
   type: graphic
@@ -8241,6 +8725,7 @@ references:
     - year: 1304
     - year: 1306
   language: Portuguese
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Pentecostes
@@ -8260,12 +8745,31 @@ references:
   issued:
     - literal: década de 1310
   language: Portuguese
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Cristo entre os doutores
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Giotto,_Lower_Church_Assisi,_Christ_Among_the_Doctors_01.jpg
+
+- id: goel:1995sketches
+  author:
+    - family: Goel
+      given: Vinod
+  call-number: BF316.6 .G64 1995
+  citation-key: goel:1995sketches
+  event-place: Cambridge, Mass.
+  ISBN: 978-0-262-07163-5
+  issued:
+    - year: 1995
+  language: en
+  number-of-pages: '279'
+  publisher: <span class="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
+  source: Library of Congress ISBN
+  title: Sketches of thought
+  type: book
 
 - id: gomesjr:1998palavra
   author:
@@ -8371,6 +8875,7 @@ references:
   dimensions: 27,0 ×43,6 cm
   issued:
     - year: 1675
+  license: Public domain
   source: Wikimedia Commons
   title: Great fire of London
   title-short: label QS
@@ -8417,6 +8922,14 @@ references:
   citation-key: gryffindor:2008courtyard
   issued:
     - literal: abril de 2008
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Courtyard of Palazzo Medici-Riccardi
   type: graphic
@@ -8439,6 +8952,14 @@ references:
   citation-key: gryffindor:2008piazza
   issued:
     - literal: abril de 2008
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Piazza Santissima Annunziata
   type: graphic
@@ -8458,6 +8979,7 @@ references:
       given: Kaizhi
   citation-key: gu:scene
   language: English
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Scene 4 (Lady Feng and the bear) of the Song Dynasty Palace Museum copy of
@@ -8500,6 +9022,7 @@ references:
       month: 6
       day: 30
   language: en-GB
+  license: Copyright (c) 2021 Francesca Guadagnoli, Elena Ippoliti, Andrea Casale
   number: '26'
   page: 7-7.12
   source: disegnarecon.univaq.it
@@ -8567,6 +9090,7 @@ references:
   issued:
     - year: 1072
   language: Chinese
+  license: Public domain
   medium: tinta e aquarela  sobre seda
   source: Wikimedia Commons
   title: 早春圖 = Early Spring
@@ -8642,6 +9166,29 @@ references:
   title: Classical Gardens of Suzhou
   type: chapter
   URL: https://doi.org/10.1007/978-3-642-32823-7_11
+
+- id: guptill:1922sketching
+  abstract: '26'
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Guptill
+      given: Arthur Leighton
+  call-number: BBF-2606
+  citation-key: guptill:1922sketching
+  event-place: New York
+  issued:
+    - year: 1922
+  language: en
+  number-of-pages: '208'
+  publisher: Pencil Points
+  publisher-place: New York
+  source: Internet Archive
+  title: Sketching and rendering in pencil
+  type: book
+  URL: http://archive.org/details/sketchingrenderi00guptuoft
 
 - id: hagia:2020
   abstract: >-
@@ -8780,6 +9327,7 @@ references:
   issued:
     - year: 1996
   language: en
+  license: free
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -8842,6 +9390,14 @@ references:
     - year: 2009
       month: 7
       day: 5
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Humble Administrator's Garden in Suzhou
   type: graphic
@@ -8978,6 +9534,7 @@ references:
       month: 6
       day: 1
   language: en-GB
+  license: Copyright © 1944 College Art Association
   page: 67-94
   source: JSTOR
   title: 'Raphael and Giulio Romano: With notes on the Raphael school'
@@ -9014,6 +9571,10 @@ references:
   citation-key: hayashi:1680zoho
   issued:
     - year: 1680
+  license: >-
+    No known copyright restrictions. Please credit UBC Library as the image
+    source. For more information, see
+    digitalcollections.library.ubc.ca/cdm/about.
   source: Wikimedia Commons
   title: Zōho Edo ōezu, Hitsuji Sangatsu aratame oyaku eiri
   title-short: English
@@ -9033,6 +9594,10 @@ references:
   citation-key: hayashi:1686large
   issued:
     - year: 1686
+  license: >-
+    English: No known copyright restrictions. Please credit UBC Library as the
+    image source. For more information, see
+    digitalcollections.library.ubc.ca/cdm/about.
   source: Wikimedia Commons
   title: Large plan of Kyoto
   type: graphic
@@ -9127,7 +9692,7 @@ references:
   publisher: SAGE Publications Inc
   source: SAGE Journals
   title: >-
-    Machi: Neighborhood and Small Town—The Foundation for Urban Transformation
+    Machi: neighborhood and small town—the foundation for urban transformation
     in Japan
   title-short: Machi
   type: article-journal
@@ -9266,7 +9831,7 @@ references:
   title-short: Arquitetura na Itália
   type: book
 
-- id: 'hgetnet:english:'
+- id: hgetnet:susenyos
   accessed:
     - year: 2020
       month: 11
@@ -9274,10 +9839,11 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Hgetnet
-  citation-key: 'hgetnet:english:'
+  citation-key: hgetnet:susenyos
+  language: en
+  license: Public domain
   source: Wikimedia Commons
-  title: 'English: susenyos palace'
-  title-short: English
+  title: Susenyos palace
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Danqaz4.jpg
 
@@ -9357,6 +9923,7 @@ references:
         before 1641 date
         QS:P571,+1641-00-00T00:00:00Z/7,P1326,+1641-00-00T00:00:00Z/9
   language: Latin
+  license: Public domain
   source: Wikimedia Commons
   title: Nova Totius Terrarum Orbis Geographica ac Hydrographica Tabula
   title-short: Nova Totius Terrarum
@@ -9579,6 +10146,7 @@ references:
   citation-key: inoue:1887map
   issued:
     - year: 1887
+  license: Public domain
   source: Wikimedia Commons
   title: Map of Osaka Castle, around 1887. published by Interior Ministry of Japan
   type: graphic
@@ -9594,6 +10162,7 @@ references:
   citation-key: interior:1944
   issued:
     - literal: antes de 1944
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Interior of Tempio Malatestiano in Rimini, Italy, before 1944s bombing (1944
@@ -9659,6 +10228,7 @@ references:
   issued:
     - year: 1822
   language: English
+  license: Public domain
   source: Wikimedia Commons
   title: Plan of the Town of Singapore
   type: graphic
@@ -9676,7 +10246,7 @@ references:
   language: en-US
   publisher: Random House
   publisher-place: New York
-  title: The Death and Life of Great American Cities
+  title: The death and life of great American cities
   type: book
 
 - id: jacobs:2011morte
@@ -9811,6 +10381,7 @@ references:
   citation-key: jastrow:2006cloister
   issued:
     - year: 2006
+  license: Public domain
   source: Wikimedia Commons
   title: Cloister of Santa Maria della Pace in Rome, designed by Bramante (1503)
   type: graphic
@@ -9855,6 +10426,7 @@ references:
     - year: 2008
       month: 7
       day: 6
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Palazzo d'Antica Zecca, Largo Ottavio Tassoni, Rome. A sinistra, via dei
@@ -9872,6 +10444,8 @@ references:
     - family: Jie
       given: Li
   citation-key: jie:yingzao
+  language: en
+  license: Public domain
   source: Wikimedia Commons
   title: Yingzao Fashi 1
   type: graphic
@@ -9888,6 +10462,7 @@ references:
   citation-key: jilufan:1806Ji
   issued:
     - year: 1806
+  license: Public domain
   source: Wikimedia Commons
   title: 姫路城下絵図
   title-short: 日本語
@@ -9977,6 +10552,7 @@ references:
     - year: 2019
       month: 9
       day: 12
+  language: en
   source: YouTube
   title: A Walk Around Napoleon & Josephine's Chateau de Malmaison, Paris
   type: motion_picture
@@ -9996,6 +10572,7 @@ references:
     - year: 2006
       month: 12
       day: 16
+  language: en
   source: Wikimedia Commons
   title: The Temple of Heaven in Beijing, China
   type: graphic
@@ -10018,7 +10595,7 @@ references:
   issued:
     date-parts:
       - - '2014'
-  language: en-US
+  language: en
   original-date:
     - year: 2014
   title: Aztec chinampas of Central America
@@ -10040,6 +10617,7 @@ references:
   citation-key: jones:2013view
   issued:
     - literal: 27 de abril de 2013, 02:03
+  language: en
   source: Wikimedia Commons
   title: >-
     View from Gate of Fasilidas's Castle - Royal Enclosure (Fasil Ghebbi) -
@@ -10063,7 +10641,7 @@ references:
   issued:
     - year: 1470
       circa: true
-  language: Latin
+  language: la
   publisher: e-codices - Virtual Manuscript Library of Switzerland
   source: DOI.org (Datacite)
   title: Antiquitates iudaicae
@@ -10095,7 +10673,8 @@ references:
   citation-key: juran:09--seeking
   issued:
     - literal: 9--
-  language: English
+  language: en
+  license: Public domain
   source: Wikimedia Commons
   title: Seeking the Tao in Autumn Mountains
   type: graphic
@@ -10197,6 +10776,7 @@ references:
   dimensions: 97,0 × 71,0 cm
   issued:
     - year: 1764
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Johann Joachim Winckelmann
@@ -10376,6 +10956,7 @@ references:
       month: 8
       day: 3
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Kilwa Kisiwani
   type: entry-encyclopedia
@@ -10390,6 +10971,7 @@ references:
   issued:
     - year: 1874
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: King Koffee Palace
   title-short: File
@@ -10525,6 +11107,11 @@ references:
     - family: Hechinger
       given: Martin
   citation-key: knoll:2009maquetas
+  contributor:
+    - family: Heyer
+      given: Hans-Joachim
+    - family: Miklautsch
+      given: Boris
   edition: 5.^a^ ed.
   event-place: Barcelona
   ISBN: 978-84-252-2256-6
@@ -10572,6 +11159,14 @@ references:
       month: 10
       day: 6
   language: English
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Bent architrave of Spedale degli Innocenti in Florence, Italy
   type: graphic
@@ -10605,6 +11200,7 @@ references:
     - year: 2016
       month: 2
       day: 9
+  license: CC-BY-SA
   source: Wikimedia Commons
   title: Shophouses. Kandahar Street. Kampong Glam, Central Region, Singapore
   type: graphic
@@ -10636,6 +11232,9 @@ references:
       given: Spiro
   call-number: NA200 .K65 1995
   citation-key: kostof:1995history
+  contributor:
+    - family: Castillo
+      given: Greg
   edition: '2'
   event-place: New York
   ISBN: 978-0-19-508378-1
@@ -10741,6 +11340,7 @@ references:
       given: Rob
   citation-key: krier:1988architectural
   event-place: New York
+  ISBN: 0-8478-0965-X
   issued:
     - year: 1988
   language: en-US
@@ -10754,6 +11354,9 @@ references:
     - family: Krier
       given: Rob
   citation-key: krier:1991urban
+  contributor:
+    - family: Rowe
+      given: Colin
   edition: '5'
   event-place: London
   ISBN: 978-0-85670-576-2
@@ -10799,6 +11402,26 @@ references:
   type: chapter
   URL: https://digitalis.uc.pt/handle/10316.2/36685
 
+- id: kubler:1959art
+  author:
+    - family: Kubler
+      given: George
+    - family: Soria
+      given: Martin
+  citation-key: kubler:1959art
+  event-place: London
+  issued:
+    - year: 1959
+  language: English
+  number-of-pages: '676'
+  publisher: Penguin
+  publisher-place: London
+  source: Google Books
+  title: >-
+    Art and architecture in Spain and Portugal and their American dominions,
+    1500 to 1800
+  type: book
+
 - id: kyoto:1935
   accessed:
     - year: 2020
@@ -10809,6 +11432,7 @@ references:
   dimensions: 'Altura: 23,0 pol (58,4 cm); Largura: 33,0 pol (83,8 cm)'
   issued:
     - literal: 1935 Showa 11
+  license: Public domain
   source: Wikimedia Commons
   title: Kyoto
   type: graphic
@@ -10846,6 +11470,7 @@ references:
   citation-key: lanciani:1893apostolic
   issued:
     - literal: entre 1893 e 1901
+  license: Public domain
   source: Wikimedia Commons
   title: Apostolic Palace and St. Peter's Basilica
   type: graphic
@@ -11000,6 +11625,11 @@ references:
     - family: Leclerc
       given: Sébastien
   citation-key: leclerc:1714traite
+  contributor:
+    - family: Quillau
+      given: J
+    - family: Giffart
+      given: Pierre
   event-place: Paris
   issued:
     - year: 1714
@@ -11062,6 +11692,10 @@ references:
     - family: Ledoux
       given: Claude Nicolas
   citation-key: ledoux:1804larchitecture
+  contributor:
+    - family: Nobele
+      given: Fernand
+      dropping-particle: de
   event-place: Paris
   issued:
     - year: 1804
@@ -11150,6 +11784,7 @@ references:
     - year: 1466
       circa: true
     - year: 1468
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Argano a tre velocità di Brunelleschi, 1480 circa, biblioteca ambrosiana,
@@ -11171,6 +11806,7 @@ references:
     - year: 1466
       circa: true
     - year: 1468
+  license: Public domain
   source: Wikimedia Commons
   title: Gru girevole di brunelleschi, codice ambrosiano CA, c. 965 r.jpg
   type: graphic
@@ -11209,6 +11845,7 @@ references:
   issued:
     - year: 1492
       circa: true
+  license: Public domain
   medium: desenho a caneta, tinta e aguada sobre papel
   source: Wikimedia Commons
   title: Homem Vitruviano
@@ -11304,6 +11941,9 @@ references:
     - family: Letarouilly
       given: Paul Marie
   citation-key: letarouilly:1882vatican
+  contributor:
+    - family: Simil
+      given: Alphonse
   DOI: 10.3931/E-RARA-22518
   event-place: Paris
   issued:
@@ -11372,6 +12012,7 @@ references:
   citation-key: lethiere:1799patrie
   issued:
     - year: 1799
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: La Patrie en danger
@@ -11397,6 +12038,10 @@ references:
       month: 11
       day: 14
   language: fr
+  license: >-
+    Le Bulletin du Centre de recherche du château de Versailles est mis à
+    disposition selon les termes de la licence Creative Commons Attribution -
+    Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
   publisher: Centre de recherche du château de Versailles
   source: journals.openedition.org
   title: >-
@@ -11419,6 +12064,7 @@ references:
   issued:
     - literal: 9--
   language: English
+  license: Public domain
   source: Wikimedia Commons
   title: Buddhist Temple in Mountain
   type: graphic
@@ -11439,6 +12085,7 @@ references:
   issued:
     - year: 1124
   language: Chinese
+  license: Public domain
   medium: Hanging scroll, tinta e aquarela sobre seda
   source: Wikimedia Commons
   title: 萬壑松風 = Wind in Pines Among a Myriad Valleys
@@ -11516,6 +12163,7 @@ references:
   citation-key: liang:1935
   issued:
     - year: 1935
+  license: Public domain
   source: Wikimedia Commons
   title: Liang Sicheng and Lin Huiyin in the Temple of Heaven
   type: graphic
@@ -11527,6 +12175,8 @@ references:
     - family: Liang
       given: Sicheng
   citation-key: liang:1984pictorial
+  contributor:
+    - literal: Lin Huiyin
   editor:
     - family: Fairbank
       given: Wilma
@@ -11606,6 +12256,34 @@ references:
     los Reyes Aztecas in Tláhuac, Mexico City
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:LagoReyesTlahuac76.JPG
+
+- id: liu:1982traditional10
+  accessed:
+    - year: 2020
+      month: 10
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Liu
+      given: Dunzhen
+  citation-key: liu:1982traditional10
+  container-title: Garden History
+  DOI: 10.2307/1586743
+  ISSN: 0307-1243
+  issue: '2'
+  issued:
+    - year: 1982
+  language: en
+  page: 108-141
+  publisher: The Garden History Society
+  source: JSTOR
+  title: The Traditional Gardens of Suzhou ("Su zhou gu dian yuan lin")
+  translator:
+    - family: Wood
+      given: Frances
+  type: article-journal
+  URL: https://www.jstor.org/stable/1586743
+  volume: '10'
 
 - id: livioandronico2013:2015carlino
   accessed:
@@ -11715,12 +12393,13 @@ references:
       month: 9
       day: 1
   language: en-GB
+  license: Copyright © 2004 College Art Association
   page: 477-504
   source: JSTOR
   title: >-
-    New and Improved: Repetition as Originality in Italian Baroque Practice and
-    Theory
-  title-short: New and Improved
+    New and improved: repetition as originality in Italian baroque practice and
+    theory
+  title-short: New and improved
   type: article-journal
   URL: http://www.jstor.org/stable/4134443
   volume: '86'
@@ -11738,6 +12417,7 @@ references:
   issued:
     - year: 1338
     - year: 1339
+  license: Public domain
   medium: afrescomedium QS:P186,Q25631150
   source: Wikimedia Commons
   title: Effects of Good Government in the city
@@ -11759,6 +12439,7 @@ references:
   issued:
     - year: 1338
     - year: 1339
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Effetti del buon governo nella città
@@ -11780,6 +12461,7 @@ references:
   issued:
     - year: 1342
   language: Portuguese
+  license: Public domain
   medium: Óleo sobre madeira
   source: Wikimedia Commons
   title: Apresentação ao Templo
@@ -11799,6 +12481,7 @@ references:
   issued:
     - year: 1342
   language: Portuguese
+  license: Public domain
   source: Wikimedia Commons
   title: Natividade da Virgem
   type: graphic
@@ -11817,6 +12500,7 @@ references:
   issued:
     - year: 1344
   language: Italian
+  license: Sailko 12 de janeiro de 2018, 10:41:37
   source: Wikimedia Commons
   title: Annunciazione dal palazzo Pubblico
   type: graphic
@@ -11833,6 +12517,7 @@ references:
       given: Ambrogio
   citation-key: lorenzetti:legenda
   language: Italian
+  license: Sailko 12 de janeiro de 2018, 10:59:26
   source: Wikimedia Commons
   title: Legenda di San Nicola
   type: graphic
@@ -11857,6 +12542,7 @@ references:
   issued:
     - year: 1609
   language: it
+  license: pdm
   publisher: Francesco Rampazetto
   publisher-place: Venetia
   source: Library Catalog (Visual Library 2021)
@@ -11917,7 +12603,7 @@ references:
       month: 6
       day: 26
   language: en-US
-  title: Musgum Mud Huts
+  title: Musgum mud huts
   type: webpage
   URL: http://socks-studio.com/2015/06/26/musgum-mud-huts/
 
@@ -12017,6 +12703,7 @@ references:
   issued:
     - year: 1160
     - year: 1225
+  license: Public domain
   medium: tinta  sobre sedamedium QS:P186,Q127418;P186,Q37681,P518,Q861259
   source: Wikimedia Commons
   title: Clouds Rising from the Green Sea, from a series of paintings of water = 水圖卷
@@ -12041,6 +12728,7 @@ references:
   issued:
     - year: 1225
   language: English
+  license: Public domain
   medium: Album leaf, ink on silk
   source: Wikimedia Commons
   title: Scholar Reclining and Watching Rising Clouds, Poem by Wang Wei
@@ -12087,6 +12775,7 @@ references:
       month: 3
       day: 1
   language: en-US
+  license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -12205,6 +12894,7 @@ references:
       month: 7
       day: 31
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Majapahit
   type: entry-encyclopedia
@@ -12255,6 +12945,7 @@ references:
       month: 7
       day: 31
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Malacca Sultanate
   type: entry-encyclopedia
@@ -12370,6 +13061,7 @@ references:
   citation-key: map:17--
   issued:
     - literal: 17--
+  license: Public domain
   source: Wikimedia Commons
   title: Map of Charleville
   type: graphic
@@ -12489,6 +13181,14 @@ references:
     - year: 2010
       month: 4
       day: 21
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Il tempio di Baalshamin a Palmira
   type: graphic
@@ -12602,6 +13302,7 @@ references:
   archive_location: Casa di Sallustio (VI 2, 4)
   citation-key: 'mars:'
   language: English
+  license: Wolfgang Rieger
   medium: fresco
   source: Wikimedia Commons
   title: Mars and Venus
@@ -12624,6 +13325,7 @@ references:
     QS:P2048,265U174728;P2049,305U174728
   issued:
     - literal: cerca de 1333 date QS:P571,+1333-00-00T00:00:00Z/9,P1480,Q5727902
+  license: Public domain
   medium: têmpera  sobre madeiramedium QS:P186,Q175166;P186,Q287,P518,Q861259
   source: Wikimedia Commons
   title: The Annunciation and Two Saints
@@ -12666,6 +13368,7 @@ references:
   dimensions: 680,0 × 475,0 cm
   issued:
     - year: 1427
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Trinità
@@ -12687,12 +13390,32 @@ references:
     - year: 1615
       circa: true
   language: Portuguese
+  license: Public domain
   medium: Color on gold-leaf paper
   source: Wikimedia Commons
   title: Cenas da vida em Quioto e arredores (par de biombos Funaki, 2)
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Scenes_in_and_around_Kyoto_Funaki_2.jpg
+
+- id: matos:2009edificio
+  author:
+    - family: Matos
+      given: Vanda Pereira
+      dropping-particle: de
+  citation-key: matos:2009edificio
+  event-place: Lisboa
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2009
+  language: pt-PT
+  publisher: Faculdade de Arquitectura e Artes da Universidade Lusíada de Lisboa
+  publisher-place: Lisboa
+  title: >-
+    O edifício de rendimento em Lisboa de 1758 ao dealbar do Estado Novo: da
+    Cotovia ao Rato
+  title-short: O edifício de rendimento em Lisboa
+  type: thesis
 
 - id: matrakci:1533istanbul
   accessed:
@@ -12706,6 +13429,7 @@ references:
   citation-key: matrakci:1533istanbul
   issued:
     - year: 1533
+  license: Public domain
   source: Wikimedia Commons
   title: İstanbul ve Galata betimlemesi
   title-short: Türkçe
@@ -12774,6 +13498,7 @@ references:
       month: 7
       day: 23
   language: en
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Taj Mahal Site Plan: The Taj Mahal complex can be conveniently divided into
@@ -12793,6 +13518,8 @@ references:
       given: Henry
   call-number: AAK-3969
   citation-key: mcgoodwin:1904architectural
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: Boston
   issued:
     - year: 1904
@@ -12880,6 +13607,29 @@ references:
   type: book
   URL: http://archive.org/details/elementidellarch00lodo
 
+- id: mendes:2010vila
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  citation-key: mendes:2010vila
+  editor:
+    - family: Mendes
+      given: António Rosa
+  event-place: Vila Real de Santo António
+  issued:
+    - year: 2010
+      month: 6
+  language: pt-PT
+  publisher: >-
+    Câmara Municipal : Centro de Estudos do Património e História do Algarve :
+    Universidade do Algarve
+  publisher-place: Vila Real de Santo António
+  title: Vila Real de Santo António e o urbanismo iluminista
+  type: book
+  URL: >-
+    https://issuu.com/aicei/docs/vila_real_de_santo_ant_nio_e_o_urbanismo_iluminist
+
 - id: middleton:1959jacques18
   accessed:
     - year: 2019
@@ -12937,6 +13687,7 @@ references:
     - family: Middleton
       given: Robin
   event-place: London
+  ISBN: 0-262-13173-0
   issued:
     - year: 1982
   language: en-GB
@@ -13034,6 +13785,10 @@ references:
       given: Francesco
   call-number: '67743'
   citation-key: milizia:1768vite
+  contributor:
+    - family: Monaldini
+      given: Giuseppe Antonio
+    - literal: Getty Research Institute
   event-place: Roma
   issued:
     - year: 1768
@@ -13059,6 +13814,9 @@ references:
       given: Francesco
   call-number: '212788'
   citation-key: milizia:1832principj
+  contributor:
+    - family: Antolini
+      given: Giovanni Antonio
   event-place: Milano
   issued:
     - year: 1832
@@ -13083,6 +13841,7 @@ references:
   citation-key: miller:1887tabula
   issued:
     - year: 1887
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Tabula Peutingeriana, 1-4th century CE. Facsimile edition by Konrad Miller,
@@ -13110,6 +13869,7 @@ references:
       month: 5
       day: 1
   language: en-US
+  license: Copyright © 1972 Society of Architectural Historians
   page: 83-91
   source: JSTOR
   title: >-
@@ -13161,6 +13921,7 @@ references:
   citation-key: mingzhi:1875inner
   issued:
     - literal: entre 1875 e 1887
+  license: Public domain
   source: Wikimedia Commons
   title: Inner and outer city of Beijing
   title-short: English
@@ -13197,6 +13958,8 @@ references:
     - year: 1930
       month: 12
       day: 30
+  language: de
+  license: Public domain
   medium: "Fotografie\_: Negativ"
   source: Wikimedia Commons
   title: Niamey LBS MH02-08-0093
@@ -13261,6 +14024,7 @@ references:
       month: 7
       day: 31
   language: en
+  license: cc_by_nc_nd
   number: '2'
   number-of-pages: '14'
   page: 31-44
@@ -13344,6 +14108,7 @@ references:
   issued:
     - year: 1938
   language: it
+  license: http://creativecommons.org/publicdomain/zero/1.0/
   publisher: Società Italiana Arti Grafiche
   publisher-place: Roma
   source: Internet Archive
@@ -13503,6 +14268,8 @@ references:
       given: Charles Herbert
   call-number: SRLF:LAGE-2344011
   citation-key: moore:1905character
+  contributor:
+    - literal: University of California Libraries
   issued:
     - year: 1905
   language: eng
@@ -13525,6 +14292,7 @@ references:
   citation-key: moore:1905floorplan
   issued:
     - year: 1905
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Floorplan of Sant' Andrea, Mantua, figure 18 from "Character of Renaissance
@@ -13546,6 +14314,7 @@ references:
   citation-key: moore:1905palazzo
   issued:
     - year: 1905
+  license: Public domain
   source: Wikimedia Commons
   title: Palazzo Riccardi, from "Character of Renaissance Architecture"
   type: graphic
@@ -13564,6 +14333,7 @@ references:
   citation-key: moore:1905part
   issued:
     - year: 1905
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Part Plan, Florence Cathedral, figure 9 from "Character of Renaissance
@@ -13587,6 +14357,7 @@ references:
   citation-key: moore:1905vignola
   issued:
     - year: 1905
+  license: Public domain
   source: Wikimedia Commons
   title: '[Vignola, façade of the Gesù]'
   title-short: English
@@ -13606,6 +14377,7 @@ references:
   citation-key: moreau:1625charleville
   issued:
     - year: 1625
+  license: Public domain
   source: Wikimedia Commons
   title: Charleville sur le bord de la Meuse
   type: graphic
@@ -13690,6 +14462,7 @@ references:
   citation-key: mori:1750plan
   issued:
     - year: 1750
+  license: Public domain
   source: Wikimedia Commons
   title: Plan of Heiankyo
   type: graphic
@@ -13828,8 +14601,8 @@ references:
   publisher: Pelican
   publisher-place: Harmondsworth
   source: Google Books
-  title: 'The City in History: Its Origins, Its Transformations, and Its Prospects'
-  title-short: The City in History
+  title: 'The city in history: its origins, its transformations, and its prospects'
+  title-short: The city in history
   type: book
 
 - id: mumford:1998cidade
@@ -13892,6 +14665,9 @@ references:
     - family: Muratori
       given: Saverio
   citation-key: muratori:1978metodologia
+  contributor:
+    - family: Marinucci
+      given: Guido
   event-place: Roma
   issued:
     - year: 1978
@@ -13921,6 +14697,34 @@ references:
   title-short: Arquitectura del renacimiento
   type: book
 
+- id: murteira:2004lisbon10
+  abstract: >-
+    Published in Economia Global e Gestão (Global Economics and Management
+    Review), Lisboa, vol. 10 (2004), p. 79-99. This paper is based on a section
+    of the author’s PhD thesis: A Place for Lisbon in …
+  accessed:
+    - year: 2022
+      month: 2
+      day: 28
+  author:
+    - family: Murteira
+      given: Helena
+  citation-key: murteira:2004lisbon10
+  container-title: Economia Global e Gestão
+  ISSN: 0873-7444
+  issued:
+    - year: 2004
+  language: en-GB
+  page: 79-99
+  title: >-
+    The Lisbon earthquake of 1755: the catastrophe and its European
+    repercussions
+  title-short: The Lisbon earthquake of 1755
+  type: article-journal
+  URL: >-
+    https://lisbon-pre-1755-earthquake.org/en/the-lisbon-earthquake-of-1755-the-catastrophe-and-its-european-repercussions/
+  volume: '10'
+
 - id: musicaloris:2016pavillion
   abstract: From my China tour 11.2016
   accessed:
@@ -13935,6 +14739,7 @@ references:
     - year: 2016
       month: 11
       day: 21
+  license: Attribution License
   medium: photo
   source: Flickr
   title: Pavillion Reflection, Master of Nets Garden, Suzhou
@@ -13955,6 +14760,7 @@ references:
     - year: 2016
       month: 11
       day: 21
+  license: Attribution License
   medium: photo
   source: Flickr
   title: Reflected Building at the Master of Nets Garden, Suzhou
@@ -14036,6 +14842,7 @@ references:
     - year: 2007
       month: 8
       day: 25
+  license: Attribution-NoDerivs License
   medium: photo
   source: Flickr
   title: Basilica of St. Andrea, Mantova
@@ -14054,6 +14861,7 @@ references:
     - year: 2007
       month: 8
       day: 25
+  license: Attribution-NoDerivs License
   medium: photo
   source: Flickr
   title: Light beams in St. Andrea, Mantova
@@ -14089,6 +14897,14 @@ references:
     - family: 名古屋
       given: 太郎
   citation-key: nagoya:2018all
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Over all model of Heian-kyō
   type: graphic
@@ -14354,10 +15170,10 @@ references:
       given: Pedro
   citation-key: navarro:2001urbanismo
   container-title: 'La ciudad medieval: de la casa al tejido urbano'
-  event: >-
+  event-place: Cuenca
+  event-title: >-
     Primer Curso de Historia y Urbanismo Medieval organizado por la Universidad
     de Castilla-La Mancha
-  event-place: Cuenca
   ISBN: 978-84-8427-119-2
   issued:
     - year: 2001
@@ -14382,6 +15198,7 @@ references:
     - family: Nelli
       given: Giovanni Battista
   citation-key: nelli:ricostruzione
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Ricostruzione dei ponteggi interni della cupola di brunelleschi, seconda
@@ -14402,6 +15219,7 @@ references:
   citation-key: nenci:1818palio
   issued:
     - literal: agosto de 1818
+  license: Public domain
   source: Wikimedia Commons
   title: Palio di Siena in onore di Ferdinando III di Toscana
   type: graphic
@@ -14516,6 +15334,7 @@ references:
   issued:
     - literal: /26/2014
   language: en
+  license: http://creativecommons.org/licenses/by/2.0/
   page: 20-34
   publisher: Scientific & Academic Publishing
   source: article.sapub.org
@@ -14810,6 +15629,35 @@ references:
   type: book
   URL: http://archive.org/details/templebuildersmo00over
 
+- id: pais:1882carta
+  author:
+    - family: Pais
+      given: Miguel Carlos Correia
+    - family: Folque
+      given: Filipe de Sousa
+  call-number: 711.5(469.411.16)(084.3)
+  citation-key: pais:1882carta
+  contributor:
+    - family: Portugal.
+      given: ''
+  event-place: '[Lisboa]'
+  issued:
+    - year: 1882
+  language: pt-PT
+  publisher: Direcção Geral dos Trabalhos Geodésicos
+  publisher-place: '[Lisboa]'
+  scale: Escala 1:10000
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Carta topographica da cidade de Lisboa reduzida da que foi levantada na
+    escala 1:1000 em 1856 a 1858; Esta carta indica os melhoramentos posteriores
+    e o projecto d[e] algumas obras d[e] arte a executar no futuro pelo
+    engenheiro M. C. C. Paes, 1882
+  title-short: >-
+    Carta topographica da cidade de Lisboa reduzida da que foi levantada na
+    escala 1
+  type: map
+
 - id: palazzo:2014louvre
   abstract: >-
     Exploramos aqui as interações entre a pesquisa historiográfica e os
@@ -14842,6 +15690,7 @@ references:
   issued:
     - year: 2014
   language: pt-BR
+  license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   page: 143–156
   publisher: Editora Unicamp ; Editora <span class="smallcaps">FAP</span>–Unifesp
   publisher-place: 'Campinas : São Paulo'
@@ -15036,6 +15885,7 @@ references:
   dimensions: "Altura: 1\_280,00 mm; Largura: 990,00 mm"
   issued:
     - literal: cerca de 1734
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Interior of the Pantheon, Rome
@@ -15056,6 +15906,7 @@ references:
   dimensions: 231 × 303 cm
   issued:
     - year: 1759
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Gallery of Views of Modern Rome
@@ -15116,6 +15967,7 @@ references:
   issued:
     - year: 2001
   language: pt-BR
+  number-of-pages: '132'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -15155,6 +16007,7 @@ references:
     - year: 1668
       circa: true
   language: fr
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Vue du château et des jardins de Versailles, prise de l'avenue de Paris
@@ -15224,6 +16077,9 @@ references:
       given: Pierre
   call-number: '9928785910001551'
   citation-key: patte:1770memoire
+  contributor:
+    - family: Gueffier
+      given: Pierre François
   event-place: Paris
   issued:
     - year: 1770
@@ -15281,6 +16137,7 @@ references:
       month: 9
       day: 1
   language: en-US
+  license: Copyright © 1994 Society of Architectural Historians
   page: 322-342
   source: JSTOR
   title: Rudolf Wittkower and architectural principles in the age of modernism
@@ -15424,6 +16281,7 @@ references:
   citation-key: peking:1914
   issued:
     - year: 1914
+  license: Public domain
   source: Wikimedia Commons
   title: 北京地図 = Map of Peking
   title-short: English
@@ -15481,6 +16339,22 @@ references:
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/990736
   volume: '51'
+
+- id: pereira:1992arquitectura
+  author:
+    - family: Pereira
+      given: José Fernandes
+  citation-key: pereira:1992arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-566-171-0
+  issued:
+    - year: 1992
+  language: Portuguese
+  publisher: Instituto de Cultura e Língua Portuguesa, Ministério da Educação e Cultura
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Arquitectura barroca em Portugal
+  type: book
 
 - id: perez-gomez:1982architecture36
   accessed:
@@ -15561,6 +16435,7 @@ references:
     - year: 1977
       month: 12
   language: fr-FR
+  license: Copyright © 1977 Society of Architectural Historians
   page: 223-240
   source: JSTOR
   title: >-
@@ -15633,6 +16508,7 @@ references:
   issued:
     - year: 1683
   language: French
+  license: Public domain
   source: Wikimedia Commons
   title: Ordonnance des cinq espèces de colonnes selon la méthode des anciens, pl. I
   title-short: English
@@ -15652,6 +16528,7 @@ references:
   citation-key: perrault:1762colonnade
   issued:
     - year: 1762
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Colonnade of the Louvre, Architecture, Plate XV, vol. 1, Diderot's
@@ -15731,6 +16608,14 @@ references:
   citation-key: pethrus:2010ethiopian
   issued:
     - literal: 15 de março de 2010, 13:57
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Ethiopian Empire's territorial expansion during Menelik II reign
   type: map
@@ -15743,6 +16628,10 @@ references:
       day: 15
   citation-key: petruccioli:1998typological
   collection-title: Procedings of the international symposium ... March 1995
+  contributor:
+    - literal: >-
+        Aga Khan Program for Islamic Architecture at Harvard University and
+        Massachusets Institute of Technology
   editor:
     - family: Petruccioli
       given: Attilio
@@ -15923,6 +16812,7 @@ references:
   citation-key: photoglobzurich:189020029
   issued:
     - literal: entre 1890 e 1900
+  license: Public domain
   source: Wikimedia Commons
   title: 20029 P.Z. Agra, Taj Mahal
   type: graphic
@@ -15943,6 +16833,7 @@ references:
       circa: true
     - year: 1470
   language: Portuguese
+  license: Public domain
   medium: óleo e têmpera  sobre madeira
   source: Wikimedia Commons
   title: Flagellazione
@@ -15961,6 +16852,7 @@ references:
   issued:
     - literal: entre 1460 e 1470
   language: Portuguese
+  license: Public domain
   source: Wikimedia Commons
   title: Anunciação (S. António)
   type: graphic
@@ -15973,6 +16865,19 @@ references:
       given: Luís Serrão
   call-number: 623.1(=1.469)"16"
   citation-key: pimentel:1680methodo
+  contributor:
+    - family: Manuel
+      given: Francisco de Melo
+    - family: Craesbeeck
+      given: António
+    - family: Baptista
+      given: João
+    - family: Bietry
+      given: René
+    - family: Mendes
+      given: Manuel
+    - literal: Ordem de Cister.
+    - literal: Congregação de São Camilo de Lélis
   event-place: Lisboa
   issued:
     - year: 1680
@@ -16048,6 +16953,7 @@ references:
     - year: 1748
     - year: 1774
   language: Italian
+  license: Public domain
   medium: Água-forte
   source: Wikimedia Commons
   title: >-
@@ -16074,6 +16980,7 @@ references:
   issued:
     - year: 1748
     - year: 1774
+  license: Public domain
   medium: Água-forte
   source: Wikimedia Commons
   title: Veduta di Campo Vaccino
@@ -16102,6 +17009,26 @@ references:
   URL: >-
     http://archive.org/details/McGillLibrary-rbsc_monumenta_piranesi_diverse-maniere-cammini_elfWFKP66cutter-18760
 
+- id: pires:1885planta
+  author:
+    - family: Pires
+      given: Caldeira
+  call-number: 711.5(469.411.16)(084.3)
+  citation-key: pires:1885planta
+  contributor:
+    - family: Grima
+      given: M.
+  event-place: Lisboa
+  issued:
+    - year: 1885
+  language: pt-PT
+  publisher: Lithografia Malta Ca
+  publisher-place: Lisboa
+  scale: Escala [ca 1:27000]
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: Planta da cidade de Lisboa e seus arredores
+  type: map
+
 - id: pirou:1904portrait
   accessed:
     - year: 2020
@@ -16116,6 +17043,7 @@ references:
   issued:
     - year: 1904
   language: fr
+  license: Public domain
   medium: Photography
   source: Wikimedia Commons
   title: Portrait d'Auguste Choisy par Eugène Pirou
@@ -16140,6 +17068,7 @@ references:
       month: 5
       day: 23
   language: fr
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Place Ducale
   type: entry-encyclopedia
@@ -16160,6 +17089,7 @@ references:
     - year: 1656
       circa: true
   language: nl
+  license: Public domain
   medium: ingekleurde tekening op papier
   source: Wikimedia Commons
   title: >-
@@ -16168,6 +17098,27 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg
+
+- id: planta:1786
+  accessed:
+    - year: 2019
+      month: 12
+      day: 2
+  archive: Biblioteca Digital Hispánica
+  archive_location: MR/43/66
+  citation-key: planta:1786
+  issued:
+    - year: 1786
+      circa: true
+  language: pt-PT
+  license: Public domain
+  source: Wikimedia Commons
+  title: >-
+    Planta da Cidade de Lisboa Novamente edeficada della Ruina que padeceó no
+    Terramoto do Primeiro de Novembro del Anno 1755
+  title-short: Planta da Cidade de Lisboa
+  type: map
+  URL: http://bdh.bne.es/bnesearch/detalle/bdh0000070373
 
 - id: podro:1982critical
   author:
@@ -16199,6 +17150,7 @@ references:
     - year: 1518
       circa: true
     - year: 1520
+  license: Public domain
   medium: Óleo sobre madeira
   source: Wikimedia Commons
   title: Ritratto di Cosimo il Vecchio
@@ -16224,6 +17176,7 @@ references:
   issued:
     - year: 1973
   language: en
+  license: Copyright © 1973 International Center of Medieval Art
   page: 123–132
   source: JSTOR
   title: Cloister, court and city square
@@ -16243,6 +17196,7 @@ references:
   citation-key: pozzo:1685gloria
   issued:
     - year: 1685
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: Gloria di Sant'Ignazio
@@ -16395,6 +17349,7 @@ references:
   citation-key: priestley:1769new
   issued:
     - year: 1769
+  license: Public domain
   source: Wikimedia Commons
   title: A New Chart of History
   type: graphic
@@ -16472,6 +17427,7 @@ references:
   citation-key: punch:1903sketch
   issued:
     - year: 1903
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Sketch Plan by Mr. C. Punch, to show the position of the important Igora and
@@ -16493,6 +17449,7 @@ references:
   issued:
     - literal: último quartel do século XIII
   language: pt
+  license: Public domain
   source: Wikimedia Commons
   title: Consorte Yang montando a cavalo
   type: graphic
@@ -16508,6 +17465,7 @@ references:
   citation-key: Qing:1800
   issued:
     - year: 1800
+  license: Public domain
   source: Wikimedia Commons
   title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
   title-short: 京师城内首善全图
@@ -16529,6 +17487,7 @@ references:
   dimensions: 30,6 × 574,1 cm
   issued:
     - literal: 15--
+  license: Public domain
   medium: Nanquim e pintura sobre seda
   source: Wikimedia Commons
   title: Manhã de primavera no palácio Han
@@ -16550,6 +17509,7 @@ references:
       circa: true
     - year: 20
   language: it
+  license: Public domain
   medium: afresco
   source: Wikimedia Commons
   title: >-
@@ -16596,6 +17556,7 @@ references:
   dimensions: 56 × 81,5 cm
   issued:
     - year: 1878
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: >-
@@ -16638,6 +17599,7 @@ references:
   dimensions: 500,0 × 770,0 cm
   issued:
     - year: 1509
+  license: Public domain
   medium: Fresco
   source: Wikimedia Commons
   title: Disputa del Sacramento
@@ -16658,6 +17620,7 @@ references:
   dimensions: "Height: 500 cm (16.4 ft)\_; Width: 7.7 m (25.2 ft)\_ dimensions QS:P2048,+500U174728;P2049,+7.7U11573"
   issued:
     - literal: 1511date QS:P571,+1511-00-00T00:00:00Z/9
+  license: Public domain
   medium: frescomedium QS:P186,Q25631150
   source: Wikimedia Commons
   title: "Italian:  Scuola di Atene\_School of Athenstitle QS:P1476,it:\"Scuola di Atene\_\""
@@ -16680,6 +17643,7 @@ references:
     QS:P2048,315U174789;P2049,270U174789
   issued:
     - literal: circa 1512 date QS:P571,+1512-00-00T00:00:00Z/9,P1480,Q5727902
+  license: Public domain
   medium: pen, brush and wash, stylus and compass work, on squared paper
   source: Wikimedia Commons
   title: >-
@@ -16763,6 +17727,7 @@ references:
       month: 3
       day: 30
   language: en
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Norse Explorations
   title-short: File
@@ -16821,6 +17786,7 @@ references:
       month: 2
       day: 14
   language: es-ES
+  license: Copyright (c) 2017 Pablo Aparicio Resco, César Figueiredo
   number: '1'
   page: 235-247
   source: revistas.jasarqueologia.es
@@ -16832,6 +17798,29 @@ references:
     virtuales
   type: article-journal
   URL: http://revistas.jasarqueologia.es/index.php/otarq/article/view/96
+
+- id: ribeiro:2013evolucaoa
+  citation-key: ribeiro:2013evolucaoa
+  editor:
+    - family: Ribeiro
+      given: Maria do Carmo
+    - family: Melo
+      given: Arnaldo Sousa
+  event-place: Braga
+  ISBN: 978-989-8612-05-2
+  issued:
+    - year: 2013
+  language: pt-PT
+  publisher: >-
+    <span class="smallcaps">CITCEM</span>-Centro de Investigação
+    Transdisciplinar "Cultura Espaço e Memória"
+  publisher-place: Braga
+  source: Open WorldCat
+  title: >-
+    Evolução da paisagem urbana: transformação morfológica dos tecidos
+    históricos
+  title-short: Evolução da paisagem urbana
+  type: book
 
 - id: ribeiro:2016facade
   accessed:
@@ -16936,6 +17925,7 @@ references:
       month: 4
       day: 1
   language: de-DE
+  license: Copyright © 1931 The Burlington Magazine Publications Ltd.
   page: 202-203
   source: JSTOR
   title: Manierismus
@@ -16957,6 +17947,7 @@ references:
   issued:
     - year: 1782
   language: en-GB
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Sir William Chambers; Joseph Wilton; Sir Joshua Reynolds
@@ -17011,6 +18002,7 @@ references:
   dimensions: 'Sheet: 93 cm x 57 cm'
   issued:
     - year: 1785
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     A general chart exhibiting the discoveries made by Captain James Cook in
@@ -17067,6 +18059,27 @@ references:
   URL: >-
     http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&rpnquery=%40attrset+bib-1++%40attr+1%3D1016+%40attr+4%3D6+%22Prato%22&totalResult=42&select_db=solr_unifi&nentries=1&rpnlabel=+Tutti+i+campi+%3D+Prato+%28Parole+tutte%29+&resultForward=opac%2Funifi%2Ffull.jsp&searchForm=opac%2Funifi%2Ferror.jsp&do_cmd=search_show_cmd&fname=none&from=26&search_text=
 
+- id: rocha:2015muralha
+  author:
+    - family: Rocha
+      given: Artur
+  citation-key: rocha:2015muralha
+  event-place: Lisboa
+  ISBN: 978-989-678-375-4
+  issued:
+    date-parts:
+      - - '2015'
+  language: pt-PT
+  original-date:
+    - year: 2015
+  publisher: 'Edição Banco de Portugal : Museu do Dinheiro'
+  publisher-place: Lisboa
+  title: >-
+    A muralha de D. Dinis e a cidade de Lisboa: fragmentos arqueológicos e
+    evolução histórica
+  title-short: A muralha de D. Dinis e a cidade de Lisboa
+  type: book
+
 - id: rochapeixoto:2013estrategia
   author:
     - family: Rocha-Peixoto
@@ -17118,6 +18131,10 @@ references:
       month: 4
       day: 17
   language: fr-FR
+  license: >-
+    In Situ Revues des patrimoines est mis à disposition selon les termes de la
+    licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas
+    de Modification 4.0 International.
   number: '9'
   publisher: >-
     Ministère de la culture et de la communication, direction générale des
@@ -17262,6 +18279,7 @@ references:
   citation-key: rosselli:1470pianta
   issued:
     - year: 1470
+  license: Public domain
   source: Wikimedia Commons
   title: Pianta della Catena
   title-short: English
@@ -17284,6 +18302,8 @@ references:
   citation-key: roth:1897city
   issued:
     - year: 1897
+  language: en
+  license: Public domain
   source: Wikimedia Commons
   title: The City of Benin, from H. Ling Roth's Great Benin
   type: graphic
@@ -17305,7 +18325,7 @@ references:
   event-place: Halifax (England)
   issued:
     - year: 1903
-  language: English
+  language: en
   number-of-pages: '290'
   publisher: F. King & Sons
   publisher-place: Halifax (England)
@@ -17338,6 +18358,8 @@ references:
     - family: Roth
       given: Leland M.
   citation-key: roth:1993understanding
+  contributor:
+    - literal: Internet Archive
   event-place: New York
   issued:
     - year: 1993
@@ -17497,6 +18519,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  license: Attribution License
   medium: photo
   source: Flickr
   title: Lamu Tower
@@ -17515,6 +18538,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  license: Attribution License
   medium: photo
   source: Flickr
   title: peponi hotel, Lamu aerial
@@ -17533,6 +18557,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  license: Attribution License
   medium: photo
   source: Flickr
   title: Shella, Lamu, Kenya
@@ -17681,6 +18706,10 @@ references:
   citation-key: saihan:2014
   issued:
     - literal: 16 de abril de 2014, 16:00:24
+  license: >-
+    English: No known copyright restrictions. Please credit UBC Library as the
+    image source. For more information, see
+    digitalcollections.library.ubc.ca/cdm/about.
   source: Wikimedia Commons
   title: Saihan Shinkai oedo ezu
   title-short: English
@@ -17702,6 +18731,14 @@ references:
       month: 6
       day: 29
   language: English
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Santo Spirito church, inside view, in Florence Italy
   type: graphic
@@ -17718,6 +18755,14 @@ references:
   citation-key: sailko:2008battistero
   issued:
     - literal: 30 de agosto de 2008, 16:41:02
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Battistero di firenze, interno 04, porta nord
   type: graphic
@@ -17735,6 +18780,14 @@ references:
   citation-key: sailko:2008santa
   issued:
     - literal: 23 June 2008, 10:07:16
+  license: >-
+    Permission is granted to copy, distribute and/or modify this document under
+    the terms of the GNU Free Documentation License, Version 1.2 or any later
+    version published by the Free Software Foundation; with no Invariant
+    Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the
+    license is included in the section entitled GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Santa Felicità, cappella Capponi
   type: graphic
@@ -17753,6 +18806,14 @@ references:
   issued:
     - literal: 2008-04-26, 15:38:57
   language: Italian
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Spedale degli innocenti, tondo Andrea della Robbia 02-03
   type: graphic
@@ -17810,6 +18871,14 @@ references:
   citation-key: sailko:2013pianta
   issued:
     - literal: 13 de julho de 2013, 19:09:13
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Pianta del buonsignori, 1594,
   type: graphic
@@ -17966,6 +19035,63 @@ references:
       given: Elane Ribeiro
   type: chapter
 
+- id: sampayo:2012lei
+  abstract: >-
+    A Rede Portuguesa de Morfologia Urbana, PNUM (Portuguese Network on Urban
+    Morphology), realizou a segunda edição da sua conferência anual, com o tema
+    ‘Morfologia Urbana nos Países Lusófonos’. Esta conferência foi organizada
+    com o apoio do DINÂMIA'CET-IUL e realizou-se no Instituto Universitário de
+    Lisboa ISCTE-IUL nos dias 5 e 6 de Julho de 2012. Incluiu comunicações de
+    conferencistas convidados, comunicações em sessões paralelas, posters, uma
+    mesa redonda com arquitectos convidados e um conjunto de eventos sociais. 
+
+    O PNUM 2012: Morfologia Urbana nos Países Lusófonos, PNUM 2012: Urban
+    Morphology in Portuguese Speaking Countries, promoveu uma oportunidade de
+    debate e de reflexão sobre morfologia urbana. Estabeleceu um espaço
+    primordial para a articulação entre as questões chave do International
+    Seminar on Urban Form (ISUF) e temas específicos da forma urbana no espaço
+    Lusófono. Nomeadamente, no que se refere às diferentes teorias, conceitos e
+    técnicas morfológicas; à história da forma urbana; aos diferentes elementos
+    da forma urbana; às diferentes escalas de análise e de intervenção; à
+    interdisciplinaridade; às relações entre teoria e prática profissional; bem
+    como às diferentes abordagens desenvolvidas no espaço Lusófono.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 17
+  author:
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+    - family: Marat-Mendes
+      given: Teresa
+  citation-key: sampayo:2012lei
+  container-title: Morfologia Urbana nos Países Lusófonos. Actas da Conferência Internacional
+  editor:
+    - family: André
+      given: Paula
+    - family: Marat-Mendes
+      given: Teresa
+    - family: Sampayo
+      given: Mafalda Teixeira
+      dropping-particle: de
+  event-place: Lisboa
+  event-title: Portuguese Network of Urban Morphology
+  ISBN: 978-989-732-023-1
+  issued:
+    - year: 2012
+      month: 7
+  language: pt-PT
+  license: openAccess
+  publisher: 'ISCTE : ISUF'
+  publisher-place: Lisboa
+  source: repositorio.iscte-iul.pt
+  title: >-
+    A lei da permanência do plano na cartografia da parte baixa de Lisboa de
+    1756 a 1786
+  type: paper-conference
+  URL: https://repositorio.iscte-iul.pt/handle/10071/3633
+
 - id: san:2014
   abstract: >-
     The church of San Miniato al Monte is often described as one of the finest
@@ -18008,6 +19134,7 @@ references:
   issued:
     - year: 1495
       circa: true
+  license: Public domain
   medium: óleo  sobre madeira de álamo
   source: Wikimedia Commons
   title: Perspectiva arquitetônica com porto
@@ -18031,6 +19158,28 @@ references:
   source: Open WorldCat
   title: 'Barroco: do quadrado à elipse'
   title-short: Barroco
+  type: book
+
+- id: santos:2005baixa
+  author:
+    - family: Santos
+      given: Maria Helena Ribeiro
+      dropping-particle: dos
+  citation-key: santos:2005baixa
+  collection-number: '34'
+  collection-title: Colecção Cidade de Lisboa
+  edition: 2. ed
+  event-place: Lisboa
+  ISBN: 978-972-24-1408-1
+  issued:
+    - year: 2005
+  language: pt
+  number-of-pages: '246'
+  publisher: Livros Horizonte
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: 'A Baixa Pombalina: passado e futuro'
+  title-short: A Baixa Pombalina
   type: book
 
 - id: sarah:2016plan
@@ -18350,6 +19499,8 @@ references:
     - family: Scott
       given: Geoffrey
   citation-key: scott:1914architecture
+  contributor:
+    - literal: Cornell University Library
   event-place: Boston
   issued:
     - year: 1914
@@ -18540,6 +19691,7 @@ references:
       given: Michel
   citation-key: serre:scene
   dimensions: 125 × 210 cm
+  license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
   title: Scène de la peste de 1720 à la Tourette (Marseille)
@@ -18561,6 +19713,7 @@ references:
   dimensions: h 405 mm × w 535 mm
   issued:
     - year: 1733
+  license: Publiek domein
   medium: etsen an papier
   source: Wikimedia Commons
   title: Alzata Esteriore del medesimo Tempio (Santa Maria del Fiore)
@@ -18773,6 +19926,7 @@ references:
   citation-key: shooter:1857british
   issued:
     - year: 1857
+  license: No known copyright restrictions
   source: Flickr
   title: >-
     British Library digitised image from page 33 of "The Kafirs of Natal and the
@@ -18809,6 +19963,48 @@ references:
   title: Siena, Italy by Drone
   type: motion_picture
   URL: https://www.youtube.com/watch?v=_avuy1Hzw70
+
+- id: silva:1950plantas
+  accessed:
+    - year: 2019
+      month: 6
+      day: 15
+  author:
+    - family: Silva
+      given: Augusto Vieira
+      dropping-particle: da
+  call-number: 528(469.411.16)(084.4)
+  citation-key: silva:1950plantas
+  event-place: Lisboa
+  issued:
+    - year: 1950
+  language: pt-PT
+  publisher: Câmara Municipal
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: Plantas topográficas de Lisboa
+  type: map
+  URL: http://purl.pt/27804
+
+- id: silva:1997lisboa
+  author:
+    - family: Silva
+      given: Raquel Henriques
+      dropping-particle: da
+  call-number: '72'
+  citation-key: silva:1997lisboa
+  event-place: Lisboa
+  genre: Tese (Doutoramento em História da Arte)
+  issued:
+    - year: 1997
+  language: pt-PT
+  number-of-pages: '2'
+  publisher: Universidade Nova de Lisboa
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Lisboa romântica: urbanismo e arquitectura, 1777-1874'
+  title-short: Lisboa romântica
+  type: thesis
 
 - id: simoes:2013permanencias5
   abstract: >-
@@ -18878,6 +20074,8 @@ references:
       given: Camillo
   call-number: AEZ-8947
   citation-key: sitte:1901staedtebau
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: Wien
   issued:
     - year: 1901
@@ -18906,6 +20104,7 @@ references:
   citation-key: slade:2013aerial
   issued:
     - literal: 7 de setembro de 2013, 10:36:42
+  language: en
   source: Wikimedia Commons
   title: Aerial view of Tempio di Santa Maria della Consolazione
   type: graphic
@@ -18929,8 +20128,8 @@ references:
       month: 7
       day: 1
   language: en-US
-  title: Tata Somba, Batammaliba Architecture at its Height
-  title-short: Tata Somba
+  title: Tata somba, Batammaliba architecture at its height
+  title-short: Tata somba
   type: webpage
   URL: https://www.culturesofwestafrica.com/tata-somba-batammaliba-architecture/
 
@@ -18992,6 +20191,7 @@ references:
   citation-key: spadaro:1656largo
   issued:
     - year: 1656
+  license: Public domain
   medium: pittura
   source: Wikimedia Commons
   title: Largo Mercatello a Napoli durante la peste del 1656
@@ -19133,6 +20333,14 @@ references:
     - year: 2007
       month: 7
       day: 20
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: the Dome, Il Gesù, Rome
   type: graphic
@@ -19211,6 +20419,7 @@ references:
       month: 3
       day: 26
   language: en
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     View of the Mughal Garden of Rashtrapati Bhavan, official residence of the
@@ -19233,6 +20442,14 @@ references:
       month: 11
       day: 15
   language: en
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Timur's empire at his death, vasals aren't shown
   type: graphic
@@ -19292,6 +20509,8 @@ references:
       given: Abraham
   call-number: '9923324080001551'
   citation-key: swan:1758collection
+  contributor:
+    - literal: Getty Research Institute
   event-place: London
   issued:
     - year: 1758
@@ -19317,6 +20536,7 @@ references:
       given: Werner
   citation-key: szambien:1986symetrie
   event-place: Paris
+  ISBN: 2-7084-0136-X
   issued:
     - year: 1986
   language: fr-FR
@@ -19335,6 +20555,7 @@ references:
     - year: 1370
     - year: 1372
   language: German
+  license: Burkhard Mücke 16 de março de 2017, 17:14:43
   source: Wikimedia Commons
   title: Szene des Altars von Schloss Tirol
   type: graphic
@@ -19372,6 +20593,7 @@ references:
   citation-key: taccola:1382veduta
   issued:
     - literal: entre 1382 e 1453
+  license: Public domain
   medium: desenho
   source: Wikimedia Commons
   title: Veduta generale della gru di Brunelleschi
@@ -19396,6 +20618,7 @@ references:
       month: 5
       day: 1
   language: en
+  license: Copyright © 1980 The Burlington Magazine Publications Ltd.
   page: 326-337
   source: JSTOR
   title: Claude Perrault, François Le Vau and the Louvre Colonnade
@@ -19539,7 +20762,7 @@ references:
     - year: 2006
       month: 8
       day: 1
-  language: en-US
+  language: en
   page: 46–52
   source: escholarship.org
   title: >-
@@ -19635,6 +20858,7 @@ references:
     dimensions QS:P2049,139.8U174728
   issued:
     - literal: 1124date QS:P571,+1124-00-00T00:00:00Z/9
+  license: Public domain
   medium: Hanging scroll, tinta e colors  sobre seda
   source: Wikimedia Commons
   title: "中文：萬壑松風English:  Wind in Pines Among a Myriad ValleysFrançais\_:  Vent murmurant dans les pins en montagne (Wanhuo songfeng)Deutsch:  Kiefern in einem FelstalEspañol:  Viento en los pinos entre miles de vallesРусский:  Ветер в соснах посреди вечной долины日本語: 万壑松風한국어:  깊은 계곡의 솔바람"
@@ -19737,6 +20961,201 @@ references:
   title: A forma da cidade de origem portuguesa
   type: book
 
+- id: teixeira:2013jose
+  abstract: >-
+    Esta investigação procurou mapear a obra de José da Costa e Silva
+    (1747-1819) no  
+
+    contexto da prática e da cultura arquitetónica vigentes em Portugal nos
+    finais do século XVIII  
+
+    e princípios do XIX. Decorrente da sua formação na Accademia Clementina de
+    Bolonha  
+
+    (1769-1779) o seu discurso profissional traduz a demarcação das persistentes
+    correntes  
+
+    tardobarrocas e rococó que dominavam o panorama da criação e da encomenda
+    naquela 
+
+    moldura histórica. A focagem que estabelece no discurso neoclássico opera-se
+    através das  
+
+    propostas que ilustram a atualização absorvida em Itália, onde o ensino
+    escolar e o gosto  
+
+    estético rececionaram o novo código artístico que circulava
+    internacionalmente. 
+
+    O protagonismo que vem a alcançar no seu regresso a Lisboa revela-se na
+    atribuição  
+
+    dos grandes empreendimentos construtivos com que foi distinguido e que
+    definiram a  
+
+    dinâmica artística epocal. A emergência da arquitetura de incidência
+    pública, de entoação  
+
+    iluminista, acusada nas obras do Érario Régio (1789), do Real Teatro de São
+    Carlos (1792),  
+
+    do Hospital Militar de Inválidos, em Runa, (1792) ou da Academia do Comércio
+    e de  
+
+    Marinha do Porto (1803) enunciam a subordinação às novas tipologias de
+    índole secular, que  
+
+    inscreviam a modernidade e o novo compromisso do espaço urbano.  
+
+    Com o elenco das residências de aparato para as elites aristocráticas
+    (Pombal, Marialva,  
+
+    Quintela, Anadia, Pina Manique, ou ainda o palacete do Ramalhão (1802) para
+    a princesa 
+
+    D. Carlota Joaquina), alinham-se coerentemente princípios de composição que
+    assimilam  
+
+    modelos contemporâneos. Projetos que vêm ainda a acolher programas
+    ornamentais nos  
+
+    interiores, tributários de alinhamentos neo pompeianos ou ilustrando léxicos
+    anglopalladianos  
+
+    codificados pelos irmãos Adams. 
+
+    Na radicalidade da afirmação linguística, na invocação das referências a
+    Andrea  
+
+    Palladio  em que se alimentou e enformou a sua identidade de arquiteto -  o
+    epíteto de  
+
+    neopalladiano é susceptível de traduzir o seu registo idiomático. Quando lhe
+    foi pedido um  
+
+    programa para a instalação do corte no Terrreio do Paço veio a produzir uma
+    apreciação  
+
+    contundente à arquitetura da reconstrução, no pressuposto do seu empirismo,
+    que declina uma  
+
+    gramática projetual de matriz seiscentista e no pragmatismo retardatário do
+    desenho dos engenheiros militares. No enquadramento taxativo das premissas
+    do Plano pombalino de 1758  
+
+    formatou-se o paradigma que impôs a estandardização e a supremacia da
+    intervenção  
+
+    territorial. A aplicação dos preceitos vitruvianos que criam a textura das
+    propostas  
+
+    neoclássicas não ocorreram e a vernacularidade revelou ser a sua marca de
+    água – 
+
+    argumentação que acerrimamente sustentou. Em contrapartida foi criticado, de
+    modo severo,  
+
+    pelas suas opções construtivas no Real Erário e pela escala colossal do
+    edifício, não sem  
+
+    mesmo revelar intransigente insensibilidade à sua reavaliação.  
+
+    A encomenda para o novo projeto do palácio da Ajuda (1802) provocou uma
+    fratura que  
+
+    exemplifica a incorporação do neoclassicismo nos programas de representação
+    da corte, sob o  
+
+    despotismo ilustrado de Rodrigo de Sousa Coutinho, 1.º conde de Linhares.
+    Com a adoção das  
+
+    novas linguagens que Costa e Silva e Francisco Xavier Fabri aportaram ao seu
+    desenho, pode  
+
+    aferir-se o patamar cosmopolita na dinâmica do establishement mariano. A
+    vincada obsessão  
+
+    de Costa e Silva pela monumentalidade que atravessou a sua trajetória, e em
+    que Caserta  
+
+    definia o arquétipo, pôde vazar-se nesta residência da corte (centro
+    simbólico que o  
+
+    Terramoto fizera elidir e se improvisara, em alternativa, na Real Barraca).
+    Com o acervo  
+
+    documental encontrado, revela-se a competência de atelier e a preparação
+    técnica derivada de  
+
+    uma aprendizagem académica, instrumentos que marcaram a diferença
+    profissional que  
+
+    soube, assim, instalar na cultura arquitetónica portuguesa – sendo,
+    consequentemente de  
+
+    lamentar que não chegasse a editar o seu anunciado tratado de “Arquitectura
+    matemática”. 
+
+    Sob a requisição do príncipe regente, a recuperar da turbulência provocada
+    pelas  
+
+    invasões francesas, vem a transferir-se para o Rio de Janeiro (1812), como
+    “arquitecto de  
+
+    todas as obras reais”, mas prioritariamente para acompanhar o acabamento do
+    Real Teatro da  
+
+    Ópera de São João. Edifício que manifesta como que uma clonagem do São
+    Carlos de Lisboa,  
+
+    a demonstrar ainda o esforço de metropolitização da agora capital do
+    império, e a querer  
+
+    afirmar-se como indicador de registo político e urbano. No largo do Rocio
+    onde se situava a  
+
+    Ópera deu ainda o risco para o elegante palacete para o poderoso barão de
+    Rio Seco,  
+
+    residência de prestígio e de aparato.  
+
+    Costa e Silva reuniu quer, uma excecional biblioteca, quer uma
+    extraordinária coleção  
+
+    de desenhos sobretudo de maneiristas italianos, - ambas, encontram-se hoje
+    na Biblioteca  
+
+    Nacional do Rio de Janeiro -, a certificarem a dimensão humanista de um
+    arquiteto que, de modo rigoroso e consistente, foi permeável à apropriação
+    do neoclassicismo, cujo modelos  
+
+    procurou disseminar em Portugal e no Brasil.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Teixeira
+      given: José de Monterroso
+  citation-key: teixeira:2013jose
+  event-place: Lisboa
+  genre: Tese (doutoramento) em História da Arte
+  issued:
+    - year: 2013
+      month: 4
+      day: 24
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade Aberta
+  publisher-place: Lisboa
+  source: repositorio.ual.pt
+  title: >-
+    José da Costa Silva (1747-1819) e a receção do neoclassicismo em Portugal: a
+    clivagem de discurso e a prática arquitetónica
+  title-short: José da Costa Silva e a receção do neoclassicismo em Portugal
+  type: thesis
+  URL: http://repositorio.ual.pt/handle/11144/305
+
 - id: temple:2011renovatio
   author:
     - family: Temple
@@ -19814,6 +21233,7 @@ references:
   citation-key: todi:1895
   issued:
     - year: 1895
+  license: Public domain
   source: Wikimedia Commons
   title: 'Todi: interno del Santuario di S. Maria della Consolazione'
   type: graphic
@@ -19942,6 +21362,28 @@ references:
       month: 6
       day: 20
   language: en-GB
+  license: >-
+    Authors who publish with this journal agree to the following terms:   
+    Authors retain copyright and grant the journal right of first publication
+    with the work simultaneously licensed under a  Creative Commons Attribution
+    License  that allows others to share the work with an acknowledgement of the
+    work's authorship and initial publication in this journal.  Authors are able
+    to enter into separate, additional contractual arrangements for the
+    non-exclusive distribution of the journal's published version of the work
+    (e.g., post it to an institutional repository or publish it in a book), with
+    an acknowledgement of its initial publication in this journal.  Authors are
+    permitted and encouraged to post their work online (e.g., in institutional
+    repositories or on their website) prior to and during the submission
+    process, as it can lead to productive exchanges, as well as earlier and
+    greater citation of published work (See  The Effect of Open Access ).  All
+    third-party images reproduced on this journal are shared under Educational
+    Fair Use. For more information on  Educational Fair Use , please see  this
+    useful checklist prepared by Columbia University Libraries .   All
+    copyright  of third-party content posted here for research purposes belongs
+    to its original owners.  Unless otherwise stated all references to
+    characters and comic art presented on this journal are ©, ® or ™ of their
+    respective owners. No challenge to any owner’s rights is intended or should
+    be inferred.
   number: '1'
   page: Art. 13
   publisher: Ubiquity Press
@@ -19970,6 +21412,7 @@ references:
   issued:
     - year: 2009
   language: pt-PT
+  license: openAccess
   publisher: Faculdade de Letras da Universidade de Coimbra
   source: estudogeral.uc.pt
   title: Urbanismo na composição de Portugal
@@ -20032,6 +21475,14 @@ references:
     - year: 2011
       month: 4
       day: 19
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Afro-Eurasia on the globe (grey) with borders
   title-short: Deutsch
@@ -20052,6 +21503,14 @@ references:
     - year: 2011
       month: 6
       day: 22
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: French Polynesia on the globe (French Polynesia centered)
   title-short: Deutsch
@@ -20072,6 +21531,14 @@ references:
     - year: 2011
       month: 4
       day: 26
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Kingdom of Denmark on the globe (Greenland centered)
   title-short: Deutsch
@@ -20092,6 +21559,14 @@ references:
     - year: 2011
       month: 5
       day: 6
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Kingdom of Denmark on the globe (Faroer special) (Europe centered)
   title-short: Deutsch
@@ -20112,6 +21587,14 @@ references:
     - year: 2011
       month: 5
       day: 6
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Maldives on the globe (Afro-Eurasia centered)
   title-short: Deutsch
@@ -20132,6 +21615,14 @@ references:
     - year: 2011
       month: 4
       day: 20
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Tajikistan on the globe (Eurasia centered)
   title-short: Deutsch
@@ -20152,6 +21643,14 @@ references:
     - year: 2011
       month: 8
       day: 30
+  license: >-
+    É concedida permissão para copiar, distribuir e/ou modificar este documento
+    nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
+    versão posterior publicada pela Free Software Foundation; sem Seções
+    Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma
+    cópia da licença na seção intitulada GNU Free Documentation
+    License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation
+    Licensetruetrue
   source: Wikimedia Commons
   title: Tunisia on the globe (North Africa centered)
   title-short: Deutsch
@@ -20169,6 +21668,9 @@ references:
     - family: Turner
       given: Jane
   citation-key: turner:1996dictionary
+  contributor:
+    - literal: Grove's Dictionaries
+    - literal: Internet Archive
   event-place: New York
   issued:
     - year: 1996
@@ -20307,6 +21809,25 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal_from_the_sky.jpg
 
+- id: underwood:1988pombaline
+  author:
+    - family: Underwood
+      given: David Kendrick
+  citation-key: underwood:1988pombaline
+  event-place: University Park, Penn.
+  genre: Dissertation (Ph.D. in History of Art)
+  issued:
+    - year: 1988
+      month: 1
+      day: 1
+  publisher: University of Pennsylvania
+  publisher-place: University Park, Penn.
+  title: >-
+    The Pombaline style and international neoclassicism in Lisbon and Rio de
+    Janeiro
+  type: thesis
+  URL: https://repository.upenn.edu/dissertations/AAI8824801
+
 - id: unidentified:1570
   accessed:
     - year: 2020
@@ -20346,6 +21867,27 @@ references:
   title: Analysing architecture
   type: book
 
+- id: unwin:2013analise
+  author:
+    - family: Unwin
+      given: Simon
+  call-number: NA2750 .U58 1997
+  citation-key: unwin:2013analise
+  edition: '3'
+  event-place: Porto Alegre
+  ISBN: 978-85-65837-81-1
+  issued:
+    - year: 2013
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  source: Library of Congress ISBN
+  title: A análise da arquitetura
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
 - id: urban:1861
   accessed:
     - year: 2020
@@ -20357,11 +21899,50 @@ references:
     - literal: >-
         entre 1861 e 1890 date
         QS:P,+1850-00-00T00:00:00Z/7,P1319,+1861-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9
+  license: Public domain
   source: Wikimedia Commons
   title: Urban map of the inner city of Beijing
   title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
+
+- id: valla:2012engenharia6
+  abstract: >-
+    A prática de intervenção dos portugueses nos diversos territórios como
+    África, Oriente levou à consolidação de teorias e de trocas de experiências
+    que se veio a reflectir na formação territorial do Brasil. As primeiras
+    ocupações deram-se na costa, com a construção de fortes e implantação
+    decidades construídas pelos arquitectos, mestre de obras ou fortificadores,
+    que seguiam os modelos urbanísticos das cidades portuguesas e as teorias
+    renascentistas que então circulavam na época adaptando-as aos locais de
+    implantação. O papel dos engenheiros militares, continuadores dessa prática,
+    formados nas escolas especializadas em teorias de fortificação, abrangeu
+    desde a construçãode sistemas de defesa cada vez mais complexos de acordo
+    com as novas tecnologias, ao levantamento de cidades e regiões que serviram
+    para o reconhecimento do território e demarcação de fronteiras, e ao
+    planeamento das inúmeras cidades novas construídas no século XVIII
+    querefletem a crescente racionalidade impressa no século das “luzes”.
+  accessed:
+    - year: 2013
+      month: 8
+      day: 27
+  author:
+    - family: Valla
+      given: Margarida
+  call-number: 711.034(81)
+  citation-key: valla:2012engenharia6
+  container-title: 'Anais: Seminário de História da Cidade e do Urbanismo'
+  issue: '3'
+  issued:
+    - year: 2012
+      month: 8
+      day: 1
+  language: pt-BR
+  source: www.anpur.org.br
+  title: A engenharia militar na construção da cidade
+  type: article-journal
+  URL: http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842
+  volume: '6'
 
 - id: vaneck:1998structure57
   abstract: >-
@@ -20496,6 +22077,7 @@ references:
       month: 6
       day: 1
   language: fr-FR
+  license: Copyright © 1989 Croatian Musicological Society
   page: 3-10
   source: JSTOR
   title: >-
@@ -20570,13 +22152,15 @@ references:
   citation-key: vermeulen:2010cityscape
   collection-title: Ricerche. Serie maior
   container-title: Changing landscapes, the impact of Roman towns in the Western Mediterranean
+  contributor:
+    - literal: Universidade de Évora
   editor:
     - family: Corsi
       given: Cristina
     - family: Vermeulen
       given: Frank
-  event: International colloquium, Castelo de Vide, Marvão, 15th-17th May, 2008
   event-place: Bologna
+  event-title: International colloquium, Castelo de Vide, Marvão, 15th-17th May, 2008
   ISBN: 978-88-7849-055-0
   issued:
     - year: 2010
@@ -20680,6 +22264,8 @@ references:
       dropping-particle: da
   call-number: '51548'
   citation-key: vignola:1602regola
+  contributor:
+    - literal: Getty Research Institute
   event-place: Roma
   issued:
     - year: 1602
@@ -20724,6 +22310,8 @@ references:
       given: 1507-1573
   call-number: '51548'
   citation-key: vignola:1602regolaa
+  contributor:
+    - literal: Getty Research Institute
   issued:
     - year: 1602
   language: ita
@@ -20883,6 +22471,7 @@ references:
   issued:
     - year: 1906
   language: fr
+  license: Public domain
   source: Wikimedia Commons
   title: "Carte postale ancienne éditée par J. Winling, éditeur à Charleville\_:CHARLEVILLE - Place Ducale (N°2)"
   type: graphic
@@ -20924,6 +22513,7 @@ references:
   citation-key: vinci:1492homem
   issued:
     - literal: cerca de 1492 date QS:P571,+1492-00-00T00:00:00Z/9,P1480,Q5727902
+  license: Public domain
   medium: desenhocaneta, tinta e wash  sobre papel
   source: Wikimedia Commons
   title: Homem Vitruviano
@@ -21013,6 +22603,31 @@ references:
     - literal: Vitruve
   call-number: '9927019110001551'
   citation-key: vitruve:1673dix
+  contributor:
+    - family: Scotin
+      given: G. (Gérard)
+    - family: Le Clerc
+      given: Sébastien
+    - family: Banck
+      given: Pieter
+      dropping-particle: van der
+    - family: Edelinck
+      given: Gérard
+    - family: Gantrel
+      given: Etienne
+    - family: Grignon
+      given: Jacques
+    - family: Le Pautre
+      given: Pierre
+    - family: Patigny
+      given: Jean
+    - family: Pitau
+      given: Nicolas
+    - family: Tournier
+      given: Georges
+    - family: Coignard
+      given: Jean Baptiste
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1673
@@ -21165,7 +22780,7 @@ references:
   issued:
     - year: 2006
   language: pt-PT
-  publisher: IST Press
+  publisher: <span class="smallcaps">IST</span> Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
   translator:
@@ -21206,6 +22821,7 @@ references:
     - year: 2008
       month: 11
       day: 2
+  license: All Rights Reserved
   medium: photo
   source: Flickr
   title: San Domenico di Fiesole, Badia Fiesolana
@@ -21224,6 +22840,7 @@ references:
   issued:
     - literal: 1858 ou avant
   language: fr-FR
+  license: Public domain
   source: Wikimedia Commons
   title: >-
     Vue et plan de la ville de Yeddo au Japon. Hors-texte du livre "Notes sur le
@@ -21268,6 +22885,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1914
+  license: Public domain
   publisher: Karl Baedeker, p. 290 f.
   publisher-place: Leipzig
   scale: >-
@@ -21408,6 +23026,8 @@ references:
       given: William Henry
   call-number: AAK-1408
   citation-key: ward:1911architecture
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1911
@@ -21436,6 +23056,8 @@ references:
       given: William Henry
   call-number: AAK-1408
   citation-key: ward:1911architecture1
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1911
@@ -21464,6 +23086,8 @@ references:
       given: William Henry
   call-number: AAK-1408
   citation-key: ward:1911architecture2
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1911
@@ -21550,6 +23174,31 @@ references:
   title: A history of Western architecture
   type: book
   URL: http://archive.org/details/historyofwestern0000watk_y0h2
+
+- id: watson:1908portuguese
+  abstract: '"Books consulted": p. 272'
+  accessed:
+    - year: 2019
+      month: 9
+      day: 8
+  author:
+    - family: Watson
+      given: Walter Crum
+  call-number: '9926166180001551'
+  citation-key: watson:1908portuguese
+  contributor:
+    - literal: Getty Research Institute
+  event-place: London
+  issued:
+    - year: 1908
+  language: en
+  number-of-pages: '419'
+  publisher: A. Constable and company, ltd.
+  publisher-place: London
+  source: Internet Archive
+  title: Portuguese architecture
+  type: book
+  URL: http://archive.org/details/gri_33125000280996
 
 - id: wendland:2007traditional1
   accessed:
@@ -21710,6 +23359,7 @@ references:
       month: 3
       day: 7
   language: pt
+  license: Creative Commons Attribution-ShareAlike License
   source: Wikipedia
   title: Pequena Idade do Gelo
   type: entry-encyclopedia
@@ -21728,6 +23378,7 @@ references:
     - year: 2007
       month: 6
       day: 9
+  license: Public domain
   source: Wikimedia Commons
   title: Daidairi of Heiankyo, Ancient Japanese Capital. 平安京大内裏復元模型（平安京創生館）
   type: graphic
@@ -21857,15 +23508,15 @@ references:
     - family: Wittkower
       given: Rudolf
   citation-key: wittkower:1973art
+  collection-title: Pelican History of Art
   event-place: Harmondsworth, Middlesex
   issued:
     - year: 1973
   language: en-GB
-  publisher: Penguin Books
+  publisher: Penguin
   publisher-place: Harmondsworth, Middlesex
   source: Open WorldCat
-  title: 'Art and architecture in Italy: 1600 to 1750'
-  title-short: Art and architecture in Italy
+  title: Art and architecture in Italy 1600–1750
   type: book
 
 - id: wittkower:1974gothic
@@ -22185,6 +23836,7 @@ references:
     - year: 2006
       month: 12
       day: 29
+  license: All Rights Reserved
   medium: photo
   source: Flickr
   title: Master-of-nets Garden, Suzhou, China
@@ -22202,6 +23854,7 @@ references:
       given: Unknown佚名 After Qiu
   citation-key: yingfangchouying:river
   dimensions: 34.8 x 804.2 cm
+  license: Public domain
   medium: Handscroll, ink and colors on silk
   source: Wikimedia Commons
   title: Along the River During the Qingming Festival (Suzhou Imitation)「蘇州片」清明上河圖
@@ -22221,6 +23874,7 @@ references:
   citation-key: yumoto:1895heian
   issued:
     - year: 1895
+  license: Public domain
   source: Wikimedia Commons
   title: 平安京旧址実測全図
   type: graphic
@@ -22325,6 +23979,9 @@ references:
       day: 6
   archive: http://diq.wikipedia.org/wiki/Image:Sima_Qian_%28painted_portrait%29.jpg
   citation-key: zazapress:sima
+  contributor:
+    - literal: ZazaPress
+  license: Public domain
   source: Wikimedia Commons
   title: Sima Qian
   type: graphic
@@ -22390,6 +24047,7 @@ references:
   citation-key: zenz:1457plan
   issued:
     - year: 1457
+  license: Public domain
   source: Wikimedia Commons
   title: Plan der Idealstadt Sforzinda, 1457
   type: graphic
@@ -22422,6 +24080,7 @@ references:
   issued:
     - literal: 12th century
   language: English
+  license: Public domain
   medium: tinta e cor  sobre seda
   source: Wikimedia Commons
   title: Along the River During the Qingming Festival = 清明上河图
@@ -22442,6 +24101,7 @@ references:
   issued:
     - literal: 10th century
   language: English
+  license: Public domain
   source: Wikimedia Commons
   title: United by Music
   type: graphic
@@ -22484,6 +24144,7 @@ references:
   issued:
     - literal: 15--
   language: Portuguese
+  license: Public domain
   medium: Rolo suspenso, tinta e cor  sobre seda
   source: Wikimedia Commons
   title: Retrato de um administrador na frente da Cidade Proibida
@@ -22535,6 +24196,7 @@ references:
     QS:P2048,57U174728;P2049,87U174728
   issued:
     - literal: primeira metade de século XVIII date QS:P571,+1750-00-00T00:00:00Z/7
+  license: Public domain
   medium: Óleo sobre telamedium QS:P186,Q296955;P186,Q12321255,P518,Q861259
   source: Wikimedia Commons
   title: The Piazza della Signoria in Florence
@@ -22619,6 +24281,7 @@ references:
   citation-key: zulu:1903
   issued:
     - year: 1903
+  license: Public domain
   source: Wikimedia Commons
   title: A Zulu kraal in South Africa
   type: graphic
@@ -22662,6 +24325,7 @@ references:
       month: 12
       day: 1
   language: en-GB
+  license: Copyright © 1953 College Art Association
   page: 302-306
   source: JSTOR
   title: The "aesthetics" of the early mannerists
