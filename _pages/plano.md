@@ -16,20 +16,6 @@ header:
   actions:
   - label: "Programa e cronograma"
     url  : "/"
-
-sidebar:
-- text: |
-    <div itemscope="" itemtype="https://schema.org/Person">
-    <div class="author__avatar">
-    <img src="" alt="Carlos Henrique" itemprop="image" />
-    </div>
-    <div class="author__content">
-    <h3 class="author__name" itemprop="name">Carlos Henrique Magalhães de Lima</h3>
-    <div class="author__bio" itemprop="description">
-    <p>Professor adjunto</p>
-    </div>
-    </div>
-    </div>
 ---
 
 # Antes de começar #

@@ -185,20 +185,6 @@ trabalho3:
     url       : "/trabalho/wikipedia/"
     btn_label : "Entrega 15 de setembro"
     btn_class : "btn btn--inverse btn--small"
-
-sidebar:
-- text: |
-    <div itemscope="" itemtype="https://schema.org/Person">
-    <div class="author__avatar">
-    <img src="" alt="Carlos Henrique" itemprop="image" />
-    </div>
-    <div class="author__content">
-    <h3 class="author__name" itemprop="name">Carlos Henrique Magalhães de Lima</h3>
-    <div class="author__bio" itemprop="description">
-    <p>Professor adjunto</p>
-    </div>
-    </div>
-    </div>
 ---
 
 # Unidade I · Cidades e redes na fundação do mundo moderno #
