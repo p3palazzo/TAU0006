@@ -923,7 +923,9 @@ references:
     - literal: Architas
   citation-key: architas:2018santivo
   issued:
-    - literal: 2018-03-04, 21:24:38
+    - year: 2018
+      month: 3
+      day: 4
   language: en
   source: Wikimedia Commons
   title: Sant'Ivo alla Sapienza (Roma) Dome interior
@@ -1164,6 +1166,7 @@ references:
       month: 9
       day: 6
   language: en
+  note: 'ZSCC: NoCitationData[s0]'
   source: Vimeo
   title: Venezia
   type: motion_picture
@@ -2117,7 +2120,7 @@ references:
   license: Copyright © 1990 IRSA s.c.
   page: 9-21
   source: JSTOR
-  title: Jan Białostocki, Formalism, and Iconology
+  title: Jan Białostocki, formalism, and iconology
   type: article-journal
   URL: http://www.jstor.org/stable/1483396
   volume: '11'
@@ -2247,13 +2250,13 @@ references:
   URL: >-
     https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/
 
-- id: 'bird''s:'
+- id: 'birds:'
   accessed:
     - year: 2020
       month: 10
       day: 15
   archive: The Arthur M. Sackler Gallery
-  citation-key: 'bird''s:'
+  citation-key: 'birds:'
   dimensions: 52.8 x 34.4 cm
   license: Public domain
   medium: Opaque watercolor and ink on paper
@@ -2885,9 +2888,9 @@ references:
   URL: http://www.jstor.org/stable/2871691
   volume: '1'
 
-- id: bresc-bautier:2016histoire
+- id: brescbautier:2016histoire
   call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2016-241820
-  citation-key: bresc-bautier:2016histoire
+  citation-key: brescbautier:2016histoire
   editor:
     - family: Bresc-Bautier
       given: Geneviève
@@ -2997,7 +3000,7 @@ references:
     - year: 1982
   language: en
   page: 379-404
-  title: 'The Classic Is the Baroque: On the Principle of Wölfflin’s Art History'
+  title: 'The classic is the baroque: on the principle of Wölfflin’s art history'
   type: article-journal
   volume: '9'
 
@@ -3294,7 +3297,7 @@ references:
   title-short: Architecture
   type: book
 
-- id: campbell:1715vitruvius
+- id: campbell:1715vitruviusa
   abstract: >-
     ETH-Bibliothek (NEBIS). Campbell, Colin: Vitruvius Britannicus, or, the
     British architect : containing the plans, elevations, and sections of the
@@ -3308,7 +3311,7 @@ references:
   author:
     - family: Campbell
       given: Colen
-  citation-key: campbell:1715vitruvius
+  citation-key: campbell:1715vitruviusa
   event-place: London
   issued:
     - year: 1715
@@ -3448,6 +3451,30 @@ references:
     https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_Grand_Canal_-_Looking_from_Palazzo_Balbi_-_WGA03875.jpg
 
 - id: canaletto:1730campo
+  accessed:
+    - year: 2020
+      month: 8
+      day: 23
+  archive: Coleção particular
+  author:
+    - family: Canaletto
+      given: Giovanni Antonio Canal
+      dropping-particle: detto il
+  citation-key: canaletto:1730campo
+  dimensions: 'Altura: 46,0 cm; Largura: 77,0 cm'
+  issued:
+    - year: 1730
+      circa: true
+    - year: 1760
+  language: it
+  license: Public domain
+  medium: Óleo sobre tela
+  source: Wikimedia Commons
+  title: Il Campo e la Chiesa di San Francesco della Vigna
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Canaletto_(II)_009.jpg
+
+- id: canaletto:1730campoa
   abstract: >-
     This square near the Teatro La Fenice is little changed today, except for
     the loss of the campanile and the church of Sant’Angelo Michele, destroyed
@@ -3463,7 +3490,7 @@ references:
     - family: Canaletto
       given: Giovanni Antonio Canal
       dropping-particle: detto il
-  citation-key: canaletto:1730campo
+  citation-key: canaletto:1730campoa
   issued:
     - year: 1730
       circa: true
@@ -3471,30 +3498,6 @@ references:
   title: Campo Sant'Angelo
   type: graphic
   URL: https://www.metmuseum.org/art/collection/search/438103
-
-- id: canaletto:1730campoa
-  accessed:
-    - year: 2020
-      month: 8
-      day: 23
-  archive: Coleção particular
-  author:
-    - family: Canaletto
-      given: Giovanni Antonio Canal
-      dropping-particle: detto il
-  citation-key: canaletto:1730campoa
-  dimensions: 'Altura: 46,0 cm; Largura: 77,0 cm'
-  issued:
-    - year: 1730
-      circa: true
-    - year: 1760
-  language: it
-  license: Public domain
-  medium: Óleo sobre tela
-  source: Wikimedia Commons
-  title: Il Campo e la Chiesa di San Francesco della Vigna
-  type: graphic
-  URL: https://commons.wikimedia.org/wiki/File:Canaletto_(II)_009.jpg
 
 - id: canaletto:1730piazza
   accessed:
@@ -4035,6 +4038,14 @@ references:
       given: William
   call-number: '39088005973763'
   citation-key: chambers:1757designs
+  contributor:
+    - family: Fourdrinier
+      given: P.
+    - family: Grignion
+      given: Charles
+    - family: Sandby
+      given: Paul
+    - literal: Smithsonian Libraries
   event-place: London
   issued:
     - year: 1757
@@ -5412,12 +5423,12 @@ references:
   URL: http://www.jstor.org/stable/1424604
   volume: '36'
 
-- id: crossmediagroup:2020sagrestia
+- id: crossmedia:2020sagrestia
   accessed:
     - year: 2020
       month: 9
       day: 8
-  citation-key: crossmediagroup:2020sagrestia
+  citation-key: crossmedia:2020sagrestia
   dimensions: '2:46'
   director:
     - literal: Crossmedia Group
@@ -5803,7 +5814,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Vallardi_-_Siena.jpg
 
-- id: descouens:2012ca'rezzonico
+- id: descouens:2012carezzonico
   accessed:
     - year: 2020
       month: 8
@@ -5812,7 +5823,7 @@ references:
   author:
     - family: Descouens
       given: Didier
-  citation-key: descouens:2012ca'rezzonico
+  citation-key: descouens:2012carezzonico
   issued:
     - year: 2012
       month: 5
@@ -6012,7 +6023,7 @@ references:
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
 
-- id: di:2019low-costXLII-2W17
+- id: di:2019low-costxlii-2w17
   abstract: >-
     Abstract. The paper aims to investigate the potential inherent in a FOSS
     (Free and Open Source Software) approach for the 4D BIM modelling using
@@ -6044,7 +6055,7 @@ references:
       given: D.
     - family: Abita
       given: M.
-  citation-key: di:2019low-costXLII-2W17
+  citation-key: di:2019low-costxlii-2w17
   container-title: >-
     ISPRS - International Archives of the Photogrammetry, Remote Sensing and
     Spatial Information Sciences
@@ -6327,7 +6338,7 @@ references:
   type: webpage
   URL: https://megaconstrucciones.net/en/ducal-palace-urbino/
 
-- id: ducciodibuoninsegna:1308anunciacao
+- id: duccio:1308anunciacao
   accessed:
     - year: 2020
       month: 9
@@ -6335,7 +6346,7 @@ references:
   archive: National Gallery
   author:
     - literal: Duccio di Buoninsegna
-  citation-key: ducciodibuoninsegna:1308anunciacao
+  citation-key: duccio:1308anunciacao
   dimensions: 43,0 × 44,0 cm
   issued:
     - literal: de 1308 a 1311
@@ -6542,14 +6553,14 @@ references:
   URL: >-
     https://www.dreamstime.com/royalty-free-stock-photos-aerial-photographs-village-niger-africa-image7924848
 
-- id: ecolefrancaisexivesiecle:jonas
+- id: ecole:jonas
   accessed:
     - year: 2020
       month: 9
       day: 7
   author:
     - literal: École française du XIVe siècle
-  citation-key: ecolefrancaisexivesiecle:jonas
+  citation-key: ecole:jonas
   language: French
   license: Public domain
   medium: Enluminure de la Bible de Jean XXII
@@ -6619,7 +6630,7 @@ references:
   URL: http://www.jstor.org/stable/870245
   volume: '92'
 
-- id: emilia.:2018
+- id: emilia:2018
   abstract: >-
     For over 2000 years, it has been connecting Piacenza to Rimini through
     Emilia Romagna. It is the Via Aemilia, the noblest of the ancient streets of
@@ -6628,7 +6639,7 @@ references:
     - year: 2020
       month: 9
       day: 12
-  citation-key: emilia.:2018
+  citation-key: emilia:2018
   container-title: Travel Emilia Romagna
   issued:
     - year: 2018
@@ -6825,7 +6836,7 @@ references:
   title: The Cambridge history of Africa c. 1050 to c. 1600
   type: book
 
-- id: fan:1000Xi
+- id: fan:1000xishanhanglu
   accessed:
     - year: 2020
       month: 9
@@ -6834,7 +6845,7 @@ references:
   author:
     - family: Fan
       given: Kuan
-  citation-key: fan:1000Xi
+  citation-key: fan:1000xishanhanglu
   dimensions: 206,3 × 103,3 cm
   issued:
     - year: 1000
@@ -6962,6 +6973,7 @@ references:
     - year: 2020
       month: 3
       day: 28
+  note: 'ZSCC: NoCitationData[s0]'
   producer:
     - family: Conti
       given: Leonardo
@@ -7248,10 +7260,32 @@ references:
   URL: https://commons.wikimedia.org/wiki/File:Casa_Sancta_Lauretana.jpg?uselang=it
 
 - id: fleisher:2012finding29
+  abstract: >-
+    The development of the Swahili world involved new ways of organizing and
+    conceiving of space. Archaeology and historical linguistics are both crucial
+    in charting the trajectory of changing spatial practice during the late
+    first and early second millennium ad, yet their respective datasets have
+    been correlated only in specific and restricted ways. In this paper, we take
+    the first steps toward working between archaeological and historical
+    linguistic data to understand the changing contexts and meanings of Swahili
+    spatial practice. We develop this argument in three parts. First, we review
+    archaeological approaches to space in the Swahili world and develop a
+    holistic view of towns, including both confined and delimited space. Second,
+    we offer an archaeologists’ perspective on the development of historical
+    linguistics in relation to the Swahili world, exploring the changing
+    relationship between linguistics and archaeology and arguing for a greater
+    appreciation of context in how archaeological materials are deployed with
+    linguistic data. Finally, drawing on new data from Songo Mnara, a
+    fourteenth–sixteenth-century Swahili town on the southern Tanzania coast, we
+    make a preliminary attempt to reconcile some aspects of the archaeological
+    and linguistic datasets. Using published lexical innovations, we suggest
+    ways that meaning might be found alternatively in archaeological and
+    linguistic data. Our hope is to make some tentative steps toward a mutually
+    satisfying way of working between disciplines.
   accessed:
-    - year: 2020
-      month: 8
-      day: 6
+    - year: 2022
+      month: 10
+      day: 19
   author:
     - family: Fleisher
       given: Jeffrey
@@ -7261,17 +7295,18 @@ references:
   container-title: African Archaeological Review
   container-title-short: Afr Archaeol Rev
   DOI: 10.1007/s10437-012-9121-0
-  ISSN: 0263-0338, 1572-9842
-  issue: 2-3
+  ISSN: 1572-9842
+  issue: '2'
   issued:
     - year: 2012
       month: 9
+      day: 1
   language: en
   page: 171-207
-  source: DOI.org (Crossref)
+  source: Springer Link
   title: Finding meaning in ancient Swahili spatial practices
   type: article-journal
-  URL: http://link.springer.com/10.1007/s10437-012-9121-0
+  URL: https://doi.org/10.1007/s10437-012-9121-0
   volume: '29'
 
 - id: fleisher:2014complexity35
@@ -7549,6 +7584,16 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1728engenheiro1
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
+    - literal: Clérigos Regulares de São Caetano.
   event-place: Lisboa Occidental
   issued:
     - year: 1728
@@ -7567,6 +7612,16 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1729engenheiro2
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
+    - literal: Clérigos Regulares de São Caetano.
   event-place: Lisboa Occidental
   issued:
     - year: 1729
@@ -7579,7 +7634,7 @@ references:
   type: book
   volume: '2'
 
-- id: fraangelico:1442anunciacao
+- id: fra:1442anunciacao
   accessed:
     - year: 2020
       month: 9
@@ -7589,7 +7644,7 @@ references:
     - family: Fra Angelico
       given: Giovanni da Fiesole
       suffix: dito
-  citation-key: fraangelico:1442anunciacao
+  citation-key: fra:1442anunciacao
   dimensions: 230,0 × 321,0 cm
   issued:
     - literal: entre 1442 e 1443
@@ -7602,7 +7657,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Annunciation_-_WGA00555.jpg
 
-- id: fracarnevale:1480citta
+- id: fra:1480citta
   accessed:
     - year: 2020
       month: 8
@@ -7610,7 +7665,7 @@ references:
   archive: Walters Art Museum
   author:
     - literal: Fra Carnevale
-  citation-key: fracarnevale:1480citta
+  citation-key: fra:1480citta
   dimensions: 104,14 × 243,84 cm
   issued:
     - year: 1480
@@ -7725,7 +7780,7 @@ references:
   issued:
     - year: 1968
   language: en-US
-  publisher: <span class="smallcaps">MIT</span> Press
+  publisher: <span smallcaps="smallcaps">mit</span> Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
   title: >-
@@ -8087,7 +8142,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Accusing_the_anointers_in_the_great_plague_of_Milan_in_1630;_Wellcome_V0010581.jpg
 
-- id: garcia-pulido:2004imagenLXXVII
+- id: garcia-pulido:2004imagenlxxvii
   abstract: >-
     [ES] Las representaciones iconográficas de una ciudad son siempre un valioso
     testimonio que, cotejado y completado con otros documentos, permiten
@@ -8110,7 +8165,7 @@ references:
       given: Luis José
     - family: Orihuela
       given: Antonio
-  citation-key: garcia-pulido:2004imagenLXXVII
+  citation-key: garcia-pulido:2004imagenlxxvii
   container-title: Archivo Español de Arte
   ISSN: 0004-0428
   issue: '307'
@@ -8129,7 +8184,7 @@ references:
   URL: https://digital.csic.es/handle/10261/12784
   volume: LXXVII
 
-- id: garcia-pulido:2005nuevasLXXVIII
+- id: garcia-pulido:2005nuevaslxxviii
   abstract: >-
     [ES] La Granada nazarí fue rendida mediante una larga guerra de desgaste.
     Para culminar esta empresa, los Reyes Católicos establecieron a los largo de
@@ -8152,7 +8207,7 @@ references:
       given: Luis José
     - family: Orihuela
       given: Antonio
-  citation-key: garcia-pulido:2005nuevasLXXVIII
+  citation-key: garcia-pulido:2005nuevaslxxviii
   container-title: Archivo Español de Arte
   ISSN: 0004-0428
   issue: '309'
@@ -8712,7 +8767,7 @@ references:
   type: article-journal
   URL: http://dome.mit.edu/handle/1721.3/126105
 
-- id: giottodibondone:1304pentecostes
+- id: giotto:1304pentecostes
   accessed:
     - year: 2020
       month: 9
@@ -8720,7 +8775,7 @@ references:
   archive: Cappella degli Scrovegni
   author:
     - literal: Giotto di Bondone
-  citation-key: giottodibondone:1304pentecostes
+  citation-key: giotto:1304pentecostes
   issued:
     - year: 1304
     - year: 1306
@@ -8733,7 +8788,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-39-_-_Pentecost.jpg
 
-- id: giottodibondone:1310cristo
+- id: giotto:1310cristo
   accessed:
     - year: 2020
       month: 9
@@ -8741,7 +8796,7 @@ references:
   archive: Basílica inferior de S. Francisco de Assis
   author:
     - literal: Giotto di Bondone
-  citation-key: giottodibondone:1310cristo
+  citation-key: giotto:1310cristo
   issued:
     - literal: década de 1310
   language: Portuguese
@@ -9013,7 +9068,7 @@ references:
     - family: Casale
       given: Andrea
   citation-key: guadagnoli:2021parametric14
-  container-title: DISEGNARECON
+  container-title: <span class="smallcaps">DISEGNARECON</span>
   DOI: 10.20365/disegnarecon.26.2021.7
   ISSN: 1828-5961
   issue: '26'
@@ -9076,7 +9131,7 @@ references:
   URL: >-
     https://www.dreamstime.com/stock-photo-santa-maria-novella-church-inside-view-florence-italy-image60042066
 
-- id: guo:1072Zao
+- id: guo:1072zaochuntu
   accessed:
     - year: 2020
       month: 9
@@ -9085,7 +9140,7 @@ references:
   author:
     - family: Guo
       given: Xi
-  citation-key: guo:1072Zao
+  citation-key: guo:1072zaochuntu
   dimensions: 158,3 × 108,1 cm
   issued:
     - year: 1072
@@ -9750,7 +9805,7 @@ references:
     building design
   title-short: J.n.l. durand's architectural theory
   type: article-journal
-  URL: https://www.jstor.org/stable/1566963?origin=crossref
+  URL: https://www.jstor.org/stable/1566963
   volume: '12'
 
 - id: herrmann:1958antoine40
@@ -9874,6 +9929,24 @@ references:
   title: Islamic art and architecture
   type: book
 
+- id: himejihan:1806himejijoshitaezu
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  archive: 姫路城下絵図
+  author:
+    - literal: 姫路藩
+  citation-key: himejihan:1806himejijoshitaezu
+  issued:
+    - year: 1806
+  license: Public domain
+  source: Wikimedia Commons
+  title: 姫路城下絵図
+  title-short: 日本語
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg
+
 - id: history:2018
   abstract: >-
     The history of the Sultanate of Malacca every year (1402-1528). From its
@@ -9908,7 +9981,7 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=I4edQj1V_J4
 
-- id: hondiusii:1641nova
+- id: hondius:1641nova
   accessed:
     - year: 2020
       month: 7
@@ -9917,7 +9990,7 @@ references:
   author:
     - family: Hondius II
       given: Henricus
-  citation-key: hondiusii:1641nova
+  citation-key: hondius:1641nova
   issued:
     - literal: >-
         before 1641 date
@@ -10052,7 +10125,7 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S0278416508000585
   volume: '28'
 
-- id: huffman:2011khami9
+- id: huffman:2011khami
   accessed:
     - year: 2020
       month: 7
@@ -10063,7 +10136,7 @@ references:
     - family: Piesanie
       given: Justin
       non-dropping-particle: du
-  citation-key: huffman:2011khami9
+  citation-key: huffman:2011khami
   container-title: Journal of African Archaeology
   container-title-short: JAA
   DOI: 10.3213/2191-5784-10197
@@ -10075,7 +10148,7 @@ references:
   language: en
   page: 189-206
   source: DOI.org (Crossref)
-  title: Khami and the Venda in the Mapungubwe Landscape
+  title: Khami and the Venda in the Mapungubwe landscape
   type: article-journal
   URL: https://brill.com/abstract/journals/jaa/9/2/article-p189_5.xml
   volume: '9'
@@ -10450,24 +10523,6 @@ references:
   title: Yingzao Fashi 1
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Yingzao_Fashi_1_desmear.JPG
-
-- id: jilufan:1806Ji
-  accessed:
-    - year: 2020
-      month: 9
-      day: 12
-  archive: 姫路城下絵図
-  author:
-    - literal: 姫路藩
-  citation-key: jilufan:1806Ji
-  issued:
-    - year: 1806
-  license: Public domain
-  source: Wikimedia Commons
-  title: 姫路城下絵図
-  title-short: 日本語
-  type: graphic
-  URL: https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg
 
 - id: jiroch:2019walk
   abstract: >-
@@ -10878,7 +10933,7 @@ references:
   title: Three revolutionary architects, Boullée, Ledoux, and Lequeu
   type: book
 
-- id: keete37:2014interior
+- id: keete:2014interior
   accessed:
     - year: 2020
       month: 9
@@ -10886,7 +10941,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Keete 37
-  citation-key: keete37:2014interior
+  citation-key: keete:2014interior
   issued:
     - year: 2014
       month: 9
@@ -11186,7 +11241,7 @@ references:
   title: A apreensão da forma da cidade
   type: book
 
-- id: konsek:2016shophouses.
+- id: konsek:2016shophouses
   accessed:
     - year: 2020
       month: 8
@@ -11195,7 +11250,7 @@ references:
   author:
     - family: Konsek
       given: Marcin
-  citation-key: konsek:2016shophouses.
+  citation-key: konsek:2016shophouses
   issued:
     - year: 2016
       month: 2
@@ -11412,7 +11467,7 @@ references:
   event-place: London
   issued:
     - year: 1959
-  language: English
+  language: en
   number-of-pages: '676'
   publisher: Penguin
   publisher-place: London
@@ -11539,6 +11594,8 @@ references:
       given: Marc-Antoine
   call-number: '270792'
   citation-key: laugier:1753essai
+  contributor:
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1753
@@ -11574,6 +11631,11 @@ references:
       given: Marc-Antoine
   call-number: '9579'
   citation-key: laugier:1755essai
+  contributor:
+    - family: Duchesne
+      given: Nicolas-Bonaventure
+    - family: Fonbonne
+      given: Anne
   edition: 2^e^ éd.
   event-place: Paris
   issued:
@@ -11771,7 +11833,7 @@ references:
     http://periodicos.unievangelica.edu.br/index.php/revistajuridica/article/view/597
   volume: '9'
 
-- id: leonardovinci:1466argano
+- id: leonardo:1466argano
   accessed:
     - year: 2020
       month: 9
@@ -11779,7 +11841,7 @@ references:
   archive: 'book: Elena Capretti, Brunelleschi, 2001.'
   author:
     - literal: Leonardo da Vinci
-  citation-key: leonardovinci:1466argano
+  citation-key: leonardo:1466argano
   issued:
     - year: 1466
       circa: true
@@ -11793,7 +11855,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_argano_a_tre_velocit%C3%A0_di_Brunelleschi,_1480_circa,_biblioteca_ambrosiana,_CA,_c._1083_v.jpg
 
-- id: leonardovinci:1466gru
+- id: leonardo:1466gru
   accessed:
     - year: 2020
       month: 9
@@ -11801,7 +11863,7 @@ references:
   archive: 'book: Elena Capretti, Brunelleschi, 2001.'
   author:
     - literal: Leonardo da Vinci
-  citation-key: leonardovinci:1466gru
+  citation-key: leonardo:1466gru
   issued:
     - year: 1466
       circa: true
@@ -11813,7 +11875,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_gru_girevole_di_brunelleschi,_codice_ambrosiano_CA,_c._965_r.jpg
 
-- id: leonardovinci:1472anunciacao
+- id: leonardo:1472anunciacao
   accessed:
     - year: 2020
       month: 9
@@ -11821,7 +11883,7 @@ references:
   archive: Galleria Uffizi
   author:
     - literal: Leonardo da Vinci
-  citation-key: leonardovinci:1472anunciacao
+  citation-key: leonardo:1472anunciacao
   dimensions: 98,0 × 217,0 cm
   issued:
     - year: 1472
@@ -11833,7 +11895,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo).jpg
 
-- id: leonardovinci:1492homem
+- id: leonardo:1492homem
   accessed:
     - year: 2020
       month: 8
@@ -11841,7 +11903,7 @@ references:
   archive: Accademia
   author:
     - literal: Leonardo da Vinci
-  citation-key: leonardovinci:1492homem
+  citation-key: leonardo:1492homem
   issued:
     - year: 1492
       circa: true
@@ -12071,7 +12133,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Li_Cheng._Buddhist_Temple_in_Mountain._Nelson-Atkins_museum_of_art.jpg
 
-- id: li:1124Wan
+- id: li:1124wanhesongfeng
   accessed:
     - year: 2020
       month: 9
@@ -12080,7 +12142,7 @@ references:
   author:
     - family: Li
       given: Tang
-  citation-key: li:1124Wan
+  citation-key: li:1124wanhesongfeng
   dimensions: 188,7 × 139,8 cm
   issued:
     - year: 1124
@@ -12628,9 +12690,9 @@ references:
   page: 77-95
   source: DOI.org (Crossref)
   title: >-
-    Hidden in Plain Sight: The "Pietre di Paragone" and the Preeminence of
-    Medieval Measurements in Communal Italy
-  title-short: Hidden in Plain Sight
+    Hidden in plain sight: the "pietre di paragone" and the preeminence of
+    medieval measurements in communal Italy
+  title-short: Hidden in plain sight
   type: article-journal
   URL: https://www.journals.uchicago.edu/doi/10.2307/41550540
   volume: '49'
@@ -12735,7 +12797,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Clevelandart_1961.421.1.jpg
 
-- id: ma:late12th-early13thcenturyGao
+- id: ma:late12th-early13thcenturygaoshiguanputu
   accessed:
     - year: 2020
       month: 9
@@ -12744,7 +12806,7 @@ references:
   author:
     - family: Ma
       given: Yuan
-  citation-key: ma:late12th-early13thcenturyGao
+  citation-key: ma:late12th-early13thcenturygaoshiguanputu
   dimensions: 'Image: 9 7/8 × 10 1/4 in. (25.1 × 26 cm)'
   issued:
     - literal: late 12th–early 13th century
@@ -13368,6 +13430,7 @@ references:
   dimensions: 680,0 × 475,0 cm
   issued:
     - year: 1427
+  language: it
   license: Public domain
   medium: afresco
   source: Wikimedia Commons
@@ -13429,6 +13492,7 @@ references:
   citation-key: matrakci:1533istanbul
   issued:
     - year: 1533
+  language: tr
   license: Public domain
   source: Wikimedia Commons
   title: İstanbul ve Galata betimlemesi
@@ -13817,6 +13881,7 @@ references:
   contributor:
     - family: Antolini
       given: Giovanni Antonio
+    - literal: Getty Research Institute
   event-place: Milano
   issued:
     - year: 1832
@@ -13841,12 +13906,13 @@ references:
   citation-key: miller:1887tabula
   issued:
     - year: 1887
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: >-
     Tabula Peutingeriana, 1-4th century CE. Facsimile edition by Konrad Miller,
     1887/1888
-  title-short: English
+  title-short: Tabula Peutingeriana
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg
 
@@ -13921,10 +13987,10 @@ references:
   citation-key: mingzhi:1875inner
   issued:
     - literal: entre 1875 e 1887
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Inner and outer city of Beijing
-  title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1875_by_Li_Mingzhi.jpg
 
@@ -14622,12 +14688,12 @@ references:
   title-short: A cidade na história
   type: book
 
-- id: muratori:1959studiIX
+- id: muratori:1959studiix
   abstract: Quadro generale dalle origini agli sviluppi attuali
   author:
     - family: Muratori
       given: Saverio
-  citation-key: muratori:1959studiIX
+  citation-key: muratori:1959studiix
   container-title: Palladio
   issue: 3–4
   issued:
@@ -15033,46 +15099,6 @@ references:
 
 - id: nalli:2020firenze
   abstract: >-
-    Piazza della Santissima Annunziata si trova nel centro storico a pochi passi
-    dal duomo.  Il monumento più importante della piazza è la basilica della
-    Santissima Annunziata, uno degli edifici sacri più importanti di Firenze.
-
-    Al centro della piazza si trova il monumento equestre a Ferdinando I de'
-    Medici, di Giambologna e Pietro Tacca, mentre più arretrate, in posizione
-    simmetrica, sono collocate le due fontane dei mostri marini, capolavoro del
-    Tacca e della scultura manierista in generale. 
-
-
-    Qui il link del video della Basilica della Santissima Annunziata:
-
-    https://youtu.be/crI3G9qovdI
-
-
-    Fonte Wikipedia: https://it.wikipedia.org/wiki/Piazza_...
-
-
-    Filmato con Sony RX10M3 in 4K.
-
-
-    #firenze #florence #florencia
-  accessed:
-    - year: 2020
-      month: 9
-      day: 28
-  citation-key: nalli:2020firenze
-  dimensions: '5:34'
-  director:
-    - family: Nalli
-      given: Massimo
-  issued:
-    - year: 2020
-  source: YouTube
-  title: FIRENZE - Piazza della Santissima Annunziata
-  type: motion_picture
-  URL: https://www.youtube.com/watch?v=WqSDHiRS12E
-
-- id: nalli:2020firenzea
-  abstract: >-
     La basilica è situata nel quartiere dell'Oltrarno, la parte sud del centro
     storico.  La sua facciata è molto semplice,  ma è da ricordare che è stata
     progettata da Filippo Brunelleschi nel 1434.
@@ -15111,7 +15137,7 @@ references:
     - year: 2020
       month: 9
       day: 28
-  citation-key: nalli:2020firenzea
+  citation-key: nalli:2020firenze
   dimensions: '8:43'
   director:
     - family: Nalli
@@ -15122,6 +15148,46 @@ references:
   title: FIRENZE - Basilica di Santo Spirito, opera del Brunelleschi
   type: motion_picture
   URL: https://www.youtube.com/watch?v=OxtnCcjxFoU
+
+- id: nalli:2020firenzea
+  abstract: >-
+    Piazza della Santissima Annunziata si trova nel centro storico a pochi passi
+    dal duomo.  Il monumento più importante della piazza è la basilica della
+    Santissima Annunziata, uno degli edifici sacri più importanti di Firenze.
+
+    Al centro della piazza si trova il monumento equestre a Ferdinando I de'
+    Medici, di Giambologna e Pietro Tacca, mentre più arretrate, in posizione
+    simmetrica, sono collocate le due fontane dei mostri marini, capolavoro del
+    Tacca e della scultura manierista in generale. 
+
+
+    Qui il link del video della Basilica della Santissima Annunziata:
+
+    https://youtu.be/crI3G9qovdI
+
+
+    Fonte Wikipedia: https://it.wikipedia.org/wiki/Piazza_...
+
+
+    Filmato con Sony RX10M3 in 4K.
+
+
+    #firenze #florence #florencia
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  citation-key: nalli:2020firenzea
+  dimensions: '5:34'
+  director:
+    - family: Nalli
+      given: Massimo
+  issued:
+    - year: 2020
+  source: YouTube
+  title: FIRENZE - Piazza della Santissima Annunziata
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=WqSDHiRS12E
 
 - id: nalli:roma
   abstract: >-
@@ -15431,7 +15497,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Zeffiro-e-clori---pompeii.jpg
 
-- id: obsidiansoul:2019austronesian
+- id: obsidian:2019austronesian
   accessed:
     - year: 2020
       month: 8
@@ -15439,7 +15505,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Obsidian Soul
-  citation-key: obsidiansoul:2019austronesian
+  citation-key: obsidian:2019austronesian
   issued:
     - year: 2019
       month: 7
@@ -15450,7 +15516,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png
 
-- id: oers:2009[great
+- id: oers:2009great
   abstract: "This file has been provided by UNESCO (unesco.org) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website. This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing. Deutsch | English | français | italiano | македонски | русский | svenska | українська | +/− \t   Este local é definido pela UNESCO como Patrimônio Mundial, listado em Ruins of Kilwa Kisiwani and Ruins of Songo Mnara. العربية |"
   accessed:
     - year: 2020
@@ -15461,9 +15527,10 @@ references:
   author:
     - family: Oers
       given: Ron Van
-  citation-key: oers:2009[great
+  citation-key: oers:2009great
   issued:
     - literal: 15 de março de 2009
+  language: en
   source: Wikimedia Commons
   title: >-
     [Great mosque of Kilwa Kisiwani] Ruins of Kilwa Kisiwani and Ruins of Songo
@@ -15472,7 +15539,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg#
 
-- id: oers:2009[main
+- id: oers:2009main
   abstract: "English: Songo MnaraFrançais : Songo MnaraEspañol: Ruinas de Kilwa Kisiwani y Songo Mnara\nThis file has been provided by UNESCO (unesco.org) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website. This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing. Deutsch | English | français | italiano | македонски | русский | svenska | українська | +/− \t   Este local é definido pela UNESCO como Patrimônio Mundial, listado em Ruins of Kilwa Kisiwani and Ruins of Songo Mnara."
   accessed:
     - year: 2020
@@ -15483,9 +15550,10 @@ references:
   author:
     - family: Oers
       given: Ron Van
-  citation-key: oers:2009[main
+  citation-key: oers:2009main
   issued:
     - literal: 15 de março de 2009
+  language: en
   source: Wikimedia Commons
   title: >-
     [Main building in Songo Mnara] Ruins of Kilwa Kisiwani and Ruins of Songo
@@ -15555,7 +15623,7 @@ references:
   type: webpage
   URL: https://www.cnu.org/publicsquare/2018/08/27/five-steps-super-blocks
 
-- id: 'oschirmer:2013deutsch:'
+- id: oschirmer:2013deutsch
   accessed:
     - year: 2020
       month: 9
@@ -15563,7 +15631,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Oschirmer
-  citation-key: 'oschirmer:2013deutsch:'
+  citation-key: oschirmer:2013deutsch
   issued:
     - literal: 5 de setembro de 2013, 13:48:11
   source: Wikimedia Commons
@@ -16801,7 +16869,7 @@ references:
     http://www.persee.fr/web/revues/home/prescript/article/rbph_0035-0818_1958_num_36_1_2208_t1_0233_0000_2
   volume: '36'
 
-- id: photoglobzurich:189020029
+- id: photoglob:189020029
   accessed:
     - year: 2020
       month: 10
@@ -16809,7 +16877,7 @@ references:
   archive: "Esta imagem está disponível na Divisão de Impressos e Fotografias da Biblioteca do Congresso dos Estados Unidos sob o número de identificação digital cph.3g03582.Esta marcação não indica o status de direito autoral da obra aqui mostrada. Uma marcação normal de direitos autorais ainda é necessária. Veja Commons:Licenciamento para mais informações.  العربية\_| беларуская (тарашкевіца)‎\_| čeština\_| Deutsch\_| English\_| español\_| فارسی\_| suomi\_| français\_| עברית\_| magyar\_| italiano\_| 日本語\_| lietuvių\_| македонски\_| മലയാളം\_| Nederlands\_| polski\_| português\_| português do Brasil\_| русский\_| sicilianu\_| slovenčina\_| slovenščina\_| Türkçe\_| українська\_| 中文\_| 中文（简体）‎\_| 中文（繁體）‎\_| +/− Restoration by trialsanderrors: Taj Mahal, Agra, India, ca. 1900"
   author:
     - literal: Photoglob Zürich
-  citation-key: photoglobzurich:189020029
+  citation-key: photoglob:189020029
   issued:
     - literal: entre 1890 e 1900
   license: Public domain
@@ -16818,7 +16886,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_ca._1900.jpg
 
-- id: pierofrancesca:1444flagellazione
+- id: piero:1444flagellazione
   accessed:
     - year: 2020
       month: 9
@@ -16826,7 +16894,7 @@ references:
   archive: Galleria Nazionale delle Marche
   author:
     - literal: Piero della Francesca
-  citation-key: pierofrancesca:1444flagellazione
+  citation-key: piero:1444flagellazione
   dimensions: 58,3 × 81,5 cm
   issued:
     - year: 1444
@@ -16840,7 +16908,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Piero,_flagellazione_11.jpg
 
-- id: pierofrancesca:1460anunciacao
+- id: piero:1460anunciacao
   accessed:
     - year: 2020
       month: 9
@@ -16848,7 +16916,7 @@ references:
   archive: Galeria Nacional da Úmbria
   author:
     - literal: Piero della Francesca
-  citation-key: pierofrancesca:1460anunciacao
+  citation-key: piero:1460anunciacao
   issued:
     - literal: entre 1460 e 1470
   language: Portuguese
@@ -16997,6 +17065,8 @@ references:
     - family: Piranesi
       given: Giovanni Battista
   citation-key: piranesi:1769diverse
+  contributor:
+    - literal: McGill University Library
   event-place: Roma
   issued:
     - year: 1769
@@ -17319,6 +17389,10 @@ references:
   author:
     - family: Price
       given: Francis
+    - family: Toms
+      given: W. H. (William Henry)
+    - family: Ackers
+      given: Charles
   call-number: '9926429080001551'
   citation-key: price:1735british
   event-place: London
@@ -17456,23 +17530,6 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:5a_Qian_Xuan_Consort_Yang_Mounting_a_Horse_(29.5_x_117.0_cm),_section._Freer_Gallery_of_Art_Washington.jpg
 
-- id: Qing:1800
-  accessed:
-    - year: 2020
-      month: 9
-      day: 10
-  archive: 《京师城内首善全图》
-  citation-key: Qing:1800
-  issued:
-    - year: 1800
-  license: Public domain
-  source: Wikimedia Commons
-  title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
-  title-short: 京师城内首善全图
-  type: graphic
-  URL: >-
-    https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E5%B8%88%E5%9F%8E%E5%86%85%E9%A6%96%E5%96%84%E5%85%A8%E5%9B%BE.%E6%B8%85%E4%BB%A3.jpg
-
 - id: qiu:15--manha
   accessed:
     - year: 2020
@@ -17532,6 +17589,9 @@ references:
       non-dropping-particle: d’
   collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
   container-title: Architecture
+  editor:
+    - family: Quatremère de Quincy
+      given: A.C.
   event-place: Paris
   issued:
     - year: 1788
@@ -17587,7 +17647,7 @@ references:
   URL: http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982
   volume: '130'
 
-- id: raffaellosanzio:1509disputa
+- id: raffaello:1509disputa
   accessed:
     - year: 2020
       month: 9
@@ -17595,7 +17655,7 @@ references:
   archive: Museus Vaticanos
   author:
     - literal: Raffaello Sanzio
-  citation-key: raffaellosanzio:1509disputa
+  citation-key: raffaello:1509disputa
   dimensions: 500,0 × 770,0 cm
   issued:
     - year: 1509
@@ -17608,7 +17668,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Raphael_-_Disputation_of_the_Holy_Sacrament.jpg
 
-- id: 'raphael:1511italian:'
+- id: raphael:1511italian
   accessed:
     - year: 2020
       month: 10
@@ -17616,7 +17676,7 @@ references:
   archive: Pinacoteca Ambrosiana
   author:
     - literal: Raphael
-  citation-key: 'raphael:1511italian:'
+  citation-key: raphael:1511italian
   dimensions: "Height: 500 cm (16.4 ft)\_; Width: 7.7 m (25.2 ft)\_ dimensions QS:P2048,+500U174728;P2049,+7.7U11573"
   issued:
     - literal: 1511date QS:P571,+1511-00-00T00:00:00Z/9
@@ -18519,6 +18579,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  language: en
   license: Attribution License
   medium: photo
   source: Flickr
@@ -18538,6 +18599,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  language: en
   license: Attribution License
   medium: photo
   source: Flickr
@@ -18557,6 +18619,7 @@ references:
     - year: 2008
       month: 2
       day: 29
+  language: en
   license: Attribution License
   medium: photo
   source: Flickr
@@ -18804,7 +18867,9 @@ references:
     - literal: Sailko
   citation-key: sailko:2008spedale
   issued:
-    - literal: 2008-04-26, 15:38:57
+    - year: 2008
+      month: 4
+      day: 26
   language: Italian
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
@@ -18830,15 +18895,15 @@ references:
     - literal: Sailko
   citation-key: sailko:2011parco
   issued:
-    - literal: 11 de janeiro de 2011, 23:26:53
+    - literal: 11 de janeiro de 2011, 23:26:40
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
-    con laterizi a spina di pesce 02
+    con laterizi a spina di pesce 01
   title-short: Italiano
   type: graphic
   URL: >-
-    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_02.JPG
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_01.JPG
 
 - id: sailko:2011parcoa
   accessed:
@@ -18850,15 +18915,15 @@ references:
     - literal: Sailko
   citation-key: sailko:2011parcoa
   issued:
-    - literal: 11 de janeiro de 2011, 23:26:40
+    - literal: 11 de janeiro de 2011, 23:26:53
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
-    con laterizi a spina di pesce 01
+    con laterizi a spina di pesce 02
   title-short: Italiano
   type: graphic
   URL: >-
-    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_01.JPG
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_02.JPG
 
 - id: sailko:2013pianta
   accessed:
@@ -19628,9 +19693,9 @@ references:
     - year: 2009
       month: 4
       day: 3
+  language: en
   source: Wikimedia Commons
   title: Houses in Stone Town, Zanzibar City
-  title-short: English
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Architectural-diversity-in-stone-town.jpg
@@ -19783,6 +19848,23 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:With_Shelley_in_Italy_-_being_a_selection_of_the_poems_and_letters_of_Percy_Bysshe_Shelley_which_have_to_do_with_his_life_in_Italy_from_1818_to_1822_(1905)_(14782136475).jpg
+
+- id: shindaikyoShi:1800
+  accessed:
+    - year: 2020
+      month: 9
+      day: 10
+  archive: 《京师城内首善全图》
+  citation-key: shindaikyoShi:1800
+  issued:
+    - year: 1800
+  license: Public domain
+  source: Wikimedia Commons
+  title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
+  title-short: 京师城内首善全图
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E5%B8%88%E5%9F%8E%E5%86%85%E9%A6%96%E5%96%84%E5%85%A8%E5%9B%BE.%E6%B8%85%E4%BB%A3.jpg
 
 - id: shojai:2016developing3
   abstract: >-
@@ -20239,10 +20321,9 @@ references:
   citation-key: stanley:2017ruins
   issued:
     - literal: 1 de janeiro de 2017, 14:08
-  language: English
+  language: en
   source: Wikimedia Commons
   title: Ruins of the Great mosque of Kilwa Kisiwani
-  title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg#
 
@@ -20843,7 +20924,7 @@ references:
   URL: >-
     http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/
 
-- id: tang:1124Zhong
+- id: tang:1124chubunyorozuHe
   accessed:
     - year: 2022
       month: 1
@@ -20852,7 +20933,7 @@ references:
   author:
     - family: Tang
       given: Li
-  citation-key: tang:1124Zhong
+  citation-key: tang:1124chubunyorozuHe
   dimensions: >-
     Altura: 188,7 cm; Largura: 139,8 cmdimensions QS:P2048,188.7U174728
     dimensions QS:P2049,139.8U174728
@@ -21693,7 +21774,9 @@ references:
     - literal: TxllxT
   citation-key: txllxt:2010piazza
   issued:
-    - literal: 2010-04-20, 09:56:39
+    - year: 2010
+      month: 4
+      day: 20
   language: Italian
   source: Wikimedia Commons
   title: >-
@@ -21703,7 +21786,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Piazza_della_Santissima_Annunziata_-_View_East_on_lo_Spedale_degli_Innocenti_1445_by_Filippo_Brunelleschi_%26_Pietro_Tacca%27s_Fountain_1629.jpg
 
-- id: tzonis:1972non-oppressive
+- id: tzonis:1972nonoppressive
   abstract: >-
     124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
     bibliographical references
@@ -21714,7 +21797,7 @@ references:
   author:
     - family: Tzonis
       given: Alexander
-  citation-key: tzonis:1972non-oppressive
+  citation-key: tzonis:1972nonoppressive
   event-place: Boston
   issued:
     - year: 1972
@@ -21791,7 +21874,7 @@ references:
   title-short: Classical architecture
   type: book
 
-- id: ujjwalgoel2005:2017taj
+- id: ujjwal:2017taj
   accessed:
     - year: 2020
       month: 10
@@ -21799,7 +21882,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Ujjwal goel2005
-  citation-key: ujjwalgoel2005:2017taj
+  citation-key: ujjwal:2017taj
   issued:
     - year: 2017
       month: 6
@@ -23686,51 +23769,6 @@ references:
     https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
   volume: '81'
 
-- id: wynne-jones:2013public32
-  abstract: >-
-    Houses are an important subject of archaeological research, normally
-    explored through the households they contain. This has established a
-    deliberately social agenda for the archaeology of houses, yet has had the
-    unintended consequence of creating bounded worlds for study. Although
-    household archaeologies explore the ways that households contributed to
-    broader social and economic realms, it is rare to think through the public
-    role of houses for non-residents and the larger population of the
-    settlement. This paper seeks to explore this more public aspect of houses
-    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
-    town on the southern Tanzanian coast. This was a time when stone-built
-    domestic architecture was first emerging in this region. The archaeology of
-    the houses provides data for a series of ways that the house was at the
-    heart of the economic and political life of the town, as well as
-    demonstrating a spatial continuity between indoor and outdoor spaces. It is
-    therefore suggested that the domestic and residential functions of the house
-    for a particular household should be balanced with an appreciation of the
-    broader world of the house itself.
-  accessed:
-    - year: 2020
-      month: 7
-      day: 20
-  author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynne-jones:2013public32
-  container-title: Journal of Anthropological Archaeology
-  DOI: 10.1016/j.jaa.2013.05.003
-  ISSN: 0278-4165
-  issue: '4'
-  issued:
-    - year: 2013
-      month: 12
-      day: 1
-  language: en
-  page: 759-773
-  source: ScienceDirect
-  title: >-
-    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
-    class="smallcaps">AD</span>
-  type: article-journal
-  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
-  volume: '32'
-
 - id: wynne-jones:2014swahili
   accessed:
     - year: 2020
@@ -23779,6 +23817,51 @@ references:
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
+
+- id: wynnejones:2013public32
+  abstract: >-
+    Houses are an important subject of archaeological research, normally
+    explored through the households they contain. This has established a
+    deliberately social agenda for the archaeology of houses, yet has had the
+    unintended consequence of creating bounded worlds for study. Although
+    household archaeologies explore the ways that households contributed to
+    broader social and economic realms, it is rare to think through the public
+    role of houses for non-residents and the larger population of the
+    settlement. This paper seeks to explore this more public aspect of houses
+    using the data from archaeology at Songo Mnara, a 14th–15th century Swahili
+    town on the southern Tanzanian coast. This was a time when stone-built
+    domestic architecture was first emerging in this region. The archaeology of
+    the houses provides data for a series of ways that the house was at the
+    heart of the economic and political life of the town, as well as
+    demonstrating a spatial continuity between indoor and outdoor spaces. It is
+    therefore suggested that the domestic and residential functions of the house
+    for a particular household should be balanced with an appreciation of the
+    broader world of the house itself.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynnejones:2013public32
+  container-title: Journal of Anthropological Archaeology
+  DOI: 10.1016/j.jaa.2013.05.003
+  ISSN: 0278-4165
+  issue: '4'
+  issued:
+    - year: 2013
+      month: 12
+      day: 1
+  language: en
+  page: 759-773
+  source: ScienceDirect
+  title: >-
+    The public life of the Swahili stonehouse, 14^th^–15^th^ centuries <span
+    smallcaps="smallcaps">ad</span>
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S0278416513000329
+  volume: '32'
 
 - id: xinhua:2018
   abstract: >-
@@ -23843,7 +23926,7 @@ references:
   type: graphic
   URL: https://www.flickr.com/photos/yanbing/354686605/
 
-- id: yingfangchouying:river
+- id: yingfang:river
   accessed:
     - year: 2020
       month: 9
@@ -23852,7 +23935,7 @@ references:
   author:
     - family: Ying倣仇英
       given: Unknown佚名 After Qiu
-  citation-key: yingfangchouying:river
+  citation-key: yingfang:river
   dimensions: 34.8 x 804.2 cm
   license: Public domain
   medium: Handscroll, ink and colors on silk
@@ -23933,6 +24016,7 @@ references:
       month: 9
       day: 19
   language: en
+  note: 'ZSCC: NoCitationData[s0]'
   publisher: University of Cape Town
   publisher-place: Cape Town
   source: YouTube
@@ -24005,6 +24089,7 @@ references:
     - year: 2014
       month: 5
       day: 31
+  language: en
   source: Wikimedia Commons
   title: Kenya, Lamu Island, Kipungani
   type: graphic
@@ -24028,6 +24113,7 @@ references:
     - year: 2014
       month: 5
       day: 31
+  language: en
   source: Wikimedia Commons
   title: Kenya, Lamu Island, Matondoni
   type: graphic
