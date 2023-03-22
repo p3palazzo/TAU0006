@@ -343,12 +343,12 @@ programas equivalentes ([@tbl:freecad]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
 <i class="fas fa-info-circle"></i>
-: Todos os desenhos devem ser entregues em formato [PDF]{.smallcaps},
-  portanto fique à vontade para trabalhar no programa que mais lhe
-  convier e melhor atender às suas necessidades.
+: Todos os desenhos digitais devem ser entregues em formato
+  [PDF]{.smallcaps}, portanto fique à vontade para trabalhar no programa
+  que mais lhe convier e melhor atender às suas necessidades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--a-->
+<!-- -->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 Table: Programas de desenho e suas utilidades {#tbl:cad}
@@ -359,7 +359,7 @@ Table: Programas de desenho e suas utilidades {#tbl:cad}
 | Desenho técnico     | - Traçar ou editar plantas e mapas existentes |
 +---------------------+-----------------------------------------------+
 | Geoprocessamento    | - Traçar ou editar mapas urbanos e plantas de |
-|                     | edifícios existentes                          |
+|                     |   edifícios existentes                        |
 |                     | - Arte-finalizar mapas urbanos                |
 +---------------------+-----------------------------------------------+
 | Ilustração vetorial | - Traçar ou editar plantas e mapas existentes |
@@ -369,7 +369,7 @@ Table: Programas de desenho e suas utilidades {#tbl:cad}
 +---------------------+-----------------------------------------------+
 | Arte pixelada       | - Arte-finalizar desenhos digitais ou manuais |
 |                     | - Editar, corrigir e melhorar desenhos        |
-|                     | fotografados                                  |
+|                     |   fotografados                                |
 +---------------------+-----------------------------------------------+
 
 Table: Equivalência de programas de desenho por função {#tbl:freecad}
@@ -910,10 +910,10 @@ Dicas de migração de usuários do SketchUp para o Blender. [Augusto Cezar, 201
 
 # Digitalização de entregas #
 
-Para fazer as entregas, você precisa digitalizar os desenhos e
-carregá-los na respectiva atividade no Moodle. Se você não tiver
-acesso a um scanner tamanho [A3]{.smallcaps} (quase ninguém tem, não
-se sinta mal por isso!), siga as dicas a seguir:
+Não é necessário digitalizar ou fotografar trabalhos feitos à mão para
+entrega nesta disciplina. No entanto, se quiser ter uma versão
+digitalizada dos seus desenhos e maquetes físicas como *backup*, ou para
+compor o seu portfólio profissional, siga as dicas a seguir:
 
 1. A câmera de um *smartphone* ou tablet de boa qualidade, com resolução
    de pelo menos 6 [MP]{.smallcaps} (megapixels), é suficiente. Se tiver
