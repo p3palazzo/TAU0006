@@ -2,16 +2,22 @@
 title   : "Análise urbana"
 subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : "Trabalho I"
-date    : 2022-02-23
+date    : 2023-05-04
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG/2560px-Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG
+  overlay_filter: 0.5
   caption: Giambattista Nolli, [*Nova planta de Roma*, 1748](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_(1748)_05-12.JPG)
-excerpt: >
-  A tipologia edilícia e a forma urbana se influenciam mutuamente. A
-  arquitetura responde simultaneamente às condições singulares da sua
-  implantação no lugar, e gera condicionantes para intervenções futuras.
-  Explore este diálogo analisando um conjunto urbanístico formado ou
-  transformado entre os séculos XV e XVIII.
+tagline: |
+  <dl>
+    <dt>
+      Objetivo de aprendizagem: Saber ler o ambiente construído
+    </dt>
+    <dd>
+      Desenvolver uma visão de conjunto sobre os fundamentos
+      urbanísticos e construtivos sobre os quais se desenvolvem as
+      culturas arquitetônicas da era moderna.
+    </dd>
+  </dl>
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
@@ -26,14 +32,6 @@ excerpt: >
 > <footer><cite>Philippe Panerai, *Análise urbana*. Trad. Francisco
 > Leitão. Brasília: Editora UnB, 2006, 53</cite></footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Objetivo de aprendizagem #
-
-Saber ler o ambiente construído
-
-: Desenvolver uma visão de conjunto sobre os fundamentos
-  urbanísticos e construtivos sobre os quais se desenvolvem as
-  culturas arquitetônicas da era moderna.
 
 # Contexto #
 
@@ -213,11 +211,13 @@ Ambas abordagens podem ser usadas ao mesmo tempo numa análise integrada.
 
 # Ementa #
 
+<blockquote class="epigraph">
 A tipologia edilícia e a forma urbana se influenciam mutuamente. A
 arquitetura responde simultaneamente às condições singulares da sua
 implantação no lugar, e gera condicionantes para intervenções futuras.
 Explore este diálogo analisando um conjunto urbanístico formado ou
 transformado entre os séculos [XV]{.smallcaps} e [XVIII]{.smallcaps}.
+</blockquote>
 
 # Processo #
 

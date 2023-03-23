@@ -4,7 +4,7 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-02-22
-excerpt: >
+tagline: |
   Arquitetura do humanismo –
   Jardins da Ásia central –
   Mausoléus indianos –

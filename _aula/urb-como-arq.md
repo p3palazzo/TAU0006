@@ -4,7 +4,7 @@ subtitle: "Inquietações contemporâneas"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-08-11
-excerpt: >
+tagline: |
   Sincretismo cultural na Etiópia –
   Desenhos desmedidos –
   Sincretismo eurasiático –

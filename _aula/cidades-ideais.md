@@ -4,7 +4,7 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-01-25
-excerpt: >
+tagline: |
   Retorno aos princípios na China –
   Cidade e praça na Europa –
   Campo e canal em Veneza –

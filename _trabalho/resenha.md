@@ -4,18 +4,25 @@ header:
   teaser: https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg
   overlay_image: https://i.pinimg.com/originals/7e/c8/2e/7ec82e0a9a71475c602ce2884268260e.jpg
   caption: "Giuseppe Maria Crespi, [Estantes](https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Bookshelves_-_WGA05755.jpg), c. 1725"
-excerpt: >
-  Reflexão crítica sobre a leitura da semana, preparatória para a
-  discussão em aula.
+tagline: |
+  <dl>
+    <dt>
+      Objetivo de aprendizagem: Conhecer os fatos urbanos
+    </dt>
+    <dd>
+      Estudar as obras e os processos descritos na bibliografia,
+      refletindo criticamente sobre inclusões, exclusões e abordagens
+      nas escolhas operadas pelos autores.
+    </dd>
+  </dl>
 ---
 
-# Objetivo de aprendizagem #
+# Ementa #
 
-Conhecer os fatos urbanos
-
-: Estudar as obras e os processos descritos na bibliografia,
-  refletindo criticamente sobre inclusões, exclusões e abordagens
-  nas escolhas operadas pelos autores.
+<blockquote class="epigraph">
+  Reflexão crítica sobre a leitura da semana, preparatória para a
+  discussão em aula.
+</blockquote>
 
 # Produto #
 
@@ -58,7 +65,7 @@ registradas por vocês nas resenhas.
 
 # Critérios de avaliação #
 
-Há apenas duas notas possíveis para cada item da Resenha:
+Há apenas duas notas possíveis *para cada item* da Resenha:
 
 - 0: Não demonstra, de modo suficiente, compreensão ou reflexão sobre o
   texto;

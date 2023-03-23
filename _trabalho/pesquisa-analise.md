@@ -6,7 +6,7 @@ header:
   caption: >
     Gaspar Fróis Machado (atrib.), Praça do Commercio da cidade de
     Lisboa, finais do séc. <span class="smallcaps">XVIII</span>
-excerpt: >
+tagline: |
   Realizar uma análise histórica e morfológica completa da cidade baixa
   de Lisboa, com destaque para a reconstrução pombalina.
 ---

@@ -4,7 +4,7 @@ subtitle: "Inquietações contemporâneas"
 item    : V
 author  : Pedro P. Palazzo
 date    : 2022-05-03
-excerpt: >
+tagline: |
   Viação como estratégia espacial –
   Reorganização espacial no mundo ibérico –
   Projetos urbanos na América do Norte –

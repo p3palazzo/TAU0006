@@ -1,8 +1,7 @@
 ---
 title: Avaliação
-date: 2022-06-09
-author_profile: true
-excerpt: >
+date: 2023-03-30
+tagline: |
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
   <span class="smallcaps">XVIII</span>. Transposição da tradição
@@ -15,20 +14,6 @@ header:
   actions:
   - label: "Voltar ao Plano de ensino"
     url  : "/plano/"
-
-sidebar:
-- text: |
-    <div itemscope="" itemtype="https://schema.org/Person">
-    <div class="author__avatar">
-    <img src="" alt="Carlos Henrique" itemprop="image" />
-    </div>
-    <div class="author__content">
-    <h3 class="author__name" itemprop="name">Carlos Henrique Magalhães de Lima</h3>
-    <div class="author__bio" itemprop="description">
-    <p>Professor adjunto</p>
-    </div>
-    </div>
-    </div>
 
 resenha:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg
@@ -49,16 +34,16 @@ trabalhos:
 
       Peso: 25 pontos
     url       : "/trabalho/analise-urbana/"
-    btn_label : "Entrega 14 de julho"
+    btn_label : "Entrega 4 de maio"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
-    title     : "Prova II"
+    title     : "Trabalho II"
     excerpt: |
       Análise arquitetônica
 
       Peso: 25 pontos
     url       : "/trabalho/prova/"
-    btn_label : "Realização 11 de agosto"
+    btn_label : "Entrega 1.º de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-kooogimi-46-1.jpg
     title     : "Trabalho III"
@@ -67,7 +52,7 @@ trabalhos:
 
       Peso: 20 pontos
     url       : "/trabalho/wikipedia/"
-    btn_label : "Entrega 15 de setembro"
+    btn_label : "Entrega 13 de julho"
     btn_class : "btn btn--inverse btn--small"
 ---
 
@@ -83,18 +68,17 @@ atender a *todos* os quatro requisitos seguintes:
 
 : Somar 30 pontos nas resenhas semanais;
 
-: Entregar *todos* trabalhos das Unidades e fazer a prova;
+: Entregar *todos* trabalhos das Unidades;
 
 : Obter a pontuação total 50, correspondendo à menção [MM]{.smallcaps};
 
 : Cumprir a frequência mínima de 75 % da carga horária.
 
-# Os trabalhos e a prova #
+# Os trabalhos #
 
 A nota final da disciplina é computada a partir do acompanhamento da
-leitura do livro-texto e de outros textos indicados, além de dois
-trabalhos e uma prova, que correspondem a cada uma das três Unidades do
-Programa:
+leitura do livro-texto e de outros textos indicados, além de três
+trabalhos, que correspondem a cada uma das três Unidades do Programa:
 
 ```{=html}
 {% include feature_row id="resenha" type="right" %}

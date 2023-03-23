@@ -1,7 +1,7 @@
 ---
 title: "Leitura e estudo"
 date: 2022-06-09
-excerpt: >
+tagline: |
   Notas de aula –
   Leituras obrigatórias –
   Tratados e fontes primárias –

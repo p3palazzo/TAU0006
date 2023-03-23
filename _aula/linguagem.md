@@ -4,7 +4,7 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-02-15
-excerpt: >
+tagline: |
   Invenção do classicismo –
   Arquitetura clássica I › Elementos –
   Arquitetura clássica II › Volumes –

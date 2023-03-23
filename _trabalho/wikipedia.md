@@ -3,24 +3,21 @@ title   : "Pesquisa e crítica"
 subtitle: "Viação e território, inquietações contemporâneas"
 item    : "Trabalho III"
 date    : 2022-05-04
-excerpt: >
-  Construção de um argumento historiográfico ou teórico breve,
-  fundamentado em pesquisa bibliográfica e iconográfica, versando sobre
-  um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
-  séculos <span class="smallcaps">XV</span> a
-  <span class="smallcaps">XVIII</span>, como parte de um verbete da Wikipédia.
+tagline: |
+  <dl>
+    <dt>
+      Objetivo de aprendizagem: Saber pesquisar
+    </dt>
+    <dd>
+      Refletir criticamente sobre a tradição historiográfica da arquitetura,
+      e especialmente sobre os debates a respeito das noções de Antiguidade
+      e Modernidade.
+    </dd>
+  </dl>
 header:
   overlay_image: http://burkecollection.org/system/images/46/original/46-1.jpg?1398281735
   caption: "[A escritora Koōgimi](http://burkecollection.org/catalogue/46-ko%C5%8Dgimi-from-fujifusa-version-of-thirty-six-immortal-poets), de um rolo da primeira metade do século [XV]{.smallcaps}"
 ---
-
-# Objetivo de aprendizagem #
-
-Saber pesquisar
-
-: Refletir criticamente sobre a tradição historiográfica da arquitetura,
-  e especialmente sobre os debates a respeito das noções de Antiguidade
-  e Modernidade.
 
 # Ementa #
 
@@ -40,11 +37,13 @@ verbal é tão importante para a disciplina da arquitetura quanto a
 análise gráfica. Nosso primeiro exercício de expressão escrita consiste
 em examinar um aspecto pontual desse processo:
 
-> Construção de um argumento historiográfico ou teórico breve,
-> fundamentado em pesquisa bibliográfica e iconográfica, versando sobre
-> um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
-> séculos [XV]{.smallcaps} a [XVIII]{.smallcaps}, como parte de um
-> verbete da Wikipédia.
+<blockquote class="epigraph">
+Construção de um argumento historiográfico ou teórico breve,
+fundamentado em pesquisa bibliográfica e iconográfica, versando sobre
+um tópico relacionado à arte, arquitetura, urbanismo ou paisagismo dos
+séculos [XV]{.smallcaps} a [XVIII]{.smallcaps}, como parte de um
+verbete da Wikipédia.
+</blockquote>
 
 # Processo #
 

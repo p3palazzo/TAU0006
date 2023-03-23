@@ -4,7 +4,7 @@ subtitle: "Inquietações contemporâneas"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-09-08
-excerpt: >
+tagline: |
   Classicismo para o povo –
   Origens do cálculo estrutural –
   Fim do vitruvianismo –

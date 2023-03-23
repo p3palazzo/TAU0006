@@ -4,7 +4,7 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-03-08
-excerpt: >
+tagline: |
   Composição –
   Parataxis –
   Projeto iterativo –

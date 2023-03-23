@@ -4,7 +4,7 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-03-15
-excerpt: >
+tagline: |
   Geometrias da fortificação –
   Praças reais e cidades coloniais –
   Modos de morar no Mediterrâneo moderno –

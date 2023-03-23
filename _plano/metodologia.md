@@ -1,8 +1,8 @@
 ---
 title: "Metodologia e recursos de apoio"
-date: 2022-06-09
-excerpt: >
-  Moodle – Bibliotecas – Caderno de croquis e anotações –
+date: 2023-03-30
+tagline: |
+  Moodle – Bibliotecas – Caderno de croquis –
   Como acompanhar o programa
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
@@ -98,31 +98,27 @@ principalmente croquis e diagramas analisando as características
 construtivas e de composição dos edifícios estudados, explicitando as
 informações que o desenho pretende comunicar.
 
-No dia da prova, você vai usar o mesmo caderno de croquis e anotações
-para responder a prova. Entregue o caderno aos professores ou monitores
-quando terminar de responder a todas as questões.
-
 # Como acompanhar o programa #
 
 ## O semestre e as unidades ##
 
-O [programa](../index.md) do nosso semestre se divide em
+O programa do nosso semestre se divide em
 três unidades de conteúdo. Cada uma dessas está associada a um
-[objetivo de aprendizagem](objetivos.md) e a uma tarefa que conta
+objetivo de aprendizagem e a uma tarefa que conta
 para a nota final. Ao final de cada Unidade, você vai ter:
 
 1. Estudado a competência que você precisa adquirir nessa unidade,
-   conforme os [objetivos de aprendizagem](objetivos.md),
+   conforme os objetivos de aprendizagem,
    tirando suas dúvidas pelos fóruns da disciplina no Moodle ou na
    aula presencial.
-2. Entregue um trabalho ou prova valendo nota, demonstrando o seu
+2. Entregue um trabalho valendo nota, demonstrando o seu
    domínio dessa competência, respeitando a data de entrega prevista.
 3. Participado ativamente das demais atividades propostas.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
 <i class="fas fa-exclamation-triangle"></i>
 
-: Você precisa *entregar* todos os três trabalhos e provas das unidades,
+: Você precisa *entregar* todos os três trabalhos das unidades,
   atingir 30 pontos nas resenhas semanais,
   além de obter 50 pontos no total do semestre. Se deixar de entregar
   algum dos trabalhos, você receberá automaticamente a menção `SR`,

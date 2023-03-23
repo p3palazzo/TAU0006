@@ -4,7 +4,7 @@ subtitle: "Inquietações contemporâneas"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-08-25
-excerpt: >
+tagline: |
   Sociedade burguesa –
   Antiquarismo e história da arte –
   Romantismo –

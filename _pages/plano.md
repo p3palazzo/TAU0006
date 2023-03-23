@@ -1,9 +1,9 @@
 ---
 title: Plano de ensino
-date: 2022-06-09
+date: 2023-03-30
 permalink: /plano/
 author_profile: true
-excerpt: >
+tagline: |
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
   <span class="smallcaps">XVIII</span>. Transposição da tradição
@@ -62,10 +62,6 @@ header:
   em questão para receber presença na chamada!
 
 ## Orientação e entrega dos trabalhos ##
-
-<i class="fas fa-head-side-mask"></i>
-
-: Use máscara quando estiver orientando.
 
 <i class="fas fa-laptop"></i>
 

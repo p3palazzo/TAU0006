@@ -3,7 +3,7 @@ title: "Programa e cronograma"
 date : 2023-03-28
 classes: wide
 author_profile: true
-excerpt: >
+tagline: >
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
   <span class="smallcaps">XVIII</span>. Transposição da tradição

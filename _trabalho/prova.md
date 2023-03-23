@@ -7,7 +7,7 @@ header:
   overlay_image: https://mulvanyandrogers.com/wp-content/uploads/2020/07/Gallery-Louis-XVI-Library-.jpg
   overlay_filter: 0.5
   caption: "Modelo em escala 1:12 de uma biblioteca em estilo Luís XVI, por [Mulvany and Rogers](https://mulvanyandrogers.com/gallery/)"
-excerpt: >
+tagline: |
   Esta prova contempla o conhecimento que terá adquirido sobre os
   edifícios dos séculos <span class="smallcaps">XV</span> a <span
   class="smallcaps">XVII</span>, bem como o contexto socioeconômico e

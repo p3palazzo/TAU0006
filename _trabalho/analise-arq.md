@@ -2,36 +2,22 @@
 title   : "Análise arquitetônica"
 subtitle: "Gramática, vocabulário, dialetos"
 item    : "Trabalho II"
-date    : 2022-03-30
+date    : 2023-06-01
 header:
   overlay_image: https://mulvanyandrogers.com/wp-content/uploads/2020/07/Gallery-Louis-XVI-Library-.jpg
   caption: "Modelo em escala 1:12 de uma biblioteca em estilo Luís XVI, por [Mulvany and Rogers](https://mulvanyandrogers.com/gallery/)"
-excerpt: >
-  Analisar um volume clássico dos séculos XV ao
-  XVIII por meio da forma geométrica e proporções dos seus
-  espaços, evidenciando as operações que dão forma a esses volumes:
-  justaposição, união, subtração, deformação, e articulação de planos ou
-  recessão, em todas as escalas da configuração geral até os detalhes
-  construtivos e decorativos.
-toc:
-  - Objetivo
-  - Contexto
-  - Ementa
-  - Processo
-  - Produto
-  - Critérios de Avaliação
-  - Dicas de trabalho
+tagline: |
+  <dl>
+    <dt>Objetivo</dt>
+    <dd>
+      Dominar e ser capaz de empregar os elementos do vocabulário e a
+      gramática das tradições arquitetônicas da era moderna, com ênfase na
+      linguagem clássica.
+    </dd>
+  </dl>
 ---
 
-# Objetivo #
-
-Dominar e ser capaz de empregar os elementos do vocabulário e a
-gramática das tradições arquitetônicas da era moderna, com ênfase na
-linguagem clássica.
-
 # Ementa #
-
-## Premissa ##
 
 ![Bernardo Vittone, projeto de uma capela, em [*Istruzioni diverse*, 1766][]](https://i.pinimg.com/564x/f7/f9/60/f7f960694a38228b1303b14ae190c63d.jpg){#fig:vittone .align-right}
 
@@ -86,12 +72,6 @@ trabalho vamos nos concentrar na leitura da espacialidade Renascentista:
 [Pascal Coste, 1840]: https://commons.wikimedia.org/wiki/File:Masjid_Shah,_Facade_by_Pascal_Coste.jpg
 
 <!--_-->
-
-## Objetivo ##
-
-Dominar e ser capaz de empregar os elementos do vocabulário e a
-gramática das tradições arquitetônicas da era moderna, com ênfase na
-linguagem clássica.
 
 # Processo #
 

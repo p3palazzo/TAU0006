@@ -4,7 +4,7 @@ subtitle: "Inquietações contemporâneas"
 item    : II
 author  : Pedro P. Palazzo
 date    : 2022-04-05
-excerpt: >
+tagline: |
   Teorias do barroco –
   Carpintaria japonesa –
   Virtuosismo estrutural –

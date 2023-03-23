@@ -1,7 +1,7 @@
 ---
 title: Objetivos de aprendizagem
-date: 2022-06-09
-excerpt: >
+date: 2023-03-30
+tagline: |
   História das cidades, dos edifícios e da edificação na tradição
   europeia a partir do início do Renascimento na Itália até o século
   <span class="smallcaps">XVIII</span>. Transposição da tradição
@@ -86,7 +86,7 @@ Saber ler o ambiente construído
 
 ## Unidade II ##
 
-Saber projetar
+Saber intervir no ambiente construído
 
 : Dominar e ser capaz de empregar os elementos do vocabulário e a
   gramática das tradições arquitetônicas da era moderna, com ênfase na

@@ -4,7 +4,7 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : I
 author  : Pedro P. Palazzo
 date    : 2022-01-18
-excerpt: >
+tagline: |
   Mundos conectados no século <span class="smallcaps">XIV</span> –
   Cidades mercantes do Sudeste asiático –
   Cidades da costa Suaíle –

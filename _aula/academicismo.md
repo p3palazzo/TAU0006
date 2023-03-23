@@ -4,7 +4,7 @@ subtitle: "Gramática, vocabulário, dialetos"
 item    : V
 author  : Pedro P. Palazzo
 date    : 2022-03-22
-excerpt: >
+tagline: |
   Colunata do Louvre –
   Academias de arte e o ofício da arquitetura –
   Desenho e convenção –

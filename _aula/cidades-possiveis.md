@@ -4,7 +4,7 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : III
 author  : Pedro P. Palazzo
 date    : 2022-02-01
-excerpt: >
+tagline: |
   Espacialidade e vazio na pintura chinesa –
   História da arquitetura como história do espaço –
   Urbanismo de colina –

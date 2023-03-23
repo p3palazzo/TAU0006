@@ -4,7 +4,7 @@ subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : IV
 author  : Pedro P. Palazzo
 date    : 2022-02-08
-excerpt: >
+tagline: |
   Teoria da arquitetura na Idade Moderna –
   História da arquitetura como história da construção –
   A cúpula de Brunelleschi –
