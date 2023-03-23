@@ -59,14 +59,6 @@ unidade1:
     btn_label : "20 de abril"
     btn_class : "btn btn--inverse btn--small"
 
-trabalho1:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-Giovanni_Battista_Nolli-Nuova_Pianta_di_Roma_1748_05-12.jpg
-    title     : "Trabalho I"
-    excerpt   : "Análise urbana"
-    url       : "/trabalho/analise-urbana"
-    btn_label : "Entrega 4 de maio"
-    btn_class : "btn btn--inverse btn--small"
-
 unidade2:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-botticcelli_sandro-the_punishment_of_korah_and_the_stoning_of_moses_and_aaron-1481-82.jpg
     title     : "Linguagem clássica"
@@ -129,14 +121,6 @@ unidade2:
     btn_label : "1.º de junho"
     btn_class : "btn btn--inverse btn--small"
 
-trabalho2:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
-    title     : "Prova II"
-    excerpt   : "Análise arquitetônica"
-    url       : "/trabalho/analise-arq"
-    btn_label : "Entrega 1.º de junho"
-    btn_class : "btn btn--inverse btn--small"
-
 unidade3:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-honjo_tatekawa_the_timberyard_at_honjo.jpg
     title     : "Barroco internacional"
@@ -179,14 +163,6 @@ unidade3:
     btn_label : "6 de julho"
     btn_class : "btn btn--inverse btn--small"
 
-trabalho3:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-kooogimi-46-1.jpg
-    title     : "Trabalho III"
-    excerpt   : "Pesquisa e crítica"
-    url       : "/trabalho/wikipedia/"
-    btn_label : "Entrega 13 de julho"
-    btn_class : "btn btn--inverse btn--small"
-
 expo:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg
     title     : "Exposição dos trabalhos"
@@ -199,29 +175,17 @@ expo:
 
 ```{=html}
 {% include feature_row id="unidade1" %}
-
-{% comment -%}
-{% include feature_row id="trabalho1" type="right" %}
-{%- endcomment %}
 ```
 
 # Unidade II · Linguagens e dialetos da arquitetura #
 
 ```{=html}
 {% include feature_row id="unidade2" %}
-
-{% comment -%}
-{% include feature_row id="trabalho2" type="right" %}
-{%- endcomment %}
 ```
 
 # Unidade III · Inquietações contemporâneas #
 
 ```{=html}
 {% include feature_row id="unidade3" %}
-
-{% comment -%}
-{% include feature_row id="trabalho3" type="right" %}
-{%- endcomment %}
 ```
 
