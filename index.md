@@ -1,5 +1,6 @@
 ---
 title: "Programa e cronograma"
+date : 2023-03-28
 classes: wide
 author_profile: true
 excerpt: >
@@ -25,7 +26,7 @@ unidade1:
       Entrepostos comerciais Suaíle –
       Infraestrutura hidráulica na América
     url       : "/aula/rotas/"
-    btn_label : "9 de junho"
+    btn_label : "30 de março"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg
     title     : "Cidades ideais"
@@ -35,7 +36,7 @@ unidade1:
       Campo e canal em Veneza –
       Tratados de urbanismo
     url       : "/aula/cidades-ideais"
-    btn_label : "16 de junho"
+    btn_label : "6 de abril"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Rakuchu_rakugai_zu_byobu_Fukuoka_City_MuseumL.jpg
     title     : "Cidades possíveis"
@@ -45,7 +46,7 @@ unidade1:
       Urbanismo de colina –
       Do boma banto às cidades da Guiné
     url       : "/aula/cidades-possiveis/"
-    btn_label : "23 de junho"
+    btn_label : "13 de abril"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-DT249920.jpg
     title     : "Sistemas espaciais"
@@ -55,7 +56,7 @@ unidade1:
       Cúpula de Brunelleschi –
       Cúpulas islâmicas e malhas espaciais
     url       : "/aula/sistemas-espaciais/"
-    btn_label : "30 de junho"
+    btn_label : "20 de abril"
     btn_class : "btn btn--inverse btn--small"
 
 trabalho1:
@@ -63,7 +64,7 @@ trabalho1:
     title     : "Trabalho I"
     excerpt   : "Análise urbana"
     url       : "/trabalho/analise-urbana"
-    btn_label : "Entrega 14 de julho"
+    btn_label : "Entrega 4 de maio"
     btn_class : "btn btn--inverse btn--small"
 
 unidade2:
@@ -75,7 +76,7 @@ unidade2:
       Volumes –
       Superfícies
     url       : "/aula/linguagem/"
-    btn_label : "7 de julho"
+    btn_label : "27 de abril"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-paolo_veronese-feast_in_the_house_of_levi-wga24877.jpg
     title     : "Arquiteturas humanistas"
@@ -85,7 +86,7 @@ unidade2:
       Mausoléus indianos –
       Saberes corporativos na França
     url       : "/aula/teoria/"
-    btn_label : "14 de julho"
+    btn_label : "4 de maio"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-le_cardinal_melchior_de_polignac_visitant_saint-pierre_de_rome-giovanni_paolo_panini-q18573439.jpg
     title     : "Clássico anticlássico"
@@ -95,7 +96,7 @@ unidade2:
       Projeto iterativo –
       Espaço geométrico
     url       : "/aula/anticlassico/"
-    btn_label : "21 de julho"
+    btn_label : "11 de maio"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-mathaeus_merian_carosel_fait_a_la_place_royalle_a_paris_1648-paris_musees.jpg
     title     : "Cidade clássica"
@@ -105,7 +106,7 @@ unidade2:
       Modos de morar no Mediterrâneo –
       Bioclimatismo
     url       : "/aula/cidade-classica"
-    btn_label : "28 de julho"
+    btn_label : "18 de maio"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-pierre-antoine_demachy-la_colonnade_du_louvre_nouvellement_degagee-p92-musee_carnavalet.jpg
     title     : "Arquitetura acadêmica"
@@ -115,18 +116,8 @@ unidade2:
       Desenho e convenção –
       Querela dos Antigos e dos Modernos
     url       : "/aula/academicismo/"
-    btn_label : "4 de agosto"
+    btn_label : "25 de maio"
     btn_class : "btn btn--inverse btn--small"
-
-trabalho2:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
-    title     : "Prova II"
-    excerpt   : "Análise arquitetônica"
-    url       : "/trabalho/analise-arq"
-    btn_label : "11 de agosto"
-    btn_class : "btn btn--inverse btn--small"
-
-unidade3:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
     title     : "Urbanismo como arquitetura"
     excerpt: >
@@ -135,8 +126,18 @@ unidade3:
       Transferências eurasiáticas –
       Jardim chinês
     url       : "/aula/urb-como-arq"
-    btn_label : "11 de agosto"
+    btn_label : "1.º de junho"
     btn_class : "btn btn--inverse btn--small"
+
+trabalho2:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
+    title     : "Prova II"
+    excerpt   : "Análise arquitetônica"
+    url       : "/trabalho/analise-arq"
+    btn_label : "Entrega 1.º de junho"
+    btn_class : "btn btn--inverse btn--small"
+
+unidade3:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-640px-honjo_tatekawa_the_timberyard_at_honjo.jpg
     title     : "Barroco internacional"
     excerpt: >
@@ -145,7 +146,7 @@ unidade3:
       Virtuosismo estrutural –
       Presságios
     url       : "/aula/barroco-intl/"
-    btn_label : "18 de agosto"
+    btn_label : "15 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-800px-View_of_the_Wilderness_at_Kew_MET_DP105027.jpg
     title     : "Universo em expansão"
@@ -155,7 +156,7 @@ unidade3:
       Romantismo –
       Arqueologia e colonialismo
     url       : "/aula/universo/"
-    btn_label : "25 de agosto"
+    btn_label : "22 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-779px-jacques-louis_david_le_serment_des_horaces.jpg
     title     : "Reação clássica"
@@ -165,7 +166,7 @@ unidade3:
       Fim do vitruvianismo –
       Moralidade e arquitetura
     url       : "/aula/reacao/"
-    btn_label : "8 de setembro"
+    btn_label : "29 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
     title     : "Territórios e viação"
@@ -175,7 +176,7 @@ unidade3:
       Projetos urbanos na América do Norte –
       Agrimensura e representação
     url       : "/aula/territorios/"
-    btn_label : "15 de setembro"
+    btn_label : "6 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 trabalho3:
@@ -183,7 +184,14 @@ trabalho3:
     title     : "Trabalho III"
     excerpt   : "Pesquisa e crítica"
     url       : "/trabalho/wikipedia/"
-    btn_label : "Entrega 15 de setembro"
+    btn_label : "Entrega 13 de julho"
+    btn_class : "btn btn--inverse btn--small"
+
+expo:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg
+    title     : "Exposição dos trabalhos"
+    excerpt   : "Ateliê 2"
+    btn_label : "18 a 25 de julho"
     btn_class : "btn btn--inverse btn--small"
 ---
 

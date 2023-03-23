@@ -28,15 +28,15 @@ trabalho1:
     title     : "Trabalho I"
     excerpt   : "Análise urbana"
     url       : "/trabalho/analise-urbana/"
-    btn_label : "Entrega 14 de julho"
+    btn_label : "Entrega 4 de maio" # 5 semanas
     btn_class : "btn btn--inverse btn--small"
 
 trabalho2:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-Gallery-Louis-XVI-Library.jpg
-    title     : "Prova II"
+    title     : "Trabalho II"
     excerpt   : "Análise arquitetônica"
-    url       : "/trabalho/prova/"
-    btn_label : "11 de agosto"
+    url       : "/trabalho/analise-arq/"
+    btn_label : "Entrega 1.º de junho" # 4 semanas porque na 5.ª é Corpus Christi
     btn_class : "btn btn--inverse btn--small"
 
 trabalho3:
@@ -44,7 +44,7 @@ trabalho3:
     title     : "Trabalho III"
     excerpt   : "Pesquisa e crítica"
     url       : "/trabalho/wikipedia/"
-    btn_label : "Entrega 15 de setembro"
+    btn_label : "Entrega 13 de julho" # 5 semanas tirando Corpus Christi
     btn_class : "btn btn--inverse btn--small"
 ---
 
