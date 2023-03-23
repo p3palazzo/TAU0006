@@ -89,16 +89,16 @@ var store = [{
         "url": "/TAU0006/plano/analise-urbana/",
         "teaser": null
       },{
-        "title": "Avaliação",
-        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/plano/avalia/",
-        "teaser": null
-      },{
         "title": "Leitura e estudo",
         "excerpt":"A leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a aula expositiva vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar os trabalhos! Antes, o encontro em aula é uma ocasião para esclarecer dúvidas sobre pontos do conteúdo...","categories": [],
         "tags": [],
         "url": "/TAU0006/plano/bibliografia/",
+        "teaser": null
+      },{
+        "title": "Avaliação",
+        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/plano/avalia/",
         "teaser": null
       },{
         "title": "Perguntas frequentes",
@@ -131,20 +131,8 @@ var store = [{
         "url": "/TAU0006/plano/objetivos/",
         "teaser": null
       },{
-        "title": "Análise urbana",
-        "excerpt":"Os instrumentos de análise têm de ser suficientemente genéricos para que possam ser aplicados a qualquer cidade; em suma, eles servem para começar a observar as cidades e nelas reconhecer algumas lógicas recorrentes. Com efeito, um dos aspectos fascinantes do estudo das cidades é que, apesar de suas diferenças e...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/trabalho/analise-urbana/",
-        "teaser": null
-      },{
-        "title": "Análise arquitetônica",
-        "excerpt":"Objetivo Dominar e ser capaz de empregar os elementos do vocabulário e a gramática das tradições arquitetônicas da era moderna, com ênfase na linguagem clássica. Ementa Premissa Figura 1: Bernardo Vittone, projeto de uma capela, em Istruzioni diverse, 1766 Figura 2: Claude Perrault, escadaria dos Embaixadores, Louvre, c. 1672 (destruída) A...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/trabalho/analise-arq/",
-        "teaser": null
-      },{
         "title": "Pesquisa e crítica",
-        "excerpt":"Objetivo de aprendizagem Saber pesquisar Refletir criticamente sobre a tradição historiográfica da arquitetura, e especialmente sobre os debates a respeito das noções de Antiguidade e Modernidade. Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e...","categories": [],
+        "excerpt":"Ementa Ao longo da Idade Moderna, arquitetos e teóricos abordaram o problema da legitimidade da arquitetura enquanto ofício ao mesmo tempo intelectual, técnico e artístico. Os problemas em torno da natureza da arquitetura enquanto um campo do conhecimento e das regras do ofício enquanto prática resultaram em tratados teóricos, manuais...","categories": [],
         "tags": [],
         "url": "/TAU0006/trabalho/wikipedia/",
         "teaser": null
@@ -167,8 +155,20 @@ var store = [{
         "url": "/TAU0006/trabalho/pesquisa-analise/",
         "teaser": null
       },{
+        "title": "Análise urbana",
+        "excerpt":"Os instrumentos de análise têm de ser suficientemente genéricos para que possam ser aplicados a qualquer cidade; em suma, eles servem para começar a observar as cidades e nelas reconhecer algumas lógicas recorrentes. Com efeito, um dos aspectos fascinantes do estudo das cidades é que, apesar de suas diferenças e...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/trabalho/analise-urbana/",
+        "teaser": null
+      },{
+        "title": "Análise arquitetônica",
+        "excerpt":"Ementa Figura 1: Bernardo Vittone, projeto de uma capela, em Istruzioni diverse, 1766 Figura 2: Claude Perrault, escadaria dos Embaixadores, Louvre, c. 1672 (destruída) A tipologia edilícia e a forma urbana se influenciam mutuamente. A arquitetura responde simultaneamente às condições singulares da sua implantação no lugar, e gera condicionantes para intervenções...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/trabalho/analise-arq/",
+        "teaser": null
+      },{
         "title": "Resenha e discussão de texto",
-        "excerpt":"Objetivo de aprendizagem Conhecer os fatos urbanos Estudar as obras e os processos descritos na bibliografia, refletindo criticamente sobre inclusões, exclusões e abordagens nas escolhas operadas pelos autores. Produto Resumo da leitura (1 ponto) Em um parágrafo (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras,...","categories": [],
+        "excerpt":"Ementa Reflexão crítica sobre a leitura da semana, preparatória para a discussão em aula. Produto Resumo da leitura (1 ponto) Em um parágrafo (aproximadamente 3 a 5 frases por parágrafo) e usando as suas próprias palavras, discuta os principais argumentos levantados pela leitura indicada para esta semana. Não é preciso...","categories": [],
         "tags": [],
         "url": "/TAU0006/trabalho/resenha/",
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2022/05/teaser-640px-crespi-scaffale.jpg"
