@@ -1,8 +1,6 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2"
+gem "jekyll", "4.3.2"
 gem "minimal-mistakes-jekyll", "~> 4.24"
-gem "bibtex-ruby"
-gem "sassc"
 gem "stringex"
 gem "webrick" #required by ruby 3.0
 group :jekyll_plugins do
@@ -11,7 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-include-cache"
   gem "jekyll-pandoc"
-  gem "jekyll-relative-links"
+  gem "jekyll-relative-links", "0.6.1"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
 end
