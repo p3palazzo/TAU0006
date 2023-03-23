@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -110,10 +115,10 @@ composições</li>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg/2560px-Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg/2560px-Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg"></h2>
-<figure>
+<figure id="fig:tempietto-stich">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg/999px-Stich_-_Tempio_del_Bramante_a_S._Pietro_Montorio.jpg"
-id="fig:tempietto-stich" class="slide-bg"
+class="slide-bg"
 alt="Donato Bramante, “Tempietto” de S. Pietro in Montorio, Roma, 1502–1510. Gravura francesa c. 1700" />
 <figcaption aria-hidden="true">Donato Bramante, “Tempietto” de S. Pietro
 in Montorio, Roma, 1502–1510. <a
@@ -126,30 +131,29 @@ francesa c. 1700</a></figcaption>
 <h2></h2>
 <div class="columns full">
 <div class="column" style="width:32%;">
-<figure>
+<figure id="fig:sposalizio-perugino">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Perugino_marriage_virgin_1504_(22170197579).jpg/583px-Perugino_marriage_virgin_1504_(22170197579).jpg"
-id="fig:sposalizio-perugino" class="fragment nobg"
+class="fragment nobg"
 alt="Pietro Perugino, Esponsais da Virgem Maria, 1500" />
 <figcaption aria-hidden="true">Pietro Perugino, <a
 href="https://commons.wikimedia.org/wiki/File:Perugino_marriage_virgin_1504_(22170197579).jpg">Esponsais
 da Virgem Maria, 1500</a></figcaption>
 </figure>
 </div><div class="column" style="width:30%;">
-<figure>
+<figure id="fig:sposalizio-raffaello">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg/535px-Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg"
-id="fig:sposalizio-raffaello" class="fragment"
-alt="Rafael Sanzio, Esponsais da Virgem Maria, 1504" />
+class="fragment" alt="Rafael Sanzio, Esponsais da Virgem Maria, 1504" />
 <figcaption aria-hidden="true">Rafael Sanzio, <a
 href="https://commons.wikimedia.org/wiki/File:Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg">Esponsais
 da Virgem Maria, 1504</a></figcaption>
 </figure>
 </div><div class="column" style="width:31.5%;">
-<figure>
+<figure id="fig:tempietto-foto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg/569px-Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg"
-id="fig:tempietto-foto" class="fragment"
+class="fragment"
 alt="Donato Bramante, Tempietto de S. Pietro in Montorio, Roma, 1502–1510" />
 <figcaption aria-hidden="true">Donato Bramante, <a
 href="https://commons.wikimedia.org/wiki/File:Tempietto_und_Glockenturm_von_San_Pietro_in_Montorio.jpg">Tempietto
@@ -182,10 +186,10 @@ um paradigma viável na prática da arquitetura no Renascimento. A capela
 e o claustro são os tipos mais característicos da espacialidade
 renascentista enquanto vazio delimitado por superfícies articuladas.</p>
 </aside>
-<figure>
+<figure id="fig:satiro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/8f/3597MilanoSSatiroInside.JPG"
-id="fig:satiro" class="slide-bg"
+class="slide-bg"
 alt="Bramante, igreja de S. Maria presso San Satiro, Milão, 1476–1482. Foto: Geobia, 2013" />
 <figcaption aria-hidden="true">Bramante, igreja de S. Maria presso San
 Satiro, Milão, 1476–1482. Foto: <a
@@ -197,10 +201,10 @@ href="https://commons.wikimedia.org/wiki/File:3597MilanoSSatiroInside.JPG">Geobi
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg"></h2>
-<figure>
+<figure id="fig:chiostro-pace">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1020px-Chiostro_SM_della_Pace.jpg"
-id="fig:chiostro-pace" class="slide-bg"
+class="slide-bg"
 alt="Bramante, claustro de S. Maria della Pace, Roma, 1500–1504. Foto: Marie-Lan Nguyen, 2013" />
 <figcaption aria-hidden="true">Bramante, claustro de S. Maria della
 Pace, Roma, 1500–1504. Foto: <a
@@ -213,10 +217,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chios
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/37/Chiostro_SM_della_Pace.jpg"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:chiostro-pace-angolo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/9f/RomaChiostroBramante-OrdineInferioreAngolo.jpg"
-id="fig:chiostro-pace-angolo"
 alt="Claustro de S. Maria della Pace, detalhe da pilastra de canto. Foto: M.M., 2013" />
 <figcaption aria-hidden="true">Claustro de S. Maria della Pace, detalhe
 da pilastra de canto. Foto: <a
@@ -247,10 +250,10 @@ espaço ilimitado da perspectiva, mas o próprio espaço é delimitado pela
 arquitetura. O ponto de fuga coincide com o centro temático da imagem,
 entre Platão e Aristóteles.</p>
 </aside>
-<figure>
+<figure id="fig:atene">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/3_Estancia_del_Sello_(Escuela_de_Atenas).jpg/990px-3_Estancia_del_Sello_(Escuela_de_Atenas).jpg"
-id="fig:atene" class="slide-bg"
+class="slide-bg"
 alt="Rafael Sanzio, Escola de Atenas, 1509. Afresco no palácio do Vaticano, stanza della Segnatura" />
 <figcaption aria-hidden="true">Rafael Sanzio, <a
 href="https://commons.wikimedia.org/wiki/File:3_Estancia_del_Sello_(Escuela_de_Atenas).jpg">Escola
@@ -262,10 +265,10 @@ Segnatura</figcaption>
 data-background-image="https://i.pinimg.com/originals/38/a0/52/38a052bb4b7f48aecaa1f9d555b3c39a.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/38/a0/52/38a052bb4b7f48aecaa1f9d555b3c39a.jpg"></h2>
-<figure>
+<figure id="fig:belvedere">
 <img
 data-src="https://i.pinimg.com/originals/38/a0/52/38a052bb4b7f48aecaa1f9d555b3c39a.jpg"
-id="fig:belvedere" class="slide-bg"
+class="slide-bg"
 alt="Bramante, pátio do Belvedere, palácio do Vaticano, iniciado 1505. Desenho: Giovanni Antonio Dosio, entre 1558 e 1561" />
 <figcaption aria-hidden="true">Bramante, pátio do Belvedere, palácio do
 Vaticano, iniciado 1505. Desenho: <a
@@ -285,10 +288,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://images.metmuseum.org/CRDImages/dp/original/DP834471.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:anet">
 <img
 data-src="https://images.metmuseum.org/CRDImages/dp/original/DP834471.jpg"
-id="fig:anet" class="slide-bg"
+class="slide-bg"
 alt="Philibert De l’Orme, projeto para a capela do castelo de Anet, França. Gravura baseada em desenho de Jacques I Androuet Du Cerceau, c. 1555" />
 <figcaption aria-hidden="true">Philibert De l’Orme, projeto para a
 capela do castelo de Anet, França. Gravura baseada em desenho de <a
@@ -310,10 +313,10 @@ data-background-size="contain" data-background-position="right">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lisboa-Igreja_de_São_Roque-20140917.jpg/2276px-Lisboa-Igreja_de_São_Roque-20140917.jpg"
 data-background-size="contain" data-background-position="right"></h2>
-<figure>
+<figure id="fig:roque">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lisboa-Igreja_de_São_Roque-20140917.jpg/853px-Lisboa-Igreja_de_São_Roque-20140917.jpg"
-id="fig:roque" class="slide-bg"
+class="slide-bg"
 alt="Filippo Terzi com Afonso e Bartolomeu Álvares, igreja de São Roque, Lisboa, iniciada 1553. Foto: Daniel Villafruela, 2014" />
 <figcaption aria-hidden="true">Filippo Terzi com Afonso e Bartolomeu
 Álvares, igreja de São Roque, Lisboa, iniciada 1553. Foto: <a
@@ -356,10 +359,10 @@ baseada na regularidade e na expressão contínua do “andar nobre”, que é
 o primeiro piso e o nível, por assim dizer, social e cerimonial do
 palácio (fig. 12).</p>
 </aside>
-<figure>
+<figure id="fig:massimo-fac">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/It-roma-pal_massimo_colonne-150813-pp-2406.jpg/1023px-It-roma-pal_massimo_colonne-150813-pp-2406.jpg"
-id="fig:massimo-fac" class="slide-bg"
+class="slide-bg"
 alt="Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509–1511. Foto: Pedro P. Palazzo, 2015" />
 <figcaption aria-hidden="true">Baldassare Peruzzi, palácio Massimo alle
 colonne, Roma, 1509–1511. Foto: <a
@@ -371,10 +374,10 @@ P. Palazzo, 2015</a></figcaption>
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/letarouilly-massimo-8789135-1080p.png">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/letarouilly-massimo-8789135-1080p.png"></h2>
-<figure>
+<figure id="fig:massimo-plans">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/letarouilly-massimo-8789135-1080crop.png"
-id="fig:massimo-plans" class="line slide-bg"
+class="line slide-bg"
 alt="Peruzzi, palácio Massimo alle colonne, plantas levantadas em Letarouilly, Édifices de Rome moderne, 1840, v. 3" />
 <figcaption aria-hidden="true">Peruzzi, palácio Massimo alle colonne,
 plantas levantadas em <a
@@ -397,10 +400,10 @@ verticalidade dos palácios de origem medieval, em oposição ao ideal
 clássico de que tudo o que é importante acontece no térreo. Com isso, as
 escadarias vão ganhando monumentalidade.</p>
 </aside>
-<figure>
+<figure id="fig:massimo-plan">
 <img
 data-src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/360533/769773/main-image"
-id="fig:massimo-plan" class="slide-bg"
+class="slide-bg"
 alt="Baldassare Peruzzi, palácio Massimo alle colonne, Roma, 1509–11. Planta do térreo: anônimo do século XVI" />
 <figcaption aria-hidden="true">Baldassare Peruzzi, palácio Massimo alle
 colonne, Roma, 1509–11. Planta do térreo: <a
@@ -448,21 +451,20 @@ analogias visuais é o sistema das ordens clássicas.</p>
 <h2>Conceitos</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:woelfflin-1924">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png"
-id="fig:woelfflin-1924" style="width:100.0%"
+style="width:100.0%"
 alt="Heinrich Wölfflin (1864–1945). Eduard Wasow 1924" />
 <figcaption aria-hidden="true">Heinrich Wölfflin (1864–1945). <a
 href="https://commons.wikimedia.org/wiki/File:Eduard_Wasow_-_Portr%C3%A4t_des_Kunsthistorikers_Heinrich_W%C3%B6lfflin,_1924.png">Eduard
 Wasow 1924</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:argan-senato">
 <img
 data-src="https://cdn07.artribune.com/wp-content/uploads/2015/09/Giulio-Carlo-Argan-negli-anni-80.jpg"
-id="fig:argan-senato" style="width:100.0%"
-alt="Giulio Carlo Argan (1909–1992). Artribune" />
+style="width:100.0%" alt="Giulio Carlo Argan (1909–1992). Artribune" />
 <figcaption aria-hidden="true">Giulio Carlo Argan (1909–1992). <a
 href="https://www.artribune.com/professioni-e-professionisti/didattica/2015/09/didattica-storia-arte-giulio-carlo-argan-scuola-formazione/">Artribune</a></figcaption>
 </figure>
@@ -475,10 +477,9 @@ href="https://www.artribune.com/professioni-e-professionisti/didattica/2015/09/d
 </section>
 <section id="section-12" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:flagellazione">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Piero_della_Francesca_-_The_Flagellation_-_WGA17600.jpg"
-id="fig:flagellazione"
 alt="Piero della Francesca. Flagelação de Cristo, 1468–1470" />
 <figcaption aria-hidden="true">Piero della Francesca. Flagelação de
 Cristo, 1468–1470</figcaption>
@@ -486,20 +487,19 @@ Cristo, 1468–1470</figcaption>
 </section>
 <section id="section-13" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:tintoretto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/4/46/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg"
-id="fig:tintoretto" alt="Jacopo Tintoretto, Última Ceia, 1594" />
+alt="Jacopo Tintoretto, Última Ceia, 1594" />
 <figcaption aria-hidden="true">Jacopo Tintoretto, Última Ceia,
 1594</figcaption>
 </figure>
 </section>
 <section id="section-14" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:sagrestia-vecchia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg"
-id="fig:sagrestia-vecchia"
 alt="Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1419. Paolo Monti (1975)" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, sacristia Velha da
 igreja de San Lorenzo, Florença, 1419. <a
@@ -513,10 +513,9 @@ Monti (1975)</a></figcaption>
 </section>
 <section id="section-15" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:sagrestia-nuova">
 <img
 data-src="https://www.finestresullarte.info/blog/immagini/2019/1029/sagrestia-nuova-tomba-lorenzo.JPG"
-id="fig:sagrestia-nuova"
 alt="Miguel Ângelo Buonarroti, sacristia Nova da igreja de San Lorenzo, Florença, 1520–1555. Andrea Jemolo (2019)" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, sacristia Nova
 da igreja de San Lorenzo, Florença, 1520–1555. <a
@@ -537,10 +536,9 @@ elementos.</p>
 <p>A cenografia é o domínio por excelência da profundidade, ou melhor,
 da aparência de profundidade.</p>
 </aside>
-<figure>
+<figure id="fig:cesariano-cavedi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Cesariano_De_Architectura_VI_cavaedi.jpg"
-id="fig:cesariano-cavedi"
 alt="Cesare Cesariano, edifícios cênicos da tradução do tratado Da Arquitetura de Vitrúvio, 1521" />
 <figcaption aria-hidden="true">Cesare Cesariano, edifícios cênicos da
 tradução do tratado <em>Da Arquitetura</em> de Vitrúvio,
@@ -553,10 +551,9 @@ tradução do tratado <em>Da Arquitetura</em> de Vitrúvio,
 <p>Serlio é, dos tratadistas do Renascimento, o que melhor equilibra o
 espírito prático à visão do classicismo como sistema global.</p>
 </aside>
-<figure>
+<figure id="fig:serlio-orders">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reigles_generales_de_l&#39;architecture,_sur_les_cincq_manieres_d&#39;edifices_MET_DP291981.jpg/664px-Reigles_generales_de_l&#39;architecture,_sur_les_cincq_manieres_d&#39;edifices_MET_DP291981.jpg"
-id="fig:serlio-orders"
 alt="Sebastiano Serlio, cinco maneiras de edificações, 1545" />
 <figcaption aria-hidden="true">Sebastiano Serlio, cinco maneiras de
 edificações, 1545</figcaption>
@@ -570,10 +567,9 @@ reconhecida por dois aspectos principais: o uso da perspectiva forçada e
 a caracterização dos diferentes tipos de cenários segundo o caráter da
 peça.</p>
 </aside>
-<figure>
+<figure id="fig:serlio-tragica">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Houghton_Typ_525.69.781_-_Serlio,_69.jpg/1216px-Houghton_Typ_525.69.781_-_Serlio,_69.jpg"
-id="fig:serlio-tragica"
 alt="Sebastiano Serlio, cena trágica, publicado em 1569" />
 <figcaption aria-hidden="true">Sebastiano Serlio, cena trágica,
 publicado em 1569</figcaption>
@@ -581,10 +577,9 @@ publicado em 1569</figcaption>
 </section>
 <section id="section-19" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:serlio-comica">
 <img
 data-src="https://i.pinimg.com/originals/4e/af/d7/4eafd789ec232956d919b44c498e892c.jpg"
-id="fig:serlio-comica"
 alt="Sebastiano Serlio, cena cômica, publicado em 1569" />
 <figcaption aria-hidden="true">Sebastiano Serlio, cena cômica, publicado
 em 1569</figcaption>
@@ -595,10 +590,9 @@ em 1569</figcaption>
 </section>
 <section id="section-20" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:madama-clerisseau">
 <img
 data-src="https://www.rome-roma.net/artmodule/charles%20louis%20clerisseau/clerisseau%20-%20villa%20madama%20-%20rome.jpg"
-id="fig:madama-clerisseau"
 alt="Rafael Sanzio e Antonio da Sangallo, o novo, galeria da villa Madama, Roma, 1518. Charles-Louis Clérisseau (1740–1760)" />
 <figcaption aria-hidden="true">Rafael Sanzio e Antonio da Sangallo, o
 novo, galeria da villa Madama, Roma, 1518. <a
@@ -608,10 +602,9 @@ Clérisseau (1740–1760)</a></figcaption>
 </section>
 <section id="section-21" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:chigh">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi_Panorama.jpg"
-id="fig:chigh"
 alt="Rafael Sanzio, capela Chigi, Santa Maria del Popolo, Roma, 1507. Peter1936F (2014)" />
 <figcaption aria-hidden="true">Rafael Sanzio, capela Chigi, Santa Maria
 del Popolo, Roma, 1507. <a
@@ -628,10 +621,9 @@ href="https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chi
 <p>Na biblioteca Laurenciana (figs. 27-29), Miguel Ângelo retoma a
 questão da volumetria sobre a parede, num contexto extremo.</p>
 </aside>
-<figure>
+<figure id="fig:laurenziana-plan">
 <img
 data-src="https://images.squarespace-cdn.com/content/v1/534f671de4b06285ac59cfc8/1407656382445-SINI1XEDJTT80TAUSELI/ke17ZwdGBToddI8pDm48kEYIuDeeA_M13V_05mIyOkZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcfKDetD5sbikW7NsVqw6nWEoWMpzTRX0i29xPiblypbNu5CKjqY9W0mdZaYRBKrqw/571plan+final.jpg?format=500w"
-id="fig:laurenziana-plan"
 alt="Miguel Ângelo, biblioteca Laurenciana, Florença, 1519–1534" />
 <figcaption aria-hidden="true">Miguel Ângelo, biblioteca Laurenciana,
 Florença, 1519–1534</figcaption>
@@ -648,10 +640,9 @@ construtivos, a começar pela escadaria monumentalizada.</p>
 das estratégias que o artista usa para fazer a escadaria parecer maior
 do que é, e junto com ela todo o espaço do vestíbulo.</p>
 </aside>
-<figure>
+<figure id="fig:laurenziana-scala">
 <img
 data-src="http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0024.jpg"
-id="fig:laurenziana-scala"
 alt="Miguel Ângelo, biblioteca Laurenciana, Florença, 1519–1534. Massimo Listri (2019)" />
 <figcaption aria-hidden="true">Miguel Ângelo, biblioteca Laurenciana,
 Florença, 1519–1534. <a
@@ -667,10 +658,9 @@ costume de aplicar as pilastras e colunas <em>à frente</em> da
 superfície da parede, e encaixa os elementos da arquitetura
 <em>dentro</em> da espessura da parede.</p>
 </aside>
-<figure>
+<figure id="fig:laurenziana-ricetto">
 <img
 data-src="http://massimolistri.com/app/public/files/foto/Biblioteca%20Laurenziana%20Firenze__0016.jpg"
-id="fig:laurenziana-ricetto"
 alt="Miguel Ângelo, biblioteca Laurenciana, Florença, 1519–1534. Massimo Listri (2009)" />
 <figcaption aria-hidden="true">Miguel Ângelo, biblioteca Laurenciana,
 Florença, 1519–1534. <a
@@ -689,10 +679,9 @@ basílicas da Roma antiga, e especialmente da descrição da basílica em
 Fano por Vitrúvio. Essa solução é usada ao longo da Idade Média, como no
 batistério de Florença (fig. 30).</p>
 </aside>
-<figure>
+<figure id="fig:battistero-nord">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Battistero_di_firenze,_interno_04,_porta_nord.JPG/1280px-Battistero_di_firenze,_interno_04,_porta_nord.JPG"
-id="fig:battistero-nord"
 alt="Batistério de San Giovanni, Florença, século XII. Sailko" />
 <figcaption aria-hidden="true">Batistério de San Giovanni, Florença,
 século <span class="smallcaps">XII</span>. <span class="citation"
@@ -707,10 +696,9 @@ capelas laterais e a nave central na basílica de Santo André, um dos
 seus últimos projetos (fig. 31). No entanto, na solução de Alberti, cada
 ordem ainda compõe um único “nível” do espaço.</p>
 </aside>
-<figure>
+<figure id="fig:mantua-int">
 <img
 data-src="https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg"
-id="fig:mantua-int"
 alt="Leon Battista Alberti, basílica de Sant’Andrea, Mântua, 1470–1790, interior. Mykaul" />
 <figcaption aria-hidden="true">Leon Battista Alberti, basílica de
 Sant’Andrea, Mântua, 1470–1790, interior. <span class="citation"
@@ -725,10 +713,9 @@ primeiros a exibir uma ordem de colunas que abarca dois pavimentos, mas
 trata-se de uma composição unitária: a ordem colossal não interage com
 uma ordem menor.</p>
 </aside>
-<figure>
+<figure id="fig:tarugi-persp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1280px-Montepulciano_Palazzo_Tarugi.jpg"
-id="fig:tarugi-persp"
 alt="Antonio da Sangallo, o velho (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. Strafforello (1895)" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o velho
 (atribuição), palácio Tarugi, Montepulciano, anterior a 1534. <a
@@ -742,10 +729,9 @@ href="https://commons.wikimedia.org/wiki/File:Montepulciano_Palazzo_Tarugi.jpg">
 <p>A ordem colossal é usada desde então como estratégia de unificação da
 fachada, uma solução especialmente popular em Roma.</p>
 </aside>
-<figure>
+<figure id="fig:zecca">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d&#39;Antica_Zecca.jpg/1132px-Palazzo_d&#39;Antica_Zecca.jpg"
-id="fig:zecca"
 alt="Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. Jensens" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o jovem, palazzo
 della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. <span
@@ -755,10 +741,9 @@ data-cites="jensens:2008palazzo">Jensens</span></figcaption>
 </section>
 <section id="section-29" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:capitolium">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg/1280px-Maquette_de_Rome_(musée_de_la_civilisation_romaine,_Rome)_(5911810278).jpg"
-id="fig:capitolium"
 alt="Capitólio de Roma, reconstituição no reinado de Constantino (306–337) por Italo Gismondi, 1933–1937. J.-P. Dalbéra (2011)" />
 <figcaption aria-hidden="true">Capitólio de Roma, reconstituição no
 reinado de Constantino (306–337) por Italo Gismondi, 1933–1937. <a
@@ -768,10 +753,9 @@ Dalbéra (2011)</a></figcaption>
 </section>
 <section id="section-30" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:campidoglio-plan">
 <img
 data-src="https://i.pinimg.com/originals/70/f2/aa/70f2aa78ea9845246bef6569037ae13d.jpg"
-id="fig:campidoglio-plan"
 alt="Miguel Ângelo Buonarroti, Capitólio, Roma, 1536–1546, planta por Paul Letarouilly" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, Capitólio,
 Roma, 1536–1546, planta por Paul Letarouilly</figcaption>
@@ -783,10 +767,9 @@ Roma, 1536–1546, planta por Paul Letarouilly</figcaption>
 <p>Combinação de ordem colossal de pilastras e ordem pequena de
 colunas.</p>
 </aside>
-<figure>
+<figure id="fig:pal-nuovo">
 <img
 data-src="https://i.pinimg.com/originals/bb/bb/b2/bbbbb20eea10e63c0e6f19d51555bc32.jpg"
-id="fig:pal-nuovo"
 alt="Miguel Ângelo Buonarroti, palácio Nuovo, Roma, 1536–1546" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, palácio Nuovo,
 Roma, 1536–1546</figcaption>
@@ -799,10 +782,9 @@ Roma, 1536–1546</figcaption>
 culturas arquitetônicas que favorecem a marcação dos pavimentos por meio
 da sobreposição de ordens, como Florença e a França…</p>
 </aside>
-<figure>
+<figure id="fig:louvre-ducerceau">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg/1280px-Bastiments_v1_(Gregg_1972_p20)_-_Louvre_west_wing_court_facade.jpg"
-id="fig:louvre-ducerceau"
 alt="Pierre Lescot, palácio do Louvre, reconstruído 1546–1551. Desenho de Jacques Androuet du Cerceau (1576)" />
 <figcaption aria-hidden="true">Pierre Lescot, palácio do Louvre,
 reconstruído 1546–1551. Desenho de <a
@@ -819,10 +801,9 @@ numa composição unitária, sobretudo por meio do uso de uma ordem
 colossal sobre pódio, que é o caso de Roma e da terra firme
 veneziana.</p>
 </aside>
-<figure>
+<figure id="fig:capitaniato-colossal">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_del_Capitanio_-_Vicenza.jpg/1280px-Palazzo_del_Capitanio_-_Vicenza.jpg"
-id="fig:capitaniato-colossal"
 alt="Andrea Palladio, loggia del Capitaniato, Vicenza, 1571–1572. Marcok (2006)" />
 <figcaption aria-hidden="true">Andrea Palladio, loggia del Capitaniato,
 Vicenza, 1571–1572. <a
@@ -866,10 +847,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_(Lanciani).jpg/1280px-Papal_Basilica_of_Saint_Peter_(Lanciani).jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:lanciani">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Papal_Basilica_of_Saint_Peter_(Lanciani).jpg/1024px-Papal_Basilica_of_Saint_Peter_(Lanciani).jpg"
-id="fig:lanciani" class="slide-bg"
+class="slide-bg"
 alt="Rodolfo Lanciani, planta histórica do Vaticano, em Forma urbis Romae, pr. XIII, 1893-1901" />
 <figcaption aria-hidden="true">Rodolfo Lanciani, planta histórica do
 Vaticano, em <em>Forma urbis Romae</em>, pr. <span
@@ -884,10 +865,10 @@ data-background-size="contain">
 data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2017/10/italie-roma-cirque-de-caligula-jc-golvin.jpg"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:jcg-caligula">
 <img
 data-src="https://jeanclaudegolvin.com/wp-content/uploads/2017/10/italie-roma-cirque-de-caligula-jc-golvin.jpg"
-id="fig:jcg-caligula" class="slide-bg"
+class="slide-bg"
 alt="Jean-Claude Golvin, reconstituição do circo de Calígula ao pé do monte do Vaticano, 37–50 d.C." />
 <figcaption aria-hidden="true">Jean-Claude Golvin, reconstituição do
 circo de Calígula ao pé do monte do Vaticano, 37–50 d.C.</figcaption>
@@ -899,10 +880,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg/1280px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:oldspietro-persp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg/640px-History_of_Rome_and_the_Popes_in_the_Middle_Ages_(1911)_(14760945204).jpg"
-id="fig:oldspietro-persp" class="slide-bg"
+class="slide-bg"
 alt="Basílica de São Pedro, construção original do século IV, estado provável no século XV, desenho por Hartmann Grisar, 1911" />
 <figcaption aria-hidden="true">Basílica de São Pedro, construção
 original do século IV, estado provável no século <span
@@ -916,10 +897,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiber
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:alfarano-old">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg/780px-Tiberio_Alfarano_%E2%88%92_Pianta_di_San_Pietro.jpg"
-id="fig:alfarano-old" class="slide-bg"
+class="slide-bg"
 alt="Tiberio Alfarano, planta da antiga basílica de São Pedro no século XV, 1590" />
 <figcaption aria-hidden="true">Tiberio Alfarano, planta da antiga
 basílica de São Pedro no século <span class="smallcaps">XV</span>,
@@ -929,10 +910,10 @@ basílica de São Pedro no século <span class="smallcaps">XV</span>,
 </section>
 <section id="section-39" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:lugo-oldspietro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Affresco_dell&#39;aspetto_antico_della_basilica_costantiniana_di_san_pietro_nel_IV_secolo.jpg"
-id="fig:lugo-oldspietro" class="slide-bg"
+class="slide-bg"
 alt="Domenico Tasselli da Lugo, antiga basílica de São Pedro, afresco" />
 <figcaption aria-hidden="true">Domenico Tasselli da Lugo, antiga
 basílica de São Pedro, afresco</figcaption>
@@ -943,10 +924,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fig_245_Old_St_Peter&#39;s.jpg/1280px-Fig_245_Old_St_Peter&#39;s.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:rosengarten-spietro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fig_245_Old_St_Peter&#39;s.jpg/635px-Fig_245_Old_St_Peter&#39;s.jpg"
-id="fig:rosengarten-spietro" class="slide-bg"
+class="slide-bg"
 alt="Albert Rosengarten, reconstituição da antiga basílica de São Pedro, 1889" />
 <figcaption aria-hidden="true">Albert Rosengarten, reconstituição da
 antiga basílica de São Pedro, 1889</figcaption>
@@ -957,10 +938,10 @@ antiga basílica de São Pedro, 1889</figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fire_in_the_Borgo.jpg/1280px-Fire_in_the_Borgo.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fire_in_the_Borgo.jpg/1280px-Fire_in_the_Borgo.jpg"></h2>
-<figure>
+<figure id="fig:incendio-borgo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fire_in_the_Borgo.jpg/791px-Fire_in_the_Borgo.jpg"
-id="fig:incendio-borgo" class="slide-bg"
+class="slide-bg"
 alt="Rafael Sanzio, Incêndio do borgo Vaticano, sala de jantar de Leão X, palácio do Vaticano, 1514" />
 <figcaption aria-hidden="true">Rafael Sanzio, Incêndio do borgo
 Vaticano, sala de jantar de Leão X, palácio do Vaticano,
@@ -973,10 +954,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernardo_Rosellino.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:rossellino-ferrabosco">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Bernardo_Rosellino.jpg"
-id="fig:rossellino-ferrabosco" class="slide-bg"
+class="slide-bg"
 alt="Reconstituição do projeto de Bernardo Rossellino para a basílica de S. Pedro, c. 1450. Desenho: Martino Ferrabosco" />
 <figcaption aria-hidden="true">Reconstituição do projeto de Bernardo
 Rossellino para a basílica de S. Pedro, c. 1450. Desenho: <a
@@ -990,10 +971,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Sheet_with_Bramante&#39;s_first_plans.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:bramante-borsi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sheet_with_Bramante&#39;s_first_plans.jpg/532px-Sheet_with_Bramante&#39;s_first_plans.jpg"
-id="fig:bramante-borsi" class="slide-bg"
+class="slide-bg"
 alt="Donato Bramante, desenhos do projeto para a nova basílica de São Pedro, 1505–1506" />
 <figcaption aria-hidden="true">Donato Bramante, <a
 href="https://commons.wikimedia.org/wiki/File:Sheet_with_Bramante&#39;s_first_plans.jpg">desenhos
@@ -1006,10 +987,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007524_Autre_projet_de_Bramante.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:rossellino-spietro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007524_Autre_projet_de_Bramante.png/1024px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007524_Autre_projet_de_Bramante.png"
-id="fig:rossellino-spietro" class="line slide-bg"
+class="line slide-bg"
 alt="Donato Bramante, projeto para a nova basílica de São Pedro, c. 1450 (direita) e reconstituição por Paul Letarouilly, c. 1850 (esquerda). A – basílica antiga, B – localização do obelisco, C – nova galeria construída por Rossellino" />
 <figcaption aria-hidden="true">Donato Bramante, projeto para a nova
 basílica de São Pedro, c. 1450 (direita) e reconstituição por Paul
@@ -1030,10 +1011,10 @@ data-background-size="contain"></h2>
 estruturais e pelo fato de que cada espaço singular na planta é um
 composição potencialmente autônoma.</p>
 </aside>
-<figure>
+<figure id="fig:bramante-1st">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007522_Un_des_premiers_plans_de_Bramante.png/600px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007522_Un_des_premiers_plans_de_Bramante.png"
-id="fig:bramante-1st" class="line slide-bg"
+class="line slide-bg"
 alt="Donato Bramante, desenho de projeto para a planta da basílica de São Pedro, 1505–1506. Reconstituição por Paul Letarouilly, c. 1850" />
 <figcaption aria-hidden="true">Donato Bramante, desenho de projeto para
 a planta da basílica de São Pedro, 1505–1506. Reconstituição por <a
@@ -1047,10 +1028,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/75/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007523_Coupe_longitudinale_projet_de_Bramante.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:bramante-coupe">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007523_Coupe_longitudinale_projet_de_Bramante.png/1024px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007523_Coupe_longitudinale_projet_de_Bramante.png"
-id="fig:bramante-coupe" class="line slide-bg"
+class="line slide-bg"
 alt="Paul Letarouilly, reconstituição do corte do projeto de Bramante para a basílica de São Pedro, c. 1850" />
 <figcaption aria-hidden="true">Paul Letarouilly, reconstituição do corte
 do projeto de Bramante para a basílica de São Pedro,
@@ -1095,10 +1076,10 @@ data-background-size="contain"></h2>
 <p>Primeiro de muitos ensaios de retorno a uma planta longitudinal.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:spietro-sangallo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg/2560px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007525_Projets_divers.jpg"
-id="fig:spietro-sangallo" class="slide-bg"
+class="slide-bg"
 alt="Antonio e Giuliano da Sangallo (atribuição), projetos para a basílica de São Pedro, c. 1505–1510. Reconstituições por Paul Letarouilly, c. 1850" />
 <figcaption aria-hidden="true">Antonio e Giuliano da Sangallo
 (atribuição), projetos para a basílica de São Pedro, c. 1505–1510.
@@ -1117,10 +1098,10 @@ data-background-size="contain"></h2>
 <aside class="notes">
 <p>Idas e vindas entre a planta longitudinal e a centralizada</p>
 </aside>
-<figure>
+<figure id="fig:spietro-peruzzi">
 <img
 data-src="https://www.researchgate.net/profile/Joao-Xavier-7/publication/226963956/figure/fig9/AS:311005834956811@1451160977754/Baldassarre-Peruzzi-design-for-San-Pietro-di-Roma-Firenze-U2A_W640.jpg"
-id="fig:spietro-peruzzi" class="slide-bg"
+class="slide-bg"
 alt="Baldassare Peruzzi, projeto para a basílica de São Pedro, c. 1511" />
 <figcaption aria-hidden="true">Baldassare Peruzzi, projeto para a
 basílica de São Pedro, c. 1511</figcaption>
@@ -1135,10 +1116,10 @@ data-background-size="contain"></h2>
 <aside class="notes">
 <p>Reforço nos pilares centrais</p>
 </aside>
-<figure>
+<figure id="fig:sangallo-centrale">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007535_Autre_plan_d&#39;après_Sangallo.png/600px-Letarouilly_Le_Vatican_et_la_basilique_de_Saint-Pierre_7007535_Autre_plan_d&#39;après_Sangallo.png"
-id="fig:sangallo-centrale" class="line slide-bg"
+class="line slide-bg"
 alt="Antonio da Sangallo, o jovem, projeto centralizado para a basílica de São Pedro, c. 1539. Reconstituição por Paul Letarouilly, c. 1850" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o jovem, projeto
 centralizado para a basílica de São Pedro, c. 1539. Reconstituição por
@@ -1157,10 +1138,10 @@ data-background-size="contain"></h2>
 <p>É possível ter uma planta centralizada e alongada ao mesmo tempo?
 Antonio da Sangallo acha que sim.</p>
 </aside>
-<figure>
+<figure id="fig:sangallo-long">
 <img
 data-src="https://ia802904.us.archive.org/35/items/mma_bramantes_plan_for_st_peters_346307/346307.jpg"
-id="fig:sangallo-long" class="slide-bg"
+class="slide-bg"
 alt="Antonio da Sangallo, o jovem, projeto em cruz latina para a basílica de São Pedro, 1539. Planta reproduzida por Antonio Salamanca e Antoine Lafréry no Speculum romanae magnificentiae, 1549" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o jovem, projeto em
 cruz latina para a basílica de São Pedro, 1539. Planta reproduzida por
@@ -1173,10 +1154,10 @@ romanae magnificentiae</em>, 1549</a></figcaption>
 data-background-image="https://static2.abitare.it/wp-content/uploads/2018/03/01-Basilica-San-Pietro1.jpg">
 <h2
 data-background-image="https://static2.abitare.it/wp-content/uploads/2018/03/01-Basilica-San-Pietro1.jpg"></h2>
-<figure>
+<figure id="fig:labacco">
 <img
 data-src="https://static2.abitare.it/wp-content/uploads/2018/03/01-Basilica-San-Pietro1.jpg"
-id="fig:labacco" class="slide-bg"
+class="slide-bg"
 alt="Maquete por Antonio Labacco do último projeto de Antonio da Sangallo. Foto: Fabbrica di San Pietro in Vaticano, publicada em Abitare, 25 mar. 2018" />
 <figcaption aria-hidden="true">Maquete por Antonio Labacco do último
 projeto de Antonio da Sangallo. Foto: Fabbrica di San Pietro in
@@ -1197,10 +1178,10 @@ que Miguel Ângelo realiza as últimas alterações no projeto centralizado.
 Ele reduz a profundidade espacial na periferia, dando mais unidade às
 naves centrais e laterais (fig. 56).</p>
 </aside>
-<figure>
+<figure id="fig:michelange-plan">
 <img
 data-src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/403687/784784/main-image"
-id="fig:michelange-plan" class="slide-bg"
+class="slide-bg"
 alt="Miguel Ângelo Buonarroti, planta do projeto definitivo para a basílica de São Pedro, 1546. Gravura de Étienne Dupérac, 1569" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, planta do
 projeto definitivo para a basílica de São Pedro, 1546. Gravura de <a
@@ -1212,10 +1193,10 @@ Dupérac, 1569</a></figcaption>
 data-background-image="https://collectionapi.metmuseum.org/api/collection/v1/iiif/364511/784302/main-image">
 <h2
 data-background-image="https://collectionapi.metmuseum.org/api/collection/v1/iiif/364511/784302/main-image"></h2>
-<figure>
+<figure id="fig:michelange-coupe">
 <img
 data-src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/364511/784302/main-image"
-id="fig:michelange-coupe" class="slide-bg"
+class="slide-bg"
 alt="Miguel Ângelo Buonarroti, corte do projeto definitivo para a basílica de São Pedro, 1546. Gravura de Étienne Dupérac, 1551" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, corte do
 projeto definitivo para a basílica de São Pedro, 1546. Gravura de <a
@@ -1246,10 +1227,10 @@ class="smallcaps">XVI</span>, todos de pequenas dimensões, não oferecem
 um precedente claro para a massa gigantesca da basílica de São
 Pedro.</p>
 </aside>
-<figure>
+<figure id="fig:michelange-lat">
 <img
 data-src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/364513/777944/main-image"
-id="fig:michelange-lat" class="slide-bg"
+class="slide-bg"
 alt="Miguel Ângelo Buonarroti, elevação lateral do projeto definitivo para a basílica de São Pedro, 1546. Gravura de Étienne Dupérac, 1558–61" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, elevação
 lateral do projeto definitivo para a basílica de São Pedro, 1546.
@@ -1263,11 +1244,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspa
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter&#39;s_in_Rome_-_WGA25822.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:vanwittel-spietro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Caspar_van_Wittel_-_St_Peter&#39;s_in_Rome_-_WGA25822.jpg"
-id="fig:vanwittel-spietro" class="slide-bg"
-alt="Caspar van Wittel, São Pedro em Roma, 1711" />
+class="slide-bg" alt="Caspar van Wittel, São Pedro em Roma, 1711" />
 <figcaption aria-hidden="true">Caspar van Wittel, <a
 href="https://commons.wikimedia.org/wiki/File:Caspar_van_Wittel_-_St_Peter&#39;s_in_Rome_-_WGA25822.jpg">São
 Pedro em Roma, 1711</a></figcaption>
@@ -1317,10 +1297,10 @@ um jogo cada vez mais complexo de massas.</p>
 </aside>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:sm-novella">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Firenze_kosciol_Santa_Maria_Novella_3.jpg/576px-Firenze_kosciol_Santa_Maria_Novella_3.jpg"
-id="fig:sm-novella" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Leon Battista Alberti, fachada da igreja de Santa Maria Novella, Florença, 1450–1470. Foto: Andrzej Otrębski, 2009" />
 <figcaption aria-hidden="true">Leon Battista Alberti, fachada da igreja
 de Santa Maria Novella, Florença, 1450–1470. Foto: <a
@@ -1328,10 +1308,10 @@ href="https://commons.wikimedia.org/wiki/File:Firenze_kosciol_Santa_Maria_Novell
 Otrębski, 2009</a></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:sgiorgiomag-1">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg/600px-Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg"
-id="fig:sgiorgiomag-1" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Andrea Palladio, fachada da igreja de San Giorgio Maggiore, Veneza, 1566–1610. Foto: José Luiz Bernardes Ribeiro, 2016" />
 <figcaption aria-hidden="true">Andrea Palladio, fachada da igreja de San
 Giorgio Maggiore, Veneza, 1566–1610. Foto: <a
@@ -1345,10 +1325,10 @@ Luiz Bernardes Ribeiro, 2016</a></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:sgiorgiomag-2">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg/600px-Facade_-_San_Giorgio_Maggiore_-_Venice_2016_(4).jpg"
-id="fig:sgiorgiomag-2" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Andrea Palladio, fachada da igreja de San Giorgio Maggiore, Veneza, 1566–1610. Foto: José Luiz Bernardes Ribeiro, 2016" />
 <figcaption aria-hidden="true">Andrea Palladio, fachada da igreja de San
 Giorgio Maggiore, Veneza, 1566–1610. Foto: <a
@@ -1356,10 +1336,10 @@ href="https://commons.wikimedia.org/wiki/File:Facade_-_San_Giorgio_Maggiore_-_Ve
 Luiz Bernardes Ribeiro, 2016</a></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:redentore">
 <img
 data-src="https://64.media.tumblr.com/b73266a9b3b97a6df19a336dd7701912/tumblr_osmsalVOMt1uue6sco1_1280.jpg"
-id="fig:redentore" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Andrea Palladio, fachada da igreja do Redentor, Veneza, 1577–1592. Levantamento por Ottavio Bertotti-Scamozzi, século XVIII" />
 <figcaption aria-hidden="true">Andrea Palladio, fachada da igreja do
 Redentor, Veneza, 1577–1592. Levantamento por <a
@@ -1374,20 +1354,20 @@ class="smallcaps">XVIII</span></a></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:gesu-vignola">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Character_of_Renaissance_Architecture_0123.jpg/649px-Character_of_Renaissance_Architecture_0123.jpg"
-id="fig:gesu-vignola" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Jacopo Barozzi da Vignola, projeto para a fachada da igreja do Gesù, Roma, 1568. Moore" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, projeto para a
 fachada da igreja do Gesù, Roma, 1568. <span class="citation"
 data-cites="moore:1905character">Moore</span></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:gesu-dellaporta-dis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Character_of_Renaissance_Architecture_0124.jpg/599px-Character_of_Renaissance_Architecture_0124.jpg"
-id="fig:gesu-dellaporta-dis" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Giacomo Della Porta, projeto para a fachada da igreja do Gesù, Roma, 1575? Moore" />
 <figcaption aria-hidden="true">Giacomo Della Porta, projeto para a
 fachada da igreja do Gesù, Roma, 1575? <span class="citation"
@@ -1400,20 +1380,20 @@ data-cites="moore:1905character">Moore</span></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:gesu-dellaporta">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Church_of_the_Gesù,_Rome.jpg/666px-Church_of_the_Gesù,_Rome.jpg"
-id="fig:gesu-dellaporta" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Giacomo Della Porta, fachada da igreja do Gesù, Roma, 1575–1584. Damato" />
 <figcaption aria-hidden="true">Giacomo Della Porta, fachada da igreja do
 Gesù, Roma, 1575–1584. <span class="citation"
 data-cites="damato:2013church">Damato</span></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:susanna-1">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Santa_Susanna_(Rome)_-_Front.jpg/525px-Santa_Susanna_(Rome)_-_Front.jpg"
-id="fig:susanna-1" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Carlo Maderno, igreja de Santa Susanna, Roma, 1585–1603. Architas (Santa Susanna (Rome) - Front)" />
 <figcaption aria-hidden="true">Carlo Maderno, igreja de Santa Susanna,
 Roma, 1585–1603. <span class="citation"
@@ -1428,10 +1408,10 @@ Front</em>)</span></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:susanna-2">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Santa_Susanna_(Rome)_-_Front.jpg/525px-Santa_Susanna_(Rome)_-_Front.jpg"
-id="fig:susanna-2" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Carlo Maderno, igreja de Santa Susanna, Roma, 1585–1603. Architas (Santa Susanna (Rome) - Front)" />
 <figcaption aria-hidden="true">Carlo Maderno, igreja de Santa Susanna,
 Roma, 1585–1603. <span class="citation"
@@ -1439,10 +1419,10 @@ data-cites="architas:2018susanna">Architas (<em>Santa Susanna (Rome) -
 Front</em>)</span></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:vittoria">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg/539px-Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg"
-id="fig:vittoria" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Giovanni Battista Soria, fachada da igreja de Santa Maria della Vittoria, Roma, 1624–1626. Architas (Santa Maria Della Vittoria in Rome - Front)" />
 <figcaption aria-hidden="true">Giovanni Battista Soria, fachada da
 igreja de Santa Maria della Vittoria, Roma, 1624–1626. <span
@@ -1457,19 +1437,19 @@ Maria Della Vittoria in Rome - Front</em>)</span></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:perugino-annunciazione">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pietro_Perugino_cat23.jpg/529px-Pietro_Perugino_cat23.jpg"
-id="fig:perugino-annunciazione" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Pietro Perugino, Anunciação, igreja de Santa Maria Nuova, Fano, 1489" />
 <figcaption aria-hidden="true">Pietro Perugino, Anunciação, igreja de
 Santa Maria Nuova, Fano, 1489</figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:artemisia-annunciazione">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Verk%C3%BCndigung_an_maria.jpg/529px-Verk%C3%BCndigung_an_maria.jpg"
-id="fig:artemisia-annunciazione" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Artemisia Gentileschi, Anunciação, 1630" />
 <figcaption aria-hidden="true">Artemisia Gentileschi, Anunciação,
 1630</figcaption>
@@ -1479,10 +1459,10 @@ alt="Artemisia Gentileschi, Anunciação, 1630" />
 </section>
 <section id="geometria-e-pintura" class="slide level2">
 <h2>Geometria e pintura</h2>
-<figure>
+<figure id="fig:gesu-fletcher">
 <img
 data-src="http://www.wikitecnica.com/wp-content/uploads/2013/11/725_chiesa_del_gesù-1024x814.jpg"
-id="fig:gesu-fletcher" class="slide-bg"
+class="slide-bg"
 alt="Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568. Fletcher e Fletcher" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, igreja do
 Gesù, Roma, 1568. <span class="citation"
@@ -1496,10 +1476,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/3864px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:gesu-nave">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chiesa_del_Gesù_-_aprile_2019_-_12.jpg/576px-Chiesa_del_Gesù_-_aprile_2019_-_12.jpg"
-id="fig:gesu-nave" class="slide-bg"
+class="slide-bg"
 alt="Jacopo Barozzi da Vignola, igreja do Gesù, Roma, 1568–1584. Gemini" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, igreja do
 Gesù, Roma, 1568–1584. <span class="citation"
@@ -1511,10 +1491,10 @@ data-cites="gemini:2019chiesa">Gemini</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1280px-Gesù-Cupola01-SteO153.JPG">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1280px-Gesù-Cupola01-SteO153.JPG"></h2>
-<figure>
+<figure id="fig:gesu-cupola">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gesù-Cupola01-SteO153.JPG/1024px-Gesù-Cupola01-SteO153.JPG"
-id="fig:gesu-cupola" class="slide-bg"
+class="slide-bg"
 alt="Cúpula da igreja do Gesù, Roma, estrutura de Giacomo Della Porta, afrescos de Giovan Battista Gaulli « il Baccicio », 1674–1679. SteO153" />
 <figcaption aria-hidden="true">Cúpula da igreja do Gesù, Roma, estrutura
 de Giacomo Della Porta, afrescos de Giovan Battista Gaulli « il
@@ -1526,10 +1506,10 @@ data-cites="steo153:2007dome">SteO153</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1280px-Triumph_St_Ignatius_Pozzo.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1280px-Triumph_St_Ignatius_Pozzo.jpg"></h2>
-<figure>
+<figure id="fig:pozzo-apoteosi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Triumph_St_Ignatius_Pozzo.jpg/1024px-Triumph_St_Ignatius_Pozzo.jpg"
-id="fig:pozzo-apoteosi" class="slide-bg"
+class="slide-bg"
 alt="Andrea Pozzo, Apoteose de Santo Inácio de Loiola, 1685. Afresco na abóbada da nave da igreja de Santo Inácio, Roma" />
 <figcaption aria-hidden="true">Andrea Pozzo, Apoteose de Santo Inácio de
 Loiola, 1685. Afresco na abóbada da nave da igreja de Santo Inácio,
@@ -1540,10 +1520,10 @@ Roma</figcaption>
 data-background-image="http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg">
 <h2
 data-background-image="http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg"></h2>
-<figure>
+<figure id="fig:vascello-fac">
 <img
 data-src="http://www.grandeoriente.it/wp-content/uploads/2015/11/fig-1.jpg"
-id="fig:vascello-fac" class="slide-bg"
+class="slide-bg"
 alt="Plautilla Bricci, villa Il Vascello (o navio), Roma, 1647, fachada principal" />
 <figcaption aria-hidden="true">Plautilla Bricci, villa Il Vascello (o
 navio), Roma, 1647, fachada principal</figcaption>
@@ -1551,22 +1531,26 @@ navio), Roma, 1647, fachada principal</figcaption>
 </section>
 <section id="section-67" class="slide level2">
 <h2></h2>
-<div id="fig:vascello-lat" class="subfigures columns slide-bg">
+<figure id="fig:vascello-lat" class="subfigures columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:vascello-latA">
 <img
 data-src="https://archipendolo.files.wordpress.com/2015/11/fig-3.jpg"
-id="fig:vascello-latA" class="slide-bg" style="width:100.0%" />
+class="slide-bg" style="width:100.0%" alt="norte" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column slide-bg" style="width:50%;">
-<figure>
+</div>
+<div class="column slide-bg" style="width:50%;">
+<figure id="fig:vascello-latB">
 <img
 data-src="https://archipendolo.files.wordpress.com/2015/11/fig.-2.jpg"
-id="fig:vascello-latB" class="slide-bg" style="width:100.0%" />
+class="slide-bg" style="width:100.0%" alt="sul" />
+<figcaption></figcaption>
 </figure>
-</div><p>Plautilla Bricci, fachadas laterais da villa Il Vascello.
-a – norte, b – sul</p>
 </div>
+<figcaption><p>Plautilla Bricci, fachadas laterais da villa Il Vascello.
+a – norte, b – sul</p></figcaption>
+</figure>
 </section>
 <section id="espaço-e-projeto" class="slide level2">
 <h2>Espaço e projeto</h2>
@@ -1575,19 +1559,19 @@ a – norte, b – sul</p>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:pieta">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Michelangelo&#39;s_Pieta_5450_cropncleaned_edit.jpg/733px-Michelangelo&#39;s_Pieta_5450_cropncleaned_edit.jpg"
-id="fig:pieta" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Miguel Ângelo Buonarroti, Pietà, 1499" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, Pietà,
 1499</figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:estasi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ecstasy_of_Saint_Teresa_September_2015-2a.jpg/484px-Ecstasy_of_Saint_Teresa_September_2015-2a.jpg"
-id="fig:estasi" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Gianlorenzo Bernini, Êxtase de Santa Teresa, igreja de Santa Maria della Vittoria, Roma, 1647–1652" />
 <figcaption aria-hidden="true">Gianlorenzo Bernini, Êxtase de Santa
 Teresa, igreja de Santa Maria della Vittoria, Roma,
@@ -1600,10 +1584,10 @@ Teresa, igreja de Santa Maria della Vittoria, Roma,
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1280px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1280px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg"></h2>
-<figure>
+<figure id="fig:miracoli-montesanto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg/1024px-20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg"
-id="fig:miracoli-montesanto" class="slide-bg"
+class="slide-bg"
 alt="Carlo Rainaldi, Santa Maria dei Miracoli, Roma, 1675 (direita). Gianlorenzo Bernini, Santa Maria in Montesanto, 1679 (esquerda). Hałun" />
 <figcaption aria-hidden="true">Carlo Rainaldi, Santa Maria dei Miracoli,
 Roma, 1675 (direita). Gianlorenzo Bernini, Santa Maria in Montesanto,
@@ -1615,10 +1599,10 @@ data-cites="halun:2014twin">Hałun</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de&#39;_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de&#39;_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png"></h2>
-<figure>
+<figure id="fig:quirinale-falda">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Chiesa_dedicata_a_San_Andrea_Apostolo_del_Novitiato_de&#39;_Padri_Giesuiti_sul_Monte_Quirinale_by_Giovanni_Battista_Falda_(1667-1669).png"
-id="fig:quirinale-falda" class="slide-bg"
+class="slide-bg"
 alt="Gianlorenzo Bernini, igreja do noviciado jesuítico de Sant’Andrea al Quirinale, Roma, após 1658. Gravura por Giovanni Battista Falda, 1667–1669" />
 <figcaption aria-hidden="true">Gianlorenzo Bernini, igreja do noviciado
 jesuítico de Sant’Andrea al Quirinale, Roma, após 1658. Gravura por <a
@@ -1628,10 +1612,10 @@ Battista Falda, 1667–1669</a></figcaption>
 </section>
 <section id="section-71" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:quirinale-pianta">
 <img
 data-src="https://en.wikiarquitectura.com/wp-content/uploads/2017/01/SantAndrea_al_Quirinale_28329_-_Plano_de_Bernini-1024x768.jpg"
-id="fig:quirinale-pianta" class="slide-bg"
+class="slide-bg"
 alt="Gianlorenzo Bernini, Sant’Andrea al Quirinale, Roma, após 1658. Desenho autógrafo" />
 <figcaption aria-hidden="true">Gianlorenzo Bernini, Sant’Andrea al
 Quirinale, Roma, após 1658. Desenho autógrafo</figcaption>
@@ -1639,10 +1623,10 @@ Quirinale, Roma, após 1658. Desenho autógrafo</figcaption>
 </section>
 <section id="section-72" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:quirinale-sez">
 <img
 data-src="https://i.pinimg.com/originals/19/37/cc/1937ccca55120a73057d249de2f7b3b6.jpg"
-id="fig:quirinale-sez" class="slide-bg"
+class="slide-bg"
 alt="Gianlorenzo Bernini, Sant’Andrea al Quirinale, Roma, após 1658. Corte por Giovanni Francesco Venturini, acervo Metropolitan Museum of Art" />
 <figcaption aria-hidden="true">Gianlorenzo Bernini, Sant’Andrea al
 Quirinale, Roma, após 1658. <a
@@ -1653,10 +1637,10 @@ Art</a></figcaption>
 </section>
 <section id="section-73" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:quirinale-3d">
 <img
 data-src="https://en.wikiarquitectura.com/wp-content/uploads/2017/01/SantAndrea_al_Quirinale_28729-1024x779.jpg"
-id="fig:quirinale-3d" class="slide-bg"
+class="slide-bg"
 alt="Esquema dos espaços interiores da igreja de Sant’Andrea al Quirinale. Wikiarquitectura" />
 <figcaption aria-hidden="true">Esquema dos espaços interiores da igreja
 de Sant’Andrea al Quirinale. <a
@@ -1665,9 +1649,9 @@ href="https://es.wikiarquitectura.com/edificio/sant-andrea-al-quirinale/">Wikiar
 </section>
 <section id="section-74" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:scarlino-plan">
 <img data-src="http://www.aidfadu.com/imagenes/grandes/033506.jpg"
-id="fig:scarlino-plan" class="slide-bg"
+class="slide-bg"
 alt="Francesco Castelli, dito Borromini, San Carlo alle quattro fontane, Roma, 1638–1641. “San Carlo alle quattro fontane”" />
 <figcaption aria-hidden="true">Francesco Castelli, dito Borromini, San
 Carlo alle quattro fontane, Roma, 1638–1641. <span class="citation"
@@ -1679,10 +1663,10 @@ fontane”</span></span></figcaption>
 data-background-image="https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg">
 <h2
 data-background-image="https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg"></h2>
-<figure>
+<figure id="fig:scarlino-cupola">
 <img
 data-src="https://3.bp.blogspot.com/-Q6VJ2mbz60k/WHd91ag3BnI/AAAAAAAAPWk/eNLXUBW10n0wTKxuhR7DM4elXAivdq2AQCEw/s1600/Borromini_sancarlino_09.jpg"
-id="fig:scarlino-cupola" class="slide-bg"
+class="slide-bg"
 alt="Vista da cúpula da igreja de San Carlo alle quattro fontane" />
 <figcaption aria-hidden="true">Vista da cúpula da igreja de San Carlo
 alle quattro fontane</figcaption>
@@ -1709,10 +1693,10 @@ de S. Carlino?</p>
 </aside>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:scarlino-sez">
 <img
 data-src="https://jonathanchengfolio.files.wordpress.com/2012/08/san-carlo-section.jpg"
-id="fig:scarlino-sez" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Corte da igreja de San Carlo alle quattro fontane. Desenho de Sebastiano Giannini (1730) ap. Cheng" />
 <figcaption aria-hidden="true">Corte da igreja de San Carlo alle quattro
 fontane. Desenho de <a
@@ -1721,10 +1705,10 @@ Giannini (1730)</a> <em>ap.</em> <span class="citation"
 data-cites="cheng:2012radical">Cheng</span></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:scarlino-analisi">
 <img
 data-src="https://4.bp.blogspot.com/-AqzPXafjpdI/WHd9pmmVYFI/AAAAAAAAPWE/ceB9PZalE-QblnH-m97-O6Ix61Y_FROjACLcB/s1600/Borromini_sancarlino_05.jpg"
-id="fig:scarlino-analisi" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Análise geométrica da planta da igreja de San Carlo alle quattro fontane. “Il Barocco - parte prima”" />
 <figcaption aria-hidden="true">Análise geométrica da planta da igreja de
 San Carlo alle quattro fontane. <span class="citation"
@@ -1736,10 +1720,10 @@ prima”</span></span></figcaption>
 </section>
 <section id="section-78" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:scarlino-monti">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6346853.jpg"
-id="fig:scarlino-monti" class="slide-bg"
+class="slide-bg"
 alt="Fachada da igreja de San Carlo alle quattro fontane. Monti" />
 <figcaption aria-hidden="true">Fachada da igreja de San Carlo alle
 quattro fontane. <span class="citation"
@@ -1750,10 +1734,10 @@ data-cites="monti:1950chiesa">Monti</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg"></h2>
-<figure>
+<figure id="fig:santivo-court">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1024px-Archivio_di_stato_di_Roma_-_panoramio.jpg"
-id="fig:santivo-court" class="slide-bg"
+class="slide-bg"
 alt="Francesco Borromini, capela universitária de Sant’Ivo alla Sapienza, Roma, 1642–1660. Lesnov" />
 <figcaption aria-hidden="true">Francesco Borromini, capela universitária
 de Sant’Ivo alla Sapienza, Roma, 1642–1660. <span class="citation"
@@ -1765,10 +1749,10 @@ data-cites="lesnov:2010archivio">Lesnov</span></figcaption>
 <h2></h2>
 <div class="columns slide-bg">
 <div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:santivo-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/SantIvo_Drawing_08.jpg/575px-SantIvo_Drawing_08.jpg"
-id="fig:santivo-plan" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Planta de Sant’Ivo alla Sapienza, desenho por Sebastiano Giannini (1720)" />
 <figcaption aria-hidden="true">Planta de Sant’Ivo alla Sapienza, desenho
 por <a
@@ -1776,10 +1760,10 @@ href="https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_08.jpg">Sebastiano
 Giannini (1720)</a></figcaption>
 </figure>
 </div><div class="column slide-bg" style="width:50%;">
-<figure>
+<figure id="fig:santivo-analisi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SantIvo_Geometry.svg/799px-SantIvo_Geometry.svg.png"
-id="fig:santivo-analisi" class="slide-bg" style="width:100.0%"
+class="slide-bg" style="width:100.0%"
 alt="Análise geométrica da planta de Sant’Ivo alla Sapienza" />
 <figcaption aria-hidden="true">Análise geométrica da planta de Sant’Ivo
 alla Sapienza</figcaption>
@@ -1791,10 +1775,10 @@ alla Sapienza</figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1280px-Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1280px-Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg"></h2>
-<figure>
+<figure id="fig:santivo-cupola">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg/1024px-Sant&#39;Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg"
-id="fig:santivo-cupola" class="slide-bg"
+class="slide-bg"
 alt="Interior da cúpula de Sant’Ivo alla Sapienza. Architas (Sant’Ivo Alla Sapienza (Roma) Dome Interior)" />
 <figcaption aria-hidden="true">Interior da cúpula de Sant’Ivo alla
 Sapienza. <span class="citation"
@@ -1805,10 +1789,10 @@ data-cites="architas:2018santivo">Architas (<em>Sant’Ivo Alla Sapienza
 </section>
 <section id="section-82" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:santivo-spaccato">
 <img
 data-src="https://3.bp.blogspot.com/-OS3tn3t3ZmU/WHd_rocyYGI/AAAAAAAAPWw/eUGsRrjGP78DZItYstQL689fDEajF6zzgCLcB/s1600/Borromini_santivo_04.jpg"
-id="fig:santivo-spaccato" class="slide-bg"
+class="slide-bg"
 alt="Análise volumétrica de Sant’Ivo alla Sapienza. Ap. “Il Barocco - parte prima”" />
 <figcaption aria-hidden="true">Análise volumétrica de Sant’Ivo alla
 Sapienza. <em>Ap.</em> <span class="citation"
@@ -1820,55 +1804,48 @@ prima”</span></span></figcaption>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-architas:2018santivo" class="csl-entry"
-role="doc-biblioentry">
-Architas. <em>Sant’Ivo Alla Sapienza (Roma) Dome Interior</em>. Trabalho
-próprio pelo carregador, <em>Wikimedia Commons</em>, <a
+data-line-spacing="2" role="list">
+<div id="ref-architas:2018santivo" class="csl-entry" role="listitem">
+Architas. <em>Sant’Ivo Alla Sapienza (Roma) Dome Interior</em>. 4 de
+março de 2018. Trabalho próprio pelo carregador, <em>Wikimedia
+Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Sant%27Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg">https://commons.wikimedia.org/wiki/File:Sant%27Ivo_alla_Sapienza_(Roma)_-_Dome_interior.jpg</a>.
-Acessado 8 de setembro de 2020.
 </div>
-<div id="ref-architas:2018vittoria" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-architas:2018vittoria" class="csl-entry" role="listitem">
 ---. <em>Santa Maria Della Vittoria in Rome - Front</em>. 1º de junho de
 2018. Trabalho próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg">https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Vittoria_in_Rome_-_Front.jpg</a>.
 </div>
-<div id="ref-architas:2018susanna" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-architas:2018susanna" class="csl-entry" role="listitem">
 ---. <em>Santa Susanna (Rome) - Front</em>. 1º de junho de 2018.
 Trabalho próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Santa_Susanna_(Rome)_-_Front.jpg">https://commons.wikimedia.org/wiki/File:Santa_Susanna_(Rome)_-_Front.jpg</a>.
 </div>
-<div id="ref-cheng:2012radical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-cheng:2012radical" class="csl-entry" role="listitem">
 Cheng, Jonathan. <span>“Radical Architecture: Complexity
 Revealed”</span>. <em>Jonathan Cheng</em>, 9 de agosto de 2012, <a
 href="https://jonathanchengfolio.wordpress.com/2012/08/09/hello-world/">https://jonathanchengfolio.wordpress.com/2012/08/09/hello-world/</a>.
 </div>
-<div id="ref-damato:2013church" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-damato:2013church" class="csl-entry" role="listitem">
 Damato, Alessio. <em>Church of the Gesù, Rome</em>. <em>Wikimedia
 Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Church_of_the_Ges%C3%B9,_Rome.jpg">https://commons.wikimedia.org/wiki/File:Church_of_the_Ges%C3%B9,_Rome.jpg</a>.
 Acessado 27 de outubro de 2020.
 </div>
-<div id="ref-fletcher:1905history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fletcher:1905history" class="csl-entry" role="listitem">
 Fletcher, Banister, e Banister F. Fletcher. <em>A History of
 Architecture on the Comparative Method for the Student, Craftsman, and
 Amateur</em>. 5º ed, Batsford : Scribner’s sons, 1905. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/historyofarchite00flet">http://archive.org/details/historyofarchite00flet</a>.
 </div>
-<div id="ref-gemini:2019chiesa" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gemini:2019chiesa" class="csl-entry" role="listitem">
 Gemini, Nicholas. <em>Chiesa del Gesù</em>. Trabalho próprio pelo
 carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Chiesa_del_Ges%C3%B9_-aprile_2019-_12.jpg">https://commons.wikimedia.org/wiki/File:Chiesa_del_Ges%C3%B9_-aprile_2019-_12.jpg</a>.
 Acessado 27 de outubro de 2020.
 </div>
-<div id="ref-halun:2014twin" class="csl-entry" role="doc-biblioentry">
+<div id="ref-halun:2014twin" class="csl-entry" role="listitem">
 Hałun, Jakub. <em>The <span>“twin”</span> churches of Santa Maria di
 Montesanto (left) and Santa Maria dei Miracoli (right), seen from Piazza
 del Popolo</em>. Trabalho próprio pelo carregador, <em>Wikimedia
@@ -1876,85 +1853,77 @@ Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg">https://commons.wikimedia.org/wiki/File:20140803_Santa_Maria_dei_Miracoli_and_Santa_Maria_in_Montesanto_0190.jpg</a>.
 Acessado 27 de outubro de 2020.
 </div>
-<div id="ref-barocco:2017" class="csl-entry" role="doc-biblioentry">
+<div id="ref-barocco:2017" class="csl-entry" role="listitem">
 <span>“Il Barocco - parte prima”</span>. <em>Potenziamento Arte
 Immagine</em>, 12 de janeiro de 2017, <a
 href="https://potenziamentolanzi.blogspot.com/2017/01/il-barocco-parte-1.html">https://potenziamentolanzi.blogspot.com/2017/01/il-barocco-parte-1.html</a>.
 </div>
-<div id="ref-jensens:2008palazzo" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-jensens:2008palazzo" class="csl-entry" role="listitem">
 Jensens. <em>Palazzo d’Antica Zecca, Largo Ottavio Tassoni, Rome. A
 sinistra, via dei Banchi nuovi.</em> 6 de julho de 2008. Own work,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Palazzo_d%27Antica_Zecca.jpg">https://commons.wikimedia.org/wiki/File:Palazzo_d%27Antica_Zecca.jpg</a>.
 </div>
-<div id="ref-lesnov:2010archivio" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-lesnov:2010archivio" class="csl-entry" role="listitem">
 Lesnov, Vlad. <em>Archivio di stato di Roma</em>. 22 de abril de 2010.
 https://web.archive.org/web/20161017122928/http://www.panoramio.com/photo/43223919,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg">https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg</a>.
 </div>
 <div id="ref-livioandronico2013:2015carlino" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Livioandronico2013. <em>San Carlo alle Quattro Fontane (Rome) -
 Intern</em>. Trabalho próprio pelo carregador, <em>Wikimedia
 Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg">https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg</a>.
 Acessado 27 de outubro de 2020.
 </div>
-<div id="ref-monti:1950chiesa" class="csl-entry" role="doc-biblioentry">
+<div id="ref-monti:1950chiesa" class="csl-entry" role="listitem">
 Monti, Paolo. <em>Chiesa di S. Carlino alle Quattro Fontane</em>. 1950.
 Biblioteca Europeia de Informação e Cultura, <em>Wikimedia Commons</em>,
 <a
 href="https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico-_BEIC_6346853.jpg">https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico-_BEIC_6346853.jpg</a>.
 </div>
-<div id="ref-moore:1905character" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-moore:1905character" class="csl-entry" role="listitem">
 Moore, Charles Herbert. <em>Character of renaissance architecture</em>.
 New York, London : The Macmillan Company, 1905. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/characterofrenai00mooriala">http://archive.org/details/characterofrenai00mooriala</a>.
 </div>
-<div id="ref-mykaul:2007basilica" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-mykaul:2007basilica" class="csl-entry" role="listitem">
 Mykaul. <em>Basilica of St. Andrea, Mantova</em>. photo, 25 de agosto de
 2007. <em>Flickr</em>, <a
 href="https://www.flickr.com/photos/mykaul/1336317266/">https://www.flickr.com/photos/mykaul/1336317266/</a>.
 </div>
-<div id="ref-sailko:2008battistero" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-sailko:2008battistero" class="csl-entry" role="listitem">
 Sailko. <em>Battistero di firenze, interno 04, porta nord</em>.
 Fotografia própria, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Battistero_di_firenze,_interno_04,_porta_nord.JPG">https://commons.wikimedia.org/wiki/File:Battistero_di_firenze,_interno_04,_porta_nord.JPG</a>.
 Acessado 25 de setembro de 2020.
 </div>
-<div id="ref-fadu:san" class="csl-entry" role="doc-biblioentry">
+<div id="ref-fadu:san" class="csl-entry" role="listitem">
 <span>“San Carlo alle quattro fontane”</span>. <em>AID•FADU•UBA</em>, <a
 href="http://www.aidfadu.com/ver_imagen.php?id_imagen=33506&amp;volver=/listar.php&amp;pagina=4">http://www.aidfadu.com/ver_imagen.php?id_imagen=33506&amp;volver=/listar.php&amp;pagina=4</a>.
 Acessado 27 de outubro de 2020.
 </div>
-<div id="ref-schumacher:1987palladio" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-schumacher:1987palladio" class="csl-entry" role="listitem">
 Schumacher, Thomas L. <span>“The Palladio Variations, on Reconciling
 Convention, Parti, and Space”</span>. <em>Cornell Journal of
 Architecture</em>, vol. 3, Outono de 1987, p. 12–29, <a
 href="http://issuu.com/cornelljournal/docs/cja003-optimized/17">http://issuu.com/cornelljournal/docs/cja003-optimized/17</a>.
 </div>
-<div id="ref-schumacher:1986skull3" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-schumacher:1986skull3" class="csl-entry" role="listitem">
 ---. <span>“The Skull and the Mask: The Modern Movement and the Dilemma
 of the Facade”</span>. <em>The Cornell Architectural Journal</em>, vol.
 3, Outono de 1986, p. 4–11, <a
 href="http://issuu.com/cornellaap/docs/cja003-opt">http://issuu.com/cornellaap/docs/cja003-opt</a>.
 </div>
-<div id="ref-steo153:2007dome" class="csl-entry" role="doc-biblioentry">
+<div id="ref-steo153:2007dome" class="csl-entry" role="listitem">
 SteO153. <em>the Dome, Il Gesù, Rome</em>. 20 de julho de 2007. Trabalho
 próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Ges%C3%B9-Cupola01-SteO153.JPG">https://commons.wikimedia.org/wiki/File:Ges%C3%B9-Cupola01-SteO153.JPG</a>.
 </div>
-<div id="ref-tafuri:1969committenza" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tafuri:1969committenza" class="csl-entry" role="listitem">
 Tafuri, Manfredo. <span>“Committenza e tipologia nelle ville
 palladiane”</span>. <em>Bollettino del Centro Internazionale di Studi
 Andrea Palladio</em>, nº XI, 1969, p. 120–36, <a

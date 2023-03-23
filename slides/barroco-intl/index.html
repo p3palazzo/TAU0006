@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -133,10 +138,10 @@ Nara, e seu entorno. O maior de todos é o Tōdaiji, ou “grande templo do
 leste”, construído a partir de 743 para abrigar uma estátua monumental
 do Buda (Fig. 1).</p>
 </aside>
-<figure>
+<figure id="fig:todaiji-garan-model">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg/1024px-200730_Model_of_the_garan_of_Todaiji_seen_from_north_side.jpg"
-id="fig:todaiji-garan-model" class="outset"
+class="outset"
 alt="Maquete do garan (recinto) do Tōdaiji, Nara, 743. Projeto de Chōgen. Prefeitura de Nara, foto por Nagoya (2020a)" />
 <figcaption aria-hidden="true">Maquete do <em>garan</em> (recinto) do
 Tōdaiji, Nara, 743. Projeto de Chōgen. Prefeitura de Nara, foto por <a
@@ -146,10 +151,10 @@ href="https://commons.wikimedia.org/wiki/File:200730_Model_of_the_garan_of_Todai
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-garan-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plan_of_Todaiji.svg/832px-Plan_of_Todaiji.svg.png"
-id="fig:todaiji-garan-plan" class="outset line"
+class="outset line"
 alt="Planta do Tōdaiji. Desenho: Binabik155 (2012)" />
 <figcaption aria-hidden="true">Planta do Tōdaiji. Desenho: <a
 href="https://commons.wikimedia.org/wiki/File:Plan_of_Todaiji.svg">Binabik155
@@ -170,10 +175,10 @@ guerras civis.</p>
 ou salão do grande Buda — era a maior construção em madeira do
 mundo.</p>
 </aside>
-<figure>
+<figure id="fig:todaiji-kondo-model">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg/1024px-200604_Model_of_Todaiji_Kondo_of_its_foundation.jpg"
-id="fig:todaiji-kondo-model" class="outset"
+class="outset"
 alt="Maquete do salão dourado do Tōdaiji, Nara, 743–751. Foto: Nagoya (2020b)" />
 <figcaption aria-hidden="true">Maquete do salão dourado do Tōdaiji,
 Nara, 743–751. Foto: <a
@@ -183,10 +188,10 @@ href="https://commons.wikimedia.org/wiki/File:200604_Model_of_Todaiji_Kondo_of_i
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-kondo-angle">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tōdai-ji_Temple_in_Nara,_Japan.jpg/1024px-Tōdai-ji_Temple_in_Nara,_Japan.jpg"
-id="fig:todaiji-kondo-angle" class="outset"
+class="outset"
 alt="Salão dourado do Tōdaiji, Nara, reconstruído em 1709. Moïse (2005)" />
 <figcaption aria-hidden="true">Salão dourado do Tōdaiji, Nara,
 reconstruído em 1709. <a
@@ -206,10 +211,10 @@ em Sevilha, em 2014.</p>
 <p>A estátua colossal de Buda também foi quase inteiramente refeita, mas
 mantém as suas dimensões originais (Figs. 5, 6)</p>
 </aside>
-<figure>
+<figure id="fig:daibutsu-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buddha_in_Todai-ji,_Nara.JPG/1024px-Buddha_in_Todai-ji,_Nara.JPG"
-id="fig:daibutsu-front" class="outset"
+class="outset"
 alt="Grande Buda do Tōdaiji, Nara, 741–752, restaurado em 1185 e 1692. Løken (2012)" />
 <figcaption aria-hidden="true">Grande Buda do Tōdaiji, Nara, 741–752,
 restaurado em 1185 e 1692. <a
@@ -219,11 +224,10 @@ href="https://commons.wikimedia.org/wiki/File:Buddha_in_Todai-ji,_Nara.JPG">Løk
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:daibutsu-side">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Japan_070416_Todaiji_08.jpg/1024px-Japan_070416_Todaiji_08.jpg"
-id="fig:daibutsu-side" class="outset"
-alt="Grande Buda do Tōdaiji. Rozen (2016)" />
+class="outset" alt="Grande Buda do Tōdaiji. Rozen (2016)" />
 <figcaption aria-hidden="true">Grande Buda do Tōdaiji. <a
 href="https://commons.wikimedia.org/wiki/File:Japan_070416_Todaiji_08.jpg">Rozen
 (2016)</a></figcaption>
@@ -231,10 +235,10 @@ href="https://commons.wikimedia.org/wiki/File:Japan_070416_Todaiji_08.jpg">Rozen
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-kondo-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Todaiji_daibutsuden1.jpg/1024px-Todaiji_daibutsuden1.jpg"
-id="fig:todaiji-kondo-front" class="outset"
+class="outset"
 alt="Salão dourado do Tōdaiji, Nara, reconstruído em 1709. Kenpei (2009)" />
 <figcaption aria-hidden="true">Salão dourado do Tōdaiji, Nara,
 reconstruído em 1709. <a
@@ -255,10 +259,10 @@ class="smallcaps">XVIII</span> permanece fiel ao estilo original
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:karahafu">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kara-hafu.png"
-id="fig:karahafu" class="nobg" alt="Kara-hafu. Mukai (2007)" />
+class="nobg" alt="Kara-hafu. Mukai (2007)" />
 <figcaption aria-hidden="true">Kara-hafu. <a
 href="https://commons.wikimedia.org/wiki/File:Kara-hafu.png">Mukai
 (2007)</a></figcaption>
@@ -282,10 +286,9 @@ difundido durante o período Edo, do século <span
 class="smallcaps">XVII</span> ao <span class="smallcaps">XIX</span>, em
 vários tipos de edificações cívicas e religiosas (Fig. 9).</p>
 </aside>
-<figure>
+<figure id="fig:nijo-karamon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NinomaruPalace.jpg/1020px-NinomaruPalace.jpg"
-id="fig:nijo-karamon"
 alt="Karamon no Ninomaru, castelo Nijō, Quioto, 1626. Chino (2006)" />
 <figcaption aria-hidden="true"><em>Karamon</em> no Ninomaru, castelo
 Nijō, Quioto, 1626. <a
@@ -295,10 +298,10 @@ href="https://commons.wikimedia.org/wiki/File:NinomaruPalace.jpg">Chino
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-kondo-karamon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Todaiji_-_Daibutsuden-13.jpg/762px-Todaiji_-_Daibutsuden-13.jpg"
-id="fig:todaiji-kondo-karamon" class="outset"
+class="outset"
 alt="Detalhe da fachada do salão dourado do Tōdaiji com karamon e tokyō. Urashima (2013)" />
 <figcaption aria-hidden="true">Detalhe da fachada do salão dourado do
 Tōdaiji com <em>karamon</em> e <em>tokyō</em>. <a
@@ -328,10 +331,10 @@ class="smallcaps">XIII</span> em diante.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:dougong-yingzaofashi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Yingzao_Fashi_5_desmear.JPG"
-id="fig:dougong-yingzaofashi" style="width:100.0%"
+style="width:100.0%"
 alt="Dougong ilustrado no Yingzao fashi. Li Jie (1093)" />
 <figcaption aria-hidden="true">Dougong ilustrado no <em>Yingzao
 fashi</em>. <a
@@ -339,10 +342,10 @@ href="https://commons.wikimedia.org/wiki/File:Yingzao_Fashi_5_desmear.JPG">Li
 Jie (1093)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:nandaimon-sashihijiki">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Todaiji06s3200.jpg/514px-Todaiji06s3200.jpg"
-id="fig:nandaimon-sashihijiki" style="width:100.0%"
+style="width:100.0%"
 alt="Sashihijiki no portão sul do Tōdaiji. 663highland (2006)" />
 <figcaption aria-hidden="true"><em>Sashihijiki</em> no portão sul do
 Tōdaiji. <a
@@ -354,10 +357,10 @@ href="https://commons.wikimedia.org/wiki/File:Todaiji06s3200.jpg">663highland
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-kondo-under">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg/1024px-Zoshicho,_Nara,_Nara_Prefecture_630-8211,_Japan_-_panoramio_-_ESU_(5).jpg"
-id="fig:todaiji-kondo-under" class="outset"
+class="outset"
 alt="Portada principal do salão dourado, Tōdaiji. ESU (2010)" />
 <figcaption aria-hidden="true">Portada principal do salão dourado,
 Tōdaiji. <a
@@ -382,10 +385,10 @@ troncos de árvores imensas, e todos os outros elementos estruturais —
 das vigas aos <em>kumimono</em> — são colossais em proporção aos
 pilares.</p>
 </aside>
-<figure>
+<figure id="fig:todaiji-nandaimon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Todaiji17s4592.jpg/1024px-Todaiji17s4592.jpg"
-id="fig:todaiji-nandaimon" class="outset"
+class="outset"
 alt="Portão sul do recinto do Tōdaiji, Nara, reconstruída em 1199–1203. 663highland (2008)" />
 <figcaption aria-hidden="true">Portão sul do recinto do Tōdaiji, Nara,
 reconstruída em 1199–1203. <a
@@ -395,10 +398,10 @@ href="https://commons.wikimedia.org/wiki/File:Todaiji17s4592.jpg">663highland
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:todaiji-tokyo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Todai_ji_dougong.JPG/1024px-Todai_ji_dougong.JPG"
-id="fig:todaiji-tokyo" class="outset"
+class="outset"
 alt="Tokyō na fachada do salão dourado do Tōdaiji, Nara, 743. Gisling (2007)" />
 <figcaption aria-hidden="true"><em>Tokyō</em> na fachada do salão
 dourado do Tōdaiji, Nara, 743. <a
@@ -431,21 +434,20 @@ esbeltas. Um dos ícones da capacidade técnica e expressiva desse modo de
 construir é o santuário Tōshōgū, em Nikkō, no leste do Japão
 (Fig. 16).</p>
 </aside>
-<figure>
+<figure id="fig:toshogu-view">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toshogu_map.jpg/659px-Toshogu_map.jpg"
-id="fig:toshogu-view" class="outset"
-alt="Vista de conjunto do Tōshōgū, Nikkō. (1912)" />
+class="outset" alt="Vista de conjunto do Tōshōgū, Nikkō. (1912)" />
 <figcaption aria-hidden="true">Vista de conjunto do Tōshōgū, Nikkō. <a
 href="https://commons.wikimedia.org/wiki/File:Toshogu_map.jpg">(1912)</a></figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:toshogu-bn">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg/977px-Toshogu_(Shinto_Temple_of_Iyeyasu),_Nikko.jpg"
-id="fig:toshogu-bn" class="outset"
+class="outset"
 alt="Nikkō, Tōshōgū (santuário de Tokugawa Ieyasu), 1617, 1634–1636. Acervo da Biblioteca nacional (Brasil)" />
 <figcaption aria-hidden="true">Nikkō, Tōshōgū (santuário de Tokugawa
 Ieyasu), 1617, 1634–1636. <a
@@ -470,11 +472,10 @@ pintados. O Yōmeimon, o portão do recinto principal (Fig. 18), reúne um
 conjunto expressivo de motivos ornamentais, que valeram ao Tōshōgū a
 alcunha de “barroco japonês”.</p>
 </aside>
-<figure>
+<figure id="fig:yomeimon-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg/1024px-Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg"
-id="fig:yomeimon-front" class="outset"
-alt="Yōmeimon, Tōshōgū. Zairon (2019)" />
+class="outset" alt="Yōmeimon, Tōshōgū. Zairon (2019)" />
 <figcaption aria-hidden="true">Yōmeimon, Tōshōgū. <a
 href="https://commons.wikimedia.org/wiki/File:Nikko_Nikko_Tosho-gu_Yomei-mon_03.jpg">Zairon
 (2019)</a></figcaption>
@@ -482,11 +483,10 @@ href="https://commons.wikimedia.org/wiki/File:Nikko_Nikko_Tosho-gu_Yomei-mon_03.
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yomeimon-kumimono">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG/1024px-Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG"
-id="fig:yomeimon-kumimono" class="outset"
-alt="Yōmeimon, detalhe. Arone (2008)" />
+class="outset" alt="Yōmeimon, detalhe. Arone (2008)" />
 <figcaption aria-hidden="true">Yōmeimon, detalhe. <a
 href="https://commons.wikimedia.org/wiki/File:Nikko,_Yōmeimon_Gate_of_Tōshō-gū_(detail).JPG">Arone
 (2008)</a></figcaption>
@@ -503,10 +503,9 @@ Japão nas décadas de 1930 e 40, respectivamente.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:katsura-cover">
 <img
 data-src="https://www.book-komiyama.co.jp/i_item/2020/06/109179.jpg"
-id="fig:katsura-cover"
 alt="Katsura, por Walter Gropius e Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960" />
 <figcaption aria-hidden="true"><em>Katsura</em>, por Walter Gropius e
 Kenzō Tange, com fotografias de Yasuhiro Ishimoto, 1960</figcaption>
@@ -530,10 +529,10 @@ contexto religioso, o espírito do “mundo fugaz” (<em>ukiyo</em>) que
 caracteriza a cultura urbana do Japão nos séculos <span
 class="smallcaps">XVII</span> a <span class="smallcaps">XIX</span>.</p>
 </aside>
-<figure>
+<figure id="fig:toshogu-karamon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Karamon_of_Nikko_Tosho_Shrine.JPG/1024px-Karamon_of_Nikko_Tosho_Shrine.JPG"
-id="fig:toshogu-karamon" alt="Tōshōgū, karamon. Soramimi (2014)" />
+alt="Tōshōgū, karamon. Soramimi (2014)" />
 <figcaption aria-hidden="true">Tōshōgū, <em>karamon</em>. <a
 href="https://commons.wikimedia.org/wiki/File:Karamon_of_Nikko_Tosho_Shrine.JPG">Soramimi
 (2014)</a></figcaption>
@@ -541,11 +540,10 @@ href="https://commons.wikimedia.org/wiki/File:Karamon_of_Nikko_Tosho_Shrine.JPG"
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:toshogu-det">
 <img
 data-src="https://live.staticflickr.com/5483/11284487324_62ce101314_c_d.jpg"
-id="fig:toshogu-det" class="outset"
-alt="Nikkō Tōshōgū, detalhe. Berlin (2013)" />
+class="outset" alt="Nikkō Tōshōgū, detalhe. Berlin (2013)" />
 <figcaption aria-hidden="true">Nikkō Tōshōgū, detalhe. <a
 href="https://www.flickr.com/photos/kimon/11284487324/">Berlin
 (2013)</a></figcaption>
@@ -568,10 +566,10 @@ associa, desde a segunda metade do século <span
 class="smallcaps">XVII</span>, a um interesse renovado pelo estudo das
 ruínas da Antiguidade.</p>
 </aside>
-<figure>
+<figure id="fig:parke-castor">
 <img
 data-src="https://www.classicist.org/wp-content/uploads/2014/05/_pagebody/00.jpg"
-id="fig:parke-castor" class="outset"
+class="outset"
 alt="Henry Parke, medição do templo de Castor e Pólux. Ap. Loth (2014)" />
 <figcaption aria-hidden="true">Henry Parke, medição do templo de Castor
 e Pólux. Ap. <a
@@ -582,11 +580,10 @@ href="https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodet
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:guarini">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0007.jpg/481px-Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0007.jpg"
-id="fig:guarini" class="nobg"
-alt="Retrato póstumo de Guarino Guarini. Anônimo (1686)" />
+class="nobg" alt="Retrato póstumo de Guarino Guarini. Anônimo (1686)" />
 <figcaption aria-hidden="true">Retrato póstumo de Guarino Guarini. <a
 href="https://commons.wikimedia.org/wiki/Image:Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0007.jpg">Anônimo
 (1686)</a></figcaption>
@@ -607,29 +604,33 @@ baseada em teoremas geométricos e algébricos. Vários desses teoremas
 eram incomuns na prática construtiva corrente da época e dependiam de
 conhecimentos matemáticos razoavelmente avançados (Fig. 25).</p>
 </aside>
-<div id="fig:misurare" class="subfigures columns">
+<figure id="fig:misurare" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:misurareA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page106-573px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg"
-id="fig:misurareA" />
+alt="p. 102" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:misurareB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Guarini-Modo-di-misurare-le-fabbriche.pdf/page195-575px-Guarini-Modo-di-misurare-le-fabbriche.pdf.jpg"
-id="fig:misurareB" />
+alt="p. 195" />
+<figcaption></figcaption>
 </figure>
-</div><p>Guarino Guarini, <em>L’arte di misurare le fabbriche</em>,
-1674. a – p. 102, b – p. 195</p>
 </div>
+<figcaption><p>Guarino Guarini, <em>L’arte di misurare le
+fabbriche</em>, 1674. a – p. 102, b – p. 195</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:madama-dissegni">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0094.jpg/1024px-Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0094.jpg"
-id="fig:madama-dissegni" class="outset"
+class="outset"
 alt="Fachada do palácio Carignano, Turim. Guarini (1686)" />
 <figcaption aria-hidden="true">Fachada do palácio Carignano, Turim. <a
 href="https://commons.wikimedia.org/wiki/Category:Dissegni_d&#39;architettura_civile_et_ecclesiastica">Guarini
@@ -638,10 +639,10 @@ href="https://commons.wikimedia.org/wiki/Category:Dissegni_d&#39;architettura_ci
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lisboa-dissegni">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0065.jpg/1024px-Guarini_-_Dissegni_d&#39;architettura_civile_et_ecclesiastica_0065.jpg"
-id="fig:lisboa-dissegni" class="outset"
+class="outset"
 alt="Elevação interior do projeto para a igreja da Divina Providência, Lisboa. Guarini (1686)" />
 <figcaption aria-hidden="true">Elevação interior do projeto para a
 igreja da Divina Providência, Lisboa. <a
@@ -653,10 +654,9 @@ href="https://commons.wikimedia.org/wiki/Category:Dissegni_d&#39;architettura_ci
 
 <div class="columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sindone-sez">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Guarini_sindone.jpg/272px-Guarini_sindone.jpg"
-id="fig:sindone-sez"
 alt="Guarino Guarini, capela do Santo Sudário, Turim, 1668–1694. Guarini (1682)" />
 <figcaption aria-hidden="true">Guarino Guarini, capela do Santo Sudário,
 Turim, 1668–1694. <a
@@ -664,10 +664,9 @@ href="https://commons.wikimedia.org/wiki/File:Guarini_sindone.jpg">Guarini
 (1682)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sindone-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Torino_-_Palazzo_Reale_0488.JPG/512px-Torino_-_Palazzo_Reale_0488.JPG"
-id="fig:sindone-ext"
 alt="Exterior da capela do Santo Sudário. Phyrexian (2019)" />
 <figcaption aria-hidden="true">Exterior da capela do Santo Sudário. <a
 href="https://commons.wikimedia.org/wiki/File:Torino_-_Palazzo_Reale_0488.JPG">Phyrexian
@@ -678,10 +677,10 @@ href="https://commons.wikimedia.org/wiki/File:Torino_-_Palazzo_Reale_0488.JPG">P
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sindone-int">
 <img
 data-src="https://i.pinimg.com/1200x/3d/25/f3/3d25f364dc9c37a60ebd3c604ca3fde6.jpg"
-id="fig:sindone-int" class="outset"
+class="outset"
 alt="Interior da cúpula da capela do Santo Sudário. Bottallo" />
 <figcaption aria-hidden="true">Interior da cúpula da capela do Santo
 Sudário. <a
@@ -691,10 +690,10 @@ href="https://www.quotidianopiemontese.it/2018/09/27/dopo-ventunanni-dallincendi
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:guarini-slorenzo-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Guarini_Lorenzo.jpg/473px-Guarini_Lorenzo.jpg"
-id="fig:guarini-slorenzo-plan" class="line"
+class="line"
 alt="Guarino Guarini, igreja de São Lourenço, Turim, 1667. Gurlitt (1882)" />
 <figcaption aria-hidden="true">Guarino Guarini, igreja de São Lourenço,
 Turim, 1667. <a
@@ -712,10 +711,9 @@ Turim.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:slorenzo-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Torino,_san_lorenzo,_10.JPG/1024px-Torino,_san_lorenzo,_10.JPG"
-id="fig:slorenzo-int"
 alt="Interior da igreja de São Lourenço. Sailko (2011a)" />
 <figcaption aria-hidden="true">Interior da igreja de São Lourenço. <a
 href="https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_10.JPG">Sailko
@@ -724,10 +722,10 @@ href="https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_10.JPG">Sailk
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:slorenzo-dome">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/San_Lorenzo_(Turin)_-_Dome_interior.jpg/1024px-San_Lorenzo_(Turin)_-_Dome_interior.jpg"
-id="fig:slorenzo-dome" class="outset"
+class="outset"
 alt="Cúpula da igreja de São Lourenço. Livioandronico2013 (2016)" />
 <figcaption aria-hidden="true">Cúpula da igreja de São Lourenço. <a
 href="https://commons.wikimedia.org/wiki/File:San_Lorenzo_(Turin)_-_Dome_interior.jpg">Livioandronico2013
@@ -737,11 +735,10 @@ href="https://commons.wikimedia.org/wiki/File:San_Lorenzo_(Turin)_-_Dome_interio
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:slorenzo-dome-persp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Torino,_san_lorenzo,_cupola_09.JPG/1024px-Torino,_san_lorenzo,_cupola_09.JPG"
-id="fig:slorenzo-dome-persp" class="outset"
-alt="Cúpula da igreja de São Lourenço. Sailko (2011b)" />
+class="outset" alt="Cúpula da igreja de São Lourenço. Sailko (2011b)" />
 <figcaption aria-hidden="true">Cúpula da igreja de São Lourenço. <a
 href="https://commons.wikimedia.org/wiki/File:Torino,_san_lorenzo,_cupola_09.JPG">Sailko
 (2011b)</a></figcaption>
@@ -758,10 +755,10 @@ alcunha de “arquitetura à francesa” a um conjunto de conhecimentos
 técnicos e de práticas construtivas herdadas do período gótico e
 plenamente integradas à arquitetura do Renascimento na França.</p>
 </aside>
-<figure>
+<figure id="fig:honnecourt">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Villard_de_Honnecourt_Traits.png/1024px-Villard_de_Honnecourt_Traits.png"
-id="fig:honnecourt" class="line outset"
+class="line outset"
 alt="Cadernos de Villard de Honnecourt, século XIII. Ap. Quicherat (1886)" />
 <figcaption aria-hidden="true">Cadernos de Villard de Honnecourt, século
 <span class="smallcaps">XIII</span>. Ap. <a
@@ -771,10 +768,10 @@ href="https://commons.wikimedia.org/wiki/File:Villard_de_Honnecourt_Traits.png">
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bullioud">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cour_Philibert_Delorme_Lyon.jpg/1024px-Cour_Philibert_Delorme_Lyon.jpg"
-id="fig:bullioud" class="outset"
+class="outset"
 alt="Philibert de l’Orme, Hôtel Bullioud, Lião, século XVI. Belzunce (2012)" />
 <figcaption aria-hidden="true">Philibert de l’Orme, Hôtel Bullioud,
 Lião, século <span class="smallcaps">XVI</span>. <a
@@ -796,10 +793,10 @@ transferência e apropriação de conhecimentos das corporações de ofício
 da construção para os arquitetos <span class="citation"
 data-cites="roland:2008letude">(Roland)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:geneve">
 <img
 data-src="https://journals.openedition.org/insitu/docannexe/image/3619/img-12.jpg"
-id="fig:geneve" class="outset"
+class="outset"
 alt="Telhado à maneira de de l’Orme, Cartigny, Genebra, após 1860. Foto: Isabelle Roland, 2008" />
 <figcaption aria-hidden="true">Telhado à maneira de de l’Orme, Cartigny,
 Genebra, após 1860. Foto: <a
@@ -809,10 +806,10 @@ href="http://journals.openedition.org/insitu/3619">Isabelle Roland,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:hardouin-arles">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg/1024px-P1140835_Arles_hôtel_de_ville_salle_RdC_rwk.jpg"
-id="fig:hardouin-arles" class="outset"
+class="outset"
 alt="Jules Hardouin-Mansart. Vestíbulo do paço municipal de Arles, 1673. Mbzt (2012)" />
 <figcaption aria-hidden="true">Jules Hardouin-Mansart. Vestíbulo do paço
 municipal de Arles, 1673. <a
@@ -855,53 +852,47 @@ matemática.</p>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-bazin:2010barroco" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-bazin:2010barroco" class="csl-entry" role="listitem">
 Bazin, Germain. <em>Barroco e Rococó</em>. Traduzido por Álvaro Cabral,
 WMF Martins Fontes, 2010.
 </div>
-<div id="ref-dors:1990barroco" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dors:1990barroco" class="csl-entry" role="listitem">
 d’Ors, Eugenio. <em>O barroco</em>. Traduzido por Luís Alves da Costa,
 Vega, 1990.
 </div>
-<div id="ref-gomesjr:1998palavra" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gomesjr:1998palavra" class="csl-entry" role="listitem">
 Gomes, Júnior, Guilherme Simões. <em>Palavra peregrina: o Barroco e o
 pensamento sobre artes e letras no Brasil</em>. EdUSP, 1998.
 </div>
 <div id="ref-grammont:2008aleijadinho" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Grammont, Guiomar de. <em>Aleijadinho e o aeroplano: o paraíso barroco e
 a construção do herói colonial</em>. Civilização Brasileira, 2008.
 </div>
 <div id="ref-gropius:1955architecture" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Gropius, Walter. <span>“Architecture in Japan”</span>.
 <em>Perspecta</em>, vol. 3, 1955, p. 9–80. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1566830">https://doi.org/10.2307/1566830</a>.
 </div>
-<div id="ref-roland:2008letude" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-roland:2008letude" class="csl-entry" role="listitem">
 Roland, Isabelle. <span>“L’étude des charpentes comme élément de
 datation du patrimoine rural : l’exemple genevois”</span>. <em>In Situ.
 Revue des patrimoines</em>, nº 9, 9, abril de 2008.
 <em>journals.openedition.org</em>, <a
 href="https://doi.org/10.4000/insitu.3619">https://doi.org/10.4000/insitu.3619</a>.
 </div>
-<div id="ref-tapie:1974barroco" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tapie:1974barroco" class="csl-entry" role="listitem">
 Tapié, Victor Lucien. <em>Barroco e classicismo</em>. Presença : Martins
 Fontes, 1974.
 </div>
-<div id="ref-taut:1936fundamentals" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-taut:1936fundamentals" class="csl-entry" role="listitem">
 Taut, Bruno. <em>Fundamentals of Japanese Architecture</em>. Kokusai
 bunka shinkokai (The Society for International Cultural Relations),
 1936.
 </div>
-<div id="ref-wolfflin:1989renascenca" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-wolfflin:1989renascenca" class="csl-entry" role="listitem">
 Wölfflin, Heinrich. <em>Renascença e barroco: estudo sobre a essência do
 estilo barroco e a sua origem na Itália</em>. Traduzido por Mary
 Amazonas L. de Barros, Perspectiva, 1989.

@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -77,10 +82,9 @@ class="title-slide slide level1">
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lorrain-sybile">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Claude_Lorrain_Tivoli.jpg"
-id="fig:lorrain-sybile"
 alt="Claude Gellée, dito Lorrain, Paisagem com o templo da Sibila de Tivoli, 1630–35" />
 <figcaption aria-hidden="true">Claude Gellée, dito Lorrain, <a
 href="https://commons.wikimedia.org/wiki/File:Claude_Lorrain_Tivoli.jpg">Paisagem
@@ -89,10 +93,9 @@ com o templo da Sibila de Tivoli</a>, 1630–35</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lorrain-tivoli">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lorrain,_Claude_—_Ideal_View_of_Tivoli_—_1644_(Q82119496).jpg/2560px-Lorrain,_Claude_—_Ideal_View_of_Tivoli_—_1644_(Q82119496).jpg"
-id="fig:lorrain-tivoli"
 alt="Claude Lorrain, Vista idealizada de Tivoli, 1644" />
 <figcaption aria-hidden="true">Claude Lorrain, <a
 href="https://commons.wikimedia.org/wiki/File:Lorrain,_Claude_—_Ideal_View_of_Tivoli_—_1644_(Q82119496).jpg">Vista
@@ -101,10 +104,9 @@ idealizada de Tivoli</a>, 1644</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:berchem">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Shepherds_beside_Roman_ruins.jpg"
-id="fig:berchem"
 alt="Nicolaes Berchem, Pastores junto a ruínas romanas, 1661" />
 <figcaption aria-hidden="true">Nicolaes Berchem, <a
 href="https://commons.wikimedia.org/wiki/File:Shepherds_beside_Roman_ruins.jpg">Pastores
@@ -113,10 +115,9 @@ junto a ruínas romanas</a>, 1661</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:kauf-prison">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Angelica_Kauffman_-_Scene_in_a_Roman_Prison_-_B1977.14.4329_-_Yale_Center_for_British_Art.jpg/1024px-Angelica_Kauffman_-_Scene_in_a_Roman_Prison_-_B1977.14.4329_-_Yale_Center_for_British_Art.jpg"
-id="fig:kauf-prison"
 alt="Angelika Kauffmann (1741–1807), Cena numa prisão romana" />
 <figcaption aria-hidden="true">Angelika Kauffmann (1741–1807), <a
 href="https://commons.wikimedia.org/wiki/File:Angelica_Kauffman_-_Scene_in_a_Roman_Prison_-_B1977.14.4329_-_Yale_Center_for_British_Art.jpg">Cena
@@ -126,10 +127,9 @@ numa prisão romana</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:vigee-montblanc">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VigeeLeBrun_ViewOfTheLakeOfChallesAndMontBlanc_MIA_200751.jpg/1024px-VigeeLeBrun_ViewOfTheLakeOfChallesAndMontBlanc_MIA_200751.jpg"
-id="fig:vigee-montblanc"
 alt="Élisabeth Vigée-Le Brun, Lago de Challes e o monte Branco, 1807–8" />
 <figcaption aria-hidden="true">Élisabeth Vigée-Le Brun, <a
 href="https://commons.wikimedia.org/wiki/File:VigeeLeBrun_ViewOfTheLakeOfChallesAndMontBlanc_MIA_200751.jpg">Lago
@@ -138,10 +138,9 @@ de Challes e o monte Branco</a>, 1807–8</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:goethe">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg/1280px-Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg"
-id="fig:goethe"
 alt="Johann Heinrich Wilhelm Tischbein, Goethe na campanha romana, 1787" />
 <figcaption aria-hidden="true">Johann Heinrich Wilhelm Tischbein, <a
 href="https://commons.wikimedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg">Goethe
@@ -170,10 +169,9 @@ acadêmicos das artes começam a se interessar não só pelo que lhes parece
 <em>de bom gosto</em>, mas cada vez mais pelo que é objetivamente
 <em>correto</em>.</p>
 </aside>
-<figure>
+<figure id="fig:testelin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg"
-id="fig:testelin"
 alt="Henri Testelin, Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675–1680)" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg">Henri
@@ -184,10 +182,9 @@ a Luís XIV em 1667 (1675–1680)</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:vitruve-leclerc">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg"
-id="fig:vitruve-leclerc"
 alt="Sébastien Leclerc, Vitrúvio apresentando o tratado Da arquitetura ao imperador Augusto, 1684" />
 <figcaption aria-hidden="true">Sébastien Leclerc, <a
 href="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg">Vitrúvio
@@ -220,31 +217,34 @@ Cellauro)</span>, tinham feito o serviço inicial de reconstituir a
 linguagem visual clássica e corrigir os erros de interpretação de
 autores mais antigos (fig. 9).</p>
 </aside>
-<div id="fig:barbaro" class="subfigures columns">
+<figure id="fig:barbaro" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:barbaroA">
 <img
 data-src="https://i.pinimg.com/1200x/31/ea/24/31ea24fb0896deeeac3151f78060b4eb.jpg"
-id="fig:barbaroA" />
+alt="corte" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:barbaroB">
 <img
 data-src="https://i.pinimg.com/1200x/4a/17/0e/4a170e14bf2560d3a4a551489eeb7937.jpg"
-id="fig:barbaroB" />
+alt="fachada" />
+<figcaption></figcaption>
 </figure>
-</div><p>Andrea Palladio (atribuição), <a
+</div>
+<figcaption><p>Andrea Palladio (atribuição), <a
 href="https://archive.org/details/gri_33125009320074/page/22/mode/2up?view=theater">representação
 de um templo próstilo</a> para a tradução do tratado de Vitrúvio por
-Daniele Barbaro (1556). a – corte, b – fachada</p>
-</div>
+Daniele Barbaro (1556). a – corte, b – fachada</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:parke">
 <img data-src="https://www.wga.hu/art/p/parke/student.jpg"
-id="fig:parke"
 alt="Henry Parke, estudante medindo o templo dos Castores, Roma, 1819" />
 <figcaption aria-hidden="true">Henry Parke, <a
 href="https://www.wga.hu/frames-e.html?/html/p/parke/student.html">estudante
@@ -276,10 +276,9 @@ durante o cativeiro, D’Aviler fez alguns projetos para o sultão da
 Tunísia.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:anthonisz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/b/b1/A_French_Ship_and_Barbary_Pirates_(c_1615)_by_Aert_Anthoniszoon.jpg"
-id="fig:anthonisz"
 alt="Aert Anthonisz Anthonissen, Nau francesa e piratas berberes, 1615" />
 <figcaption aria-hidden="true">Aert Anthonisz Anthonissen, <a
 href="https://commons.wikimedia.org/wiki/File:A_French_Ship_and_Barbary_Pirates_(c_1615)_by_Aert_Anthoniszoon.jpg">Nau
@@ -290,10 +289,9 @@ francesa e piratas berberes</a>, 1615</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:septime">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Les_edifices_antiques_de_Rome_1779_(138343755).jpg/860px-Les_edifices_antiques_de_Rome_1779_(138343755).jpg"
-id="fig:septime"
 alt="Antoine Desgodets, levantamento do arco do triunfo de Sétimo Severo, gravura de François Le Pautre (1682)" />
 <figcaption aria-hidden="true">Antoine Desgodets, levantamento do <a
 href="https://commons.wikimedia.org/wiki/File:Les_edifices_antiques_de_Rome_1779_(138343755).jpg">arco
@@ -323,10 +321,9 @@ reavaliação da obra de Desgodets acabou fazendo dele um acadêmico de
 grande prestígio no começo do século <span
 class="smallcaps">XVIII</span>.</p>
 </aside>
-<figure>
+<figure id="fig:paix">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Les_edifices_antiques_de_Rome_1779_(138343094).jpg/1246px-Les_edifices_antiques_de_Rome_1779_(138343094).jpg"
-id="fig:paix"
 alt="Antoine Desgodets, levantamento das ruínas da basílica de Maxêncio, gravura de N. Guerard (1682)" />
 <figcaption aria-hidden="true">Antoine Desgodets, levantamento das
 ruínas da <a
@@ -344,25 +341,29 @@ data-cites="middleton:1962abbe25">(Middleton 286)</span>.</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:stuart-revett" class="subfigures columns">
+<figure id="fig:stuart-revett" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:revett">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Portrait_of_Nicholas_Revett_-_1830.jpg"
-id="fig:revett" />
+alt="Nicholas Revett (1720–1804)" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:stuart">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/60/James_Stuart,_FRS_and_FSA_-_Cockerell_Charles_Robert_%26_Kinnard_William_%26_Donaldson_Thomas_Leverton_%26_Jenkins_William_%26_Railton_William_-_1830.jpg"
-id="fig:stuart" />
+alt="James Stuart (1713–1788)" />
+<figcaption></figcaption>
 </figure>
-</div><p>Retratos por Charles Robert Cockerell. a – <a
+</div>
+<figcaption><p>Retratos por Charles Robert Cockerell. a – <a
 href="https://commons.wikimedia.org/wiki/File:Portrait_of_Nicholas_Revett_-_1830.jpg">Nicholas
 Revett (1720–1804)</a>, b – <a
 href="https://commons.wikimedia.org/wiki/File:James_Stuart,_FRS_and_FSA_-_Cockerell_Charles_Robert_%26_Kinnard_William_%26_Donaldson_Thomas_Leverton_%26_Jenkins_William_%26_Railton_William_-_1830.jpg">James
-Stuart (1713–1788)</a></p>
-</div>
+Stuart (1713–1788)</a></p></figcaption>
+</figure>
 <aside class="notes">
 <p>Agora há pouco falamos sobre como a “Antiguidade greco-romana” era,
 para todos os efeitos durante o Renascimento, quase exclusivamente a
@@ -385,10 +386,9 @@ hoje em dia incontornáveis em qualquer livro de história da arquitetura,
 mas antes de serem publicados por Stuart e Revett eles eram quase
 totalmente desconhecidos fora da Grécia.</p>
 </aside>
-<figure>
+<figure id="fig:sr-parthenon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/cb/The_elevation_of_the_Portico_of_the_Parthenon_-_Stuart_James_%26_Revett_Nicholas_-_1787.jpg"
-id="fig:sr-parthenon"
 alt="Stuart e Revett, Elevação do pórtico do Partenon, publicada em 1771" />
 <figcaption aria-hidden="true">Stuart e Revett, <a
 href="https://commons.wikimedia.org/wiki/File:The_elevation_of_the_Portico_of_the_Parthenon_-_Stuart_James_%26_Revett_Nicholas_-_1787.jpg">Elevação
@@ -400,20 +400,18 @@ do pórtico do Partenon</a>, publicada em 1771</figcaption>
 
 <div class="columns">
 <div class="column" style="width:51%;">
-<figure>
+<figure id="fig:sr-delos">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_plan_and_elevation_of_two_Doric_columns_of_the_Temple_of_Apollo_at_Delos_-_Stuart_James_%26_Revett_Nicholas_-_1794.jpg/533px-The_plan_and_elevation_of_two_Doric_columns_of_the_Temple_of_Apollo_at_Delos_-_Stuart_James_%26_Revett_Nicholas_-_1794.jpg"
-id="fig:sr-delos"
 alt="Stuart e Revett, colunata do templo de Apolo em Delos, 1771" />
 <figcaption aria-hidden="true">Stuart e Revett, <a
 href="https://commons.wikimedia.org/wiki/File:The_plan_and_elevation_of_two_Doric_columns_of_the_Temple_of_Apollo_at_Delos_-_Stuart_James_%26_Revett_Nicholas_-_1794.jpg">colunata
 do templo de Apolo em Delos</a>, 1771</figcaption>
 </figure>
 </div><div class="column" style="width:49%;">
-<figure>
+<figure id="fig:desg-colisee">
 <img
 data-src="https://i.pinimg.com/1200x/10/d9/a5/10d9a5d889ed4ab0d3c9414c6313bffd.jpg"
-id="fig:desg-colisee"
 alt="Antoine Desgodets, primeira ordem do Coliseu, 1682" />
 <figcaption aria-hidden="true">Antoine Desgodets, <a
 href="https://search.library.wisc.edu/digital/ADV7EFDVLIOW6S8A/pages/AEV5222NQXMCON8W">primeira
@@ -468,10 +466,9 @@ origem autônoma da arte etrusca e romana.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:winckelmann">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg/555px-Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg"
-id="fig:winckelmann"
 alt="Retrato de Winckelmann por Anton von Maron, 1768" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Johann_Joachim_Winckelmann_(Anton_von_Maron_1768).jpg">Retrato
@@ -519,8 +516,8 @@ data-cites="kaufmann:1952three">(Kaufmann 451)</span>.</p>
 </section>
 <section class="slide level2">
 
-<figure>
-<img data-src="" id="fig:albani"
+<figure id="fig:albani">
+<img data-src=""
 alt="Carlo Marchioni, principal arquiteto, villa Albani, Roma, 1755–1763" />
 <figcaption aria-hidden="true">Carlo Marchioni, principal arquiteto,
 villa Albani, Roma, 1755–1763</figcaption>
@@ -544,60 +541,54 @@ villa Albani, Roma, 1755–1763</figcaption>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
+data-line-spacing="2" role="list">
 <div id="ref-brothers:2002reconstruction" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Brothers, Cammy. <span>“Reconstruction as Design: Giuliano Da Sangallo
 and the <span>‘Palazo Di Mecenate’</span> on the Quirinal Hill”</span>.
 <em>Annali Di Architettura</em>, nº 14, 2002, p. 55–72.
 </div>
-<div id="ref-cellauro:1998palladio22" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-cellauro:1998palladio22" class="csl-entry" role="listitem">
 Cellauro, Louis. <span>“Palladio e le illustrazioni delle edizioni del
 1556 e del 1567 di Vitruvio”</span>. <em>Saggi e Memorie di storia
 dell’arte</em>, vol. 22, 1998, p. 55–128. <em>JSTOR</em>, <a
 href="https://www.jstor.org/stable/43140099">https://www.jstor.org/stable/43140099</a>.
 </div>
-<div id="ref-desgodets:1682edifices" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-desgodets:1682edifices" class="csl-entry" role="listitem">
 Desgodets, Antoine. <em>Les édifices antiques de Rome : dessinés et
 mesurés très exactement</em>. J. B. Coignard, 1682, <a
 href="https://digital.library.wisc.edu/1711.dl/DV7EFDVLIOW6S8A">https://digital.library.wisc.edu/1711.dl/DV7EFDVLIOW6S8A</a>.
 </div>
-<div id="ref-frommel:1988roma" class="csl-entry" role="doc-biblioentry">
+<div id="ref-frommel:1988roma" class="csl-entry" role="listitem">
 Frommel, Christoph. <em>Roma e la formazione architettonica di
 Palladio</em>. Organizado por André Chastel, 1988, p. 146–55.
 </div>
-<div id="ref-herrmann:1958antoine40" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-herrmann:1958antoine40" class="csl-entry" role="listitem">
 Herrmann, W. <span>“Antoine Desgodets and the Académie Royale
 d’Architecture”</span>. <em>The Art Bulletin</em>, vol. 40, nº 1, 1958,
 p. 23–53. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/3047746">https://doi.org/10.2307/3047746</a>.
 </div>
-<div id="ref-kaufmann:1952three" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kaufmann:1952three" class="csl-entry" role="listitem">
 Kaufmann, Emil. <em>Three Revolutionary Architects: Boullée, Ledoux, and
 Lequeu</em>. American Philosophical Society, 1952. JSTOR,
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1005689">https://doi.org/10.2307/1005689</a>.
 </div>
-<div id="ref-loth:2014can" class="csl-entry" role="doc-biblioentry">
+<div id="ref-loth:2014can" class="csl-entry" role="listitem">
 Loth, Calder. <span>“Can We Trust Palladio? Antoine Desgodetz Details
 Palladio’s Inaccuracies”</span>. <em>Institute for Classical
 Architecture and Classical America</em>, 4 de junho de 2014, <a
 href="https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/">https://www.classicist.org/articles/can-we-trust-palladio-antoine-desgodetz-details-palladios-inaccuracies/</a>.
 </div>
-<div id="ref-middleton:1962abbe25" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-middleton:1962abbe25" class="csl-entry" role="listitem">
 Middleton, Robin D. <span>“The Abbé de Cordemoy and the Graeco-Gothic
 Ideal: A Prelude to Romantic Classicism”</span>. <em>Journal of the
 Warburg and Courtauld Institutes</em>, vol. 25, nº 3/4, 1962, p.
 278–320. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/750811">https://doi.org/10.2307/750811</a>.
 </div>
-<div id="ref-millon:2010review69" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-millon:2010review69" class="csl-entry" role="listitem">
 Millon, Henry. <span>“Review of Antoine Desgodets, <em>Les Édifices
 Antiques de Rome</em>”</span>. <em>Journal of the Society of
 Architectural Historians</em>, vol. 69, nº 3, 2010, p. 444–46.

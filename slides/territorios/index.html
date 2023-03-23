@@ -17,10 +17,15 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
@@ -63,10 +68,9 @@ se organiza sobretudo durante a Regência, depois da morte de Luís XIV, e
 no reinado de Luís XV. O arquiteto Jacques V Gabriel, da família de
 construtores e arquitetos famosos, é nomeado em 1716 “primeiro
 engenheiro de pontes e calçamentos do Rei”.</p>
-<figure>
+<figure id="fig:dijon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Palais_des_ducs_et_des_états_de_Bourgogne,_18_janvier_2015.jpg/1024px-Palais_des_ducs_et_des_états_de_Bourgogne,_18_janvier_2015.jpg"
-id="fig:dijon"
 alt="Jacques V Gabriel e outros, palácio dos duques e estados de Borgonha, Dijon. Foto: Fanfwah (2015)" />
 <figcaption aria-hidden="true">Jacques V Gabriel e outros, palácio dos
 duques e estados de Borgonha, Dijon. Foto: <a
@@ -86,10 +90,9 @@ a formação desses engenheiros civis (fig. 2). Essa escola, no início, é
 um escritório de projetos dirigido pelo antigo primeiro engenheiro da
 cidade de Paris e membro da Real Academia de Arquitetura, Jean-Rodolphe
 Perronnet.</p>
-<figure>
+<figure id="fig:hotel-liberal">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hôtel_Libéral_Bruant.jpg/1024px-Hôtel_Libéral_Bruant.jpg"
-id="fig:hotel-liberal"
 alt="Hôtel Libéral-Bruant, Paris, primeira sede da Escola de Pontes e Calçamentos. VVVCFFrance (2019)" />
 <figcaption aria-hidden="true">Hôtel Libéral-Bruant, Paris, primeira
 sede da Escola de Pontes e Calçamentos. <a
@@ -107,10 +110,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db
 de estradas que Trudaine manda produzir a partir de 1745 (fig. 3). O
 projeto é concluído em 1780, mas a escola continua a formar engenheiros
 até hoje.</p>
-<figure>
+<figure id="fig:trudaine-metz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Atlas_de_Trudaine_pour_la_généralité_de_Metz._1_-_Archives_Nationales_-_CP-F-14-8486.jpg/1024px-Atlas_de_Trudaine_pour_la_généralité_de_Metz._1_-_Archives_Nationales_-_CP-F-14-8486.jpg"
-id="fig:trudaine-metz"
 alt="Folha do Atlas para a cidade de Metz e seu entorno. Trudaine (1745–1780)" />
 <figcaption aria-hidden="true">Folha do Atlas para a cidade de Metz e
 seu entorno. <a
@@ -126,10 +128,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5
 <aside class="notes">
 <p>O Atlas em 62 volumes contém mais de 3000 prancha manuscritas e
 aquareladas.</p>
-<figure>
+<figure id="fig:trudaine-thiais">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Atlas_de_Trudaine,_1745-1780,_vue_de_Thiais.jpg/1024px-Atlas_de_Trudaine,_1745-1780,_vue_de_Thiais.jpg"
-id="fig:trudaine-thiais" alt="Folha do Atlas para Thiais" />
+alt="Folha do Atlas para Thiais" />
 <figcaption aria-hidden="true">Folha do Atlas para Thiais</figcaption>
 </figure>
 </aside>
@@ -144,10 +146,10 @@ levantamentos de campo são feitos por engenheiros nas diferentes
 províncias e enviados para o escritório da viação em Paris. São os
 desenhistas desse escritório central que executam as pranchas.</p>
 </aside>
-<figure>
+<figure id="fig:trudaine-lahalliere">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Hallière_(28)_Extrait_de_l&#39;_Atlas_de_Trudaine_(XVIII_e_siècle).jpg/1024px-La_Hallière_(28)_Extrait_de_l&#39;_Atlas_de_Trudaine_(XVIII_e_siècle).jpg"
-id="fig:trudaine-lahalliere" alt="Folha do Atlas para La Hallière" />
+alt="Folha do Atlas para La Hallière" />
 <figcaption aria-hidden="true">Folha do Atlas para La
 Hallière</figcaption>
 </figure>
@@ -161,10 +163,10 @@ data-background-image="https://pictures.abebooks.com/ANTROBERTBERG/18492179495.j
 divisão administrativa da França no final do Antigo Regime. Essa divisão
 é o resultado de um acúmulo de funções militares, judiciais e fiscais
 desde a Idade Média, associado à persistência do sistema feudal.</p>
-<figure>
+<figure id="fig:generalites">
 <img
 data-src="https://pictures.abebooks.com/ANTROBERTBERG/18492179495.jpg"
-id="fig:generalites" alt="Generalidades da França" />
+alt="Generalidades da França" />
 <figcaption aria-hidden="true">Generalidades da França</figcaption>
 </figure>
 </aside>
@@ -181,21 +183,19 @@ os feudos dos outros nobres.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:francie-1030">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Map_France_1030-fr.svg/674px-Map_France_1030-fr.svg.png"
-id="fig:francie-1030" height="680"
-alt="Reino franco c. 1030. Zigeuner (2008a)" />
+height="680" alt="Reino franco c. 1030. Zigeuner (2008a)" />
 <figcaption aria-hidden="true">Reino franco c. 1030. <a
 href="https://commons.wikimedia.org/wiki/File:Map_France_1030-fr.svg">Zigeuner
 (2008a)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:francie-1180">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Map_France_1180-fr.svg/675px-Map_France_1180-fr.svg.png"
-id="fig:francie-1180" height="680"
-alt="Reino franco c. 1180 Zigeuner (2008b)" />
+height="680" alt="Reino franco c. 1180 Zigeuner (2008b)" />
 <figcaption aria-hidden="true">Reino franco c. 1180 <a
 href="https://commons.wikimedia.org/wiki/File:Map_France_1180-fr.svg">Zigeuner
 (2008b)</a></figcaption>
@@ -212,10 +212,10 @@ seja pela destituição de senhores rebeldes, ou pela extinção completa de
 linhagens. No século <span class="smallcaps">XV</span>, a família real
 detém a maior parte do território do reino da França.</p>
 </aside>
-<figure>
+<figure id="fig:france-1477">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_France_1477-pt.svg/713px-Map_France_1477-pt.svg.png"
-id="fig:france-1477" alt="França c. 1477. Torikka (2018)" />
+alt="França c. 1477. Torikka (2018)" />
 <figcaption aria-hidden="true">França c. 1477. <a
 href="https://commons.wikimedia.org/wiki/File:Map_France_1477-pt.svg">Torikka
 (2018)</a></figcaption>
@@ -235,10 +235,10 @@ governadorias militares têm ainda outra divisão territorial.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:france-election">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pays_d&#39;élection.svg/677px-Pays_d&#39;élection.svg.png"
-id="fig:france-election" height="680"
+height="680"
 alt="Países de estamento (vermelho) e países de eleição (branco) na França do final do Antigo Regime. Alexandrin (2007)" />
 <figcaption aria-hidden="true">Países de estamento (vermelho) e países
 de eleição (branco) na França do final do Antigo Regime. <a
@@ -246,10 +246,10 @@ href="https://commons.wikimedia.org/wiki/File:Pays_d&#39;élection.svg">Alexandr
 (2007)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:france-traites">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Carte_des_Traites_1732.png"
-id="fig:france-traites" height="680"
+height="680"
 alt="Tratados alfandegários da França. Administração fiscal do reino (1732)" />
 <figcaption aria-hidden="true">Tratados alfandegários da França. <a
 href="https://commons.wikimedia.org/wiki/File:Carte_des_Traites_1732.png">Administração
@@ -270,10 +270,9 @@ incomoda os administradores e teóricos que se preocupam com conceitos
 como eficiência e igualdade. Esse problema vai ser discutido em círculos
 filosóficos e políticos, como o dos autores e editores da
 <em>Enciclopédia</em>, do qual o próprio Trudaine faz parte.</p>
-<figure>
+<figure id="fig:encyclop-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D&#39;Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/470px-Encyclopedie_de_D&#39;Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg"
-id="fig:encyclop-front"
 alt="Folha de rosto da primeira edição da Enciclopédia (1752)" />
 <figcaption aria-hidden="true">Folha de rosto da primeira edição da <a
 href="https://commons.wikimedia.org/wiki/File:Encyclopedie_de_D&#39;Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg">Enciclopédia
@@ -294,10 +293,9 @@ Japão dos xoguns Tokugawa estabelece um sistema de estradas, mas também
 de normas para o transporte de produtos e para a circulação de
 pessoas.</p>
 </aside>
-<figure>
+<figure id="fig:nihon-kaisei">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg/1015px-Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg"
-id="fig:nihon-kaisei"
 alt="Mapa das províncias do Japão. Nagakubo (1811)" />
 <figcaption aria-hidden="true">Mapa das províncias do Japão. <a
 href="https://commons.wikimedia.org/wiki/File:Revised_map_of_Japan,_showing_provinces_in_five_colours_(14498335027).jpg">Nagakubo
@@ -312,10 +310,9 @@ href="https://commons.wikimedia.org/wiki/File:Revised_map_of_Japan,_showing_prov
 <em>gokaidō</em>, o sistema de cinco estradas para Edo, complementado
 por uma rota marítima e estradas secundárias (fig. 14).</p>
 </aside>
-<figure>
+<figure id="fig:gokaido">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png/674px-Kaart_van_japan_land_en_zeeroutes_tijdens_de_tokugawa_periode-1527461118.png"
-id="fig:gokaido"
 alt="Gokaidō, rotas marítimas e estradas secundárias. Bollen (2018)" />
 <figcaption aria-hidden="true">Gokaidō, rotas marítimas e estradas
 secundárias. <a
@@ -331,10 +328,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/79/Shita
 <p>O objetivo desse sistema era levar tributos, mercadorias e pessoas
 das províncias até Edo (fig. 15), a sede do governo central, de modo
 eficiente mas também controlado.</p>
-<figure>
+<figure id="fig:edo-hiroshige">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/79/Shitamachi.jpg"
-id="fig:edo-hiroshige"
 alt="Vista de Edo por Utagawa Hiroshige (1858)" />
 <figcaption aria-hidden="true">Vista de Edo por <a
 href="https://commons.wikimedia.org/wiki/File:Shitamachi.jpg">Utagawa
@@ -347,10 +343,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Higak
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Higakisinmenbanbune_kawaguchisyuppan_no_zu.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:kawaguchi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Higakisinmenbanbune_kawaguchisyuppan_no_zu.jpg"
-id="fig:kawaguchi"
 alt="Partida de navios de carga em Higaki, Osaka. Gansuitei (1854–1859)" />
 <figcaption aria-hidden="true">Partida de navios de carga em Higaki,
 Osaka. <a
@@ -370,10 +365,10 @@ diplomacia e não da atividade econômica. Por isso, as trocas comerciais
 com o estrangeiro são regulamentadas como relações entre países, e em
 geral restritas a lugares e atividades específicas diretamente
 relacionadas ao poder político.</p>
-<figure>
+<figure id="fig:nanban">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Attributed_to_Kano_Sanraku_-_Important_Cultural_Property_Namban_Screens_-_Google_Art_Project2.jpg/1024px-Attributed_to_Kano_Sanraku_-_Important_Cultural_Property_Namban_Screens_-_Google_Art_Project2.jpg"
-id="fig:nanban" alt="Biombo Nanban. Kanō Sanraku (período Momoyama)" />
+alt="Biombo Nanban. Kanō Sanraku (período Momoyama)" />
 <figcaption aria-hidden="true">Biombo Nanban. <a
 href="https://commons.wikimedia.org/wiki/File:Attributed_to_Kano_Sanraku_-_Important_Cultural_Property_Namban_Screens_-_Google_Art_Project2.jpg">Kanō
 Sanraku (período Momoyama)</a></figcaption>
@@ -388,10 +383,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Japan
 <p>Até a primeira metade do século <span class="smallcaps">XVII</span>,
 mercadores japoneses participam ativamente das redes comerciais do
 Sudeste asiático.</p>
-<figure>
+<figure id="fig:portulano">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JapanesePortolanMap.jpg/1024px-JapanesePortolanMap.jpg"
-id="fig:portulano" alt="Portulano japonês do início do século XVII." />
+alt="Portulano japonês do início do século XVII." />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:JapanesePortolanMap.jpg">Portulano
 japonês do início do século <span
@@ -410,10 +405,10 @@ catolicismo, em 1635 o governo regulamenta ainda mais o comércio
 exterior, determinando os lugares onde comerciantes estrangeiros podem
 operar, e impedindo os japoneses de se deslocarem para o exterior
 (fig. 19).</p>
-<figure>
+<figure id="fig:nagasaki">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kawahara_Nagasaki.jpg/1024px-Kawahara_Nagasaki.jpg"
-id="fig:nagasaki" alt="Vista aérea de Nagasaki. Kawahara (1820)" />
+alt="Vista aérea de Nagasaki. Kawahara (1820)" />
 <figcaption aria-hidden="true">Vista aérea de Nagasaki. <a
 href="https://commons.wikimedia.org/wiki/File:Kawahara_Nagasaki.jpg">Kawahara
 (1820)</a></figcaption>
@@ -430,10 +425,9 @@ associado a um desenvolvimento tecnológico às vezes autônomo, às vezes
 baseado na introdução de conhecimentos europeus. A coleta de impostos
 sobre o comércio e a produção agrícola, assim como a circulação de
 mercadorias, são problemas logísticos importantes nesse contexto.</p>
-<figure>
+<figure id="fig:fishmarket">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nihonbashi-Fish-Market-Prosperity-Ukiyoe-Utagawa-Kuniyasu.png/1024px-Nihonbashi-Fish-Market-Prosperity-Ukiyoe-Utagawa-Kuniyasu.png"
-id="fig:fishmarket"
 alt="Mercado do peixe em Nihonbashi, Edo. Utagawa Kuniyasu (1832)" />
 <figcaption aria-hidden="true">Mercado do peixe em Nihonbashi, Edo. <a
 href="https://commons.wikimedia.org/wiki/File:Nihonbashi-Fish-Market-Prosperity-Ukiyoe-Utagawa-Kuniyasu.png">Utagawa
@@ -453,10 +447,10 @@ alternada (<em>sankin kōtai</em>) pela qual os senhores feudais devem
 passar um de cada dois anos em Edo, onde suas famílias permanecem em
 tempo integral. Tudo isso demanda um sistema de transporte
 eficiente.</p>
-<figure>
+<figure id="fig:tokaido-beato">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tokaido1825.jpg/941px-Tokaido1825.jpg"
-id="fig:tokaido-beato" alt="Tōkaidō. Beato (1865)" />
+alt="Tōkaidō. Beato (1865)" />
 <figcaption aria-hidden="true">Tōkaidō. <a
 href="https://commons.wikimedia.org/wiki/File:Tokaido1825.jpg">Beato
 (1865)</a></figcaption>
@@ -474,10 +468,10 @@ principal de transporte terrestre, o governo mantém uma caixa de via
 muito larga, pavimentada (fig. 22). A qualidade do percurso era tal que
 se podia ir de Edo a Quioto, uma distância de 500 quilômetros, em uma
 semana — mais de 50 quilômetros por dia de viagem.</p>
-<figure>
+<figure id="fig:nakasendo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nakasendo_Highway,_Japan_2003.jpg/1024px-Nakasendo_Highway,_Japan_2003.jpg"
-id="fig:nakasendo" alt="Remanescentes da Nakasendō. Banwell (2003)" />
+alt="Remanescentes da Nakasendō. Banwell (2003)" />
 <figcaption aria-hidden="true">Remanescentes da Nakasendō. <a
 href="https://commons.wikimedia.org/wiki/File:Nakasendo_Highway,_Japan_2003.jpg">Banwell
 (2003)</a></figcaption>
@@ -493,10 +487,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/Hiros
 volta dos quais se desenvolvia uma urbanização comercial de apoio ao
 viajante. Essas estações se tornaram pontos turísticos e foram
 registradas por alguns artistas do período Edo (fig. 23).</p>
-<figure>
+<figure id="fig:shinagawa">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Hiroshige-53-Stations-Hoeido-02-Shinagawa-MIA-01.jpg"
-id="fig:shinagawa"
 alt="Shinagawa, 1.ª estação do Tōkaidō. Hiroshige (1833)" />
 <figcaption aria-hidden="true">Shinagawa, 1.ª estação do Tōkaidō. <a
 href="https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_Tōkaidō">Hiroshige
@@ -515,10 +508,9 @@ Como outros senhores e suas famílias viajavam com frequência para a sede
 do governo, a qualidade dessas hospedagens tendia a ser bastante alta.
 Algumas delas se tornaram <em>ryokan</em>, hotéis em estilo tradicional
 que continuam funcionando até hoje.</p>
-<figure>
+<figure id="fig:totsuka">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiroshige-53-Stations-Hoeido-06-Totsuka-MFA-01.jpg/1024px-Hiroshige-53-Stations-Hoeido-06-Totsuka-MFA-01.jpg"
-id="fig:totsuka"
 alt="Totsuka, 5.ª estação do Tōkaidō. Hiroshige (1833)" />
 <figcaption aria-hidden="true">Totsuka, 5.ª estação do Tōkaidō. <a
 href="https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_Tōkaidō">Hiroshige
@@ -535,10 +527,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53
 veículos, mesmo para o transporte de mercadorias. Essa medida visava a
 diminuir o congestionamento, reduzir os acidentes, e aumentar a
 durabilidade do calçamento.</p>
-<figure>
+<figure id="fig:goyu">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hiroshige-53-Stations-Hoeido-36-Goyu-MFA-01.jpg/1024px-Hiroshige-53-Stations-Hoeido-36-Goyu-MFA-01.jpg"
-id="fig:goyu" alt="Goyu, 35.ª estação do Tōkaidō. Hiroshige (1833)" />
+alt="Goyu, 35.ª estação do Tōkaidō. Hiroshige (1833)" />
 <figcaption aria-hidden="true">Goyu, 35.ª estação do Tōkaidō. <a
 href="https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_Tōkaidō">Hiroshige
 (1833)</a></figcaption>
@@ -550,10 +542,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/GoyuMatsunamiki_Sidewalk.jpg/1280px-GoyuMatsunamiki_Sidewalk.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:goyu-2009">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/GoyuMatsunamiki_Sidewalk.jpg/1024px-GoyuMatsunamiki_Sidewalk.jpg"
-id="fig:goyu-2009" alt="Goyu na atualidade. Kiyok (2009)" />
+alt="Goyu na atualidade. Kiyok (2009)" />
 <figcaption aria-hidden="true">Goyu na atualidade. <a
 href="https://commons.wikimedia.org/wiki/File:GoyuMatsunamiki_Sidewalk.jpg">Kiyok
 (2009)</a></figcaption>
@@ -569,10 +561,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc
 dependendo da classe social. Os samurais podiam viajar a cavalo. Mesmo
 pessoas de classe média teriam uma liteira simples carregada por dois
 serventes, e só os mais pobres viajavam a pé.</p>
-<figure>
+<figure id="fig:kusatsu">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hiroshige-53-Stations-Hoeido-53-Kusatsu-MFA-01.jpg/1024px-Hiroshige-53-Stations-Hoeido-53-Kusatsu-MFA-01.jpg"
-id="fig:kusatsu"
 alt="Kusatsu, 52.ª estação do Tōkaidō. Hiroshige (1833)" />
 <figcaption aria-hidden="true">Kusatsu, 52.ª estação do Tōkaidō. <a
 href="https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_Tōkaidō">Hiroshige

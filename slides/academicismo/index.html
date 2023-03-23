@@ -17,10 +17,15 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
@@ -46,17 +51,21 @@ sistemas de poder político e cultural na França, e de como eles se
 transformam desde o século <span class="smallcaps">XII</span> até o
 presente.</p>
 </aside>
+<figure id="fig:louvre-aerial">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Louvre_Paris_from_top.jpg/1024px-Louvre_Paris_from_top.jpg"
-title="fig:" id="fig:louvre-aerial" class="r-stretch"
-alt="Palácio do Louvre, vista aérea. Kabel (2005)" />
+class="r-stretch" alt="Palácio do Louvre, vista aérea. Kabel (2005)" />
+<figcaption aria-hidden="true">Palácio do Louvre, vista aérea. <a
+href="https://commons.wikimedia.org/wiki/File:Louvre_Paris_from_top.jpg">Kabel
+(2005)</a></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:louvre-hamlin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg/1024px-Plan_of_Louvre_and_Tuileries_-_Alfred_Dwight_Foster_Hamlin,_History_of_Architecture.svg.png"
-id="fig:louvre-hamlin" class="line"
+class="line"
 alt="Fases de construção dos palácios do Louvre e das Tulherias, séculos XII a XIX. Baseado em A.D.F. Hamlin (1915)" />
 <figcaption aria-hidden="true">Fases de construção dos palácios do
 Louvre e das Tulherias, séculos <span class="smallcaps">XII</span> a
@@ -68,10 +77,9 @@ em A.D.F. Hamlin (1915)</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:louvre-berry">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg/884px-Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg"
-id="fig:louvre-berry"
 alt="Vista do Louvre pelos irmãos Limbourg, Riquíssimas horas do duque de Berry (1412–1416)" />
 <figcaption aria-hidden="true">Vista do Louvre pelos irmãos Limbourg, <a
 href="https://commons.wikimedia.org/wiki/File:Les_Très_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg"><em>Riquíssimas
@@ -93,10 +101,9 @@ pelos irmãos Limbourg, três artistas holandeses, para o livro de horas
 em 1190, como parte da muralha da cidade e defesa contra ataques subindo
 o rio Sena (fig. 4).</p>
 </aside>
-<figure>
+<figure id="fig:paris-golvin">
 <img
 data-src="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-vue-moyen-age-jc-golvin.jpg"
-id="fig:paris-golvin"
 alt="Paris no século XV, segundo Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Paris no século <span
 class="smallcaps">XV</span>, segundo <a
@@ -106,10 +113,9 @@ Golvin</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:louvre-golvin">
 <img
 data-src="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-paris-louvre-moyen-age-jc-golvin.jpg"
-id="fig:louvre-golvin"
 alt="Louvre no século XV, segundo Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Louvre no século <span
 class="smallcaps">XV</span>, segundo <a
@@ -133,10 +139,9 @@ construído no século <span class="smallcaps">XIII</span>. Esse salão
 ficou enterrado até o século <span class="smallcaps">XIX</span> debaixo
 das sucessivas reconstruções do palácio (fig. 6).</p>
 </aside>
-<figure>
+<figure id="fig:louvre-saintlouis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg/1024px-New_lighting_and_arrangement_of_the_salle_Saint-Louis_(Louvre,_2016).jpg"
-id="fig:louvre-saintlouis"
 alt="Salão de audiências de São Luís, Louvre, século XIII. Tangopaso (2016)" />
 <figcaption aria-hidden="true">Salão de audiências de São Luís, Louvre,
 século <span class="smallcaps">XIII</span>. <a
@@ -147,23 +152,25 @@ href="https://commons.wikimedia.org/wiki/File:New_lighting_and_arrangement_of_th
 </section>
 <section class="slide level2">
 
-<div id="fig:louvre-remplace" class="subfigures r-stack">
-<figure>
+<figure id="fig:louvre-remplace" class="subfigures r-stack">
+<figure id="fig:louvre-remplaceA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/64/Du_chateau_du_Louvre_à_la_cour_Carrée_1.jpg"
-id="fig:louvre-remplaceA" class="align-left fragment current-visible" />
+class="align-left fragment current-visible" alt="1200–1555" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:louvre-remplaceB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Du_chateau_du_Louvre_à_la_cour_Carrée_2.jpg"
-id="fig:louvre-remplaceB" class="align-left fragment current-visible" />
+class="align-left fragment current-visible" alt="1635–1696" />
+<figcaption></figcaption>
 </figure>
-<p>Reconstrução e ampliação do Pátio Quadrado do Louvre. Desenho:
-Tangopaso (2017). a – <a
+<figcaption><p>Reconstrução e ampliação do Pátio Quadrado do Louvre.
+Desenho: Tangopaso (2017). a – <a
 href="https://commons.wikimedia.org/wiki/File:Du_chateau_du_Louvre_à_la_cour_Carrée_1.jpg">1200–1555</a>,
 b – <a
-href="https://commons.wikimedia.org/wiki/File:Du_chateau_du_Louvre_à_la_cour_Carrée_2.jpg">1635–1696</a></p>
-</div>
+href="https://commons.wikimedia.org/wiki/File:Du_chateau_du_Louvre_à_la_cour_Carrée_2.jpg">1635–1696</a></p></figcaption>
+</figure>
 <!--_-->
 <aside class="notes">
 <hr />
@@ -187,10 +194,9 @@ cada ala, uma configuração típica dos castelos franceses inspirados no
 manuscrito de Serlio. Mais importante ainda, ela prevê o rebatimento da
 composição de 1546 de Pierre Lescot nas elevações sobre o pátio.</p>
 </aside>
-<figure>
+<figure id="fig:louvre-poisson">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg/867px-Grand_dessein_d’Henri_IV_(château_du_Louvre),_vers_1600-1615.jpg"
-id="fig:louvre-poisson"
 alt="Louis Poisson, Grande desígnio de Henrique IV. Castelo de Fontainebleau, c. 1600–1615" />
 <figcaption aria-hidden="true">Louis Poisson, <em>Grande desígnio</em>
 de Henrique IV. <a
@@ -202,10 +208,9 @@ de Fontainebleau, c. 1600–1615</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:louvre-berty">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg/782px-Plan_of_medieval_Louvre_-_Berty_1866_after_p128.jpg"
-id="fig:louvre-berty"
 alt="Sobreposição do Louvre moderno e do tecido urbano medieval e renascentista. Berty (1866)" />
 <figcaption aria-hidden="true">Sobreposição do Louvre moderno e do
 tecido urbano medieval e renascentista. <a
@@ -231,10 +236,9 @@ quarteirões a demolir. O projeto de Lemercier respeita no seu conjunto a
 obra existente de Lescot e o <em>grande desígnio</em> legado por
 Henrique IV, o pai de Luís XIII (fig. 10).</p>
 </aside>
-<figure>
+<figure id="fig:louvre1642">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LouvreL13.jpg/1024px-LouvreL13.jpg"
-id="fig:louvre1642"
 alt="Ala oeste e obras da ala norte do Louvre. Israël Silvestre (1642)" />
 <figcaption aria-hidden="true">Ala oeste e obras da ala norte do Louvre.
 <a href="https://commons.wikimedia.org/wiki/File:LouvreL13.jpg">Israël
@@ -243,10 +247,9 @@ Silvestre (1642)</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:louvre-cour-lemercier">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Louvre_Cour_Carrée_June_2010.jpg/1024px-Louvre_Cour_Carrée_June_2010.jpg"
-id="fig:louvre-cour-lemercier"
 alt="Pátio Quadrado do Louvre, vista das alas Lescot e Lemercier (oeste), 1546–1642. King of Hearts (2010)" />
 <figcaption aria-hidden="true">Pátio Quadrado do Louvre, vista das alas
 Lescot e Lemercier (oeste), 1546–1642. <a
@@ -269,10 +272,9 @@ Jean Marot (fig. 12). Esse projeto tem um caráter severo, ao gosto das
 primeiras décadas do século <span class="smallcaps">XVII</span>.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:louvre-lemercier-orientale">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/L&#39;Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg/1280px-L&#39;Architecture_française_(Marot)_BnF_RES-V-371_164va-f349_Louvre,_Dessein_de_la_pensée_de_Lemercier_pour_la_principale_entrée_(adjusted).jpg"
-id="fig:louvre-lemercier-orientale"
 alt="Projeto de Jacques Lemercier para a fachada oriental do Louvre, década de 1640 ou 50. Jean Marot (1686)" />
 <figcaption aria-hidden="true">Projeto de Jacques Lemercier para a
 fachada oriental do Louvre, década de 1640 ou 50. <a
@@ -286,10 +288,9 @@ Marot (1686)</a></figcaption>
 
 <div class="columns r-stretch">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:lemercier-champaigne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2f/JLemercierPdeChampagne.jpg"
-id="fig:lemercier-champaigne"
 alt="Jacques Lemercier (1585–1654). Retrato por Philippe de Champaigne (1644)" />
 <figcaption aria-hidden="true">Jacques Lemercier (1585–1654). Retrato
 por <a
@@ -297,10 +298,9 @@ href="https://commons.wikimedia.org/wiki/File:JLemercierPdeChampagne.jpg">Philip
 de Champaigne (1644)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:louisxiii-champaigne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII,_rey_de_Francia_(Philippe_de_Champaigne).jpg/473px-Luis_XIII,_rey_de_Francia_(Philippe_de_Champaigne).jpg"
-id="fig:louisxiii-champaigne"
 alt="Luís XIII (1610–1643). Retrato por Philippe de Champaigne (1635)" />
 <figcaption aria-hidden="true">Luís XIII (1610–1643). Retrato por <a
 href="https://commons.wikimedia.org/wiki/File:Luis_XIII,_rey_de_Francia_(Philippe_de_Champaigne).jpg">Philippe
@@ -336,10 +336,9 @@ da Coroa.</p>
 </aside>
 <div class="columns r-stretch">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:colbert-champaigne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Colbert1666.jpg/601px-Colbert1666.jpg"
-id="fig:colbert-champaigne"
 alt="Jean-Baptiste Colbert (1619–1683). Retrato por Philippe de Champaigne (1655)" />
 <figcaption aria-hidden="true">Jean-Baptiste Colbert (1619–1683).
 Retrato por <a
@@ -347,10 +346,9 @@ href="https://commons.wikimedia.org/wiki/File:Colbert1666.jpg">Philippe
 de Champaigne (1655)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:mazarin-mignard">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg/652px-Cardinal_Mazarin_by_Pierre_Mignard_(Musée_Condé).jpg"
-id="fig:mazarin-mignard"
 alt="Cardeal Júlio Mazarino (1602–1661). Retrato por Pierre Mignard (1658–1660)" />
 <figcaption aria-hidden="true">Cardeal Júlio Mazarino (1602–1661).
 Retrato por <a
@@ -362,10 +360,9 @@ Mignard (1658–1660)</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:testelin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg/1024px-Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg"
-id="fig:testelin"
 alt="Henri Testelin, Colbert apresenta os membros da Real academia de ciências a Luís XIV em 1667 (1675–1680)" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Testelin,_Henri_-_Colbert_Presenting_the_Members_of_the_Royal_Academy_of_Sciences_to_Louis_XIV_in_1667.jpg">Henri
@@ -395,20 +392,19 @@ mais prestigiosos da capital.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:levau-portrait">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_a_man_with_the_Louvre_–_Les_collections_du_château_de_Versailles.jpg/502px-Portrait_of_a_man_with_the_Louvre_–_Les_collections_du_château_de_Versailles.jpg"
-id="fig:levau-portrait"
 alt="Retrato presumido de Louis II Le Vau (1612–1670)" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Portrait_of_a_man_with_the_Louvre_–_Les_collections_du_château_de_Versailles.jpg">Retrato
 presumido de Louis II Le Vau (1612–1670)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:slouis-turgot">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ile_St-Louis_Plan_de_Turgot_1739.jpg/723px-Ile_St-Louis_Plan_de_Turgot_1739.jpg"
-id="fig:slouis-turgot" style="width:100.0%"
+style="width:100.0%"
 alt="Ilha Saint-Louis na planta de Paris de Turgot (1739)" />
 <figcaption aria-hidden="true">Ilha Saint-Louis na planta de Paris de <a
 href="https://commons.wikimedia.org/wiki/File:Ile_St-Louis_Plan_de_Turgot_1739.jpg">Turgot
@@ -420,10 +416,9 @@ href="https://commons.wikimedia.org/wiki/File:Ile_St-Louis_Plan_de_Turgot_1739.j
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:louvre-sud-marot">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L&#39;Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg/1280px-L&#39;Architecture_française_(Marot)_BnF_RES-V-371_173v-f378_Château_du_Louvre,_Face_du_côté_de_la_rivière_avant_quelle_fut_doublée.jpg"
-id="fig:louvre-sud-marot"
 alt="Fachada de Louis Le Vau para o exterior da ala sul do Louvre, 1657. Marot (1686)" />
 <figcaption aria-hidden="true">Fachada de Louis Le Vau para o exterior
 da ala sul do Louvre, 1657. <a
@@ -442,10 +437,9 @@ italiano recente, como as colunas colossais (fig. 20).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:plan-de-la-paix-det">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg/1280px-Louis_Le_Vau_project_general_site_plan_of_the_Louvre_and_the_Collège_des_Quatre-Nations,_detail_-_Ballon_1999_p37_(fig19).jpg"
-id="fig:plan-de-la-paix-det"
 alt="Projeto de Louis Le Vau para o Louvre e o collège des Quatre-Nations, 1659 ou 1663. Reproduzido em Ballon (1999)" />
 <figcaption aria-hidden="true">Projeto de Louis Le Vau para o Louvre e o
 collège des Quatre-Nations, 1659 ou 1663. Reproduzido em <a
@@ -506,10 +500,9 @@ oculto</li>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:levau-tadgell">
 <img
 data-src="https://i.pinimg.com/originals/81/c1/5d/81c15de46710afdf2ff91df214cd349f.png"
-id="fig:levau-tadgell"
 alt="Reconstituição do projeto de 1664 de Le Vau para a fachada leste do Louvre, segundo Tadgell, 1980" />
 <figcaption aria-hidden="true">Reconstituição do projeto de 1664 de Le
 Vau para a fachada leste do Louvre, segundo <a
@@ -552,10 +545,10 @@ estatal diante das pressões políticas.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:ch-perrault">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Charles.Perrault.jpg/608px-Charles.Perrault.jpg"
-id="fig:ch-perrault" class="fragment"
+class="fragment"
 alt="Charles Perrault (1628–1703), retratado por Philippe Lallemand (1671)" />
 <figcaption aria-hidden="true">Charles Perrault (1628–1703), retratado
 por <a
@@ -563,10 +556,10 @@ href="https://commons.wikimedia.org/wiki/File:Charles.Perrault.jpg">Philippe
 Lallemand (1671)</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cl-perrault">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/62/Claude_Perrault_by_Gérard_Edelinck.jpg"
-id="fig:cl-perrault" class="fragment"
+class="fragment"
 alt="Claude Perrault (1613–1688), retratado por Gérard Edelinck (c. 1660–1700)" />
 <figcaption aria-hidden="true">Claude Perrault (1613–1688), retratado
 por <a
@@ -578,10 +571,9 @@ Edelinck (c. 1660–1700)</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bernini1">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bernini-Louvre-First-Design.jpg/1024px-Bernini-Louvre-First-Design.jpg"
-id="fig:bernini1"
 alt="Primeiro projeto de Bernini para o Louvre, junho de 1664" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Bernini-Louvre-First-Design.jpg">Primeiro
@@ -616,10 +608,9 @@ esse convite é um triunfo diplomático para Luís XIV, que demonstra o seu
 poder de convencer ninguém menos que o Papa a liberar o seu mais famoso
 artista.</p>
 </aside>
-<figure>
+<figure id="fig:bernini2">
 <img
 data-src="https://i.pinimg.com/originals/bc/89/02/bc890233f0584820e228dbf3784d87f6.png"
-id="fig:bernini2"
 alt="Segundo projeto de Bernini para o Louvre, 1665" />
 <figcaption aria-hidden="true">Segundo projeto de Bernini para o Louvre,
 1665</figcaption>
@@ -627,10 +618,10 @@ alt="Segundo projeto de Bernini para o Louvre, 1665" />
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bernini4">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/L&#39;Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg/1280px-L&#39;Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg"
-id="fig:bernini4" alt="Quarto projeto de Bernini para o Louvre, 1664" />
+alt="Quarto projeto de Bernini para o Louvre, 1664" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:L&#39;Architecture_française_(Marot)_BnF_RES-V-371_167v-f357_Louvre,_Principale_Entrée_du_côté_de_Saint-Germain_du_dessein_du_Cavalier_Bernin.jpg">Quarto
 projeto de Bernini para o Louvre, 1664</a></figcaption>
@@ -655,10 +646,9 @@ com François Mansart e o pintor Charles Le Brun num projeto alternativo,
 em parte baseado no projeto de 1663 do próprio Le Vau, como atesta este
 desenho da mão de Mansart (fig. 28).</p>
 </aside>
-<figure>
+<figure id="fig:louvre-mansart">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mignot-Babelon-Mansart-227-de-Cotte-967.jpg/1024px-Mignot-Babelon-Mansart-227-de-Cotte-967.jpg"
-id="fig:louvre-mansart"
 alt="Projeto de François Mansart para o Louvre, 1664 ou 1665. Acervo Robert de Cotte 967" />
 <figcaption aria-hidden="true">Projeto de François Mansart para o
 Louvre, 1664 ou 1665. <a
@@ -668,10 +658,9 @@ Robert de Cotte 967</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:colonnade-1668">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Claude_Perrault,_perspective_bird&#39;s-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg/1280px-Claude_Perrault,_perspective_bird&#39;s-eye_view_of_the_Louvre_from_the_east_–_Berger_1993,_figure_67.jpg"
-id="fig:colonnade-1668"
 alt="Mais antigo desenho remanescente do projeto executado para a colunata do Louvre. Provavelmente Claude Perrault (1668)" />
 <figcaption aria-hidden="true">Mais antigo desenho remanescente do
 projeto executado para a colunata do Louvre. Provavelmente <a
@@ -706,10 +695,9 @@ final do século <span class="smallcaps">XVII</span> sobre os méritos
 relativos da Antiguidade e da modernidade — um episódio conhecido como
 Querela dos Antigos e dos Modernos.</p>
 </aside>
-<figure>
+<figure id="fig:louvre-pediment">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg/1024px-Lifting_of_the_Louvre_pediment_stones_1674_by_Le_Clerc_-_Berger_1993_fig86.jpg"
-id="fig:louvre-pediment"
 alt="Colocação das cornijas inclinadas na fachada leste do Louvre. Gravura por Sébastien Leclerc (1677)" />
 <figcaption aria-hidden="true">Colocação das cornijas inclinadas na
 fachada leste do Louvre. Gravura por <a
@@ -720,10 +708,9 @@ Leclerc (1677)</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:colonnade-encyclopedie">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg/1018px-Colonnade_du_Louvre_-_Encyclopédie_of_Diderot,_Architecture_plate_XV_-_Dover_1995_p14.jpg"
-id="fig:colonnade-encyclopedie"
 alt="Fachada oriental do Louvre, projeto “definitivo” (construído com alterações). Publicado na Enciclopédia (1762)" />
 <figcaption aria-hidden="true">Fachada oriental do Louvre, projeto
 “definitivo” (construído com alterações). Publicado na <a

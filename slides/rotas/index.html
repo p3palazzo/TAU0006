@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -64,16 +69,16 @@ class="title-slide slide level1">
 </section>
 <section class="slide level2">
 
-<div id="fig:globe"
+<figure id="fig:globe"
 class="subfigures sketchfab-embed-wrapper iframe-wrapper">
 <iframe title="First terrestrial globe - Martin Behaim 1492" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/464002c2d8044f9a9c490cfe59395420/embed">
 </iframe>
-<p><a
+<figcaption><p><a
 href="https://sketchfab.com/3d-models/first-terrestrial-globe-martin-behaim-1492-464002c2d8044f9a9c490cfe59395420">Martin
 Behaim, globo terrestre, 1492</a>. Digitalizado por <a
 href="https://sketchfab.com/dronesimaging?utm_medium=embed&amp;utm_campaign=share-popup&amp;utm_content=464002c2d8044f9a9c490cfe59395420">Drones
-Imaging</a>. </p>
-</div>
+Imaging</a>. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -126,10 +131,9 @@ Eccles, 2008</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:poly-dispersal">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png/1280px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).png"
-id="fig:poly-dispersal"
 alt="Expansão polinésia até o século XIII. Mapa: Miles Benton, 2012" />
 <figcaption aria-hidden="true">Expansão polinésia até o século <span
 class="smallcaps">XIII</span>. Mapa: <a
@@ -152,10 +156,9 @@ na América, e levado de lá a batata doce e ervas medicinais.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:choisy">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg"
-id="fig:choisy"
 alt="Auguste Choisy fotografado por Eugène Pirou, 1904" />
 <figcaption aria-hidden="true">Auguste Choisy fotografado por <a
 href="https://commons.wikimedia.org/wiki/File:Auguste_Choisy_par_Eugène_Pirou.jpg">Eugène
@@ -180,10 +183,9 @@ uns “índios no meio da selva” sendo capazes de criar arquitetura
 monumental.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:choisy-pacific">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/4/45/Architectures_du_Nouveau-Monde_fig._1,_from_Histoire_de_l&#39;architecture_t._I_p._198.png"
-id="fig:choisy-pacific"
 alt="Auguste Choisy, teorização da influência asiática e europeia sobre a arquitetura precolombiana das Américas, em Histoire de l’architecture, 1899" />
 <figcaption aria-hidden="true">Auguste Choisy, teorização da influência
 asiática e europeia sobre a arquitetura precolombiana das Américas, em
@@ -195,10 +197,9 @@ de l’architecture</em>, 1899</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:aliens">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/aliens.jpg"
-id="fig:aliens"
 alt="Autoria desconhecida. “Só porque os brancos não conseguiram fazer o mesmo, não quer dizer que foram alienígenas”" />
 <figcaption aria-hidden="true">Autoria desconhecida. “Só porque os
 brancos não conseguiram fazer o mesmo, não quer dizer que foram
@@ -231,10 +232,9 @@ Esse conjunto forma a maior rede comercial do mundo no início da Idade
 Moderna.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:civ6">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/civ4-tech-scaled.jpg"
-id="fig:civ6"
 alt="“Árvore” tecnológica linear no jogo Civilization IV. Postada por Kael em Civilization Fanatics Center, 2006" />
 <figcaption aria-hidden="true">“Árvore” tecnológica linear no jogo
 <em>Civilization IV</em>. Postada por Kael em <a
@@ -249,10 +249,9 @@ Fanatics Center, 2006</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:lippman">
 <img
 data-src="https://kms.jadaliyya.com/Images/357x383xo/abulughodjadblackwhite.jpg"
-id="fig:lippman"
 alt="Janet Lippman Abu-Lughod. Foto publicada por IASTE, 1990, via Jadaliyya" />
 <figcaption aria-hidden="true">Janet Lippman Abu-Lughod. Foto publicada
 por <a href="https://www.jadaliyya.com/Details/30174"><span
@@ -275,10 +274,9 @@ periférica nesse sistema, controlado por mercadores muçulmanos.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:circuits">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Archaic_globalization.svg/1024px-Archaic_globalization.svg.png"
-id="fig:circuits"
 alt="Circuitos econômico-culturais do sistema mundial, 1250–1350, segundo Janet Lippman. Mapa por Derfel73, 2011" />
 <figcaption aria-hidden="true">Circuitos econômico-culturais do sistema
 mundial, 1250–1350, segundo Janet Lippman. Mapa por <a
@@ -292,10 +290,10 @@ href="https://commons.wikimedia.org/wiki/File:Archaic_globalization.svg">Derfel7
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:indico-redes">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Índico_e_rota_da_Seda_século_XIV.png"
-id="fig:indico-redes" class="nobg"
+class="nobg"
 alt="Redes comerciais e esferas culturais da rota da Seda e do oceano Índico no século XIV" />
 <figcaption aria-hidden="true">Redes comerciais e esferas culturais da
 rota da Seda e do oceano Índico no século <span
@@ -348,10 +346,9 @@ culturas e religiões diversas.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cihannuma">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/lossy-page1-1021px-katip_celebis_cihannuma-map_of_south_east_asia.tif_.jpg"
-id="fig:cihannuma"
 alt="İbrahim Müteferrika. Sudeste asiático, folha do atlas Cihânnümâ de Kâtip Çelebi, 1648" />
 <figcaption aria-hidden="true">İbrahim Müteferrika. Sudeste asiático,
 folha do atlas <a
@@ -382,10 +379,9 @@ Mas, acima de tudo, essas cidades demonstram modos de organizar o espaço
 urbano e de construir perfeitamente adaptados ao clima equatorial.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:majapahit">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png"
-id="fig:majapahit"
 alt="Arquipélago de Nusantara no auge do império Majapahit, século XIV. Mapa: Gunawan Kartapranata, 2009" />
 <figcaption aria-hidden="true">Arquipélago de Nusantara no auge do
 império Majapahit, século <span class="smallcaps">XIV</span>. Mapa: <a
@@ -396,10 +392,16 @@ Kartapranata, 2009</a></figcaption>
 </section>
 <section id="section-1" class="slide level2" data-transition="fade-in">
 <h2 data-transition="fade-in"></h2>
+<figure id="fig:malacca">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Malacca_Sultanate-pt.svg/677px-Malacca_Sultanate-pt.svg.png"
-title="fig:" id="fig:malacca" class="r-stretch"
+class="r-stretch"
 alt="Sultanato de Malacca no final do século XV. Mapa: Gunawan Kartapranata, 2011" />
+<figcaption aria-hidden="true">Sultanato de Malacca no final do século
+<span class="smallcaps">XV</span>. Mapa: <a
+href="https://commons.wikimedia.org/wiki/File:Malacca_Sultanate-pt.svg">Gunawan
+Kartapranata, 2011</a></figcaption>
+</figure>
 </section>
 <section id="urbanização-do-kampung" class="slide level2">
 <h2>Urbanização do <em>kampung</em></h2>
@@ -426,10 +428,10 @@ bairros ocidentais, chineses e “nativos”.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:evers">
 <img
 data-src="http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png"
-id="fig:evers" class="overlay-slide" alt="Hans-Dieter Evers" />
+class="overlay-slide" alt="Hans-Dieter Evers" />
 <figcaption aria-hidden="true">Hans-Dieter Evers</figcaption>
 </figure>
 </div>
@@ -442,10 +444,9 @@ ocidental, o urbanismo malaio como um paradigma alternativo ao do
 urbanismo chinês, e igualmente legítimo.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:singapore1839">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"
-id="fig:singapore1839"
 alt="Mapa da cidade de Cingapura por G.D. Coleman, 1839" />
 <figcaption aria-hidden="true">Mapa da cidade de Cingapura por <a
 href="https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg">G.D.
@@ -455,10 +456,9 @@ Coleman, 1839</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:arrozal">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"
-id="fig:arrozal"
 alt="Arrozal em terraços em Batad, Banaue, Filipinas Foto: Uwe Aranas, 2008" />
 <figcaption aria-hidden="true">Arrozal em terraços em Batad, Banaue,
 Filipinas Foto: <a
@@ -495,10 +495,9 @@ cresce, cada casa pode ser ampliada segundo um sistema de ambientes
 modulares (fig. 17) <span class="citation"
 data-cites="lim:1991malay">Beng et al.</span></p>
 </aside>
-<figure>
+<figure id="fig:kampung-sahabuddin-1">
 <img
 data-src="https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg"
-id="fig:kampung-sahabuddin-1"
 alt="Esquema de um kampung rural simples Mohd Sahabuddin, 2012" />
 <figcaption aria-hidden="true">Esquema de um <em>kampung</em> rural
 simples <a
@@ -508,10 +507,10 @@ Sahabuddin, 2012</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lim-malay">
 <img
 data-src="https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg"
-id="fig:lim-malay" class="line"
+class="line"
 alt="Sequência tipológica da casa malaia. Lin, 1991, ap. Beng et al., 2015" />
 <figcaption aria-hidden="true">Sequência tipológica da casa malaia. Lin,
 1991, <em>ap.</em> Beng <em>et al.</em>, 2015</figcaption>
@@ -527,10 +526,9 @@ como num projeto da década de 1990 para um <em>kampung</em> nas
 Filipinas pela firma americana Duany, Plater-Zyberk &amp; co
 (fig. 18).</p>
 </aside>
-<figure>
+<figure id="fig:dpz1997">
 <img
 data-src="https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png"
-id="fig:dpz1997"
 alt="Kampung contemporâneo nas Filipinas, por Duany, Plater-Zyberk &amp; co., 1997" />
 <figcaption aria-hidden="true"><em>Kampung</em> contemporâneo nas
 Filipinas, por Duany, Plater-Zyberk &amp; co., 1997</figcaption>
@@ -539,10 +537,9 @@ Filipinas, por Duany, Plater-Zyberk &amp; co., 1997</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:hall-trowulan">
 <img
 data-src="https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png"
-id="fig:hall-trowulan"
 alt="Pura de Trowulan, século XIV, segundo Kenneth Hall, 1996, p. 99" />
 <figcaption aria-hidden="true"><em>Pura</em> de Trowulan, século <span
 class="smallcaps">XIV</span>, segundo <a
@@ -571,10 +568,10 @@ um mosteiro budista se aglomeram em volta do <em>pura</em>
 (fig. 19).</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:hall-java">
 <img
 data-src="https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png"
-id="fig:hall-java" class="line"
+class="line"
 alt="Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século XIV, segundo Kenneth Hall, 1996, p. 97" />
 <figcaption aria-hidden="true">Rede central de atividades religiosas e
 políticas em torno de Trowulan, capital do império Majapahit, no século
@@ -600,10 +597,10 @@ class="citation" data-cites="tajudeen:2005reading8">(Tajudeen,
 <span>“Reading the Traditional City of Maritime Southeast Asia”</span>
 5)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:malay-urbanism">
 <img
 data-src="https://i.pinimg.com/originals/c3/a8/52/c3a85244eda8a1be0ceaa0e380b410fe.png"
-id="fig:malay-urbanism" class="line"
+class="line"
 alt="Diagrama conceitual de um conjunto urbano malaio. Baseado em Tajudeen, 2005" />
 <figcaption aria-hidden="true">Diagrama conceitual de um conjunto urbano
 malaio. Baseado em Tajudeen, 2005</figcaption>
@@ -611,10 +608,9 @@ malaio. Baseado em Tajudeen, 2005</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:fortr-malacca">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg/1280px-AMH-4570-NA_Map_of_the_fort_at_Malakka.jpg"
-id="fig:fortr-malacca"
 alt="Planta das fortificações holandesas em Malacca, no sítio do antigo forte português e anterior cidadela real malaia, Norte à esquerda. Desenho holandês de 1656" />
 <figcaption aria-hidden="true">Planta das fortificações holandesas em
 Malacca, no sítio do antigo forte português e anterior cidadela real
@@ -638,32 +634,36 @@ comercial chinesa a noroeste, na outra margem do rio.</p>
 <p>O <em>kota raja</em> funciona ele próprio como um <em>kampung</em>
 centrado no palácio e na sua mesquita (fig. 23).</p>
 </aside>
-<div id="fig:malacca-kotaraja" class="subfigures columns full">
+<figure id="fig:malacca-kotaraja" class="subfigures columns full">
 <div class="column" style="width:75%;">
-<figure>
+<figure id="fig:malacca-kotarajaB">
 <img
 data-src="https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg"
-id="fig:malacca-kotarajaB" />
+alt="Reconstituição do palácio por Mohd Faizal Rahmat, 2016–2018" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:25%;">
-<figure>
+</div>
+<div class="column" style="width:25%;">
+<figure id="fig:malacca-kotarajaA">
 <img
 data-src="https://i.pinimg.com/originals/eb/d1/6e/ebd16e3bdcd83966a5273061d529397b.png"
-id="fig:malacca-kotarajaA" class="line overlay-slide fragment" />
+class="line overlay-slide fragment"
+alt="Planta reconstituída por William G. Shellabear, 1891" />
+<figcaption></figcaption>
 </figure>
-</div><p>O <em>kota raja</em> de Malacca no século <span
+</div>
+<figcaption><p>O <em>kota raja</em> de Malacca no século <span
 class="smallcaps">XV</span>. a – Reconstituição do palácio por Mohd
 Faizal Rahmat, 2016–2018, b – Planta reconstituída por William G.
-Shellabear, 1891</p>
-</div>
+Shellabear, 1891</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:malacca-kotarajaC">
 <img
 data-src="https://i.pinimg.com/originals/ef/b3/33/efb3334ce5187082dad839f580334637.jpg"
-id="fig:malacca-kotarajaC"
 alt="Reconstituição do kota raja e da cidade comercial por Mohd Faizal Rahmat, 2016–2018" />
 <figcaption aria-hidden="true">Reconstituição do <em>kota raja</em> e da
 cidade comercial por Mohd Faizal Rahmat, 2016–2018</figcaption>
@@ -684,10 +684,9 @@ século <span class="smallcaps">XIX</span> até a metade do século <span
 class="smallcaps">XX</span> (fig. 25), ele perdeu a função de centro
 político e se adensou como uma vila comercial (fig. 26).</p>
 </aside>
-<figure>
+<figure id="fig:raffles">
 <img
 data-src="https://i.pinimg.com/originals/6d/08/26/6d0826cd3ee35fe72f8294b213f1de54.jpg"
-id="fig:raffles"
 alt="Kampung Glam e a expansão urbana de Cingapura imposta pelo governador britânico, Sir Stamford Raffles, 1822–1829" />
 <figcaption aria-hidden="true">Kampung Glam e a expansão urbana de
 Cingapura imposta pelo governador britânico, Sir Stamford Raffles,
@@ -696,10 +695,9 @@ Cingapura imposta pelo governador britânico, Sir Stamford Raffles,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:kampongglam">
 <img
 data-src="https://i.pinimg.com/originals/b4/3e/dc/b43edc79c90530f7d6529dc7549d74a8.jpg"
-id="fig:kampongglam"
 alt="Kampung Glam no século XXI. Desenho de Lee Xin Li, 2012" />
 <figcaption aria-hidden="true">Kampung Glam no século <span
 class="smallcaps">XXI</span>. Desenho de <a
@@ -709,10 +707,9 @@ href="http://cargocollective.com/xinli/Maps">Lee Xin Li,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:shophouses">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg/1280px-2016_Singapur,_Kampong_Glam,_Ulica_Kandahar,_Domy-sklepy_(01).jpg"
-id="fig:shophouses"
 alt="Casas comerciais na rua Kandahar, Kampong Glam, Cingapura. Foto: Marcin Konsek, 2016" />
 <figcaption aria-hidden="true">Casas comerciais na rua Kandahar, Kampong
 Glam, Cingapura. Foto: <a
@@ -739,10 +736,9 @@ contraste com esse tipo de adensamento <em>para dentro</em>, a
 urbanização dos povos bantos na África é um paradigma de adensamento
 <em>para fora</em>.</p>
 </aside>
-<figure>
+<figure id="fig:kampung-rochor">
 <img
 data-src="https://i.pinimg.com/originals/af/f7/7d/aff77d9862a5c690d5fa36be70093d03.jpg"
-id="fig:kampung-rochor"
 alt="Kampung Rochor, Cingapura, 1822, demolido em 1964. Arquivo Nacional de Cingapura" />
 <figcaption aria-hidden="true">Kampung Rochor, Cingapura, 1822, demolido
 em 1964. <a
@@ -789,10 +785,9 @@ no litoral do oceano Índico, e os complexos agropastoris do Níger-Congo
 adaptaram a contextos ambientais, econômicos e culturais muito
 diferentes.</p>
 </aside>
-<figure>
+<figure id="fig:urb-africa">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/África_urbanismos.png/1084px-África_urbanismos.png"
-id="fig:urb-africa"
 alt="Universos urbanísticos africanos, séculos XIV–XVIII. Mapa: Pedro P. Palazzo, 2020" />
 <figcaption aria-hidden="true">Universos urbanísticos africanos, séculos
 <span class="smallcaps">XIV</span>–<span class="smallcaps">XVIII</span>.
@@ -803,10 +798,9 @@ P. Palazzo, 2020</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:costa-suaile">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Cidades-estado_da_costa_suaíle.png"
-id="fig:costa-suaile"
 alt="Principais cidades e eixos comerciais da costa suaíle. Mapa: Pedro P. Palazzo, 2020" />
 <figcaption aria-hidden="true">Principais cidades e eixos comerciais da
 costa suaíle. Mapa: <a
@@ -842,20 +836,21 @@ para as grandes potências marítimas da época: Portugal e Omã. Esses dois
 impérios acabam por partilhar a costa suaíle entre si, e várias das
 antigas cidades-estado são abandonadas. <!--/Câmera--></p>
 </aside>
-<div id="fig:lamu-drone" class="subfigures iframe-wrapper">
+<figure id="fig:lamu-drone" class="subfigures iframe-wrapper">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/6w4o-OPZnlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Vista aérea da ilha de Lamu, Quênia. Filmagem: <a
-href="https://youtu.be/6w4o-OPZnlQ">DroneZone, 2021</a>. </p>
-</div>
+<figcaption><p>Vista aérea da ilha de Lamu, Quênia. Filmagem: <a
+href="https://youtu.be/6w4o-OPZnlQ">DroneZone, 2021</a>.
+</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:ghaidan">
 <img
 data-src="https://architecture.uonbi.ac.ke/sites/architecture.uonbi.ac.ke/files/styles/medium/public/2021-04/IMG-20210427-WA0016.jpg"
-id="fig:ghaidan" alt="Usam Ghaidan. Fonte: Universidade de Nairóbi" />
+alt="Usam Ghaidan. Fonte: Universidade de Nairóbi" />
 <figcaption aria-hidden="true">Usam Ghaidan. Fonte: <a
 href="https://architecture.uonbi.ac.ke/alumni">Universidade de
 Nairóbi</a></figcaption>
@@ -881,10 +876,10 @@ data-cites="ghaidan:1974lamu">(Ghaidan)</span>.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:wynne-jones">
 <img
 data-src="https://www.york.ac.uk/media/archaeology/images/people/faces-faculty/CL3_6649.jpg"
-id="fig:wynne-jones" class="overlay-slide fragment"
+class="overlay-slide fragment"
 alt="Stephanie Wynne-Jones. Foto: Colleen Morgan, 2017" />
 <figcaption aria-hidden="true">Stephanie Wynne-Jones. Foto: Colleen
 Morgan, 2017</figcaption>
@@ -905,10 +900,10 @@ data-cites="wynne-jones:2014swahili">(Wynne-Jones e Fleisher
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:shanga">
 <img
 data-src="https://i.pinimg.com/originals/8e/69/f3/8e69f3a382fcc77f5d01347025aff2a4.png"
-id="fig:shanga" class="line"
+class="line"
 alt="Plana arqueológica de Takwa e esquema do assentamento inicial de Shanga, segundo Wynne-Jones" />
 <figcaption aria-hidden="true">Plana arqueológica de Takwa e esquema do
 assentamento inicial de Shanga, segundo Wynne-Jones</figcaption>
@@ -946,11 +941,10 @@ class="citation" data-cites="pradines:2018nouveau">(Pradines et
 al.)</span>.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:kilwa-palacio">
 <img
 data-src="https://i.pinimg.com/originals/f2/fc/71/f2fc710b21ce6c29ccdc4aa15bf1a538.png"
-id="fig:kilwa-palacio" class="line"
-alt="Planta do palácio de Quíloa Quisiuane" />
+class="line" alt="Planta do palácio de Quíloa Quisiuane" />
 <figcaption aria-hidden="true">Planta do palácio de Quíloa
 Quisiuane</figcaption>
 </figure>
@@ -958,10 +952,10 @@ Quisiuane</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:gedi-plan">
 <img
 data-src="https://i.pinimg.com/originals/19/a9/ab/19a9abb6b9df439e95e55f846d3ce3d5.png"
-id="fig:gedi-plan" class="line"
+class="line"
 alt="Planta arqueológica da cidade de Gedi. Wynne-Jones, 2014" />
 <figcaption aria-hidden="true">Planta arqueológica da cidade de Gedi.
 Wynne-Jones, 2014</figcaption>
@@ -989,10 +983,10 @@ espaço livre vai sendo preenchido pela ampliação das casas. Esse
 processo resulta numa malha urbana compacta (fig. 37).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:lamu-plan">
 <img
 data-src="https://i.pinimg.com/originals/45/57/96/455796a4f940e6f1723693ad4b2deb05.png"
-id="fig:lamu-plan" alt="Plano de conservação da área central de Lamu" />
+alt="Plano de conservação da área central de Lamu" />
 <figcaption aria-hidden="true">Plano de conservação da área central de
 Lamu</figcaption>
 </figure>
@@ -1024,29 +1018,33 @@ conforme a necessidade. As casas nesse núcleo adensado terminam por se
 organizar num gradiente de privacidade dos ambientes mais próximos à rua
 para as alcovas mais internas, pátios e terraços (fig. 38).</p>
 </aside>
-<div id="fig:swahili-mercante" class="subfigures columns">
+<figure id="fig:swahili-mercante" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:swahili-mercanteA">
 <img
 data-src="https://i.pinimg.com/originals/1d/4b/d3/1d4bd323f09b12a29187eaee14ab4971.png"
-id="fig:swahili-mercanteA" class="line" />
+class="line" alt="Pavimento térreo" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:swahili-mercanteB">
 <img
 data-src="https://i.pinimg.com/originals/fe/cb/f8/fecbf81ea27d8bde8131b1d7ec944e00.png"
-id="fig:swahili-mercanteB" class="line" />
+class="line" alt="Primeiro pavimento" />
+<figcaption></figcaption>
 </figure>
-</div><p>Planta de casa mercante suaíle em Lamu, segundo Usam Ghaidan,
-1974. a – Pavimento térreo, b – Primeiro pavimento</p>
 </div>
+<figcaption><p>Planta de casa mercante suaíle em Lamu, segundo Usam
+Ghaidan, 1974. a – Pavimento térreo, b – Primeiro
+pavimento</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:songo-mnara">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108311.jpg"
-id="fig:songo-mnara"
 alt="Ruínas de uma casa de pedra em Songo Mnara, Quíloa, vista desde o pátio rebaixado. Foto: Ron van Oers, 2009" />
 <figcaption aria-hidden="true">Ruínas de uma casa de pedra em Songo
 Mnara, Quíloa, vista desde o pátio rebaixado. Foto: <a
@@ -1059,21 +1057,22 @@ van Oers, 2009</a></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:shela-zamani" class="subfigures iframe-wrapper">
+<figure id="fig:shela-zamani" class="subfigures iframe-wrapper">
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/j5HNhGcgKfk" title="YouTube vide player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Mesquita na vila de Shela, ilha de Lamu, 1738. Modelo tridimensional
-por <a href="https://www.youtube.com/watch?v=j5HNhGcgKfk">Zamani
-Project, Universidade da cidade do Cabo, 2016</a>. </p>
-</div>
+<figcaption><p>Mesquita na vila de Shela, ilha de Lamu, 1738. Modelo
+tridimensional por <a
+href="https://www.youtube.com/watch?v=j5HNhGcgKfk">Zamani Project,
+Universidade da cidade do Cabo, 2016</a>. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:shela-plan">
 <img
 data-src="https://i.pinimg.com/originals/83/aa/33/83aa33eb2c76ea24d82383d1683abc3c.png"
-id="fig:shela-plan" class="line"
+class="line"
 alt="Mesquita na vila de Shela, ilha de Lamu, 1738. Planta e corte segundo Usam Ghaidan, 1974" />
 <figcaption aria-hidden="true">Mesquita na vila de Shela, ilha de Lamu,
 1738. Planta e corte segundo Usam Ghaidan, 1974</figcaption>
@@ -1092,10 +1091,9 @@ Corais vivos são usados para executar acabamentos coloridos e conchas
 são trituradas para produzir argamassa.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:kilwa-mesquita-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg/1280px-Ruins_of_Kilwa_Kisiwani_and_Ruins_of_Songo_Mnara-108279.jpg"
-id="fig:kilwa-mesquita-ext"
 alt="Exterior da mesquita maior de Quíloa Quisiuane. Foto: Ron van Oers, 2009" />
 <figcaption aria-hidden="true">Exterior da mesquita maior de Quíloa
 Quisiuane. Foto: <a
@@ -1105,10 +1103,16 @@ van Oers, 2009</a></figcaption>
 </section>
 <section class="slide level2">
 
+<figure id="fig:kilwa-mesquita-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Great_Mosque_(34095555612).jpg"
-title="fig:" id="fig:kilwa-mesquita-int" class="r-stretch"
+class="r-stretch"
 alt="Interior da mesquita maior de Quíloa Quisiuane. Foto: David Stanley, 2017" />
+<figcaption aria-hidden="true">Interior da mesquita maior de Quíloa
+Quisiuane. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Great_Mosque_(34095555612).jpg">David
+Stanley, 2017</a></figcaption>
+</figure>
 <aside class="notes">
 <p>A configuração espacial e estrutural das principais mesquitas dos
 séculos <span class="smallcaps">XI</span> a <span
@@ -1147,10 +1151,9 @@ regula e distribui o acesso à irrigação para a agricultura
 intensiva.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:mesoam-map">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mesoamérica_y_Centroamerica_prehispanica_siglo_XVI.svg/1024px-Mesoamérica_y_Centroamerica_prehispanica_siglo_XVI.svg.png"
-id="fig:mesoam-map"
 alt="Mesoamérica e Centroamérica no século XVI. Mapa: Juan Miguel, 2013" />
 <figcaption aria-hidden="true">Mesoamérica e Centroamérica no século
 <span class="smallcaps">XVI</span>. Mapa: <a
@@ -1161,10 +1164,10 @@ Miguel, 2013</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:tenochtitlan">
 <img
 data-src="http://1.bp.blogspot.com/-VuBhzo3P6pY/UkC8CJNe49I/AAAAAAAABgk/RJIPQt1jA_k/s1600/tenoch4.jpg"
-id="fig:tenochtitlan" alt="Tenochtitlan no século XVI" />
+alt="Tenochtitlan no século XVI" />
 <figcaption aria-hidden="true">Tenochtitlan no século <span
 class="smallcaps">XVI</span></figcaption>
 </figure>
@@ -1174,19 +1177,18 @@ class="smallcaps">XVI</span></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:milpa-mexicana">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/milpa.jpg"
-id="fig:milpa-mexicana" alt="Milpa mexicana" />
+alt="Milpa mexicana" />
 <figcaption aria-hidden="true">Milpa mexicana</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bernardino-10-136r">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/bernardino-10-f136r-detail.png"
-id="fig:bernardino-10-136r"
 alt="Milpa de milho e legumes. Frei Bernardino de Sahagún e artistas mexicas, Historia general de las cosas de nueva España, 1577, livro 10, f. 136 r.º" />
 <figcaption aria-hidden="true">Milpa de milho e legumes. Frei Bernardino
 de Sahagún e artistas mexicas, <em>Historia general de las cosas de
@@ -1199,10 +1201,9 @@ nueva España</em>, 1577, livro 10, f. 136 r.º</figcaption>
 <p>Como a maior parte dos cultivares centro-americanos é de frutos e
 cereais colhidos, o plantio de novas lavouras é relativamente raro.</p>
 </aside>
-<figure>
+<figure id="fig:bernardino-04-472r-a">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/bernardino-04-472r-a.png"
-id="fig:bernardino-04-472r-a"
 alt="Milpa de milho e legumes. Frei Bernardino de Sahagún e artistas mexicas, Historia general de las cosas de nueva España, 1577, livro 4, f. 472 r.º" />
 <figcaption aria-hidden="true">Milpa de milho e legumes. Frei Bernardino
 de Sahagún e artistas mexicas, <em>Historia general de las cosas de
@@ -1214,10 +1215,9 @@ nueva España</em>, 1577, livro 4, f. 472 r.º</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chinampa-luiselli">
 <img
 data-src="http://2.bp.blogspot.com/-9cflxk0giC0/UjuF1Txu2QI/AAAAAAAABfU/dMd0MD575ec/s1600/Chinampas1.jpg"
-id="fig:chinampa-luiselli"
 alt="Esquema de chinampas. Desenho publicado por Daniela Luiselli, 2013" />
 <figcaption aria-hidden="true">Esquema de chinampas. Desenho publicado
 por <a
@@ -1228,10 +1228,9 @@ Luiselli, 2013</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:chinampa-reyes">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/LagoReyesTlahuac76.JPG/1024px-LagoReyesTlahuac76.JPG"
-id="fig:chinampa-reyes"
 alt="Margens de chinampa com contenção feita de estacas e salgueiros. Foto: Alejandro Linares García, 2013" />
 <figcaption aria-hidden="true">Margens de chinampa com contenção feita
 de estacas e salgueiros. Foto: <a
@@ -1242,10 +1241,9 @@ Linares García, 2013</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chinampa-xochimilco">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chinampa_con_cultivo_de_rábano_en_el_Lago_de_Xochimilco.jpg/1024px-Chinampa_con_cultivo_de_rábano_en_el_Lago_de_Xochimilco.jpg"
-id="fig:chinampa-xochimilco"
 alt="Cultivo em chinampa no lago Xochimilco. Foto: David Arqueas, 2014" />
 <figcaption aria-hidden="true">Cultivo em chinampa no lago Xochimilco.
 Foto: <a
@@ -1261,61 +1259,55 @@ class="slide level2">
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-allen:1981swahili14" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-allen:1981swahili14" class="csl-entry" role="listitem">
 Allen, James de Vere. <span>“Swahili Culture and the Nature of East
 Coast Settlement”</span>. <em>The International Journal of African
 Historical Studies</em>, vol. 14, nº 2, 1981, p. 306–34. JSTOR,
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/218047">https://doi.org/10.2307/218047</a>.
 </div>
-<div id="ref-beng:2015unleashing16" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-beng:2015unleashing16" class="csl-entry" role="listitem">
 Beng, Gan Hock, et al. <span>“Unleashing the Potential of Traditional
 Construction Technique in the Development of Modern Urban Mass
 Housing”</span>. <em>Malaysian Construction Research Journal</em>, vol.
 16, nº 1, junho de 2015, p. 59–75.
 </div>
-<div id="ref-evers:1977culture6" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-evers:1977culture6" class="csl-entry" role="listitem">
 Evers, Hans-Dieter. <span>“The Culture of Malaysian Urbanization: Malay
 and Chinese Conceptions of Space”</span>. <em>Urban Anthropology</em>,
 vol. 6, nº 3, 1977, p. 205–16. JSTOR, <em>JSTOR</em>, <a
 href="https://www.jstor.org/stable/40552862">https://www.jstor.org/stable/40552862</a>.
 </div>
-<div id="ref-fleisher:2012finding29" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fleisher:2012finding29" class="csl-entry" role="listitem">
 Fleisher, Jeffrey, e Stephanie Wynne-Jones. <span>“Finding Meaning in
 Ancient Swahili Spatial Practices”</span>. <em>African Archaeological
-Review</em>, vol. 29, nº 2-3, setembro de 2012, p. 171–207. <em>DOI.org
-(Crossref)</em>, <a
+Review</em>, vol. 29, nº 2, setembro de 2012, p. 171–207. <em>Springer
+Link</em>, <a
 href="https://doi.org/10.1007/s10437-012-9121-0">https://doi.org/10.1007/s10437-012-9121-0</a>.
 </div>
-<div id="ref-ghaidan:1974lamu" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ghaidan:1974lamu" class="csl-entry" role="listitem">
 Ghaidan, Usam Isa. <em>Lamu: Case Study of the Swahili Town</em>.
 University of Nairobi, 1974.
 </div>
-<div id="ref-hall:1996ritual52" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hall:1996ritual52" class="csl-entry" role="listitem">
 Hall, Kenneth. <span>“Ritual Networks and Royal Power in Majapahit
 Java”</span>. <em>Archipel</em>, vol. 52, nº 1, 1996, p. 95–118.
 <em>www.persee.fr</em>, <a
 href="https://doi.org/10.3406/arch.1996.3357">https://doi.org/10.3406/arch.1996.3357</a>.
 </div>
-<div id="ref-lim:1991malay" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lim:1991malay" class="csl-entry" role="listitem">
 Lim, Jee Yuan. <em>The Malay House: Rediscovering Malaysia’s Indigenous
 Shelter System</em>. Institut Masyarakat : Central Books, 1991.
 </div>
-<div id="ref-mohd:2012establishment" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-mohd:2012establishment" class="csl-entry" role="listitem">
 Mohd Sahabuddin, Mohd Firrdhaus. <span>“The Establishment of <span>‘Air
 House’</span> Standard in Tropical Countries : Part 2”</span>.
 <em>Firrbudi Aka Lensahijau</em>, 18 de outubro de 2012.
 <em>Blogger</em>, <a
 href="http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html">http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html</a>.
 </div>
-<div id="ref-mwenje:2019case" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mwenje:2019case" class="csl-entry" role="listitem">
 Mwenje, Mohammed Ali, e Salim Mohammed Bunu. <span>“Case Study: Lamu Old
 Town”</span>. <em>Reshaping Urban Conservation: The Historic Urban
 Landscape Approach in Action</em>, organizado por Ana Pereira Roders e
@@ -1323,8 +1315,7 @@ Francesco Bandarin, Springer, 2019, p. 313–27. <em>Springer Link</em>,
 <a
 href="https://doi.org/10.1007/978-981-10-8887-2_17">https://doi.org/10.1007/978-981-10-8887-2_17</a>.
 </div>
-<div id="ref-pradines:2018nouveau" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-pradines:2018nouveau" class="csl-entry" role="listitem">
 Pradines, Stéphane, et al. <span>“Du nouveau à l’ouest de l’océan
 Indien: le cristal de roche et l’ivoire swahilis”</span>. <em>Sur les
 chemins d’Onagre: Histoire et archéologie orientales</em>, organizado
@@ -1332,22 +1323,20 @@ por Claire Hardy-Guilbert et al., Archaeopress, 2018, p. 153–68. JSTOR,
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/j.ctvndv7rf.18">https://doi.org/10.2307/j.ctvndv7rf.18</a>.
 </div>
-<div id="ref-tajudeen:kampung" class="csl-entry" role="doc-biblioentry">
+<div id="ref-tajudeen:kampung" class="csl-entry" role="listitem">
 Tajudeen, Imran bin. <span>“Kampung Gelam &amp; Kampung Rochor –
 Morphological Changes”</span>. <em>Singapura Stories</em>.
 <em>singapurastories.com</em>, <a
 href="http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/">http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/</a>.
 Acessado 4 de agosto de 2020.
 </div>
-<div id="ref-tajudeen:2005reading8" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tajudeen:2005reading8" class="csl-entry" role="listitem">
 ---. <span>“Reading the Traditional City of Maritime Southeast Asia:
 Reconstructing the 19<sup>th</sup> Century Port Town at
 Gelam-Rochor-Kallang, Singapore”</span>. <em>Journal of Southeast Asian
 Architecture</em>, vol. 8, 2005, p. 1–25.
 </div>
-<div id="ref-wynne-jones:2014swahili" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-wynne-jones:2014swahili" class="csl-entry" role="listitem">
 Wynne-Jones, Stephanie, e Jeffrey Fleisher. <span>“Swahili Urban Spaces
 of the Eastern African Coast”</span>. <em>Making Ancient Cities</em>,
 organizado por Iii Creekmore e Kevin D. Fisher, Cambridge University

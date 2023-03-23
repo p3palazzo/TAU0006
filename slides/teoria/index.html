@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -94,20 +99,18 @@ clássicas (fig. 1) e a “tríade vitruviana”, geralmente descrita como
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:vignola-intro">
 <img
 data-src="https://i.pinimg.com/originals/3c/d3/ba/3cd3ba4d967c0e32010c57d6dcf16510.jpg"
-id="fig:vignola-intro"
 alt="Jacopo Barozzi da Vignola, Regra das cinco ordens de arquitetura, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, <em>Regra das
 cinco ordens de arquitetura</em>, primeira edição em 1563, lâmina
 comparativa das cinco ordens acrescentada na edição de 1602</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:triade-intro">
 <img
 data-src="https://i.pinimg.com/originals/d2/96/0d/d2960d3e3f3e81b9f5f445011cfd30d0.jpg"
-id="fig:triade-intro"
 alt="Tríade vitruviana: Solidez, funcionalidade, beleza" />
 <figcaption aria-hidden="true">Tríade vitruviana: Solidez,
 funcionalidade, beleza</figcaption>
@@ -124,10 +127,9 @@ arquitetura</em> de Vitrúvio. Ele diz que o ser humano é a mais perfeita
 das criaturas por ser a única que pode ser inscrita tanto num quadrado
 quanto num círculo.</p>
 </aside>
-<figure>
+<figure id="fig:leonardo-vitruvian">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/1/17/Vitruvian.jpg"
-id="fig:leonardo-vitruvian"
 alt="Leonardo da Vinci, homem vitruviano, c. 1492" />
 <figcaption aria-hidden="true">Leonardo da Vinci, homem vitruviano,
 c. 1492</figcaption>
@@ -146,19 +148,17 @@ entre a Criação divina e as obras humanas (figs. 4, 5).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:giorgio-vitruviano">
 <img
 data-src="https://i.pinimg.com/originals/5d/03/8b/5d038b08d2418726dc59de5172a99e62.jpg"
-id="fig:giorgio-vitruviano"
 alt="Francesco di Giorgio Martini. Homem vitruviano, c. 1490" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini. Homem
 vitruviano, c. 1490</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:andrea-vitruviano">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/69/Vitruvian_Man_by_Giacomo_Andrea.jpg"
-id="fig:andrea-vitruviano"
 alt="Iacomo Andrea. Homem vitruviano, c. 1490" />
 <figcaption aria-hidden="true">Iacomo Andrea. Homem vitruviano,
 c. 1490</figcaption>
@@ -178,10 +178,9 @@ as coisas visíveis e invisíveis” (fig. 6), mas também as leis que
 governam esse universo — e o microcosmo — qualquer criatura divina
 particular ou obra humana.</p>
 </aside>
-<figure>
+<figure id="fig:esferas">
 <img
 data-src="https://64.media.tumblr.com/tumblr_mdt7dtijvD1qejjo9o1_1280.jpg"
-id="fig:esferas"
 alt="Iluminura do século XIV representando as esferas celestes" />
 <figcaption aria-hidden="true">Iluminura do século <span
 class="smallcaps">XIV</span> representando as esferas
@@ -195,10 +194,9 @@ celestes</figcaption>
 transcende a filosofia europeia, estando presente em várias culturas
 edilícias, da China (fig. 7) e da Índia até as Américas.</p>
 </aside>
-<figure>
+<figure id="fig:luopan">
 <img
 data-src="https://i.pinimg.com/originals/4e/3b/d2/4e3bd2989ecf14add570c3b378a89348.jpg"
-id="fig:luopan"
 alt="Bússola luo pan para geomancia chinesa (feng shui)" />
 <figcaption aria-hidden="true">Bússola <em>luo pan</em> para geomancia
 chinesa (<em>feng shui</em>)</figcaption>
@@ -216,10 +214,9 @@ a mais conhecida seja a série de desenhos manuscritos produzida pelo
 engenheiro militar e teórico Francesco di Giorgio Martini entre 1480 e
 1490 (figs. 8, 9).</p>
 </aside>
-<figure>
+<figure id="fig:giorgio-capitel">
 <img
 data-src="https://i.pinimg.com/originals/2b/80/6f/2b806fdbcab6db4fe4b511370dc49d9d.jpg"
-id="fig:giorgio-capitel"
 alt="Francesco di Giorgio Martini, estudo de capitéis, c. 1478–1500" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini, estudo de
 capitéis, c. 1478–1500</figcaption>
@@ -227,10 +224,9 @@ capitéis, c. 1478–1500</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:giorgio-ds48">
 <img
 data-src="https://i.pinimg.com/originals/e3/21/f2/e321f2f66705f30cf8a48b34fdaa0aaf.jpg"
-id="fig:giorgio-ds48"
 alt="Francesco di Giorgio Martini, estudos de forma arquitetônica, c. 1478–1500" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini, estudos de
 forma arquitetônica, c. 1478–1500</figcaption>
@@ -244,10 +240,9 @@ propõe várias associações originais da figura humana com edificações
 inteiras, em planta como em elevação (figs. 10, 11), e por que não com
 cidades fortificadas (fig. 12).</p>
 </aside>
-<figure>
+<figure id="fig:giorgio-basilica-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Estudio_Martini.jpg"
-id="fig:giorgio-basilica-plan"
 alt="Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (planta), c. 1478–1481" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini, estudo de
 proporções de uma basílica em relação com o corpo humano (planta),
@@ -256,10 +251,9 @@ c. 1478–1481</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:giorgio-basilica-elv">
 <img
 data-src="https://i.pinimg.com/originals/a8/2a/81/a82a816c3f373c7bde9b0568aec379a8.jpg"
-id="fig:giorgio-basilica-elv"
 alt="Francesco di Giorgio Martini, estudo de proporções de uma basílica em relação com o corpo humano (fachada), segunda metade do século XV" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini, estudo de
 proporções de uma basílica em relação com o corpo humano (fachada),
@@ -268,10 +262,9 @@ segunda metade do século <span class="smallcaps">XV</span></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:giorgio-citadella-umana">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg/232px-Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg"
-id="fig:giorgio-citadella-umana"
 alt="Francesco di Giorgio Martini, figura humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano 148, fl. 3 r.º" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini, figura
 humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano
@@ -281,10 +274,9 @@ humana sobreposta à planta de uma cidadela, c. 1470. Códice Saluzziano
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:vignola-5ordini">
 <img
 data-src="https://i.pinimg.com/originals/4f/98/b2/4f98b2cb6a47410d96bb904b514865ef.jpg"
-id="fig:vignola-5ordini"
 alt="Jacopo Barozzi da Vignola, Regra das cinco ordens de arquitetura, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, <em>Regra das
 cinco ordens de arquitetura</em>, primeira edição em 1563, lâmina
@@ -315,10 +307,9 @@ complementares sintetiza, no seu tempo, mais de um século de estudo e
 experimentação.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:perrault">
 <img
 data-src="https://i.pinimg.com/originals/3a/c4/61/3ac461cf9ecc2e18cf670dd406c07bff.jpg"
-id="fig:perrault"
 alt="Perrault, Ordem das cinco espécies de colunas segundo o método dos Antigos, 1683" />
 <figcaption aria-hidden="true">Perrault, <em>Ordem das cinco espécies de
 colunas segundo o método dos Antigos</em>, 1683</figcaption>
@@ -333,10 +324,10 @@ composição clássica simples e coerente. Justamente porque o seu objetivo
 diferentes autores ao longo do tempo podem existir lado a lado, com
 ligeiras discrepâncias entre si.</p>
 </aside>
-<figure>
+<figure id="fig:chitham-tuscan">
 <img
 data-src="https://i.pinimg.com/originals/7f/f9/e5/7ff9e5367b7ddb37b050f5b20bf3f0c4.jpg"
-id="fig:chitham-tuscan" class="line"
+class="line"
 alt="Robert Chitham, quadro comparativo de ordens toscanas, 1982" />
 <figcaption aria-hidden="true">Robert Chitham, quadro comparativo de
 ordens toscanas, 1982</figcaption>
@@ -345,10 +336,10 @@ ordens toscanas, 1982</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:triade">
 <img
 data-src="https://i.pinimg.com/originals/d2/96/0d/d2960d3e3f3e81b9f5f445011cfd30d0.jpg"
-id="fig:triade" class="line" alt="Tríade vitruviana" />
+class="line" alt="Tríade vitruviana" />
 <figcaption aria-hidden="true">Tríade vitruviana</figcaption>
 </figure>
 </div>
@@ -370,10 +361,9 @@ solidez construtiva, da utilidade funcional, e da beleza formal
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:alberti-gulbenkian">
 <img
 data-src="https://i.pinimg.com/originals/b4/43/cf/b443cfb847d9524318eef73a56df24b9.jpg"
-id="fig:alberti-gulbenkian"
 alt="Leon Battista Alberti, Da arte edificatória, completado c. 1452. Tradução por Arnaldo Monteiro do Espírito Santo; introd. e notas de Mário Júlio Teixeira Krüger. Lisboa: Fundação Calouste Gulbenkian, 2011" />
 <figcaption aria-hidden="true">Leon Battista Alberti, <em>Da arte
 edificatória</em>, completado c. 1452. Tradução por Arnaldo Monteiro do
@@ -436,10 +426,9 @@ data-cites="gharipour:2017gardens">(Gharipour)</span> — descendem do
 palavra persa é que vem o nosso conceito de “paraíso” como um lugar
 ajardinado.</p>
 </aside>
-<figure>
+<figure id="fig:chipiez">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Persepolis_T_Chipiez.jpg/1024px-Persepolis_T_Chipiez.jpg"
-id="fig:chipiez"
 alt="Charles Chipiez, reconstituição dos jardins no palácio de Dario I em Persépolis, datados do século VI a.C." />
 <figcaption aria-hidden="true">Charles Chipiez, reconstituição dos
 jardins no palácio de Dario I em Persépolis, datados do século VI
@@ -474,10 +463,9 @@ dignidade religiosa, por sua vez, se rebate na grandeza dos palácios
 reais, como o Generalife, na Alhambra de Granada, construído no século
 <span class="smallcaps">XIV</span> (fig. 19).</p>
 </aside>
-<figure>
+<figure id="fig:alhambra">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alhambra_granada_spain.jpeg/1024px-Alhambra_granada_spain.jpeg"
-id="fig:alhambra"
 alt="Pátio da acéquia, palácio do Generalife na Alhambra, Granada, século XIV. Kovacs" />
 <figcaption aria-hidden="true">Pátio da acéquia, palácio do Generalife
 na Alhambra, Granada, século <span class="smallcaps">XIV</span>. <span
@@ -506,10 +494,10 @@ de ambos os jardins estarão ao (seu) alcance.<br />
 </section>
 <section id="section-5" class="slide level2">
 <h2></h2>
-<figure>
+<figure id="fig:drpersi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/72/PersianGarden.png"
-id="fig:drpersi" alt="Diagrama de um jardim persa. Dr Persi" />
+alt="Diagrama de um jardim persa. Dr Persi" />
 <figcaption aria-hidden="true">Diagrama de um jardim persa. <span
 class="citation" data-cites="drpersi:2011persian">Dr
 Persi</span></figcaption>
@@ -531,10 +519,9 @@ demarcados por caminhos ou cursos d’água. A composição inteira não
 precisa ser simétrica, e nem o cruzamento dos eixos precisa estar no
 centro do jardim (fig. 21).</p>
 </aside>
-<figure>
+<figure id="fig:jahangir-charbagh">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg/919px-View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg"
-id="fig:jahangir-charbagh"
 alt="Chahār-bāgh no jardim do mausoléu de Jahangir, Lahore, império Mogol (atual Paquistão), 1637. Alam" />
 <figcaption aria-hidden="true">Chahār-bāgh no jardim do mausoléu de
 Jahangir, Lahore, império Mogol (atual Paquistão), 1637. <span
@@ -545,10 +532,9 @@ class="citation" data-cites="alam:2014layout">Alam</span></figcaption>
 data-background-image="https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg">
 <h2
 data-background-image="https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg"></h2>
-<figure>
+<figure id="fig:jaipur-carpet">
 <img
 data-src="https://secureservercdn.net/160.153.137.40/xmk.e80.myftpupload.com/wp-content/uploads/2020/03/4FD680B9-FDB1-4B22-AD43-1E900736BD92.jpeg"
-id="fig:jaipur-carpet"
 alt="Tapete-jardim dito de Jaipur, na verdade produzido em Kerman, Pérsia, 1622. Reproduzido por Bruce Healy, 2020" />
 <figcaption aria-hidden="true">Tapete-jardim dito de Jaipur, na verdade
 produzido em Kerman, Pérsia, 1622. Reproduzido por <a
@@ -576,10 +562,9 @@ a simetria do conjunto pode ser relativizada. Os dois eixos
 estruturantes não precisam ser idênticos, e essa é uma das principais
 fontes de variedade nos projetos de jardins persas e indianos.</p>
 </aside>
-<figure>
+<figure id="fig:rug-met">
 <img
 data-src="https://i.pinimg.com/originals/b2/5f/74/b25f74384adcd1b398fca47db6e955d9.jpg"
-id="fig:rug-met"
 alt="Tapete persa, Curdistão, segunda metade do século XVIII. Metropolitan Museum of Art 22.100.128" />
 <figcaption aria-hidden="true">Tapete persa, Curdistão, segunda metade
 do século <span class="smallcaps">XVIII</span>. <a
@@ -602,10 +587,9 @@ importante ressaltar a habilidade dos jardineiros e botânicos que
 conseguiam manter tantas e tão variadas espécies de plantas em climas
 tão áridos como o do Irã.</p>
 </aside>
-<figure>
+<figure id="fig:shazdeh-aerial">
 <img
 data-src="https://images.squarespace-cdn.com/content/v1/5101e3fce4b091edd3f02bd1/1395962080027-FHWAZH8CQ2IYK6563Q6Q/ke17ZwdGBToddI8pDm48kPI5V9leHT0JIyRh5l6WpTx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfAUr2rKPb6IS06oixxhq_PrFTvcBY4F3yPV1aIyxwc2cGQULMgcOB5jGTLpuikW4w/IMAGE-3.JPG?format=500w"
-id="fig:shazdeh-aerial"
 alt="Bāgh-e Shazdeh, Mahan, província de Quermã, Irã, criado em 1850 e reconstruído em 1870. Mirfendereski" />
 <figcaption aria-hidden="true">Bāgh-e Shazdeh, Mahan, província de
 Quermã, Irã, criado em 1850 e reconstruído em 1870. <span
@@ -617,10 +601,9 @@ data-cites="mirfendereski:architectural">Mirfendereski</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Timur_Empire.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Timur_Empire.jpg"></h2>
-<figure>
+<figure id="fig:timur">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Timur_Empire.jpg/1024px-Timur_Empire.jpg"
-id="fig:timur"
 alt="Império Timúrida no final do século XIV. Mapa: Stuntelaar, 2008" />
 <figcaption aria-hidden="true">Império Timúrida no final do século <span
 class="smallcaps">XIV</span>. Mapa: <a
@@ -651,10 +634,9 @@ hegemonia cultural persa (fig. 26). Eles substituem o domínio dos
 nômades Timúridas por estados com administrações estáveis, que realizam
 obras públicas monumentais.</p>
 </aside>
-<figure>
+<figure id="fig:gibault">
 <img
 data-src="https://i.pinimg.com/originals/ef/35/be/ef35be534dde5198e0b0679efd6dbe96.jpg"
-id="fig:gibault"
 alt="Impérios Otomano, Safávida e Mogol no século XVII. Reproduzido em Gibault, World History" />
 <figcaption aria-hidden="true">Impérios Otomano, Safávida e Mogol no
 século <span class="smallcaps">XVII</span>. Reproduzido em <a
@@ -668,10 +650,10 @@ data-background-size="contain" data-background-position="right">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png"
 data-background-size="contain" data-background-position="right"></h2>
-<figure>
+<figure id="fig:mogol-1687">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moghol-pt.svg/676px-Moghol-pt.svg.png"
-id="fig:mogol-1687" alt="Expansão do império Mogol, 1526–1687" />
+alt="Expansão do império Mogol, 1526–1687" />
 <figcaption aria-hidden="true">Expansão do império Mogol,
 1526–1687</figcaption>
 </figure>
@@ -701,20 +683,18 @@ sinalizando o cosmopolitismo artístico da Pérsia (fig. 29).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:babur">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Emperor_Babur_(1483-1530)_-_India_-_about_1640_(central_painting)_-_Payag_(%3F)_-_Louvre_-_OA_7156.jpg/538px-Portrait_of_Emperor_Babur_(1483-1530)_-_India_-_about_1640_(central_painting)_-_Payag_(%3F)_-_Louvre_-_OA_7156.jpg"
-id="fig:babur"
 alt="Representação do imperador Babur, c. 1640, montada numa página decorada c. 1650–1658. Do álbum do xá Jahan, Louvre" />
 <figcaption aria-hidden="true">Representação do imperador Babur,
 c. 1640, montada numa página decorada c. 1650–1658. Do álbum do xá
 Jahan, Louvre</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:abbas">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2e/ShahAbbasPortraitFromItalianPainter.jpg"
-id="fig:abbas"
 alt="Retrato do xá Abbas I por um pintor de escola italiana, talvez Júlio, o Grego, final do século XVI ou início do XVII" />
 <figcaption aria-hidden="true">Retrato do xá Abbas I por um pintor de
 escola italiana, talvez Júlio, o Grego, final do século <span
@@ -729,10 +709,9 @@ class="smallcaps">XVII</span></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/2560px-Isfahan-Agra-pt.svg.png">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/2560px-Isfahan-Agra-pt.svg.png"></h2>
-<figure>
+<figure id="fig:isfahan-agra">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Isfahan-Agra-pt.svg/1024px-Isfahan-Agra-pt.svg.png"
-id="fig:isfahan-agra"
 alt="Impérios Safávida e Mogol no século XVII com a localização de Isfahan e Agra. Mapa: Pedro P. Palazzo, 2022" />
 <figcaption aria-hidden="true">Impérios Safávida e Mogol no século <span
 class="smallcaps">XVII</span> com a localização de Isfahan e Agra. Mapa:
@@ -763,10 +742,9 @@ e astrônomo, Bahā al-Dīn (fig. 31) é o autor do projeto para a
 reconstrução monumental de Isfahan, e também de vários dos seus
 edifícios emblemáticos.</p>
 </aside>
-<figure>
+<figure id="fig:baha-al-din">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/en/d/d9/Sheik_bahayi.jpg"
-id="fig:baha-al-din"
 alt="Retrato do xeque Bahā al-Dīn al-’Āmilī, final do século XVI" />
 <figcaption aria-hidden="true">Retrato do xeque Bahā al-Dīn al-’Āmilī,
 final do século <span class="smallcaps">XVI</span></figcaption>
@@ -776,10 +754,9 @@ final do século <span class="smallcaps">XVI</span></figcaption>
 data-background-image="https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg"></h2>
-<figure>
+<figure id="fig:isfahan-plan">
 <img
 data-src="https://i.pinimg.com/originals/f5/82/b4/f582b46313d65fa0421663e95a007a1b.jpg"
-id="fig:isfahan-plan"
 alt="Plano urbanístico de Isfahan. Mapa: Caroline Mawer, 2013" />
 <figcaption aria-hidden="true">Plano urbanístico de Isfahan. Mapa: <a
 href="http://www.carolinemawer.com/isfahan-is-half-the-world-they-say-but-by-so-saying-they-only-go-half-the-way/">Caroline
@@ -810,10 +787,9 @@ deveria ser um jardim ou o “paraíso” e, portanto, ter o
 <em>chahār-bāgh</em> como princípio organizador de todo o conjunto
 urbanístico (fig. 33).</p>
 </aside>
-<figure>
+<figure id="fig:isfahan-schema">
 <img
 data-src="https://i.pinimg.com/originals/ab/8d/ae/ab8daea0c897297b49a96ea4d72e7b98.jpg"
-id="fig:isfahan-schema"
 alt="Configuração urbana de Isfahan no século XVII. Mapa baseado em Fabien Khan, 2007" />
 <figcaption aria-hidden="true">Configuração urbana de Isfahan no século
 <span class="smallcaps">XVII</span>. Mapa baseado em <a
@@ -829,10 +805,9 @@ data-background-transition="fade-in slide-out">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Isfahan-charbagh.svg/2162px-Isfahan-charbagh.svg.png"
 data-background-size="contain"
 data-background-transition="fade-in slide-out"></h2>
-<figure>
+<figure id="fig:isfahan-schema-charbagh">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Isfahan-charbagh.svg/811px-Isfahan-charbagh.svg.png"
-id="fig:isfahan-schema-charbagh"
 alt="Configuração urbana de Isfahan no século XVII mostrando o chahār-bāgh formado pelo rio Zayanderud e pela avenida Chārbāgh. Mapa por Pedro P. Palazzo, 2020" />
 <figcaption aria-hidden="true">Configuração urbana de Isfahan no século
 <span class="smallcaps">XVII</span> mostrando o chahār-bāgh formado pelo
@@ -855,10 +830,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:chaharbagh-bazaar">
 <img
 data-src="https://i.pinimg.com/originals/8e/72/c0/8e72c012a8c657f69ac9c4b4c5ebc6be.jpg"
-id="fig:chaharbagh-bazaar" alt="Isfahan, chahār-bāgh e grande bazar" />
+alt="Isfahan, chahār-bāgh e grande bazar" />
 <figcaption aria-hidden="true">Isfahan, chahār-bāgh e grande
 bazar</figcaption>
 </figure>
@@ -876,10 +851,9 @@ visitaram a cidade nos séculos <span class="smallcaps">XVII</span> e
 <span class="smallcaps">XVIII</span>, como o holandês Cornelis de Bruyn
 (fig. 36) e o francês Jean Chardin (fig. 37).</p>
 </aside>
-<figure>
+<figure id="fig:cornelis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg"
-id="fig:cornelis"
 alt="Vista da avenida Charbagh por Cornelis de Bruyn, 1705" />
 <figcaption aria-hidden="true">Vista da avenida Charbagh por <a
 href="https://commons.wikimedia.org/wiki/File:Isfahan_Charbagh_3_by_Cornelis_de_Bruyn.jpg">Cornelis
@@ -890,10 +864,9 @@ de Bruyn, 1705</a></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/68/52_Chardin_Esfahan_gardens.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/68/52_Chardin_Esfahan_gardens.jpg"></h2>
-<figure>
+<figure id="fig:chardin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/52_Chardin_Esfahan_gardens.jpg/1024px-52_Chardin_Esfahan_gardens.jpg"
-id="fig:chardin"
 alt="Vista da avenida Charbagh por Jean Chardin, década de 1670" />
 <figcaption aria-hidden="true">Vista da avenida Charbagh por <a
 href="https://commons.wikimedia.org/wiki/File:52_Chardin_Esfahan_gardens.jpg">Jean
@@ -919,23 +892,27 @@ of the Great Mughals</em> (fig. 38), foi escrito pela artista inglesa
 Constance Villiers-Stuart <span class="citation"
 data-cites="villiers-stuart:1913gardens"></span>.</p>
 </aside>
-<div id="fig:villiers-stuart" class="subfigures columns">
+<figure id="fig:villiers-stuart" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:villiers-stuartA">
 <img
 data-src="https://i.pinimg.com/originals/f0/fd/4f/f0fd4f1c7191e096a7c28430be49c5c6.jpg"
-id="fig:villiers-stuartA" />
+alt="Verso da folha de guarda" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:villiers-stuartB">
 <img
 data-src="https://i.pinimg.com/originals/77/80/e8/7780e8ad6c9d6cc3b5dd1a93b5e61085.jpg"
-id="fig:villiers-stuartB" />
+alt="Folha de rosto" />
+<figcaption></figcaption>
 </figure>
-</div><p>Villiers-Stuart, Constance Mary. <em>Gardens of the Great
-Mughals.</em> London: A. and C. Black, 1913. a – Verso da folha de
-guarda, b – Folha de rosto</p>
 </div>
+<figcaption><p>Villiers-Stuart, Constance Mary. <em>Gardens of the Great
+Mughals.</em> London: A. and C. Black, 1913. a – Verso da folha de
+guarda, b – Folha de rosto</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -949,10 +926,9 @@ central muçulmana. Ela tem o seu ponto alto no gur e-Amir, a tumba de
 Tamerlão, construída em Samarcanda no início do século <span
 class="smallcaps">XV</span> (fig. 39).</p>
 </aside>
-<figure>
+<figure id="fig:gur-e-amir">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Samarcanda,_Gur-e_Amir_19.jpg/1024px-Samarcanda,_Gur-e_Amir_19.jpg"
-id="fig:gur-e-amir"
 alt="Gur-e-Amir (mausoléu de Tamerlão e dos timúridas), Samarcanda, 1403–1404. Foto: Luis Bartolomé Marcos, 2011" />
 <figcaption aria-hidden="true">Gur-e-Amir (mausoléu de Tamerlão e dos
 timúridas), Samarcanda, 1403–1404. Foto: <a
@@ -963,10 +939,9 @@ Bartolomé Marcos, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bagh-e-babur">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Babur_Gardens_from_a_mountain_top_CROPPED.jpg"
-id="fig:bagh-e-babur"
 alt="Bāgh-e Babur (jardim de Babur), Cabul, 1528. Foto: Jim Kelly, 2009" />
 <figcaption aria-hidden="true">Bāgh-e Babur (jardim de Babur), Cabul,
 1528. Foto: <a
@@ -992,10 +967,9 @@ extremidade (fig. 40).</p>
 realizada no túmulo do imperador Hamayun, construído em Delhi em
 1569–1570 (fig. 41).</p>
 </aside>
-<figure>
+<figure id="fig:humayun-plan">
 <img
 data-src="https://s3.us-east-1.amazonaws.com/media.archnet.org/system/media_contents/contents/126094/original/IAA138158.jpg?1499337510"
-id="fig:humayun-plan"
 alt="Mausoléu de Hamayun, Delhi, 1569–1570. Planta: Aga Khan Historic Cities Programme, 2017" />
 <figcaption aria-hidden="true">Mausoléu de Hamayun, Delhi, 1569–1570.
 Planta: <a href="https://www.archnet.org/sites/4144">Aga Khan Historic
@@ -1004,10 +978,9 @@ Cities Programme, 2017</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:humayun-aerial">
 <img
 data-src="https://www.akdn.org/sites/akdn/files/media/institutions/aga_khan_trust_for_culture/15.india-humayuns_garden-tomb_-1.jpg"
-id="fig:humayun-aerial"
 alt="Mausoléu de Hamayun, Delhi, vista aérea do monumento central. Foto: Aga Khan Historic Cities Programme, 2017" />
 <figcaption aria-hidden="true">Mausoléu de Hamayun, Delhi, vista aérea
 do monumento central. Foto: <a
@@ -1026,10 +999,9 @@ central para a Índia (fig. 42).</p>
 <p>Esse tipo canônico repercute no túmulo do imperador Jahangir,
 construído em Lahore em 1637 (fig. 43).</p>
 </aside>
-<figure>
+<figure id="fig:jahangir-aerial">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_view_of_Jahangir_Tomb.jpg/1024px-Aerial_view_of_Jahangir_Tomb.jpg"
-id="fig:jahangir-aerial"
 alt="Mausoléu de Jahangir, Lahore, 1637. Foto: Maaz Kamal, 2018" />
 <figcaption aria-hidden="true">Mausoléu de Jahangir, Lahore, 1637. Foto:
 <a
@@ -1045,10 +1017,10 @@ mais conhecido do que o jardim à sua volta por causa da história de amor
 entre o xá Jahan e sua esposa Mumtaz Mahal (figs. 45, 46), para quem o
 mausoléu foi construído.</p>
 </aside>
-<figure>
+<figure id="fig:taj-aerial">
 <img
 data-src="https://i.pinimg.com/originals/36/40/2b/36402be6440eb2202a46fecaf851c140.jpg"
-id="fig:taj-aerial" alt="Vista aérea do Taj Mahal" />
+alt="Vista aérea do Taj Mahal" />
 <figcaption aria-hidden="true">Vista aérea do Taj Mahal</figcaption>
 </figure>
 </section>
@@ -1056,17 +1028,16 @@ id="fig:taj-aerial" alt="Vista aérea do Taj Mahal" />
 
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:mumtaz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mumtaz_Mahal.jpg"
-id="fig:mumtaz" alt="Mumtaz Mahal (1593–1631)" />
+alt="Mumtaz Mahal (1593–1631)" />
 <figcaption aria-hidden="true">Mumtaz Mahal (1593–1631)</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:jahan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/d/da/Shah_Jahan_op_de_pauwentroon.jpg"
-id="fig:jahan"
 alt="Shahb-ud-din Muhammad Kurram, o xá Jahan (1592–1666)" />
 <figcaption aria-hidden="true">Shahb-ud-din Muhammad Kurram, o xá Jahan
 (1592–1666)</figcaption>
@@ -1076,10 +1047,9 @@ alt="Shahb-ud-din Muhammad Kurram, o xá Jahan (1592–1666)" />
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:taj-iso">
 <img
 data-src="https://i.pinimg.com/originals/e3/13/81/e31381c0a54655c866361b045b719b5f.jpg"
-id="fig:taj-iso"
 alt="Desenho isométrico do Taj Mahal e seu jardim chahār bāgh" />
 <figcaption aria-hidden="true">Desenho isométrico do Taj Mahal e seu
 jardim <em>chahār bāgh</em></figcaption>
@@ -1099,10 +1069,9 @@ Mahal é enquadrado por dois pavilhões laterais — um deles é uma
 mesquita, e o outro foi construído só para manter a simetria do conjunto
 (fig. 49).</p>
 </aside>
-<figure>
+<figure id="fig:taj-axis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg/1024px-20191204_Taj_Mahal_Agra_0622_6533_DxO.jpg"
-id="fig:taj-axis"
 alt="Vista do Taj Mahal desde o chahār bāgh. Foto: Jakub Hałun, 2019" />
 <figcaption aria-hidden="true">Vista do Taj Mahal desde o chahār bāgh.
 Foto: <a
@@ -1112,10 +1081,9 @@ Hałun, 2019</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:taj-bldgs">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1024px-Taj_Mahal-11.jpg"
-id="fig:taj-bldgs"
 alt="Taj Mahal e pavilhões. Foto: David Castor, 2008" />
 <figcaption aria-hidden="true">Taj Mahal e pavilhões. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Taj_Mahal-11.jpg">David
@@ -1124,10 +1092,9 @@ Castor, 2008</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:taj-site">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taj_site_plan.png/1024px-Taj_site_plan.png"
-id="fig:taj-site"
 alt="Planta de conjunto do complexo paisagístico do Taj Mahal. Foto: McGinnly, 2007" />
 <figcaption aria-hidden="true">Planta de conjunto do complexo
 paisagístico do Taj Mahal. Foto: <a
@@ -1151,10 +1118,9 @@ Mahal (fig. 51). Esse jardim sugere que o complexo se estendia para além
 do rio; o Taj Mahal seria, literalmente, refletido num espelho d’água
 octogonal, tornando a composição completa.</p>
 </aside>
-<figure>
+<figure id="fig:taj-watercolor">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird&#39;s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/675px-Bird&#39;s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg"
-id="fig:taj-watercolor"
 alt="Complexo arquitetônico e paisagístico do Taj Mahal, aquarela do final do século XVIII" />
 <figcaption aria-hidden="true">Complexo arquitetônico e paisagístico do
 Taj Mahal, aquarela do final do século <span
@@ -1163,10 +1129,10 @@ class="smallcaps">XVIII</span></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mahtab">
 <img
 data-src="http://www.cpreecenvis.nic.in/WriteReadData/UserFiles/image/Gardens/Mehtab_%20excavation%201.jpg"
-id="fig:mahtab" alt="Escavações do Mehtab bāgh" />
+alt="Escavações do Mehtab bāgh" />
 <figcaption aria-hidden="true">Escavações do Mehtab bāgh</figcaption>
 </figure>
 <aside class="notes">
@@ -1178,15 +1144,15 @@ fontes e a configuração do <em>chahār bāgh</em> (fig. 52).</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:mahtab-getty" class="subfigures">
+<figure id="fig:mahtab-getty" class="subfigures">
 <a id='1VkEA-GZTM5wqTTKjvgWtg' class='gie-single' href='http://www.gettyimages.pt/detail/978615838' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed
 from Getty Images</a>
 <script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'1VkEA-GZTM5wqTTKjvgWtg',sig:'MTqmpXpHM_n4-fS6tkApZuiLbjT_eNeX6Vi58cGdNZA=',w:'509px',h:'338px',items:'978615838',caption: true ,tld:'pt',is360: false })});</script>
 <script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
-<p>Vista do Taj Mahal desde o Mehtab bāgh. Foto: <a
+<figcaption><p>Vista do Taj Mahal desde o Mehtab bāgh. Foto: <a
 href="https://www.gettyimages.pt/detail/foto/view-of-taj-mahal-from-mehtab-bagh-imagem-royalty-free/978615838">Mukul
-Banerjee</a>. </p>
-</div>
+Banerjee</a>. </p></figcaption>
+</figure>
 </section>
 <section id="colonização-britânica" class="slide level2">
 <h2>Colonização britânica</h2>
@@ -1201,20 +1167,19 @@ século <span class="smallcaps">XIX</span>, não só o jardim do Taj Mahal,
 mas de diversos outros jardins mogóis foram transformados em extensos
 gramados (fig. 55).</p>
 </aside>
-<figure>
+<figure id="fig:taj-1890">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Taj_Mahal,_Agra,_India,_ca._1900.jpg/997px-Taj_Mahal,_Agra,_India,_ca._1900.jpg"
-id="fig:taj-1890" alt="Vista do Taj Mahal entre 1890 e 1900" />
+alt="Vista do Taj Mahal entre 1890 e 1900" />
 <figcaption aria-hidden="true">Vista do Taj Mahal entre 1890 e
 1900</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:taj-lawn">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_view_of_Taj_Mahal_from_the_south-western_side..jpg/1024px-A_view_of_Taj_Mahal_from_the_south-western_side..jpg"
-id="fig:taj-lawn"
 alt="Vista do Taj Mahal desde o sudoeste. Foto: Herojik Waikhom, 2010" />
 <figcaption aria-hidden="true">Vista do Taj Mahal desde o sudoeste.
 Foto: <a
@@ -1224,10 +1189,9 @@ Waikhom, 2010</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mughal-gardens">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Garden_Delhi,_India_08.jpg/1024px-Mughal_Garden_Delhi,_India_08.jpg"
-id="fig:mughal-gardens"
 alt="Edwin Lutyens, provavelmente com a colaboração de Constance Villiers-Stuart, “Mughal Gardens”, Rashtrapati Bhavan (palácio presidencial de Nova Delhi), 1912–1914. Foto: Harvinder Chandigarh, 2017" />
 <figcaption aria-hidden="true">Edwin Lutyens, provavelmente com a
 colaboração de Constance Villiers-Stuart, “Mughal Gardens”, Rashtrapati
@@ -1249,10 +1213,9 @@ vice-reis e atual palácio presidencial, em Nova Delhi (figs. 56,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:stoughton">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/View_of_the_Mughal_Garden_of_Rashtrapati_Bhavan_in_March_1962.jpg"
-id="fig:stoughton"
 alt="Mughal Gardens, Rashtrapati Bhavan. Foto: Cecil W. Stoughton, 1962" />
 <figcaption aria-hidden="true">Mughal Gardens, Rashtrapati Bhavan. Foto:
 <a
@@ -1282,54 +1245,49 @@ W. Stoughton, 1962</a></figcaption>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-alam:2014layout" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-alam:2014layout" class="csl-entry" role="listitem">
 Alam, Muhammad Atique. <em>Layout of the Charbagh at the Tomb of
 Jahangir in Lahore, Pakistan</em>. Trabalho próprio pelo carregador,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg">https://commons.wikimedia.org/wiki/File:View_from_atop_the_left_minaret_-_Tomb_of_Jahangir_gardens.jpg</a>.
 Acessado 13 de outubro de 2020.
 </div>
-<div id="ref-choay:1986regra" class="csl-entry" role="doc-biblioentry">
+<div id="ref-choay:1986regra" class="csl-entry" role="listitem">
 Choay, Françoise. <em>A regra e o modelo: sobre a teoria da arquitetura
 e do urbanismo</em>. Perspectiva, 1986.
 </div>
-<div id="ref-drpersi:2011persian" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-drpersi:2011persian" class="csl-entry" role="listitem">
 Dr Persi. <em>Persian Garden</em>. 7 de fevereiro de 2011. Trabalho
 próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:PersianGarden.png">https://commons.wikimedia.org/wiki/File:PersianGarden.png</a>.
 </div>
-<div id="ref-gharipour:2017gardens" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gharipour:2017gardens" class="csl-entry" role="listitem">
 Gharipour, Mohammad, organizador. <em>Gardens of Renaissance Europe and
 the Islamic Empires: Encounters and Confluences</em>. Penn State
 University Press, 2017. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.5325/j.ctv14gpbt3">https://doi.org/10.5325/j.ctv14gpbt3</a>.
 </div>
-<div id="ref-kovacs:2014alhambra" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kovacs:2014alhambra" class="csl-entry" role="listitem">
 Kovacs, Tibor. <em>Alhambra Granada Spain</em>. _MG_1326-Edit.jpg,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Alhambra_granada_spain.jpeg">https://commons.wikimedia.org/wiki/File:Alhambra_granada_spain.jpeg</a>.
 Acessado 13 de outubro de 2020.
 </div>
 <div id="ref-mirfendereski:architectural" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Mirfendereski, Afsaneh. <span>“Architectural Inspirations”</span>.
 <em>Afsaneh Architecture LLC</em>, <a
 href="http://www.afsaneharchitecture.com/architectural-photography">http://www.afsaneharchitecture.com/architectural-photography</a>.
 Acessado 13 de outubro de 2020.
 </div>
-<div id="ref-scott:1914architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-scott:1914architecture" class="csl-entry" role="listitem">
 Scott, Geoffrey. <em>The Architecture of Humanism; a Study in the
 History of Taste</em>. Houghton Mifflin, 1914. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/cu31924014760353">http://archive.org/details/cu31924014760353</a>.
 </div>
-<div id="ref-vaneck:1998structure57" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-vaneck:1998structure57" class="csl-entry" role="listitem">
 van Eck, Caroline. <span>“The Structure of <em>De Re Aedificatoria</em>
 Reconsidered”</span>. <em>Journal of the Society of Architectural
 Historians</em>, vol. 57, nº 3, 1998, p. 280–97. JSTOR, <em>JSTOR</em>,
@@ -1337,7 +1295,7 @@ Historians</em>, vol. 57, nº 3, 1998, p. 280–97. JSTOR, <em>JSTOR</em>,
 href="https://doi.org/10.2307/991347">https://doi.org/10.2307/991347</a>.
 </div>
 <div id="ref-villiers-stuart:1913gardens" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Villiers-Stuart, Constance Mary. <em>Gardens of the Great Mughals</em>.
 A. and C. Black, 1913. <em>Internet Archive</em>, <a
 href="http://archive.org/details/gardensofgreatmu00villiala">http://archive.org/details/gardensofgreatmu00villiala</a>.

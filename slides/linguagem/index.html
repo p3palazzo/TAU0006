@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -117,17 +122,17 @@ do século <span class="smallcaps">XX</span>, corrobora essa divisão.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:47.5%;">
-<figure>
+<figure id="fig:scott">
 <img
 data-src="http://www.elisarolle.com/queerplaces/images%20004/img71.jpg"
-id="fig:scott" alt="Geoffrey Scott (1884–1929)" />
+alt="Geoffrey Scott (1884–1929)" />
 <figcaption aria-hidden="true">Geoffrey Scott (1884–1929)</figcaption>
 </figure>
 </div><div class="column" style="width:52.5%;">
-<figure>
+<figure id="fig:pevsner">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg"
-id="fig:pevsner" alt="Nikolaus Pevsner (1902–1983)" />
+alt="Nikolaus Pevsner (1902–1983)" />
 <figcaption aria-hidden="true">Nikolaus Pevsner (1902–1983)</figcaption>
 </figure>
 </div>
@@ -158,10 +163,10 @@ data-background-image="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a0
 <h2
 data-background-image="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:tafuri">
 <img
 data-src="https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg"
-id="fig:tafuri" class="slide-bg" alt="Manfredo Tafuri (1935–1994)" />
+class="slide-bg" alt="Manfredo Tafuri (1935–1994)" />
 <figcaption aria-hidden="true">Manfredo Tafuri (1935–1994)</figcaption>
 </figure>
 </div>
@@ -211,23 +216,27 @@ triângulo que parte das figuras dos doadores e passa pela Virgem e São
 João até chegar na Trindade, conflitam com o traçado regulador da
 perspectiva, que forma um triângulo invertido.</p>
 </aside>
-<div id="fig:masaccio" class="subfigures columns">
+<figure id="fig:masaccio" class="subfigures columns">
 <div class="column" style="width:57%;">
-<figure>
+<figure id="fig:masaccio-trinita">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Masaccio_003.jpg/616px-Masaccio_003.jpg"
-id="fig:masaccio-trinita" />
+alt="afresco na capela Brancacci, igreja de Santa Maria Novella, Florença, 1427" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:43%;">
-<figure>
+</div>
+<div class="column" style="width:43%;">
+<figure id="fig:masaccio-comp">
 <img
 data-src="https://i.pinimg.com/originals/39/77/3f/39773f2b44cbddcdfc3406f9febea1b6.jpg"
-id="fig:masaccio-comp" />
+alt="Esquema de composição" />
+<figcaption></figcaption>
 </figure>
-</div><p>Masaccio, Santíssima Trindade. a – afresco na capela Brancacci,
-igreja de Santa Maria Novella, Florença, 1427, b – Esquema de
-composição</p>
 </div>
+<figcaption><p>Masaccio, Santíssima Trindade. a – afresco na capela
+Brancacci, igreja de Santa Maria Novella, Florença, 1427, b – Esquema de
+composição</p></figcaption>
+</figure>
 </section>
 <section id="section-4" class="slide level2"
 data-background-image="https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg">
@@ -243,10 +252,10 @@ restrições não é arbitrário nem individual(ista), mas responde a uma
 visão de mundo partilhada entre os artistas e os seus mecenas
 (fig. 5).</p>
 </aside>
-<figure>
+<figure id="fig:botticelli-sistina">
 <img
 data-src="https://i.pinimg.com/originals/32/fa/59/32fa59de07c667be846e9183bd223b6c.jpg"
-id="fig:botticelli-sistina" class="slide-bg"
+class="slide-bg"
 alt="Sandro Botticelli. Castigo dos levitas. Afresco na capela Sistina, 1481–482" />
 <figcaption aria-hidden="true">Sandro Botticelli. Castigo dos levitas.
 Afresco na <a
@@ -271,10 +280,10 @@ da Santíssima Trindade, designadas como elementos centrais da composição
 pelas linhas de força das figuras secundárias? Ou ainda um ponto fora da
 pintura, para onde convergem os raios da luz divina?</p>
 </aside>
-<figure>
+<figure id="fig:disputa">
 <img
 data-src="https://i.pinimg.com/originals/36/0d/60/360d604d3f522136882ade93ef2d72d7.jpg"
-id="fig:disputa" class="slide-bg"
+class="slide-bg"
 alt="Rafael Sanzio, Disputa do Santíssimo Sacramento. Afresco na stanza della Segnatura, palácio do Vaticano, 1508" />
 <figcaption aria-hidden="true">Rafael Sanzio, <a
 href="https://commons.wikimedia.org/wiki/File:Raphael1a.jpg">Disputa do
@@ -299,10 +308,10 @@ class="smallcaps">XV</span> (fig. 7). Essa adequação vai ser um dos fios
 condutores da formulação teórica e da realização tangível da arquitetura
 do Renascimento.</p>
 </aside>
-<figure>
+<figure id="fig:pazzi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Capilla_Pazzi_03.JPG/512px-Capilla_Pazzi_03.JPG"
-id="fig:pazzi" class="slide-bg"
+class="slide-bg"
 alt="Filippo Brunelleschi. Capela Pazzi na igreja de Santa Cruz, Florença, interior, 1442–1443. Foto: Miguel Hermoso Cuesta, 2015" />
 <figcaption aria-hidden="true">Filippo Brunelleschi. Capela Pazzi na
 igreja de Santa Cruz, Florença, interior, 1442–1443. Foto: <a
@@ -427,10 +436,10 @@ solidez, funcionalidade e beleza.</p>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1280px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1280px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"></h2>
-<figure>
+<figure id="fig:cupola-brunelleschi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"
-id="fig:cupola-brunelleschi" class="slide-bg"
+class="slide-bg"
 alt="Catedral de Santa Maria del Fiore, Florença. Cúpula por Filippo Brunelleschi, 1420–1446. Foto: Bruce Stokes, 2013" />
 <figcaption aria-hidden="true">Catedral de Santa Maria del Fiore,
 Florença. Cúpula por Filippo Brunelleschi, 1420–1446. Foto: <a
@@ -450,10 +459,10 @@ então os elementos são o vocabulário.</p>
 data-background-image="https://i.pinimg.com/originals/8c/99/65/8c9965f4d949932127770e7f525f3e8a.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/8c/99/65/8c9965f4d949932127770e7f525f3e8a.jpg"></h2>
-<figure>
+<figure id="fig:forum-bellotto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg/1024px-Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg"
-id="fig:forum-bellotto" class="slide-bg"
+class="slide-bg"
 alt="Bernardo Bellotto, Ruínas do fórum romano, 1743" />
 <figcaption aria-hidden="true">Bernardo Bellotto, <a
 href="https://commons.wikimedia.org/wiki/File:Bernardo_Bellotto_-_Ruins_of_the_Forum,_Rome_-_Google_Art_Project.jpg">Ruínas
@@ -471,10 +480,10 @@ volumétricas complexas desenvolvidas ao longo da Idade Média e os
 requisitos funcionais cada vez mais elaborados da Europa moderna
 (fig. 11).</p>
 </aside>
-<figure>
+<figure id="fig:pantheon">
 <img
 data-src="https://i.pinimg.com/originals/66/4b/de/664bde694199a53639504955d973cae2.jpg"
-id="fig:pantheon" class="slide-bg"
+class="slide-bg"
 alt="Giovanni Paolo Pannini, Interior do Pantheon, c. 1734" />
 <figcaption aria-hidden="true">Giovanni Paolo Pannini, <a
 href="https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg">Interior
@@ -485,10 +494,10 @@ do Pantheon, c. 1734</a></figcaption>
 data-background-image="https://i.pinimg.com/originals/b4/0b/40/b40b40f522e9fb72cdeeda71019f8867.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/b4/0b/40/b40b40f522e9fb72cdeeda71019f8867.jpg"></h2>
-<figure>
+<figure id="fig:medici">
 <img
 data-src="https://i.pinimg.com/originals/b4/0b/40/b40b40f522e9fb72cdeeda71019f8867.jpg"
-id="fig:medici" class="slide-bg"
+class="slide-bg"
 alt="Michelozzo di Bartolomeo e Baccio Bandinelli. Pátio do palácio Medici (Riccardi), Florença, 1444–1452. Foto: Gryffindor, edição por Roland Geider, 2008" />
 <figcaption aria-hidden="true">Michelozzo di Bartolomeo e Baccio
 Bandinelli. Pátio do palácio Medici (Riccardi), Florença, 1444–1452.
@@ -526,10 +535,10 @@ rusticação diferentes em cada piso, elas transformam a necessidade
 solidez das paredes.</p></li>
 </ol>
 </aside>
-<figure>
+<figure id="fig:medici-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Palazzo_Riccardi_(Character_of_Renaissance_Architecture).jpg/570px-Palazzo_Riccardi_(Character_of_Renaissance_Architecture).jpg"
-id="fig:medici-ext" class="slide-bg"
+class="slide-bg"
 alt="Michelozzo di Bartolomeo, palácio Medici (Riccardi), Florença, 1444–1452. Foto em Charles Moore, Character of Renaissance Architecture, 1905" />
 <figcaption aria-hidden="true">Michelozzo di Bartolomeo, palácio Medici
 (Riccardi), Florença, 1444–1452. Foto em <a
@@ -554,10 +563,10 @@ evidenciando, por exemplo, as suas proporções <span class="citation"
 data-cites="schumacher:1987palladio">(Schumacher)</span>.</li>
 </ol>
 </aside>
-<figure>
+<figure id="fig:schu25">
 <img
 data-src="https://i.pinimg.com/originals/7d/cc/8c/7dcc8cf0d57a86ea7d47d3944675b165.jpg"
-id="fig:schu25" class="slide-bg"
+class="slide-bg"
 alt="Permutações de composição no palácio Valmarana–Braga, por Andrea Palladio, 1560. Desenho: Thomas L. Schumacher, 1987, baseado em Ottavio Bertotti-Scamozzi" />
 <figcaption aria-hidden="true">Permutações de composição no palácio
 Valmarana–Braga, por Andrea Palladio, 1560. Desenho: <a
@@ -572,10 +581,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/73/3e/49/733e49399be31157b746a4fd79d1b9b3.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:schu12">
 <img
 data-src="https://i.pinimg.com/originals/73/3e/49/733e49399be31157b746a4fd79d1b9b3.jpg"
-id="fig:schu12" class="slide-bg"
+class="slide-bg"
 alt="Permutações de composição no palácio Valmarana–Braga, por Andrea Palladio, 1560. Desenho: [Thomas L. Schumacher baseado em Ottavio Bertotti-Scamozzi][]" />
 <figcaption aria-hidden="true">Permutações de composição no palácio
 Valmarana–Braga, por Andrea Palladio, 1560. Desenho: [Thomas L.
@@ -609,19 +618,18 @@ coberturas horizontais ou abobadadas (fig. 17).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:49%;">
-<figure>
+<figure id="fig:ching-support">
 <img
 data-src="https://i.pinimg.com/originals/2d/2d/93/2d2d93e110b8bdd308a9ea387820d3c6.jpg"
-id="fig:ching-support"
 alt="Francis D.K. Ching, classificação dos pontos de apoio" />
 <figcaption aria-hidden="true">Francis D.K. Ching, classificação dos
 pontos de apoio</figcaption>
 </figure>
 </div><div class="column" style="width:51%;">
-<figure>
+<figure id="fig:krier-27a">
 <img
 data-src="https://i.pinimg.com/originals/ba/81/c2/ba81c2666b30c7bf5ece872616620dfd.jpg"
-id="fig:krier-27a" alt="Rob Krier, classificação dos pontos de apoio" />
+alt="Rob Krier, classificação dos pontos de apoio" />
 <figcaption aria-hidden="true">Rob Krier, classificação dos pontos de
 apoio</figcaption>
 </figure>
@@ -634,11 +642,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/98/9a/ab/989aabe11fc99405311a89607d7dc0f3.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:krier-27b">
 <img
 data-src="https://i.pinimg.com/originals/98/9a/ab/989aabe11fc99405311a89607d7dc0f3.jpg"
-id="fig:krier-27b" class="slide-bg"
-alt="Rob Krier, classificação das coberturas" />
+class="slide-bg" alt="Rob Krier, classificação das coberturas" />
 <figcaption aria-hidden="true">Rob Krier, classificação das
 coberturas</figcaption>
 </figure>
@@ -650,10 +657,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:liang-order">
 <img
 data-src="https://i.pinimg.com/originals/46/cc/e3/46cce377bf845e4863c151a1fe27ac58.jpg"
-id="fig:liang-order" class="slide-bg"
+class="slide-bg"
 alt="Lin Huiyin e Liang Sicheng, “ordem chinesa” deduzida do Yingzao fashi" />
 <figcaption aria-hidden="true">Lin Huiyin e Liang Sicheng, “ordem
 chinesa” deduzida do <em>Yingzao fashi</em></figcaption>
@@ -685,10 +692,10 @@ composições básicas da Antiguidade tardia. A chamada Badìa fiesolana, ou
 abadia dominicana em Fiesole, tem uma portada com uma arcada coríntia
 que não ficaria deslocada na Antiguidade tardia (fig. 19).</p>
 </aside>
-<figure>
+<figure id="fig:badia-fiesolana">
 <img
 data-src="https://live.staticflickr.com/3159/2995489361_3ab150ef8f_k_d.jpg"
-id="fig:badia-fiesolana" class="slide-bg"
+class="slide-bg"
 alt="Badìa fiesolana, iniciada 1075, fachada do século XII. Foto: Vivagattomammone, 2008" />
 <figcaption aria-hidden="true">Badìa fiesolana, iniciada 1075, fachada
 do século <span class="smallcaps">XII</span>. Foto: <a
@@ -702,10 +709,10 @@ data-transition="fade-out">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/facade-san-miniato-al-monte-dreamstime_l_95663784-scaled.jpg"
 data-transition="fade-out"></h2>
-<figure>
+<figure id="fig:miniato-fac">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/facade-san-miniato-al-monte-dreamstime_l_95663784-scaled.jpg"
-id="fig:miniato-fac" class="slide-bg"
+class="slide-bg"
 alt="Fachada da basílica de San Miniato al Monte, Florença, século XII. Foto: Ivan Vander Biesen, 2017" />
 <figcaption aria-hidden="true">Fachada da basílica de San Miniato al
 Monte, Florença, século <span class="smallcaps">XII</span>. Foto: <a
@@ -725,10 +732,10 @@ data-transition="fade-in">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/san-miniato-al-monte-dreamstime_l_173460891-scaled.jpg"
 data-transition="fade-in"></h2>
-<figure>
+<figure id="fig:miniato-det">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/san-miniato-al-monte-dreamstime_l_173460891-scaled.jpg"
-id="fig:miniato-det" class="slide-bg"
+class="slide-bg"
 alt="Fachada da basílica de San Miniato al Monte, detalhe. Foto: Jakobusvide, 2020" />
 <figcaption aria-hidden="true">Fachada da basílica de San Miniato al
 Monte, detalhe. Foto: <a
@@ -740,10 +747,10 @@ href="https://www.dreamstime.com/san-miniato-al-monte-marble-classic-facade-desi
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/altar-basilica-san-miniato-al-monte-dreamstime_xl_82670261-scaled.jpg">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/altar-basilica-san-miniato-al-monte-dreamstime_xl_82670261-scaled.jpg"></h2>
-<figure>
+<figure id="fig:miniato-altar">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/altar-basilica-san-miniato-al-monte-dreamstime_xl_82670261-scaled.jpg"
-id="fig:miniato-altar" class="slide-bg"
+class="slide-bg"
 alt="Capela-mor da basílica de San Miniato al Monte. Foto: Vvoevale, 2016" />
 <figcaption aria-hidden="true">Capela-mor da basílica de San Miniato al
 Monte. Foto: <a
@@ -761,10 +768,10 @@ ordens coríntias sobrepostas, enquadrando arcadas jônicas (fig. 23),
 demonstra que o conhecimento da linguagem clássica nunca se perdeu por
 inteiro.</p>
 </aside>
-<figure>
+<figure id="fig:battsgiov">
 <img
 data-src="https://i.pinimg.com/originals/b9/b2/d2/b9b2d272e3673103f0fc3ef22051a410.jpg"
-id="fig:battsgiov" class="slide-bg"
+class="slide-bg"
 alt="Batistério de São João, Florença, século XII. Foto: Sailko, 2008" />
 <figcaption aria-hidden="true">Batistério de São João, Florença, século
 <span class="smallcaps">XII</span>. Foto: <a
@@ -778,10 +785,10 @@ data-background-position="top">
 <h2
 data-background-image="https://i.pinimg.com/originals/94/3f/7d/943f7da948e422f44074d142b7298dc0.jpg"
 data-background-position="top"></h2>
-<figure>
+<figure id="fig:spedale">
 <img
 data-src="https://i.pinimg.com/originals/94/3f/7d/943f7da948e422f44074d142b7298dc0.jpg"
-id="fig:spedale" class="slide-bg"
+class="slide-bg"
 alt="Filippo Brunelleschi, asilo dos Inocentes, Florença, 1419. Levantamento: Ipostudio architetti, 2012" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, asilo dos
 Inocentes, Florença, 1419. Levantamento: <a
@@ -815,20 +822,18 @@ Inglaterra.</p>
 </aside>
 <div id="fig:ordens" class="columns full">
 <div class="column" style="width:53%;">
-<figure>
+<figure id="fig:cesariano-genera">
 <img
 data-src="https://i.pinimg.com/originals/26/3e/f8/263ef8e15bc2da18b17275c54915c6c3.jpg"
-id="fig:cesariano-genera"
 alt="Cesare Cesariano, gêneros de colunas do tratado de arquitetura de Vitrúvio, 1521" />
 <figcaption aria-hidden="true">Cesare Cesariano, gêneros de colunas do
 <a href="https://archive.org/details/gri_33125008262210/">tratado de
 arquitetura de Vitrúvio, 1521</a></figcaption>
 </figure>
 </div><div class="column" style="width:47%;">
-<figure>
+<figure id="fig:vignola-intro-2">
 <img
 data-src="https://i.pinimg.com/originals/3c/d3/ba/3cd3ba4d967c0e32010c57d6dcf16510.jpg"
-id="fig:vignola-intro-2"
 alt="Jacopo Barozzi da Vignola, Regra das cinco ordens de arquitetura, primeira edição em 1563, lâmina comparativa das cinco ordens acrescentada na edição de 1602" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, <em>Regra das
 cinco ordens de arquitetura</em>, primeira edição em 1563, lâmina
@@ -844,10 +849,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/ch
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:chitham-5orders">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-56.png"
-id="fig:chitham-5orders" class="slide-bg"
+class="slide-bg"
 alt="Robert Chitham, As cinco ordens de arquitetura, 2005" />
 <figcaption aria-hidden="true">Robert Chitham, <em>As cinco ordens de
 arquitetura</em>, 2005</figcaption>
@@ -875,11 +880,10 @@ viga, pingadeira e coroamento da ordem, sempre acompanha uma
 colunata…</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:chitham-167">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-167.png"
-id="fig:chitham-167" class="slide-bg"
-alt="Intercolúnios segundo Chitham" />
+class="slide-bg" alt="Intercolúnios segundo Chitham" />
 <figcaption aria-hidden="true">Intercolúnios segundo
 Chitham</figcaption>
 </figure>
@@ -890,11 +894,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/ch
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:chitham-083-085">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-083-085.png"
-id="fig:chitham-083-085" class="slide-bg"
-alt="Proporções da ordem coríntia segundo Chitham" />
+class="slide-bg" alt="Proporções da ordem coríntia segundo Chitham" />
 <figcaption aria-hidden="true">Proporções da ordem coríntia segundo
 Chitham</figcaption>
 </figure>
@@ -923,10 +926,10 @@ ser igualmente manipulado a partir das dimensões do conjunto, por
 divisões sucessivas até chegar no módulo.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:chitham-181-197">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-181-197.png"
-id="fig:chitham-181-197" class="slide-bg"
+class="slide-bg"
 alt="Elementos complementares das ordens clássicas segundo Chitham" />
 <figcaption aria-hidden="true">Elementos complementares das ordens
 clássicas segundo Chitham</figcaption>
@@ -938,11 +941,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/ch
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:chitham-175-191">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/chitham-175-191.png"
-id="fig:chitham-175-191" class="slide-bg"
-alt="Arcadas e rusticação segundo Chitham" />
+class="slide-bg" alt="Arcadas e rusticação segundo Chitham" />
 <figcaption aria-hidden="true">Arcadas e rusticação segundo
 Chitham</figcaption>
 </figure>
@@ -984,10 +986,10 @@ Coluna clássica ─┤
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1280px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1280px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg"></h2>
-<figure>
+<figure id="fig:baalshamin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Temple_of_Baal-Shamin_in_Palmyra_2010.jpg/1024px-Temple_of_Baal-Shamin_in_Palmyra_2010.jpg"
-id="fig:baalshamin" class="slide-bg"
+class="slide-bg"
 alt="Templo de Baal-Shamin, Palmira, última reconstrução 131 d.C., destruído 2015. Foto: Mappo, 2010" />
 <figcaption aria-hidden="true">Templo de Baal-Shamin, Palmira, última
 reconstrução 131 d.C., destruído 2015. Foto: <a
@@ -1020,10 +1022,10 @@ parte da busca dos arquitetos do século <span
 class="smallcaps">XV</span> pela articulação clara de volumes espaciais
 com geometrias primárias.</p>
 </aside>
-<figure>
+<figure id="fig:sandrea-facade">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantova_Concattedrale_Sant&#39;Andrea_Apostolo_Fassade_4.jpg/999px-Mantova_Concattedrale_Sant&#39;Andrea_Apostolo_Fassade_4.jpg"
-id="fig:sandrea-facade" class="slide-bg"
+class="slide-bg"
 alt="Leon Battista Alberti, fachada da basílica de Sant’Andrea, Mântua, após 1470. Foto: Zairon, 2018" />
 <figcaption aria-hidden="true">Leon Battista Alberti, fachada da
 basílica de Sant’Andrea, Mântua, após 1470. Foto: <a
@@ -1048,10 +1050,10 @@ superfícies que delimitam os espaços arquitetônicos.</p>
 data-background-image="https://i.pinimg.com/originals/c6/b3/30/c6b33040547030b8c84c4e560246a825.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/c6/b3/30/c6b33040547030b8c84c4e560246a825.jpg"></h2>
-<figure>
+<figure id="fig:slorenzo">
 <img
 data-src="https://i.pinimg.com/originals/c6/b3/30/c6b33040547030b8c84c4e560246a825.jpg"
-id="fig:slorenzo" class="slide-bg"
+class="slide-bg"
 alt="Filippo Brunelleschi, interior da basílica de San Lorenzo, Florença, 1442–1459. Foto: Peter K. Burian, 2017" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, interior da
 basílica de San Lorenzo, Florença, 1442–1459. Foto: <a
@@ -1080,10 +1082,10 @@ Rossellino. Rossellino é o provável autor de dois palácios de fachadas
 quase idênticas, o Rucellai, em Florença (fig. 35), e o Piccolomini, em
 Pienza, projetados por volta de 1460 (fig. 36).</p>
 </aside>
-<figure>
+<figure id="fig:rucellai">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firenze_Palazzo_Rucellai.jpg/1280px-Firenze_Palazzo_Rucellai.jpg"
-id="fig:rucellai" class="slide-bg"
+class="slide-bg"
 alt="Bernardo Rossellino, talvez com Leon Battista Alberti, fachada do palácio Rucellai, Florença, 1461. Desenho em Gustavo Strafforello, La patria, 1894" />
 <figcaption aria-hidden="true">Bernardo Rossellino, talvez com Leon
 Battista Alberti, fachada do palácio Rucellai, Florença, 1461. Desenho
@@ -1096,10 +1098,10 @@ Strafforello, <em>La patria</em>, 1894</a></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/2560px-Palazzo_Piccolomini_Pienza.JPG">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/2560px-Palazzo_Piccolomini_Pienza.JPG"></h2>
-<figure>
+<figure id="fig:piccolomini">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palazzo_Piccolomini_Pienza.JPG/1280px-Palazzo_Piccolomini_Pienza.JPG"
-id="fig:piccolomini" class="slide-bg"
+class="slide-bg"
 alt="Bernardo Rossellino, palácio Piccolomini, Pienza, 1459–1462. Foto: Pierreci, 2008" />
 <figcaption aria-hidden="true">Bernardo Rossellino, palácio Piccolomini,
 Pienza, 1459–1462. Foto: <a
@@ -1129,10 +1131,10 @@ partir do palácio Tarugi, de Antonio da Sangallo (fig. 37).</p>
 <p>O segundo tema é o da articulação horizontal da composição entre
 ordens clássicas, aberturas e superfície da parede.</p>
 </aside>
-<figure>
+<figure id="fig:tarugi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Montepulciano_Palazzo_Tarugi.jpg/1024px-Montepulciano_Palazzo_Tarugi.jpg"
-id="fig:tarugi" class="slide-bg"
+class="slide-bg"
 alt="Antonio da Sangallo, o velho, palácio Tarugi, Montepulciano, primeira metade do século XVI. Desenho em Gustavo Strafforello, La patria, 1894" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o velho, palácio
 Tarugi, Montepulciano, primeira metade do século <span
@@ -1164,10 +1166,10 @@ Pazzi (ver 7), afirma um princípio de unidade espacial difícil de ser
 seguido, num primeiro momento, em projetos com características
 funcionais mais específicas e conservadoras.</p>
 </aside>
-<figure>
+<figure id="fig:sagvecchia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia,_veduta_00.jpg/701px-Sagrestia_vecchia,_veduta_00.jpg"
-id="fig:sagvecchia" class="slide-bg"
+class="slide-bg"
 alt="Filippo Brunelleschi, sacristia velha da igreja de São Lourenço, Florença, 1421–1440. Foto: Sailko, 2016" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, sacristia velha da
 igreja de São Lourenço, Florença, 1421–1440. Foto: <a
@@ -1188,10 +1190,9 @@ data-background-position="bottom">
 <h2
 data-background-image="https://i.pinimg.com/originals/6b/ae/d6/6baed6ee7fa7475f0f2d720ce36ea825.jpg"
 data-background-position="bottom"></h2>
-<figure>
+<figure id="fig:rucellai-plan">
 <img
 data-src="https://i.pinimg.com/originals/6b/ae/d6/6baed6ee7fa7475f0f2d720ce36ea825.jpg"
-id="fig:rucellai-plan"
 alt="Leon Battista Alberti, palácio Rucellai, Florença, 1455–1470. Plantas de levantamento do térreo e do andar nobre" />
 <figcaption aria-hidden="true">Leon Battista Alberti, palácio Rucellai,
 Florença, 1455–1470. Plantas de levantamento do térreo e do andar
@@ -1214,10 +1215,9 @@ arquitetura religiosa. Na reforma da catedral de Rimini (c. 1450), uma
 antiga igreja franciscana com nave única, ele transforma os contrafortes
 exteriores em capelas laterais, abertas para a nave (fig. 40).</p>
 </aside>
-<figure>
+<figure id="fig:rimini-int">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-malatestiano-int/preview"
-id="fig:rimini-int"
 alt="Leon Battista Alberti, catedral de São Francisco, Rimini (templo Malatestiano), c. 1450" />
 <figcaption aria-hidden="true">Leon Battista Alberti, catedral de São
 Francisco, Rimini (templo Malatestiano), c. 1450</figcaption>
@@ -1228,10 +1228,9 @@ data-background-image="https://www.integra.unb.br/s/tau0006-044-malatestiano-mod
 <h2
 data-background-image="https://www.integra.unb.br/s/tau0006-044-malatestiano-mod/preview"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:rimini-model">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-malatestiano-mod/preview"
-id="fig:rimini-model"
 alt="Maquete do projeto de Leon Battista Alberti para a catedral de Rimini" />
 <figcaption aria-hidden="true">Maquete do projeto de Leon Battista
 Alberti para a catedral de Rimini</figcaption>
@@ -1251,10 +1250,9 @@ data-background-image="https://www.integra.unb.br/s/tau0006-044-mantua-plan-bg/p
 <p>Na igreja de Santo André, em Mântua (1472–1790), Alberti tem
 liberdade para criar a edificação inteira. Ele escolhe, então, levar
 adiante a configuração da nave única com capelas laterais (fig. 42).</p>
-<figure>
+<figure id="fig:mantua-plan">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-mantua-plan/preview"
-id="fig:mantua-plan"
 alt="Leon Battista Alberti, basílica de Sant’Andrea, Mântua, 1472–1790" />
 <figcaption aria-hidden="true">Leon Battista Alberti, basílica de
 Sant’Andrea, Mântua, 1472–1790</figcaption>
@@ -1274,10 +1272,9 @@ em Roma, do início do século IV d.C. Essa basílica era um edifício
 civil, e não religioso, mas no Renascimento, Constantino é considerado
 como o primeiro imperador cristão — daí, talvez, a legitimidade do
 modelo.</p>
-<figure>
+<figure id="fig:mantua-int">
 <img
 data-src="https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg"
-id="fig:mantua-int"
 alt="Leon Battista Alberti, basílica de Sant’Andrea, Mântua, 1470–1790, interior. Foto: Mykaul" />
 <figcaption aria-hidden="true">Leon Battista Alberti, basílica de
 Sant’Andrea, Mântua, 1470–1790, interior. Foto: <span class="citation"
@@ -1298,10 +1295,9 @@ pilastras que se projetam muito pouco à frente dos maciços entre as
 capelas. Como já vimos, o uso das pilastras em vez de colunas dá mais
 clareza à leitura dos volumes geométricos que constituem o espaço
 (fig. 44).</p>
-<figure>
+<figure id="fig:mantua-lesene">
 <img
 data-src="https://live.staticflickr.com/1204/1335531115_76a02a674e_c_d.jpg"
-id="fig:mantua-lesene"
 alt="Leon Battista Alberti, basílica de Sant’Andrea, Mântua, 1470–1790, interior. Foto: mykaul" />
 <figcaption aria-hidden="true">Leon Battista Alberti, basílica de
 Sant’Andrea, Mântua, 1470–1790, interior. Foto: <span class="citation"
@@ -1320,46 +1316,57 @@ série de esquemas gráficos estabelecendo traçados reguladores (fig. 45)
 e interpretando as descrições de Vitrúvio para diferentes tipos de
 plantas de templos e construções civis (fig. 46).</p>
 </aside>
-<div id="fig:cesariano-1" class="subfigures columns">
+<figure id="fig:cesariano-1" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cesariano-1a">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-041/preview"
-id="fig:cesariano-1a" />
+alt="Astrologia" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:cesariano-1c">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-212/preview"
-id="fig:cesariano-1c" />
+alt="Átrios e salas" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:cesariano-1b">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-049/preview"
-id="fig:cesariano-1b" />
+alt="Catedral de Milão" />
+<figcaption></figcaption>
 </figure>
-</div><p>Traçados reguladores de Vitrúvio segundo Cesare Cesariano,
-1521. a – Astrologia, b – Átrios e salas, c – Catedral de Milão</p>
 </div>
+<figcaption><p>Traçados reguladores de Vitrúvio segundo Cesare
+Cesariano, 1521. a – Astrologia, b – Átrios e salas, c – Catedral de
+Milão</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:cesariano-2" class="subfigures columns">
+<figure id="fig:cesariano-2" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cesariano-2a">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-122a/preview"
-id="fig:cesariano-2a" />
+alt="Templo períptero" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:cesariano-2b">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-122b/preview"
-id="fig:cesariano-2b" />
+alt="Templo pseudodíptero" />
+<figcaption></figcaption>
 </figure>
-</div><p>Cesare Cesariano, reconstituição de malhas estruturais segundo
-Vitrúvio, 1521. a – Templo períptero, b – Templo pseudodíptero</p>
 </div>
+<figcaption><p>Cesare Cesariano, reconstituição de malhas estruturais
+segundo Vitrúvio, 1521. a – Templo períptero, b – Templo
+pseudodíptero</p></figcaption>
+</figure>
 </section>
 <section id="section-45" class="slide level2">
 <h2></h2>
@@ -1370,33 +1377,39 @@ por causa disso, elas oferecem exemplos de traçados reguladores e de
 articulações de ordens clássicas com paredes que são relevantes para os
 projetos arquitetônicos do Renascimento.</p>
 </aside>
-<div id="fig:cesariano-3" class="subfigures columns">
+<figure id="fig:cesariano-3" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cesariano-3a">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-120a/preview"
-id="fig:cesariano-3a" />
+alt="com antas" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:cesariano-3c">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview"
-id="fig:cesariano-3c" />
+alt="anfiprostilo" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:cesariano-3b">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-120b/preview"
-id="fig:cesariano-3b" />
+alt="prostilo" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:cesariano-3d">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-156/preview"
-id="fig:cesariano-3d" />
+alt="etrusco" />
+<figcaption></figcaption>
 </figure>
-</div><p>Tipologias de templos com malhas estruturais reguladoras,
-Cesare Cesariano, 1521. a – com antas, b – anfiprostilo, c – prostilo,
-d – etrusco</p>
 </div>
+<figcaption><p>Tipologias de templos com malhas estruturais reguladoras,
+Cesare Cesariano, 1521. a – com antas, b – anfiprostilo, c – prostilo,
+d – etrusco</p></figcaption>
+</figure>
 </section>
 <section id="section-46" class="slide level2"
 data-background-image="https://www.integra/unb/br/s/tau0006-044-spedale-prosp/preview">
@@ -1407,10 +1420,9 @@ data-background-image="https://www.integra/unb/br/s/tau0006-044-spedale-prosp/pr
 primeira referência em vigor no século <span
 class="smallcaps">XV</span>; quando usada com ordens clássicas, ela
 resulta em extremidades em geral pouco elegantes (fig. 48).</p>
-<figure>
+<figure id="fig:spedale-prosp">
 <img
 data-src="https://www.integra/unb/br/s/tau0006-044-spedale-prosp/preview"
-id="fig:spedale-prosp"
 alt="Filippo Brunelleschi, asilo dos Inocentes, 1419" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, asilo dos
 Inocentes, 1419</figcaption>
@@ -1431,10 +1443,9 @@ distintas para a fachada e as paredes interiores. Na primeira, uma
 cadência de pilastras centralizadas entre as aberturas das janelas; na
 segunda, extensas superfícies caiadas entre pilastras que enquadram as
 extremidades.</p>
-<figure>
+<figure id="fig:piccolomini-murario">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-piccolomini/preview"
-id="fig:piccolomini-murario"
 alt="Bernardo Rossellino, palácio Piccolomini, Pienza, 1459–1462" />
 <figcaption aria-hidden="true">Bernardo Rossellino, palácio Piccolomini,
 Pienza, 1459–1462</figcaption>
@@ -1454,10 +1465,10 @@ perímetro externo abraça sempre que possível os volumes internos. Esse é
 o caso da igreja da Madonna delle Carceri, em Prato, construída em 1485
 pelo arquiteto Giuliano da Sangallo (figs. 50, 51).</p>
 </aside>
-<figure>
+<figure id="fig:carceri-ext">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-carceri-ext/preview"
-id="fig:carceri-ext" class="slide-bg"
+class="slide-bg"
 alt="Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485" />
 <figcaption aria-hidden="true">Giuliano da Sangallo, Santa Maria delle
 Carceri, Prato, 1485</figcaption>
@@ -1465,23 +1476,28 @@ Carceri, Prato, 1485</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:carceri-dwg" class="subfigures columns">
+<figure id="fig:carceri-dwg" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:carceri-plan">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-carceri-plan/preview"
-id="fig:carceri-plan" />
+alt="planta" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:carceri-sez">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-carceri-sez/preview"
-id="fig:carceri-sez" />
+alt="corte" />
+<figcaption></figcaption>
 </figure>
-</div><p>Giuliano da Sangallo, Santa Maria delle Carceri, Prato, 1485.
-<span class="citation" data-cites="rocchi:1884chiesa">Rocchi</span>.
-a – planta, b – corte</p>
 </div>
+<figcaption><p>Giuliano da Sangallo, Santa Maria delle Carceri, Prato,
+1485. <span class="citation"
+data-cites="rocchi:1884chiesa">Rocchi</span>. a – planta,
+b – corte</p></figcaption>
+</figure>
 </section>
 <section id="section-49" class="slide level2"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Luoghi_del_cuore.JPG/1280px-Luoghi_del_cuore.JPG">
@@ -1493,10 +1509,9 @@ correspondência é ainda mais direta por causa das cúpulas, visíveis no
 perfil externo em vez de serem protegidas por telhados (fig. 52). Essa
 obra, iniciada em 1508 por Cola da Caprarola, é um dos pontos altos da
 arquitetura de plantas centralizadas no Renascimento.</p>
-<figure>
+<figure id="fig:consolazione-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Luoghi_del_cuore.JPG/1024px-Luoghi_del_cuore.JPG"
-id="fig:consolazione-ext"
 alt="Cola da Caprarola, Santa Maria della Consolazione, Todi, 1508–1613" />
 <figcaption aria-hidden="true">Cola da Caprarola, Santa Maria della
 Consolazione, Todi, 1508–1613</figcaption>
@@ -1514,10 +1529,9 @@ composição — tanto horizontais quanto verticais. Ao mesmo tempo, a
 existência de um acesso único ao interior sugere uma direcionalidade
 implícita no espaço.</p>
 </aside>
-<figure>
+<figure id="fig:consolazione-1895">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg/560px-Todi_interno_del_Santuario_di_S_Maria_della_Consolazione.jpg"
-id="fig:consolazione-1895"
 alt="Interior de Santa Maria della Consolazione, Todi, em desenho de 1895" />
 <figcaption aria-hidden="true">Interior de Santa Maria della
 Consolazione, Todi, em desenho de 1895</figcaption>
@@ -1533,10 +1547,9 @@ no centro, mas na abside oposta à da entrada (fig. 54). Não importa
 tanto se essa disposição foi decidida por motivos operacionais da
 liturgia, pela conveniência da circulação na “nave”, ou ainda para
 resgatar algo da linearidade das basílicas convencionais.</p>
-<figure>
+<figure id="fig:consolazione-altare">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Consolazione_interno.jpg/1024px-Consolazione_interno.jpg"
-id="fig:consolazione-altare"
 alt="Interior de Santa Maria della Consolazione, Todi. Pazzaglia" />
 <figcaption aria-hidden="true">Interior de Santa Maria della
 Consolazione, Todi. <span class="citation"
@@ -1558,10 +1571,9 @@ da esfera, vários metros acima do centro da planta (fig. 55). De outro
 ponto de vista, todo o eixo vertical que vai do centro da planta até o
 lanternim da cúpula pode ser entendido como um centro dinâmico.</p>
 </aside>
-<figure>
+<figure id="fig:consolazione-cupola">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vista_della_cupola.JPG/1024px-Vista_della_cupola.JPG"
-id="fig:consolazione-cupola"
 alt="Santa Maria della Consolazione, intradorso da cúpula. Aldrighetti" />
 <figcaption aria-hidden="true">Santa Maria della Consolazione,
 intradorso da cúpula. <span class="citation"
@@ -1624,8 +1636,8 @@ data-background-image="https://www.integra.unb.br/s/tau6-051-laurana-urbino/prev
 cadência regular das colunatas de pilastras uma solução pouco
 interessante visualmente e muito diferente dos pórticos romanos que ela
 pretende imitar.</p>
-<figure>
-<img data-src="" id="fig:urbino"
+<figure id="fig:urbino">
+<img data-src=""
 alt="Luciano Laurana, palácio ducal de Urbino, pátio" />
 <figcaption aria-hidden="true">Luciano Laurana, palácio ducal de Urbino,
 pátio</figcaption>
@@ -1641,23 +1653,27 @@ fachada, é baseada nos arcos de triunfo da Roma antiga. A composição
 albertiana introduz um ritmo A–B–A que dá variedade à superfície lateral
 da nave.</p>
 </aside>
-<div id="fig:sandrea-lesene" class="subfigures columns">
+<figure id="fig:sandrea-lesene" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sandrea-leseneA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fa%C3%A7ade_of_Sant&#39;_Andrea,_Mantua_(Character_of_Renaissance_Architecture).png/747px-Fa%C3%A7ade_of_Sant&#39;_Andrea,_Mantua_(Character_of_Renaissance_Architecture).png"
-id="fig:sandrea-leseneA" />
+alt="fachada" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:sandrea-leseneB">
 <img
 data-src="https://live.staticflickr.com/1303/1336317266_c48c3b7aa1_c_d.jpg"
-id="fig:sandrea-leseneB" />
+alt="nave (Mykaul)" />
+<figcaption></figcaption>
 </figure>
-</div><p>Leon Battista Alberti, nave da igreja de Sant’Andrea, Mântua,
-1470–1790. a – fachada, b – nave <span class="citation"
-data-cites="mykaul:2007basilica">(Mykaul)</span></p>
 </div>
+<figcaption><p>Leon Battista Alberti, nave da igreja de Sant’Andrea,
+Mântua, 1470–1790. a – fachada, b – nave <span class="citation"
+data-cites="mykaul:2007basilica">(Mykaul)</span></p></figcaption>
+</figure>
 </section>
 <section id="section-56" class="slide level2"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg">
@@ -1667,10 +1683,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3b/Paolo
 <p>Francesco di Giorgio traduz a composição do arco triunfal para
 fachadas com janelas. A superfície contínua da parede começa a perder
 protagonismo para o ritmo das pilastras emparelhadas e das janelas.</p>
-<figure>
+<figure id="fig:cancelleria">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg/640px-Paolo_Monti_-_Servizio_fotografico_(Roma,_1979)_-_BEIC_6363891.jpg"
-id="fig:cancelleria"
 alt="Francesco di Giorgio Martini e Baccio Pontelli, palácio da Chancelaria, Roma, 1485–1513. Monti (Palazzo della Cancelleria. Servizio fotografico (Roma, 1979))" />
 <figcaption aria-hidden="true">Francesco di Giorgio Martini e Baccio
 Pontelli, palácio da Chancelaria, Roma, 1485–1513. <span
@@ -1684,10 +1699,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/1280px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:torlonia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg/640px-Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,_in_via_della_Conciliazione._-_panoramio.jpg"
-id="fig:torlonia"
 alt="Donato Bramante (atribuição), palácio Giraud–Torlonia, Roma, após 1500. Pelagalli" />
 <figcaption aria-hidden="true">Donato Bramante (atribuição), palácio
 Giraud–Torlonia, Roma, após 1500. <span class="citation"
@@ -1703,9 +1717,8 @@ data-background-image="https://www.integra.unb.br/s/tau6-051-caprini/preview"></
 <p>No palácio Caprini, Bramante opta por colunas acopladas à parede em
 vez de pilastras. Essa solução projeta sombras mais demarcadas sobre a
 parede, contribuindo para a desmaterializar.</p>
-<figure>
+<figure id="fig:caprini">
 <img data-src="https://www.integra.unb.br/s/tau6-051-caprini/preview"
-id="fig:caprini"
 alt="Donato Bramante, palácio Caprini dito “casa de Rafael”, Vaticano, 1501–1510" />
 <figcaption aria-hidden="true">Donato Bramante, palácio Caprini dito
 “casa de Rafael”, Vaticano, 1501–1510</figcaption>
@@ -1717,10 +1730,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Casa_Sancta_Lauretana.jpg/1280px-Casa_Sancta_Lauretana.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:loreto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Casa_Sancta_Lauretana.jpg/640px-Casa_Sancta_Lauretana.jpg"
-id="fig:loreto"
 alt="Donato Bramante, escrínio da Santa Casa, Loreto, 1509. Flavus e Zorro2212" />
 <figcaption aria-hidden="true">Donato Bramante, escrínio da Santa Casa,
 Loreto, 1509. <span class="citation"
@@ -1733,10 +1745,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Claustro_Pace_09.JPG/1280px-Claustro_Pace_09.JPG"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:claustro-pace-travee">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Claustro_Pace_09.JPG/640px-Claustro_Pace_09.JPG"
-id="fig:claustro-pace-travee"
 alt="Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500–1504. Cuesta (Español)" />
 <figcaption aria-hidden="true">Donato Bramante, claustro de Santa Maria
 della Pace, Roma, 1500–1504. <span class="citation"
@@ -1753,10 +1764,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Farnesina_Loggia_di_Psiche._11.jpg/1280px-Farnesina_Loggia_di_Psiche._11.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:farnesina-loggia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Farnesina_Loggia_di_Psiche._11.jpg/640px-Farnesina_Loggia_di_Psiche._11.jpg"
-id="fig:farnesina-loggia"
 alt="Rafael Sanzio, villa Farnesina, loggia, 1518. Cuesta (Español)" />
 <figcaption aria-hidden="true">Rafael Sanzio, villa Farnesina, loggia,
 1518. <span class="citation" data-cites="cuesta:2011roma">Cuesta
@@ -1769,10 +1779,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1280px-Chiostro_SM_della_Pace.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:claustro-pace-volume">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg"
-id="fig:claustro-pace-volume"
 alt="Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500–1504. Jastrow" />
 <figcaption aria-hidden="true">Donato Bramante, claustro de Santa Maria
 della Pace, Roma, 1500–1504. <span class="citation"
@@ -1786,10 +1795,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"></h2>
 <aside class="notes">
 <p>Observar a transição espacial.</p>
-<figure>
+<figure id="fig:atenas">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/990px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
-id="fig:atenas"
 alt="Rafael Sanzio, Escola de Atenas, afresco na stanza della Segnatura, palácio do Vaticano, 1509" />
 <figcaption aria-hidden="true">Rafael Sanzio, Escola de Atenas, afresco
 na stanza della Segnatura, palácio do Vaticano, 1509</figcaption>
@@ -1802,10 +1810,9 @@ data-background-image="https://www.integra.unb.br/s/tau6-051-madama-restit/previ
 data-background-image="https://www.integra.unb.br/s/tau6-051-madama-restit/preview"></h2>
 <aside class="notes">
 <p>Transições espaciais. Observar assimetria localizada.</p>
-<figure>
+<figure id="fig:madama-restit">
 <img
 data-src="https://www.integra.unb.br/s/tau6-051-madama-restit/preview"
-id="fig:madama-restit"
 alt="Rafael Sanzio, villa Madama, Roma, iniciada em 1518. Reconstituição do projeto inicial" />
 <figcaption aria-hidden="true">Rafael Sanzio, villa Madama, Roma,
 iniciada em 1518. Reconstituição do projeto inicial</figcaption>
@@ -1819,8 +1826,8 @@ iniciada em 1518. Reconstituição do projeto inicial</figcaption>
 contrário da sobreposição de níveis do Renascimento toscano, simples
 distinção entre pedestal (térreo e sobreloja) e elemento dominante
 (andar nobre e acréscimos).</p>
-<figure>
-<img data-src="" id="fig:maccarani"
+<figure id="fig:maccarani">
+<img data-src=""
 alt="Giulio Romano, palácio Maccarani, Roma, 1519–1520" />
 <figcaption aria-hidden="true">Giulio Romano, palácio Maccarani, Roma,
 1519–1520</figcaption>
@@ -1833,9 +1840,8 @@ data-background-image="https://www.integra.unb.br/s/tau6-051-tarugi/preview">
 data-background-image="https://www.integra.unb.br/s/tau6-051-tarugi/preview"></h2>
 <aside class="notes">
 <p>Ordem colossal como solução última de unificação da fachada.</p>
-<figure>
+<figure id="fig:tarugi-colossal">
 <img data-src="https://www.integra.unb.br/s/tau6-051-tarugi/preview"
-id="fig:tarugi-colossal"
 alt="Antonio da Sangallo, o velho (atribuição), palácio Nobili–Tarugi, Montepulciano, c. 1532" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o velho
 (atribuição), palácio Nobili–Tarugi, Montepulciano, c. 1532</figcaption>
@@ -1848,10 +1854,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d&#39;Antica_Zecca.jpg/1132px-Palazzo_d&#39;Antica_Zecca.jpg"></h2>
 <aside class="notes">
 <p>Mas isto é uma história para depois…</p>
-<figure>
+<figure id="fig:zecca">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Palazzo_d&#39;Antica_Zecca.jpg/849px-Palazzo_d&#39;Antica_Zecca.jpg"
-id="fig:zecca"
 alt="Antonio da Sangallo, o jovem, palazzo della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. Jensens" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o jovem, palazzo
 della Zecca vecchia (antiga casa da Moeda), Roma, c. 1530. <span
@@ -1867,10 +1872,10 @@ data-cites="jensens:2008palazzo">Jensens</span></figcaption>
 
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sagrestia-vecchia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_(Firenze,_1975)_-_BEIC_6348989.jpg"
-id="fig:sagrestia-vecchia" style="width:100.0%"
+style="width:100.0%"
 alt="Filippo Brunelleschi, sacristia Velha da igreja de San Lorenzo, Florença, 1420–1429. Monti (Basilica di San Lorenzo. Sacrestia Vecchia: interno con particolari architettonici e decorativi.)" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, sacristia Velha da
 igreja de San Lorenzo, Florença, 1420–1429. <span class="citation"
@@ -1879,10 +1884,10 @@ Sacrestia Vecchia: interno con particolari architettonici e
 decorativi.</em>)</span></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cesariano-in-antis">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-044-cesariano-121/preview"
-id="fig:cesariano-in-antis" style="width:100.0%"
+style="width:100.0%"
 alt="Cesare Cesariano, esquema de templo in antis da tradução do tratado Da arquitetura de Vitrúvio, 1521" />
 <figcaption aria-hidden="true">Cesare Cesariano, esquema de templo
 <em>in antis</em> da tradução do tratado <em>Da arquitetura</em> de
@@ -1896,10 +1901,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/Santa_felicita,_cappella_capponi_11.JPG"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:capponi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_felicita,_cappella_capponi_11.JPG/576px-Santa_felicita,_cappella_capponi_11.JPG"
-id="fig:capponi"
 alt="Filippo Brunelleschi, capela Capponi, igreja de Santa Felicità, Florença, 1419. Sailko (Santa Felicità, cappella Capponi)" />
 <figcaption aria-hidden="true">Filippo Brunelleschi, capela Capponi,
 igreja de Santa Felicità, Florença, 1419. <span class="citation"
@@ -1913,10 +1917,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/1280px-Chiesa_delle_carceri,_int.,_01.JPG"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:carceri-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiesa_delle_carceri,_int.,_01.JPG/640px-Chiesa_delle_carceri,_int.,_01.JPG"
-id="fig:carceri-int"
 alt="Giuliano da Sangallo, igreja de Santa Maria delle Carceri, Prato, 1485. Sailko (Santa Maria delle Carceri, interno)" />
 <figcaption aria-hidden="true">Giuliano da Sangallo, igreja de Santa
 Maria delle Carceri, Prato, 1485. <span class="citation"
@@ -1930,10 +1933,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/1280px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:carceri-fregio">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg/640px-Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg"
-id="fig:carceri-fregio"
 alt="Andrea della Robbia, friso interior da igreja de Santa Maria delle Carceri, Prato, 1492–1495. Sailko (Santa Maria delle Carceri, interno, Fregio di Andrea della Robbia)" />
 <figcaption aria-hidden="true">Andrea della Robbia, friso interior da
 igreja de Santa Maria delle Carceri, Prato, 1492–1495. <span
@@ -1948,10 +1950,9 @@ data-background-image="https://www.integra.unb.br/s/tau0006-051-sspirsagr/previe
 <h2
 data-background-image="https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:santo-spirito-sagrestia">
 <img
 data-src="https://www.integra.unb.br/s/tau0006-051-sspirsagr/preview"
-id="fig:santo-spirito-sagrestia"
 alt="Giuliano da Sangallo e Simone del Pollaiolo, sacristia da igreja de Santo Spirito, Florença, 1489–1492. Crucifixo por Miguel Ângelo Buonarroti. Albino Todeschini" />
 <figcaption aria-hidden="true">Giuliano da Sangallo e Simone del
 Pollaiolo, sacristia da igreja de Santo Spirito, Florença, 1489–1492.
@@ -1964,10 +1965,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/1280px-Chiostro_SM_della_Pace.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:claustro-pace-lesene">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chiostro_SM_della_Pace.jpg/797px-Chiostro_SM_della_Pace.jpg"
-id="fig:claustro-pace-lesene"
 alt="Donato Bramante, claustro de Santa Maria della Pace, Roma, 1500–1504. Jastrow" />
 <figcaption aria-hidden="true">Donato Bramante, claustro de Santa Maria
 della Pace, Roma, 1500–1504. <span class="citation"
@@ -1981,8 +1981,8 @@ data-cites="jastrow:2006cloister">Jastrow</span></figcaption>
 <section id="section-73" class="slide level2" data-background-image="">
 <h2 data-background-image=""></h2>
 <aside class="notes">
-<figure>
-<img data-src="" id="fig:sandrea-outcorner"
+<figure id="fig:sandrea-outcorner">
+<img data-src=""
 alt="Leon Battista Alberti, igreja de Sant’Andrea, Mântua, iniciada em 1470" />
 <figcaption aria-hidden="true">Leon Battista Alberti, igreja de
 Sant’Andrea, Mântua, iniciada em 1470</figcaption>
@@ -1995,9 +1995,8 @@ data-background-image="https://www.integra.unb.br/s/tau6-051-ssatiro/preview">
 data-background-image="https://www.integra.unb.br/s/tau6-051-ssatiro/preview"></h2>
 <aside class="notes">
 <p>Trompe l’oeil</p>
-<figure>
+<figure id="fig:smaria-satiro">
 <img data-src="https://www.integra.unb.br/s/tau6-051-ssatiro/preview"
-id="fig:smaria-satiro"
 alt="Donato Bramante, igreja de Santa Maria presso San Satiro, Milão, 1485" />
 <figcaption aria-hidden="true">Donato Bramante, igreja de Santa Maria
 presso San Satiro, Milão, 1485</figcaption>
@@ -2009,10 +2008,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cupole_interne.jpg/1280px-Cupole_interne.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:consolazione-cupole">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cupole_interne.jpg/640px-Cupole_interne.jpg"
-id="fig:consolazione-cupole"
 alt="Cola da Caprarola e outros, capela de Santa Maria della Consolazione, Todi, iniciada em 1508. Puggioni" />
 <figcaption aria-hidden="true">Cola da Caprarola e outros, capela de
 Santa Maria della Consolazione, Todi, iniciada em 1508. <span
@@ -2027,10 +2025,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Maria_del_Popolo_Capella_Chigi.jpg/1280px-Santa_Maria_del_Popolo_Capella_Chigi.jpg"></h2>
 <aside class="notes">
 <p>Quinas reentrantes se tornam salientes com concavidade.</p>
-<figure>
+<figure id="fig:cap-chigi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Maria_del_Popolo_Capella_Chigi.jpg/640px-Santa_Maria_del_Popolo_Capella_Chigi.jpg"
-id="fig:cap-chigi"
 alt="Rafael Sanzio, capela Chigi, igreja de Santa Maria del Popolo, Roma, 1513. Peter1936F (Santa Maria del Popolo Capella Chigi)" />
 <figcaption aria-hidden="true">Rafael Sanzio, capela Chigi, igreja de
 Santa Maria del Popolo, Roma, 1513. <span class="citation"
@@ -2041,10 +2038,10 @@ Capella Chigi</em>)</span></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chigi-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Chigi_raphael_plan.jpg"
-id="fig:chigi-plan" alt="Rafael, planta da capela Chigi, c. 1512" />
+alt="Rafael, planta da capela Chigi, c. 1512" />
 <figcaption aria-hidden="true">Rafael, planta da capela Chigi,
 c. 1512</figcaption>
 </figure>
@@ -2053,8 +2050,8 @@ c. 1512</figcaption>
 data-background-image="https://mapio.net/images-p/9469284.jpg">
 <h2 data-background-image="https://mapio.net/images-p/9469284.jpg"></h2>
 <aside class="notes">
-<figure>
-<img data-src="https://mapio.net/images-p/9469284.jpg" id="fig:madama"
+<figure id="fig:madama">
+<img data-src="https://mapio.net/images-p/9469284.jpg"
 alt="Rafael Sanzio, villa Madama, Roma" />
 <figcaption aria-hidden="true">Rafael Sanzio, villa Madama,
 Roma</figcaption>
@@ -2066,10 +2063,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Montepulciano_-_Madonna_di_San_Biagio.JPG/1280px-Montepulciano_-_Madonna_di_San_Biagio.JPG"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:sbiagio-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Montepulciano_-_Madonna_di_San_Biagio.JPG/640px-Montepulciano_-_Madonna_di_San_Biagio.JPG"
-id="fig:sbiagio-ext"
 alt="Antonio da Sangallo, o velho, Madonna di San Biagio, Montepulciano, 1518. Renalias" />
 <figcaption aria-hidden="true">Antonio da Sangallo, o velho, Madonna di
 San Biagio, Montepulciano, 1518. <span class="citation"
@@ -2079,22 +2075,26 @@ data-cites="renalias:2003montepulciano">Renalias</span></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:sbiagio-int" class="subfigures columns">
+<figure id="fig:sbiagio-int" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sbiagio-intA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Character_of_Renaissance_Architecture_0108.jpg/737px-Character_of_Renaissance_Architecture_0108.jpg"
-id="fig:sbiagio-intA" />
+alt="vista" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:sbiagio-intB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Character_of_Renaissance_Architecture_0107.jpg/663px-Character_of_Renaissance_Architecture_0107.jpg"
-id="fig:sbiagio-intB" />
+alt="planta" />
+<figcaption></figcaption>
 </figure>
-</div><p>Antonio da Sangallo, o velho, Madonna di San Biagio,
-Montepulciano, 1518. a – vista, b – planta</p>
 </div>
+<figcaption><p>Antonio da Sangallo, o velho, Madonna di San Biagio,
+Montepulciano, 1518. a – vista, b – planta</p></figcaption>
+</figure>
 </section>
 <section id="arquitetura-sem-quinas" class="slide level2">
 <h2>Arquitetura sem quinas</h2>
@@ -2104,24 +2104,28 @@ Montepulciano, 1518. a – vista, b – planta</p>
 <aside class="notes">
 <p>Solução última para o problema das quinas é não ter quinas.</p>
 </aside>
-<div id="fig:tempietto" class="subfigures columns">
+<figure id="fig:tempietto" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:tempiettoA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tempietto-1.jpg/572px-Tempietto-1.jpg"
-id="fig:tempiettoA" />
+alt="elevação" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:tempiettoB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/San_Pietro_in_Montorio%3B_Tempietto_del_Bramante.jpg/576px-San_Pietro_in_Montorio%3B_Tempietto_del_Bramante.jpg"
-id="fig:tempiettoB" />
+alt="vista. Peter1936F (San Pietro in Montorio (Rom); Tempietto des Bramante)" />
+<figcaption></figcaption>
 </figure>
-</div><p>Donato Bramante, “Tempietto” (santuário de San Pietro in
+</div>
+<figcaption><p>Donato Bramante, “Tempietto” (santuário de San Pietro in
 Montorio), 1502–1504. a – elevação, b – vista. <span class="citation"
 data-cites="peter1936f:2016san">Peter1936F (<em>San Pietro in Montorio
-(Rom); Tempietto des Bramante</em>)</span></p>
-</div>
+(Rom); Tempietto des Bramante</em>)</span></p></figcaption>
+</figure>
 </section>
 <section id="conclusão" class="slide level2">
 <h2>Conclusão</h2>
@@ -2326,10 +2330,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1280px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:charleval-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1024px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg"
-id="fig:charleval-plan"
 alt="Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570" />
 <figcaption aria-hidden="true">Jacques Androuet Du Cerceau, castelo de
 Charleval, iniciado em 1570</figcaption>
@@ -2340,10 +2343,9 @@ Charleval, iniciado em 1570</figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"></h2>
-<figure>
+<figure id="fig:charleval-facade">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"
-id="fig:charleval-facade"
 alt="Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço" />
 <figcaption aria-hidden="true">Jacques Androuet Du Cerceau, castelo de
 Charleval, iniciado em 1570, fachada sobre o pátio de
@@ -2356,10 +2358,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1280px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:louvre-lescot-pp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1024px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg"
-id="fig:louvre-lescot-pp"
 alt="Pierre Lescot (arquitetura) e Jean Goujon (escultura), fachada sobre o pátio Quadrado do Louvre, 1546–1555" />
 <figcaption aria-hidden="true">Pierre Lescot (arquitetura) e Jean Goujon
 (escultura), fachada sobre o pátio Quadrado do Louvre,
@@ -2371,20 +2372,20 @@ alt="Pierre Lescot (arquitetura) e Jean Goujon (escultura), fachada sobre o pát
 <h2></h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:charleval-compare">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg"
-id="fig:charleval-compare" style="width:100.0%"
+style="width:100.0%"
 alt="Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. Moore" />
 <figcaption aria-hidden="true">Jacques Androuet Du Cerceau, castelo de
 Charleval, fachada sobre o pátio. <span class="citation"
 data-cites="moore:1905character">Moore</span></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:lescot-compare">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg"
-id="fig:lescot-compare" style="width:100.0%"
+style="width:100.0%"
 alt="Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. Moore" />
 <figcaption aria-hidden="true">Pierre Lescot, palácio do Louvre,
 desenhado por Jacques Androuet Du Cerceau. <span class="citation"
@@ -2398,10 +2399,9 @@ data-background-image="https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc
 <h2
 data-background-image="https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:valmarana-all">
 <img
 data-src="https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif"
-id="fig:valmarana-all"
 alt="Andrea Palladio, palazzo Valmarana, Vicenza, 1560" />
 <figcaption aria-hidden="true">Andrea Palladio, palazzo Valmarana,
 Vicenza, 1560</figcaption>
@@ -2412,20 +2412,20 @@ Vicenza, 1560</figcaption>
 <h2></h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:lescot-compare-valmarana">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Character_of_Renaissance_Architecture_0240.jpg/638px-Character_of_Renaissance_Architecture_0240.jpg"
-id="fig:lescot-compare-valmarana" style="width:100.0%"
+style="width:100.0%"
 alt="Pierre Lescot, palácio do Louvre, desenhado por Jacques Androuet Du Cerceau. Moore" />
 <figcaption aria-hidden="true">Pierre Lescot, palácio do Louvre,
 desenhado por Jacques Androuet Du Cerceau. <span class="citation"
 data-cites="moore:1905character">Moore</span></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:valmarana-compare-louvre">
 <img
 data-src="http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg"
-id="fig:valmarana-compare-louvre" style="width:100.0%"
+style="width:100.0%"
 alt="Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura" />
 <figcaption aria-hidden="true">Andrea Palladio, palácio Valmarana, dos
 Qatro livros da arquitetura</figcaption>
@@ -2437,20 +2437,20 @@ Qatro livros da arquitetura</figcaption>
 <h2></h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:charleval-compare-valmarana">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Character_of_Renaissance_Architecture_0254.jpg/681px-Character_of_Renaissance_Architecture_0254.jpg"
-id="fig:charleval-compare-valmarana" style="width:100.0%"
+style="width:100.0%"
 alt="Jacques Androuet Du Cerceau, castelo de Charleval, fachada sobre o pátio. Moore" />
 <figcaption aria-hidden="true">Jacques Androuet Du Cerceau, castelo de
 Charleval, fachada sobre o pátio. <span class="citation"
 data-cites="moore:1905character">Moore</span></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:valmarana-compare-charleval">
 <img
 data-src="http://blog.bestubbs.com/wp-content/uploads/2018/03/Palazzo-Valmarana-elevation-detail-e1520508239863-700x1075.jpg"
-id="fig:valmarana-compare-charleval" style="width:100.0%"
+style="width:100.0%"
 alt="Andrea Palladio, palácio Valmarana, dos Qatro livros da arquitetura" />
 <figcaption aria-hidden="true">Andrea Palladio, palácio Valmarana, dos
 Qatro livros da arquitetura</figcaption>
@@ -2463,10 +2463,10 @@ data-background-image="https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778
 <h2
 data-background-image="https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:sorbonne-plan">
 <img
 data-src="https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png"
-id="fig:sorbonne-plan" alt="Universidade de Paris (Sorbonne), planta" />
+alt="Universidade de Paris (Sorbonne), planta" />
 <figcaption aria-hidden="true">Universidade de Paris (Sorbonne),
 planta</figcaption>
 </figure>
@@ -2476,19 +2476,19 @@ planta</figcaption>
 <h2></h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sorbonne-rue">
 <img
 data-src="https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg"
-id="fig:sorbonne-rue" style="width:100.0%"
+style="width:100.0%"
 alt="Jacques Lemercier, capela da Sorbonne, fachada sobre a rua" />
 <figcaption aria-hidden="true">Jacques Lemercier, capela da Sorbonne,
 fachada sobre a rua</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sorbonne-cour">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg"
-id="fig:sorbonne-cour" style="width:100.0%"
+style="width:100.0%"
 alt="Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio" />
 <figcaption aria-hidden="true">Jacques Lemercier, capela da Sorbonne,
 fachada sobre o pátio</figcaption>
@@ -2501,10 +2501,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Grâce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Grâce_reductwk.JPG"></h2>
 <aside class="notes">
-<figure>
+<figure id="fig:valdegrace-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/P1010452_Paris_V_Val_de_Grâce_reductwk.JPG/1280px-P1010452_Paris_V_Val_de_Grâce_reductwk.JPG"
-id="fig:valdegrace-ext"
 alt="François Mansart, fachada da igreja da abadia do Val-de-Grâce, Paris, c. 1645–1667" />
 <figcaption aria-hidden="true">François Mansart, fachada da igreja da
 abadia do Val-de-Grâce, Paris, c. 1645–1667</figcaption>
@@ -2520,10 +2519,9 @@ data-background-size="contain">
 <h2 class="unlisted"
 data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:ordonnance">
 <img
 data-src="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg"
-id="fig:ordonnance"
 alt="Claude Perrault, ordenamento das cinco ordens de arquitetura, 1683" />
 <figcaption aria-hidden="true">Claude Perrault, ordenamento das cinco
 ordens de arquitetura, 1683</figcaption>
@@ -2533,63 +2531,55 @@ ordens de arquitetura, 1683</figcaption>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-aldrighetti:2014tempio" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-aldrighetti:2014tempio" class="csl-entry" role="listitem">
 Aldrighetti, Danile. <em>Tempio di Santa Maria della Consolazione</em>.
 Trabalho próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Vista_della_cupola.JPG">https://commons.wikimedia.org/wiki/File:Vista_della_cupola.JPG</a>.
 Acessado 28 de setembro de 2020.
 </div>
-<div id="ref-ching:2007architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-ching:2007architecture" class="csl-entry" role="listitem">
 Ching, Francis D. K. <em>Architecture: Form, Space, &amp; Order</em>. 3º
 ed, Wiley, 2007.
 </div>
-<div id="ref-cuesta:2011roma" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cuesta:2011roma" class="csl-entry" role="listitem">
 Cuesta, Miguel Hermoso. <em>Roma. Farnesina. Loggia di Psiche</em>.
 Opera propria, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Farnesina_Loggia_di_Psiche._11.jpg?uselang=it">https://commons.wikimedia.org/wiki/File:Farnesina_Loggia_di_Psiche._11.jpg?uselang=it</a>.
 Acessado 7 de outubro de 2020.
 </div>
-<div id="ref-cuesta:2014roma" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cuesta:2014roma" class="csl-entry" role="listitem">
 ---. <em>Roma. Santa Maria della Pace. Claustro. 09</em>. Own work,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Claustro_Pace_09.JPG">https://commons.wikimedia.org/wiki/File:Claustro_Pace_09.JPG</a>.
 Acessado 7 de outubro de 2020.
 </div>
-<div id="ref-evans:1995projective" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-evans:1995projective" class="csl-entry" role="listitem">
 Evans, Robin. <em>The Projective Cast: Architecture and Its Three
 Geometries</em>. <span class="smallcaps">MIT</span> Press, 1995.
 </div>
-<div id="ref-flavus:2012santuario" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-flavus:2012santuario" class="csl-entry" role="listitem">
 Flavus, Rabanus, e Zorro2212. <em>Santuario della Santa Casa in Loreto -
 Casa Santa</em>. Questo file deriva da:  Santuario della Santa Casa in
 Loreto - Casa Santa.jpg:, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Casa_Sancta_Lauretana.jpg?uselang=it">https://commons.wikimedia.org/wiki/File:Casa_Sancta_Lauretana.jpg?uselang=it</a>.
 Acessado 7 de outubro de 2020.
 </div>
-<div id="ref-jastrow:2006cloister" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-jastrow:2006cloister" class="csl-entry" role="listitem">
 Jastrow. <em>Cloister of Santa Maria della Pace in Rome, designed by
 Bramante (1503)</em>. 2006. Own work, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Chiostro_SM_della_Pace.jpg">https://commons.wikimedia.org/wiki/File:Chiostro_SM_della_Pace.jpg</a>.
 </div>
-<div id="ref-jensens:2008palazzo" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-jensens:2008palazzo" class="csl-entry" role="listitem">
 Jensens. <em>Palazzo d’Antica Zecca, Largo Ottavio Tassoni, Rome. A
 sinistra, via dei Banchi nuovi.</em> 6 de julho de 2008. Own work,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Palazzo_d%27Antica_Zecca.jpg">https://commons.wikimedia.org/wiki/File:Palazzo_d%27Antica_Zecca.jpg</a>.
 </div>
-<div id="ref-krier:1988architectural" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-krier:1988architectural" class="csl-entry" role="listitem">
 Krier, Rob. <em>Architectural Composition</em>. Rizzoli, 1988.
 </div>
-<div id="ref-monti:1975basilica" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-monti:1975basilica" class="csl-entry" role="listitem">
 Monti, Paolo. <em>Basilica di San Lorenzo. Sacrestia Vecchia: interno
 con particolari architettonici e decorativi.</em> Strisce: 4, Fotogrammi
 complessivi: 19, 1975. Servizio fotografico (Firenze, 1975). Biblioteca
@@ -2597,63 +2587,55 @@ Europeia de Informação e Cultura, BEIC 6348989, <em>Wikimedia
 Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico(Firenze,1975)-_BEIC_6348989.jpg">https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico(Firenze,1975)-_BEIC_6348989.jpg</a>.
 </div>
-<div id="ref-monti:1979palazzo" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-monti:1979palazzo" class="csl-entry" role="listitem">
 ---. <em>Palazzo della Cancelleria. Servizio fotografico (Roma,
 1979)</em>. Positivo b/n, gelatina bromuro d’argento/ carta, 1979.
 Biblioteca Europea di Informazione e Cultura, BEIC 6363891,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico(Roma,1979)-_BEIC_6363891.jpg">https://commons.wikimedia.org/wiki/File:Paolo_Monti_-Servizio_fotografico(Roma,1979)-_BEIC_6363891.jpg</a>.
 </div>
-<div id="ref-moore:1905character" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-moore:1905character" class="csl-entry" role="listitem">
 Moore, Charles Herbert. <em>Character of renaissance architecture</em>.
 New York, London : The Macmillan Company, 1905. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/characterofrenai00mooriala">http://archive.org/details/characterofrenai00mooriala</a>.
 </div>
-<div id="ref-mykaul:2007basilica" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-mykaul:2007basilica" class="csl-entry" role="listitem">
 Mykaul. <em>Basilica of St. Andrea, Mantova</em>. photo, 25 de agosto de
 2007. <em>Flickr</em>, <a
 href="https://www.flickr.com/photos/mykaul/1336317266/">https://www.flickr.com/photos/mykaul/1336317266/</a>.
 </div>
-<div id="ref-mykaul:2007light" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mykaul:2007light" class="csl-entry" role="listitem">
 mykaul. <em>Light beams in St. Andrea, Mantova</em>. photo, 25 de agosto
 de 2007. <em>Flickr</em>, <a
 href="https://www.flickr.com/photos/mykaul/1335531115/">https://www.flickr.com/photos/mykaul/1335531115/</a>.
 </div>
-<div id="ref-pazzaglia:2013tempio" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-pazzaglia:2013tempio" class="csl-entry" role="listitem">
 Pazzaglia, Giovanni. <em>Tempio di Santa Maria della Consolazione</em>.
 Trabalho próprio pelo carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Consolazione_interno.jpg">https://commons.wikimedia.org/wiki/File:Consolazione_interno.jpg</a>.
 Acessado 28 de setembro de 2020.
 </div>
-<div id="ref-pelagalli:2010roma" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-pelagalli:2010roma" class="csl-entry" role="listitem">
 Pelagalli, Carlo. <em>Roma, Città del Vaticano: Palazzo Giraud-Torlonia,
 in via della Conciliazione.</em> 1º de novembro de 2010.
 https://web.archive.org/web/20161017164449/http://www.panoramio.com/photo/43056567,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,in_via_della_Conciliazione.-_panoramio.jpg">https://commons.wikimedia.org/wiki/File:Roma,_Citt%C3%A0_del_Vaticano,_Palazzo_Giraud-Torlonia,in_via_della_Conciliazione.-_panoramio.jpg</a>.
 </div>
-<div id="ref-peter1936f:2016san" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-peter1936f:2016san" class="csl-entry" role="listitem">
 Peter1936F. <em>San Pietro in Montorio (Rom); Tempietto des
 Bramante</em>. Own work, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:San_Pietro_in_Montorio;_Tempietto_del_Bramante.jpg">https://commons.wikimedia.org/wiki/File:San_Pietro_in_Montorio;_Tempietto_del_Bramante.jpg</a>.
 Acessado 7 de outubro de 2020.
 </div>
-<div id="ref-peter1936f:2014santa" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-peter1936f:2014santa" class="csl-entry" role="listitem">
 ---. <em>Santa Maria del Popolo Capella Chigi</em>. Own work,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi.jpg">https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Popolo_Capella_Chigi.jpg</a>.
 Acessado 7 de outubro de 2020.
 </div>
-<div id="ref-puggioni:2014santa" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-puggioni:2014santa" class="csl-entry" role="listitem">
 Puggioni, Rossella. <em>Santa Maria della Consolazione, cupole
 interne</em>. Trabalho próprio pelo carregador, <em>Wikimedia
 Commons</em>, <a
@@ -2661,13 +2643,12 @@ href="https://commons.wikimedia.org/wiki/File:Cupole_interne.jpg">https://common
 Acessado 4 de outubro de 2020.
 </div>
 <div id="ref-renalias:2003montepulciano" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Renalias, Josep. <em>Montepulciano - Madonna di San Biagio</em>. 22 de
 julho de 2003. Own work, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Montepulciano_-_Madonna_di_San_Biagio.JPG">https://commons.wikimedia.org/wiki/File:Montepulciano_-_Madonna_di_San_Biagio.JPG</a>.
 </div>
-<div id="ref-rocchi:1884chiesa" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rocchi:1884chiesa" class="csl-entry" role="listitem">
 Rocchi, V. <em>Chiesa di S. M. delle Carceri. Prato (Toscana). Opera di
 Giuliano da S. Gallo (sec. XVI). Alzato e pianta</em>. Ricordi di
 architettura : raccolti autografati e pubblicati da una società di
@@ -2676,34 +2657,32 @@ href="http://magteca-fi-ese.inera.it/unifi/opaclib?db=solr_unifi&amp;rpnquery=%4
 Università degli Studi di Firenze-Biblioteca di Scienze tecnologiche,
 TO00193721_1_1884_7_1-12_sp034.
 </div>
-<div id="ref-sailko:2008santa" class="csl-entry" role="doc-biblioentry">
+<div id="ref-sailko:2008santa" class="csl-entry" role="listitem">
 Sailko. <em>Santa Felicità, cappella Capponi</em>. Self-photographed,
 <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Santa_felicita,_cappella_capponi_11.JPG">https://commons.wikimedia.org/wiki/File:Santa_felicita,_cappella_capponi_11.JPG</a>.
 Acessado 4 de outubro de 2020.
 </div>
-<div id="ref-sailko:2013santa" class="csl-entry" role="doc-biblioentry">
+<div id="ref-sailko:2013santa" class="csl-entry" role="listitem">
 ---. <em>Santa Maria delle Carceri, interno</em>. Trabalho próprio pelo
 carregador, <em>Wikimedia Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Chiesa_delle_carceri,_int.,_01.JPG">https://commons.wikimedia.org/wiki/File:Chiesa_delle_carceri,_int.,_01.JPG</a>.
 Acessado 4 de outubro de 2020.
 </div>
-<div id="ref-sailko:2017santa" class="csl-entry" role="doc-biblioentry">
+<div id="ref-sailko:2017santa" class="csl-entry" role="listitem">
 ---. <em>Santa Maria delle Carceri, interno, Fregio di Andrea della
 Robbia</em>. Trabalho próprio pelo carregador, <em>Wikimedia
 Commons</em>, <a
 href="https://commons.wikimedia.org/wiki/File:Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg">https://commons.wikimedia.org/wiki/File:Santa_maria_delle_carceri,_interno,_fregio_di_andrea_della_robbia,_1492-95,_09.jpg</a>.
 Acessado 4 de outubro de 2020.
 </div>
-<div id="ref-schumacher:1987palladio" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-schumacher:1987palladio" class="csl-entry" role="listitem">
 Schumacher, Thomas L. <span>“The Palladio Variations, on Reconciling
 Convention, Parti, and Space”</span>. <em>Cornell Journal of
 Architecture</em>, vol. 3, Outono de 1987, p. 12–29, <a
 href="http://issuu.com/cornelljournal/docs/cja003-optimized/17">http://issuu.com/cornelljournal/docs/cja003-optimized/17</a>.
 </div>
-<div id="ref-scott:1914architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-scott:1914architecture" class="csl-entry" role="listitem">
 Scott, Geoffrey. <em>The Architecture of Humanism; a Study in the
 History of Taste</em>. Houghton Mifflin, 1914. <em>Internet
 Archive</em>, <a

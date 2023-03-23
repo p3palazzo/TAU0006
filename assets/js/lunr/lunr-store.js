@@ -89,18 +89,6 @@ var store = [{
         "url": "/TAU0006/plano/analise-urbana/",
         "teaser": null
       },{
-        "title": "Apresentação e acolhimento",
-        "excerpt":"Boas-vindas Esta é a Turma C da disciplina História da Arquitetura e da Arte II. Vamos acompanhar vocês num percurso que vai do século XV ao XVIII. Começamos falando um pouco sobre como a disciplina vai ser desenvolvida este semestre — se você está com dúvidas sobre o funcionamento das...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/plano/intro/",
-        "teaser": null
-      },{
-        "title": "Sobre a disciplina",
-        "excerpt":"TAU 0006 dá sequência ao conteúdo de história da arquitetura em ordem cronológica e visando a atingir uma perspectiva mundial. O fundamento da cadeia de disciplinas de Teoria e História da Arquitetura e do Urbanismo, incluindo Estética e História das Artes, é subsidiar, por meio do conhecimento de repertórios formais e...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/plano/sobre-disciplina/",
-        "teaser": null
-      },{
         "title": "Avaliação",
         "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
         "tags": [],
@@ -117,6 +105,18 @@ var store = [{
         "excerpt":"Como é feito o controle de frequência? A UnB considera oficialmente esta disciplina como sendo “presencial”, portanto temos que controlar a “frequência” ao longo do semestre. Assim, você deve se fazer “presente” em pelo menos 75 % da carga horária do semestre (45 de 60), participando ativa e produtivamente das discussões...","categories": [],
         "tags": [],
         "url": "/TAU0006/plano/faq/",
+        "teaser": null
+      },{
+        "title": "Apresentação e acolhimento",
+        "excerpt":"Boas-vindas Esta é a Turma C da disciplina História da Arquitetura e da Arte II. Vamos acompanhar vocês num percurso que vai do século XV ao XVIII. Começamos falando um pouco sobre como a disciplina vai ser desenvolvida este semestre — se você está com dúvidas sobre o funcionamento das...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/plano/intro/",
+        "teaser": null
+      },{
+        "title": "Sobre a disciplina",
+        "excerpt":"TAU 0006 dá sequência ao conteúdo de história da arquitetura em ordem cronológica e visando a atingir uma perspectiva mundial. O fundamento da cadeia de disciplinas de Teoria e História da Arquitetura e do Urbanismo, incluindo Estética e História das Artes, é subsidiar, por meio do conhecimento de repertórios formais e...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/plano/sobre-disciplina/",
         "teaser": null
       },{
         "title": "Metodologia e recursos de apoio",

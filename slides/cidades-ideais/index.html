@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -101,10 +106,9 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:wangcheng">
 <img
 data-src="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg"
-id="fig:wangcheng"
 alt="Wangcheng, Kaogongji, Zhouli, xilografia século IX a partir de um original do século V a.C. Reproduzido por Wang Weijen, 2010 (A)" />
 <figcaption aria-hidden="true">Wangcheng, Kaogongji, <em>Zhouli</em>,
 xilografia século IX a partir de um original do século V a.C.
@@ -153,10 +157,10 @@ de raio (fig. 2) — o que dá 10 minutos a pé, ou o raio de ação que hoje
 se considera ideal para atividades principais, como acesso ao local de
 trabalho ou ao comércio regional.</p>
 </aside>
-<figure>
+<figure id="fig:zh-modulos">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png"
-id="fig:zh-modulos" class="line"
+class="line"
 alt="Módulos urbanísticos da cidade ideal chinesa. Reproduzido em Wang Weijen, 2010 (B)" />
 <figcaption aria-hidden="true">Módulos urbanísticos da cidade ideal
 chinesa. Reproduzido em <a
@@ -170,10 +174,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang&#39;an_Tang_schema.svg/762px-Chang&#39;an_Tang_schema.svg.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:changan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang&#39;an_Tang_schema.svg/762px-Chang&#39;an_Tang_schema.svg.png"
-id="fig:changan"
 alt="Plano urbanístico de Chang’an durante a dinastia Tang. Desenho por Zunkir, 2016" />
 <figcaption aria-hidden="true">Plano urbanístico de Chang’an durante a
 dinastia Tang. Desenho por <a
@@ -208,10 +211,9 @@ imperador Yongle manda restaurar as muralhas e o centro administrativo
 de Pequim (fig. 4) — a antiga capital dos mongóis e uma posição
 estratégica na defesa da fronteira norte da China.</p>
 </aside>
-<figure>
+<figure id="fig:palace-city-scroll">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg"
-id="fig:palace-city-scroll"
 alt="Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © The Trustees of the British Museum" />
 <figcaption aria-hidden="true">Zhu Bang, retrato de um administrador na
 frente da cidade proibida de Pequim, entre 1522 e 1566. © <a
@@ -225,10 +227,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:pequim-planos">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png"
-id="fig:pequim-planos" class="line"
+class="line"
 alt="Perímetros sucessivos de Pequim. Reproduzido em Wang Weijen, 2010 (A)" />
 <figcaption aria-hidden="true">Perímetros sucessivos de Pequim.
 Reproduzido em <a
@@ -252,10 +254,9 @@ organizado segundo a <em>wangcheng</em>. O novo perímetro ocupa um
 terreno de defesa mais fácil, mas também responde à redução na população
 da cidade (fig. 6).</p>
 </aside>
-<figure>
+<figure id="fig:beijing">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg"
-id="fig:beijing"
 alt="Pequim. Mapa oficial produzido entre 1861 e 1890" />
 <figcaption aria-hidden="true">Pequim. <a
 href="https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg">Mapa
@@ -268,10 +269,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:beijing-module">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png"
-id="fig:beijing-module"
 alt="Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019" />
 <figcaption aria-hidden="true">Malha de 2 li × 1,5 li estruturando o
 traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt,
@@ -296,10 +296,9 @@ principalmente para oeste e para o sul, no terreno mais plano, ao longo
 dos rios e das principais estradas que ligam a capital ao restante do
 império.</p>
 </aside>
-<figure>
+<figure id="fig:buache">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg"
-id="fig:buache"
 alt="Expansão do tecido urbano de Pequim no século XVI. Planta por Philippe Buache, 1752" />
 <figcaption aria-hidden="true">Expansão do tecido urbano de Pequim no
 século <span class="smallcaps">XVI</span>. Planta por <a
@@ -312,10 +311,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg"></h2>
 <!--_-->
-<figure>
+<figure id="fig:peking1914">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg"
-id="fig:peking1914"
 alt="Tecido urbano consolidado de Pequim. Mapa publicado em 1914" />
 <figcaption aria-hidden="true">Tecido urbano consolidado de Pequim. <a
 href="https://commons.wikimedia.org/wiki/File:Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg">Mapa
@@ -329,10 +327,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:zh-malha">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg"
-id="fig:zh-malha" alt="Parcelamento urbano na malha regular" />
+alt="Parcelamento urbano na malha regular" />
 <figcaption aria-hidden="true">Parcelamento urbano na malha
 regular</figcaption>
 </figure>
@@ -343,10 +341,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/sl
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:hangzhou">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg"
-id="fig:hangzhou" class="line"
+class="line"
 alt="Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em Wang Weijen, 2010 (C)" />
 <figcaption aria-hidden="true">Sucessão do parcelamento urbanístico em
 quarteirões regulares, cidade de Suzhou. Reproduzido em <a
@@ -380,10 +378,9 @@ postos sob a tutela do estado. O tabelamento de preços diz respeito,
 sobretudo, à estrutura dos impostos, cobrados via de regra <em>in
 natura</em>.</p>
 </aside>
-<figure>
+<figure id="fig:tang-shi">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg"
-id="fig:tang-shi"
 alt="Mercado murado na dinastia Tang. Reproduzido em Wang Weijen, 2010 (B)" />
 <figcaption aria-hidden="true">Mercado murado na dinastia Tang.
 Reproduzido em <a
@@ -397,10 +394,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:mercado-parcelamento">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png"
-id="fig:mercado-parcelamento"
 alt="Parcelamento urbano decorrente do espaço de mercado" />
 <figcaption aria-hidden="true">Parcelamento urbano decorrente do espaço
 de mercado</figcaption>
@@ -430,10 +426,9 @@ dessas avenidas em vários pontos e deformando o seu alinhamento
 (fig. 14).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:song-shi">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png"
-id="fig:song-shi"
 alt="Planta esquemática de mercado na dinastia Song. Reproduzido em Wang Weijen, 2010 (C)" />
 <figcaption aria-hidden="true">Planta esquemática de mercado na dinastia
 Song. Reproduzido em <a
@@ -457,10 +452,9 @@ aberturas na malha viária cada vez mais adensada têm um caráter
 essencialmente prático, visando a desafogar a circulação de pessoas e
 veículos em pontos estratégicos.</p>
 </aside>
-<figure>
+<figure id="fig:qingming">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg"
-id="fig:qingming"
 alt="Ao longo do rio no festival Qingming, imitação de Suzhou, século XVI" />
 <figcaption aria-hidden="true">Ao longo do rio no festival Qingming,
 imitação de Suzhou, século <span
@@ -502,10 +496,9 @@ retângulo alongado, delimitado por colunatas, com o templo principal da
 cidade numa das cabeceiras, e os edifícios da administração municipal
 geralmente ocupando a outra extremidade.</p>
 </aside>
-<figure>
+<figure id="fig:pompei">
 <img
 data-src="https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg"
-id="fig:pompei"
 alt="Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Fórum de Pompeia em 79 d.C. Desenho de
 Jean-Claude Golvin</figcaption>
@@ -517,10 +510,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"></h2>
 <!--_-->
 <div class="full">
-<figure>
+<figure id="fig:buongoverno">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"
-id="fig:buongoverno"
 alt="Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena" />
 <figcaption aria-hidden="true">Ambrogio Lorenzetti. Alegoria dos efeitos
 do bom governo sobre a cidade. Palácio público, Siena</figcaption>
@@ -550,10 +542,9 @@ se resolve numa sucessão de praças conectadas entre si. A forma urbana
 ideal, desse ponto de vista, não é necessariamente uma geometria
 impecavelmente regular, mas si uma hierarquia espacial clara.</p>
 </aside>
-<figure>
+<figure id="fig:siena">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png"
-id="fig:siena"
 alt="Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818" />
 <figcaption aria-hidden="true">Francesco Nenci, Piazza del campo, Siena,
 no Pálio de 1818</figcaption>
@@ -565,10 +556,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:todi">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png"
-id="fig:todi"
 alt="Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974" />
 <figcaption aria-hidden="true">Piazza del Popolo, Todi. Desenho de
 Edmund Bacon, 1974</figcaption>
@@ -597,10 +587,10 @@ pitorescos, com campos visuais claramente delimitados. Esse controle dos
 pontos de vista possíveis numa praça europeia poderia ser uma das
 origens da perspectiva linear na pintura do Renascimento?</p>
 </aside>
-<figure>
+<figure id="fig:modena">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/vallardi-modena-scaled.jpg"
-id="fig:modena" alt="Módena, planta Vallardi de 1870" />
+alt="Módena, planta Vallardi de 1870" />
 <figcaption aria-hidden="true">Módena, planta Vallardi de
 1870</figcaption>
 </figure>
@@ -610,10 +600,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg"></h2>
 <!--_,-->
-<figure>
+<figure id="fig:bellotto-signoria">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg"
-id="fig:bellotto-signoria"
 alt="Bernardo Bellotto, piazza della Signoria, Florença, 1740" />
 <figcaption aria-hidden="true">Bernardo Bellotto, piazza della Signoria,
 Florença, 1740</figcaption>
@@ -628,10 +617,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg"></h2>
 <!--_-->
-<figure>
+<figure id="fig:zocchi-signoria">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg"
-id="fig:zocchi-signoria"
 alt="Giuseppe Zocchi, piazza della Signoria, Florença, 1750" />
 <figcaption aria-hidden="true">Giuseppe Zocchi, piazza della Signoria,
 Florença, 1750</figcaption>
@@ -647,10 +635,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg"></h2>
 <!--_,-->
 <div class="full">
-<figure>
+<figure id="fig:urbino">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg"
-id="fig:urbino" alt="Cidade ideal. Tábua de Urbino, década de 1480" />
+alt="Cidade ideal. Tábua de Urbino, década de 1480" />
 <figcaption aria-hidden="true">Cidade ideal. Tábua de Urbino, década de
 1480</figcaption>
 </figure>
@@ -682,10 +670,9 @@ disposição desses edifícios, auxiliado pela regularidade na paginação do
 piso sempre pavimentado.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:carnevale">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
-id="fig:carnevale"
 alt="Giuliano da Sangallo (atribuição). Cidade ideal, c. 1480–84, dita Tábua de Baltimore" />
 <figcaption aria-hidden="true">Giuliano da Sangallo (atribuição).
 <em>Cidade ideal</em>, c. 1480–84, dita <a
@@ -699,10 +686,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:berlin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"
-id="fig:berlin"
 alt="Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495" />
 <figcaption aria-hidden="true">Perspectiva arquitetônica com porto.
 Tábua de Berlim, c. 1495</figcaption>
@@ -740,10 +726,9 @@ gradiente contínuo do projeto da casa para o projeto da cidade, ela
 estabelece que a forma do espaço urbano vem primeiro, domina e determina
 a forma da edificação.</p>
 </aside>
-<figure>
+<figure id="fig:pienza-vista">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG"
-id="fig:pienza-vista"
 alt="Bernardo Rossellino. Praça Pio II, Pienza. Vista" />
 <figcaption aria-hidden="true">Bernardo Rossellino. Praça Pio II,
 Pienza. Vista</figcaption>
@@ -764,6 +749,7 @@ dissemos aqui, lembrem-se desta:</p>
 </aside>
 <div class="fragment">
 <h3 id="a-praça-é">A praça é</h3>
+<p>. . .</p>
 <h3 id="u-m-a-s-a-l-a-a-o-a-r-l-i-v-r-e.">U M A   S A L A   A O   A R  
 L I V R E.</h3>
 </div>
@@ -777,11 +763,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/pi
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:pienza-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png"
-id="fig:pienza-plan" class="line"
-alt="Bernardo Rossellino. Praça Pio II, Pienza. Planta" />
+class="line" alt="Bernardo Rossellino. Praça Pio II, Pienza. Planta" />
 <figcaption aria-hidden="true">Bernardo Rossellino. Praça Pio II,
 Pienza. Planta</figcaption>
 </figure>
@@ -812,10 +797,9 @@ romano, todos os edifícios — mesmo os mais importantes, como a catedral
 — se submetem à forma do espaço.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:vigevano">
 <img
 data-src="https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg"
-id="fig:vigevano"
 alt="Praça ducal, Vigevano. Foto: Leonardo d’Amico, 2008" />
 <figcaption aria-hidden="true">Praça ducal, Vigevano. Foto: <a
 href="https://www.flickr.com/photos/leon_77/2255215235/">Leonardo
@@ -826,22 +810,22 @@ d’Amico, 2008</a></figcaption>
 <section id="section-31" class="slide level2" data-background-video=""
 data-background-video-muted="true">
 <h2 data-background-video="" data-background-video-muted="true"></h2>
-<div id="fig:vigevano-veduta" class="subfigures iframe-wrapper">
+<figure id="fig:vigevano-veduta" class="subfigures iframe-wrapper">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tJWagMHxBYw?start=432" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Vistas de Vigevano, incluindo a praça Ducal. Filmagem: <a
-href="https://youtu.be/tJWagMHxBYw?t=432">Massimo Nalli, 2021</a>. </p>
-</div>
+<figcaption><p>Vistas de Vigevano, incluindo a praça Ducal. Filmagem: <a
+href="https://youtu.be/tJWagMHxBYw?t=432">Massimo Nalli, 2021</a>.
+</p></figcaption>
+</figure>
 </section>
 <section id="section-32" class="slide level2"
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:vigevano-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png"
-id="fig:vigevano-plan"
 alt="Praça ducal, Vigevano, reformulada 1492–1494. (1) – Catedral, (2) – rua Carlo Alberto, (3) – estátuas, (4) – castelo dos Sforza" />
 <figcaption aria-hidden="true">Praça ducal, Vigevano, reformulada
 1492–1494. (1) – Catedral, (2) – rua Carlo Alberto, (3) – estátuas, (4)
@@ -853,10 +837,9 @@ alt="Praça ducal, Vigevano, reformulada 1492–1494. (1) – Catedral, (2) – 
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"></h2>
-<figure>
+<figure id="fig:vigevano-duomo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"
-id="fig:vigevano-duomo"
 alt="Praça ducal, Vigevano, vista para a catedral. Foto: Alien66, 2012" />
 <figcaption aria-hidden="true">Praça ducal, Vigevano, vista para a
 catedral. Foto: <a
@@ -873,10 +856,9 @@ suficiente.</p>
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg"></h2>
-<figure>
+<figure id="fig:vigevano-monti">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg"
-id="fig:vigevano-monti"
 alt="Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980" />
 <figcaption aria-hidden="true">Praça ducal, Vigevano, vista desde a
 catedral. Foto por Paolo Monti, 1980</figcaption>
@@ -887,10 +869,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:annunziata">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"
-id="fig:annunziata"
 alt="Praça SS. Annunziata, Florença. Foto: Gryffindor, 2008" />
 <figcaption aria-hidden="true">Praça SS. Annunziata, Florença. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg">Gryffindor,
@@ -915,10 +896,10 @@ homem”: a condição para um desenho urbano ser coerente e completo é que
 cada intervenção sucessiva acompanhe e fortaleça as realizações
 anteriores (fig. 34).</p>
 </aside>
-<figure>
+<figure id="fig:annunziata-bacon">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-bacon-piazza-ss-annunziata7.png"
-id="fig:annunziata-bacon" class="line"
+class="line"
 alt="Piazza SS. Annunziata. Esquema de desenvolvimento, séculos XV–XVII. Bacon, 1974. (A) – Spedale degli Innocenti por Brunelleschi, 1419–27, (B) – igreja da SS. Annunziata, claustro por Michelozzo di Bartolomeo, 1454, (C) – pórtico por Antonio da Sangallo e Baccio d’Agnolo, concluído em 1629" />
 <figcaption aria-hidden="true">Piazza SS. Annunziata. Esquema de
 desenvolvimento, séculos <span class="smallcaps">XV–XVII</span>. Bacon,
@@ -991,10 +972,9 @@ Renascimento em Veneza é justamente esse: uma cidade sem espaço para
 realizar os projetos ideais que as suas editoras publicam, mas que se
 renova pouco a pouco com esse ideal no horizonte.</p>
 </aside>
-<figure>
+<figure id="fig:embaixadores">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg"
-id="fig:embaixadores"
 alt="Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre" />
 <figcaption aria-hidden="true">Anônimo veneziano, discípulo de Gentile
 Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do
@@ -1021,10 +1001,9 @@ maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:trudaine">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg"
-id="fig:trudaine"
 alt="Estrada real por Monthléry e Linas, departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745–80" />
 <figcaption aria-hidden="true"><a
 href="http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&amp;FIELD_2=Cote&amp;VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&amp;NUMBER=4&amp;GRP=0&amp;REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&amp;USRNAME=nobody&amp;USRPWD=4%24%2534P&amp;SPEC=9&amp;SYN=1&amp;IMLY=&amp;MAX1=1&amp;MAX2=1&amp;MAX3=100&amp;DOM=All">Estrada
@@ -1051,10 +1030,9 @@ um caminho estruturante que domine a formação de um espaço urbano linear
 <em>campo</em> em Veneza. Observada essa diferença, o processo de
 crescimento e adensamento em Veneza segue o mesmo padrão.</p>
 </aside>
-<figure>
+<figure id="fig:combatti">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg"
-id="fig:combatti"
 alt="Bernardo e Gaetano Combatti, planta de Veneza, 1847" />
 <figcaption aria-hidden="true">Bernardo e Gaetano Combatti, <a
 href="https://gallica.bnf.fr/ark:/12148/btv1b53075148q">planta de
@@ -1077,10 +1055,9 @@ O conjunto urbano é hierarquizado segundo a importância simbólica dos
 diferentes espaços, mas os <em>campi</em> também refletem, num registro
 mais modesto, a dignidade cívica das grandes praças (figs. 38, 39).</p>
 </aside>
-<figure>
+<figure id="fig:canaletto1730">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg"
-id="fig:canaletto1730"
 alt="Canaletto, Praça de São Marcos com a Basílica, 1730" />
 <figcaption aria-hidden="true">Canaletto, Praça de São Marcos com a
 Basílica, 1730</figcaption>
@@ -1092,10 +1069,9 @@ data-transition="fade-in">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307.jpg"
 data-transition="fade-in"></h2>
-<figure>
+<figure id="fig:querena1878">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg"
-id="fig:querena1878"
 alt="Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878" />
 <figcaption aria-hidden="true">Luigi Querena, Campo di San Giovanni e
 Paolo com a scuola grande di San Marco, 1878</figcaption>
@@ -1113,10 +1089,9 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:caniggia">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png"
-id="fig:caniggia"
 alt="Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979" />
 <figcaption aria-hidden="true">Evolução dos tipos portantes na Itália
 segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979</figcaption>
@@ -1152,10 +1127,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:muratori-foto">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg"
-id="fig:muratori-foto" alt="Saverio Muratori (1910–1973)" />
+alt="Saverio Muratori (1910–1973)" />
 <figcaption aria-hidden="true">Saverio Muratori (1910–1973)</figcaption>
 </figure>
 </div>
@@ -1175,11 +1150,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:hauser-social">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg"
-id="fig:hauser-social" class="align-right"
-alt="Arnold Hauser. História social da arte" />
+class="align-right" alt="Arnold Hauser. História social da arte" />
 <figcaption aria-hidden="true">Arnold Hauser. <em>História social da
 arte</em></figcaption>
 </figure>
@@ -1211,38 +1185,38 @@ sua própria forma. <!--/Câmera--></p>
 <p>Originalmente, o <em>campo</em> era a horta, mercado e praça pública
 da comunidade. As primeiras casas são construídas no perímetro da ilha,
 deixando todo o interior livre para o <em>campo</em> e começando por
-estabelecer o traçado dos canais de Veneza (fig. 43 (a)). Só a igreja
-ocupa uma posição central na ilha.</p>
+estabelecer o traçado dos canais de Veneza
+(fig. <strong>¿fig:grisostomo1100?</strong>). Só a igreja ocupa uma
+posição central na ilha.</p>
 </aside>
 </section>
 <section id="section-49" class="slide level2">
 <h2></h2>
-<div id="fig:grisostomo" class="subfigures full third">
+<figure id="fig:grisostomo" class="full third">
 <div class="r-stack">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg"
-title="fig:" id="fig:grisostomo1100" class="fragment current-visible" />
+id="fig:grisostomo1100" class="fragment current-visible" alt="1100" />
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg"
-title="fig:" id="fig:grisostomo1200" class="fragment current-visible" />
+id="fig:grisostomo1200" class="fragment current-visible" alt="1200" />
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg"
-title="fig:" id="fig:grisostomo1350" class="fragment current-visible" />
+id="fig:grisostomo1350" class="fragment current-visible" alt="1350" />
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg"
-title="fig:" id="fig:grisostomo1450" class="fragment current-visible" />
+id="fig:grisostomo1450" class="fragment current-visible" alt="1450" />
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg"
-title="fig:" id="fig:grisostomo1500" class="fragment current-visible" />
+id="fig:grisostomo1500" class="fragment current-visible" alt="1500" />
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg"
-title="fig:" id="fig:grisostomo1840" class="fragment current-visible" />
+id="fig:grisostomo1840" class="fragment current-visible" alt="1840" />
 </div>
-<p>Campo S. Giovanni Grisostomo, Veneza. Reconstituição em diferentes
-datas pelos alunos do ateliê Saverio Muratori no Istituto Universitario
-di Architettura di Venezia, 1954–1959. a – 1100, b – 1200, c – 1350,
-d – 1450, e – 1500, f – 1840</p>
-</div>
+<figcaption><p>Campo S. Giovanni Grisostomo, Veneza. Reconstituição em
+diferentes datas pelos alunos do ateliê Saverio Muratori no Istituto
+Universitario di Architettura di Venezia, 1954–1959</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Ao mesmo tempo que se completa o perímetro da ilha, os edifícios
 começam a ser ampliados para os fundos, “consumindo” o espaço do
@@ -1252,23 +1226,25 @@ desenvolvimento de um novo tipo de morada nobre: o palácio com
 <em>portego</em>, um salão no primeiro andar que atravessa toda a
 profundidade do edifício de frente a fundos. O <em>portego</em> fornece
 iluminação e ventilação indiretas para várias salas no interior do
-edifício (fig. 43 (b)).</p>
+edifício (fig. <strong>¿fig:grisostomo1200?</strong>).</p>
 <p>O processo de adensamento é gradual, e nenhum agente tem poder
 econômico ou político suficiente para impor grandes transformações de
 uma só tacada. O resultado é um mosaico de propriedade fundiária onde
-palácios ficam lado a lado com prédios de aluguel (fig. 43 (c)).</p>
+palácios ficam lado a lado com prédios de aluguel
+(fig. <strong>¿fig:grisostomo1350?</strong>).</p>
 <p>As construções privadas tendem a ocupar a totalidade dos seus lotes;
 portanto, elas assumem no seu interior a irregularidade geométrica dos
 lotes. Para isso, pode-se usar as articulações do espaço construído com
-os pátios, ou mesmo espaços secundários dentro da edificação (fig. 43
-(d)).</p>
+os pátios, ou mesmo espaços secundários dentro da edificação
+(fig. <strong>¿fig:grisostomo1450?</strong>).</p>
 <p>A essa altura, o <em>campo</em> já foi pavimentado e tem o seu espaço
-muito reduzido e nitidamente delimitado (fig. 43 (e)). Todo o processo
-aconteceu por meio de transformações sucessivas onde cada passo preserva
-a coerência das etapas anteriores. Não existe um urbanismo
-exclusivamente representativo da “Veneza medieval” ou da “Veneza do
-Renascimento”: cada estágio na consolidação urbana evidencia o
-<em>conjunto</em> de períodos históricos acumulados até então.</p>
+muito reduzido e nitidamente delimitado
+(fig. <strong>¿fig:grisostomo1500?</strong>). Todo o processo aconteceu
+por meio de transformações sucessivas onde cada passo preserva a
+coerência das etapas anteriores. Não existe um urbanismo exclusivamente
+representativo da “Veneza medieval” ou da “Veneza do Renascimento”: cada
+estágio na consolidação urbana evidencia o <em>conjunto</em> de períodos
+históricos acumulados até então.</p>
 </aside>
 </section>
 <section id="urbanismo-como-palimpsesto" class="slide level2"
@@ -1294,10 +1270,9 @@ antigos.</p>
 renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.</p>
 </aside>
-<figure>
+<figure id="fig:canaletto-vigna">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)_009.jpg/1280px-Canaletto_(II)_009.jpg"
-id="fig:canaletto-vigna"
 alt="Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século XVIII" />
 <figcaption aria-hidden="true">Canaletto. Campo e igreja de S. Francesco
 della Vigna, segundo terço do século <span
@@ -1334,29 +1309,26 @@ Renascimento.</p>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-bacon:1974design" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-bacon:1974design" class="csl-entry" role="listitem">
 Bacon, Edmund N. <em>Design of Cities</em>. Rev. ed., Penguin, 1974.
 </div>
 <div id="ref-caniggia:1997metodologia" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Caniggia, Gianfranco. <span>“Metodologia del recupero: lo studio della
 tipologia processuale nell’indagine e nel piano”</span>. 1981.
 <em>Ragionamenti di tipologia: operatività della tipologia processuale
 in architettura</em>, Alinea, 1997, p. 9–46.
 </div>
-<div id="ref-caniggia:2008lettura" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-caniggia:2008lettura" class="csl-entry" role="listitem">
 Caniggia, Gianfranco, e Gian Luigi Maffei. <em>Lettura dell’edilizia di
 base</em>. 2º ed, Alinea, 2008.
 </div>
-<div id="ref-panerai:2006analise" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-panerai:2006analise" class="csl-entry" role="listitem">
 Panerai, Philippe. <em>Análise urbana</em>. Traduzido por Francisco
 Leitão, Editora UnB, 2006.
 </div>
-<div id="ref-steinhardt:2019chinese" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-steinhardt:2019chinese" class="csl-entry" role="listitem">
 Steinhardt, Nancy Shatzman. <em>Chinese Architecture: A History</em>.
 Princeton University Press, 2019.
 </div>

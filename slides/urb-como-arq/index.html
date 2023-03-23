@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -74,10 +79,9 @@ com a Armênia (Figs. 1, 2).</p>
 </aside>
 <div class="columns full">
 <div class="column" style="width:58%;">
-<figure>
+<figure id="fig:africa-900-1500">
 <img
 data-src="https://www.themaparchive.com/wp-content/uploads/2017/08/products-Ax00581.jpg"
-id="fig:africa-900-1500"
 alt="Estados Africanos até o século XVI. Fonte: The Map Archive" />
 <figcaption aria-hidden="true">Estados Africanos até o século <span
 class="smallcaps">XVI</span>. Fonte: <a
@@ -85,10 +89,9 @@ href="https://www.themaparchive.com/product/the-empires-of-africa-9001500/">The
 Map Archive</a></figcaption>
 </figure>
 </div><div class="column" style="width:42%;">
-<figure>
+<figure id="fig:gospel-manuscript">
 <img
 data-src="https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0004.jpg"
-id="fig:gospel-manuscript"
 alt="Padre na igreja de Giyorgis, Hawzen, com um manuscrito dos Evangelhos. Reproduzido por Kristen Windmuller-Luna, 2015" />
 <figcaption aria-hidden="true">Padre na igreja de Giyorgis, Hawzen, com
 um manuscrito dos Evangelhos. Reproduzido por <a
@@ -111,10 +114,10 @@ planalto estreito, porém fértil. Esse território é pressionado ao norte
 e a leste por estados muçulmanos apoiados pelo império Otomano
 (Fig. 3).</p>
 </aside>
-<figure>
+<figure id="fig:horn-1500">
 <img
 data-src="https://www.themaparchive.com/wp-content/uploads/2017/07/products-Ax00844.jpg"
-id="fig:horn-1500" class="outset"
+class="outset"
 alt="O chifre da África c. 1500. Fonte: The Map Archive" />
 <figcaption aria-hidden="true">O chifre da África c. 1500. Fonte: <a
 href="https://www.themaparchive.com/product/the-horn-of-africa-c-1500/">The
@@ -131,11 +134,10 @@ Etiópia uma oportunidade de abrir as tenazes da expansão islâmica
 uma frota portuguesa contra o sultanato de Adal, aliado do império
 Otomano.</p>
 </aside>
-<figure>
+<figure id="fig:africa-1600">
 <img
 data-src="https://www.themaparchive.com/wp-content/uploads/2017/09/products-Ax01581.jpg"
-id="fig:africa-1600" class="outset"
-alt="África em 1600. Fonte: The Map Archive" />
+class="outset" alt="África em 1600. Fonte: The Map Archive" />
 <figcaption aria-hidden="true">África em 1600. Fonte: <a
 href="https://themaparchive.com/product/africa-in-1600/">The Map
 Archive</a></figcaption>
@@ -158,19 +160,18 @@ ao qual pertence a família imperial).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:51%;">
-<figure>
+<figure id="fig:sosenyos-patriarca">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/29/Sosenyos_greets_Alfonso_Mendes.jpg"
-id="fig:sosenyos-patriarca" class="line"
+class="line"
 alt="Visita do patriarca católico Afonso Mendes ao imperador Sisínio I da Etiópia, 1626" />
 <figcaption aria-hidden="true">Visita do patriarca católico Afonso
 Mendes ao imperador Sisínio I da Etiópia, 1626</figcaption>
 </figure>
 </div><div class="column" style="width:49%;">
-<figure>
+<figure id="fig:windmueller-jesuit-map">
 <img
 data-src="https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0001.jpg"
-id="fig:windmueller-jesuit-map"
 alt="Missões jesuíticas na Etiópia, 1557–1632. Reproduzido por Kristen Windmuller-Luna, 2015" />
 <figcaption aria-hidden="true">Missões jesuíticas na Etiópia, 1557–1632.
 Reproduzido por <a
@@ -199,10 +200,10 @@ mais relevantes do ponto de vista urbanístico são o estabelecimento de
 várias missões jesuíticas (Fig. 7) e a construção de capitais
 fortificadas inspiradas nos castelos europeus.</p>
 </aside>
-<figure>
+<figure id="fig:patriarca">
 <img
 data-src="https://brill.com/view/journals/jjs/2/2/22141332_002_02_S004_i0003.jpg"
-id="fig:patriarca" class="outset"
+class="outset"
 alt="Ruínas da residência do Patriarca católico em Debsan, c. 1626–1627. Reproduzido por Kristen Windmuller-Luna, 2015" />
 <figcaption aria-hidden="true">Ruínas da residência do Patriarca
 católico em Debsan, c. 1626–1627. Reproduzido por <a
@@ -217,10 +218,10 @@ Windmuller-Luna, 2015</a></figcaption>
 reino de Aksum e ao palácio de Dungur, construído do século IV ao VI
 d.C. (Fig. 8).</p>
 </aside>
-<figure>
+<figure id="fig:dungur">
 <img
 data-src="https://wildfiregames.com/forum/uploads/monthly_2019_11/1685954434_DungurpalaceaxumaksumitereconstructionSchellinger_Sarah_M_201703_PhD_thesis2.jpg.a0482403739e92deeae5e2d3d30cc7a0.jpg"
-id="fig:dungur" class="outset"
+class="outset"
 alt="Reconstituição do palácio fortificado de Dungur, Aksum, séculos IV–VI d.C." />
 <figcaption aria-hidden="true">Reconstituição do palácio fortificado de
 Dungur, Aksum, séculos IV–VI d.C.</figcaption>
@@ -228,10 +229,10 @@ Dungur, Aksum, séculos IV–VI d.C.</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:dungur-plan">
 <img
 data-src="https://wildfiregames.com/forum/uploads/monthly_2019_11/580336680_Dungurpalaceplan.png.879c53d4a42da6763fd52acbfd1a5576.png"
-id="fig:dungur-plan" class="outset line"
+class="outset line"
 alt="Planta do palácio fortificado de Dungur, Aksum" />
 <figcaption aria-hidden="true">Planta do palácio fortificado de Dungur,
 Aksum</figcaption>
@@ -253,10 +254,10 @@ construção de palácios reais fortificados começa no reinado de Sisínio I
 arquitetura militar europeia e construída pelo padre jesuíta espanhol
 Pedro Páez de 1625 a 1628.</p>
 </aside>
-<figure>
+<figure id="fig:danqaz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/83/Danqaz4.jpg"
-id="fig:danqaz" class="outset"
+class="outset"
 alt="Palácio fortificado de Dänqaz, 1625–1628. Foto: Hgetnet (2010a)" />
 <figcaption aria-hidden="true">Palácio fortificado de Dänqaz, 1625–1628.
 Foto: <a
@@ -266,10 +267,10 @@ href="https://commons.wikimedia.org/wiki/File:Danqaz4.jpg">Hgetnet
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:danqaz-plan">
 <img
 data-src="https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus-etiopia-wg-17.jpg"
-id="fig:danqaz-plan" class="outset"
+class="outset"
 alt="Implantação do palácio fortificado de Dänqaz, 1625–1628. Metalocus (2016)" />
 <figcaption aria-hidden="true">Implantação do palácio fortificado de
 Dänqaz, 1625–1628. <a
@@ -289,10 +290,10 @@ sul, a missão jesuítica (Fig. 11).</p>
 salas retangulares em enfiadas, semelhante à tipologia das casas
 suaíle.</p>
 </aside>
-<figure>
+<figure id="fig:danqaz-palace-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/0b/DankazPalace.JPG"
-id="fig:danqaz-palace-plan" class="outset nobg"
+class="outset nobg"
 alt="Palácio de Dänqaz, planta por Hgetnet (2010b)" />
 <figcaption aria-hidden="true">Palácio de Dänqaz, planta por <a
 href="https://commons.wikimedia.org/wiki/File:DankazPalace.JPG">Hgetnet
@@ -301,10 +302,10 @@ href="https://commons.wikimedia.org/wiki/File:DankazPalace.JPG">Hgetnet
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:catedral-danqaz-wg">
 <img
 data-src="https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus-etiopia-wg-08.jpg"
-id="fig:catedral-danqaz-wg" class="outset"
+class="outset"
 alt="Catedral católica de Dänqaz. Foto: Metalocus (2016)" />
 <figcaption aria-hidden="true">Catedral católica de Dänqaz. Foto: <a
 href="https://www.metalocus.es/es/noticias/restauracion-del-palacio-del-emperador-susenyos-y-la-catedral-jesuita-de-danqaz">Metalocus
@@ -330,10 +331,10 @@ e continua a ser incrementado até o século <span
 class="smallcaps">XIX</span> (Fig. 14).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:gondar-persp-monti">
 <img
 data-src="https://i.pinimg.com/originals/1a/7d/9e/1a7d9e2e8f5a5e7c3491a1f8bf9eeee0.png"
-id="fig:gondar-persp-monti" class="line"
+class="line"
 alt="Complexo palaciano de Fasil Ghebbi, Gondar, iniciado em 1634. Reconstituição por Monti della Corte, 1938" />
 <figcaption aria-hidden="true">Complexo palaciano de Fasil Ghebbi,
 Gondar, iniciado em 1634. Reconstituição por <a
@@ -350,10 +351,10 @@ arquitetônicos trazidos pelos europeus. O seu palácio em Fasil Ghebbi
 (Fig. 15) tem torres de planta circular, ameias e um torreão à maneira
 portuguesa (Fig. 16).</p>
 </aside>
-<figure>
+<figure id="fig:fasil-castle">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg/960px-ET_Gondar_asv2018-02_img03_Fasil_Ghebbi.jpg"
-id="fig:fasil-castle" class="outset"
+class="outset"
 alt="Castelo de Fasílidas, Fasil Ghebbi, 1634. Foto: Savin (2018)" />
 <figcaption aria-hidden="true">Castelo de Fasílidas, Fasil Ghebbi, 1634.
 Foto: <a
@@ -363,10 +364,10 @@ href="https://en.wikipedia.org/wiki/File:ET_Gondar_asv2018-02_img03_Fasil_Ghebbi
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:fasil-zamani">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/3D_model_of_Fasilides_Castle.jpg/893px-3D_model_of_Fasilides_Castle.jpg"
-id="fig:fasil-zamani" class="outset"
+class="outset"
 alt="Modelo digital do palácio de Fasílidas por Zamani Project (2019)" />
 <figcaption aria-hidden="true">Modelo digital do palácio de Fasílidas
 por <a
@@ -384,10 +385,10 @@ conhecidas e usadas na região, mas se tornam mais monumentais e
 regulares graças ao novo material, como nos salões do próprio palácio de
 Fasílidas (Fig. 17).</p>
 </aside>
-<figure>
+<figure id="fig:fasil-salon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg/979px-Gondar,_cittadella,_palazzo_di_re_fasiladas,_interno_02.jpg"
-id="fig:fasil-salon" class="outset"
+class="outset"
 alt="Salão no palácio de Fasílidas, Fasil Ghebbi, 1634. Foto: Sailko (2018)" />
 <figcaption aria-hidden="true">Salão no palácio de Fasílidas, Fasil
 Ghebbi, 1634. Foto: <a
@@ -398,23 +399,28 @@ href="https://commons.wikimedia.org/wiki/File:Gondar,_cittadella,_palazzo_di_re_
 </section>
 <section class="slide level2">
 
-<div id="fig:gondar-davey" class="subfigures columns outset">
+<figure id="fig:gondar-davey" class="subfigures columns outset">
 <div class="column" style="width:50.7%;">
-<figure>
+<figure id="fig:gondar-daveyA">
 <img
 data-src="https://live.staticflickr.com/2074/2414819199_303b252528_c_d.jpg"
-id="fig:gondar-daveyA" />
+alt="exterior" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:49.3%;">
-<figure>
+</div>
+<div class="column" style="width:49.3%;">
+<figure id="fig:gondar-daveyB">
 <img
 data-src="https://live.staticflickr.com/2116/2415636310_edb484bee2_c_d.jpg"
-id="fig:gondar-daveyB" />
+alt="interior do palácio de Fasílidas" />
+<figcaption></figcaption>
 </figure>
-</div><p>Ruínas do Fasil Ghebbi, Gondar. Fotos: <a
-href="https://www.flickr.com/photos/adavey/albums/72157604457628784">Davey
-(2007)</a>. a – exterior, b – interior do palácio de Fasílidas</p>
 </div>
+<figcaption><p>Ruínas do Fasil Ghebbi, Gondar. Fotos: <a
+href="https://www.flickr.com/photos/adavey/albums/72157604457628784">Davey
+(2007)</a>. a – exterior, b – interior do palácio de
+Fasílidas</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -423,10 +429,10 @@ href="https://www.flickr.com/photos/adavey/albums/72157604457628784">Davey
 uso até hoje como espaços cerimoniais do palácio, especialmente no
 festival de Timkat, ou epifania (Fig. 20).</p>
 </aside>
-<figure>
+<figure id="fig:fasil-bath">
 <img
 data-src="https://live.staticflickr.com/7066/27120553206_f3d8c76a8d_c_d.jpg"
-id="fig:fasil-bath" class="outset"
+class="outset"
 alt="Espelho d’água e casa de banhos de Fasílidas, Fasil Ghebbi. Foto: Cotterill (2012)" />
 <figcaption aria-hidden="true">Espelho d’água e casa de banhos de
 Fasílidas, Fasil Ghebbi. Foto: <a
@@ -436,10 +442,10 @@ href="https://www.flickr.com/photos/cotterillmike/27120553206/">Cotterill
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:timkat">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fasilides_Bath_Timkat.JPG/1268px-Fasilides_Bath_Timkat.JPG"
-id="fig:timkat" class="outset"
+class="outset"
 alt="Espelho d’água e casa de banho de Fasílidas na festa da epifania. Foto: Dell (2011)" />
 <figcaption aria-hidden="true">Espelho d’água e casa de banho de
 Fasílidas na festa da epifania. Foto: <a
@@ -454,10 +460,10 @@ href="https://commons.wikimedia.org/wiki/File:Fasilides_Bath_Timkat.JPG">Dell
 construção de uma chancelaria (edifício administrativo) e uma biblioteca
 (Fig. 21).</p>
 </aside>
-<figure>
+<figure id="fig:chancery-library">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Library_and_Chancellery_of_Yohannes_I.jpg/1024px-Library_and_Chancellery_of_Yohannes_I.jpg"
-id="fig:chancery-library" class="outset"
+class="outset"
 alt="Chancelaria e biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. Foto: Gagnon (2012a)" />
 <figcaption aria-hidden="true">Chancelaria e biblioteca de Yohannes I,
 Fasil Ghebbi, segunda metade do século <span
@@ -468,10 +474,10 @@ href="https://commons.wikimedia.org/wiki/File:Library_and_Chancellery_of_Yohanne
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:fasil-library">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Library_of_Yohannes_I_02.jpg/1024px-Library_of_Yohannes_I_02.jpg"
-id="fig:fasil-library" class="outset"
+class="outset"
 alt="Biblioteca de Yohannes I, Fasil Ghebbi, segunda metade do século XVII. Foto: Gagnon (2012b)" />
 <figcaption aria-hidden="true">Biblioteca de Yohannes I, Fasil Ghebbi,
 segunda metade do século <span class="smallcaps">XVII</span>. Foto: <a
@@ -495,10 +501,10 @@ conquista as planícies a oeste e sudoeste, mas também o deserto a
 sudeste (Fig. 23). Ao mesmo tempo, a Etiópia consegue repelir em 1875 um
 ataque egípcio e em 1885 uma invasão italiana.</p>
 </aside>
-<figure>
+<figure id="fig:et-menelik2">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Menelik_II_conquests_map.svg/772px-Menelik_II_conquests_map.svg.png"
-id="fig:et-menelik2" class="outset"
+class="outset"
 alt="Expansão do império da Etiópia do século XVIII ao XIX. Mapa: Pethrus (2010)" />
 <figcaption aria-hidden="true">Expansão do império da Etiópia do século
 <span class="smallcaps">XVIII</span> ao <span
@@ -534,40 +540,38 @@ do politicamente possível e do economicamente viável.</p>
 </section>
 <section id="complexos-não-palacianos" class="slide level2">
 <h2>Complexos não palacianos</h2>
-<figure>
+<figure id="fig:recta">
 <img
 data-src="https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg"
-id="fig:recta"
 alt="Antigas tabernas da via Recta (preto), Roma, sobrepostas ao traçado atual (vermelho), segundo Saverio Muratori, Gianfranco Caniggia e Giuseppe Strappa" />
 <figcaption aria-hidden="true">Antigas tabernas da via Recta (preto),
 Roma, sobrepostas ao traçado atual (vermelho), segundo Saverio Muratori,
 Gianfranco Caniggia e Giuseppe Strappa</figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:greenwich" alt="Royal Hospital, Greenwich" />
+<figure id="fig:greenwich">
+<img data-src="" alt="Royal Hospital, Greenwich" />
 <figcaption aria-hidden="true">Royal Hospital, Greenwich</figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:ripa"
+<figure id="fig:ripa">
+<img data-src=""
 alt="Carlo Fontana e Mattia de’ Rossi, arquitetos. Ospizio di San Michele a Ripa grade, Roma, 1686–1834" />
 <figcaption aria-hidden="true">Carlo Fontana e Mattia de’ Rossi,
 arquitetos. Ospizio di San Michele a Ripa grade, Roma,
 1686–1834</figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:granaio"
-alt="Ferdinando Fuga, arquiteto, Celeiro de Nápoles" />
+<figure id="fig:granaio">
+<img data-src="" alt="Ferdinando Fuga, arquiteto, Celeiro de Nápoles" />
 <figcaption aria-hidden="true">Ferdinando Fuga, arquiteto, Celeiro de
 Nápoles</figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:albergo-poveri"
+<figure id="fig:albergo-poveri">
+<img data-src=""
 alt="Ferdinando Fuga, arquiteto, abrigo dos Pobres, Nápoles, 1751" />
 <figcaption aria-hidden="true">Ferdinando Fuga, arquiteto, abrigo dos
 Pobres, Nápoles, 1751</figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:cordoaria" alt="Cordoaria, Lisboa" />
+<figure id="fig:cordoaria">
+<img data-src="" alt="Cordoaria, Lisboa" />
 <figcaption aria-hidden="true">Cordoaria, Lisboa</figcaption>
 </figure>
 </section></section>
@@ -675,10 +679,10 @@ com elementos edificados. Essas construções podem ser tanto pavilhões
 habitáveis quanto muros com janelas para enquadrar vistas, ou ainda
 miniaturas arquitetônicas (fig. 30).</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-cozy">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg/1024px-2015-09-24-130235_-_Suzhou,_Garten_des_bescheidenen_Beamten.jpg"
-id="fig:zhuozheng-cozy" class="outset"
+class="outset"
 alt="Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513. Foto: Zossolino, 2015" />
 <figcaption aria-hidden="true">Wang Xianchen, Zhuozhengyuan (jardim do
 Humilde Administrador), Suzhou, 1513. Foto: <a
@@ -704,10 +708,10 @@ sobretudo desde edículas concebidas especificamente para essa finalidade
 <em>huating</em> (pavilhão de banquete).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:tingyuan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/08/inaji1998-68-tingyuan-plans.png"
-id="fig:tingyuan" class="line"
+class="line"
 alt="Casas urbanas com pátio e jardim. Desenho: Inaji Toshirō, 1998" />
 <figcaption aria-hidden="true">Casas urbanas com pátio e jardim.
 Desenho: <span class="newthought">Inaji</span> Toshirō,
@@ -727,10 +731,10 @@ jardim, por sua vez, recria essas cenas em três dimensões.</p>
 jardim cria cenários que servem de inspiração para novas pinturas e
 poesias.</p>
 </aside>
-<figure>
+<figure id="fig:canglangting-lake">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%E6%B2%A7%E6%B5%AA%E4%BA%AD.jpg/1024px-%E6%B2%A7%E6%B5%AA%E4%BA%AD.jpg"
-id="fig:canglangting-lake" class="outset"
+class="outset"
 alt="Su Zimei, Canglang ting, Suzhou, c. 1045. Foto: Hector Woo, 2013" />
 <figcaption aria-hidden="true">Su Zimei, Canglang ting, Suzhou, c. 1045.
 Foto: <a
@@ -740,10 +744,10 @@ Woo, 2013</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:canglangting-entry">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canglangting_entry_hall.jpg/1024px-Canglangting_entry_hall.jpg"
-id="fig:canglangting-entry" class="outset"
+class="outset"
 alt="Su Zimei, pavilhão de entrada do Canglang ting, Suzhou, c. 1045. Foto: Lamassu Design, 2009" />
 <figcaption aria-hidden="true">Su Zimei, pavilhão de entrada do Canglang
 ting, Suzhou, c. 1045. Foto: <a
@@ -766,10 +770,10 @@ sua autonomia ideológica e econômica (fig. 33). A reclusão do espaço
 reforça o universo interior do intelectual. Os pórticos são murados do
 lado de fora, restringindo as visuais para o exterior (fig. 34).</p>
 </aside>
-<figure>
+<figure id="fig:canglangting-lang">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canglang_Pavilion_2.jpg/1024px-Canglang_Pavilion_2.jpg"
-id="fig:canglangting-lang" class="outset"
+class="outset"
 alt="Su Zimei, pórticos do Canglang ting, Suzhou, c. 1045. Foto: China Travel Savvy, 2010" />
 <figcaption aria-hidden="true">Su Zimei, pórticos do Canglang ting,
 Suzhou, c. 1045. Foto: <a
@@ -785,13 +789,13 @@ principalmente nas cidades de Suzhou (fig. 35) e Hangzhou. O clima úmido
 e ameno dessa região permite criar jardins perenes, com água corrente em
 abundância.</p>
 </aside>
-<div id="fig:suzhou-inspire" class="subfigures outset">
+<figure id="fig:suzhou-inspire" class="subfigures outset">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/ikYW3G4xRaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Vistas de Suzhou. Direção: <a
+<figcaption><p>Vistas de Suzhou. Direção: <a
 href="https://www.youtube-nocookie.com/watch?v=ikYW3G4xRaY">Andrew Chen,
-2020</a>. </p>
-</div>
+2020</a>. </p></figcaption>
+</figure>
 </section>
 <section id="três-procedimentos-1" class="slide level2">
 <h2>Três procedimentos</h2>
@@ -816,10 +820,10 @@ jardim suburbano de tamanho médio, como o do Mestre das Redes <span
 class="citation" data-cites="liu:1982traditional10">(Liu)</span>, tem
 uma variedade de vistas e percursos (fig. 36).</p>
 </aside>
-<figure>
+<figure id="fig:wangshi-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/08/dunzhen1982-wangshi-plan.png"
-id="fig:wangshi-plan" class="outset"
+class="outset"
 alt="Shi Zhengzhi, Wangshiyuan (jardim do Mestre das Redes de Pesca), Suzhou, 1140 (reformulado em 1785). Planta: Liu Dunzhen, 1982" />
 <figcaption aria-hidden="true">Shi Zhengzhi, Wangshiyuan (jardim do
 Mestre das Redes de Pesca), Suzhou, 1140 (reformulado em 1785). Planta:
@@ -835,10 +839,9 @@ distinção clara entre o partido axial da residência, com a sua sequência
 de pátios, e a configuração pitoresca do paisagismo (fig. 37).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:nets-painting">
 <img
 data-src="https://i.pinimg.com/originals/3a/49/25/3a492501be2edb05ea4e779b7ae32c00.jpg"
-id="fig:nets-painting"
 alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140 (reformulado em 1785)" />
 <figcaption aria-hidden="true">Shi Zhengzhi, Wangshiyuan, Suzhou, 1140
 (reformulado em 1785)</figcaption>
@@ -847,10 +850,10 @@ alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140 (reformulado em 1785)" />
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:inaji-intersect">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/08/inaji1998-71-intersecting-views.png"
-id="fig:inaji-intersect" class="line outset"
+class="line outset"
 alt="Diagrama de vistas entrecruzadas, segundo Inaji Toshirō, 1998" />
 <figcaption aria-hidden="true">Diagrama de vistas entrecruzadas, segundo
 <span class="newthought">Inaji</span> Toshirō, 1998</figcaption>
@@ -866,22 +869,20 @@ sequência de vistas que se cruzam (fig. 38).</p>
 <p>As vistas entrecruzadas oferecem perspectivas variadas em sucessão
 (figs. 39, 40).</p>
 </aside>
-<figure>
+<figure id="fig:wangshi-ne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Masterofthenetsgardeninsummer.jpg/1024px-Masterofthenetsgardeninsummer.jpg"
-id="fig:wangshi-ne" class="outset"
-alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140" />
+class="outset" alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140" />
 <figcaption aria-hidden="true">Shi Zhengzhi, Wangshiyuan, Suzhou,
 1140</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:wangshi-w">
 <img
 data-src="https://live.staticflickr.com/5727/30484849063_3aeb806c12_c_d.jpg"
-id="fig:wangshi-w" class="outset"
-alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140" />
+class="outset" alt="Shi Zhengzhi, Wangshiyuan, Suzhou, 1140" />
 <figcaption aria-hidden="true">Shi Zhengzhi, Wangshiyuan, Suzhou,
 1140</figcaption>
 </figure>
@@ -917,10 +918,10 @@ exemplo de retiro construído por um alto funcionário caído em desgraça
 (fig. 41).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:zhuozheng-plan">
 <img
 data-src="https://i.pinimg.com/originals/cb/15/d2/cb15d2c53616388de0c551905eed8fcb.jpg"
-id="fig:zhuozheng-plan" class="line"
+class="line"
 alt="Wang Xianchen, Zhuozhengyuan (jardim do Humilde Administrador), Suzhou, 1513" />
 <figcaption aria-hidden="true">Wang Xianchen, Zhuozhengyuan (jardim do
 Humilde Administrador), Suzhou, 1513</figcaption>
@@ -939,10 +940,10 @@ terraplanagem, aproveitando características naturais do terreno. Num
 primeiro momento, as margens dos lagos são simplesmente aterradas,
 usando a vegetação para estabilizar o solo.</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-qiao">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/08/Humble-Administrators-Garden-3-scaled.jpg"
-id="fig:zhuozheng-qiao" class="outset"
+class="outset"
 alt="Wang Xianchen, ponte, Zhuozhengyuan, Suzhou, 1513. Foto em: Allison Tibaldi, 2016" />
 <figcaption aria-hidden="true">Wang Xianchen, ponte, Zhuozhengyuan,
 Suzhou, 1513. Foto em: <a
@@ -952,10 +953,10 @@ Tibaldi, 2016</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:zhuozheng-path">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Humble_Administrator&#39;s_Garden_in_Suzhou,_China_(2015)_-_34.JPG/1024px-Humble_Administrator&#39;s_Garden_in_Suzhou,_China_(2015)_-_34.JPG"
-id="fig:zhuozheng-path" class="outset"
+class="outset"
 alt="Wang Xianchen, passarela, Zhuozhengyuan, Suzhou, 1513. Foto: Another Believer, 2015" />
 <figcaption aria-hidden="true">Wang Xianchen, passarela, Zhuozhengyuan,
 Suzhou, 1513. Foto: <a
@@ -977,20 +978,19 @@ profundidade às perspectivas. Os pórticos cobertos são delimitados, do
 lado de fora, por muros que reforçam a reclusão do ambiente e controlam
 a direção das vistas (fig. 44).</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-qiang">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/08/humble-administrator-garden-in-winter-5.jpg"
-id="fig:zhuozheng-qiang" class="outset"
-alt="Zhuozhengyuan no inverno" />
+class="outset" alt="Zhuozhengyuan no inverno" />
 <figcaption aria-hidden="true">Zhuozhengyuan no inverno</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:zhuozheng-corner">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20090905_Suzhou_Humble_Administrator&#39;s_Garden_4552.jpg/1024px-20090905_Suzhou_Humble_Administrator&#39;s_Garden_4552.jpg"
-id="fig:zhuozheng-corner" class="outset"
+class="outset"
 alt="Pavilhão e pórtico no Zhuozhengyuan. Foto: Jakub Hałun, 2009" />
 <figcaption aria-hidden="true">Pavilhão e pórtico no Zhuozhengyuan.
 Foto: <a
@@ -1014,10 +1014,10 @@ delimitar o contorno dos lagos e reduzir a erosão das margens
 Ele articula o microcosmo do jardim com o mundo exterior, sem
 comprometer a privacidade do espaço interior (fig. 46).</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-se">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Humble_Administrator&#39;s_Garden_7193_(6399187813).jpg/1024px-Humble_Administrator&#39;s_Garden_7193_(6399187813).jpg"
-id="fig:zhuozheng-se" class="outset"
+class="outset"
 alt="Zhuozhengyuan, vista com a residência ao fundo. Foto: Kevin McGill, 2011" />
 <figcaption aria-hidden="true">Zhuozhengyuan, vista com a residência ao
 fundo. Foto: <a
@@ -1027,10 +1027,10 @@ McGill, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:zhuozheng-jie">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator&#39;s_Garden_Suzhou_November_2017_006.jpg/960px-Humble_Administrator&#39;s_Garden_Suzhou_November_2017_006.jpg"
-id="fig:zhuozheng-jie" class="outset"
+class="outset"
 alt="Vista do pagode Beisi desde o Zhuozhengyuan. Foto: King of Hearts, 2017" />
 <figcaption aria-hidden="true">Vista do pagode Beisi desde o
 Zhuozhengyuan. Foto: <a
@@ -1050,10 +1050,10 @@ disponível (fig. 47).</p>
 mais comuns para tomar vistas “emprestadas” do entorno imediato, ou
 mesmo do próprio jardim (fig. 48).</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-win">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Humble_Administrator&#39;s_Garden_in_Suzhou,_China_(2015)_-_30.JPG/1024px-Humble_Administrator&#39;s_Garden_in_Suzhou,_China_(2015)_-_30.JPG"
-id="fig:zhuozheng-win" class="outset"
+class="outset"
 alt="Janela treliçada, Zhuozhengyuan. Foto: Another Believer, 2015" />
 <figcaption aria-hidden="true">Janela treliçada, Zhuozhengyuan. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_in_Suzhou,_China_(2015)_-_30.JPG">Another
@@ -1063,10 +1063,10 @@ Believer, 2015</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:wutopia">
 <img
 data-src="https://static.dezeen.com/uploads/2017/03/eight-tenths-garden-wutopia-lab-architecture-china-shanghai-museums-cultural_dezeen_2364_col_5-1704x1136.jpg"
-id="fig:wutopia" class="outset"
+class="outset"
 alt="Wutopia Lab, 8/10 Garden, Xangai, 2016. Foto: CreatAR, 2017" />
 <figcaption aria-hidden="true">Wutopia Lab, 8/10 Garden, Xangai, 2016.
 Foto: <a
@@ -1089,10 +1089,10 @@ cuidadosamente escolhidas do interior e do exterior (fig. 49).</p>
 dispostos de modo a oferecer pousos em algumas das vistas mais
 pitorescas (fig. 50).</p>
 </aside>
-<figure>
+<figure id="fig:zhuozheng-mtnview">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Humble_Administrator&#39;s_Garden_Suzhou_November_2017_007.jpg/922px-Humble_Administrator&#39;s_Garden_Suzhou_November_2017_007.jpg"
-id="fig:zhuozheng-mtnview" class="outset"
+class="outset"
 alt="Wang Xianchen, salão com vista para as montanhas, Zhuozhengyuan, Suzhou, 1513. Foto: King of Hearts, 2017" />
 <figcaption aria-hidden="true">Wang Xianchen, salão com vista para as
 montanhas, Zhuozhengyuan, Suzhou, 1513. Foto: <a
@@ -1102,10 +1102,10 @@ of Hearts, 2017</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:zhuozheng-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humble_Administrator&#39;s_Garden_Suzhou_November_2017_004.jpg/1024px-Humble_Administrator&#39;s_Garden_Suzhou_November_2017_004.jpg"
-id="fig:zhuozheng-int" class="outset"
+class="outset"
 alt="Zhuozhengyuan, salão dos bons modos. Foto: King of Hearts, 2017" />
 <figcaption aria-hidden="true">Zhuozhengyuan, salão dos bons modos.
 Foto: <a
@@ -1166,10 +1166,10 @@ data-cites="wong:2016paradise">(14)</span>:</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yuanmingyuan-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yuanmingyuan_plan.jpg/640px-Yuanmingyuan_plan.jpg"
-id="fig:yuanmingyuan-plan" class="line outset"
+class="line outset"
 alt="Lei Fada, Lei Jinyu e sucessores, Yuanmingyuan, Pequim, iniciado em 1700" />
 <figcaption aria-hidden="true">Lei Fada, Lei Jinyu e sucessores,
 Yuanmingyuan, Pequim, iniciado em 1700</figcaption>
@@ -1177,10 +1177,10 @@ Yuanmingyuan, Pequim, iniciado em 1700</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:40yuanmingyuan02">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1002_Qinzheng.jpg"
-id="fig:40yuanmingyuan02" class="outset"
+class="outset"
 alt="Shen Yuan, Tang Dai e Wang Youdun, Quarenta vistas do Yuanmingyuan, 1744, Governo diligente e talentoso" />
 <figcaption aria-hidden="true">Shen Yuan, Tang Dai e Wang Youdun,
 Quarenta vistas do Yuanmingyuan, 1744, Governo diligente e
@@ -1196,10 +1196,10 @@ talentoso</figcaption>
 <aside class="notes">
 <p>…aos mais pitorescos (fig. 54).</p>
 </aside>
-<figure>
+<figure id="fig:40yuanmingyuan24">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1024_Duojia.jpg"
-id="fig:40yuanmingyuan24" class="outset"
+class="outset"
 alt="Quarenta vistas do Yuanmingyuan, Plantações belas como as nuvens" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan,
 Plantações belas como as nuvens</figcaption>
@@ -1207,10 +1207,10 @@ Plantações belas como as nuvens</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:40yuanmingyuan40">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1040_Dongtian.jpg"
-id="fig:40yuanmingyuan40" class="outset"
+class="outset"
 alt="Quarenta vistas do Yuanmingyuan, Escola dos príncipes" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan, Escola
 dos príncipes</figcaption>
@@ -1228,10 +1228,10 @@ isso, o Yuanmingyuan contém espaços para atividades formais
 <aside class="notes">
 <p>…e reconstituições das mais variadas paisagens do país (fig. 56).</p>
 </aside>
-<figure>
+<figure id="fig:40yuanmingyuan26">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/scenes/ymy1026_Beiyuan.jpg"
-id="fig:40yuanmingyuan26" class="outset"
+class="outset"
 alt="Quarenta vistas do Yuanmingyuan, Aldeia das montanhas longínquas do Norte" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan, Aldeia
 das montanhas longínquas do Norte</figcaption>
@@ -1239,10 +1239,10 @@ das montanhas longínquas do Norte</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:40yuanmingyuan03">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1003_Jiuzhou.jpg"
-id="fig:40yuanmingyuan03" class="outset"
+class="outset"
 alt="Quarenta vistas do Yuanmingyuan, Nove continentes límpidos e calmos" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan, Nove
 continentes límpidos e calmos</figcaption>
@@ -1264,9 +1264,8 @@ reservado (fig. 58). Esse quadrante gradualmente passa a sediar boa
 parte das deliberações oficiais que antes aconteceriam no salão do
 trono.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:neigong"
-alt="Residência imperial na cidade proibida" />
+<figure id="fig:neigong">
+<img data-src="" alt="Residência imperial na cidade proibida" />
 <figcaption aria-hidden="true">Residência imperial na cidade
 proibida</figcaption>
 </figure>
@@ -1274,10 +1273,9 @@ proibida</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:40yuanmingyuan01">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1001_Zhengda.jpg"
-id="fig:40yuanmingyuan01"
 alt="Quarenta vistas do Yuanmingyuan, Salão de audiências" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan, Salão de
 audiências</figcaption>
@@ -1304,10 +1302,10 @@ funciona informalmente a partir de sedes de autoridade diferentes dos
 lugares e das pessoas que formalmente desempenham os papéis
 centrais.</p>
 </aside>
-<figure>
+<figure id="fig:40yuanmingyuan29">
 <img
 data-src="https://visualizingcultures.mit.edu/garden_perfect_brightness/gallery/images/ymy1029_Fanghu.jpg"
-id="fig:40yuanmingyuan29" class="outset"
+class="outset"
 alt="Quarenta vistas do Yuanmingyuan, Belo cenário do vaso quadrado" />
 <figcaption aria-hidden="true">Quarenta vistas do Yuanmingyuan, Belo
 cenário do vaso quadrado</figcaption>
@@ -1317,15 +1315,14 @@ cenário do vaso quadrado</figcaption>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-etlin:1978dedans" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-etlin:1978dedans" class="csl-entry" role="listitem">
 Etlin, Richard A. <span>“<span>‘Les Dedans,’</span> Jacques-François
 Blondel and the System of the Home”</span>. <em>Gazette Des
 Beaux-Arts</em>, nº 91, abril de 1978, p. 137–47, <a
 href="http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home">http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home</a>.
 </div>
-<div id="ref-fernandez:2016jesuit" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fernandez:2016jesuit" class="csl-entry" role="listitem">
 Fernández, Victor M. <span>“The Jesuit Mission to Ethiopia (1557–1632)
 and the Origins of Gondärine Architecture (Seventeenth–Eighteenth
 Centuries)”</span>. <em>Archaeologies of Early Modern Spanish
@@ -1333,32 +1330,29 @@ Colonialism</em>, organizado por Sandra Montón-Subías et al., Springer
 International Publishing, 2016, p. 153–73. <em>Springer Link</em>, <a
 href="https://doi.org/10.1007/978-3-319-21885-4_7">https://doi.org/10.1007/978-3-319-21885-4_7</a>.
 </div>
-<div id="ref-inaji:1998garden" class="csl-entry" role="doc-biblioentry">
+<div id="ref-inaji:1998garden" class="csl-entry" role="listitem">
 Inaji, Toshirō. <em>The Garden as Architecture: Form and Spirit in the
 Gardens of Japan, China and Korea</em>. Traduzido por Pamela Virgilio,
 1º ed, Kodansha International, 1998.
 </div>
-<div id="ref-li:yuanmingyuan" class="csl-entry" role="doc-biblioentry">
+<div id="ref-li:yuanmingyuan" class="csl-entry" role="listitem">
 Li, Lillian M. <span>“The Yuanmingyuan as Imperial Paradise
 (1700–1860)”</span>. <em>MIT Visualizing Cultures</em>, <a
 href="https://visualizingcultures.mit.edu/garden_perfect_brightness/ymy1_essay03.html">https://visualizingcultures.mit.edu/garden_perfect_brightness/ymy1_essay03.html</a>.
 Acessado 10 de outubro de 2020.
 </div>
-<div id="ref-liu:1982traditional10" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liu:1982traditional10" class="csl-entry" role="listitem">
 Liu, Dunzhen. <span>“The Traditional Gardens of Suzhou (<span>‘Su Zhou
 Gu Dian Yuan Lin’</span>)”</span>. <em>Garden History</em>, traduzido
 por Frances Wood, vol. 10, nº 2, 1982, p. 108–41. JSTOR, <em>JSTOR</em>,
 <a
 href="https://doi.org/10.2307/1586743">https://doi.org/10.2307/1586743</a>.
 </div>
-<div id="ref-steinhardt:2019chinese" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-steinhardt:2019chinese" class="csl-entry" role="listitem">
 Steinhardt, Nancy Shatzman. <em>Chinese Architecture: A History</em>.
 Princeton University Press, 2019.
 </div>
-<div id="ref-wong:2016paradise" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-wong:2016paradise" class="csl-entry" role="listitem">
 Wong, Young-tsu. <em>A Paradise Lost</em>. Springer Singapore, 2016.
 </div>
 </div>

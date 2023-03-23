@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -71,10 +76,9 @@ legitimação conceitual da disciplina.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:vignola-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_biography;_or,_Lives,_critical_and_historical,_of_the_most_eminent_persons_of_all_ages,_countries,_conditions,_and_professions,_arranged_according_to_alphabetical_order_(1818)_(14796060823).jpg/454px-thumbnail.jpg"
-id="fig:vignola-front"
 alt="Jacopo Barozzi da Vignola, Regola degli cinque ordini di architettura, 1563, frontispício. Ap. Aikin &amp; Enfield (1818)" />
 <figcaption aria-hidden="true">Jacopo Barozzi da Vignola, <em>Regola
 degli cinque ordini di architettura</em>, 1563, frontispício. Ap. <a
@@ -105,23 +109,28 @@ Europa, muitas vezes em edições de bolso.</p>
 <span class="smallcaps">XVI</span> na Bavária, é um dos mais difundidos
 nesse gênero (fig. 2).</p>
 </aside>
-<div id="fig:dietterlin" class="subfigures columns">
+<figure id="fig:dietterlin" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:dietterlinA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page7-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:dietterlinA" />
+alt="Autorretrato" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:dietterlinB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page5-522px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:dietterlinB" />
+alt="Frontispício" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – Autorretrato, b – Frontispício</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – Autorretrato,
+b – Frontispício</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -131,23 +140,28 @@ arquitetônicos: portais, janelas, lareiras, chafarizes e poços. Os
 projetos são organizados segundo as cinco ordens clássicas, e
 apresentados cada um numa única prancha (fig. 3).</p>
 </aside>
-<div id="fig:diet74-77" class="subfigures columns">
+<figure id="fig:diet74-77" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:diet74">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page151-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet74" />
+alt="pr. 74" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet77">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page157-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet77" />
+alt="pr. 77" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – pr. 74, b – pr. 77</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – pr. 74, b – pr.
+77</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -157,23 +171,28 @@ concebido para servir como inspiração para artesãos e artistas já
 experientes (fig. 4). As pranchas eram muitas vezes destacadas do livro
 encadernado e circulavam amplamente.</p>
 </aside>
-<div id="fig:diet82-85" class="subfigures columns">
+<figure id="fig:diet82-85" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:diet82">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page167-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet82" />
+alt="pr. 82" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet85">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page173-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet85" />
+alt="pr. 85" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – pr. 82, b – pr. 85</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – pr. 82, b – pr.
+85</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -187,10 +206,10 @@ simplesmente, uma composição escolhida — o que também seria possível —,
 mas de se basear numa variedade de motivos presentes em várias pranchas
 diferentes.</p>
 </aside>
-<figure>
+<figure id="fig:contos">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg"
-id="fig:contos" alt="Chafariz dos Contos, 1760. Py4nf (2011)" />
+alt="Chafariz dos Contos, 1760. Py4nf (2011)" />
 <figcaption aria-hidden="true">Chafariz dos Contos, 1760. <a
 href="https://commons.wikimedia.org/wiki/File:Chafariz_dos_contos_01.jpg">Py4nf
 (2011)</a></figcaption>
@@ -198,85 +217,104 @@ href="https://commons.wikimedia.org/wiki/File:Chafariz_dos_contos_01.jpg">Py4nf
 </section>
 <section class="slide level2">
 
-<div id="fig:diet16-26" class="subfigures columns">
+<figure id="fig:diet16-26" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:diet16">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page35-531px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet16" />
+alt="pr. 16" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet26">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page55-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet26" />
+alt="pr. 26" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – pr. 16, b – pr. 26</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – pr. 16, b – pr.
+26</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:diet31-37" class="subfigures columns">
+<figure id="fig:diet31-37" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:diet31">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page65-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet31" />
+alt="pr. 31" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet37">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page77-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet37" />
+alt="pr. 37" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – pr. 31, b – pr. 37</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – pr. 31, b – pr.
+37</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:diet68-71" class="subfigures columns">
+<figure id="fig:diet68-71" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:diet68">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page139-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet68" />
+alt="pr. 68" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet71">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page145-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet71" />
+alt="pr. 71" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
-href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
-<em>Architectura</em> (1598)</a>. a – pr. 68, b – pr. 71</p>
 </div>
+<figcaption><p>Wendel <a
+href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
+<em>Architectura</em> (1598)</a>. a – pr. 68, b – pr.
+71</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:diet-contos" class="subfigures columns">
+<figure id="fig:diet-contos" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:contos-redux">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chafariz_dos_contos_01.jpg/717px-Chafariz_dos_contos_01.jpg"
-id="fig:contos-redux" />
+alt="Chafariz dos Contos, 1760. Py4nf (2011)" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:diet104">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Getty_Research_Institute_(IA_architectvravona00diet).pdf/page211-506px-Getty_Research_Institute_(IA_architectvravona00diet).pdf.jpg"
-id="fig:diet104" />
+alt="pr. 104" />
+<figcaption></figcaption>
 </figure>
-</div><p>Wendel <a
+</div>
+<figcaption><p>Wendel <a
 href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_architectvravona00diet).pdf">Dietterlin,
 <em>Architectura</em> (1598)</a>. a – Chafariz dos Contos, 1760. <a
 href="https://commons.wikimedia.org/wiki/File:Chafariz_dos_contos_01.jpg">Py4nf
-(2011)</a>, b – pr. 104</p>
-</div>
+(2011)</a>, b – pr. 104</p></figcaption>
+</figure>
 </section>
 <section id="pattern-books" class="slide level2">
 <h2>Pattern books</h2>
@@ -306,10 +344,9 @@ Jewel</em>: US 1800, reeditado UK 1808)</li>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:uda-pattern">
 <img
 data-src="https://images-na.ssl-images-amazon.com/images/I/419M-VXbH5L.jpg"
-id="fig:uda-pattern"
 alt="Urban Design Associates. The Architectural Pattern Book, 2004" />
 <figcaption aria-hidden="true">Urban Design Associates. <em>The
 Architectural Pattern Book</em>, 2004</figcaption>
@@ -328,10 +365,9 @@ persiste até hoje na arquitetura do Reino Unido e dos Estados Unidos
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:britannicus-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Getty_Research_Institute_(IA_gri_33125008447647).pdf/page9-544px-Getty_Research_Institute_(IA_gri_33125008447647).pdf.jpg"
-id="fig:britannicus-front"
 alt="Colen Campbell, Vitruvius Britannicus (1715), frontispício" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/w/index.php?title=File%3AGetty_Research_Institute_(IA_gri_33125008447647).pdf">Colen
@@ -352,18 +388,19 @@ Inglaterra (fig. 11).</p>
 motivos detalhados, e oferece também plantas e fachadas completas de
 edifícios — sobretudo mansões e palacetes (fig. 12).</p>
 </aside>
-<div id="fig:wilbury" class="subfigures half full">
+<figure id="fig:wilbury" class="half full">
 <div class="r-stack">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vitruvius_Britannicus_51_Wilbury_House_plan.jpg/1024px-Vitruvius_Britannicus_51_Wilbury_House_plan.jpg"
-title="fig:" id="fig:wilbury-plan" class="fragment current-visible" />
-<img
+id="fig:wilbury-plan" class="fragment current-visible"
+alt="planta do térreo, pr. 51" /> <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg/1024px-Vitruvius_Britannicus_52_Wilberry_house_elevation.jpg"
-title="fig:" id="fig:wilbury-elv" class="fragment current-visible" />
+id="fig:wilbury-elv" class="fragment current-visible"
+alt="fachada, pr. 52" />
 </div>
-<p>William Benson, Wilbury House, 1710. In <em>Vitruvius
-Britannicus</em>. a – planta do térreo, pr. 51, b – fachada, pr. 52</p>
-</div>
+<figcaption><p>William Benson, Wilbury House, 1710. In <em>Vitruvius
+Britannicus</em></p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -371,10 +408,9 @@ Britannicus</em>. a – planta do térreo, pr. 51, b – fachada, pr. 52</p>
 <p>Ela é inspirada no tratado de Palladio, que também contém um
 inventário de plantas de moradas nobres ([Fig:dellatorre]).</p>
 </aside>
-<figure>
+<figure id="fig:dellatorre">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palazzo_Della_Torre_Verona_Ware_2.VII.jpg/1024px-Palazzo_Della_Torre_Verona_Ware_2.VII.jpg"
-id="fig:dellatorre"
 alt="Andrea Palladio, palácio Della Torre, Verona. In The Four Books of Architecture (1738), v. 2, pr. VII" />
 <figcaption aria-hidden="true">Andrea Palladio, palácio Della Torre,
 Verona. In <a
@@ -390,24 +426,28 @@ Four Books of Architecture</em> (1738)</a>, v. 2, pr. VII</figcaption>
 original italiano era conhecido na Inglaterra desde a época de Inigo
 Jones, no início do século <span class="smallcaps">XVII</span>.</p>
 </aside>
-<div id="fig:ware" class="subfigures columns">
+<figure id="fig:ware" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:ware-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page10-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg"
-id="fig:ware-front" />
+alt="frontispício" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:ware-rosto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_four_books_of_architecture_(IA_gri_33125011569684).pdf/page11-900px-The_four_books_of_architecture_(IA_gri_33125011569684).pdf.jpg"
-id="fig:ware-rosto" />
+alt="folha de rosto" />
+<figcaption></figcaption>
 </figure>
-</div><p>Palladio, <a
+</div>
+<figcaption><p>Palladio, <a
 href="https://commons.wikimedia.org/wiki/Category:The_four_books_of_architecture_(1738)"><em>The
 Four Books of Architecture</em> (1738)</a>, trad. Isaac Ware.
-a – frontispício, b – folha de rosto</p>
-</div>
+a – frontispício, b – folha de rosto</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -417,24 +457,28 @@ diversifica, e alguns autores lançam manuais de ofício
 (<em>handbooks</em>). Um dos primeiros é o <em>British Carpenter</em> de
 Francis Price, publicado em 1733. (fig. 15).</p>
 </aside>
-<div id="fig:britcarp" class="subfigures columns">
+<figure id="fig:britcarp" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:britcarp-end">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page8-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-end" />
+alt="endosso" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:britcarp-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page9-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-front" />
+alt="folha de rosto" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf">Price,
 <em>The British Carpenter</em> (1735)</a>. a – endosso, b – folha de
-rosto</p>
-</div>
+rosto</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -446,24 +490,28 @@ livro cobre desde os traçados geométricos elementares para a disposição
 do canteiro (fig. 16 (a)) até os detalhes construtivos das conexões
 (fig. 16 (b)).</p>
 </aside>
-<div id="fig:britcarp-ac" class="subfigures columns">
+<figure id="fig:britcarp-ac" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:britcarp-a">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page20-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-a" />
+alt="traçados geométricos elementares, pr. A" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:britcarp-c">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page30-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-c" />
+alt="detalhes de ligações, pr. C" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf">Price,
 <em>The British Carpenter</em> (1735)</a>. a – traçados geométricos
-elementares, pr. A, b – detalhes de ligações, pr. C</p>
-</div>
+elementares, pr. A, b – detalhes de ligações, pr. C</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -473,18 +521,17 @@ de projeção de telhados sobre plantas irregulares (fig. 18).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:britcarp-cd">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page33-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-cd" alt="projeto de assoalhos, pr. C*, D*" />
+alt="projeto de assoalhos, pr. C*, D*" />
 <figcaption aria-hidden="true">projeto de assoalhos, pr. C*,
 D*</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:britcarp-fg">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page48-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-fg"
 alt="projeção de telhado sobre planta irregular, pr. F*, G*" />
 <figcaption aria-hidden="true">projeção de telhado sobre planta
 irregular, pr. F*, G*</figcaption>
@@ -504,24 +551,28 @@ composições de portadas residenciais baseadas nessas ordens (fig. 19
 (b)) — isso porque essas portadas geralmente eram construídas em madeira
 na cultura construtiva britânica.</p>
 </aside>
-<div id="fig:britcarp-uw-app" class="subfigures columns">
+<figure id="fig:britcarp-uw-app" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:britcarp-uw">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page140-964px-thumbnail.pdf.jpg"
-id="fig:britcarp-uw" />
+alt="construção de escadas, pr. U*, W*" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:britcarp-app">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf/page206-977px-thumbnail.pdf.jpg"
-id="fig:britcarp-app" />
+alt="portadas em madeira, apêndice pr. P" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:The_British_carpenter,_or,_A_treatise_on_carpentry_-_containing_the_most_concise_and_authentick_rules_of_that_art,_in_a_more_useful_and_extensive_method,_than_has_been_made_publick_(IA_britishcarpenter00pric).pdf">Price,
 <em>The British Carpenter</em> (1735)</a>. a – construção de escadas,
-pr. U*, W*, b – portadas em madeira, apêndice pr. P</p>
-</div>
+pr. U*, W*, b – portadas em madeira, apêndice pr. P</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -531,10 +582,10 @@ e a autonomia que essa profissão detinha no mundo britânico do século
 <span class="smallcaps">XVIII</span>, comparável ao dos pedreiros na
 França da mesma época.</p>
 </aside>
-<figure>
+<figure id="fig:forster">
 <img
 data-src="https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg"
-id="fig:forster" alt="Georg Forster, English joiners, 1816" />
+alt="Georg Forster, English joiners, 1816" />
 <figcaption aria-hidden="true"><a
 href="https://theframeblog.files.wordpress.com/2017/08/4-george-forster-english-joiners-1816.jpg">Georg
 Forster, English joiners, 1816</a></figcaption>
@@ -546,10 +597,9 @@ Forster, English joiners, 1816</a></figcaption>
 <p>Essa primazia do carpinteiro sobre os outros ofícios das construção
 persiste até hoje no Reino Unido e nos Estados Unidos (fig. 21).</p>
 </aside>
-<figure>
+<figure id="fig:nwslc">
 <img
 data-src="https://www.nwslc.ac.uk/wp-content/uploads/Level-2-CARPENTRY-AND-JOINERY-1.jpg"
-id="fig:nwslc"
 alt="Escola técnica de carpintaria, North Warwickshire and South Leicestershire College, Inglaterra" />
 <figcaption aria-hidden="true">Escola técnica de carpintaria, <a
 href="https://www.nwslc.ac.uk/course/carpentry-and-joinery/">North
@@ -560,10 +610,9 @@ Inglaterra</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:langley-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page3-573px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg"
-id="fig:langley-front"
 alt="Batty Langley, The City and Country Builder’s and Workman’s Treasury (1745), folha de rosto" />
 <figcaption aria-hidden="true">Batty <a
 href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_33125001119193).pdf">Langley,
@@ -585,24 +634,29 @@ mas também fornece dimensões específicas e abarca todo gênero de
 marcenaria, principalmente para interiores (fig. 23).</p>
 <hr />
 </aside>
-<div id="fig:langley-join" class="subfigures columns">
+<figure id="fig:langley-join" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:langley161">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page347-560px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg"
-id="fig:langley161" />
+alt="estante jônica, pr. CLXI" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:langley178">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page381-565px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg"
-id="fig:langley178" />
+alt="teto, pr. CLXXVIII" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_33125001119193).pdf">Langley,
 <em>The City and Country Builder’s and Workman’s Treasury</em>
-(1745)</a>. a – estante jônica, pr. CLXI, b – teto, pr. CLXXVIII</p>
-</div>
+(1745)</a>. a – estante jônica, pr. CLXI, b – teto, pr.
+CLXXVIII</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -611,25 +665,29 @@ href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_3
 simples do que no livro de Price (fig. 24). Isso mostra a diversificação
 e a especialização desse mercado editorial.</p>
 </aside>
-<div id="fig:langley-carp" class="subfigures columns">
+<figure id="fig:langley-carp" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:langley11">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page419-566px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg"
-id="fig:langley11" />
+alt="planta de telhado de geometria irregular, pr. 11" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:langley13">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Getty_Research_Institute_(IA_gri_33125001119193).pdf/page423-563px-Getty_Research_Institute_(IA_gri_33125001119193).pdf.jpg"
-id="fig:langley13" />
+alt="esquemas de tesouras, pr. 13" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:Getty_Research_Institute_(IA_gri_33125001119193).pdf">Langley,
 <em>The City and Country Builder’s and Workman’s Treasury</em>
 (1745)</a>. a – planta de telhado de geometria irregular, pr. 11,
-b – esquemas de tesouras, pr. 13</p>
-</div>
+b – esquemas de tesouras, pr. 13</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -640,17 +698,16 @@ Inglaterra em 1797 (figs. 25, 26).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:asher">
 <img
 data-src="http://1.bp.blogspot.com/-u9SpJXZsdk4/VU4QkJtdU6I/AAAAAAAAUj8/MuOUgRgq8hc/s1600/asher%2BBenjamin_0002.jpg"
-id="fig:asher" alt="Asher Benjamin" />
+alt="Asher Benjamin" />
 <figcaption aria-hidden="true">Asher Benjamin</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cba-front">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder&#39;s_assistant,_The_American_builder&#39;s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page15-573px-thumbnail.pdf.jpg"
-id="fig:cba-front"
 alt="Asher Benjamin, The Country Builder’s Assistant (1797, fac-simile de 1917)" />
 <figcaption aria-hidden="true">Asher <a
 href="https://commons.wikimedia.org/wiki/File:A_reprint_of_The_country_builder&#39;s_assistant,_The_American_builder&#39;s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf">Benjamin,
@@ -670,25 +727,29 @@ indicação técnica sobre a carpintaria e marcenaria com modelos
 decorativos, provavelmente para profissionais menos especializados do
 que aqueles que trabalham na Grã-Bretanha.</p>
 </aside>
-<div id="fig:cba-plates" class="subfigures columns">
+<figure id="fig:cba-plates" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:cba-12-13">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder&#39;s_assistant,_The_American_builder&#39;s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page31-573px-thumbnail.pdf.jpg"
-id="fig:cba-12-13" />
+alt="modelos de portais, pr. 12–13" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:cba-20-28">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_reprint_of_The_country_builder&#39;s_assistant,_The_American_builder&#39;s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf/page39-573px-thumbnail.pdf.jpg"
-id="fig:cba-20-28" />
+alt="detalhes de marcenaria, pr. 20 e 28" />
+<figcaption></figcaption>
 </figure>
-</div><p><a
+</div>
+<figcaption><p><a
 href="https://commons.wikimedia.org/wiki/File:A_reprint_of_The_country_builder&#39;s_assistant,_The_American_builder&#39;s_companion,_The_rudiments_of_architecture,_The_practical_house_carpenter,_Practice_of_architecture_(IA_reprintofcountry00benj).pdf">Benjamin,
 <em>The Country Builder’s Assistant</em> (1797, fac-simile de 1917)</a>.
 a – modelos de portais, pr. 12–13, b – detalhes de marcenaria, pr. 20 e
-28</p>
-</div>
+28</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -699,24 +760,28 @@ anterior. Mesmo assim, ele mantém a lógica de fornecer detalhes
 construtivos e modelos decorativos numa mesma obra, visando a um público
 profissional generalista (fig. 28).</p>
 </aside>
-<div id="fig:abc" class="subfigures columns">
+<figure id="fig:abc" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:abc-34">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder&#39;s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page141-602px-thumbnail.pdf.jpg"
-id="fig:abc-34" />
+alt="balaústres e urnas, pr. 34" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:abc-39">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_American_builder&#39;s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf/page158-637px-thumbnail.pdf.jpg"
-id="fig:abc-39" />
+alt="construção de uma janela, pr. 39" />
+<figcaption></figcaption>
 </figure>
-</div><p>Asher <a
+</div>
+<figcaption><p>Asher <a
 href="https://commons.wikimedia.org/wiki/File:The_American_builder&#39;s_companion;_or,_A_system_of_architecture,_particularly_adapted_to_the_present_style_of_building_..._Illustrated_with_fifty_nine_copperplate_engravings_(IA_americanbuilders00benj_0).pdf">Benjamin,
 <em>The American Builder’s Companion</em> (1806)</a>. a – balaústres e
-urnas, pr. 34, b – construção de uma janela, pr. 39</p>
-</div>
+urnas, pr. 34, b – construção de uma janela, pr. 39</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -729,18 +794,17 @@ conquistou o mundo.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:52.5%;">
-<figure>
+<figure id="fig:ags">
 <img
 data-src="https://cdn.shopify.com/s/files/1/1160/7368/products/Architectural_Graphic_Standards_1024x1024.jpg"
-id="fig:ags" alt="Architectural Graphic Standards, 12.ª edição" />
+alt="Architectural Graphic Standards, 12.ª edição" />
 <figcaption aria-hidden="true"><em>Architectural Graphic Standards</em>,
 12.ª edição</figcaption>
 </figure>
 </div><div class="column" style="width:47.5%;">
-<figure>
+<figure id="fig:neufert">
 <img
 data-src="https://images.adsttc.com/media/images/563d/d201/e58e/cee2/c400/009a/slideshow/9788565985086_06_x.jpg?1446892027"
-id="fig:neufert"
 alt="Ernst e Peter Neufert, Arte de projetar em arquitetura, 18.ª edição" />
 <figcaption aria-hidden="true">Ernst e Peter Neufert, <em>Arte de
 projetar em arquitetura</em>, 18.ª edição</figcaption>
@@ -758,19 +822,17 @@ normativo em algumas localidades do mundo anglófono (figs. 31, 32).</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:tsw-milton">
 <img
 data-src="https://www.tsw-design.com/wp-content/uploads/MiltonHistoricGLs_13June_DRAFT_Page_22.jpg"
-id="fig:tsw-milton"
 alt="TSW Planners, Historic Preservation Design Guidelines, Milton (Geo.), 2013" />
 <figcaption aria-hidden="true">TSW Planners, Historic Preservation
 Design Guidelines, Milton (Geo.), 2013</figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:pdp-nola">
 <img
 data-src="https://images.squarespace-cdn.com/content/v1/57893f8c2994ca42c9966278/1470948279149-4CATTTML4MHU2NGQ53IQ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/VCC-Book-Entire+Guidelines_2015-Woodwork_Page_2.jpg"
-id="fig:pdp-nola"
 alt="PDP Architects, Viex Carré Historic District Design Guidelines, Nova Orleães, 2015" />
 <figcaption aria-hidden="true">PDP Architects, Viex Carré Historic
 District Design Guidelines, Nova Orleães, 2015</figcaption>
@@ -788,19 +850,18 @@ desse modo por estudantes e arquitetos!</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:45.5%;">
-<figure>
+<figure id="fig:viviendas">
 <img
 data-src="https://mocarabes.com/wp-content/uploads/2020/07/atlas-de-plantas-de-vivienda.jpg"
-id="fig:viviendas"
 alt="Friederike Schneider, Atlas de plantas de viviendas, Gustavo Gili" />
 <figcaption aria-hidden="true">Friederike Schneider, <em>Atlas de
 plantas de viviendas</em>, Gustavo Gili</figcaption>
 </figure>
 </div><div class="column" style="width:54.5%;">
-<figure>
+<figure id="fig:archnow">
 <img
 data-src="http://cdn.taschen.com/media/images/960/arch_now_houses_2_mi_int_3d_04444_1503121858_id_912046.png"
-id="fig:archnow" class="nobg" alt="Série Architecture Now, Taschen" />
+class="nobg" alt="Série Architecture Now, Taschen" />
 <figcaption aria-hidden="true">Série <em>Architecture Now</em>,
 Taschen</figcaption>
 </figure>
@@ -817,10 +878,9 @@ class="title-slide slide level1">
 <section id="os-últimos-polímatas" class="slide level2">
 <h2>Os últimos polímatas</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:galileo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
-id="fig:galileo"
 alt="Galileu Galilei (1564–1642), retratado por Justus Sustermans, c. 1640" />
 <figcaption aria-hidden="true">Galileu Galilei (1564–1642), retratado
 por <a
@@ -849,10 +909,9 @@ gravidade”. Essa “lei” só seria desenvolvida na segunda metade do século
 por Giovanni Borelli, Hooke e Isaac Newton.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:pisa">
 <img
 data-src="https://www.tomshw.it/data/images/0/4/4/0/pisa-caduta-gravi-3370e148a5790ee7875f332f366097f34.jpg"
-id="fig:pisa"
 alt="Conceituação do peso dos corpos segundo Aristóteles e Galileu. Sergio Cacciatori, 2017" />
 <figcaption aria-hidden="true">Conceituação do peso dos corpos segundo
 Aristóteles e Galileu. <a
@@ -862,10 +921,9 @@ Cacciatori, 2017</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:ufano">
 <img
 data-src="https://www.mpiwg-berlin.mpg.de/resrep00_01/images/Jahresbericht_img.large/47.jpg"
-id="fig:ufano"
 alt="Modo de aplicar o quadrante para estimar a trajetória de tiro, segundo Diego Ufano, 1628" />
 <figcaption aria-hidden="true">Modo de aplicar o quadrante para estimar
 a trajetória de tiro, segundo <a
@@ -889,30 +947,25 @@ fim, como ele anotou nos seus cadernos. Galileu considerou que a curva
 balística se aproximava a uma parábola, e descreveu essa curva pelas
 suas tangentes (fig. 38).</p>
 </aside>
-<div id="fig:galileo-c72" class="subfigures full">
+<figure id="fig:galileo-c72" class="full">
 <div class="half r-stack">
 <img
 data-src="https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png"
-title="fig:" id="fig:galileo-c72f116"
-class="fragment current-visible" /> <img
+id="fig:galileo-c72f116" class="fragment current-visible"
+alt="fl. 116 v.º" /> <img
 data-src="https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png"
-title="fig:" id="fig:galileo-c72f117"
-class="fragment current-visible" />
+id="fig:galileo-c72f117" class="fragment current-visible"
+alt="fl. 117 r.º" />
 </div>
-<p>Galileu Galilei, manuscrito no códice 72. a – <a
-href="http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM">fl. 116
-v.º</a>, b – <a
-href="http://www.imss.fi.it/ms72/HTML/F117_R/C117_R.HTM">fl. 117
-r.º</a></p>
-</div>
+<figcaption><p>Galileu Galilei, manuscrito no códice 72</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:greer-hooke">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/17_Robert_Hooke_Engineer.JPG/614px-17_Robert_Hooke_Engineer.JPG"
-id="fig:greer-hooke"
 alt="Rita Greer, Robert Hooke (1635–1703): cientista, arquiteto, engenheiro. Óleo sobre madeira, 2009" />
 <figcaption aria-hidden="true">Rita Greer, <a
 href="https://commons.wikimedia.org/wiki/File:17_Robert_Hooke_Engineer.JPG"><em>Robert
@@ -938,10 +991,9 @@ permite que o arco sustente seu próprio peso. Exemplo: Sagrada Família
 do Gaudí.</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:para-cat">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png"
-id="fig:para-cat"
 alt="Catenária e parábola comparadas. Gráfico: Dino, 2016" />
 <figcaption aria-hidden="true">Catenária e parábola comparadas. Gráfico:
 <a
@@ -951,10 +1003,9 @@ href="https://commons.wikimedia.org/wiki/File:Parabola_graphed_against_a_catenar
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:wren">
 <img
 data-src="https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg"
-id="fig:wren"
 alt="Croquis de Christopher Wren para a cúpula da catedral de São Paulo, Londres, c. 1705. Museu Britânico" />
 <figcaption aria-hidden="true">Croquis de Christopher Wren para a cúpula
 da catedral de São Paulo, Londres, c. 1705. <a
@@ -1002,10 +1053,10 @@ blocos, e portanto resultar em equações isostáticas, como as do
 matemático francês Philippe de la Hire (fig. 42) <span class="citation"
 data-cites="benvenuto:1991vaulted">(Benvenuto 326)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:hire">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png"
-id="fig:hire" class="line"
+class="line"
 alt="Philippe de La Hire, modelo de forças num arco, 1695" />
 <figcaption aria-hidden="true">Philippe de La Hire, modelo de forças num
 arco, 1695</figcaption>
@@ -1088,7 +1139,7 @@ data-cites="calder:2021architecture">(Calder)</span>.</p>
 <aside class="notes">
 <p>Segundo Alexander Tzonis, paradigma da eficiência burocrática
 começava a suplantar o da tipologia tradicional <span class="citation"
-data-cites="tzonis:1972non-oppressive tzonis:1975mechanical">(Tzonis;
+data-cites="tzonis:1972non-oppressive tzonis:1975mechanical">(<strong>tzonis:1972non-oppressive?</strong>;
 Tzonis e Lefaivre)</span>. O novo paradigma começou se desdobrando em
 dois aspectos: o racionalismo estrutural de Lodoli e o funcionalismo
 programático. Nenhum dos dois, porém, tinha os meios tecnológicos de
@@ -1112,7 +1163,7 @@ Lefaivre 6)</span>, Béllanger.</p>
 em padrões visuais por meio das quais a sociedade se organiza. Ele passa
 a ser uma atividade que produz <em>commodities</em> geradoras de
 utilidade econômica. <span class="citation"
-data-cites="tzonis:1972non-oppressive">(Tzonis 17)</span></p>
+data-cites="tzonis:1972non-oppressive">(<strong>tzonis:1972non-oppressive?</strong>)</span></p>
 </blockquote>
 </section>
 <section id="novidade-e-correção-na-itália" class="slide level2">
@@ -1122,20 +1173,18 @@ data-cites="tzonis:1972non-oppressive">(Tzonis 17)</span></p>
 
 <div class="columns">
 <div class="column" style="width:51.5%;">
-<figure>
+<figure id="fig:lodoli">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carlo_Lodoli_by_Alessandro_Longhi.jpg/555px-Carlo_Lodoli_by_Alessandro_Longhi.jpg"
-id="fig:lodoli"
 alt="Carlo Lodoli retratado por Alessandro Longhi, década de 1760" />
 <figcaption aria-hidden="true">Carlo Lodoli retratado por <a
 href="https://commons.wikimedia.org/wiki/File:Carlo_Lodoli_by_Alessandro_Longhi.jpg">Alessandro
 Longhi, década de 1760</a></figcaption>
 </figure>
 </div><div class="column" style="width:48.5%;">
-<figure>
+<figure id="fig:memmo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kaufmann_-_Memmo.jpg"
-id="fig:memmo"
 alt="Andrea Memmo retratado por Angelika Kauffmann, gravura por G. Carattoni e A. Cavallucci, 1785" />
 <figcaption aria-hidden="true">Andrea Memmo retratado por Angelika
 Kauffmann, gravura por <a
@@ -1149,10 +1198,9 @@ Carattoni e A. Cavallucci, 1785</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:milizia-vite">
 <img
 data-src="https://drawingmatter.org/wp-content/uploads/2020/09/Frontispiece-to-Francesco-Milizia%E2%80%99s-The-Lives-of-the-Celebrated-Architects-Ancient-and-Modern-1768.-Engraving.-RIBA-Collections-714x1024.jpg"
-id="fig:milizia-vite"
 alt="Frontispício do Vite de’ piú celebri architetti…, por Francesco Milizia, 1768" />
 <figcaption aria-hidden="true">Frontispício do <a
 href="https://drawingmatter.org/watkin-on-milizia-frontispiece-to-the-lives-of-the-celebrated-architects-ancient-and-modern/"><em>Vite
@@ -1180,8 +1228,8 @@ alto Renascimento, como em Bramante, Rafael e Antonio da Sangallo, o
 jovem. É um programa ideológico de rejeição do barroco e, pouco a pouco,
 também da obra de Miguel Ângelo.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:superga"
+<figure id="fig:superga">
+<img data-src=""
 alt="Filippo Juvarra, arquiteto, basílica da Superga, Turim" />
 <figcaption aria-hidden="true">Filippo Juvarra, arquiteto, basílica da
 Superga, Turim</figcaption>
@@ -1189,10 +1237,9 @@ Superga, Turim</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:laterano">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rom,_Basilika_San_Giovanni_in_Laterano_%2814164084913%29.jpg/2560px-Rom,_Basilika_San_Giovanni_in_Laterano_%2814164084913%29.jpg"
-id="fig:laterano"
 alt="Alessandro Galilei, arquiteto, fachada da arquibasílica de S. João no Latrão, Roma, iniciada 1733. Foto: Heribert Pohl, 2011" />
 <figcaption aria-hidden="true">Alessandro Galilei, arquiteto, fachada da
 arquibasílica de S. João no Latrão, Roma, iniciada 1733. Foto: <a
@@ -1214,8 +1261,8 @@ arquitetura desde então.</p>
 </section>
 <section class="slide level2">
 
-<figure>
-<img data-src="" id="fig:caffehas"
+<figure id="fig:caffehas">
+<img data-src=""
 alt="Ferdinando Fuga, Caffèhas (casa de café) no palácio do Quirinal, Roma, 1741" />
 <figcaption aria-hidden="true">Ferdinando Fuga, Caffèhas (casa de café)
 no palácio do Quirinal, Roma, 1741</figcaption>
@@ -1223,8 +1270,8 @@ no palácio do Quirinal, Roma, 1741</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
-<img data-src="" id="fig:scolastica"
+<figure id="fig:scolastica">
+<img data-src=""
 alt="Giacomo Quarenghi, arquiteto, igreja de Santa Escolástica, Subiaco, 1770–1776" />
 <figcaption aria-hidden="true">Giacomo Quarenghi, arquiteto, igreja de
 Santa Escolástica, Subiaco, 1770–1776</figcaption>
@@ -1239,8 +1286,8 @@ separação física entre o palácio e o teatro, assim como o uso de uma
 <em>porte cochère</em> ou marquise, são indicativos da nova ênfase em
 atender a um público burguês.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:scala"
+<figure id="fig:scala">
+<img data-src=""
 alt="Giuseppe Piermarini, arquiteto, teatro alla Scala, Milão, 1776–1778" />
 <figcaption aria-hidden="true">Giuseppe Piermarini, arquiteto, teatro
 alla Scala, Milão, 1776–1778</figcaption>
@@ -1248,8 +1295,8 @@ alla Scala, Milão, 1776–1778</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
-<img data-src="" id="fig:brera"
+<figure id="fig:brera">
+<img data-src=""
 alt="Giuseppe Piermarini, arquiteto, Academia de Belas-Artes de Brera, Milão, após 1776" />
 <figcaption aria-hidden="true">Giuseppe Piermarini, arquiteto, Academia
 de Belas-Artes de Brera, Milão, após 1776</figcaption>
@@ -1266,24 +1313,20 @@ generalizada ao resultado dessa reforma revela queda na confiança na
 arquitetura contemporânea <span class="citation"
 data-cites="kirk:2005architecture1">(Kirk 17)</span>.</p>
 </aside>
-<div id="fig:pantheon" class="subfigures half full">
+<figure id="fig:pantheon" class="half full">
 <div class="r-stack">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Piranesi-6034.jpg/2560px-Piranesi-6034.jpg"
-title="fig:" id="fig:pantheon-pira" class="fragment current-visible" />
+id="fig:pantheon-pira" class="fragment current-visible"
+alt="estado anterior a 1756, publicado por Francesco Piranesi, 1790" />
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Piranesi-17005.jpg/2471px-Piranesi-17005.jpg"
-title="fig:" id="fig:pantheon-posi" class="fragment current-visible" />
+id="fig:pantheon-posi" class="fragment current-visible"
+alt="após a reforma da segunda ordem por Paolo Posi em 1756, gravura de 1774" />
 </div>
-<p>Apolodoro de Damasco, arquiteto, Panteão, Roma, 113–125 d.C.
-Desenhos: Giovanni Battista Piranesi. a – estado anterior a 1756,
-publicado por <a
-href="https://commons.wikimedia.org/wiki/File:Piranesi-6034.jpg">Francesco
-Piranesi, 1790</a>, b – após a reforma da segunda ordem por Paolo Posi
-em 1756, <a
-href="https://commons.wikimedia.org/wiki/File:Piranesi-17005.jpg">gravura
-de 1774</a></p>
-</div>
+<figcaption><p>Apolodoro de Damasco, arquiteto, Panteão, Roma, 113–125
+d.C. Desenhos: Giovanni Battista Piranesi</p></figcaption>
+</figure>
 </section>
 <section id="genealogia-do-neoclassicismo" class="slide level2">
 <h2>Genealogia do neoclassicismo</h2>
@@ -1394,9 +1437,8 @@ fundamental entre o gótico e o Renascimento) perante esse purismo
 literário e néscio <span class="citation"
 data-cites="perouse:2001architecture">(Pérouse de Montclos)</span></p>
 </aside>
-<figure>
-<img data-src="" id="fig:frezier"
-alt="Abóbada gótica segundo Frézier" />
+<figure id="fig:frezier">
+<img data-src="" alt="Abóbada gótica segundo Frézier" />
 <figcaption aria-hidden="true">Abóbada gótica segundo
 Frézier</figcaption>
 </figure>
@@ -1429,10 +1471,9 @@ requisitos bem específicos: ser à prova de fogo e ter uma logística de
 abastecimento conveniente. Camus projetou uma arcada circular em volta
 de um pátio espaçoso (fig. 54).</p>
 </aside>
-<figure>
+<figure id="fig:halle-camus">
 <img
 data-src="http://vergue.com/media/.plan-halle-au-ble-1763-det_m.jpg"
-id="fig:halle-camus"
 alt="Nicolas Le Camus de Mézières, projeto para o armazém de trigo, 1763, detalhe" />
 <figcaption aria-hidden="true">Nicolas Le Camus de Mézières, projeto
 para o <a href="http://vergue.com/post/213/Halle-au-ble">armazém de
@@ -1442,9 +1483,8 @@ trigo</a>, 1763, detalhe</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:halle-plan">
 <img data-src="http://vergue.com/media/.plan-halle-au-ble-grav_m.jpg"
-id="fig:halle-plan"
 alt="Le Camus de Mézières, planta do armazém de trigo e seu entorno, 1763" />
 <figcaption aria-hidden="true">Le Camus de Mézières, planta do <a
 href="http://vergue.com/post/213/Halle-au-ble">armazém de trigo</a> e
@@ -1466,10 +1506,9 @@ parcelamento do solo.</p>
 <section id="section" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:genie">
 <img
 data-src="https://i.pinimg.com/1200x/f6/cf/ae/f6cfae5152078c058633c32aa31a47a1.jpg"
-id="fig:genie"
 alt="Nicolas Le Camus de Mézières, folha de rosto do livro Le génie de l’architecture" />
 <figcaption aria-hidden="true">Nicolas Le Camus de Mézières, folha de
 rosto do livro <a
@@ -1578,10 +1617,9 @@ considerada sob a relação dos costumes e da legislação</em>.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:besancon-oeil">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ledoux,_Theatre_of_Besançon.jpg/2560px-Ledoux,_Theatre_of_Besançon.jpg"
-id="fig:besancon-oeil"
 alt="Claude Nicolas Ledoux, teatro municipal de Besançon, 1784, visto no reflexo de um olho. Publicado em L’architecture…, 1804" />
 <figcaption aria-hidden="true">Claude Nicolas Ledoux, teatro municipal
 de Besançon, 1784, visto no reflexo de um olho. Publicado em <a
@@ -1621,26 +1659,24 @@ convenção do ofício, que pede uma elevação ortográfica, e enfatiza a
 busca do arquiteto por um efeito sensorial sobre o observador, como
 Camus de Mézières tinha proposto.</p>
 </aside>
-<div id="fig:cenotaphe" class="subfigures full half">
+<figure id="fig:cenotaphe" class="full half">
 <div class="r-stack">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_02_-_Élévation_perspective.jpg"
-title="fig:" id="fig:cenotapheA" /> <img
+id="fig:cenotapheA" alt="elevação perspectivada" /> <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/30/Étienne-Louis_Boullée,_Cénotaphe_de_Newton_-_05_-_Coupe,_représentation_de_nuit_avec_un_effet_de_jour_à_l&#39;intérieur.jpg"
-title="fig:" id="fig:cenotapheB" />
+id="fig:cenotapheB" alt="corte com iluminação interior" />
 </div>
-<p>Étienne Louis Boullée, <a
+<figcaption><p>Étienne Louis Boullée, <a
 href="https://commons.wikimedia.org/wiki/Category:Cénotaphe_à_Newton">cenotáfio
-para Newton, 1784</a>. a – elevação perspectivada, b – corte com
-iluminação interior</p>
-</div>
+para Newton, 1784</a></p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:boullee-bib">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Boullée%2C_Etienne-Louis_-_Project_for_a_library.jpg"
-id="fig:boullee-bib"
 alt="Boullée, projeto de ampliação da Biblioteca Real, 1785" />
 <figcaption aria-hidden="true">Boullée, projeto de ampliação da <a
 href="https://commons.wikimedia.org/wiki/File:Boullée,_Etienne-Louis_-_Project_for_a_library.jpg">Biblioteca
@@ -1700,10 +1736,9 @@ um projeto de racionalização da produção que era também um método de
 aprimoramento do controle estatal sobre o processo.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:arc-senans">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg/2560px-Carte_générale_des_environs_de_la_Saline_de_Chaux.jpg"
-id="fig:arc-senans"
 alt="Claude Nicolas Ledoux, Mapa de Arc e Senans com o projeto das salinas de Chaux, publicado em L’architecture…, 1804" />
 <figcaption aria-hidden="true">Claude Nicolas Ledoux, Mapa de Arc e
 Senans com o projeto das salinas de Chaux, publicado em <a
@@ -1714,10 +1749,9 @@ href="https://commons.wikimedia.org/wiki/Category:L&#39;architecture_considéré
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chaux-inrap">
 <img
 data-src="https://www.inrap.fr/dossiers/userdata/c_bloc_album/1/1600/1600_1600_vignette_5-Vue-aerienne-2003.jpg"
-id="fig:chaux-inrap"
 alt="Claude Nicolas Ledoux, salinas de Chaux, 1775–79. Foto: INRAP" />
 <figcaption aria-hidden="true">Claude Nicolas Ledoux, salinas de Chaux,
 1775–79. Foto: <a
@@ -1746,10 +1780,9 @@ implantadas atrás dos dormitórios: era o projeto de uma comunidade quase
 autossuficiente, minuciosamente regrada e estritamente controlada pelo
 estado.</p>
 </aside>
-<figure>
+<figure id="fig:chaux-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arc-et-Senans_-_Plan_de_la_saline_royale.jpg/2560px-Arc-et-Senans_-_Plan_de_la_saline_royale.jpg"
-id="fig:chaux-plan"
 alt="Claude Nicolas Ledoux, salina de Chaux, planta geral" />
 <figcaption aria-hidden="true">Claude Nicolas Ledoux, salina de Chaux,
 <a
@@ -1760,10 +1793,9 @@ geral</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:dirlo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/L&#39;architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg/2560px-L&#39;architecture_considérée_sous_le_rapport_Ledoux_Claude-Nicolas_bpt6k1047050b_363_Coupe_du_Batiment_de_la_direction_Prise_sur_la_Longueur.jpg"
-id="fig:dirlo"
 alt="Ledoux, salina de Chaux, casa do diretor. Corte longitudinal publicado em L’architecture…, 1804" />
 <figcaption aria-hidden="true">Ledoux, salina de Chaux, casa do diretor.
 Corte longitudinal publicado em <a
@@ -1794,10 +1826,9 @@ do seu caráter, ou seja, ela expressa a natureza das atividades que
 teriam lugar no edifício — mas mais ainda, a alegoria fálica deixa claro
 quem detém o poder sobre a prostituição…</p>
 </aside>
-<figure>
+<figure id="fig:oikema">
 <img
 data-src="https://i.pinimg.com/originals/37/ec/4a/37ec4ae4d64cfa8ae427b7cc3652b0b2.jpg"
-id="fig:oikema"
 alt="Claude Nicolas Ledoux, projeto de oikema para Chaux, 1780" />
 <figcaption aria-hidden="true">Claude Nicolas Ledoux, projeto de
 <em>oikema</em> para Chaux, 1780</figcaption>
@@ -1910,87 +1941,76 @@ data-cites="schneider:1910esthetique">(Schneider)</span>.</p>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-benvenuto:1991vaulted" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-benvenuto:1991vaulted" class="csl-entry" role="listitem">
 Benvenuto, Edoardo. <em>Vaulted Structures and Elastic Systems</em>.
 Springer, 1991.
 </div>
-<div id="ref-calder:2021architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-calder:2021architecture" class="csl-entry" role="listitem">
 Calder, Barnabas. <em>Architecture: From Prehistory to Climate
 Emergency</em>. Penguin, 2021.
 </div>
-<div id="ref-germann:1991vitruve" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-germann:1991vitruve" class="csl-entry" role="listitem">
 Germann, Georg. <em>Vitruve et le Vitruvianisme : introduction à
 l’histoire de la théorie architecturale</em>. Presses Polytechniques et
 Universitaires Romandes, 1991.
 </div>
 <div id="ref-geymueller:1898baukunst1" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Geymüller, Heinrich Adolf von. <em>Die Baukunst der Renaissance in
 Frankreich</em>. A. Bergsträsser : A . Kröner, 1898. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/diebaukunstderr01geymgoog">http://archive.org/details/diebaukunstderr01geymgoog</a>.
 </div>
-<div id="ref-herrmann:1958antoine40" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-herrmann:1958antoine40" class="csl-entry" role="listitem">
 Herrmann, W. <span>“Antoine Desgodets and the Académie Royale
 d’Architecture”</span>. <em>The Art Bulletin</em>, vol. 40, nº 1, 1958,
 p. 23–53. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/3047746">https://doi.org/10.2307/3047746</a>.
 </div>
-<div id="ref-herrmann:1980theorie" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-herrmann:1980theorie" class="csl-entry" role="listitem">
 Herrmann, Wolfgang. <em>La théorie de Claude Perrault</em>. Mardaga,
 1980.
 </div>
-<div id="ref-kaufmann:1936claude8" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kaufmann:1936claude8" class="csl-entry" role="listitem">
 Kaufmann, Emil. <span>“Claude Nicolas Ledoux. A Pioneer of Modern
 Architecture in the Eighteenth Century”</span>. <em>Parnassus</em>, vol.
 8, nº 5, 1936, p. 16–18. JSTOR, <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/771111">https://doi.org/10.2307/771111</a>.
 </div>
-<div id="ref-kaufmann:1952three" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kaufmann:1952three" class="csl-entry" role="listitem">
 ---. <em>Three Revolutionary Architects: Boullée, Ledoux, and
 Lequeu</em>. American Philosophical Society, 1952. JSTOR,
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1005689">https://doi.org/10.2307/1005689</a>.
 </div>
-<div id="ref-kirk:2005architecture1" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kirk:2005architecture1" class="csl-entry" role="listitem">
 Kirk, Terry. <em>The Architecture of Modern Italy</em>. Princeton
 Architectural Press, 2005.
 </div>
-<div id="ref-camus:1780genie" class="csl-entry" role="doc-biblioentry">
+<div id="ref-camus:1780genie" class="csl-entry" role="listitem">
 Le Camus de Mézières, Nicolas. <em>Le génie de l’architecture, ou
 l’analogie de cet art avec nos sensations</em>. L’auteur [et] chez B.
 Morin, 1780. <em>Internet Archive</em>, <a
 href="http://archive.org/details/legeniedelarchit00leca">http://archive.org/details/legeniedelarchit00leca</a>.
 </div>
-<div id="ref-middleton:1962abbe25" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-middleton:1962abbe25" class="csl-entry" role="listitem">
 Middleton, Robin D. <span>“The Abbé de Cordemoy and the Graeco-Gothic
 Ideal: A Prelude to Romantic Classicism”</span>. <em>Journal of the
 Warburg and Courtauld Institutes</em>, vol. 25, nº 3/4, 1962, p.
 278–320. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/750811">https://doi.org/10.2307/750811</a>.
 </div>
-<div id="ref-moneo:1978typology" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-moneo:1978typology" class="csl-entry" role="listitem">
 Moneo, Rafael. <span>“On Typology”</span>. <em>Oppositions</em>, vol.
 13, 1978, p. 23–45.
 </div>
 <div id="ref-patetta:1975larchitettura" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Patetta, Luciano. <em>L’architettura dell’eclettismo: fonti, teorie,
 modelli 1750-1900</em>. G. Mazzotta, 1975.
 </div>
-<div id="ref-patte:1770memoire" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-patte:1770memoire" class="csl-entry" role="listitem">
 Patte, Pierre. <em>Mémoire sur la construction de la coupole, projettée
 pour couronner la nouvelle église de Sainte Genevieve à Paris : ou il
 est question de prouver que les piliers déja exécutés &amp; destinés à
@@ -2002,77 +2022,64 @@ et à ceux qui se connoissent en construction</em>. Gueffier, 1770.
 href="http://archive.org/details/memoiresurlacons00patt">http://archive.org/details/memoiresurlacons00patt</a>.
 </div>
 <div id="ref-perouse:2001architecture" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Pérouse de Montclos, Jean-Marie. <em>L’architecture à la française: du
 milieu du <span class="smallcaps">XV</span><sup>e</sup> à la fin du
 <span class="smallcaps">XVIII</span><sup>e</sup> siècle</em>. 2º ed,
 Picard, 2001.
 </div>
-<div id="ref-petzet:1961soufflots" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-petzet:1961soufflots" class="csl-entry" role="listitem">
 Petzet, Michael. <em>Soufflots Sainte-Geneviève und der französische
 Kirchenbau des 18 Jahrhunderts</em>. Walter de Gruyter, 1961.
 </div>
-<div id="ref-pinon:2006teoria" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pinon:2006teoria" class="csl-entry" role="listitem">
 Piñón, Helio. <em>Teoría del proyecto</em>. 1º ed, Universitat
 Politècnica de Catalunya, 2006.
 </div>
-<div id="ref-preciado:2015restif" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-preciado:2015restif" class="csl-entry" role="listitem">
 Preciado, Paul B. <span>“Restif de La Bretonne’s State Brothel: Sperm,
 Sovereignty, and Debt in the Eighteenth-Century Utopian Construction of
 Europe”</span>. <em>South</em>, nº 6, 2015, <a
 href="http://www.documenta14.de/en/south/45_restif_de_la_bretonne_s_state_brothel_sperm_sovereignty_and_debt_in_the_eighteenth_century_utopian_construction_of_europe">http://www.documenta14.de/en/south/45_restif_de_la_bretonne_s_state_brothel_sperm_sovereignty_and_debt_in_the_eighteenth_century_utopian_construction_of_europe</a>.
 </div>
-<div id="ref-rabreau:1972soufflot130" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rabreau:1972soufflot130" class="csl-entry" role="listitem">
 Rabreau, Daniel. <span>“Soufflot et l’église Sainte-Geneviève”</span>.
 <em>Bulletin Monumental</em>, vol. 130, nº 4, 1972, p. 359–62.
 <em>www.persee.fr</em>, <a
 href="http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982">http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982</a>.
 </div>
 <div id="ref-schneider:1910esthetique" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Schneider, René. <em>L’esthétique classique chez Quatremère de Quincy
 (1805–1823)</em>. Hachette, 1910. <em>Internet Archive</em>, <a
 href="http://archive.org/details/lesthtiqueclas00schn">http://archive.org/details/lesthtiqueclas00schn</a>.
 </div>
-<div id="ref-tzonis:1972non-oppressive" class="csl-entry"
-role="doc-biblioentry">
-Tzonis, Alexander. <em>Towards a Non-Oppressive Environment</em>.
-Braziller, 1972. <em>Internet Archive</em>, <a
-href="http://archive.org/details/towardsnonoppres0000tzon">http://archive.org/details/towardsnonoppres0000tzon</a>.
-</div>
-<div id="ref-tzonis:1975mechanical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tzonis:1975mechanical" class="csl-entry" role="listitem">
 Tzonis, Alexander, e Liane Lefaivre. <span>“The Mechanical Body Versus
 the Divine Body: The Rise of Modern Design Theory”</span>. <em>Journal
 of Architectural Education</em>, vol. 29, nº 1, 1975, p. 4–7.
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1424316">https://doi.org/10.2307/1424316</a>.
 </div>
-<div id="ref-ward:1911architecture2" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-ward:1911architecture2" class="csl-entry" role="listitem">
 Ward, William Henry. <em>The architecture of the Renaissance in France;
 a history of the evolution of the arts of building, decoration and
 garden design under classical influence from 1495 to 1830</em>. B.T.
 Batsford, 1911. <em>Internet Archive</em>, <a
 href="http://archive.org/details/architectureofre02ward">http://archive.org/details/architectureofre02ward</a>.
 </div>
-<div id="ref-watkin:2005history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-watkin:2005history" class="csl-entry" role="listitem">
 Watkin, David. <em>A History of Western Architecture</em>. 4º ed,
 Laurence King, 2005. <em>Internet Archive</em>, <a
 href="http://archive.org/details/historyofwestern0000watk_y0h2">http://archive.org/details/historyofwestern0000watk_y0h2</a>.
 </div>
-<div id="ref-watkin:1977morality" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-watkin:1977morality" class="csl-entry" role="listitem">
 ---. <em>Morality and Architecture: The Development of a Theme in
 Architectural History and Theory from the Gothic Revival to the Modern
 Movement</em>. Clarendon, 1977.
 </div>
 <div id="ref-wendland:2007traditional1" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Wendland, David. <span>“Traditional Vault Construction Without Formwork:
 Masonry Pattern and Vault Shape in the Historical Technical Literature
 and in Experimental Studies”</span>. <em>International Journal of

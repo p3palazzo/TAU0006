@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -77,10 +82,10 @@ do século <span class="smallcaps">XIX</span>.</p>
 <h2></h2>
 <div class="columns full">
 <div class="column" style="width:46.5%;">
-<figure>
+<figure id="fig:palace-city-scroll">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg"
-id="fig:palace-city-scroll" class="fragment"
+class="fragment"
 alt="Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © The Trustees of the British Museum" />
 <figcaption aria-hidden="true">Zhu Bang, retrato de um administrador na
 frente da cidade proibida de Pequim, entre 1522 e 1566. © <a
@@ -88,10 +93,10 @@ href="https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH">The
 Trustees of the British Museum</a></figcaption>
 </figure>
 </div><div class="column" style="width:53.5%;">
-<figure>
+<figure id="fig:smfiore">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559—1613)._Duomo_di_Firenze.png"
-id="fig:smfiore" class="fragment"
+class="fragment"
 alt="Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Desenho por Cigoli, 1613" />
 <figcaption aria-hidden="true">Filippo Brunelleschi. Cúpula da catedral
 Santa Maria del Fiore, Florença, iniciada em 1420. Desenho por <a
@@ -147,10 +152,9 @@ central na reflexão sobre o trabalho artístico e o lugar da criação
 humana na ordem do mundo (fig. 3).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:veduta1495">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"
-id="fig:veduta1495"
 alt="Atribuído a Giuliano da Sangallo. Perspectiva arquitetônica com porto, c. 1495" />
 <figcaption aria-hidden="true"><a
 href="https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg">Atribuído
@@ -183,25 +187,24 @@ class="smallcaps">XIV</span> (fig. 5).</p>
 direita para a esquerda.</p>
 </div>
 </aside>
-<div id="fig:qiu-han" class="subfigures full">
+<figure id="fig:qiu-han" class="full">
 <div class="h-scroll">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg" />
 </div>
-<p>Qiu Ying. <a
+<figcaption><p>Qiu Ying. <a
 href="https://commons.wikimedia.org/wiki/File:Qiu_Ying_Spring_morning_in_the_Han_palace.jpg">Manhã
 de primavera no palácio Han</a>, primeira metade do século <span
-class="smallcaps">XVI</span>. </p>
-</div>
+class="smallcaps">XVI</span></p></figcaption>
+</figure>
 </section>
 <section id="section-3" class="slide level2"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:buongoverno">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"
-id="fig:buongoverno"
 alt="Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338–1339. Paço municipal, Siena" />
 <figcaption aria-hidden="true">Ambrogio Lorenzetti. Efeitos do bom
 governo na cidade, 1338–1339. Paço municipal, Siena</figcaption>
@@ -287,18 +290,17 @@ uma crise de legitimidade.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:53%;">
-<figure>
+<figure id="fig:yingzao-fashi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG"
-id="fig:yingzao-fashi" alt="Página do Yingzao Fashi por Li Jie" />
+alt="Página do Yingzao Fashi por Li Jie" />
 <figcaption aria-hidden="true">Página do <em>Yingzao Fashi</em> por Li
 Jie</figcaption>
 </figure>
 </div><div class="column" style="width:47%;">
-<figure>
+<figure id="fig:perrault-ordonnance">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg"
-id="fig:perrault-ordonnance"
 alt="Cinco ordens de arquitetura por Claude Perrault" />
 <figcaption aria-hidden="true">Cinco ordens de arquitetura por Claude
 Perrault</figcaption>
@@ -311,10 +313,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:carnevale">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
-id="fig:carnevale"
 alt="Giuliano da Sangallo (atribuição). Cidade ideal, c. 1480–84, dita Tábua de Baltimore" />
 <figcaption aria-hidden="true">Giuliano da Sangallo (atribuição).
 <em>Cidade ideal</em>, c. 1480–84, dita <a
@@ -344,10 +345,9 @@ vistas panorâmicas de cidades aparecem associadas à afirmação da justiça
 municipal, da conquista militar ou da capacidade política de ordenamento
 do território (fig. 9).</p>
 </aside>
-<figure>
+<figure id="fig:versailles-patel">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/1280px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg"
-id="fig:versailles-patel"
 alt="Pierre Patel. Vista do castelo de Versalhes, c. 1668" />
 <figcaption aria-hidden="true">Pierre Patel. Vista do castelo de
 Versalhes, c. 1668</figcaption>
@@ -358,10 +358,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scene
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:funaki">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"
-id="fig:funaki"
 alt="Pintor da escola Tosa, talvez Iwasa Katsumochi Matabei. Vistas de Quioto e arredores, do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel" />
 <figcaption aria-hidden="true">Pintor da escola Tosa, talvez Iwasa
 Katsumochi Matabei. <a
@@ -428,9 +427,8 @@ class="smallcaps">XIX</span>. Esse modelo organiza a história como um
 sistema de “caixas” mais ou menos estanques, separadas por país ou
 cultura, período cronológico e “estilo” ou movimento artístico.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:caixas"
-alt="Esquema conceitual da história da arte" />
+<figure id="fig:caixas">
+<img data-src="" alt="Esquema conceitual da história da arte" />
 <figcaption aria-hidden="true">Esquema conceitual da história da
 arte</figcaption>
 </figure>
@@ -442,10 +440,10 @@ data-background-position="left" data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png"
 data-background-position="left" data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:treearch">
 <img
 data-src="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png"
-id="fig:treearch" class="line"
+class="line"
 alt="Banister Fletcher, árvore da arquitetura, em A History of Architecture on the Comparative Method, 15.ª ed. (1950)" />
 <figcaption aria-hidden="true">Banister Fletcher, árvore da arquitetura,
 em <em>A History of Architecture on the Comparative Method</em>, 15.ª
@@ -476,10 +474,9 @@ Fletcher)</span>.</p>
 data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"></h2>
-<figure>
+<figure id="fig:huts">
 <img
 data-src="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"
-id="fig:huts"
 alt="Cabanas primitivas segundo William Chambers, A Treatise on Civil Architecture, 1759" />
 <figcaption aria-hidden="true">Cabanas primitivas segundo William
 Chambers, <em>A Treatise on Civil Architecture</em>, 1759</figcaption>
@@ -510,10 +507,10 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:karib">
 <img
 data-src="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
-id="fig:karib" class="line"
+class="line"
 alt="Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860" />
 <figcaption aria-hidden="true">Cabana dos índios karib em Trinidad e
 Tobago, apresentada na exposição universal de Londres em 1851 e
@@ -568,23 +565,29 @@ explicativa orgânica.</p>
 </section>
 <section id="section-15" class="slide level2">
 <h2></h2>
-<div id="fig:fletcher-comp" class="subfigures columns">
+<figure id="fig:fletcher-comp" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:fletcher-compA">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/historyofarchite00flet_0062.png"
-id="fig:fletcher-compA" class="line" />
+class="line" alt="diagrama dos termos de comparação" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:fletcher-compB">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/historyofarchite00flet_0121.png"
-id="fig:fletcher-compB" class="line" />
+class="line"
+alt="paralelo gráfico de templos da Grécia antiga e templos romanos" />
+<figcaption></figcaption>
 </figure>
-</div><p>Banister Fletcher, pranchas comparativas na 5.ª edição do
-<em>History of Architecture</em>. a – diagrama dos termos de comparação,
-b – paralelo gráfico de templos da Grécia antiga e templos romanos</p>
 </div>
+<figcaption><p>Banister Fletcher, pranchas comparativas na 5.ª edição do
+<em>History of Architecture</em>. a – diagrama dos termos de comparação,
+b – paralelo gráfico de templos da Grécia antiga e templos
+romanos</p></figcaption>
+</figure>
 <aside class="notes">
 <hr />
 <p>O auge desse paradigma ocorre no final do século <span
@@ -625,10 +628,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:kraus">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg"
-id="fig:kraus" alt="Henry Kraus, Gold Was the Mortar, 1979" />
+alt="Henry Kraus, Gold Was the Mortar, 1979" />
 <figcaption aria-hidden="true">Henry Kraus, <a
 href="https://archive.org/details/goldwasmortareco0000krau/mode/2up"><em>Gold
 Was the Mortar</em>, 1979</a></figcaption>
@@ -678,20 +681,18 @@ histórico.</p>
 <h2></h2>
 <div id="fig:vasari-vite" class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:vasari">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/22/Giorgio_Vasari_Selbstportr%C3%A4t.jpg"
-id="fig:vasari"
 alt="Giorgio Vasari, retrato pintado por Jacopo Zucchi, 1571–1574" />
 <figcaption aria-hidden="true">Giorgio Vasari, <a
 href="https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_Selbstportr%C3%A4t.jpg">retrato
 pintado por Jacopo Zucchi, 1571–1574</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:vite">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu/page1-2487px-Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu.jpg"
-id="fig:vite"
 alt="Giorgio Vasari, Vidas dos artistas, 1568, frontispício" />
 <figcaption aria-hidden="true">Giorgio Vasari, <a
 href="https://commons.wikimedia.org/wiki/File:Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu"><em>Vidas
@@ -724,29 +725,27 @@ de periodização corrente ainda hoje.</p>
 <h2></h2>
 <div class="columns">
 <div class="column" style="width:33%;">
-<figure>
+<figure id="fig:chueca">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/chueca-768.jpg"
-id="fig:chueca" class="fragment"
-alt="Fernando Chueca Goitia. Foto: EFE" />
+class="fragment" alt="Fernando Chueca Goitia. Foto: EFE" />
 <figcaption aria-hidden="true">Fernando Chueca Goitia. Foto: <a
 href="https://elpais.com/diario/2004/10/31/cultura/1099173604_850215.html"><span
 class="smallcaps">EFE</span></a></figcaption>
 </figure>
 </div><div class="column" style="width:33%;">
-<figure>
+<figure id="fig:braudel">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/braudel-768px.jpg"
-id="fig:braudel" class="fragment" alt="Fernand Braudel. Foto: Corbis" />
+class="fragment" alt="Fernand Braudel. Foto: Corbis" />
 <figcaption aria-hidden="true">Fernand Braudel. Foto: <a
 href="https://www.capital.fr/economie-politique/fernand-braudel-1902-1985-il-a-decrypte-l-economie-a-l-echelle-des-millenaires-739923">Corbis</a></figcaption>
 </figure>
 </div><div class="column" style="width:33%;">
-<figure>
+<figure id="fig:gustavo">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/gustavo-768px.jpg"
-id="fig:gustavo" class="fragment"
-alt="Gustavo Rocha-Peixoto. Foto: Escola da Cidade" />
+class="fragment" alt="Gustavo Rocha-Peixoto. Foto: Escola da Cidade" />
 <figcaption aria-hidden="true">Gustavo Rocha-Peixoto. Foto: <a
 href="http://escoladacidade.org/bau/gustavo-peixoto-a-estrategia-da-aranha/">Escola
 da Cidade</a></figcaption>
@@ -780,14 +779,14 @@ a narrativa histórica, e principalmente a procurar “pioneiros” das
 rupturas em detrimento dos “revivalistas” — como se a história da arte
 fosse uma corrida para ver quem chega primeiro no “futuro”.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:koch-estilos"
+<figure id="fig:koch-estilos">
+<img data-src=""
 alt="Wilfried Koch, Dicionário dos estilos arquitetônicos" />
 <figcaption aria-hidden="true">Wilfried Koch, <em>Dicionário dos estilos
 arquitetônicos</em></figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:pioneers"
+<figure id="fig:pioneers">
+<img data-src=""
 alt="Nikolaus Pevsner, Pioneiros da arquitetura moderna e do design" />
 <figcaption aria-hidden="true">Nikolaus Pevsner, <em>Pioneiros da
 arquitetura moderna e do design</em></figcaption>
@@ -816,10 +815,9 @@ automobilística do mesmo modo que o Partenon teria sido o ápice da
 arquitetura clássica na Grécia (fig. 24) <span class="citation"
 data-cites="lecorbusier:1977arquitetura">(Le Corbusier)</span>…</p>
 </aside>
-<figure>
+<figure id="fig:auto-temple">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg"
-id="fig:auto-temple"
 alt="Le Corbusier. Comparação entre estilos em Por uma arquitetura, 1923" />
 <figcaption aria-hidden="true">Le Corbusier. Comparação entre estilos em
 <em>Por uma arquitetura</em>, 1923</figcaption>
@@ -902,9 +900,8 @@ concurso de 1420 tinha de excepcional era versar sobre um
 objeto. Brunelleschi vence com uma solução para o problema da execução
 da obra da cúpula, mais do que com uma forma tangível.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:ghiberti"
-alt="Portas de bronze do batistério de Florença" />
+<figure id="fig:ghiberti">
+<img data-src="" alt="Portas de bronze do batistério de Florença" />
 <figcaption aria-hidden="true">Portas de bronze do batistério de
 Florença</figcaption>
 </figure>
@@ -1099,8 +1096,8 @@ class="smallcaps">XIII</span>, leva ao desenvolvimento de uma síntese
 entre formas arquitetônicas de origem árabe e bizantina e a herança
 construtiva persa e indiana.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:islam-asia" alt="Mapa islã na Ásia central" />
+<figure id="fig:islam-asia">
+<img data-src="" alt="Mapa islã na Ásia central" />
 <figcaption aria-hidden="true">Mapa islã na Ásia central</figcaption>
 </figure>
 </section>
@@ -1303,17 +1300,15 @@ construções que não se tocam.</p>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-baydar:1998postcolonial" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-baydar:1998postcolonial" class="csl-entry" role="listitem">
 Baydar Nalbantoğlu, Gülsüm, e Nalbantoḡlu. <span>“Toward Postcolonial
 Openings: Rereading Sir Banister Fletcher’s <em>History of
 Architecture</em>”</span>. <em>Assemblage</em>, nº 35, 1998, p. 7–17.
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/3171235">https://doi.org/10.2307/3171235</a>.
 </div>
-<div id="ref-chambers:1759treatise" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chambers:1759treatise" class="csl-entry" role="listitem">
 Chambers, William. <em>A Treatise on Civil Architecture : In Which the
 Principles of That Art Are Laid down, and Illustrated by a Great Number
 of Plates Accurately Designed, and Elegantly Engraved by the Best
@@ -1321,79 +1316,74 @@ Hands</em>. Printed for the author by J. Haberkorn, 1759.
 <em>archive.org</em>, <a
 href="https://archive.org/details/gri_33125011135288">https://archive.org/details/gri_33125011135288</a>.
 </div>
-<div id="ref-choay:1986regra" class="csl-entry" role="doc-biblioentry">
+<div id="ref-choay:1986regra" class="csl-entry" role="listitem">
 Choay, Françoise. <em>A regra e o modelo: sobre a teoria da arquitetura
 e do urbanismo</em>. Perspectiva, 1986.
 </div>
-<div id="ref-conant:1968after-life27" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-conant:1968after-life27" class="csl-entry" role="listitem">
 Conant, Kenneth J. <span>“The After-Life of Vitruvius in the Middle
 Ages”</span>. <em>Journal of the Society of Architectural
 Historians</em>, vol. 27, nº 1, 1968, p. 33–38. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/988426">https://doi.org/10.2307/988426</a>.
 </div>
-<div id="ref-fletcher:1905history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fletcher:1905history" class="csl-entry" role="listitem">
 Fletcher, Banister, e Banister F. Fletcher. <em>A History of
 Architecture on the Comparative Method for the Student, Craftsman, and
 Amateur</em>. 5º ed, Batsford : Scribner’s sons, 1905. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/historyofarchite00flet">http://archive.org/details/historyofarchite00flet</a>.
 </div>
-<div id="ref-hakim:2010generative4" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hakim:2010generative4" class="csl-entry" role="listitem">
 Hakim, Besim Selim. <span>“The Generative Nature of Islamic Rules for
 the Built Environment”</span>. <em>International Journal of
 Architectural Research</em>, vol. 4, nº 1, março de 2010, p. 6.
 </div>
-<div id="ref-hakim:1999urban16" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hakim:1999urban16" class="csl-entry" role="listitem">
 ---. <span>“Urban Form in Traditional Islamic Cultures: Further Studies
 Needed for Formulating Theory”</span>. <em>Cities</em>, vol. 16, nº 1,
 fevereiro de 1999, p. 51–55. <em>ScienceDirect</em>, <a
 href="https://doi.org/10.1016/S0264-2751(98)00054-7">https://doi.org/10.1016/S0264-2751(98)00054-7</a>.
 </div>
-<div id="ref-kraus:1979gold" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kraus:1979gold" class="csl-entry" role="listitem">
 Kraus, Henry. <em>Gold Was the Mortar : The Economics of Cathedral
 Building</em>. Routledge &amp; Kegan Paul, 1979. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/goldwasmortareco0000krau">http://archive.org/details/goldwasmortareco0000krau</a>.
 </div>
 <div id="ref-lecorbusier:1977arquitetura" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Le Corbusier. <em>Por uma arquitetura</em>. Perspectiva, 1977.
 </div>
-<div id="ref-liang:2005chinese" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:2005chinese" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>Chinese Architecture: A Pictorial History</em>.
 Organizado por Wilma Fairbank, Dover, 2005.
 </div>
 <div id="ref-panofsky:2001arquitetura" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Panofsky, Erwin. <em>Arquitetura gótica e escolástica: sobre a analogia
 entre arte, filosofia e teologia na Idade Média</em>. Traduzido por Wolf
 Hörnke, Martins Fontes, 2001.
 </div>
 <div id="ref-quatremere:1788caractere" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Quatremère de Quincy, Antoine Chrysosthome. <span>“Caractère”</span>.
-<em>Architecture</em>, vol. 1, Panckouke, 1788, p. 477–518.
+<em>Architecture</em>, organizado por A.C. Quatremère de Quincy, vol. 1,
+Panckouke, 1788, p. 477–518.
 </div>
 <div id="ref-rochapeixoto:2013estrategia" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Rocha-Peixoto, Gustavo. <em>A estratégia da aranha ou: da possibilidade
 de um ensino metahistórico em arquitetura = The spider’s stratagem or:
 of the possibility of a metahistorical teaching in architecture</em>.
 Rio Books, 2013.
 </div>
-<div id="ref-scott:1914architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-scott:1914architecture" class="csl-entry" role="listitem">
 Scott, Geoffrey. <em>The Architecture of Humanism; a Study in the
 History of Taste</em>. Houghton Mifflin, 1914. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/cu31924014760353">http://archive.org/details/cu31924014760353</a>.
 </div>
-<div id="ref-semper:2004style" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:2004style" class="csl-entry" role="listitem">
 Semper, Gottfried. <em>Style in the Technical and Tectonic Arts, or,
 Practical Aesthetics</em>. Traduzido por Harry Francis Mallgrave e
 Michael Robinson, Getty Research Institute, 2004.
