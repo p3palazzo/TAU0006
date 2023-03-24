@@ -1,12 +1,6 @@
 ---
 title: Avaliação
 date: 2023-03-30
-tagline: |
-  História das cidades, dos edifícios e da edificação na tradição
-  europeia a partir do início do Renascimento na Itália até o século
-  <span class="smallcaps">XVIII</span>. Transposição da tradição
-  técnico-construtiva e arquitetônica da Europa para as colônias
-  americanas de fala inglesa e francesa.
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
   caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma moderna](https://commons.wikimedia.org/wiki/Category:Modern_Rome_(Giovanni_Paolo_Pannini)), 1754"
@@ -42,7 +36,7 @@ trabalhos:
       Análise arquitetônica
 
       Peso: 25 pontos
-    url       : "/trabalho/prova/"
+    url       : "/trabalho/analise-arq/"
     btn_label : "Entrega 1.º de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-kooogimi-46-1.jpg
@@ -89,7 +83,7 @@ trabalhos, que correspondem a cada uma das três Unidades do Programa:
 <i class="fas fa-inbox"></i>
 
 : Não recebemos, *sob
-hipótese alguma*, trabalhos por e-mail.
+  hipótese alguma*, trabalhos por e-mail.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Sobre criatividade e originalidade #
@@ -117,7 +111,6 @@ Internet --- é uma prática inaceitável e resultará em atribuição da nota
 `0` (zero) à entrega como um todo. Dependendo da gravidade do fato,
 podemos relatar o ocorrido ao colegiado de graduação da
 [FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
-que vocês encontrarem no Google estão *errados!*
-
-[Aprender 3]: https://aprender3.unb.br/course/view.php?id=13869
+que vocês encontrarem no Google ou, pior ainda, no Pinterest estão
+*errados!*
 
