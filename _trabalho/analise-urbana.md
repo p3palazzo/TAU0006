@@ -478,16 +478,12 @@ Table: Exemplo de numeração de pranchas {#tbl:numera}
   cola spray sobre uma folha de papel sulfite branco.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Critérios de avaliação #
+# Avaliação #
 
-Table: Critérios de avaliação {#tbl:criterios}
-
-| Item                                          |  Valor |
-|-----------------------------------------------|-------:|
-| Consistência da pesquisa e documentação       |      5 |
-| Rigor e abrangência das análises morfológicas |     15 |
-| Clareza e precisão da representação           |      5 |
-| **Total**                                     | **25** |
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final.
 
 ## Pesquisa ##
 

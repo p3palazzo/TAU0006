@@ -4546,7 +4546,7 @@ references:
   ISBN: 978-1-118-74007-1
   issued:
     - year: 2008
-  language: English
+  language: en
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Open WorldCat
@@ -5012,6 +5012,7 @@ references:
   citation-key: clerc:1684vitruvius
   issued:
     - year: 1684
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: \[Vitruvius presenting *De Architectura* to Augustus]
@@ -5053,11 +5054,11 @@ references:
   dimensions: "Altura: 1\_347,00 mm; Largura: 2\_136,00 mm"
   issued:
     - year: 1840
+  language: pt
   license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
-  title: Architect’s Dream
-  title-short: inglês
+  title: Architect’s dream
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Thomas_Cole_-_Architect%E2%80%99s_Dream_-_Google_Art_Project.jpg
@@ -5076,10 +5077,10 @@ references:
   citation-key: coleman:1839town
   issued:
     - year: 1839
-  language: English
+  language: en
   license: Public domain
   source: Wikimedia Commons
-  title: Town Map of Singapore
+  title: Town map of Singapore
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg
 
@@ -5094,6 +5095,7 @@ references:
     - family: Collart
       given: Paul
   citation-key: collart:colonnade
+  language: en
   source: Palmyra and the Temple of Baal Shamin
   title: Colonnade of the prostyle Temple
   title-short: Collections | | Paul Collart
@@ -5272,6 +5274,7 @@ references:
   citation-key: coolcaesar:2015master
   issued:
     - literal: 9 de setembro de 2015, 01:10:54
+  language: en
   source: Wikimedia Commons
   title: Master of the Nets Garden in Summer
   type: graphic
@@ -5436,7 +5439,7 @@ references:
     - year: 2020
       month: 4
       day: 23
-  language: Italian
+  language: it
   source: YouTube
   title: La Sagrestia Vecchia – struttura architettonica
   type: motion_picture
@@ -5454,9 +5457,9 @@ references:
   citation-key: cuesta:2011roma
   issued:
     - literal: 23 maggio 2011, 10:12:23
+  language: it
   source: Wikimedia Commons
   title: Roma. Farnesina. Loggia di Psiche
-  title-short: Español
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Farnesina_Loggia_di_Psiche._11.jpg?uselang=it
@@ -5473,9 +5476,9 @@ references:
   citation-key: cuesta:2014roma
   issued:
     - literal: 30 March 2014, 11:49:41
+  language: es
   source: Wikimedia Commons
   title: Roma. Santa Maria della Pace. Claustro. 09
-  title-short: Español
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Claustro_Pace_09.JPG
 
@@ -5491,6 +5494,7 @@ references:
   citation-key: cuesta:2015capilla
   issued:
     - literal: 22 de julho de 2015, 17:17:08
+  language: en
   medium: Photo
   source: Wikimedia Commons
   title: Capilla Pazzi
@@ -5525,6 +5529,7 @@ references:
   citation-key: czarnowski:2015firenze
   issued:
     - literal: novembro de 2015
+  language: en
   medium: Photography
   source: Wikimedia Commons
   title: Firenze, la cattedrale metropolitana di Santa Maria del Fiore
@@ -5542,10 +5547,10 @@ references:
   citation-key: daderot:1893tokyo
   issued:
     - year: 1893
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Tokyo map
-  title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:1893_Tokyo_map.jpg
 
@@ -5560,10 +5565,10 @@ references:
   citation-key: daderot:1906tokyo
   issued:
     - year: 1906
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Tokyo map
-  title-short: English
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:1906_Tokyo_map.jpg
 
@@ -5578,6 +5583,7 @@ references:
   citation-key: damato:2013church
   issued:
     - literal: 7 de setembro de 2013, 16:55:32
+  language: en
   source: Wikimedia Commons
   title: Church of the Gesù, Rome
   type: graphic
@@ -5622,6 +5628,7 @@ references:
     - year: 2008
       month: 2
       day: 10
+  language: en
   license: Attribution-NonCommercial-NoDerivs License
   medium: photo
   source: Flickr
@@ -5640,7 +5647,7 @@ references:
   citation-key: day:2011hagia
   issued:
     - literal: 2011-02-22, 14:53
-  language: English
+  language: en
   source: Wikimedia Commons
   title: Hagia Sophia
   type: graphic
@@ -5828,6 +5835,7 @@ references:
     - year: 2012
       month: 5
       day: 7
+  language: fr
   source: Wikimedia Commons
   title: Ca'Rezzonico à Venise Vue de la façade par Giorgio Massari
   type: graphic
@@ -5847,6 +5855,7 @@ references:
     - year: 2019
       month: 5
       day: 4
+  language: fr
   license: Public domain
   source: Wikimedia Commons
   title: Portego
@@ -6316,7 +6325,7 @@ references:
   ISBN: 978-0-8478-2186-0
   issued:
     - year: 2003
-  language: English
+  language: en
   number-of-pages: '384'
   publisher: Rizzoli
   publisher-place: New York
@@ -6350,7 +6359,7 @@ references:
   dimensions: 43,0 × 44,0 cm
   issued:
     - literal: de 1308 a 1311
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: têmpera  sobre madeira
   source: Wikimedia Commons
@@ -6443,6 +6452,7 @@ references:
   citation-key: dv8stees:2017doctor
   issued:
     - year: 2017
+  language: en
   title: Doctor Schnabel of Rome
   type: graphic
   URL: >-
@@ -6561,7 +6571,7 @@ references:
   author:
     - literal: École française du XIVe siècle
   citation-key: ecole:jonas
-  language: French
+  language: fr
   license: Public domain
   medium: Enluminure de la Bible de Jean XXII
   source: Wikimedia Commons
@@ -6675,6 +6685,7 @@ references:
     - year: 2010
       month: 5
       day: 28
+  language: en
   license: All Rights Reserved
   medium: SketchUp model
   source: Flickr
@@ -6809,6 +6820,7 @@ references:
       day: 27
   citation-key: fadu:san
   container-title: AID•FADU•UBA
+  language: es
   title: San Carlo alle quattro fontane
   type: webpage
   URL: >-
@@ -6836,7 +6848,7 @@ references:
   title: The Cambridge history of Africa c. 1050 to c. 1600
   type: book
 
-- id: fan:1000xishanhanglu
+- id: fan:1000Xi
   accessed:
     - year: 2020
       month: 9
@@ -6845,12 +6857,12 @@ references:
   author:
     - family: Fan
       given: Kuan
-  citation-key: fan:1000xishanhanglu
+  citation-key: fan:1000Xi
   dimensions: 206,3 × 103,3 cm
   issued:
     - year: 1000
       circa: true
-  language: Chinese
+  language: pt
   license: Public domain
   medium: tinta  sobre seda
   source: Wikimedia Commons
@@ -6973,6 +6985,7 @@ references:
     - year: 2020
       month: 3
       day: 28
+  language: it
   note: 'ZSCC: NoCitationData[s0]'
   producer:
     - family: Conti
@@ -6981,7 +6994,7 @@ references:
   publisher-place: Firenze
   source: YouTube
   title: 'Firenze deserta Coronavirus: i monumenti del centro storico'
-  title-short: 🔴 DRONE | Firenze deserta Coronavirus
+  title-short: Firenze deserta Coronavirus
   type: motion_picture
   URL: https://www.youtube.com/watch?v=zTJvE7BIZTo
 
@@ -7399,9 +7412,10 @@ references:
   citation-key: fletcher:1905tree
   issued:
     - year: 1905
+  language: en
   license: Public domain
   source: Wikimedia Commons
-  title: The Tree of Architecture
+  title: The tree of architecture
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:A_history_of_architecture_on_the_comparative_method_for_the_student,_craftsman,_and_amateur_-_The_Tree_of_Architecture.png
@@ -7440,6 +7454,7 @@ references:
     QS:P2048,35U174728;P2049,50U174728
   issued:
     - year: 1600
+  language: la
   license: Public domain
   medium: Kupferdruck
   source: Wikimedia Commons
@@ -7648,7 +7663,7 @@ references:
   dimensions: 230,0 × 321,0 cm
   issued:
     - literal: entre 1442 e 1443
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: afresco
   source: Wikimedia Commons
@@ -7671,6 +7686,7 @@ references:
     - year: 1480
       circa: true
     - year: 1484
+  language: en
   license: Public domain
   medium: oil and tempera on panel
   source: Wikimedia Commons
@@ -8027,6 +8043,7 @@ references:
   citation-key: furst:1656doctor
   issued:
     - literal: após 1656
+  language: pt
   license: Public domain
   medium: Gravura em cobre
   source: Wikimedia Commons
@@ -8068,6 +8085,7 @@ references:
     - year: 2012
       month: 11
       day: 9
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -8095,6 +8113,7 @@ references:
     - year: 2012
       month: 11
       day: 9
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -8135,6 +8154,7 @@ references:
   citation-key: gallina:18--accusing
   issued:
     - literal: 18--
+  language: en
   medium: Lithograph
   source: Wikimedia Commons
   title: Accusing the anointers in the great plague of Milan in 1630
@@ -8372,6 +8392,7 @@ references:
     - year: 2006
       month: 6
       day: 11
+  language: it
   source: Wikimedia Commons
   title: Pisa, Toscana, Italia. Duomo e Battistero dalla Torre
   type: graphic
@@ -8434,6 +8455,7 @@ references:
   citation-key: gemini:2019chiesa
   issued:
     - literal: 18 de abril de 2019, 10:28:17
+  language: it
   source: Wikimedia Commons
   title: Chiesa del Gesù
   type: graphic
@@ -8708,7 +8730,7 @@ references:
   citation-key: giggette:2010provincias
   issued:
     - literal: 11 de fevereiro de 2010, 12:44
-  language: Español
+  language: es
   source: Wikimedia Commons
   title: >-
     Provincias tributarias de la Triple Alianza encabezada por Tenochtitlan
@@ -8732,6 +8754,7 @@ references:
     - year: 2015
       month: 11
       day: 4
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
@@ -8779,7 +8802,7 @@ references:
   issued:
     - year: 1304
     - year: 1306
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: afresco
   source: Wikimedia Commons
@@ -8799,7 +8822,7 @@ references:
   citation-key: giotto:1310cristo
   issued:
     - literal: década de 1310
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: afresco
   source: Wikimedia Commons
@@ -8977,6 +9000,7 @@ references:
   citation-key: gryffindor:2008courtyard
   issued:
     - literal: abril de 2008
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -9007,6 +9031,7 @@ references:
   citation-key: gryffindor:2008piazza
   issued:
     - literal: abril de 2008
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -9033,7 +9058,7 @@ references:
     - family: Gu
       given: Kaizhi
   citation-key: gu:scene
-  language: English
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: >-
@@ -9131,7 +9156,7 @@ references:
   URL: >-
     https://www.dreamstime.com/stock-photo-santa-maria-novella-church-inside-view-florence-italy-image60042066
 
-- id: guo:1072zaochuntu
+- id: guo:1072Zao
   accessed:
     - year: 2020
       month: 9
@@ -9140,11 +9165,11 @@ references:
   author:
     - family: Guo
       given: Xi
-  citation-key: guo:1072zaochuntu
+  citation-key: guo:1072Zao
   dimensions: 158,3 × 108,1 cm
   issued:
     - year: 1072
-  language: Chinese
+  language: pt
   license: Public domain
   medium: tinta e aquarela  sobre seda
   source: Wikimedia Commons
@@ -9445,6 +9470,7 @@ references:
     - year: 2009
       month: 7
       day: 5
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -9471,6 +9497,7 @@ references:
   citation-key: halun:2014twin
   issued:
     - literal: 3 de agosto de 2014, 16:43:29
+  language: en
   source: Wikimedia Commons
   title: >-
     The "twin" churches of Santa Maria di Montesanto (left) and Santa Maria dei
@@ -9491,6 +9518,7 @@ references:
   citation-key: halun:2019taj
   issued:
     - literal: 4 de dezembro de 2019, 06:22:00
+  language: en
   source: Wikimedia Commons
   title: Taj Mahal, Agra
   type: graphic
@@ -9626,13 +9654,13 @@ references:
   citation-key: hayashi:1680zoho
   issued:
     - year: 1680
+  language: ja
   license: >-
     No known copyright restrictions. Please credit UBC Library as the image
     source. For more information, see
     digitalcollections.library.ubc.ca/cdm/about.
   source: Wikimedia Commons
   title: Zōho Edo ōezu, Hitsuji Sangatsu aratame oyaku eiri
-  title-short: English
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg
@@ -9649,6 +9677,7 @@ references:
   citation-key: hayashi:1686large
   issued:
     - year: 1686
+  language: en
   license: >-
     English: No known copyright restrictions. Please credit UBC Library as the
     image source. For more information, see
@@ -9995,7 +10024,7 @@ references:
     - literal: >-
         before 1641 date
         QS:P571,+1641-00-00T00:00:00Z/7,P1326,+1641-00-00T00:00:00Z/9
-  language: Latin
+  language: la
   license: Public domain
   source: Wikimedia Commons
   title: Nova Totius Terrarum Orbis Geographica ac Hydrographica Tabula
@@ -10055,6 +10084,7 @@ references:
     - year: 2018
       month: 9
       day: 25
+  language: en
   source: YouTube
   title: Tour of Taj Mahal, Agra (4K) - Drone and Ground and its Love Story
   type: motion_picture
@@ -10219,6 +10249,7 @@ references:
   citation-key: inoue:1887map
   issued:
     - year: 1887
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Map of Osaka Castle, around 1887. published by Interior Ministry of Japan
@@ -10300,10 +10331,10 @@ references:
   citation-key: jackson:1822plan
   issued:
     - year: 1822
-  language: English
+  language: en
   license: Public domain
   source: Wikimedia Commons
-  title: Plan of the Town of Singapore
+  title: Plan of the town of Singapore
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Plan_of_the_Town_of_Singapore_(1822)_by_Lieutenant_Philip_Jackson_original.jpg
@@ -10454,6 +10485,7 @@ references:
   citation-key: jastrow:2006cloister
   issued:
     - year: 2006
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Cloister of Santa Maria della Pace in Rome, designed by Bramante (1503)
@@ -10499,6 +10531,7 @@ references:
     - year: 2008
       month: 7
       day: 6
+  language: it
   license: Public domain
   source: Wikimedia Commons
   title: >-
@@ -10772,7 +10805,7 @@ references:
   container-title: Behance
   issued:
     - year: 2019
-  language: english
+  language: en
   title: Dimitar Karanikolov on Behance
   type: webpage
   URL: https://www.behance.net/karanikolov
@@ -10791,10 +10824,9 @@ references:
     - year: 2009
       month: 8
       day: 10
-  language: Portuguese
+  language: pt
   source: Wikimedia Commons
   title: Império de Majapait em sua maior extensão
-  title-short: Português
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg
 
@@ -10812,7 +10844,7 @@ references:
     - year: 2011
       month: 10
       day: 13
-  language: Portuguese
+  language: pt
   source: Wikimedia Commons
   title: Sultanato de Malaca em sua maior extensão
   type: graphic
@@ -10831,6 +10863,7 @@ references:
   dimensions: 97,0 × 71,0 cm
   issued:
     - year: 1764
+  language: pt
   license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
@@ -10946,7 +10979,7 @@ references:
     - year: 2014
       month: 9
       day: 12
-  language: Portuguese
+  language: pt
   source: Wikimedia Commons
   title: Interior da igreja de São Marcos em Veneza
   type: graphic
@@ -10964,6 +10997,7 @@ references:
   citation-key: kelly:2009babur
   issued:
     - literal: 19 de outubro de 2009, 03:59
+  language: en
   source: Wikimedia Commons
   title: Babur Gardens from a mountain top
   type: graphic
@@ -11213,7 +11247,7 @@ references:
     - year: 2013
       month: 10
       day: 6
-  language: English
+  language: en
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da licença GNU Free Documentation License, Versão 1.2 ou qualquer
@@ -11255,6 +11289,7 @@ references:
     - year: 2016
       month: 2
       day: 9
+  language: en
   license: CC-BY-SA
   source: Wikimedia Commons
   title: Shophouses. Kandahar Street. Kampong Glam, Central Region, Singapore
@@ -11318,6 +11353,7 @@ references:
     - year: 2008
       month: 5
       day: 24
+  language: en
   medium: Photography
   source: Wikimedia Commons
   title: >-
@@ -11525,6 +11561,7 @@ references:
   citation-key: lanciani:1893apostolic
   issued:
     - literal: entre 1893 e 1901
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Apostolic Palace and St. Peter's Basilica
@@ -11782,6 +11819,7 @@ references:
   container-title: Cargo Collective
   issued:
     - year: 2012
+  language: en
   title: Maps
   type: webpage
   URL: http://cargocollective.com/xinli/Maps
@@ -11846,6 +11884,7 @@ references:
     - year: 1466
       circa: true
     - year: 1468
+  language: it
   license: Public domain
   source: Wikimedia Commons
   title: >-
@@ -11868,6 +11907,7 @@ references:
     - year: 1466
       circa: true
     - year: 1468
+  language: it
   license: Public domain
   source: Wikimedia Commons
   title: Gru girevole di brunelleschi, codice ambrosiano CA, c. 965 r.jpg
@@ -11888,7 +11928,7 @@ references:
   issued:
     - year: 1472
       circa: true
-  language: Portuguese
+  language: pt
   medium: Óleo sobre madeira
   source: Wikimedia Commons
   title: Anunciação
@@ -11907,6 +11947,7 @@ references:
   issued:
     - year: 1492
       circa: true
+  language: pt
   license: Public domain
   medium: desenho a caneta, tinta e aguada sobre papel
   source: Wikimedia Commons
@@ -11929,6 +11970,7 @@ references:
     - year: 2010
       month: 4
       day: 22
+  language: it
   source: Wikimedia Commons
   title: Archivio di stato di Roma
   type: graphic
@@ -12074,6 +12116,7 @@ references:
   citation-key: lethiere:1799patrie
   issued:
     - year: 1799
+  language: fr
   license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
@@ -12125,7 +12168,7 @@ references:
   citation-key: li:09--buddhist
   issued:
     - literal: 9--
-  language: English
+  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Buddhist Temple in Mountain
@@ -12133,7 +12176,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Li_Cheng._Buddhist_Temple_in_Mountain._Nelson-Atkins_museum_of_art.jpg
 
-- id: li:1124wanhesongfeng
+- id: li:1124Wan
   accessed:
     - year: 2020
       month: 9
@@ -12142,11 +12185,11 @@ references:
   author:
     - family: Li
       given: Tang
-  citation-key: li:1124wanhesongfeng
+  citation-key: li:1124Wan
   dimensions: 188,7 × 139,8 cm
   issued:
     - year: 1124
-  language: Chinese
+  language: pt
   license: Public domain
   medium: Hanging scroll, tinta e aquarela sobre seda
   source: Wikimedia Commons
@@ -12358,26 +12401,9 @@ references:
   citation-key: livioandronico2013:2015carlino
   issued:
     - literal: 19 de julho de 2015, 12:22:58
+  language: it
   source: Wikimedia Commons
   title: San Carlo alle Quattro Fontane (Rome) - Intern
-  type: graphic
-  URL: >-
-    https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg
-
-- id: livioandronico2013:2015san
-  accessed:
-    - year: 2020
-      month: 9
-      day: 7
-  archive: Trabalho próprio pelo carregador
-  author:
-    - literal: Livioandronico2013
-  citation-key: livioandronico2013:2015san
-  issued:
-    - literal: 19 de julho de 2015, 12:22:58
-  language: Italian
-  source: Wikimedia Commons
-  title: San Carlo alle Quattro Fontane (Rome) - Interno
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_(Rome)_-_Intern.jpg
@@ -12395,7 +12421,7 @@ references:
     - year: 2016
       month: 9
       day: 11
-  language: English
+  language: en
   source: Wikimedia Commons
   title: Dome of Cattedrale di Santa Maria del Fiore (Florence)
   type: graphic
@@ -12479,11 +12505,11 @@ references:
   issued:
     - year: 1338
     - year: 1339
+  language: en
   license: Public domain
   medium: afrescomedium QS:P186,Q25631150
   source: Wikimedia Commons
   title: Effects of Good Government in the city
-  title-short: inglês
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg
@@ -12501,6 +12527,7 @@ references:
   issued:
     - year: 1338
     - year: 1339
+  language: it
   license: Public domain
   medium: afresco
   source: Wikimedia Commons
@@ -12522,7 +12549,7 @@ references:
   dimensions: 257,0 × 168,0 cm
   issued:
     - year: 1342
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: Óleo sobre madeira
   source: Wikimedia Commons
@@ -12542,7 +12569,7 @@ references:
   citation-key: lorenzetti:1342natividade
   issued:
     - year: 1342
-  language: Portuguese
+  language: pt
   license: Public domain
   source: Wikimedia Commons
   title: Natividade da Virgem
@@ -12561,7 +12588,7 @@ references:
   citation-key: lorenzetti:1344annunciazione
   issued:
     - year: 1344
-  language: Italian
+  language: it
   license: Sailko 12 de janeiro de 2018, 10:41:37
   source: Wikimedia Commons
   title: Annunciazione dal palazzo Pubblico
@@ -12578,7 +12605,7 @@ references:
     - family: Lorenzetti
       given: Ambrogio
   citation-key: lorenzetti:legenda
-  language: Italian
+  language: it
   license: Sailko 12 de janeiro de 2018, 10:59:26
   source: Wikimedia Commons
   title: Legenda di San Nicola
@@ -12765,11 +12792,11 @@ references:
   issued:
     - year: 1160
     - year: 1225
+  language: en
   license: Public domain
   medium: tinta  sobre sedamedium QS:P186,Q127418;P186,Q37681,P518,Q861259
   source: Wikimedia Commons
   title: Clouds Rising from the Green Sea, from a series of paintings of water = 水圖卷
-  title-short: English
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg
@@ -12789,7 +12816,7 @@ references:
     1/8 × 15 15/16 in.)
   issued:
     - year: 1225
-  language: English
+  language: en
   license: Public domain
   medium: Album leaf, ink on silk
   source: Wikimedia Commons
@@ -12797,7 +12824,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Clevelandart_1961.421.1.jpg
 
-- id: ma:late12th-early13thcenturygaoshiguanputu
+- id: ma:late12th-early13thcenturyGao
   accessed:
     - year: 2020
       month: 9
@@ -12806,11 +12833,11 @@ references:
   author:
     - family: Ma
       given: Yuan
-  citation-key: ma:late12th-early13thcenturygaoshiguanputu
+  citation-key: ma:late12th-early13thcenturyGao
   dimensions: 'Image: 9 7/8 × 10 1/4 in. (25.1 × 26 cm)'
   issued:
     - literal: late 12th–early 13th century
-  language: Chinese
+  language: en
   medium: Album leaf; ink and color on silk
   source: Wikimedia Commons
   title: 高士觀瀑圖 = Scholar viewing a waterfall
@@ -12904,6 +12931,7 @@ references:
     - year: 2018
       month: 8
       day: 20
+  language: en
   source: YouTube
   title: Italy, Florence - Boboli gardens (Palazzo Pitti)
   type: motion_picture
@@ -12922,6 +12950,7 @@ references:
     - year: 2013
       month: 8
       day: 1
+  language: fr
   source: Wikimedia Commons
   title: Vue aérienne
   type: graphic
@@ -13243,6 +13272,7 @@ references:
     - year: 2010
       month: 4
       day: 21
+  language: it
   license: >-
     É concedida permissão para copiar, distribuir e/ou modificar este documento
     nos termos da Licença de Documentação Livre GNU, versão 1.2 ou qualquer
@@ -13289,7 +13319,7 @@ references:
   citation-key: marcucci:1878cappella
   issued:
     - year: 1878
-  language: Italian
+  language: it
   medium: >-
     Ricordi di architettura |e raccolti autografati e pubblicati da una società
     di architetti fiorentini  serie 1, vol. 1, fasc. 3
@@ -13387,6 +13417,7 @@ references:
     QS:P2048,265U174728;P2049,305U174728
   issued:
     - literal: cerca de 1333 date QS:P571,+1333-00-00T00:00:00Z/9,P1480,Q5727902
+  language: en
   license: Public domain
   medium: têmpera  sobre madeiramedium QS:P186,Q175166;P186,Q287,P518,Q861259
   source: Wikimedia Commons
@@ -13407,13 +13438,13 @@ references:
   issued:
     - year: 1470
       circa: true
+  language: it
   source: Wikimedia Commons
   title: >-
     Rappresentazione simbolica della città fortificata così come la concepiva
     Francesco di Giorgio Martini, architetto umanista. La testa della città
     corrisponde alla fortezza, la parte più importante, persa quella anche la
     città era spacciata.
-  title-short: Italiano
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Figura_umana_sovrapposta_alla_pianta_di_una_cittadella.jpg
@@ -13452,7 +13483,7 @@ references:
   issued:
     - year: 1615
       circa: true
-  language: Portuguese
+  language: pt
   license: Public domain
   medium: Color on gold-leaf paper
   source: Wikimedia Commons
@@ -14194,6 +14225,7 @@ references:
   citation-key: monti:1950chiesa
   issued:
     - year: 1950
+  language: it
   source: Wikimedia Commons
   title: Chiesa di S. Carlino alle Quattro Fontane
   type: graphic
@@ -14228,7 +14260,7 @@ references:
   dimensions: 35 mm
   issued:
     - year: 1975
-  language: Italian
+  language: it
   medium: 'Strisce: 4, Fotogrammi complessivi: 19'
   source: Wikimedia Commons
   title: >-
@@ -14252,6 +14284,7 @@ references:
   dimensions: 24 × 30 cm
   issued:
     - year: 1979
+  language: it
   medium: Positivo b/n, gelatina bromuro d'argento/ carta
   source: Wikimedia Commons
   title: Palazzo della Cancelleria. Servizio fotografico (Roma, 1979)
@@ -14272,6 +14305,7 @@ references:
   dimensions: 35 mm
   issued:
     - year: 1980
+  language: it
   medium: 'Strisce: 7, Fotogrammi complessivi: 36'
   source: Wikimedia Commons
   title: Servizio fotografico (Vigevano, 1980)
@@ -14306,6 +14340,7 @@ references:
   citation-key: moonik:2013chapel
   issued:
     - literal: 24 de abril de 2013, 16:19:03
+  language: en
   source: Wikimedia Commons
   title: >-
     Chapel of St. Ursula of the Sorbonne seen from the courtyard in the 5th
@@ -22405,6 +22440,34 @@ references:
   type: book
   URL: http://archive.org/details/cinqveordinidarc00vign
 
+- id: vignola:1853vinhola
+  author:
+    - family: Vignola
+      given: Giacomo Barozzio
+    - family: Moisy
+      given: Alexandre
+    - family: Thiollet
+      given: François
+  call-number: '72'
+  citation-key: vignola:1853vinhola
+  event-place: Paris
+  issued:
+    - year: 1853
+  language: pt
+  publisher: J. Langlumé
+  publisher-place: Paris
+  source: catalogo.bn.pt Library Catalog
+  title: >-
+    O Vinhola dos proprietarios, ou as cinco ordens de architectura segundo J.
+    Barrozio de Vinhola
+  title-short: O Vinhola dos proprietarios
+  translator:
+    - family: Fonseca
+      given: José
+      dropping-particle: da
+  type: book
+  URL: http://biblioteca.ciarte.pt/tratados/obras/v/Vignola1853.html
+
 - id: vignola:1876regras
   accessed:
     - year: 2019
@@ -23128,7 +23191,7 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
-- id: ward:1911architecture1
+- id: ward:1911architecturea
   abstract: '52'
   accessed:
     - year: 2017
@@ -23138,13 +23201,13 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architecture1
+  citation-key: ward:1911architecturea
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1911
-  language: English
+  language: en
   number-of-pages: '320'
   publisher: B.T. Batsford
   publisher-place: London
@@ -23158,7 +23221,7 @@ references:
   URL: http://archive.org/details/architectureofre01ward
   volume: '1'
 
-- id: ward:1911architecture2
+- id: ward:1911architectureb
   abstract: '52'
   accessed:
     - year: 2017
@@ -23168,13 +23231,13 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architecture2
+  citation-key: ward:1911architectureb
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1911
-  language: English
+  language: en
   number-of-pages: '306'
   publisher: B.T. Batsford
   publisher-place: London
