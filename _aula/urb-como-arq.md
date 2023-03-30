@@ -1,9 +1,7 @@
 ---
-title   : "Urbanismo como arquitetura"
-subtitle: "Inquietações contemporâneas"
-item    : I
-author  : Pedro P. Palazzo
-date    : 2022-08-11
+title  : "Urbanismo como arquitetura"
+author : Pedro P. Palazzo
+date   : 2023-06-15
 tagline: |
   Sincretismo cultural na Etiópia –
   Desenhos desmedidos –
@@ -15,10 +13,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg/2560px-Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg
   caption: "Pierre Patel, [Vista do castelo e jardins de Versalhes desde a avenida de Paris](https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_PatelFXD.jpg), 1668"
-  actions:
-  - label: Slides
-    url  : /slides/urb-como-arq/
-
 sidebar:
 - title: "Leitura obrigatória"
   text: |

@@ -3,7 +3,7 @@ title   : "Rotas comerciais e paradigmas urbanísticos"
 subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : I
 author  : Pedro P. Palazzo
-date    : 2022-01-18
+date    : 2023-03-30
 tagline: |
   Mundos conectados no século <span class="smallcaps">XIV</span> –
   Cidades mercantes do Sudeste asiático –
@@ -14,15 +14,11 @@ title-slide-attributes:
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/katip_celebis_cihannuma-map_of_south_east_asia-bg-blur.jpg
   caption: "İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*](https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)) de Kâtip Çelebi, 1648"
-  actions:
-  - label: Slides
-    url  : /slides/rotas/
 
 sidebar:
 - title: "Leitura obrigatória"
   text: |
-    - *História global* v–vii, 455–468
-    - Summerson 1–15
+    *História global* v–vii, 455–468, 519
 ---
 
 # Mundos conectados no século [XIV]{.smallcaps} #

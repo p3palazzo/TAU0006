@@ -19426,6 +19426,20 @@ references:
   URL: >-
     https://www.dreamstime.com/editorial-photo-interior-basilica-di-santa-maria-del-fiore-florence-i-saint-mary-flower-italy-image44519156
 
+- id: schaeffer:1971chinesicesxxii
+  author:
+    - family: Schaeffer
+      given: Enrico
+  citation-key: schaeffer:1971chinesicesxxii
+  container-title: Anais do Museu Histórico Nacional
+  issued:
+    - year: 1971
+  language: pt
+  page: 33–49
+  title: Chinesices no Brasil
+  type: article-journal
+  volume: XXII
+
 - id: schafer:2003plan
   accessed:
     - year: 2020

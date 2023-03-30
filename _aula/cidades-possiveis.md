@@ -3,759 +3,326 @@ title   : "Cidades possíveis"
 subtitle: "Cidades e redes na fundação do mundo moderno"
 item    : III
 author  : Pedro P. Palazzo
-date    : 2022-02-01
+date    : 2023-04-13
 tagline: |
   Espacialidade e vazio na pintura chinesa –
   História da arquitetura como história do espaço –
   Urbanismo de colina –
   Cidades e castelos no Japão –
   Do boma banto às cidades da Guiné
+
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/02/rakuchu_rakugai_zu_byobu_fukuoka_city_museuml.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [Vistas dentro e fora de Quioto](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), biombo esquerdo de um par, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
-  actions:
-  - label: Slides
-    url  : /slides/cidades-possiveis/
 
 sidebar:
 - title: "Leitura obrigatória"
   text: |
-    - *História global* 491–518, 537–538
+    *História global* 469, 496–511
 ---
 
-# Espacialidade e vazio na pintura chinesa #
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O domínio do espaço é um dos temas estruturantes na nossa abordagem da
-arquitetura do Renascimento. Desde o início da construção da cúpula da
-catedral de Florença, em 1420, até as superfícies tortuosas do barroco
-tardio e do rococó, no século [XVIII]{.smallcaps}, a manipulação geométrica dos
-espaços interiores é um critério central para interpretar, classificar e
-periodizar a arquitetura. No entanto, a importância que essa narrativa
-histórica centrada no espaço tem para um estudo estético da arquitetura
-hoje em dia é uma interpretação relativamente recente.
+Neste tópico nós vamos tratar do pensamento e da prática de produção das
+cidades na Europa e na Ásia dos séculos [XV]{.smallcaps} e
+[XVI]{.smallcaps}. A primeira parte aborda o que se convencionou chamar
+de cidades ideais na teoria da arquitetura na Itália e na China. A
+segunda parte observa a realidade da implantação de espaços urbanos em
+Portugal e no Japão. Essas práticas dialogam com concepções teóricas,
+ajustando as as possibilidades e as conveniências do contexto. A
+terceira parte trata do papel das fortificações e da arquitetura militar
+nos processos de consolidação política e de expansão ultramarina dos
+estados europeus. Ainda no tema da consolidação expansão das potências
+europeias, a quarta e última parte discutir a formação de praças em
+quantos passos representativos do poder e de um certo ideal de
+regularidade urbana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Campo e canal em Veneza #
+
+## Parcelamento do solo e paisagem urbana ## {data-visibility="hidden"}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os elementos e objetos da arquitetura têm uma ordem de precedência
+específica. A tipologia edilícia determina os padrões de ocupação do
+espaço urbano e rural: isso porque os tipos de casas usados numa certa
+sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
+de precedência se aplica ao parcelamento originário do solo, por
+exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
+do império Romano, ou nas vilas planejadas da Europa medieval.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+Uma vez cumprido esse processo originário de urbanização num território
+desocupado, a ordem de precedência se inverte: o parcelamento do solo
+preexistente, tanto no espaço urbano quanto no rural, passa a restringir
+as tipologias edilícias possíveis. Esta é a condição dominante da
+urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
+século [XIV]{.smallcaps}.
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
+[XVI]{.smallcaps}, a realidade do território preexistente interferia com
+projetos políticos e ideológicos que visavam a reinstituir princípios
+teóricos da arquitetura e urbanísticos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg"}
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+Veneza é uma das cidades mais densas do mundo, por força da necessidade
+da sua implantação. Edificada em ilhas pantanosas de uma laguna, a
+cidade sempre teve limites bastante claros para a sua expansão. Mesmo a
+verticalização é limitada pela qualidade do solo. Chegando ao limite do
+crescimento *para fora*, só resta crescer *para dentro*, ocupando o
+interior dos lotes.
+<!--/Câmera-->
+
+Veneza também é, até o final do século [XV]{.smallcaps}, praticamente o único porto
+europeu com acesso ao comércio da rota da Seda e do oceano Índico ([@fig:embaixadores]). A
+riqueza financeira e cultural que essa posição garante é um dos motores
+para o desenvolvimento artístico do Renascimento. O paradoxo do
+Renascimento em Veneza é justamente esse: uma cidade sem espaço para
+realizar os projetos ideais que as suas editoras publicam, mas que se
+renova pouco a pouco com esse ideal no horizonte.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg){#fig:embaixadores}
+
+## Parcelamento urbano europeu ## {data-visbility="hidden"}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O crescimento de Veneza parte do *urbanismo de caminhos* que é a lógica
+fundadora da urbanização europeia desde a Idade Média
+[@panerai:2006analise]. Nesse processo, as povoações se desenvolvem ao
+longo de um eixo estruturante no território ([@fig:trudaine]). Ao mesmo
+tempo que os núcleos urbanos se estendem ao longo dos caminhos, eles se
+*espessam* para os fundos das glebas e se *adensam* para aproveitar com
+maior eficiência a proximidade aos equipamentos e espaços públicos mais
+demandados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::: full
+![[Estrada real por Monthléry e Linas][], departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745--80](https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg){#fig:trudaine  }
+:::
+
+[Estrada real por Monthléry e Linas]: http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&FIELD_2=Cote&VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&NUMBER=4&GRP=0&REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&USRNAME=nobody&USRPWD=4%24%2534P&SPEC=9&SYN=1&IMLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All
+
+## Campo como gerador do traçado em Veneza ## {data-visibility="hidden"}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em Veneza, por causa das restrições impostas pelas ilhas, não existe um
+caminho estruturante que domine a formação de um espaço urbano linear ([@fig:combatti]).
+Em vez disso, portanto, a estruturação do traçado urbanístico é
+centralizada em pontos focais: a praça de bairro, chamada *campo* em
+Veneza. Observada essa diferença, o processo de crescimento e
+adensamento em Veneza segue o mesmo padrão.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Bernardo e Gaetano Combatti, [planta de Veneza, 1847][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg){#fig:combatti}
+
+[planta de Veneza, 1847]: https://gallica.bnf.fr/ark:/12148/btv1b53075148q
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg" data-transition="fade-out"}
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Edmund Bacon, o urbanismo de Veneza estabelece um esquema de
+temas dominantes --- as praças cívicas e igrejas principais --- e
+subdominantes --- os *campi* com a igreja paroquial de cada ilha
+[@bacon:1974design, 101]. O conjunto urbano é hierarquizado segundo a
+importância simbólica dos diferentes espaços, mas os *campi* também
+refletem, num registro mais modesto, a dignidade cívica das grandes
+praças ([@fig:canaletto1730; @fig:querena1878]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg){#fig:canaletto1730}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307.jpg" data-transition="fade-in"}
+
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg){#fig:querena1878}
+
+<!--_-->
+
+## Tipologia e historicidade ## {data-visibility="hidden"}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png" data-background-size="contain"}
+
+::: align-right
+![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia  }
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+<!--Câmera-->
+A unidade básica da urbanização na Europa é o lote. A dimensão da
+testada do lote urbano tende a se padronizar em diferentes regiões; essa
+padronização segue as dimensões do tipo edilício de base ou *tipo
+portante* ([@fig:caniggia]) que domina o tecido urbano em cada região
+[@caniggia:1997metodologia]. Portanto, os requisitos do tipo portante
+determinam o módulo habitual da testada do lote, e o lote então
+condiciona as configurações arquitetônicas possíveis, favorecendo por
+sua vez a continuidade do tipo portante.
+<!--/Câmera-->
+
+Na Itália, a influência do império Romano deixou como legado um módulo
+de parcelamento do solo planejado, com lotes de 50 pés (17 metros) de
+testada ideal para casas-pátio suburbanas [@caniggia:2008lettura]. Com o adensamento das
+colônias romanas, esses lotes tendem a ser subdivididos em duas ou três
+frações. A testada resultante, com 6 a 8,5 metros de largura, funciona
+tanto para as casas romanas com átrio quanto para as casas geminadas
+medievais, com corredor lateral.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg" data-background-size="contain"}
+
+::: align-right
+![Saverio Muratori (1910--1973)](https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg){#fig:muratori-foto  }
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
+<!--Câmera--> 
+O estudo da tipologia como instrumento de *projeto* foi fundado na
+Itália por Saverio Muratori ([@fig:muratori-foto]), que era professor de projeto na
+Universidade de Veneza no final da década de 1950. Como muitos dos seus
+contemporâneos, Muratori procurava uma justificativa teórica para
+combater a destruição dos centros históricos em nome do "progresso" ou
+dos "problemas da modernidade".
+<!--/Câmera-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg" data-background-size="contain"}
+
+![Arnold Hauser. *História social da arte*](https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg){#fig:hauser-social .align-right} 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nas décadas de 1950 e 60, o discurso historiográfico em autores como
+Arnold Hauser e Henri Lefebvre se caracterizava por uma espécie de
+determinismo histórico simplório. Essa interpretação era vagamente
+inspirada na *Filosofia da História* do filósofo alemão Hegel. Em linhas
+gerais, Hauser propõe, na *História social da arte e da literatura*
+([@fig:hauser-social]), que toda arte é um produto do seu
+tempo. Isto é, haveria --- segundo ele --- uma identidade perfeita entre
+as condições sociais ou materiais de uma época e as formas artísticas
+que essa época produz.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Um pouco mais antigo é o estudo da representação do espaço na pintura.
-Esses dois problemas --- o domínio do espaço no ofício da arquitetura e
-a representação do espaço na pintura --- dialogam nas suas
-transformações ao longo do tempo. Na História da Arte, o problema da
-representação do espaço na pintura chinesa e italiana é uma das questões
-clássicas. Alguns dos principais autores de meados do século [XX]{.smallcaps}, como
-Erwin Panofsky e Rudolf Wittkower para a Itália ou Liang Sicheng e James
-Cahill para a China ([@fig:mk2]), elaboraram teorias explicativas sistemáticas
-sobre essa questão. Mais adiante, essas teorias acabariam questionadas
-por terem criado esquemas um tanto deterministas e simplistas. No
-entanto, essa crítica não substituiu os esquemas clássicos por outros.
-Por isso, apesar das limitações interpretativas desses esquemas, eles
-continuam sendo uma introdução relevante ao estudo da história da arte.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<!--Câmera-->
+Contra essa identidade simplória entre *artefato* e período histórico,
+Muratori afirma que a cidade e a arquitetura são *processos* que
+atravessam várias épocas. Não se trata só de reconhecer que um ambiente
+urbano qualquer é formado por edifícios de várias datas. Cada uma dessas
+construções, por mais singular que seja, contém no seu partido
+arquitetônico o resultado de um longo encadeamento de transformações
+tipológicas. A arqueologia urbana de Veneza, que Muratori publica em
+1959, demonstra esse acúmulo de transformações na sua própria forma.
+<!--/Câmera-->
 
-![Choose your Art Historian](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2 .r-stretch}
-
-## Emergência da espacialidade ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A busca por articulações espaciais específicas e por modos de
-representar espaço na pintura é um esforço contínuo nas tradições
-artísticas na Ásia oriental e na Europa.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Compreender arquitetura e mesmo a pintura como artes espaciais permite
-ir além de uma leitura superficial dos estilos decorativos ou gráficos
-para atingir as buscas teóricas e técnicas mais profundas que os
-artistas desenvolvem ao longo do tempo. Isso é especialmente válido no
-caso da China, que tem uma longa tradição artística conservadora, onde o
-estilo de representação pictórica está, em grande parte, codificado
-desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Gu Kaizhi. [*Ninfa do rio Luo*], cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi}
-
-[*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg" data-background-size="contain"}
-
-::: full
-![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan  }
-:::
-
-[Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)_by_Emperor_Huizong_(1082–1135).jpg
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O fio condutor da periodização na pintura
-chinesa diz respeito portanto ao desenvolvimento de articulações do
-espaço pictórico. De modo muito resumido, essas articulações passam de
-figuras isoladas, na dinastia Han (séculos [I--III]{.smallcaps} d.C.), a
-células espaciais formando uma narrativa sequencial, na dinastia Tang
-(séculos [VII--X]{.smallcaps}) ([@fig:zhangxuan]), até composições
-espaciais completas e contínuas na dinastia Song (séculos
-[X--XIII]{.smallcaps}), quando se desenvolve a pintura de paisagens e de
-cenas urbanas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Materialidade e imaterialidade ##
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Dominar o espaço na pintura envolve projetar numa superfície em duas
-dimensões formas que existem no espaço físico em três dimensões. O modo
-pelo qual cada cultura ou período histórico realiza essa projeção é,
-essencialmente, uma convenção cultural. Na China, a perspectiva
-cavaleira se firma desde cedo como o modo preferencial de projeção das
-formas geométricas na pintura ([@fig:zhouwenju]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: full
-![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music,_Ming_dynasty,_Chicago_Institute_of_Art.jpg){#fig:zhouwenju   .r-stack}
-:::
-
-<!--_-->
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg" data-background-size="contain"}
-
-::: align-right
-![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang  }
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uma das primeiras teorias críticas da arte foi escrita na China do
-século [XVII]{.smallcaps}, e trata justamente da representação do espaço
-na pintura. O pintor e letrado Dong Qichang (1555--1636)
-([@fig:dong-qichang]) dividiu a pintura de paisagem clássica em duas
-"escolas", baseadas no modo de representação dos objetos e do espaço
-vazio entre eles [@cahill:1978parting, 5].
+Originalmente, o *campo* era a horta, mercado e praça pública da
+comunidade. As primeiras casas são construídas no perímetro da ilha,
+deixando todo o interior livre para o *campo* e começando por
+estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
+igreja ocupa uma posição central na ilha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essas duas escolas se formam durante o declínio da dinastia Song, entre
-os séculos [X]{.smallcaps} e [XII]{.smallcaps} ([@fig:nansong]). A
-teoria de que o ápice artístico acontece numa época de declínio político
-era importante para Dong pois ele viveu no final da dinastia Ming
-([@fig:mingdai]), quando a corrupção e a ineficiência administrativa
-estavam abrindo caminho para a conquista da China pelos manchus. A
-teoria crítica de Dong refletia, portanto, a ansiedade política do
-presente na sua interpretação da história: no caso, o final da dinastia
-Song e a conquista da China pelos mongóis no século [XIII]{.smallcaps}.
+::::::::::::::::::::::::::::::::::::::: {#fig:grisostomo .full .third}
+<div class="r-stack"> ![1100](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg){#fig:grisostomo1100 .fragment .current-visible}
+![1200](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg){#fig:grisostomo1200 .fragment .current-visible}
+![1350](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg){#fig:grisostomo1350 .fragment .current-visible}
+![1450](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg){#fig:grisostomo1450 .fragment .current-visible}
+![1500](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg){#fig:grisostomo1500 .fragment .current-visible}
+![1840](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg){#fig:grisostomo1840 .fragment .current-visible} </div>
 
-O rebatimento de questões contemporâneas na escrita da história não é
-exclusividade de Dong Qichang, mas é uma característica universal de
-qualquer texto histórico. Isso não quer dizer que as interpretações
-históricas distorcem o passado para adequá-lo a uma ideologia do
-presente --- *algumas* interpretações fazem isso ---, mas que o
-interesse por certos aspectos do que aconteceu no passado varia de
-acordo com as preocupações intelectuais, profissionais ou políticas do
-presente.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-_Southern_Song_Dynasty-es.svg/782px-China_-_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
-:::
-::: {.column width=50%}
-![Dinastia Ming c. 1580. Mapa: [Podzemnik, 2014, baseado em Michal Klajban, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ming_Empire_cca_1580_es.svg/755px-Ming_Empire_cca_1580_es.svg.png){#fig:mingdai}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:China_-_Southern_Song_Dynasty-es.svg
-
-[Podzemnik, 2014, baseado em Michal Klajban, 2010]: https://commons.wikimedia.org/wiki/File:Ming_Empire_cca_1580_es.svg
-
-<!--_-->
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=43.5%}
-![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg){#fig:juran}
-:::
-::: {.column width=56.5%}
-![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
-:::
+Campo S. Giovanni Grisostomo, Veneza. Reconstituição em diferentes datas
+pelos alunos do ateliê Saverio Muratori no Istituto Universitario di
+Architettura di Venezia, 1954--1959
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
+Ao mesmo tempo que se completa o perímetro da ilha, os edifícios começam
+a ser ampliados para os fundos, "consumindo" o espaço do *campo*. Os
+lotes se tornam estreitos e profundos à medida que eles avançam sobre o
+*campo*. Essas proporções motivam o desenvolvimento de um novo tipo de
+morada nobre: o palácio com *portego*, um salão no primeiro andar que
+atravessa toda a profundidade do edifício de frente a fundos. O
+*portego* fornece iluminação e ventilação indiretas para várias salas no
+interior do edifício ([@fig:grisostomo1200]).
 
-A chamada escola do Norte favorece
-uma construção gradual da profundidade em múltiplo planos pictóricos
-([@fig:juran]); na escola do Sul, desenvolve-se um salto entre o plano
-de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
+O processo de adensamento é gradual, e nenhum agente tem poder econômico
+ou político suficiente para impor grandes transformações de uma só
+tacada. O resultado é um mosaico de propriedade fundiária onde palácios
+ficam lado a lado com prédios de aluguel ([@fig:grisostomo1350]).
+
+As construções privadas tendem a ocupar a totalidade dos seus lotes;
+portanto, elas assumem no seu interior a irregularidade geométrica dos
+lotes. Para isso, pode-se usar as articulações do espaço construído com
+os pátios, ou mesmo espaços secundários dentro da edificação
+([@fig:grisostomo1450]).
+
+A essa altura, o *campo* já foi pavimentado e tem o seu espaço muito
+reduzido e nitidamente delimitado ([@fig:grisostomo1500]). Todo o processo
+aconteceu por meio de transformações sucessivas onde cada passo preserva
+a coerência das etapas anteriores. Não existe um urbanismo
+exclusivamente representativo da "Veneza medieval" ou da "Veneza do
+Renascimento": cada estágio na consolidação urbana evidencia o
+*conjunto* de períodos históricos acumulados até então.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*Buscando o Tao nas montanhas de outono*]: https://commons.wikimedia.org/wiki/File:Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg
+## Urbanismo como palimpsesto ## {data-visibility="hidden"}
 
-<!--_-->
-
-[*Início da primavera*, 1072]: https://commons.wikimedia.org/wiki/File:Guo_Xi_-_Early_Spring_(large).jpg
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A distinção entre norte e sul diz respeito ao estilo das pinturas, mais
-do que à origem geográfica ou histórica dos pintores. Li Tang era um
-artista do sul da China, no período da dinastia Song do Sul, mas a
-composição incremental de planos contínuos aproxima a sua obra do estilo
-do Norte ([@fig:litang]). Já Fan Kuan era um artista da dinastia Song do
-Norte, mas o salto brusco do fundo para o primeiro plano, por sobre a
-névoa, faz com que a sua obra seja precursora do estilo do Sul
-([@fig:fankuan]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=59%}
-![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
-:::
-::: {.column width=41%}
-![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg/1021px-Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg){#fig:fankuan}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[*Viajantes entre montanhas e corredeiras*]: https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
-
-[*Vento nos pinheiros por entre milhares de vales*]: https://commons.wikimedia.org/wiki/File:Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
-
-<!--_-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
-
-![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan}
-
-[*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)_009.jpg/1280px-Canaletto_(II)_009.jpg"}
 
 <!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}, a própria névoa se torna objeto da pintura.
-Representar o vazio é uma das principais conquistas conceituais e
-características definidoras da Ásia oriental ([@fig:mayuan]). O vazio na pintura chinesa
-vai ser entendido como representação de refinamento e autonomia
-intelectual. A imaterialidade e a profundidade do espaço, apresentadas
-no plano da pintura, constituem uma reflexão sobre a própria natureza do
-espaço e do vazio.
+Na leitura de Muratori, a cidade é ao mesmo tempo *artefato* e
+*processo*. Por um lado, a forma urbana e o tecido edificado são
+*artefatos*: cada nova construção, reforma ou agenciamento do espaço
+urbano é um produto intencional e planejado do trabalho humano. Por
+outro lado, eles são, também, a evidência tangível de um *processo* que
+se desenvolve ao longo do tempo. Qualquer ambiência urbana é o resultado
+do trabalho acumulado de gerações; em grande medida, o mesmo vale para
+os edifícios, especialmente os mais antigos.
+
+Em Veneza, não há espaço para grandes traçados autorais. A cidade se
+renova aos poucos, confiando na coerência de projetos sucessivos movidos
+por um mesmo propósito.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A personagem intelectual representada na pintura de Ma Lin ([@fig:malin])
-está, assim como o pintor, ponderando a interdependência entre
-matéria e vazio: as relações espaciais entre objetos materiais só se
-estabelecem graças ao espaço vazio entre eles, mas esse vazio imaterial
-só passa a "existir" numa pintura quando é delimitado pela representação
-de objetos materiais. Esse interesse em contemplar o vazio é apresentado
-como marcador de uma formação intelectual e estética socialmente
-superior.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
-
-[*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
-
-## Arte clássica ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
-
-![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg){#fig:literati}
-
-[*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O espaço pictórico incorpora, portanto, um discurso político sobre o
-*status* social dos intelectuais pintores ([@fig:literati]), mas também
-sobre a legitimidade dos governantes. Olhar especificamente para essa
-politização do espaço é, naturalmente, um interesse característico
-também da nossa historiografia contemporânea da arte.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg" data-background-size="contain"}
-
-![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
-
-[*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O período da dinastia Song é considerado pelos chineses do século [XIV]{.smallcaps}
-como o ponto alto da sua cultura e uma espécie de período clássico. As
-tradições artísticas e arquitetônicas da China se estabilizam do século
-[XII]{.smallcaps} em diante ([@fig:fragrance]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ao longo de todos as transformações subsequentes, os artistas chineses
-sempre voltam periodicamente a fazer referência aos padrões
-estabelecidos na dinastia Song ([@fig:qingming-song;
-@fig:qingming-qing]).
-
-::: {.notice}
-[]{.fas .fa-info-circle} As duas pinturas abaixo leem-se da direita para
-a esquerda.
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-song .full}
-<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
-
-Zhang Zeduan, [*Ao longo do rio durante o festival Qingming*][], século [XII]{.smallcaps} 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[*Ao longo do rio durante o festival Qingming*]: https://commons.wikimedia.org/wiki/File:Alongtheriver_QingMing.jpg
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-qing .full}
-<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Along_the_River_7-119-3.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
-
-Ao longo do rio durante o festival Qingming. Cópia por [cinco artistas de
-corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[cinco artistas de corte]: https://commons.wikimedia.org/wiki/Category:Along_the_River_During_the_Qingming_Festival_Season_(Qing_Court_Version)
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# História da arquitetura como história do espaço #
-
-## Perspectiva linear e arquitetura ##
-
-::: align-right
-![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky   .overlay-slide}
-:::
-
-[Princeton University Press]: https://press.princeton.edu/our-authors/panofsky-erwin
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na Europa, a busca pelo domínio do espaço arquitetônico na pintura segue
-um percurso semelhante. O desenvolvimento da perspectiva linear desde a
-antiguidade romana e depois novamente a partir da pintura gótica e até o
-renascimento a característica central desse processo, estudado por
-Erwin Panofsky ([@fig:panofsky]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/2560px-Casa_de_la_Farnesina_06.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A pintura na Roma antiga segue um percurso semelhante ao da pintura
-chinesa, começando com figuras isoladas e desenvolvendo uma
-representação do espaço arquitetônico baseada numa perspectiva cônica
-com linhas de fuga, concluindo com a inserção de figuras no espaço
-arquitetônico ([@fig:farnesina-cubB]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Afresco retirado do cubículo "B" da villa romana na Farnesina, arredores de Roma, terceiro estilo, século [I]{.smallcaps} a.C. Foto: [Miguel Hermoso Cuesta, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/1024px-Casa_de_la_Farnesina_06.JPG){#fig:farnesina-cubB}
-
-[Miguel Hermoso Cuesta, 2014]: https://commons.wikimedia.org/wiki/File:Casa_de_la_Farnesina_06.JPG
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ohrid_annunciation_icon.jpg" data-background-size="contain"}
-
-::: align-right
-![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid  }
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
-representação do espaço, predominantemente preocupada com a apresentação
-de figuras com significado transcendental ([@fig:ohrid]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg" data-background-position="top"}
+![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)_009.jpg/1280px-Canaletto_(II)_009.jpg){#fig:canaletto-vigna}
 
 <!--_-->
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-É a pintura gótica no séculos [XIV]{.smallcaps} e [XV]{.smallcaps} que
-vai operar um resgate da inserção de figuras no espaço,
-começando na França e seguindo para Itália já na primeira metade do
-século [XIV]{.smallcaps} com a obra de artistas como Giotto
-([@fig:giotto]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: full
-![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto  }
-:::
-
-[Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg
-
-<!--_-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg" data-background-position="bottom"}
-
-![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann}
-
-[Anunciação e dois santos, 1333]: https://commons.wikimedia.org/wiki/File:Simone_Martini_truecolor.jpg
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O movimento franciscano dá um impulso decisivo para essa demanda por
-representação de figuras no espaço, aproximando a iconografia religiosa
-do cotidiano dos devotos (ver [@fig:giotto]). As figuras de Anunciação são um dos principais
-instrumentos desse desenvolvimento da lógica espacial. A partir do
-modelo bizantino de figuras de Maria e o anjo desprovidas de contexto,
-geralmente com fundo dourado, os artistas italianos dos séculos
-[XIV]{.smallcaps} e [XV]{.smallcaps} começam a incluir a ambientação
-espacial e, gradualmente, uma
-delimitação maior dos ambientes onde se desenvolve a cena ([@fig:martini-ann]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg" data-background-size="contain"}
-
-::: align-right
-![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita  }
-:::
-
-[Natividade da Virgem Maria, 1342]: https://www.wga.hu/frames-e.html?/html/l/lorenzet/pietro/2/15birth.html
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na obra de Simone Martini e Pietro Lorenzetti ([@fig:plor-nativita]), temos um dos primeiros
-enquadramentos espaciais coerentes da cena, mostrando Maria e o anjo
-inseridos num espaço arquitetônico com limites visíveis. As inúmeras
-pinturas da Anunciação evidenciam a busca por formas de representação do
-espaço mais naturalistas e geometricamente elaborados, mas, por outro
-lado, também o estabelecimento de uma convenção pictórica referente ao
-posicionamento das figuras e a sua relação com o espaço.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg" data-background-size="contain"}
-
-::: align-right
-![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann  }
-:::
-
-[Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-_1344..jpg
-
-<!--_-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ambrogio Lorenzetti é um dos primeiros artistas --- talvez o primeiro
---- a representar uma perspectiva linear precisa no piso do ambiente
-onde a Anunciação se desenrola ([@fig:alor-ann]). Na suas obras porém o
-espaço físico ainda é determinado pelas necessidades narrativas da cena.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Urbanismo europeu e historicidade ## {data-visibility="hidden"}
 
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
-técnico na representação do espaço caracterizado pela introdução da
-perspectiva linear com ponto de fuga. A principal característica
-da perspectiva com ponto de fuga é uniformizar o tratamento do espaço e
-das figuras. A partir daí, todos os objetos presentes na cena --- sejam
-eles figuras humanas ou objeto inanimados, ou ainda a própria
-delimitação do espaço arquitetônico --- podem ser descritos segundo os
-mesmos procedimentos técnicos. Em certas obras, como a Anunciação de
-Filippo Lippi, a rigidez da perspectiva arquitetônica chega mesmo a
-interferir na composição narrativa da pintura.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A famosa Anunciação de Fra Angelico, pintada em 1438, é uma das
-primeiras obras a se valer quase que integralmente dos recursos
-oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
-especialidade na pintura gótica está diretamente associado ao senso
-espacial e plástico do próprio estilo arquitetônico gótico, o domínio
-completo da perspectiva linear parece associado, de modo semelhante, à
-arquitetura clássica herdada da Antiguidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Perspectiva "exata" é impossível porque o olho projeta a imagem numa
-superfície esférica; dimensões aparentes decorrem, portanto, do ângulo
-de visão, mas os ângulos esféricos não podem ser projetados com exatidão
-num plano pictórico; por outro lado, perspectiva linear que restitui
-objetos neste plano não corresponde exatamente ao que o olho vê
-[@panofsky:1997perspective].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Brunelleschi inventou *uma* forma de perspectiva (testemunhado por
-Filarete), provavelmente uma regressão da trigonometria da agrimensura,
-mas talvez não *a* perspectiva linear construída a partir de planta e
-elevação, descrita por Alberti e usada por Masaccio; a esse respeito,
-ver @aiken:1995perspective16; @andersen:2007geometry.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!--
-   -##
-   -
-   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-   -Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
-   -Brunelleschi a invenção da perspectiva linear. Embora
-   -nenhum outro autor confirme de modo independente essa atribuição a
-   -relação entre a obra de Brunelleschi e o controle pictórico espaço por
-   -meio da perspectiva linear é intrigante. 
-   -Brunelleschi está incumbido de resolver uma contradição conceitual entre
-   -o espaço linear da catedral gótica e o espaço centralizado da cúpula
-   -românica. O espaço gótico, feito de módulos que se repetem e se
-   -alinham em configurações variadas, é potencialmente infinito e
-   -restringido apenas por limites convencionais. O espaço da perspectiva
-   -linear, por outro lado, é intrinsecamente delimitado porque pode ser
-   -representado apenas por meio dessa delimitação.
-   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-   -
-   -->
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As composições arquitetônicas de Brunelleschi, para além da cúpula da
-Catedral de Florença, por exemplo no asilo dos Inocentes, são, ainda,
-essencialmente lineares e planares. No entanto, em contraste com a
-linearidade gótica, elas apresentam limites claramente definidos, ainda
-que por ora experimentais.
-Assim, o controle do espaço na pintura se desdobra para o controle do
-espaço da forma arquitetônica construída.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Espaço e modernismo ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png" data-background-size="contain"}
-
-::: align-right
-![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line  }
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A noção do espaço como força geradora das transformações
-arquitetônicas emerge por volta da mesma época em que a história dos
-estilos atingiu seu auge. A história da
-arquitetura do Choisy é um marco na afirmação do espaço arquitetônico
-como característica determinante das construções. As famosas vistas
-isométricas de baixo para cima que ilustram o livro ([@fig:choisy])
-representam uma busca pela visualização desse espaço de modo
-sistemático. Muitos arquitetos europeus do século [XX]{.smallcaps}, entre eles Le
-Corbusier, vão ser fortemente influenciados por essas ilustrações. Para
-autores como Alan Colquhoun, Reyner Banham, Sigfried Giedion, e o
-próprio Le Corbusier, o espaço abstrato substitui a construção e o
-estilo decorativo como elemento determinante na descrição na
-classificação da arquitetura. A abstração volumétrica do espaço é
-especialmente tentadora para a promoção do modernismo, ao qual esses
-autores se vinculam.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg" data-background-size="contain"}
-
-::: align-right
-![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion  }
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Apesar da aparente revolução no entendimento da arquitetura que essa
-nova ênfase no espaço traz, a leitura do espaço feita pelos modernistas
-reproduz a visão eurocêntrica e focada na evolução construtiva que os os
-professores defendiam. Eles decretam o esgotamento retroativo do
-paradigma renascentista por causa do ecletismo, que consideram uma
-"falsificação" ilegítima do processo histórico ainda visto como uma
-progressão linear. A história da especialidade promovida por autores
-como Giedion ([@fig:giedion]) e Saarinen acrescenta confusão à narrativa histórica, sem
-eliminar o determinismo da antiga história dos estilos, e dando margem a
-interpretações arbitrárias sobre praticamente qualquer repertório
-arquitetônico do passado.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O historiador da arquitetura italiano Giulio Carlo Argan, influenciado
-por Banham, é dos que consideram o senso de especialidade como fio
-condutor da história da arquitetura. O cerne do argumento de Argan
-consiste em rejeitar a história dos estilos e em privilegiar um olhar
-abstrato para a arquitetura. O ponto culminante dessa história é a
-autonomia criativa do sujeito (arquiteto) e a introdução da
-originalidade como critério de juízo. A valorização da originalidade
-como característica determinante da obra de arte evidencia as raízes
-românticas do modernismo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No esquema de Argan, a Antiguidade e a Idade Média são períodos onde o
-espaço ainda é inteiramente determinado pelas possibilidades limitadas
-do sistema estrutural disponível. Esses períodos constituem, por assim
-dizer, uma espécie de pré-história da arquitetura. A realização espacial
-como resultado da vontade criativa do arquiteto começa, de fato, no
-Renascimento. Nesse período o espaço é determinado pela composição das
-massas geométricas primárias que constituem a envoltória física dos
-volumes unitários de espaço livre. O espaço continua "preso" a
-restrições externas --- não tanto as possibilidades técnicas do sistema
-estrutural, mas sobretudo as ideias renascentistas sobre geometria e
-pureza formal. No período barroco e sobretudo na obra de Borromini, o
-espaço passa a ser criado pela manipulação projetual arbitrária da
-geometria do próprio espaço, livre de tipologias formais *a priori*.
-Argan salta os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps} como sendo períodos de estagnação, ou
-mesmo retrocesso, na concepção espacial. A história do espaço retoma,
-como era de se esperar, com o modernismo, que leva adiante o processo de
-libertação formal e criativa iniciado pelo barroco.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg" data-background-size="contain"}
-
-::: align-right
-![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne  }
-:::
-
-[Fundação Alexander von Humboldt, 2006]: https://www.humboldt-foundation.de/en/entdecken/newsroom/dossier-max-planck-humboldt-research-award/max-planck-research-award-winners-2006
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A historiadora da arte canadense Alina Payne mostra que existe uma
-relação entre o interesse modernista pela abstração e a releitura da
-arquitetura do Renascimento nos anos 1950 e 60 como uma história da
-evolução de soluções espaciais e sistemas de proporções. Tafuri
-argumenta que essa história da emancipação do espaço perpetua uma
-interpretação elitista e diletante do ofício da arquitetura como
-libertação progressiva do "gênio criativo" manipulando o seu objeto como
-cada vez menos restrições. Além disso, a narrativa continua sendo
-eurocêntrica, porque subentende que só a arquitetura erudita de matriz
-europeia, a partir da segunda metade do século [XVII]{.smallcaps}, passa a ter a
-capacidade de manipular arbitrariamente o espaço por meio da intenção
-projetual. Outras tradições arquitetônicas permanecem presas à tipologia
-e à tradição [@bozdogan:1999architectural].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Sistemas volumétricos finitos ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O controle sobre o espaço pictórico que a perspectiva linear permitir se
-desenvolve na capacidade de distinguir entre espaços contidos espaços
-amplos.  Piero della Francesca leva essa realização ao extremo em
-pinturas bipartidas que articulam o contraste entre um espaço raso e
-contido lado a lado com um fundo potencialmente infinito. Ao mesmo
-tempo, nos fundos amplos há uma sugestão de delimitação, enquanto que o
-espaço contido tem alguma abertura para a expansão.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A introdução dos sistemas espaciais finitos no Renascimento não se
-explica apenas por uma maior liberdade criativa ou por um
-desenvolvimento da técnica no século [XV]{.smallcaps}. Na verdade, os sistemas
-espaciais finitos feitos de formas geométricas primárias criam maiores
-restrições à composição do que os sistemas lineares ilimitados da
-arquitetura gótica. Trata-se portanto de uma escolha artística
-intencional. No entanto, é uma escolha que não resulta numa capacidade
-de manipulação do espaço arbitrária. Pelo contrário, a escolha é por
-condicionar a composição arquitetônica a um esquema teórico definido a
-priori e que opera dentro de um sistema explícito de condicionantes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Segundo Geoffrey Scott, no Renascimento, pela primeira vez a questão
-principal no ofício da arquitetura não é mais “como podemos realizar uma
-obra dentro das condicionantes técnicas que nos são colocados?“, mas
-“essa solução é correta dentro das condicionantes formais do sistema que
-nós escolhemos?” Para responder essa questão será preciso formular um
-sistema formal explícito por meio da escrita de tratados, como veremos
-mais adiante.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na obra de Brunelleschi, essa busca pela forma correta deixa
-transparecer uma preocupação com a coerência lógica do sistema. Esse
-sistema é baseado, sem dúvida, no conhecimento direto e na observação
-dos repertórios construídos do mundo antigo e medieval — Brunelleschi é
-um dos primeiros arquitetos modernos a fazer levantamentos da
-arquitetura romana. Porém, a resolução formal das suas composições
-prioriza, muitas vezes, uma lógica de articulação dos elementos que
-resulta visualmente desconcertante.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Um exemplo dessa lógica conceitualmente coerente porém visualmente
-peculiar se encontra na extremidade da fachada do asilo de órfãos, que
-Brunelleschi projeta na praça da santíssima Anunciata em Florença. Nesse
-que é um dos seus primeiros projetos arquitetônicos, Brunelleschi
-conclui a composição das arcadas e pilastras do pavimento térreo
-rotacionando a arquitrave que trava a extremidade da composição,
-formando uma moldura gráfica na parede e descendo até atingir o chão. O
-elemento central formado pelas arcadas segue o padrão compositivo da
-arquitetura românica na Toscana desde o século [XII]{.smallcaps}. Porém, ao encontrar
-a composição das pilastras, os medalhões situados entre os arcos são
-truncados, de modo a manter a regularidade geométrica dos elementos.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O desenvolvimento dessa preocupação de Brunelleschi com a lógica interna
-da arquitetura clássica assume formas variadas ao longo do tempo. Na
-Igreja de São Lourenço, de 1421, as arcadas não seguem mais o padrão
-românico de repousarem diretamente sobre os capitéis das colunas. Em vez
-disso, o arquiteto se inspira nas construções romanas do século IV, e
-insere um entablamento trocado entre a coluna e a arcada. A configuração
-geral do espaço interior, com três naves, arco Cruzeiro dominante,
-cúpula e capela-mor de planta retangular, remete em parte à arquitetura
-paleocristã, com elementos da tradição românica.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uma das soluções formais mais curiosas na obra de Brunelleschi se
-encontra na sacristia velha dessa mesma igreja de São Lourenço. Esse
-pequeno ambiente sintetiza a busca pela expressão espacial usando
-volumes geométricos primários: cubos e esferas. Pilastras coríntias
-articulam todas as arestas dos espaços prismáticos. Nas quinas convexas,
-essas pilastras abraçam e contornam aresta. Nas quinas reentrantes,
-por outro lado, algumas pilastras chegam quase a desaparecer no interior
-da parede. Essa solução visualmente insatisfatória é, porém, coerente e
-análoga à situação das pilastras convexas, que funcionam como um pilar
-colocado no eixo da parede.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A aceitação desse problema visual demonstra a precedência que a lógica
-de composição tem sobre a manipulação plástica dos elementos. Essa
-lógica está associada à legitimidade teórica dos elementos da
-arquitetura clássica. Outra evidência dessa busca por legitimação se
-encontra no uso de pendentes para sustentar a cúpula, à semelhança da
-arquitetura bizantina, em detrimento das trompas ou das calotas
-nervuradas, características da arquitetura românica e gótica. O estilo
-bizantino era associado com a permanência do Império Romano, cujos
-últimos estertores são contemporâneos de Brunelleschi. As mesmas
-escolhas se repetem no interior da capela Pazzi, no claustro da igreja
-de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
-capela explora diferentes modos de articular colunas arcos e pilastras.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Para o arquiteto brasileiro Fernando Luiz Lara, a abstração que gera a
-perspectiva linear é análoga à que concebe o território como uma
-extensão neutra, apta a ser organizada e conquistada. Essa preferência
-pela abstração se fortalece com a conquista do império Asteca por
-Cortez, e a demonstração, por assim dizer, de que esse modo de olhar
-para o espaço como uma extensão neutra é um instrumento de conquista
-[@lara:2020american5].
+Outro modo de interpretar essa coerência urbana emergente é olhar para
+as redes de transmissão de conhecimentos arquitetônicos e para as
+condições materiais de produção do ambiente construído. Essas abordagens
+vêm dominando o estudo da arquitetura do Renascimento ao longo das
+últimas décadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Urbanismo de colina #

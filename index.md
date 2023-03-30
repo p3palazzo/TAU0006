@@ -22,8 +22,8 @@ tagline: |
     </dd>
   </dl>
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
-  caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma moderna](https://commons.wikimedia.org/wiki/Category:Modern_Rome_(Giovanni_Paolo_Pannini)), 1754"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
+  caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
   overlay_filter: 0.5
   actions:
   - label: "Plano de ensino"
@@ -63,20 +63,19 @@ unidade1:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-DT249920.jpg
     title     : "Sistemas espaciais"
     excerpt: >
-      Teoria da arquitetura –
       História da construção –
       Cúpula de Brunelleschi –
       Cúpulas islâmicas e malhas espaciais
     url       : "/aula/sistemas-espaciais/"
     btn_label : "20 de abril"
     btn_class : "btn btn--inverse btn--small"
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
-    title     : "Historiografia da modernidade"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-546px-The_Palaces_of_Fazabad.jpg
+    title     : "Jardins"
     excerpt: >
-      Campo disciplinar da história da arquitetura –
-      Tratadística do Renascimento –
-      Patrimônio urbanístico
-    url       : "#"
+      Arquitetura do humanismo –
+      Jardins da Ásia central –
+      Mausoléus indianos
+    url       : "/aula/jardins/"
     btn_label : "27 de abril"
     btn_class : "btn btn--inverse btn--small"
 
@@ -89,6 +88,16 @@ semana_santa:
     btn_class : "btn btn--inverse btn--small"
 
 unidade2:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
+    title     : "Teoria da modernidade"
+    excerpt: >
+      Teoria da arquitetura na Idade Moderna –
+      Arquitetura do humanismo –
+      Tratadística do Renascimento –
+      Saberes corporativos na França –
+    url       : "/aula/historiografia/"
+    btn_label : "4 de maio"
+    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-botticcelli_sandro-the_punishment_of_korah_and_the_stoning_of_moses_and_aaron-1481-82.jpg
     title     : "Linguagem clássica"
     excerpt: >
@@ -97,19 +106,9 @@ unidade2:
       Volumes –
       Superfícies
     url       : "/aula/linguagem/"
-    btn_label : "4 de maio"
-    btn_class : "btn btn--inverse btn--small"
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-paolo_veronese-feast_in_the_house_of_levi-wga24877.jpg
-    title     : "Arquiteturas humanistas"
-    excerpt: >
-      Arquitetura do humanismo –
-      Jardins da Ásia central –
-      Mausoléus indianos –
-      Saberes corporativos na França
-    url       : "/aula/teoria/"
     btn_label : "11 de maio"
     btn_class : "btn btn--inverse btn--small"
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-le_cardinal_melchior_de_polignac_visitant_saint-pierre_de_rome-giovanni_paolo_panini-q18573439.jpg
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-paolo_veronese-feast_in_the_house_of_levi-wga24877.jpg
     title     : "Clássico anticlássico"
     excerpt: >
       Composição –
@@ -197,7 +196,7 @@ unidade3:
       Projetos urbanos na América do Norte –
       Agrimensura e representação
     url       : "/aula/territorios/"
-    btn_label : "11 de julho"
+    btn_label : "13 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 expo:
