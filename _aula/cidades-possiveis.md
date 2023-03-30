@@ -1,22 +1,17 @@
 ---
 title   : "Cidades possíveis"
-subtitle: "Cidades e redes na fundação do mundo moderno"
-item    : III
 author  : Pedro P. Palazzo
 date    : 2023-04-13
 tagline: |
-  Espacialidade e vazio na pintura chinesa –
-  História da arquitetura como história do espaço –
-  Urbanismo de colina –
-  Cidades e castelos no Japão –
+  Veneza: campo e canal –
+  Portugal: urbanismo de colina –
+  Japão: cidades e castelos –
   Do boma banto às cidades da Guiné
-
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/02/rakuchu_rakugai_zu_byobu_fukuoka_city_museuml.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg/2560px-Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg
   caption: "Kanō Takanobu (atribuição), [Vistas dentro e fora de Quioto](https://commons.wikimedia.org/wiki/File:Rakuchu_rakugai_zu_byobu_(Fukuoka_City_Museum)L.jpg), biombo esquerdo de um par, final do século [XVI]{.smallcaps} ou início do [XVII]{.smallcaps}"
-
 sidebar:
 - title: "Leitura obrigatória"
   text: |
@@ -41,7 +36,7 @@ quantos passos representativos do poder e de um certo ideal de
 regularidade urbana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Campo e canal em Veneza #
+# Veneza: campo e canal #
 
 ## Parcelamento do solo e paisagem urbana ## {data-visibility="hidden"}
 
@@ -325,7 +320,7 @@ vêm dominando o estudo da arquitetura do Renascimento ao longo das
 últimas décadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Urbanismo de colina #
+# Portugal: urbanismo de colina #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As vilas de castelo no Japão e as vilas reais em Portugal, no final da
@@ -717,7 +712,7 @@ português planejado durante a expansão colonial do século
 
 * * * *
 
-# Cidades e castelos no Japão #
+# Japão: cidades e castelos #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em contraste com a busca incessante por atingir um ideal teórico na

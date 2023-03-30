@@ -1,7 +1,5 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
-subtitle: "Cidades e redes na fundação do mundo moderno"
-item    : I
 author  : Pedro P. Palazzo
 date    : 2023-03-30
 tagline: |
@@ -14,11 +12,9 @@ title-slide-attributes:
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/katip_celebis_cihannuma-map_of_south_east_asia-bg-blur.jpg
   caption: "İbrahim Müteferrika. Sudeste asiático, folha do atlas [*Cihânnümâ*](https://commons.wikimedia.org/wiki/Category:Cihannümâ_(Kâtip_Çelebi)) de Kâtip Çelebi, 1648"
-
 sidebar:
 - title: "Leitura obrigatória"
-  text: |
-    *História global* v–vii, 455–468, 519
+  text: "*História global* v–vii, 455–468, 519"
 ---
 
 # Mundos conectados no século [XIV]{.smallcaps} #

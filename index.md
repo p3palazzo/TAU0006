@@ -95,7 +95,7 @@ unidade2:
       Arquitetura do humanismo –
       Tratadística do Renascimento –
       Saberes corporativos na França –
-    url       : "/aula/historiografia/"
+    url       : "/aula/modernidade/"
     btn_label : "4 de maio"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/04/teaser-botticcelli_sandro-the_punishment_of_korah_and_the_stoning_of_moses_and_aaron-1481-82.jpg

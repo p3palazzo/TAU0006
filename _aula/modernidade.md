@@ -12,6 +12,12 @@ sidebar:
   text: |
     - *História global* 476–483
     - Summerson 1–15
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
+  caption: "Antonello da Messina, [S. Jerônimo no seu gabinete](https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg), c. 1474"
+  overlay_filter: 0.5
 ---
 
 # Teoria da arquitetura na Idade Moderna #
