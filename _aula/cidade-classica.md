@@ -1,23 +1,16 @@
 ---
-title   : "Cidade clássica"
-subtitle: "Gramática, vocabulário, dialetos"
-item    : IV
-author  : Pedro P. Palazzo
-date    : 2022-03-15
+title  : "Cidade clássica"
+author : Pedro P. Palazzo
+date   : 2023-05-25
 tagline: |
   Geometrias da fortificação –
   Praças reais e cidades coloniais –
-  Modos de morar no Mediterrâneo moderno –
-  Bioclimatismo e arquitetura clássica
+  Modos de morar no Mediterrâneo moderno
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/03/mathaus_merian_carosel_fait_a_la_place_royalle_a_paris-1440p.jpg
   caption: "Mathäus Merian, [carrossel na praça Real em Paris, 1648](https://commons.wikimedia.org/wiki/File:Mathäus_Merian,_Carosel_fait_a_la_Place_Royalle_a_Paris,_1648_-_Paris_Musées.jpg)"
-  actions:
-  - label: Slides
-    url  : /slides/cidade-classica/
-
 sidebar:
 - title: "Leitura obrigatória"
   text: |
@@ -467,7 +460,7 @@ Gianfranco Caniggia e Gian Luigi Maffei, *Lettura dell'edilizia di base*, 1979
 - Madrid
 - Louvre
 
-# Bioclimatismo e arquitetura clássica #
+## Bioclimatismo e arquitetura clássica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Classicismo não é one size fits all

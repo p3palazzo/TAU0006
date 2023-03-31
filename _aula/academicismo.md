@@ -1,9 +1,7 @@
 ---
-title   : "Arquitetura acadêmica"
-subtitle: "Gramática, vocabulário, dialetos"
-item    : V
-author  : Pedro P. Palazzo
-date    : 2022-03-22
+title  : "Arquitetura acadêmica"
+author : Pedro P. Palazzo
+date   : 2023-06-01
 tagline: |
   Colunata do Louvre –
   Academias de arte e o ofício da arquitetura –
@@ -14,10 +12,6 @@ title-slide-attributes:
 header:
   overlay_image: https://i.pinimg.com/originals/37/eb/5d/37eb5d10cf3f9fbbe8d17fd9508b63fe.jpg
   caption: "Pierre-Antoine Demachy, [A colunata do Louvre recentemente liberada](https://commons.wikimedia.org/wiki/File:Pierre-Antoine_Demachy_-_La_colonnade_du_Louvre,_nouvellement_dégagée_-_P92_-_Musée_Carnavalet.jpg), 1773"
-  actions:
-  - label: Slides
-    url  : /slides/academicismo/
-
 sidebar:
 - title: "Leitura obrigatória"
   text: |

@@ -1,27 +1,20 @@
 ---
-title   : "Territórios e viação"
-subtitle: "Inquietações contemporâneas"
-item    : V
-author  : Pedro P. Palazzo
-date    : 2022-05-03
+title  : "Territórios e viação"
+author : Pedro P. Palazzo
+date   : 2023-07-13
 tagline: |
   Viação como estratégia espacial –
   Reorganização espacial no mundo ibérico –
   Projetos urbanos na América do Norte –
   Agrimensura e representação
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
   caption: "Utagawa Hiroshige, [Narumi](https://commons.wikimedia.org/wiki/File:Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg), das 53 estações do Tōkaidō, 1833--35"
-  actions:
-  - label: Slides
-    url  : /slides/territorios/
-
 sidebar:
 - title: "Leitura obrigatória"
-  text: |
-    - Sambricio
-title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Hiroshige-53-Stations-Hoeido-41-Narumi-MFA-02.jpg
+  text : "Sambricio"
 ---
 
 # Viação como estratégia espacial #

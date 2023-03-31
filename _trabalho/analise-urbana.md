@@ -20,18 +20,22 @@ tagline: |
   </dl>
 ---
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Os instrumentos de análise têm de ser suficientemente genéricos para
-> que possam ser aplicados a qualquer cidade; em suma, eles servem para
-> começar a observar as cidades e nelas reconhecer algumas lógicas
-> recorrentes. Com efeito, um dos aspectos fascinantes do estudo das
-> cidades é que, apesar de suas diferenças e da identidade própria a
-> cada uma delas, em todas podem ser encontrados os mesmos tipos de
-> fenômenos urbanos.
->
-> <footer><cite>Philippe Panerai, *Análise urbana*. Trad. Francisco
-> Leitão. Brasília: Editora UnB, 2006, 53</cite></footer>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Léon Krier, Civitas, 1983](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-res-publica.png){#fig:civitas .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<blockquote class="epigraph">
+Os instrumentos de análise têm de ser suficientemente genéricos para
+que possam ser aplicados a qualquer cidade; em suma, eles servem para
+começar a observar as cidades e nelas reconhecer algumas lógicas
+recorrentes. Com efeito, um dos aspectos fascinantes do estudo das
+cidades é que, apesar de suas diferenças e da identidade própria a
+cada uma delas, em todas podem ser encontrados os mesmos tipos de
+fenômenos urbanos.
+
+<footer><cite>Philippe Panerai, *Análise urbana*. Trad. Francisco
+Leitão. Brasília: Editora UnB, 2006, 53</cite></footer>
+</blockquote>
 
 # Contexto #
 
@@ -40,17 +44,21 @@ tagline: |
 A partir do século [XIV]{.smallcaps}, várias sociedades em todos os
 continentes convergem para formas de assentamento adensado, com uma
 variedade de tipos edilícios e espaços abertos sustentando atividades
-domésticas, econômicas, cívicas e religiosas. Chamamos a esses
+domésticas, econômicas, cívicas e religiosas ([@fig:civitas]). Chamamos a esses
 assentamentos de *cidades*, embora não tenhamos, até hoje, uma definição
 inequívoca do que é uma cidade propriamente dita e do que não o é. Mesmo
 assim, ao olhar para um desses assentamentos, não temos dúvida em
 afirmar que se trata de uma cidade, seja ela africana, americana,
 asiática ou europeia, seja ela indígena ou colonial.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Gianfranco Caniggia e Gian Luigi Maffei, processos de formação de tecidos urbanos, *Lettura dell'edilizia di base*, 1979](https://hcommons.org/app/uploads/sites/1002372/2023/03/caniggia_maffei-1-23-no_caption.png){#fig:caniggia-processo .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Mesmo que as cidades de diferentes culturas sejam claramente diversas,
 os processos pelos quais as cidades se formam, crescem, se transformam
 e, eventualmente, são abandonadas tendem a ser semelhantes em todas as
-épocas e lugares. Uma das características fundamentais do processo de
+épocas e lugares ([@fig:caniggia-processo]). Uma das características fundamentais do processo de
 urbanização em todas as sociedades é a inércia que os tecidos existentes
 --- as construções, mas também os sistemas de propriedade do solo e o
 traçado das ruas e praças --- impõem sobre novas intervenções. É essa
@@ -75,12 +83,12 @@ Argumentos de ordem cultural [@cullen:2009paisagem], econômica
 que a pretensa necessidade de ignorar ou se separar do passado para
 construir uma cidade verdadeiramente contemporânea era apenas um
 pretexto ideológico para justificar preferências estéticas ou interesses
-financeiros. Ao contrário dessa justificativa ideológica do modernismo,
+financeiros. Ao contrário desse pretexto,
 hoje em dia se sabe que as escalas e os padrões tradicionais de malha
 viária, propriedade do solo e edificações são intrinsecamente propícios
 ao bem-estar social, material e mental das pessoas. Em contraste, a
 urbanização dita "racional", em escala industrial, é propícia à
-concentração de poder político e econômico [@tzonis:1972non-oppressive].
+concentração de poder político e econômico [@tzonis:1972nonoppressive].
 
 Mesmo assim, se olharmos para as periferias das cidades contemporâneas,
 principalmente em países com grande desigualdade socioeconômica como o
@@ -104,13 +112,29 @@ Malha viária
 
 Parcelamento
 
-: Padrões de propriedade do solo remanescente entre os caminhos e
-  espaços públicos, delimitados com maior ou menor rigidez e
-  durabilidade;
+: Padrões de propriedade do solo (lotes) remanescente entre os
+  caminhos e espaços públicos, delimitados com maior ou menor rigidez
+  e durabilidade;
 
 Edificações
 
 : Construções em lotes específicos do solo assim delimitado.
+
+<!-- -->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Exemplo de planta de malha viária: Pequim, por [MVDZ Design][]](https://i.pinimg.com/originals/0b/f1/62/0bf1627a767996b77d5d7e701fb60ca9.jpg){#fig:mvdz .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Exemplo de planta de parcelamento do solo: bairro Gótico de Barcelona](https://i.pinimg.com/originals/b9/7a/99/b97a99203ba85b91aa05fa6de1cb3a87.png){#fig:barcelona .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<div class="full">&nbsp;</div>
+
+![Exemplo de representação sistemática da tipologia edilícia: centro histórico de Como, por Caniggia, 1963](https://hcommons.org/app/uploads/sites/1001018/2020/04/como-ii.png){#fig:como .line .outset}
+
+[MVDZ Design]: https://displate.com/displate/4357059?art=5c9704dd64bf4&epik=dj0yJnU9WXlSdFYwMFNWRlBGcWJITkZtd2FoVDJUV2NvaXY0OEomcD0wJm49UjA3d01xUUtXNDJlWTFRNkRhWW1tQSZ0PUFBQUFBR1FlU3hR
 
 A análise urbana é o modo de compreender as cidades (e o território à
 sua volta) usando um instrumental genérico [@panerai:2006analise]. Esse
@@ -142,12 +166,16 @@ consequente e socialmente responsável.
 A análise urbana não se limita a descrever a forma existente da malha
 viária, do parcelamento e das edificações. Ela busca, principalmente,
 reconstituir os *processos* pelos quais esses elementos da cidade
-adquiriram a forma que eles têm hoje (ou que eles tiveram em algum
-momento do passado). Nesse caso também a análise pode servir a dois
-propósitos. Conhecer a história da cidade é um objetivo legítimo por si
-só, mas esse conhecimento também nos ajuda a planejar o desenvolvimento
-de uma cidade propícia a atender as necessidades culturais, econômicas e
-psicológicas das pessoas.
+adquiriram a forma que eles têm hoje ou que eles tiveram em algum
+momento do passado ([@fig:strappa]). Nesse caso também a análise pode
+servir a dois propósitos. Conhecer a história da cidade é um objetivo
+legítimo por si só, mas esse conhecimento também nos ajuda a planejar o
+desenvolvimento de uma cidade propícia a atender as necessidades
+culturais, econômicas e psicológicas das pessoas.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Saverio Muratori e Gianfranco Caniggia, processo de transformação da Roma antiga em moderna evidenciando o substrato na área de via Lata, [*Studi per una operante storia urbana di Roma*](http://www.giuseppestrappa.it/?p=8253)](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:strappa}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 A tessitura da cidade tradicional da Idade Moderna é a forma mais
 universalmente associada com o equilíbrio dessas três necessidades, em
@@ -221,17 +249,19 @@ transformado entre os séculos [XV]{.smallcaps} e [XVIII]{.smallcaps}.
 
 # Processo #
 
-Todo o processo será desenvolvido no fórum do trabalho no Moodle.
-
 ## Semana 1: documentação e estratégias ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Exemplo de base cartográfica precisa: uma planta cadastral de Londres no século [XIX]{.smallcaps} (detalhe)](https://i.pinimg.com/originals/2d/b7/44/2db744aeda5865a764738f2efdffc389.jpg){#fig:james}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 1. Escolha um trecho de tecido urbano consolidado entre o século
    [XV]{.smallcaps} e o [XVIII]{.smallcaps}, numa cidade de qualquer
    região do mundo (exceto Brasil).
 
    - O trecho escolhido deve ser um quadrado com 1000 × 1000 metros de
-     extensão, cujas arestas apontam para os pontos cardeais (ver Norte
-     no modelo de prancha);
+     extensão, cujas arestas estão alinhadas com os pontos cardeais (ver
+     Norte no modelo de prancha);
 
    - O trecho escolhido deve compreender um tecido urbano diversificado,
      com uma área significativa de parcelamento do solo privado (lotes
@@ -276,8 +306,8 @@ Todo o processo será desenvolvido no fórum do trabalho no Moodle.
      bibliográficas de *todas* as imagens e informações textuais que
      você encontrou.
 
-     ::: notice
-     []{.fas .fa-book}
+     ::: notice--primary
+     []{.fa .fa-book .fa-fw}
      : Estas referências não devem ser apenas links para sites, mas os
        dados completos de autoria, publicação e data de criação.
        Consulte as normas de referência bibliográfica da
@@ -287,10 +317,10 @@ Todo o processo será desenvolvido no fórum do trabalho no Moodle.
 ## Semana 2: desenho do mapa de base ##
 
 Na orientação da semana 1, confirmamos o posicionamento do quadrado
-de 1000 × 1000 metros a ser analisado. Agora, devemos representar essa
+de 1350 × 1350 metros a ser analisado. Agora, devemos representar essa
 área de modo padronizado, para permitir as análises.
 
-Desenhe um [mapa de base]{.newthought} da sua área de 1000 × 1000
+Desenhe um [mapa de base]{.newthought} da sua área de 1350 × 1350
 metros, na escala 1:5000, com o norte para cima, inserido no modelo de
 prancha anexo, e representando o estado da sua cidade em alguma época
 dentro da Idade Moderna (séculos [XV--XVIII]{.smallcaps} na Europa, ou
@@ -318,19 +348,26 @@ nossas [convenções de desenho](materiais.md) e mostrar:
    - Siga as convenções de desenho para mapas urbanos, elencadas no
      nosso [plano de curso](materiais.md).
 
-Poste uma resposta ao tópico que você criou na Semana 1 e anexe o mapa
-de base em formato [JPG]{.smallcaps}.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-pencil-alt}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--primary
+[]{.fa .fa-pencil-alt}
 : Tudo o que postar desta semana em diante deve ser inteiramente seus
   próprios desenhos. A partir daqui e até a entrega final, você não deve
   mais reproduzir nenhum material pesquisado. Reproduções de imagens ou
   mapas históricos podem aparecer *somente* na folha de rosto e na
   bibliografia.
+
+<!-- -->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Exemplo de padrão gráfico para o mapa de base: [Carta topográfica da cidade do Porto][] por Augusto Gerardo Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Carta_topogr%C3%A1fica_da_cidade_do_Porto_1892.pdf/page256-1024px-Carta_topogr%C3%A1fica_da_cidade_do_Porto_1892.pdf.jpg){#fig:porto .outset}
+
+[Carta topográfica da cidade do Porto]: https://commons.wikimedia.org/w/index.php?title=File%3ACarta_topogr%C3%A1fica_da_cidade_do_Porto_1892.pdf&page=256
+
 ## Semana 3: planejamento das análises ##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Corte de via por Allan Jacobs, *Great Streets*](https://i.pinimg.com/originals/48/f4/f4/48f4f405a34f165e38440ad85a029509.jpg){#fig:jacobs .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 De posse do mapa de base, é hora de refletir sobre as informações que
 podemos extrair dele e dos outros documentos coletados. A análise dos
@@ -345,16 +382,11 @@ prevendo para cada um:
 - Duas ou três pranchas com o desenvolvimento da análise, atendendo aos itens
   indicados em cada tópico abaixo.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-photo-video}
-: Poste a sua produção em resposta ao mesmo tópico do fórum, na forma
-  que considerar mais apropriada e legível, com qualquer combinação de
-  desenhos em formato [JPG]{.smallcaps}, textos curtos, pranchas em
-  formato [PDF]{.smallcaps}, etc.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ### 1 Tecido urbano e malha viária ###
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Exemplo de análises do traçado viário (setas) e de setores morfológicos do parcelamento do solo (manchas)](https://i.pinimg.com/564x/64/29/12/6429122453a9228808d915ba30016275.jpg){#fig:analise .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 1. Mostrar as etapas sucessivas de formação, crescimento e transformação
    do tecido urbano ao longo do tempo, apontando os vetores de
@@ -366,6 +398,19 @@ prevendo para cada um:
 3. Analisar em planta e corte (escala 1:500) as dimensões e proporções
    das caixas de vias (espaço delimitado pelas edificações) de algumas
    ruas e praças representativas de tipos geométricos diversos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--primary
+<i class="fa fa-list"></i>
+
+: A hierarquia viária deve ser analisada segundo a sua posição no
+  processo tipológico, em três categorias:
+
+    - Traçado estruturante
+    - Traçado de implantação
+    - Traçado de ligação
+
+: Observe o conteúdo das aulas para maiores esclarecimentos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### 2 Parcelamento do solo ###
 
@@ -394,14 +439,10 @@ prevendo para cada um:
 Apresente ao menos um dos três grupos de análises (malha viária,
 parcelamento ou edificações) completo para revisão e orientação.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-photo-video}
-: Poste a sua produção em resposta ao mesmo tópico do fórum, já
-  formatada segundo as normas do produto final, conforme indicado
-  abaixo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Produto #
+
+O produto pode ser manuscrito, digital (impresso!), ou uma combinação
+coerente e elegante de ambos.
 
 1. Folha de rosto com título, e mostrando a situação da sua área de
    análise dentro do conjunto urbano mais amplo (1 prancha);
@@ -431,23 +472,18 @@ Table: Exemplo de numeração de pranchas {#tbl:numera}
 | 4.1 | Fontes das imagens e bibliografia pesquisada |
 | 4.2 | Quantas pranchas forem necessárias.          |
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-upload}
-: Poste o seu trabalho em resposta ao tópico fixado intitulado *Entregas
-  finais*.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--primary
+<i class="fa fa-spray-can"></i>
+: Caso tenha pranchas desenhadas em papel vegetal, aplique cada uma com
+  cola spray sobre uma folha de papel sulfite branco.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Critérios de avaliação #
+# Avaliação #
 
-Table: Critérios de avaliação {#tbl:criterios}
-
-| Item                                          |  Valor |
-|-----------------------------------------------|-------:|
-| Regularidade e qualidade do processo semanal  |      5 |
-| Consistência da pesquisa e documentação       |      5 |
-| Rigor e abrangência das análises morfológicas |     10 |
-| Clareza e precisão da representação           |      5 |
-| **Total**                                     | **25** |
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final.
 
 ## Pesquisa ##
 
@@ -472,11 +508,10 @@ Demonstre claramente a sua capacidade de:
 
 ## Apresentação ##
 
-Todas as pranchas num único arquivo em formato [PDF]{.smallcaps}. Todas
-as plantas devem seguir o Modelo de prancha anexo e as nossas convenções
-de desenho. Essas convenções gráficas se baseiam na representação
-cartográfica habitual na Europa durante os séculos [XVII]{.smallcaps} a
-[XIX]{.smallcaps}.
+Todas as plantas devem seguir o Modelo de prancha anexo e as nossas
+convenções de desenho. Essas convenções gráficas se baseiam na
+representação cartográfica habitual na Europa durante os séculos
+[XVII]{.smallcaps} a [XIX]{.smallcaps}.
 
 - Plantas, desenhos e croquis no campo esquerdo da prancha (ver modelo),
   com o mínimo necessário de títulos e legendas;
@@ -485,16 +520,16 @@ cartográfica habitual na Europa durante os séculos [XVII]{.smallcaps} a
 - Ajustar a escala gráfica conforme necessário em cada prancha;
 - Manter consistência na representação e na linguagem visual e escrita;
 - Em casos omissos, seguir sempre que possível a linguagem gráfica de
-  plantas históricas e as [convenções cartográficas da Wikipédia][].
+  plantas históricas ou as [convenções cartográficas da Wikipédia][].
 
-Não é permitido inserir, diretamente nas pranchas, imagens de fontes
-externas, incluindo vistas do Google Maps, fotografias, desenhos de
-terceiros, plantas cadastrais existentes, entre outros. Use essas
+Não é permitido inserir, diretamente nas pranchas de análise, imagens de
+fontes externas, incluindo vistas do Google Maps, fotografias, desenhos
+de terceiros, plantas cadastrais existentes, entre outros. Use essas
 referências como ponto de partida para elaborar os seus próprios
 desenhos.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-pencil-alt}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--primary
+[]{.fa .fa-pencil-alt}
 : É permitido desenhar à mão ou usando qualquer ferramenta digital,
   desde que todos os desenhos sejam de sua própria autoria e não
   reproduzidos de material existente.
@@ -507,7 +542,7 @@ prioritariamente, por aquele desenho. Ajuste a forma de representação e
 as convenções gráficas para transmitir do modo mais claro possível a
 informação pretendida.
 
-# Dicas de pesquisa #
+### Dicas de pesquisa ###
 
 - Use o fórum da unidade para tirar dúvidas, compartilhar informações e
   bibliografia com colegas, e discutir maneiras de abordar este trabalho;
@@ -526,8 +561,8 @@ informação pretendida.
 # Bibliografia #
 
 Os textos indicados abaixo, assim como o Modelo de prancha, estão
-disponíveis online, ou na área de arquivos da disciplina no Microsoft
-Teams, ou no Moodle. Considere o material indicado abaixo como um ponto
+disponíveis online, ou na área de arquivos da disciplina no Moodle.
+Considere o material indicado abaixo como um ponto
 de partida importante, mas não suficiente, para situar a abordagem da
 análise. Você é responsável por localizar a documentação, inclusive
 cartográfica, necessária para desenvolver a cidade escolhida.

@@ -1,27 +1,22 @@
 ---
-title   : "Clássico Anticlássico"
-subtitle: "Gramática, vocabulário, dialetos"
-item    : III
-author  : Pedro P. Palazzo
-date    : 2022-03-08
+title  : "Clássico Anticlássico"
+author : Pedro P. Palazzo
+date   : 2023-05-18
 tagline: |
   Composição –
   Parataxis –
   Projeto iterativo –
   Espaço geométrico
 title-slide-attributes:
-  data-background-image: https://i.pinimg.com/originals/db/e5/cd/dbe5cd7d5715ff9c5f2fc619d9115214.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
-  caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
-  actions:
-  - label: Slides
-    url  : /slides/anticlassico/
-
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/22/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg
+  caption: "Paolo Veronese, [Banquete na casa de Levi, 1573](https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg)"
 sidebar:
 - title: "Leitura obrigatória"
   text: |
-    - *História global* 548–551
+    - *História global* 539–551
+    - Summerson 39–62
 ---
 
 # Composição #

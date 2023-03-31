@@ -1,9 +1,7 @@
 ---
-title   : "Barroco internacional"
-subtitle: "Inquietações contemporâneas"
-item    : II
-author  : Pedro P. Palazzo
-date    : 2022-04-05
+title  : "Barroco internacional"
+author : Pedro P. Palazzo
+date   : 2023-06-22
 tagline: |
   Teorias do barroco –
   Carpintaria japonesa –
@@ -12,10 +10,6 @@ tagline: |
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg/2560px-Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg
   caption: "Katsushika Hokusai, [Serraria em Honjo](https://commons.wikimedia.org/wiki/File:Honjo_Tatekawa,_the_timberyard_at_Honjo.jpg), c. 1830"
-  actions:
-  - label: Slides
-    url  : /slides/barroco-intl/
-
 sidebar:
 - title: "Leitura obrigatória"
   text: |

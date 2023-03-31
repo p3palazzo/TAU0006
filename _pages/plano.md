@@ -4,14 +4,19 @@ date: 2023-03-30
 permalink: /plano/
 author_profile: true
 tagline: |
-  História das cidades, dos edifícios e da edificação na tradição
-  europeia a partir do início do Renascimento na Itália até o século
-  <span class="smallcaps">XVIII</span>. Transposição da tradição
-  técnico-construtiva e arquitetônica da Europa para as colônias
-  americanas de fala inglesa e francesa.
+  <dl>
+    <dt>Ementa</dt>
+    <dd>
+      História das cidades, dos edifícios e da edificação na tradição
+      europeia a partir do início do Renascimento na Itália até o século
+      <span class="smallcaps">XVIII</span>. Transposição da tradição
+      técnico-construtiva e arquitetônica da Europa para as colônias
+      americanas de fala inglesa e francesa.
+    </dd>
+  </dl>
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photograph_of_a_painting_of_paintings_(20938228960).jpg/2560px-Photograph_of_a_painting_of_paintings_(20938228960).jpg
-  caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma moderna](https://commons.wikimedia.org/wiki/Category:Modern_Rome_(Giovanni_Paolo_Pannini)), 1754"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg/2560px-Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg
+  caption: "Giovanni Paolo Pannini, [Visita do cardeal Melchior de Polignac à basílica de São Pedro](https://commons.wikimedia.org/wiki/File:Le_cardinal_Melchior_de_Polignac_visitant_Saint-Pierre_de_Rome_-_Giovanni_Paolo_Panini_-_Q18573439.jpg), 1730"
   overlay_filter: 0.5
   actions:
   - label: "Programa e cronograma"
