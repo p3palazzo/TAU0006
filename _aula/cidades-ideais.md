@@ -1,13 +1,12 @@
 ---
 title   : "Cidades ideais"
-subtitle: "Cidades e redes na fundação do mundo moderno"
-item    : II
 author  : Pedro P. Palazzo
 date    : 2023-04-06
 tagline: |
   Retorno aos princípios na China –
-  Cidade e praça na Europa –
-  Campo e canal em Veneza
+  Espacialidade e vazio na pintura chinesa –
+  História da arquitetura como história do espaço –
+  Cidade e praça na Europa
 
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/fra_carnevale-the_ideal_city-google_art_project-scaled.jpg
@@ -57,7 +56,7 @@ rumo à estabilidade.
 ## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
 
 ::: align-right
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng  }
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .line}
 :::
 
 [Wang Weijen, 2010 [(A)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html
@@ -81,30 +80,45 @@ mercados às suas costas, ao norte, e os templos à sua frente, ao Sul.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png" data-background-size="contain"}
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Módulos urbanísticos da cidade ideal chinesa. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png){#fig:zh-modulos .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Wang Weijen, 2010 [(B)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_09.html
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O módulo dimensional básico da cidade chinesa é o *li*, uma unidade de
-medida tradicional que correspondia a pouco mais de 400 metros. Essa
-dimensão é uma das "constantes universais" do desenho urbano; ela
-corresponde à distância que pode ser percorrida a pé em cinco minutos, e
-determina o raio de ação das atividades cotidianas mais simples, como o
-comércio de vizinhança, equipamentos comunitários como lavanderias ou
-locais de culto, e o senso de pertencimento a um bairro, em geral.
-
+medida tradicional que correspondia a pouco mais de 400 metros.
 Na tipologia da *wangcheng* quadrada com 9 *li* de extensão e três
 avenidas em cada direção, cada um dos quadrantes delimitados pelas
 avenidas e muralhas teria aproximadamente 800 metros de raio ([@fig:zh-modulos]) --- o que
 dá 10 minutos a pé, ou o raio de ação que hoje se considera ideal para
 atividades principais, como acesso ao local de trabalho ou ao comércio
 regional.
+
+------
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Módulos urbanísticos da cidade ideal chinesa. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png){#fig:zh-modulos .line}
+------
 
-[Wang Weijen, 2010 [(B)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_09.html
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--primary
+<i class="fa fa-walking"></i>
+
+: 400 metros é uma das constantes universais do desenho urbano; ela
+  corresponde à distância que pode ser percorrida a pé em cinco minutos,
+  e determina o raio de ação das atividades cotidianas mais simples,
+  como o comércio de vizinhança, equipamentos comunitários como
+  lavanderias ou locais de culto. 800 metros correspondem ao acesso a
+  equipamentos regionais e ao senso de pertencimento a um bairro, em
+  geral.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png" data-background-size="contain"}
 
-![Plano urbanístico de Chang'an durante a dinastia Tang. Desenho por [Zunkir, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Plano urbanístico de Chang'an durante a dinastia Tang. Desenho por [Zunkir, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Zunkir, 2016]: https://commons.wikimedia.org/wiki/File:Chang'an_Tang_schema.svg
 
@@ -128,17 +142,22 @@ símbolos é o paradigma da *wangcheng*. Entre 1403 e 1420, o imperador
 Yongle manda restaurar as muralhas e o centro administrativo de Pequim ([@fig:palace-city-scroll])
 --- a antiga capital dos mongóis e uma posição estratégica na defesa da
 fronteira norte da China.
+
+------
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll}
+![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .outset}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png" data-background-size="contain"}
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
 ![Perímetros sucessivos de Pequim. Reproduzido em [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png){#fig:pequim-planos .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Pequim: Projeto original estabelecido na dinastia Yuan por Liu Bingzhong
-劉秉忠 e dividido em 50 distritos.
+O projeto original de Pequim foi estabelecido na dinastia Yuan por Liu
+Bingzhong 劉秉忠 e dividido em 50 distritos ([@fig:pequim-planos]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg" data-background-size="contain"}
@@ -146,7 +165,11 @@ Pequim: Projeto original estabelecido na dinastia Yuan por Liu Bingzhong
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O restauro de Pequim reduz o perímetro urbano para um retângulo
 organizado segundo a *wangcheng*. O novo perímetro ocupa um terreno de
-defesa mais fácil, mas também responde à redução na população da cidade ([@fig:beijing]).
+defesa mais fácil, mas também responde à redução na população da cidade
+([@fig:beijing]).
+
+------
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pequim. [Mapa oficial produzido entre 1861 e 1890][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing}
@@ -155,26 +178,30 @@ defesa mais fácil, mas também responde à redução na população da cidade (
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png" data-background-size="contain"}
 
-![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019](https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png){#fig:beijing-module}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tecido urbano é organizado segundo um módulo retangular de,
 aproximadamente, 2 × 1,5 li [@steinhardt:2019chinese], ou seja, uma
 proporção de 4:3 --- o que, em música, daria uma quarta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019](https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png){#fig:beijing-module .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1929px-pekin-buache-1752.jpg" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. Planta por [Philippe Buache, 1752][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg){#fig:buache}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Philippe Buache, 1752]: https://commons.wikimedia.org/wiki/File:北京最早带经纬线的地图.Plan_de_Pékin.by_Philippe_Buache.1752年.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao longo do tempo, o crescimento urbano da cidade acontece
 principalmente para oeste e para o sul, no terreno mais plano, ao longo
 dos rios e das principais estradas que ligam a capital ao restante do
-império.
+império ([@fig:buache]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. Planta por [Philippe Buache, 1752][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg){#fig:buache}
-
-[Philippe Buache, 1752]: https://commons.wikimedia.org/wiki/File:北京最早带经纬线的地图.Plan_de_Pékin.by_Philippe_Buache.1752年.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg"}
 
@@ -184,19 +211,36 @@ império.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg" data-background-size="contain"}
 
-::: align-right
-![Parcelamento urbano na malha regular](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Parcelamento urbano na malha regular em Lin'an](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma de parcelamento e ocupação do solo urbano mais característica de
+Pequim é o *hutong*. Esse tipo urbanístico é um bloco extremamente denso
+de casas que foram sendo ocupadas pela população de baixa renda. O
+*hutong* resulta de um processo de sedimentação do parcelamento regular
+e planejado estabelecido na fundação da cidade ([@fig:zh-malha]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg"}
 
-::: full
-![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A sedimentação urbana é um processo de transformação de traçados
+planejados ou preexistentes na longa duração [@fernandes:2014fundacao].
+Nas cidades chinesas, a sedimentação ocorre primariamente pela ocupação
+progressiva e irregular das margens de avenidas largas
+([@fig:hangzhou]). Atrás dessas avenidas, as grande glebas originalmente
+previstas para casas burguesas e jardins também acabam sendo
+desmembradas transversalmente em lotes menores acessados por vielas ou
+servidões ([ver fig. @fig:zh-malha]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line}
 
 [Wang Weijen, 2010 [(C)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_10.html
 
-## Mercados murados e mercados abertos ## {data-visibility="hidden"}
+## Bairros de mercado ## {data-visibility="hidden"}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg" data-background-size="contain"}
 
@@ -216,11 +260,15 @@ postos sob a tutela do estado. O tabelamento de preços diz respeito,
 sobretudo, à estrutura dos impostos, cobrados via de regra *in natura*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mercado murado na dinastia Tang. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg){#fig:tang-shi}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Mercado murado na dinastia Tang. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg){#fig:tang-shi .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png" data-background-size="contain"}
 
-![Parcelamento urbano decorrente do espaço de mercado](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png){#fig:mercado-parcelamento}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Parcelamento urbano decorrente do espaço de mercado](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png){#fig:mercado-parcelamento .line .outset}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os principais mercados urbanos nas grandes cidades --- a tipologia da
@@ -243,11 +291,11 @@ bancas na frente das lojas tende a se tornar permanente, reduzindo a
 largura dessas avenidas em vários pontos e deformando o seu alinhamento ([@fig:song-shi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi  }
-:::
+![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi .line .outset}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg"}
+
+![Ao longo do rio no festival Qingming, imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg){#fig:qingming .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interação entre esse processo de adensamento dos mercados lineares e
@@ -262,13 +310,9 @@ prático, visando a desafogar a circulação de pessoas e veículos em
 pontos estratégicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ao longo do rio no festival Qingming, imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg){#fig:qingming}
-
-<!--_-->
-
 ## Conclusão ## {data-visibility="hidden"}
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As principais cidades da China são resultado de um planejamento inicial
@@ -293,7 +337,7 @@ histórica centrada no espaço tem para um estudo estético da arquitetura
 hoje em dia é uma interpretação relativamente recente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um pouco mais antigo é o estudo da representação do espaço na pintura.
@@ -311,7 +355,7 @@ Por isso, apesar das limitações interpretativas desses esquemas, eles
 continuam sendo uma introdução relevante ao estudo da história da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Choose your Art Historian](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2 .r-stretch}
+![Art History Kombat](https://hcommons.org/app/uploads/sites/1002372/2022/01/mk2.gif){#fig:mk2 .r-stretch}
 
 ## Emergência da espacialidade ##
 
@@ -333,7 +377,7 @@ estilo de representação pictórica está, em grande parte, codificado
 desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gu Kaizhi. [*Ninfa do rio Luo*], cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi}
+![Gu Kaizhi. [*Ninfa do rio Luo*], cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi .outset}
 
 [*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
 
@@ -359,7 +403,7 @@ cenas urbanas.
 
 ## Materialidade e imaterialidade ##
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Dominar o espaço na pintura envolve projetar numa superfície em duas
@@ -371,10 +415,8 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century)._United_by_Music,_Ming_dynasty,_Chicago_Institute_of_Art.jpg){#fig:zhouwenju   .r-stack}
+![Zhou Wenju (917--975, atribuição). *Unidos pela música*, [cópia de 1401--1425](https://www.artic.edu/artworks/72380/united-by-music-合樂圖)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Traditionally_attributed_to_Zhou_Wenju_(10th_century).\_United_by_Music,\_Ming_dynasty,\_Chicago_Institute_of_Art.jpg){#fig:zhouwenju .r-stack}
 :::
-
-<!--_-->
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg" data-background-size="contain"}
 
@@ -391,7 +433,7 @@ na pintura. O pintor e letrado Dong Qichang (1555--1636)
 vazio entre eles [@cahill:1978parting, 5].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas duas escolas se formam durante o declínio da dinastia Song, entre
@@ -427,15 +469,13 @@ presente.
 
 [Podzemnik, 2014, baseado em Michal Klajban, 2010]: https://commons.wikimedia.org/wiki/File:Ming_Empire_cca_1580_es.svg
 
-<!--_-->
-
-##
+------
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=43.5%}
+::: {.column width=42.5%}
 ![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg){#fig:juran}
 :::
-::: {.column width=56.5%}
+::: {.column width=57.5%}
 ![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -455,7 +495,7 @@ de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
 
 [*Início da primavera*, 1072]: https://commons.wikimedia.org/wiki/File:Guo_Xi_-_Early_Spring_(large).jpg
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A distinção entre norte e sul diz respeito ao estilo das pinturas, mais
@@ -469,10 +509,10 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=59%}
+::: {.column width=59.5%}
 ![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
 :::
-::: {.column width=41%}
+::: {.column width=40.5%}
 ![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg/1021px-Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg){#fig:fankuan}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -481,11 +521,9 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 
 [*Vento nos pinheiros por entre milhares de vales*]: https://commons.wikimedia.org/wiki/File:Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
 
-<!--_-->
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
 
-![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan}
+![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan .outset}
 
 [*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg
 
@@ -514,7 +552,9 @@ como marcador de uma formação intelectual e estética socialmente
 superior.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
 ![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
 
@@ -522,9 +562,13 @@ superior.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
 ![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg){#fig:literati}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
+
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O espaço pictórico incorpora, portanto, um discurso político sobre o
@@ -536,10 +580,6 @@ também da nossa historiografia contemporânea da arte.
 
 ## {data-background-image="https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg" data-background-size="contain"}
 
-![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
-
-[*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O período da dinastia Song é considerado pelos chineses do século [XIV]{.smallcaps}
 como o ponto alto da sua cultura e uma espécie de período clássico. As
@@ -547,7 +587,11 @@ tradições artísticas e arquitetônicas da China se estabilizam do século
 [XII]{.smallcaps} em diante ([@fig:fragrance]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
+
+[*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
+
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao longo de todos as transformações subsequentes, os artistas chineses
@@ -555,24 +599,24 @@ sempre voltam periodicamente a fazer referência aos padrões
 estabelecidos na dinastia Song ([@fig:qingming-song;
 @fig:qingming-qing]).
 
-::: {.notice}
-[]{.fas .fa-info-circle} As duas pinturas abaixo leem-se da direita para
+::: notice--primary
+<i class="fas fa-info-circle"></i> As duas pinturas abaixo leem-se da direita para
 a esquerda.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-song .full}
-<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
+<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Alongtheriver_QingMing.jpg" style="max-width: none; width: auto; height: 720px; max-height: 90vh" /></div>
 
 Zhang Zeduan, [*Ao longo do rio durante o festival Qingming*][], século [XII]{.smallcaps} 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Ao longo do rio durante o festival Qingming*]: https://commons.wikimedia.org/wiki/File:Alongtheriver_QingMing.jpg
 
-##
+------
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:qingming-qing .full}
-<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Along_the_River_7-119-3.jpg" style="max-width: none; height: 720px; max-height: 90vh" /></div>
+<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Along_the_River_7-119-3.jpg" style="max-width: none; width: auto; height: 720px; max-height: 90vh" /></div>
 
 Ao longo do rio durante o festival Qingming. Cópia por [cinco artistas de
 corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
@@ -588,9 +632,9 @@ corte][] durante a dinastia Qing, século [XVII]{.smallcaps}
 
 ## Perspectiva linear e arquitetura ##
 
-::: align-right
-![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://upload.wikimedia.org/wikipedia/commons/4/46/Erwin_Panofsky.jpg){#fig:panofsky   .overlay-slide}
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Erwin Panofsky (1892--1968). Fonte: [Princeton University Press][]](https://pup-assets.imgix.net/onix/images/erwin_panofsky.jpg?w=1500&h=1500&fit=crop&auto=format){#fig:panofsky .overlay-slide}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Princeton University Press]: https://press.princeton.edu/our-authors/panofsky-erwin
 
@@ -640,17 +684,15 @@ século [XIV]{.smallcaps} com a obra de artistas como Giotto
 ([@fig:giotto]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg
 
-<!--_-->
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg" data-background-position="bottom"}
 
-![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann}
+![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann .outset}
 
 [Anunciação e dois santos, 1333]: https://commons.wikimedia.org/wiki/File:Simone_Martini_truecolor.jpg
 
@@ -662,15 +704,15 @@ instrumentos desse desenvolvimento da lógica espacial. A partir do
 modelo bizantino de figuras de Maria e o anjo desprovidas de contexto,
 geralmente com fundo dourado, os artistas italianos dos séculos
 [XIV]{.smallcaps} e [XV]{.smallcaps} começam a incluir a ambientação
-espacial e, gradualmente, uma
-delimitação maior dos ambientes onde se desenvolve a cena ([@fig:martini-ann]).
+espacial e, gradualmente, uma delimitação maior dos ambientes onde se
+desenvolve a cena ([@fig:martini-ann]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg" data-background-size="contain"}
 
-::: align-right
-![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Natividade da Virgem Maria, 1342]: https://www.wga.hu/frames-e.html?/html/l/lorenzet/pietro/2/15birth.html
 
@@ -686,9 +728,9 @@ posicionamento das figuras e a sua relação com o espaço.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg" data-background-size="contain"}
 
-::: align-right
-![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-_1344..jpg
 
@@ -701,7 +743,7 @@ onde a Anunciação se desenrola ([@fig:alor-ann]). Na suas obras porém o
 espaço físico ainda é determinado pelas necessidades narrativas da cena.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
@@ -716,37 +758,18 @@ Filippo Lippi, a rigidez da perspectiva arquitetônica chega mesmo a
 interferir na composição narrativa da pintura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A famosa Anunciação de Fra Angelico, pintada em 1438, é uma das
-primeiras obras a se valer quase que integralmente dos recursos
-oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
-especialidade na pintura gótica está diretamente associado ao senso
-espacial e plástico do próprio estilo arquitetônico gótico, o domínio
-completo da perspectiva linear parece associado, de modo semelhante, à
-arquitetura clássica herdada da Antiguidade.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
+![Reconstituição conjetural da pintura em perspectiva do batistério de Florença por Brunelleschi](https://i.pinimg.com/564x/c3/a2/f9/c3a2f9c03c7db91184e55eb91d00f63a.jpg){#fig:bru-persp .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Perspectiva "exata" é impossível porque o olho projeta a imagem numa
-superfície esférica; dimensões aparentes decorrem, portanto, do ângulo
-de visão, mas os ângulos esféricos não podem ser projetados com exatidão
-num plano pictórico; por outro lado, perspectiva linear que restitui
-objetos neste plano não corresponde exatamente ao que o olho vê
-[@panofsky:1997perspective].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Brunelleschi inventou *uma* forma de perspectiva (testemunhado por
-Filarete), provavelmente uma regressão da trigonometria da agrimensura,
-mas talvez não *a* perspectiva linear construída a partir de planta e
-elevação, descrita por Alberti e usada por Masaccio; a esse respeito,
-ver @aiken:1995perspective16; @andersen:2007geometry.
+Filarete), provavelmente uma regressão da trigonometria da agrimensura
+([@fig:bru-persp]), mas talvez não *a* perspectiva linear construída a
+partir de planta e elevação, descrita por Alberti e usada por Masaccio;
+a esse respeito, ver @aiken:1995perspective16; @andersen:2007geometry.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!--
@@ -769,7 +792,34 @@ ver @aiken:1995perspective16; @andersen:2007geometry.
    -
    -->
 
-##
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A famosa Anunciação de Fra Angelico, pintada em 1438, é uma das
+primeiras obras a se valer quase que integralmente dos recursos
+oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
+especialidade na pintura gótica está diretamente associado ao senso
+espacial e plástico do próprio estilo arquitetônico gótico, o domínio
+completo da perspectiva linear parece associado, de modo semelhante, à
+arquitetura clássica herdada da Antiguidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
+![Esquema das distorções da perspectiva, segundo Panofsky](https://hcommons.org/app/uploads/sites/1002372/2023/04/panofsky-perspective-distortion.png){#fig:pano-persp .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A perspectiva "exata" é impossível porque o olho projeta a imagem numa
+superfície esférica ([@fig:pano-persp]); dimensões aparentes decorrem, portanto, do ângulo
+de visão, mas os ângulos esféricos não podem ser projetados com exatidão
+num plano pictórico; por outro lado, perspectiva linear que restitui
+objetos neste plano não corresponde exatamente ao que o olho vê
+[@panofsky:1997perspective].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As composições arquitetônicas de Brunelleschi, para além da cúpula da

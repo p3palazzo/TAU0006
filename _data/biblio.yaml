@@ -7019,6 +7019,34 @@ references:
   title-short: Epochs of Chinese and Japanese art
   type: book
 
+- id: fernandes:2014fundacao
+  author:
+    - family: Fernandes
+      given: Sérgio Padrão
+  citation-key: fernandes:2014fundacao
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  container-title: O tempo e a forma
+  contributor:
+    - literal: Forma Urbis Lab
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: pt-PT
+  page: 70–93
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: >-
+    Fundação e evolução dos traçados urbanos: Matrizes elementares de
+    assentamento e derivações complexas
+  title-short: Fundação e evolução dos traçados urbanos
+  type: chapter
+
 - id: fernandez:2016jesuit
   abstract: >-
     During the time when the Ethiopian kings were based in the city of Gondär
@@ -16452,7 +16480,7 @@ references:
   ISBN: 978-972-566-171-0
   issued:
     - year: 1992
-  language: Portuguese
+  language: pt
   publisher: Instituto de Cultura e Língua Portuguesa, Ministério da Educação e Cultura
   publisher-place: Lisboa
   source: Open WorldCat
