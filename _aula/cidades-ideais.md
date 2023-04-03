@@ -1037,11 +1037,9 @@ geométrica dos elementos.
 
 [Sailko, 2012]: https://commons.wikimedia.org/wiki/File:Spedale_innocenti\,\_putto.JPG
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg/2560px-Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2023/04/it-firenze-slorenzo-dreamstime_m_56432930-1024px.jpg"}
 
-![Brunelleschi e Antonio Manetti, naves da igreja de S. Lourenço, Florença, após 1421. Foto: [Richard Mortel, 2019][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg/1024px-Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg){#fig:slorenzo .outset}
-
-[Richard Mortel, 2019]: https://commons.wikimedia.org/wiki/File:Basilica_of_San_Lorenzo,\_15th_century,\_Florence_(2)\_(48768727497).jpg
+![Brunelleschi e Antonio Manetti, naves da igreja de S. Lourenço, Florença, após 1421](https://hcommons.org/app/uploads/sites/1002372/2023/04/it-firenze-slorenzo-dreamstime_m_56432930-1024px.jpg){#fig:slorenzo .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenvolvimento dessa preocupação de Brunelleschi com a lógica interna
