@@ -7019,6 +7019,34 @@ references:
   title-short: Epochs of Chinese and Japanese art
   type: book
 
+- id: fernandes:2014fundacao
+  author:
+    - family: Fernandes
+      given: Sérgio Padrão
+  citation-key: fernandes:2014fundacao
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  container-title: O tempo e a forma
+  contributor:
+    - literal: Forma Urbis Lab
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: pt-PT
+  page: 70–93
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: >-
+    Fundação e evolução dos traçados urbanos: Matrizes elementares de
+    assentamento e derivações complexas
+  title-short: Fundação e evolução dos traçados urbanos
+  type: chapter
+
 - id: fernandez:2016jesuit
   abstract: >-
     During the time when the Ethiopian kings were based in the city of Gondär
@@ -16452,7 +16480,7 @@ references:
   ISBN: 978-972-566-171-0
   issued:
     - year: 1992
-  language: Portuguese
+  language: pt
   publisher: Instituto de Cultura e Língua Portuguesa, Ministério da Educação e Cultura
   publisher-place: Lisboa
   source: Open WorldCat
@@ -23205,7 +23233,7 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
-- id: ward:1911architecturea
+- id: ward:1911architecture1
   abstract: '52'
   accessed:
     - year: 2017
@@ -23215,7 +23243,7 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architecturea
+  citation-key: ward:1911architecture1
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
@@ -23235,7 +23263,7 @@ references:
   URL: http://archive.org/details/architectureofre01ward
   volume: '1'
 
-- id: ward:1911architectureb
+- id: ward:1911architecture2
   abstract: '52'
   accessed:
     - year: 2017
@@ -23245,7 +23273,7 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architectureb
+  citation-key: ward:1911architecture2
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
@@ -23260,6 +23288,7 @@ references:
     The architecture of the Renaissance in France; a history of the evolution of
     the arts of building, decoration and garden design under classical influence
     from 1495 to 1830
+  title-short: The architecture of the Renaissance in France
   type: book
   URL: http://archive.org/details/architectureofre02ward
   volume: '2'
@@ -24463,6 +24492,7 @@ references:
     - year: 2016
       month: 10
       day: 1
+  language: fr
   source: Wikimedia Commons
   title: "Plan schématique de Chang'an durant la dynastie Tang. A partir de Ivan P. Kamenarovic, La Chine Classique, Paris, Les Belles Lettres, coll. «\_Guide des civilisations\_», 1999, p. 67 et Mark Edward Lewis, China's Cosmopolitan Empire\_: The Tang Dynasty, Cambridge et Londres, Belknap Press of Harvard University Press, coll. «\_History of imperial China\_», 2009, p. 87."
   title-short: Plan schématique de Chang'an durant la dynastie Tang

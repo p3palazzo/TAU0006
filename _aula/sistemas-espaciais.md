@@ -37,7 +37,7 @@ personalidades estudadas individualmente, a nação passa a ser vista como
 o agente coletivo da história.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2023/04/caixas-arte.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa redefinição da pesquisa histórica em torno de coletivos
@@ -47,12 +47,13 @@ Antiguidade*, escrita pelo alemão [Johann Joachim Winckelmann][] na
 primeira metade do século [XVIII]{.smallcaps}. Na esteira dessa obra, o
 modelo predominante segundo o qual se ensina a História da Arte e da
 Arquitetura hoje em dia foi formulado, nas suas linhas gerais, durante
-os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps}. Esse modelo organiza a história como um sistema
-de "caixas" mais ou menos estanques, separadas por país ou cultura,
-período cronológico e "estilo" ou movimento artístico.
+os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps}. Esse modelo organiza
+a história como um sistema de "caixas" mais ou menos estanques,
+separadas por país ou cultura, período cronológico e "estilo" ou
+movimento artístico ([@fig:caixas]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema conceitual da história da arte](){#fig:caixas}
+![Esquema conceitual da história da arte](https://hcommons.org/app/uploads/sites/1002372/2023/04/caixas-arte.png){#fig:caixas .outset .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-position="left" data-background-size="contain"}
 
@@ -116,19 +117,16 @@ metade do século [XIX]{.smallcaps}, o alemão Gottfried Semper propõe que a co
 é secundária diante da organização comunitária do espaço
 ([@fig:karib]), lançando as bases para a história social da
 arquitetura que domina a pesquisa hoje em dia [@semper:2004style].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outro resultado dessa separação da arquitetura em caixas organizadas por
 cultura e por período histórico é situar a obra dos grandes mestres no
 contexto da sua cultura e do seu período, ou mesmo afirmar que esta obra
-não vai além de ser reflexo da cultura e do período em questão. A partir
-daí, o paradigma fundador e marco explicativo da disciplina
-(eminentemente europeia) da História da Arquitetura nos séculos
-[XIX]{.smallcaps} e [XX]{.smallcaps} passa a ser uma história dos
-estilos como resposta artística à evolução da técnica construtiva.
+não vai além de ser reflexo da cultura e do período em questão
+[@saarinen:1985search]. A partir daí, o paradigma fundador e marco
+explicativo da disciplina (eminentemente europeia) da História da
+Arquitetura nos séculos [XIX]{.smallcaps} e [XX]{.smallcaps} passa a ser
+uma história dos estilos como resposta artística à evolução da técnica
+construtiva.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Historicidade da construção como critério de legitimação ##
@@ -191,9 +189,9 @@ apresentar de modo mais realizado:
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg" data-background-size="contain"}
 
-::: align-right
-![Henry Kraus, [*Gold Was the Mortar*, 1979](https://archive.org/details/goldwasmortareco0000krau/mode/2up)](https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg){#fig:kraus  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Henry Kraus, [*Gold Was the Mortar*, 1979](https://archive.org/details/goldwasmortareco0000krau/mode/2up)](https://hcommons.org/app/uploads/sites/1002372/2022/01/gold-mortar-scaled.jpg){#fig:kraus}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A História da construção se renova a partir do final do século [XX]{.smallcaps}. Ela
@@ -204,7 +202,7 @@ caminho com destino certo, mas situam cada realização no contexto dos
 seus próprios antecedentes e do quadro contemporâneo [@kraus:1979gold].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/historyofarchite00flet_0689_0690.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A distinção de estilos históricos não históricos feita por Banister
@@ -228,22 +226,20 @@ arquitetura, a tensão entre transformação construtiva e evolução das
 formas espaciais é, certamente, um dos motores do processo histórico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## História como ruptura e continuidade ##
+## História como ruptura e continuidade ## {data-visibility="hidden"}
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:vasari-vite .columns}
-::: {.column width=50%}
-![Giorgio Vasari, [retrato pintado por Jacopo Zucchi, 1571--1574](https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_Selbstportr%C3%A4t.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/22/Giorgio_Vasari_Selbstportr%C3%A4t.jpg){#fig:vasari}
+::: {.column width=54%}
+![Giorgio Vasari, [retrato pintado por Jacopo Zucchi, 1571--1574](https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_Selbstporträt.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/22/Giorgio_Vasari_Selbstporträt.jpg){#fig:vasari}
 :::
-::: {.column width=50%}
-![Giorgio Vasari, [*Vidas dos artistas*, 1568][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu/page1-2487px-Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu.jpg){#fig:vite}
+::: {.column width=46%}
+![Giorgio Vasari, [*Vidas dos artistas*, 1568][], frontispício](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vasari_-\_Le_vite_de’_piu_eccellenti_pittori\,\_scultori\,\_et_architettori\,\_1-2\,\_1568.djvu/page1-2487px-Vasari_-\_Le_vite_de’_piu_eccellenti_pittori\,\_scultori\,\_et_architettori\,\_1-2\,\_1568.djvu.jpg){#fig:vite}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*Vidas dos artistas*, 1568]: https://commons.wikimedia.org/wiki/File:Vasari_-_Le_vite_de’_piu_eccellenti_pittori,_scultori,_et_architettori,_1-2,_1568.djvu
-
-<!--_-->
+[*Vidas dos artistas*, 1568]: https://commons.wikimedia.org/wiki/File:Vasari_-\_Le_vite_de’_piu_eccellenti_pittori\,\_scultori\,\_et_architettori\,\_1-2\,\_1568.djvu
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A última, e talvez a mais importante, consequência desse entendimento
@@ -266,7 +262,7 @@ outra ruptura, no advento do barroco, permanece um critério de
 periodização corrente ainda hoje.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=33%}
@@ -284,32 +280,37 @@ periodização corrente ainda hoje.
 A visão da história enquanto sucessão de rupturas é problemática porque
 ela ignora as continuidades que se estabelecem ao longo de vários
 períodos históricos --- aquilo que o historiador da arte espanhol
-Fernando Chueca Goitia chamou de "intra-história", e o que o historiador
-francês Fernand Braudel classifica como a "longa" ou "longuíssima
+Fernando Chueca Goitia ([@fig:chueca]) chamou de "intra-história", e o que o historiador
+francês Fernand Braudel ([@fig:braudel]) classifica como a "longa" ou "longuíssima
 duração". Para o historiador da arquitetura brasileiro Gustavo
-Rocha-Peixoto, "no fundo, a história não passa de uma grande e única
+Rocha-Peixoto ([@fig:gustavo]), "no fundo, a história não passa de uma grande e única
 transição" [@rochapeixoto:2013estrategia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, o maior pecado dessa periodização que trata a história como
 um sistema de rupturas entre períodos mais ou menos estáticos talvez
 seja o de *estetizar* a definição desses períodos. A "história dos
-estilos" é um trabalho legítimo por seus próprios méritos; a "história
+estilos" é um trabalho legítimo por seus próprios méritos ([@fig:koch-estilos]); a "história
 social" das condições de produção da arte, idem. O problema está em
 tentar encaixar, à força, uma coerência pretendida entre a aparência
 visual das construções e o contexto social, político ou econômico que as
 cerca. Essa mentalidade leva a simplificar e distorcer a narrativa
 histórica, e principalmente a procurar "pioneiros" das rupturas em
-detrimento dos "revivalistas" --- como se a história da arte fosse uma
+detrimento dos "revivalistas" ([@fig:pioneers]) --- como se a história da arte fosse uma
 corrida para ver quem chega primeiro no "futuro".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Wilfried Koch, *Dicionário dos estilos arquitetônicos*](){#fig:koch-estilos}
-
-![Nikolaus Pevsner, *Pioneiros da arquitetura moderna e do design*](){#fig:pioneers}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: columns
+::: {.column width=47.3%}
+![Wilfried Koch, *Dicionário dos estilos arquitetônicos*](https://i.pinimg.com/originals/80/07/6e/80076ef274a65873ae2c55922761ef22.jpg){#fig:koch-estilos}
+:::
+::: {.column width=52.7%}
+![Nikolaus Pevsner, *Pioneiros do desenho moderno*](https://i.pinimg.com/originals/3c/d4/85/3cd485d29a7d33e6d3937c778ef26355.jpg){#fig:pioneers}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg" data-background-size="contain"}
 
@@ -334,7 +335,7 @@ arquitetura clássica na Grécia ([@fig:auto-temple])
 
 ![Le Corbusier. Comparação entre estilos em *Por uma arquitetura*, 1923](https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg){#fig:auto-temple}
 
-##
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para quem se encontra no início, por assim dizer, de um desses
