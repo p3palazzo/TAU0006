@@ -11,8 +11,8 @@ tagline: |
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2022/01/fra_carnevale-the_ideal_city-google_art_project-scaled.jpg
 header:
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
-  caption: "Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg"
+  caption: "Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg)"
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -293,9 +293,9 @@ largura dessas avenidas em vários pontos e deformando o seu alinhamento ([@fig:
 
 ![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi .line .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)_11.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg"}
 
-![Ao longo do rio no festival Qingming, imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg){#fig:qingming .outset}
+![Ao longo do rio no festival Qingming (detalhe), imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg){#fig:qingming .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interação entre esse processo de adensamento dos mercados lineares e
@@ -377,7 +377,7 @@ estilo de representação pictórica está, em grande parte, codificado
 desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gu Kaizhi. [*Ninfa do rio Luo*], cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi .outset}
+![Gu Kaizhi. [*Ninfa do rio Luo*] (detalhe), cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi .outset}
 
 [*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
 
@@ -387,7 +387,7 @@ desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 ![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan  }
 :::
 
-[Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)_by_Emperor_Huizong_(1082–1135).jpg
+[Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)\_by_Emperor_Huizong_(1082–1135).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O fio condutor da periodização na pintura
@@ -458,14 +458,14 @@ presente.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-_Southern_Song_Dynasty-es.svg/782px-China_-_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
+![Dinastia Song do Sul c. 1200. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/China_-\_Southern_Song_Dynasty-es.svg/782px-China_-\_Southern_Song_Dynasty-es.svg.png){#fig:nansong}
 :::
 ::: {.column width=50%}
 ![Dinastia Ming c. 1580. Mapa: [Podzemnik, 2014, baseado em Michal Klajban, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ming_Empire_cca_1580_es.svg/755px-Ming_Empire_cca_1580_es.svg.png){#fig:mingdai}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:China_-_Southern_Song_Dynasty-es.svg
+[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:China_-\_Southern_Song_Dynasty-es.svg
 
 [Podzemnik, 2014, baseado em Michal Klajban, 2010]: https://commons.wikimedia.org/wiki/File:Ming_Empire_cca_1580_es.svg
 
@@ -473,10 +473,10 @@ presente.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=42.5%}
-![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg){#fig:juran}
+![Juran, [*Buscando o Tao nas montanhas de outono*][], final do século [X]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/4/45/Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,\_Tapei.10_cent..jpg){#fig:juran}
 :::
 ::: {.column width=57.5%}
-![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-_Early_Spring_(large).jpg/528px-Guo_Xi_-_Early_Spring_(large).jpg){#fig:guoxi}
+![Guo Xi, [*Início da primavera*, 1072][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Guo_Xi_-\_Early_Spring_(large).jpg/528px-Guo_Xi_-\_Early_Spring_(large).jpg){#fig:guoxi}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -489,11 +489,11 @@ uma construção gradual da profundidade em múltiplo planos pictóricos
 de fundo e o primeiro plano, preenchido com névoa ([@fig:guoxi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*Buscando o Tao nas montanhas de outono*]: https://commons.wikimedia.org/wiki/File:Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,_Tapei.10_cent..jpg
+[*Buscando o Tao nas montanhas de outono*]: https://commons.wikimedia.org/wiki/File:Juran._Seeking_the_Tao_in_Autumn_Mountains._Palace_museum,\_Tapei.10_cent..jpg
 
 <!--_-->
 
-[*Início da primavera*, 1072]: https://commons.wikimedia.org/wiki/File:Guo_Xi_-_Early_Spring_(large).jpg
+[*Início da primavera*, 1072]: https://commons.wikimedia.org/wiki/File:Guo_Xi_-\_Early_Spring_(large).jpg
 
 ------
 
@@ -510,22 +510,22 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=59.5%}
-![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
+![Li Tang, [*Vento nos pinheiros por entre milhares de vales*][], 1124](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Li_Tang_-\_Wind_in_Pines_Among_a_Myriad_Valleys.jpg/576px-Li_Tang_-\_Wind_in_Pines_Among_a_Myriad_Valleys.jpg){#fig:litang}
 :::
 ::: {.column width=40.5%}
-![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg/1021px-Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg){#fig:fankuan}
+![Fan Kuan, [*Viajantes entre montanhas e corredeiras*][], c. 1000](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fan_Kuan_-\_Travelers_Among_Mountains_and_Streams_-\_Google_Art_Project.jpg/1021px-Fan_Kuan_-\_Travelers_Among_Mountains_and_Streams_-\_Google_Art_Project.jpg){#fig:fankuan}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*Viajantes entre montanhas e corredeiras*]: https://commons.wikimedia.org/wiki/File:Fan_Kuan_-_Travelers_Among_Mountains_and_Streams_-_Google_Art_Project.jpg
+[*Viajantes entre montanhas e corredeiras*]: https://commons.wikimedia.org/wiki/File:Fan_Kuan_-\_Travelers_Among_Mountains_and_Streams_-\_Google_Art_Project.jpg
 
-[*Vento nos pinheiros por entre milhares de vales*]: https://commons.wikimedia.org/wiki/File:Li_Tang_-_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
+[*Vento nos pinheiros por entre milhares de vales*]: https://commons.wikimedia.org/wiki/File:Li_Tang_-\_Wind_in_Pines_Among_a_Myriad_Valleys.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
 
-![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan .outset}
+![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan .outset}
 
-[*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_Clouds_Rising_from_the_Green_Sea.jpg
+[*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg
 
 <!--_-->
 
@@ -560,10 +560,10 @@ superior.
 
 ## Arte clássica ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-_Scholar_viewing_a_waterfall_-_1973.120.9_-_Metropolitan_Museum_of_Art.jpg){#fig:literati}
+![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg){#fig:literati}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
@@ -587,7 +587,7 @@ tradições artísticas e arquitetônicas da China se estabilizam do século
 [XII]{.smallcaps} em diante ([@fig:fragrance]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance}
+![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance .outset}
 
 [*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
 
@@ -672,9 +672,9 @@ representação do espaço, predominantemente preocupada com a apresentação
 de figuras com significado transcendental ([@fig:ohrid]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg" data-background-position="top"}
+## Espaço figural gótico ## {data-visibility="hidden"}
 
-<!--_-->
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É a pintura gótica no séculos [XIV]{.smallcaps} e [XV]{.smallcaps} que
@@ -685,10 +685,10 @@ século [XIV]{.smallcaps} com a obra de artistas como Giotto
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg){#fig:giotto  }
+![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg){#fig:giotto  }
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_Scenes_Nos._1-3_-_WGA09115.jpg
+[Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg" data-background-position="bottom"}
 
@@ -726,15 +726,15 @@ lado, também o estabelecimento de uma convenção pictórica referente ao
 posicionamento das figuras e a sua relação com o espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg" data-background-size="contain"}
+## Espaço geométrico renascentista ## {data-visibility="hidden"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg){#fig:alor-ann}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-\_1344..jpg" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Ambrogio Lorenzetti, [Anunciação, 1344][]](https://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-\_1344..jpg){#fig:alor-ann .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-_1344..jpg
-
-<!--_-->
+[Anunciação, 1344]: https://commons.wikimedia.org/wiki/File:Lorenzetti_Ambrogio_annunciation-\_1344..jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ambrogio Lorenzetti é um dos primeiros artistas --- talvez o primeiro
@@ -746,17 +746,38 @@ espaço físico ainda é determinado pelas necessidades narrativas da cena.
 ------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
+Do final do século [XIV]{.smallcaps} para primeira metade do [XV]{.smallcaps}, ocorre um salto
 técnico na representação do espaço caracterizado pela introdução da
 perspectiva linear com ponto de fuga. A principal característica
 da perspectiva com ponto de fuga é uniformizar o tratamento do espaço e
 das figuras. A partir daí, todos os objetos presentes na cena --- sejam
 eles figuras humanas ou objeto inanimados, ou ainda a própria
 delimitação do espaço arquitetônico --- podem ser descritos segundo os
-mesmos procedimentos técnicos. Em certas obras, como a Anunciação de
+mesmos procedimentos técnicos. Em certas obras, como a Anunciação do frei
 Filippo Lippi, a rigidez da perspectiva arquitetônica chega mesmo a
-interferir na composição narrativa da pintura.
+interferir na composição narrativa da pintura ([@fig:lippi-ann]).
+
+A famosa Anunciação de Fra Angelico, pintada em 1442 ([@fig:frangelico]), é uma das
+primeiras obras a se valer quase que integralmente dos recursos
+oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
+especialidade na pintura gótica está diretamente associado ao senso
+espacial e plástico do próprio estilo arquitetônico gótico, o domínio
+completo da perspectiva linear parece associado, de modo semelhante, à
+arquitetura clássica herdada da Antiguidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=38%}
+![Frei Filippo Lippi, [Anunciação da basílica de S. Lourenço][], c. 1445](https://upload.wikimedia.org/wikipedia/commons/9/91/Fra_Filippo_Lippi_-\_Annunciation_-\_WGA13220.jpg){#fig:lippi-ann}
+:::
+::: {.column width=62%}
+![Giovanni da Fiesole dito [Fra Angelico, Anunciação][], 1442–43](https://upload.wikimedia.org/wikipedia/commons/0/0e/Fra_Angelico_-\_The_Annunciation_-\_WGA00555.jpg){#fig:frangelico}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Anunciação da basílica de S. Lourenço]: https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_-\_Annunciation_-\_WGA13220.jpg
+
+[Fra Angelico, Anunciação]: https://commons.wikimedia.org/wiki/File:Fra_Angelico_-\_The_Annunciation_-\_WGA00555.jpg
 
 ------
 
@@ -765,43 +786,25 @@ interferir na composição narrativa da pintura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Brunelleschi inventou *uma* forma de perspectiva (testemunhado por
-Filarete), provavelmente uma regressão da trigonometria da agrimensura
-([@fig:bru-persp]), mas talvez não *a* perspectiva linear construída a
-partir de planta e elevação, descrita por Alberti e usada por Masaccio;
-a esse respeito, ver @aiken:1995perspective16; @andersen:2007geometry.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
+Brunelleschi a invenção da perspectiva linear. Embora
+nenhum outro autor confirme de modo independente essa atribuição a
+relação entre a obra de Brunelleschi e o controle pictórico espaço por
+meio da perspectiva linear é intrigante. 
+Brunelleschi está incumbido de resolver uma contradição conceitual entre
+o espaço linear da catedral gótica e o espaço centralizado da cúpula
+românica. O espaço gótico, feito de módulos que se repetem e se
+alinham em configurações variadas, é potencialmente infinito e
+restringido apenas por limites convencionais. O espaço da perspectiva
+linear, por outro lado, é intrinsecamente delimitado porque pode ser
+representado apenas por meio dessa delimitação.
 
-<!--
-   -##
-   -
-   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-   -Alberti, no seu tratado *Sobre a pintura* escrito em 1435, atribui a
-   -Brunelleschi a invenção da perspectiva linear. Embora
-   -nenhum outro autor confirme de modo independente essa atribuição a
-   -relação entre a obra de Brunelleschi e o controle pictórico espaço por
-   -meio da perspectiva linear é intrigante. 
-   -Brunelleschi está incumbido de resolver uma contradição conceitual entre
-   -o espaço linear da catedral gótica e o espaço centralizado da cúpula
-   -românica. O espaço gótico, feito de módulos que se repetem e se
-   -alinham em configurações variadas, é potencialmente infinito e
-   -restringido apenas por limites convencionais. O espaço da perspectiva
-   -linear, por outro lado, é intrinsecamente delimitado porque pode ser
-   -representado apenas por meio dessa delimitação.
-   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-   -
-   -->
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A famosa Anunciação de Fra Angelico, pintada em 1438, é uma das
-primeiras obras a se valer quase que integralmente dos recursos
-oferecidos pela perspectiva com ponto de fuga. Se o desenvolvimento da
-especialidade na pintura gótica está diretamente associado ao senso
-espacial e plástico do próprio estilo arquitetônico gótico, o domínio
-completo da perspectiva linear parece associado, de modo semelhante, à
-arquitetura clássica herdada da Antiguidade.
+Na verdade, Brunelleschi inventou *uma* forma de perspectiva
+(testemunhado por Filarete). Essa fora era provavelmente uma regressão
+da trigonometria da agrimensura ([@fig:bru-persp]), mas talvez não *a*
+perspectiva linear construída a partir de planta e elevação, descrita
+por Alberti e usada por Masaccio; a esse respeito, ver
+@aiken:1995perspective16; @andersen:2007geometry.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ------
@@ -859,9 +862,9 @@ autores se vinculam.
 
 ## {data-background-image="https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg" data-background-size="contain"}
 
-::: align-right
-![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
+![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar da aparente revolução no entendimento da arquitetura que essa
@@ -871,13 +874,14 @@ professores defendiam. Eles decretam o esgotamento retroativo do
 paradigma renascentista por causa do ecletismo, que consideram uma
 "falsificação" ilegítima do processo histórico ainda visto como uma
 progressão linear. A história da especialidade promovida por autores
-como Giedion ([@fig:giedion]) e Saarinen acrescenta confusão à narrativa histórica, sem
+como Giedion ([@fig:giedion]) e Saarinen [@giedion:2004espaco;
+@saarinen:1985search] acrescenta confusão à narrativa histórica, sem
 eliminar o determinismo da antiga história dos estilos, e dando margem a
 interpretações arbitrárias sobre praticamente qualquer repertório
 arquitetônico do passado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O historiador da arquitetura italiano Giulio Carlo Argan, influenciado
@@ -889,11 +893,7 @@ autonomia criativa do sujeito (arquiteto) e a introdução da
 originalidade como critério de juízo. A valorização da originalidade
 como característica determinante da obra de arte evidencia as raízes
 românticas do modernismo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No esquema de Argan, a Antiguidade e a Idade Média são períodos onde o
 espaço ainda é inteiramente determinado pelas possibilidades limitadas
 do sistema estrutural disponível. Esses períodos constituem, por assim
@@ -904,7 +904,9 @@ massas geométricas primárias que constituem a envoltória física dos
 volumes unitários de espaço livre. O espaço continua "preso" a
 restrições externas --- não tanto as possibilidades técnicas do sistema
 estrutural, mas sobretudo as ideias renascentistas sobre geometria e
-pureza formal. No período barroco e sobretudo na obra de Borromini, o
+pureza formal.
+
+No período barroco e sobretudo na obra de Borromini, o
 espaço passa a ser criado pela manipulação projetual arbitrária da
 geometria do próprio espaço, livre de tipologias formais *a priori*.
 Argan salta os séculos [XVIII]{.smallcaps} e [XIX]{.smallcaps} como sendo períodos de estagnação, ou
@@ -937,7 +939,9 @@ projetual. Outras tradições arquitetônicas permanecem presas à tipologia
 e à tradição [@bozdogan:1999architectural].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Sistemas volumétricos finitos ##
+## Sistemas volumétricos finitos ## {data-visibility="hidden"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/85/Piero\,\_flagellazione_11.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O controle sobre o espaço pictórico que a perspectiva linear permitir se
@@ -949,7 +953,17 @@ tempo, nos fundos amplos há uma sugestão de delimitação, enquanto que o
 espaço contido tem alguma abertura para a expansão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+![Piero della Francesca, [Flagelação de Cristo][], têmpera sobre madeira, c. 1470](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Piero\,\_flagellazione_11.jpg/1024px-Piero\,\_flagellazione_11.jpg){#fig:flagella}
+
+[Flagelação de Cristo]: https://commons.wikimedia.org/wiki/File:Piero,\_flagellazione_11.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Piero della Francesca, [Procissão da Rainha de Sabá diante do Rei Salomão][], afresco na basílica de S. Francisco de Assis, 1466](https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg){#fig:piero-saba}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Procissão da Rainha de Sabá diante do Rei Salomão]: https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A introdução dos sistemas espaciais finitos no Renascimento não se
@@ -964,19 +978,29 @@ condicionar a composição arquitetônica a um esquema teórico definido a
 priori e que opera dentro de um sistema explícito de condicionantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://collectionimages.npg.org.uk/std/mw211405/Geoffrey-Scott.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
+![Geoffrey Scott, [fotografia anônima, década de 1910][]](https://collectionimages.npg.org.uk/std/mw211405/Geoffrey-Scott.jpg){#fig:scott}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[fotografia anônima, década de 1910]: https://www.npg.org.uk/collections/search/use-this-image/?mkey=mw211405
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Geoffrey Scott, no Renascimento, pela primeira vez a questão
 principal no ofício da arquitetura não é mais “como podemos realizar uma
 obra dentro das condicionantes técnicas que nos são colocados?“, mas
 “essa solução é correta dentro das condicionantes formais do sistema que
-nós escolhemos?” Para responder essa questão será preciso formular um
-sistema formal explícito por meio da escrita de tratados, como veremos
-mais adiante.
+nós escolhemos?” [@scott:1914architecture] Para responder essa questão
+será preciso formular um sistema formal explícito por meio da escrita de
+tratados, como veremos mais adiante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Architrav_SDI_0610.jpg/576px-Architrav_SDI_0610.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Filippo Brunelleschi, arquiteto, hospício dos Inocentes, Florença, 1419, terminação do entablamento. Foto: [Kokuric, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Architrav_SDI_0610.jpg/576px-Architrav_SDI_0610.jpg){#fig:spedale-end}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na obra de Brunelleschi, essa busca pela forma correta deixa
@@ -987,25 +1011,37 @@ um dos primeiros arquitetos modernos a fazer levantamentos da
 arquitetura romana. Porém, a resolução formal das suas composições
 prioriza, muitas vezes, uma lógica de articulação dos elementos que
 resulta visualmente desconcertante.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um exemplo dessa lógica conceitualmente coerente porém visualmente
 peculiar se encontra na extremidade da fachada do asilo de órfãos, que
 Brunelleschi projeta na praça da santíssima Anunciata em Florença. Nesse
 que é um dos seus primeiros projetos arquitetônicos, Brunelleschi
 conclui a composição das arcadas e pilastras do pavimento térreo
 rotacionando a arquitrave que trava a extremidade da composição,
-formando uma moldura gráfica na parede e descendo até atingir o chão. O
-elemento central formado pelas arcadas segue o padrão compositivo da
-arquitetura românica na Toscana desde o século [XII]{.smallcaps}. Porém, ao encontrar
-a composição das pilastras, os medalhões situados entre os arcos são
-truncados, de modo a manter a regularidade geométrica dos elementos.
+formando uma moldura gráfica na parede e descendo até atingir o chão
+([@fig:spedale-end]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Spedale_innocenti\,\_putto.JPG/2560px-Spedale_innocenti\,\_putto.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O elemento central formado pelas arcadas segue o
+padrão compositivo da arquitetura românica na Toscana desde o século
+[XII]{.smallcaps}. Porém, ao encontrar
+a composição das pilastras, os medalhões situados entre os arcos são
+truncados ([@fig:spedale-med]), de modo a manter a regularidade
+geométrica dos elementos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Brunelleschi, hospício dos Inocentes, 1419, medalhão e pilastra. Foto: [Sailko, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Spedale_innocenti\,\_putto.JPG/1024px-Spedale_innocenti\,\_putto.JPG){#fig:spedale-med}
+
+[Sailko, 2012]: https://commons.wikimedia.org/wiki/File:Spedale_innocenti\,\_putto.JPG
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg/2560px-Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg"}
+
+![Brunelleschi e Antonio Manetti, naves da igreja de S. Lourenço, Florença, após 1421. Foto: [Richard Mortel, 2019][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg/1024px-Basilica_of_San_Lorenzo\,\_15th_century\,\_Florence_(2)\_(48768727497).jpg){#fig:slorenzo .outset}
+
+[Richard Mortel, 2019]: https://commons.wikimedia.org/wiki/File:Basilica_of_San_Lorenzo,\_15th_century,\_Florence_(2)\_(48768727497).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenvolvimento dessa preocupação de Brunelleschi com a lógica interna
@@ -1013,13 +1049,20 @@ da arquitetura clássica assume formas variadas ao longo do tempo. Na
 Igreja de São Lourenço, de 1421, as arcadas não seguem mais o padrão
 românico de repousarem diretamente sobre os capitéis das colunas. Em vez
 disso, o arquiteto se inspira nas construções romanas do século IV, e
-insere um entablamento trocado entre a coluna e a arcada. A configuração
-geral do espaço interior, com três naves, arco Cruzeiro dominante,
+insere um entablamento truncado entre a coluna e a arcada
+([@fig:slorenzo]). A configuração geral do espaço interior, com três
+naves, arco Cruzeiro dominante,
 cúpula e capela-mor de planta retangular, remete em parte à arquitetura
 paleocristã, com elementos da tradição românica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia\,\_veduta_00.jpg/701px-Sagrestia_vecchia\,\_veduta_00.jpg" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Brunelleschi, Sacristia velha da basílica de S. Lourenço. Foto: [Sailko, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia\,\_veduta_00.jpg/701px-Sagrestia_vecchia\,\_veduta_00.jpg){#fig:sagres-vecchia}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Sailko, 2016]: https://commons.wikimedia.org/wiki/File:Sagrestia_vecchia\,\_veduta_00.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das soluções formais mais curiosas na obra de Brunelleschi se
@@ -1029,14 +1072,10 @@ volumes geométricos primários: cubos e esferas. Pilastras coríntias
 articulam todas as arestas dos espaços prismáticos. Nas quinas convexas,
 essas pilastras abraçam e contornam aresta. Nas quinas reentrantes,
 por outro lado, algumas pilastras chegam quase a desaparecer no interior
-da parede. Essa solução visualmente insatisfatória é, porém, coerente e
-análoga à situação das pilastras convexas, que funcionam como um pilar
-colocado no eixo da parede.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+da parede ([@fig:sagres-vecchia]). Essa solução visualmente
+insatisfatória é, porém, coerente e análoga à situação das pilastras
+convexas, que funcionam como um pilar colocado no eixo da parede.
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aceitação desse problema visual demonstra a precedência que a lógica
 de composição tem sobre a manipulação plástica dos elementos. Essa
 lógica está associada à legitimidade teórica dos elementos da
@@ -1051,7 +1090,7 @@ de São Lourenço, uma das últimas obras de Brunelleschi. A fachada dessa
 capela explora diferentes modos de articular colunas arcos e pilastras.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para o arquiteto brasileiro Fernando Luiz Lara, a abstração que gera a
@@ -1078,15 +1117,13 @@ cidade numa das cabeceiras, e os edifícios da administração municipal
 geralmente ocupando a outra extremidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg){#fig:pompei}
+![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg){#fig:pompei .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg"}
 
-<!--_-->
-
-::: full
-![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg){#fig:buongoverno}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, mais do que a forma desse espaço, o que importa na cidade
@@ -1109,11 +1146,11 @@ ideal, desse ponto de vista, não é necessariamente uma geometria
 impecavelmente regular, mas si uma hierarquia espacial clara.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena}
+![Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena .outset}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png" data-background-size="contain"}
 
-![Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974](https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png){#fig:todi}
+![Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974](https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png){#fig:todi .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A importância desses grupos de praças articuladas entre si e com os
@@ -1137,34 +1174,35 @@ pontos de vista possíveis numa praça europeia poderia ser uma das
 origens da perspectiva linear na pintura do Renascimento?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Módena, planta Vallardi de 1870](https://hcommons.org/app/uploads/sites/1002372/2022/01/vallardi-modena-scaled.jpg){#fig:modena}
+![Módena, planta Vallardi de 1870](https://hcommons.org/app/uploads/sites/1002372/2022/01/vallardi-modena-scaled.jpg){#fig:modena .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg"}
 
-<!--_,-->
-
-![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-_The_Piazza_della_Signoria_in_Florence_-_Google_Art_Project.jpg){#fig:bellotto-signoria}
+![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg){#fig:bellotto-signoria .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os monumentos, estátuas ou fontes, livremente dispostos no interior da
 praça, contribuem para organização regular do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg/1024px-Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg"}
 
-<!--_-->
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Eles não precisam estar alinhados com eixos de vias ou com eixos de
+simetria do espaço ou dos edifícios lindeiros; o seu posicionamento
+assimétrico gera marcos visuais e campos de força que atraem o olhar e
+estabelecem o equilíbrio visual do conjunto.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg/1024px-Giuseppe_Zocchi_-_The_Piazza_della_Signoria_in_Florence_-_WGA25992.jpg){#fig:zocchi-signoria}
+![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg/1024px-Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg){#fig:zocchi-signoria .outset}
 
 ## Cidade ideal do Renascimento ## {data-visibility="hidden"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg"}
 
-<!--_,-->
-
-::: full
-![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em qualquer caso, no século [XV]{.smallcaps} a pintura em perspectiva no centro da
@@ -1180,9 +1218,7 @@ ao ponto de vista da imagem é não só uma conveniência técnica, mas um
 modo de afirmar a perfeição geométrica do conjunto.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"}
-
-<!--_-->
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Num primeiro momento, na segunda metade do século [XV]{.smallcaps}, os próprios
@@ -1192,18 +1228,17 @@ principalmente, um recurso para ordenar a disposição desses edifícios,
 auxiliado pela regularidade na paginação do piso sempre pavimentado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg){#fig:carnevale}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg"}
 
-::: full
-![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:berlin  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg){#fig:berlin}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--_,-->
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em pouco tempo, porém, antes mesmo do final do século [XV]{.smallcaps}, o interesse
 artístico se desloca da representação de *construções no espaço* para a
 representação *do próprio espaço*. As construções passam de personagens
@@ -1215,6 +1250,7 @@ A busca pela representação do espaço, e pela articulação entre matéria e
 vazio, que na China do século [XII]{.smallcaps} assume a forma de um diálogo entre
 névoa e paisagem, na Itália do século [XV]{.smallcaps} resulta numa busca pela
 descrição e delimitação geométrica do espaço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG"}
 
@@ -1232,7 +1268,7 @@ projeto da cidade, ela estabelece que a forma do espaço urbano vem
 primeiro, domina e determina a forma da edificação.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista}
+![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .outset}
 
 ## O que é uma praça ## {data-visibility="hidden"}
 
@@ -1258,9 +1294,9 @@ lembrem-se desta:
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png"}
 
-::: full
-![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em Pienza, a cidade do papa Pio II, o arquiteto Bernardo Rossellino
@@ -1285,13 +1321,13 @@ um antigo hipódromo romano, todos os edifícios --- mesmo os mais
 importantes, como a catedral --- se submetem à forma do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="" data-background-video-muted="true"}
 
-::::::::::::::::::::::::::::::::: {#fig:vigevano-veduta .iframe-wrapper}
+::::::::::::::::::::::::::::::::: {#fig:vigevano-veduta .iframe-wrapper .outset}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tJWagMHxBYw?start=432" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vistas de Vigevano, incluindo a praça Ducal. Filmagem: [Massimo Nalli, 2021](https://youtu.be/tJWagMHxBYw?t=432)
@@ -1299,13 +1335,13 @@ Vistas de Vigevano, incluindo a praça Ducal. Filmagem: [Massimo Nalli, 2021](ht
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png"}
 
-::: full
-![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"}
 
-![Praça ducal, Vigevano, vista para a catedral. Foto: [Alien66, 2012](https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo}
+![Praça ducal, Vigevano, vista para a catedral. Foto: [Alien66, 2012](https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A form geométrica do espaço, mais uma vez, pode se acomodar não sendo
@@ -1315,13 +1351,13 @@ suficiente.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg"}
 
-![Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980](https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg){#fig:vigevano-monti}
+![Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980](https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg){#fig:vigevano-monti .outset}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"}
 
-::: full
-![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Muitos desses espaços urbanos adquirem a sua forma ao longo de décadas
@@ -1339,7 +1375,7 @@ cada intervenção sucessiva acompanhe e fortaleça as realizações
 anteriores ([@fig:annunziata-bacon]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV--XVII]{.smallcaps}. Bacon, 1974. [(A)]{.smallcaps} -- Spedale degli Innocenti por Brunelleschi, 1419--27, [(B)]{.smallcaps} -- igreja da SS. Annunziata, claustro por Michelozzo di Bartolomeo, 1454, [(C)]{.smallcaps} -- pórtico por Antonio da Sangallo e Baccio d'Agnolo, concluído em 1629](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-bacon-piazza-ss-annunziata7.png){#fig:annunziata-bacon .line}
+![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV--XVII]{.smallcaps}. Bacon, 1974. [(A)]{.smallcaps} -- Spedale degli Innocenti por Brunelleschi, 1419--27, [(B)]{.smallcaps} -- igreja da SS. Annunziata, claustro por Michelozzo di Bartolomeo, 1454, [(C)]{.smallcaps} -- pórtico por Antonio da Sangallo e Baccio d'Agnolo, concluído em 1629](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-bacon-piazza-ss-annunziata7.png){#fig:annunziata-bacon .line .outset}
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 

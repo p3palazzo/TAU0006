@@ -23233,7 +23233,7 @@ references:
   type: book
   URL: http://archive.org/details/architectureofre01ward
 
-- id: ward:1911architecturea
+- id: ward:1911architecture1
   abstract: '52'
   accessed:
     - year: 2017
@@ -23243,7 +23243,7 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architecturea
+  citation-key: ward:1911architecture1
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
@@ -23263,7 +23263,7 @@ references:
   URL: http://archive.org/details/architectureofre01ward
   volume: '1'
 
-- id: ward:1911architectureb
+- id: ward:1911architecture2
   abstract: '52'
   accessed:
     - year: 2017
@@ -23273,7 +23273,7 @@ references:
     - family: Ward
       given: William Henry
   call-number: AAK-1408
-  citation-key: ward:1911architectureb
+  citation-key: ward:1911architecture2
   contributor:
     - literal: Robarts - University of Toronto
   event-place: London
@@ -23288,6 +23288,7 @@ references:
     The architecture of the Renaissance in France; a history of the evolution of
     the arts of building, decoration and garden design under classical influence
     from 1495 to 1830
+  title-short: The architecture of the Renaissance in France
   type: book
   URL: http://archive.org/details/architectureofre02ward
   volume: '2'
@@ -24491,6 +24492,7 @@ references:
     - year: 2016
       month: 10
       day: 1
+  language: fr
   source: Wikimedia Commons
   title: "Plan schématique de Chang'an durant la dynastie Tang. A partir de Ivan P. Kamenarovic, La Chine Classique, Paris, Les Belles Lettres, coll. «\_Guide des civilisations\_», 1999, p. 67 et Mark Edward Lewis, China's Cosmopolitan Empire\_: The Tang Dynasty, Cambridge et Londres, Belknap Press of Harvard University Press, coll. «\_History of imperial China\_», 2009, p. 87."
   title-short: Plan schématique de Chang'an durant la dynastie Tang
