@@ -1,5 +1,6 @@
 ---
 title   : "Jardins"
+subtitle: "Cidades e redes na fundação do mundo moderno"
 author  : Pedro P. Palazzo
 date    : 2023-04-27
 tagline: |

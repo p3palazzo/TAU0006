@@ -1,7 +1,8 @@
 ---
-title  : "Sistemas espaciais e abóbadas"
-author : Pedro P. Palazzo
-date   : 2023-04-20
+title   : "Sistemas espaciais e abóbadas"
+subtitle: "Cidades e redes na fundação do mundo moderno"
+author  : Pedro P. Palazzo
+date    : 2023-04-20
 tagline: |
   História da arquitetura como história da construção –
   A cúpula de Brunelleschi –

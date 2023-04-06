@@ -1,5 +1,6 @@
 ---
 title   : "Cidades possíveis"
+subtitle: "Cidades e redes na fundação do mundo moderno"
 author  : Pedro P. Palazzo
 date    : 2023-04-13
 tagline: |
