@@ -1,7 +1,8 @@
 ---
-title  : "Sistemas espaciais e abóbadas"
-author : Pedro P. Palazzo
-date   : 2023-04-20
+title   : "Sistemas espaciais e abóbadas"
+subtitle: "Cidades e redes na fundação do mundo moderno"
+author  : Pedro P. Palazzo
+date    : 2023-04-20
 tagline: |
   História da arquitetura como história da construção –
   A cúpula de Brunelleschi –
@@ -314,6 +315,8 @@ corrida para ver quem chega primeiro no "futuro".
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg" data-background-size="contain"}
 
+![Le Corbusier. Comparação entre estilos em *Por uma arquitetura*, 1923](https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg){#fig:auto-temple .outset}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um resultado desse entendimento da história como sequência de rupturas
 é a leitura do processo de modo teleológico, como um caminho a ser trilhado
@@ -332,8 +335,6 @@ automobilística do mesmo modo que o Partenon teria sido o ápice da
 arquitetura clássica na Grécia ([@fig:auto-temple])
 [@lecorbusier:1977arquitetura]...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Le Corbusier. Comparação entre estilos em *Por uma arquitetura*, 1923](https://hcommons.org/app/uploads/sites/1002372/2022/02/lecorbusier1923.jpg){#fig:auto-temple}
 
 ## Conclusão ##
 
@@ -361,7 +362,20 @@ considerados impossíveis.
 
 # A cúpula de Brunelleschi #
 
-## Um problema construtivo ##
+:::::::::::::::::::::::::::::::::::::::::::::: {.notes .notice--primary}
+<i class="fas fa-film"></i>
+
+: O vídeo no YouTube que acompanha estas notas tem o mesmo conteúdo
+  textual desta seção, com imagens melhores.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Um problema construtivo ## {data-visibility="hidden"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/2560px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"}
+
+![Catedral de S. Maria del Fiore, Florença. Foto: [Bruce Stokes, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/1024px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg){#fig:fiore-pano .slide-bg .outset}
+
+[Bruce Stokes, 2013]: https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre essas duas tentações opostas, portanto, --- por um lado a tentação
@@ -369,11 +383,12 @@ de explicar tudo como resultado de uma espécie de determinismo
 coletivista, por outro a tentação de explicar tudo a partir da
 genialidade do artista e da criação autoral singular --- a realidade
 impõe sempre uma negociação entre os extremos. A cúpula da Catedral de
-Florença, provavelmente a obra-prima do primeiro Renascimento, é antes
+Florença ([@fig:fiore-pano]), provavelmente a obra-prima do primeiro Renascimento, é antes
 de mais nada a solução necessária de um problema construtivo. No
 entanto, ela é também o suporte de conflitos prolongados entre os corpos
 de ofícios tradicionais, os complexos sistemas de mecenato de uma obra,
-e o artista que percebe a si mesmo como criador singular. A história da
+e o artista que percebe a si mesmo como criador singular
+[@tafuri:1992ricerca]. A história da
 construção da cúpula de Brunelleschi é, também, a história de quem são
 os construtores da cúpula: aquele que *projeta* a forma arquitetônica,
 os que *pagam* pela sua execução e portanto detêm poder de decisão, ou
@@ -381,21 +396,33 @@ aqueles que *executam* a edificação e, portanto, detêm ao menos parte do
 conhecimento técnico?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)\_(14784173082).jpg/646px-A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)\_(14784173082).jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Arnolfo di Cambio, Francesco Talenti, Giovanni Ghini, arquitetos, nave central da catedral de Florença, 1294–1380. Foto reproduzida por [Charles Cummings, 1901][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)\_(14784173082).jpg/646px-A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)\_(14784173082).jpg){#fig:fiore-nave .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Charles Cummings, 1901]: https://commons.wikimedia.org/wiki/File:A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)\_(14784173082).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No cerne do problema da cúpula de Florença está a necessidade conciliar
 dois encargos contraditórios: a tradição italiana de arquitetura
-religiosa, que perde uma cúpula sobre cruzeiro, e a modernidade da
+religiosa, que perde uma cúpula sobre o cruzeiro, e a modernidade da
 estrutura gótica, que favorece um sistema de estruturas lineares e
-contínuas. A intenção de competir com o vão livre de 42 metros do
+contínuas ([@fig:fiore-nave]). A intenção de competir com o vão livre de 42 metros do
 Pantheon de Roma só aumenta a dificuldade da tarefa. A *opera del
 duomo*, ou administração da obra da catedral, lança em 1420 não uma
 simples licitação para execução da obra, mas um concurso para a solução
 técnica da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Firenze\,\_battistero_di_san_giovanni\,\_porta_del_paradiso_02.jpg/500px-Firenze\,\_battistero_di_san_giovanni\,\_porta_del_paradiso_02.jpg" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Batistério de S. João, Florença, portal do Paraíso, com relevos em bronze por Lorenzo Ghiberti, 1425 (réplicas). Foto: [Sailko, 2021][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Firenze\,\_battistero_di_san_giovanni\,\_porta_del_paradiso_02.jpg/500px-Firenze\,\_battistero_di_san_giovanni\,\_porta_del_paradiso_02.jpg){#fig:ghiberti .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Sailko, 2021]: https://commons.wikimedia.org/wiki/File:Firenze\,\_battistero_di_san_giovanni\,\_porta_del_paradiso_02.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse concurso não é totalmente inusitado no contexto da construção de um
@@ -403,18 +430,26 @@ grande edifício cívico. Concurso de maquetes para escolher o projeto de
 um edifício ou a forma de certos elementos, como altares e portas, eram
 comuns na Itália medieval. Em 1413, o próprio Brunelleschi competiu com
 Lorenzo Ghiberti pela encomenda das portas de bronze do batistério da
-Catedral de Florença (a encomenda foi atribuída a Ghiberti). O que o
+Catedral de Florença (a encomenda foi atribuída a Ghiberti,
+@fig:ghiberti).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Filippo_brunelleschi_(attr.)\,\_modello_architettonico_della_cupola_e_due_tribune\,\_1420-36.JPG/684px-Filippo_brunelleschi_(attr.)\,\_modello_architettonico_della_cupola_e_due_tribune\,\_1420-36.JPG" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Brunelleschi (atribuição), maquete da cúpula da catedral de Florença. Foto: [Sailko, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Filippo_brunelleschi_(attr.)\,\_modello_architettonico_della_cupola_e_due_tribune\,\_1420-36.JPG/684px-Filippo_brunelleschi_(attr.)\,\_modello_architettonico_della_cupola_e_due_tribune\,\_1420-36.JPG){#fig:duomo-maq .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Sailko, 2015]: https://commons.wikimedia.org/wiki/File:Filippo_brunelleschi_(attr.)\,\_modello_architettonico_della_cupola_e_due_tribune\,\_1420-36.JPG
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O que o
 concurso de 1420 tinha de excepcional era versar sobre um *procedimento*
 construtivo e não sobre a *forma* final do objeto. Brunelleschi vence
 com uma solução para o problema da execução da obra da cúpula, mais do
-que com uma forma tangível.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+que com uma forma tangível. Essa forma já tinha sido estabelecida no
+século [XIV]{.smallcaps} ([@fig:duomo-maq]).
 
-![Portas de bronze do batistério de Florença](){#fig:ghiberti}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A proposta marca a intrusão de uma intenção técnica individual no
 domínio que era da alçada do conhecimento tradicional e, sobretudo, das
 prerrogativas jurídicas dos ofícios construtivos, e que, portanto, não
@@ -444,7 +479,7 @@ demandas reais.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo o historiador da arquitetura italiano Manfredo Tafuri, a
 verdadeira ruptura do Renascimento diz respeito à nova organização do
-processo produtivo das edificações. A cúpula de Brunelleschi é um passo
+processo produtivo das edificações [@tafuri:1992ricerca]. A cúpula de Brunelleschi é um passo
 fundamental na realização dessa ruptura. A presença de um arquiteto no
 canteiro introduz um terceiro interveniente entre o mecenas e os
 construtores. O arquiteto precisa, é claro, negociar as demandas dos
@@ -460,7 +495,9 @@ introduz técnicas e equipamentos inusitados, impõe alterações nos
 métodos e nas práticas construtivas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Do problema à solução ##
+## Do problema à solução ## {data-visibility="hidden"}
+
+## {data-background-image="https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/file-images/metalocus_Il-Duomo_cupulas_02.png?itok=w10SAGMJ" data-background-position="left"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A solução apresentada por Brunelleschi para a cúpula da Catedral de
@@ -468,17 +505,27 @@ Florença resolve a contradição entre as possibilidades técnicas da
 construção gótica, por um lado, e as demandas espaciais de um projeto
 com proporções clássicas. O vão livre dessa estrutura ultrapassa os 36
 metros da cúpula de Santa Sofia em Constantinopla e se iguala aos 42
-metros da cúpula do Pantheon, em Roma. No entanto, as abóbadas
+metros da cúpula do Pantheon, em Roma ([@fig:domes]). No entanto, as abóbadas
 nervuradas da tradição gótica são concebidas para resolver estruturas
 que se desenvolvem primariamente em altura e não em amplitude. Além da
 estabilidade da estrutura completa, o processo de execução de uma obra
 nessas dimensões era um desafio que parecia insuperável à época.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Fernando Baptista, [Redefinindo a cúpula][], 2015](https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/file-images/metalocus_Il-Duomo_cupulas_02.png?itok=w10SAGMJ){#fig:domes}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Redefinindo a cúpula]: https://www.metalocus.es/en/news/speaking-domes-fernando-g-baptista
+
+## {data-background-image="https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/file-images/metalocus_Il-Duomo_cupulas_01.png?itok=uf8HIYIB" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Brunelleschi, sistema estrutural da cúpula da catedral de Florença. Arte por Fernando Baptista, [Redefinindo a cúpula][], 2015](https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/file-images/metalocus_Il-Duomo_cupulas_01.png?itok=uf8HIYIB){#fig:fiore-nervuras}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O sistema portante da cúpula consiste de 24 nervuras radiais em pedra.
+O sistema portante da cúpula consiste de 24 nervuras radiais em pedra ([@fig:fiore-nervuras]).
 Entre essas nervuras, Brunelleschi procura reduzir a sobrecarga do muro
 espesso da tradição construtiva medieval, substituindo-o por duas
 calotas em tijolos cerâmicos com espaço vazio entre elas. Os
@@ -488,14 +535,14 @@ arquiteto dá a esses contrafortes a forma de correntes concêntricas em
 pedra e madeira, que aumentam o carregamento vertical.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Giovan_battista_nelli_(attr.)\,\_ricostruzione_dei_ponteggi_interni_della_cupola_di_brunelleschi\,\_seconda_metà_del_XVII_sec.\,\_gabinetto_disegni_e_stampe.jpg/1024px-Giovan_battista_nelli_(attr.)\,\_ricostruzione_dei_ponteggi_interni_della_cupola_di_brunelleschi\,\_seconda_metà_del_XVII_sec.\,\_gabinetto_disegni_e_stampe.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tão importante quanto a estabilidade estrutural desse sistema é a
 viabilidade da sua execução. Um sistema de andaimes convencional
 consumiria uma quantidade de madeira muito além da capacidade produtiva
 da região de Florença. Em vez disso, Brunelleschi propõe uma plataforma
-suspensa no tambor da cúpula por meio de uma treliça espacial. Essa
+suspensa no tambor da cúpula por meio de uma treliça espacial ([@fig:nelli]). Essa
 plataforma vai sendo sobrelevada à medida que a construção avança. Para
 reduzir ainda mais o consumo de madeira nos andaimes da cúpula, apenas
 as nervuras em pedra recebem cimbramento. As calotas são autoportantes,
@@ -504,12 +551,22 @@ atrito do tijolo com argamassa já é suficiente para manter estável a
 estrutura ainda incompleta, sem necessidade de cimbramento nas calotas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Brunelleschi, andaimes e cimbramentos da cúpula da catedral de Florença. Reconstituição por [Giovan Battista Nelli][] (atribuição), segunda metade do séc. [XVII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Giovan_battista_nelli_(attr.)\,\_ricostruzione_dei_ponteggi_interni_della_cupola_di_brunelleschi\,\_seconda_metà_del_XVII_sec.\,\_gabinetto_disegni_e_stampe.jpg/1024px-Giovan_battista_nelli_(attr.)\,\_ricostruzione_dei_ponteggi_interni_della_cupola_di_brunelleschi\,\_seconda_metà_del_XVII_sec.\,\_gabinetto_disegni_e_stampe.jpg){#fig:nelli .line}
+
+[Giovan Battista Nelli]: https://commons.wikimedia.org/wiki/File:Giovan_battista_nelli_(attr.),_ricostruzione_dei_ponteggi_interni_della_cupola_di_brunelleschi,_seconda_metà_del_XVII_sec.,_gabinetto_disegni_e_stampe.jpg
+
 ##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Guindaste concebido por Brunelleschi para a cúpula da catedral de Florença, representado por [Bonaccorso Ghiberti, após 1446][]](https://upload.wikimedia.org/wikipedia/commons/1/1f/Bonaccorso_ghiberti\,\_veduta_della_gru_di_brunelleschi\,\_post_1446\,\_BNCF\,\_B.R._228\,\_c._106r.jpg){#fig:gru}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Bonaccorso Ghiberti, após 1446]: https://commons.wikimedia.org/wiki/File:Bonaccorso_ghiberti,_veduta_della_gru_di_brunelleschi,_post_1446,_BNCF,_B.R._228,_c._106r.jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para que esse sistema projetado possa ser realizado, ele precisa dobrar
 as práticas e os métodos consagrados do canteiro medieval ao processo
-concebido pelo arquiteto. Por outro lado, essa concepção intelectual da
+concebido pelo arquiteto ([@fig:gru]). Por outro lado, essa concepção intelectual da
 obra não pode ser realizada se não levar em conta as técnicas e as
 possibilidades produtivas que os profissionais da construção
 efetivamente dominam e são capazes de realizar. Ela deve, também, levar
@@ -522,6 +579,8 @@ construídas segundo o sistema construtivo da catedral de Florença. Mais
 importante ainda, muitos arquitetos vão seguir o procedimento de
 Brunelleschi e desenvolver concepções estruturais singulares como
 solução para problemas construtivos específicos.
+
+* * * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Cúpulas islâmicas e malhas espaciais #

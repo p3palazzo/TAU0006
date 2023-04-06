@@ -1,5 +1,6 @@
 ---
 title   : "Rotas comerciais e paradigmas urbanísticos"
+subtitle: "Cidades e redes na fundação do mundo moderno"
 author  : Pedro P. Palazzo
 date    : 2023-03-30
 tagline: |
