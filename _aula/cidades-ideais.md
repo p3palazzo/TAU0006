@@ -57,7 +57,7 @@ rumo à estabilidade.
 ## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
 
 ::: align-right
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .line}
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C. Reproduzido por [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .line .slide-bg}
 :::
 
 [Wang Weijen, 2010 [(A)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html
@@ -82,7 +82,7 @@ mercados às suas costas, ao norte, e os templos à sua frente, ao Sul.
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Módulos urbanísticos da cidade ideal chinesa. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png){#fig:zh-modulos .line}
+![Módulos urbanísticos da cidade ideal chinesa. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0176_image060.png){#fig:zh-modulos .line .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Wang Weijen, 2010 [(B)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_09.html
@@ -118,7 +118,7 @@ regional.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Plano urbanístico de Chang'an durante a dinastia Tang. Desenho por [Zunkir, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan .nobg}
+![Plano urbanístico de Chang'an durante a dinastia Tang. Desenho por [Zunkir, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chang'an_Tang_schema.svg/762px-Chang'an_Tang_schema.svg.png){#fig:changan .nobg .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Zunkir, 2016]: https://commons.wikimedia.org/wiki/File:Chang'an_Tang_schema.svg
@@ -148,12 +148,12 @@ fronteira norte da China.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .outset}
+![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .outset .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Perímetros sucessivos de Pequim. Reproduzido em [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png){#fig:pequim-planos .line}
+![Perímetros sucessivos de Pequim. Reproduzido em [Wang Weijen, 2010 [(A)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0125_image012.png){#fig:pequim-planos .line .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -173,7 +173,7 @@ defesa mais fácil, mas também responde à redução na população da cidade
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pequim. [Mapa oficial produzido entre 1861 e 1890][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing}
+![Pequim. [Mapa oficial produzido entre 1861 e 1890][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Beijing_1861-1890_Inner_City.jpg/1103px-Beijing_1861-1890_Inner_City.jpg){#fig:beijing .slide-bg}
 
 [Mapa oficial produzido entre 1861 e 1890]: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
 
@@ -186,13 +186,13 @@ proporção de 4:3 --- o que, em música, daria uma quarta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019](https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png){#fig:beijing-module .line}
+![Malha de 2 li × 1,5 li estruturando o traçado urbanístico de Pequim, segundo Nancy Shatzman Steinhardt, 2019](https://hcommons.org/app/uploads/sites/1002372/2022/01/steinhardt-2019-13.1-ming-qing-beijing-modules.png){#fig:beijing-module .line .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1929px-pekin-buache-1752.jpg" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. Planta por [Philippe Buache, 1752][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg){#fig:buache}
+![Expansão do tecido urbano de Pequim no século [XVI]{.smallcaps}. Planta por [Philippe Buache, 1752][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/723px-pekin-buache-1752.jpg){#fig:buache .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Philippe Buache, 1752]: https://commons.wikimedia.org/wiki/File:北京最早带经纬线的地图.Plan_de_Pékin.by_Philippe_Buache.1752年.jpg
@@ -208,12 +208,12 @@ império ([@fig:buache]).
 
 <!--_-->
 
-![Tecido urbano consolidado de Pequim. [Mapa publicado em 1914](https://commons.wikimedia.org/wiki/File:Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg){#fig:peking1914}
+![Tecido urbano consolidado de Pequim. [Mapa publicado em 1914](https://commons.wikimedia.org/wiki/File:Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg/721px-Beijing_di_tu_=_Map_of_Peking._LOC_2006458404.jpg){#fig:peking1914 .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Parcelamento urbano na malha regular em Lin'an](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha}
+![Parcelamento urbano na malha regular em Lin'an](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0175_image056.jpg){#fig:zh-malha .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -237,7 +237,7 @@ desmembradas transversalmente em lotes menores acessados por vielas ou
 servidões ([ver fig. @fig:zh-malha]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line}
+![Sucessão do parcelamento urbanístico em quarteirões regulares, cidade de Suzhou. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0225_image052.jpg){#fig:hangzhou .line .slide-bg}
 
 [Wang Weijen, 2010 [(C)]{.smallcaps}]: http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i_10.html
 
@@ -262,13 +262,13 @@ sobretudo, à estrutura dos impostos, cobrados via de regra *in natura*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Mercado murado na dinastia Tang. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg){#fig:tang-shi .line}
+![Mercado murado na dinastia Tang. Reproduzido em [Wang Weijen, 2010 [(B)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0019_image078.jpg){#fig:tang-shi .line .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Parcelamento urbano decorrente do espaço de mercado](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png){#fig:mercado-parcelamento .line .outset}
+![Parcelamento urbano decorrente do espaço de mercado](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0138_image080.png){#fig:mercado-parcelamento .line .outset .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -292,11 +292,11 @@ bancas na frente das lojas tende a se tornar permanente, reduzindo a
 largura dessas avenidas em vários pontos e deformando o seu alinhamento ([@fig:song-shi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi .line .outset}
+![Planta esquemática de mercado na dinastia Song. Reproduzido em [Wang Weijen, 2010 [(C)]{.smallcaps}][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/slide0081_image042.png){#fig:song-shi .line .outset .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg"}
 
-![Ao longo do rio no festival Qingming (detalhe), imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg){#fig:qingming .outset}
+![Ao longo do rio no festival Qingming (detalhe), imitação de Suzhou, século [XVI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg/1280px-Along_the_River_During_the_Qingming_Festival_(Suzhou_Imitation)\_11.jpg){#fig:qingming .outset .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interação entre esse processo de adensamento dos mercados lineares e
@@ -378,15 +378,15 @@ estilo de representação pictórica está, em grande parte, codificado
 desde o século [III]{.smallcaps} d.C. ([@fig:gukaizhi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gu Kaizhi. [*Ninfa do rio Luo*] (detalhe), cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi .outset}
+![Gu Kaizhi. [*Ninfa do rio Luo*] (detalhe), cópia do século [XII]{.smallcaps} de um original presumido do século [IV]{.smallcaps}](https://i0.wp.com/asia.si.edu/wp-content/uploads/2020/06/FS-8054_06-scaled-e1588015120470.jpg?w=2560&ssl=1){#fig:gukaizhi .outset .slide-bg}
 
 [*Ninfa do rio Luo*]: https://asia.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-object/nymph-of-the-luo-river/
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg" data-background-size="contain"}
 
-::: full
-![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![*Mulheres preparando seda recém tecida*. [Cópia atribuída ao imperador Huizong][] (1082--1135) de um original por Zhang Xuan (ativo 714--742)](https://hcommons.org/app/uploads/sites/1002372/2022/01/zhang-xuan_preparing-silk.jpg){#fig:zhangxuan .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Cópia atribuída ao imperador Huizong]: https://commons.wikimedia.org/wiki/File:Court_Ladies_Preparing_Newly_Woven_Silk_(捣练图)\_by_Emperor_Huizong_(1082–1135).jpg
 
@@ -421,9 +421,9 @@ formas geométricas na pintura ([@fig:zhouwenju]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg" data-background-size="contain"}
 
-::: align-right
-![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Retrato de [Dong Qichang](https://en.wikipedia.org/wiki/Dong_Qichang)](https://hcommons.org/app/uploads/sites/1002372/2022/01/dong-qichang-crop.jpg){#fig:dong-qichang .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das primeiras teorias críticas da arte foi escrita na China do
@@ -524,7 +524,7 @@ névoa, faz com que a sua obra seja precursora do estilo do Sul
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg" data-background-size="contain"}
 
-![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan .outset}
+![Ma Yuan (1160--1225), [*Névoa se levantando no mar Verde*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg/1024px-Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg){#fig:mayuan .outset .slide-bg}
 
 [*Névoa se levantando no mar Verde*]: https://commons.wikimedia.org/wiki/File:Ma_Yuan_-\_Water_Album_-\_Clouds_Rising_from_the_Green_Sea.jpg
 
@@ -554,7 +554,7 @@ superior.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin}
+![Ma Lin, [*Intelectual contemplando a névoa se levantar*][], 1225](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Clevelandart_1961.421.1.jpg/899px-Clevelandart_1961.421.1.jpg){#fig:malin .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Intelectual contemplando a névoa se levantar*]: https://www.clevelandart.org/art/1961.421.1
@@ -564,7 +564,7 @@ superior.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg){#fig:literati}
+![Ma Yuan, [*Intelectual contemplando uma cachoeira*][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg/872px-Ma_Yuan_-\_Scholar_viewing_a_waterfall_-\_1973.120.9_-\_Metropolitan_Museum_of_Art.jpg){#fig:literati .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Intelectual contemplando uma cachoeira*]: https://www.metmuseum.org/art/collection/search/40086
@@ -588,7 +588,7 @@ tradições artísticas e arquitetônicas da China se estabilizam do século
 [XII]{.smallcaps} em diante ([@fig:fragrance]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance .outset}
+![Ma Lin, [*Fragrância da primavera, sol após a chuva*][]](https://cdn.britannica.com/76/76-050-6A7741D3/Spring-Fragrance-Clearing-After-Rain-ink-album.jpg){#fig:fragrance .outset .slide-bg}
 
 [*Fragrância da primavera, sol após a chuva*]: https://www.britannica.com/topic/Southern-Song-dynasty
 
@@ -657,15 +657,15 @@ com linhas de fuga, concluindo com a inserção de figuras no espaço
 arquitetônico ([@fig:farnesina-cubB]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Afresco retirado do cubículo "B" da villa romana na Farnesina, arredores de Roma, terceiro estilo, século [I]{.smallcaps} a.C. Foto: [Miguel Hermoso Cuesta, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/1024px-Casa_de_la_Farnesina_06.JPG){#fig:farnesina-cubB}
+![Afresco retirado do cubículo "B" da villa romana na Farnesina, arredores de Roma, terceiro estilo, século [I]{.smallcaps} a.C. Foto: [Miguel Hermoso Cuesta, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casa_de_la_Farnesina_06.JPG/1024px-Casa_de_la_Farnesina_06.JPG){#fig:farnesina-cubB .slide-bg}
 
 [Miguel Hermoso Cuesta, 2014]: https://commons.wikimedia.org/wiki/File:Casa_de_la_Farnesina_06.JPG
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b5/Ohrid_annunciation_icon.jpg" data-background-size="contain"}
 
-::: align-right
-![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![[Anunciação de Ohrid](https://commons.wikimedia.org/wiki/File:Ohrid_annunciation_icon.jpg), império Bizantino (atual Macedônia do Norte), primeiro quartel do século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ohrid_annunciation_icon.jpg/569px-Ohrid_annunciation_icon.jpg){#fig:ohrid .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A pintura bizantina até o século [XIV]{.smallcaps} não se ocupa da
@@ -686,14 +686,14 @@ século [XIV]{.smallcaps} com a obra de artistas como Giotto
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg){#fig:giotto  }
+![Giotto di Bondone, [Cenas da vida de S. Francisco de Assis][]. Afresco, igreja superior de São Francisco de Assis, 1297--1299](https://upload.wikimedia.org/wikipedia/commons/7/73/Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg){#fig:giotto   .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Cenas da vida de S. Francisco de Assis]: https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-\_Legend_of_St_Francis_-\_Scenes_Nos._1-3_-\_WGA09115.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8e/Simone_Martini_truecolor.jpg" data-background-position="bottom"}
 
-![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann .outset}
+![Simone Martini (painel central) e Lippo Memmi (painéis laterais e medalhões), [Anunciação e dois santos, 1333][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Simone_Martini_truecolor.jpg/888px-Simone_Martini_truecolor.jpg){#fig:martini-ann .outset .slide-bg}
 
 [Anunciação e dois santos, 1333]: https://commons.wikimedia.org/wiki/File:Simone_Martini_truecolor.jpg
 
@@ -712,7 +712,7 @@ desenvolve a cena ([@fig:martini-ann]).
 ## {data-background-image="https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita .nobg}
+![Pietro Lorenzetti, [Natividade da Virgem Maria, 1342][]](https://www.wga.hu/art/l/lorenzet/pietro/2/15birth.jpg){#fig:plor-nativita .nobg .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Natividade da Virgem Maria, 1342]: https://www.wga.hu/frames-e.html?/html/l/lorenzet/pietro/2/15birth.html
@@ -840,7 +840,7 @@ espaço da forma arquitetônica construída.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png" data-background-size="contain"}
 
 ::: align-right
-![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line  }
+![Abadia de S. Felisberto, Tournus, em desenho de [Auguste Choisy, 1899](https://commons.wikimedia.org/wiki/File:Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png)](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:choisy .line   .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -864,7 +864,7 @@ autores se vinculam.
 ## {data-background-image="https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
-![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion}
+![Sigfried Giedion, *Espaço tempo e arquitetura*](https://i.pinimg.com/originals/10/19/59/1019597bda2800491731cf77f43b665c.jpg){#fig:giedion .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -919,7 +919,7 @@ libertação formal e criativa iniciado pelo barroco.
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg" data-background-size="contain"}
 
 ::: align-right
-![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne  }
+![Alina A. Payne. Foto: [Fundação Alexander von Humboldt, 2006][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-Payne.jpg){#fig:payne   .slide-bg}
 :::
 
 [Fundação Alexander von Humboldt, 2006]: https://www.humboldt-foundation.de/en/entdecken/newsroom/dossier-max-planck-humboldt-research-award/max-planck-research-award-winners-2006
@@ -954,14 +954,14 @@ tempo, nos fundos amplos há uma sugestão de delimitação, enquanto que o
 espaço contido tem alguma abertura para a expansão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piero della Francesca, [Flagelação de Cristo][], têmpera sobre madeira, c. 1470](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Piero\,\_flagellazione_11.jpg/1024px-Piero\,\_flagellazione_11.jpg){#fig:flagella}
+![Piero della Francesca, [Flagelação de Cristo][], têmpera sobre madeira, c. 1470](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Piero\,\_flagellazione_11.jpg/1024px-Piero\,\_flagellazione_11.jpg){#fig:flagella .slide-bg}
 
 [Flagelação de Cristo]: https://commons.wikimedia.org/wiki/File:Piero,\_flagellazione_11.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Piero della Francesca, [Procissão da Rainha de Sabá diante do Rei Salomão][], afresco na basílica de S. Francisco de Assis, 1466](https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg){#fig:piero-saba}
+![Piero della Francesca, [Procissão da Rainha de Sabá diante do Rei Salomão][], afresco na basílica de S. Francisco de Assis, 1466](https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg){#fig:piero-saba .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Procissão da Rainha de Sabá diante do Rei Salomão]: https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-\_2._Procession_of_the_Queen_of_Sheba\;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-\_WGA17487.jpg
@@ -982,7 +982,7 @@ priori e que opera dentro de um sistema explícito de condicionantes.
 ## {data-background-image="https://collectionimages.npg.org.uk/std/mw211405/Geoffrey-Scott.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
-![Geoffrey Scott, [fotografia anônima, década de 1910][]](https://collectionimages.npg.org.uk/std/mw211405/Geoffrey-Scott.jpg){#fig:scott}
+![Geoffrey Scott, [fotografia anônima, década de 1910][]](https://collectionimages.npg.org.uk/std/mw211405/Geoffrey-Scott.jpg){#fig:scott .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [fotografia anônima, década de 1910]: https://www.npg.org.uk/collections/search/use-this-image/?mkey=mw211405
@@ -1000,7 +1000,7 @@ tratados, como veremos mais adiante.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Architrav_SDI_0610.jpg/576px-Architrav_SDI_0610.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Filippo Brunelleschi, arquiteto, hospício dos Inocentes, Florença, 1419, terminação do entablamento. Foto: [Kokuric, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Architrav_SDI_0610.jpg/576px-Architrav_SDI_0610.jpg){#fig:spedale-end}
+![Filippo Brunelleschi, arquiteto, hospício dos Inocentes, Florença, 1419, terminação do entablamento. Foto: [Kokuric, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Architrav_SDI_0610.jpg/576px-Architrav_SDI_0610.jpg){#fig:spedale-end .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1034,13 +1034,13 @@ truncados ([@fig:spedale-med]), de modo a manter a regularidade
 geométrica dos elementos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Brunelleschi, hospício dos Inocentes, 1419, medalhão e pilastra. Foto: [Sailko, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Spedale_innocenti\,\_putto.JPG/1024px-Spedale_innocenti\,\_putto.JPG){#fig:spedale-med}
+![Brunelleschi, hospício dos Inocentes, 1419, medalhão e pilastra. Foto: [Sailko, 2012][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Spedale_innocenti\,\_putto.JPG/1024px-Spedale_innocenti\,\_putto.JPG){#fig:spedale-med .slide-bg}
 
 [Sailko, 2012]: https://commons.wikimedia.org/wiki/File:Spedale_innocenti\,\_putto.JPG
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2023/04/it-firenze-slorenzo-dreamstime_m_56432930-1024px.jpg"}
 
-![Brunelleschi e Antonio Manetti, naves da igreja de S. Lourenço, Florença, após 1421](https://hcommons.org/app/uploads/sites/1002372/2023/04/it-firenze-slorenzo-dreamstime_m_56432930-1024px.jpg){#fig:slorenzo .outset}
+![Brunelleschi e Antonio Manetti, naves da igreja de S. Lourenço, Florença, após 1421](https://hcommons.org/app/uploads/sites/1002372/2023/04/it-firenze-slorenzo-dreamstime_m_56432930-1024px.jpg){#fig:slorenzo .outset .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenvolvimento dessa preocupação de Brunelleschi com a lógica interna
@@ -1058,7 +1058,7 @@ paleocristã, com elementos da tradição românica.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia\,\_veduta_00.jpg/701px-Sagrestia_vecchia\,\_veduta_00.jpg" data-background-size="contain"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Brunelleschi, Sacristia velha da basílica de S. Lourenço. Foto: [Sailko, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia\,\_veduta_00.jpg/701px-Sagrestia_vecchia\,\_veduta_00.jpg){#fig:sagres-vecchia}
+![Brunelleschi, Sacristia velha da basílica de S. Lourenço. Foto: [Sailko, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sagrestia_vecchia\,\_veduta_00.jpg/701px-Sagrestia_vecchia\,\_veduta_00.jpg){#fig:sagres-vecchia .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Sailko, 2016]: https://commons.wikimedia.org/wiki/File:Sagrestia_vecchia\,\_veduta_00.jpg
@@ -1116,12 +1116,12 @@ cidade numa das cabeceiras, e os edifícios da administração municipal
 geralmente ocupando a outra extremidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg){#fig:pompei .outset}
+![Fórum de Pompeia em 79 d.C. Desenho de Jean-Claude Golvin](https://i.pinimg.com/originals/45/6b/65/456b65e98f7eb9c69321e212d05a4a26.jpg){#fig:pompei .outset .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg){#fig:buongoverno}
+![Ambrogio Lorenzetti. Alegoria dos efeitos do bom governo sobre a cidade. Palácio público, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg/1280px-Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg){#fig:buongoverno .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1145,11 +1145,11 @@ ideal, desse ponto de vista, não é necessariamente uma geometria
 impecavelmente regular, mas si uma hierarquia espacial clara.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena .outset}
+![Francesco Nenci, Piazza del campo, Siena, no Pálio de 1818](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Palio-francesco-nenci-1818.xcf/1024px-Palio-francesco-nenci-1818.xcf.png){#fig:siena .outset .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png" data-background-size="contain"}
 
-![Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974](https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png){#fig:todi .line .outset}
+![Piazza del Popolo, Todi. Desenho de Edmund Bacon, 1974](https://hcommons.org/app/uploads/sites/1002372/2022/01/bacon-todi-94-alpha.png){#fig:todi .line .outset .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A importância desses grupos de praças articuladas entre si e com os
@@ -1173,11 +1173,11 @@ pontos de vista possíveis numa praça europeia poderia ser uma das
 origens da perspectiva linear na pintura do Renascimento?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Módena, planta Vallardi de 1870](https://hcommons.org/app/uploads/sites/1002372/2022/01/vallardi-modena-scaled.jpg){#fig:modena .outset}
+![Módena, planta Vallardi de 1870](https://hcommons.org/app/uploads/sites/1002372/2022/01/vallardi-modena-scaled.jpg){#fig:modena .outset .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg"}
 
-![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg){#fig:bellotto-signoria .outset}
+![Bernardo Bellotto, piazza della Signoria, Florença, 1740](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg/1280px-Bernardo_Bellotto_-\_The_Piazza_della_Signoria_in_Florence_-\_Google_Art_Project.jpg){#fig:bellotto-signoria .outset .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os monumentos, estátuas ou fontes, livremente dispostos no interior da
@@ -1193,14 +1193,14 @@ assimétrico gera marcos visuais e campos de força que atraem o olhar e
 estabelecem o equilíbrio visual do conjunto.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg/1024px-Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg){#fig:zocchi-signoria .outset}
+![Giuseppe Zocchi, piazza della Signoria, Florença, 1750](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg/1024px-Giuseppe_Zocchi_-\_The_Piazza_della_Signoria_in_Florence_-\_WGA25992.jpg){#fig:zocchi-signoria .outset .slide-bg}
 
 ## Cidade ideal do Renascimento ## {data-visibility="hidden"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino}
+![Cidade ideal. Tábua de Urbino, década de 1480](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg/1280px-Formerly_Piero_della_Francesca_-\_Ideal_City_-\_Galleria_Nazionale_delle_Marche_Urbino.jpg){#fig:urbino .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1228,13 +1228,13 @@ auxiliado pela regularidade na paginação do piso sempre pavimentado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg){#fig:carnevale}
+![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg){#fig:carnevale .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg){#fig:berlin}
+![Perspectiva arquitetônica com porto. Tábua de Berlim, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)\_-\_Architectural_Veduta_-\_Google_Art_Project.jpg){#fig:berlin .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1267,7 +1267,7 @@ projeto da cidade, ela estabelece que a forma do espaço urbano vem
 primeiro, domina e determina a forma da edificação.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .outset}
+![Bernardo Rossellino. Praça Pio II, Pienza. Vista](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pienza_Piazza_Pio_II.JPG/1280px-Pienza_Piazza_Pio_II.JPG){#fig:pienza-vista .outset .slide-bg}
 
 ## O que é uma praça ## {data-visibility="hidden"}
 
@@ -1294,7 +1294,7 @@ lembrem-se desta:
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line}
+![Bernardo Rossellino. Praça Pio II, Pienza. Planta](https://hcommons.org/app/uploads/sites/1002372/2022/01/pienza-rilievo-alpha.png){#fig:pienza-plan .line .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1321,7 +1321,7 @@ importantes, como a catedral --- se submetem à forma do espaço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano}
+![Praça ducal, Vigevano. Foto: [Leonardo d'Amico, 2008](https://www.flickr.com/photos/leon_77/2255215235/)](https://live.staticflickr.com/2062/2255215235_3d093b75a0_c_d.jpg){#fig:vigevano .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="" data-background-video-muted="true"}
@@ -1335,12 +1335,12 @@ Vistas de Vigevano, incluindo a praça Ducal. Filmagem: [Massimo Nalli, 2021](ht
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan}
+![Praça ducal, Vigevano, reformulada 1492--1494. (1) -- Catedral, (2) -- rua Carlo Alberto, (3) -- estátuas, (4) -- castelo dos Sforza](https://hcommons.org/app/uploads/sites/1002372/2022/01/vigevanoplan.png){#fig:vigevano-plan .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg"}
 
-![Praça ducal, Vigevano, vista para a catedral. Foto: [Alien66, 2012](https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo .outset}
+![Praça ducal, Vigevano, vista para a catedral. Foto: [Alien66, 2012](https://commons.wikimedia.org/wiki/File:Piazza_Ducale_a_Vigevano_giugno.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piazza_Ducale_a_Vigevano_giugno.jpg/1024px-Piazza_Ducale_a_Vigevano_giugno.jpg){#fig:vigevano-duomo .outset .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A form geométrica do espaço, mais uma vez, pode se acomodar não sendo
@@ -1350,12 +1350,12 @@ suficiente.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg"}
 
-![Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980](https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg){#fig:vigevano-monti .outset}
+![Praça ducal, Vigevano, vista desde a catedral. Foto por Paolo Monti, 1980](https://hcommons.org/app/uploads/sites/1002372/2022/01/paolo_monti-servizio_fotografico_vigevano_1980-beic_6330819.jpg){#fig:vigevano-monti .outset .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata}
+![Praça SS. Annunziata, Florença. Foto: [Gryffindor, 2008](https://commons.wikimedia.org/wiki/File:Piazza_SS_Annunziata_Firenze_Apr_2008.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piazza_SS_Annunziata_Firenze_Apr_2008.jpg/1280px-Piazza_SS_Annunziata_Firenze_Apr_2008.jpg){#fig:annunziata .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1374,7 +1374,7 @@ cada intervenção sucessiva acompanhe e fortaleça as realizações
 anteriores ([@fig:annunziata-bacon]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV--XVII]{.smallcaps}. Bacon, 1974. [(A)]{.smallcaps} -- Spedale degli Innocenti por Brunelleschi, 1419--27, [(B)]{.smallcaps} -- igreja da SS. Annunziata, claustro por Michelozzo di Bartolomeo, 1454, [(C)]{.smallcaps} -- pórtico por Antonio da Sangallo e Baccio d'Agnolo, concluído em 1629](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-bacon-piazza-ss-annunziata7.png){#fig:annunziata-bacon .line .outset}
+![Piazza SS. Annunziata. Esquema de desenvolvimento, séculos [XV--XVII]{.smallcaps}. Bacon, 1974. [(A)]{.smallcaps} -- Spedale degli Innocenti por Brunelleschi, 1419--27, [(B)]{.smallcaps} -- igreja da SS. Annunziata, claustro por Michelozzo di Bartolomeo, 1454, [(C)]{.smallcaps} -- pórtico por Antonio da Sangallo e Baccio d'Agnolo, concluído em 1629](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-bacon-piazza-ss-annunziata7.png){#fig:annunziata-bacon .line .outset .slide-bg}
 
 # Bibliografia # {- .allowframebreaks .unlisted}
 
