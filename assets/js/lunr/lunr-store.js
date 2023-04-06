@@ -95,18 +95,6 @@ var store = [{
         "url": "/TAU0006/plano/analise-urbana/",
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
       },{
-        "title": "Leitura e estudo",
-        "excerpt":"A leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a aula expositiva vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar os trabalhos! Antes, o encontro em aula é uma ocasião para esclarecer dúvidas sobre pontos do conteúdo...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/plano/bibliografia/",
-        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
-      },{
-        "title": "Avaliação",
-        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
-        "tags": [],
-        "url": "/TAU0006/plano/avalia/",
-        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
-      },{
         "title": "Perguntas frequentes",
         "excerpt":"Como é feito o controle de frequência? A UnB considera oficialmente esta disciplina como sendo “presencial”, portanto temos que controlar a “frequência” ao longo do semestre. Assim, você deve se fazer “presente” em pelo menos 75 % da carga horária do semestre (45 de 60), participando ativa e produtivamente das discussões...","categories": [],
         "tags": [],
@@ -123,6 +111,18 @@ var store = [{
         "excerpt":"TAU 0006 dá sequência ao conteúdo de história da arquitetura em ordem cronológica e visando a atingir uma perspectiva mundial. O fundamento da cadeia de disciplinas de Teoria e História da Arquitetura e do Urbanismo, incluindo Estética e História das Artes, é subsidiar, por meio do conhecimento de repertórios formais e...","categories": [],
         "tags": [],
         "url": "/TAU0006/plano/sobre-disciplina/",
+        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
+      },{
+        "title": "Leitura e estudo",
+        "excerpt":"A leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a aula expositiva vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar os trabalhos! Antes, o encontro em aula é uma ocasião para esclarecer dúvidas sobre pontos do conteúdo...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/plano/bibliografia/",
+        "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
+      },{
+        "title": "Avaliação",
+        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os quatro requisitos seguintes:...","categories": [],
+        "tags": [],
+        "url": "/TAU0006/plano/avalia/",
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
       },{
         "title": "Metodologia e recursos de apoio",
