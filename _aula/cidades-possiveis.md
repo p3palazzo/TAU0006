@@ -39,9 +39,7 @@ regularidade urbana.
 
 # Veneza: campo e canal #
 
-## Parcelamento do solo e paisagem urbana ## {data-visibility="hidden"}
-
-##
+## Parcelamento do solo e paisagem urbana ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os elementos e objetos da arquitetura têm uma ordem de precedência
@@ -51,9 +49,6 @@ sociedade demandam dimensões de lotes mais ou menos precisas. Essa ordem
 de precedência se aplica ao parcelamento originário do solo, por
 exemplo, nas cidades de fundação na China antiga, nas colônias agrárias
 do império Romano, ou nas vilas planejadas da Europa medieval.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image=""}
 
 Uma vez cumprido esse processo originário de urbanização num território
 desocupado, a ordem de precedência se inverte: o parcelamento do solo
@@ -61,6 +56,7 @@ preexistente, tanto no espaço urbano quanto no rural, passa a restringir
 as tipologias edilícias possíveis. Esta é a condição dominante da
 urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
 século [XIV]{.smallcaps}.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
@@ -72,8 +68,6 @@ teóricos da arquitetura e urbanísticos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg"}
-
-<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -94,7 +88,7 @@ realizar os projetos ideais que as suas editoras publicam, mas que se
 renova pouco a pouco com esse ideal no horizonte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg){#fig:embaixadores}
+![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg){#fig:embaixadores .slide-bg}
 
 ## Parcelamento urbano europeu ## {data-visbility="hidden"}
 
@@ -111,9 +105,9 @@ maior eficiência a proximidade aos equipamentos e espaços públicos mais
 demandados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![[Estrada real por Monthléry e Linas][], departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745--80](https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg){#fig:trudaine  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![[Estrada real por Monthléry e Linas][], departamento de Versalhes. Atlas de viação da França organizado por Daniel de Trudaine, v. 5, 1745--80](https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg){#fig:trudaine .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Estrada real por Monthléry e Linas]: http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&FIELD_2=Cote&VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&NUMBER=4&GRP=0&REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&USRNAME=nobody&USRPWD=4%24%2534P&SPEC=9&SYN=1&IMLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All
 
@@ -130,13 +124,11 @@ Veneza. Observada essa diferença, o processo de crescimento e
 adensamento em Veneza segue o mesmo padrão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo e Gaetano Combatti, [planta de Veneza, 1847][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg){#fig:combatti}
+![Bernardo e Gaetano Combatti, [planta de Veneza, 1847][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg){#fig:combatti .slide-bg}
 
 [planta de Veneza, 1847]: https://gallica.bnf.fr/ark:/12148/btv1b53075148q
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg" data-transition="fade-out"}
-
-<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Edmund Bacon, o urbanismo de Veneza estabelece um esquema de
@@ -148,21 +140,19 @@ refletem, num registro mais modesto, a dignidade cívica das grandes
 praças ([@fig:canaletto1730; @fig:querena1878]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Canaletto, Praça de São Marcos com a Basílica, 1730](https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg){#fig:canaletto1730}
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg){#fig:canaletto1730 .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307.jpg" data-transition="fade-in"}
 
-![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg){#fig:querena1878}
-
-<!--_-->
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg){#fig:querena1878 .slide-bg}
 
 ## Tipologia e historicidade ## {data-visibility="hidden"}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png" data-background-size="contain"}
 
-::: align-right
-![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -187,9 +177,9 @@ medievais, com corredor lateral.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg" data-background-size="contain"}
 
-::: align-right
-![Saverio Muratori (1910--1973)](https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg){#fig:muratori-foto  }
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Saverio Muratori (1910--1973)](https://hcommons.org/app/uploads/sites/1001018/2022/01/Foto_Saverio_Muratori-1.jpg){#fig:muratori-foto .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes 
 <!--Câmera--> 
@@ -204,7 +194,7 @@ dos "problemas da modernidade".
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg" data-background-size="contain"}
 
-![Arnold Hauser. *História social da arte*](https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg){#fig:hauser-social .align-right} 
+![Arnold Hauser. *História social da arte*](https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg){#fig:hauser-social .align-right .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas décadas de 1950 e 60, o discurso historiográfico em autores como
@@ -286,9 +276,7 @@ Renascimento": cada estágio na consolidação urbana evidencia o
 
 ## Urbanismo como palimpsesto ## {data-visibility="hidden"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)_009.jpg/1280px-Canaletto_(II)_009.jpg"}
-
-<!--_-->
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)\_009.jpg/1280px-Canaletto_(II)\_009.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na leitura de Muratori, a cidade é ao mesmo tempo *artefato* e
@@ -305,13 +293,9 @@ renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)_009.jpg/1280px-Canaletto_(II)_009.jpg){#fig:canaletto-vigna}
+![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)\_009.jpg/1280px-Canaletto_(II)\_009.jpg){#fig:canaletto-vigna .slide-bg}
 
-<!--_-->
-
-## Urbanismo europeu e historicidade ## {data-visibility="hidden"}
-
-##
+## Urbanismo europeu e historicidade ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outro modo de interpretar essa coerência urbana emergente é olhar para
@@ -338,9 +322,9 @@ comerciais ou defensivas.
 
 ##
 
-::: align-right
-![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa   .overlay-slide}
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa .overlay-slide}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para o urbanista e historiador português Walter Rossa ([@fig:rossa]),
@@ -366,25 +350,23 @@ Mesmo assim, as cidades portuguesas que existem nesse século
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png"}
 
-::: full
-![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
 
-::: full
-![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia   .line}
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .line .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg"}
 
-![Reconstituição de Conimbriga, Lusitânia romana, por [Jean-Claude Golvin](https://jeanclaudegolvin.com/conimbriga/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg){#fig:conimbriga}
+![Reconstituição de Conimbriga, Lusitânia romana, por [Jean-Claude Golvin](https://jeanclaudegolvin.com/conimbriga/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg){#fig:conimbriga .slide-bg}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-\_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-\_Roman_town_over_present_urban_fabric.svg.png" data-background-size="contain"}
 
-<!--_-->
-
-![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora-plan}
+![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-\_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-\_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-\_Roman_town_over_present_urban_fabric.svg.png){#fig:evora-plan .slide-bg}
 
 ##
 
@@ -411,25 +393,25 @@ arrabalde de uma cidade existente, como em Florença
 ([@fig:caniggia-maffei-1-29]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Formação de tecido urbano por traçado estruturante (ao longo do rio Arno) e traçado de implantação (ruas perpendiculares ao rio) num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line}
+![Formação de tecido urbano por traçado estruturante (ao longo do rio Arno) e traçado de implantação (ruas perpendiculares ao rio) num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line .slide-bg}
 
 ##
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
-::: align-right
-![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment  }
+::: third
+![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment}
 :::
 
-::: align-right
-![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment  }
+::: third
+![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment}
 :::
 
-::: align-right
-![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment  }
+::: third
+![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment}
 :::
 
-::: align-right
-![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment  }
+::: third
+![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment}
 :::
 
 Reconstituição da urbanização de Castelo de Vide, Portugal. Desenho:
@@ -521,23 +503,23 @@ urbanístico predominantemente regular --- mas sem necessidade de uma
 geometria totalmente rígida ([@fig:monpazier]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea de Monpazier, Guyenne, França. Foto: [prefeitura municipal de Monpazier, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1024px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-drone}
+![Vista aérea de Monpazier, Guyenne, França. Foto: [prefeitura municipal de Monpazier, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1024px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-drone .slide-bg}
 
 [prefeitura municipal de Monpazier, 2013]: https://commons.wikimedia.org/wiki/File:Vue_aérienne_de_Monpazier.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg" data-background-size="contain"}
 
-![Monpazier. Plantas da direita para a esquerda: traçado ideal, implantação efetiva e situação atual. Desenhos e foto por [Klaus Schäfer, 2003][]](https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg){#fig:monpazier}
+![Monpazier. Plantas da direita para a esquerda: traçado ideal, implantação efetiva e situação atual. Desenhos e foto por [Klaus Schäfer, 2003][]](https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg){#fig:monpazier .slide-bg}
 
 [Klaus Schäfer, 2003]: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-_Caminha.jpg/2560px-Livro_das_Fortalezas_115-_Caminha.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-\_Caminha.jpg/2560px-Livro_das_Fortalezas_115-\_Caminha.jpg"}
 
-![Vila de Caminha, do [*Livro de fortalezas*][] de Duarte d'Armas, 1510](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-_Caminha.jpg/1024px-Livro_das_Fortalezas_115-_Caminha.jpg){#fig:duarte-caminha}
+![Vila de Caminha, do [*Livro de fortalezas*][] de Duarte d'Armas, 1510](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-\_Caminha.jpg/1024px-Livro_das_Fortalezas_115-\_Caminha.jpg){#fig:duarte-caminha .slide-bg}
 
 [*Livro de fortalezas*]: https://commons.wikimedia.org/wiki/Category:Livro_das_Fortalezas
 
-<!--_-->
+<!--\_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As povoações planejadas em Portugal são conhecidas como vilas novas,
@@ -555,11 +537,11 @@ José Geraldo Simões Júnior chamassem a esse paradigma de "urbanismo de
 colina" [@lobo:2012urbanismo].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
 ::: {.column width=50%}
@@ -591,7 +573,7 @@ do poder real, e os paços do concelho, ou seja, a câmara de vereadores
 que representava o poder municipal.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A execução do plano ideal não foi exata, e nem precisava ser
@@ -611,15 +593,15 @@ Vista aérea de Caminha por [Polychronis Drone, 2021](https://youtu.be/fbduT2k8p
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg"}
 
-::: full
-![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Parcelamento e tipologia edilícia ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png" data-background-size="contain"}
 
-![Variações sincrônicas da morada de casas mediterrânica. Esquerda: módulos de base; acima: tipos suburbanos e rurais, casa-torre saloia e monte alentejano; abaixo: habitações urbanas de frente estreita e frente larga. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Southern_Portuguese_cell_houses.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Southern_Portuguese_cell_houses.png/600px-Southern_Portuguese_cell_houses.png){#fig:morada-casas}
+![Variações sincrônicas da morada de casas mediterrânica. Esquerda: módulos de base; acima: tipos suburbanos e rurais, casa-torre saloia e monte alentejano; abaixo: habitações urbanas de frente estreita e frente larga. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Southern_Portuguese_cell_houses.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Southern_Portuguese_cell_houses.png/600px-Southern_Portuguese_cell_houses.png){#fig:morada-casas .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O módulo de 25 palmos para os lotes foi determinado a partir das medidas
@@ -645,13 +627,13 @@ casas-pátio mediterrânicas em casas correntes semelhantes às do norte da
 Europa pode ter contribuído para esse objetivo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="" data-background-video-muted="true"}
 
-![Vista aérea do bairro Alto, Lisboa, por [Drone Snap, 2021](https://youtu.be/hWRmyqrq2MM?t=47)](){#fig:balto-drone}
+![Vista aérea do bairro Alto, Lisboa, por [Drone Snap, 2021](https://youtu.be/hWRmyqrq2MM?t=47)](){#fig:balto-drone .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até agora vimos dois modos de urbanizar: por crescimento e preenchimento
@@ -663,7 +645,7 @@ de loteamento especulativo do século [XVI]{.smallcaps} à margem da
 cidade medieval de Lisboa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O bairro Alto é representativo do urbanismo renascentista em Portugal.
@@ -707,11 +689,9 @@ O traçado viário de padrão renascentista, com menos hierarquia viária e
 espacial do que o traçado medieval, vai formar a base do urbanismo
 português planejado durante a expansão colonial do século
 [XVI]{.smallcaps}.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-visibility="hidden"}
 
 * * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Japão: cidades e castelos #
 
@@ -733,17 +713,17 @@ O desenho urbano inicial da capital Heian (atual Quioto), fundada em
 capital da dinastia Tang chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Plano urbanístico de Heian (Quioto), 794. Planta de [Mori Kōan, 1750][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Plano urbanístico de Heian (Quioto), 794. Planta de [Mori Kōan, 1750][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Plan_of_Heiankyo.jpg/1024px-Plan_of_Heiankyo.jpg){#fig:heian .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Mori Kōan, 1750]: https://commons.wikimedia.org/wiki/File:Plan_of_Heiankyo.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg"}
 
-::: full
-![Modelo da cidade de Heian (Quioto). Foto: [Nagoya Tarō, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Modelo da cidade de Heian (Quioto). Foto: [Nagoya Tarō, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Heiankyo_overall_model.jpg/1280px-Heiankyo_overall_model.jpg){#fig:heian-model .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Nagoya Tarō, 2018]: https://commons.wikimedia.org/wiki/File:Heiankyo_overall_model.jpg
 
@@ -755,13 +735,13 @@ preenchido segundo o desenho original, o que causa uma rápida deformação
 da malha viária ([@fig:kyoto-1895]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Deformação na malha urbana de Quioto. Planta de [Yumoto Fumihiko, 1895][]](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto-1895}
+![Deformação na malha urbana de Quioto. Planta de [Yumoto Fumihiko, 1895][]](https://upload.wikimedia.org/wikipedia/commons/f/f3/Heiankyo_kyushi_zisshoku_zenzu.jpg){#fig:kyoto-1895 .slide-bg}
 
 [Yumoto Fumihiko, 1895]: https://commons.wikimedia.org/wiki/File:Heiankyo_kyushi_zisshoku_zenzu.jpg
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/large_plan_of_kyoto_14062488481.jpg"}
 
-![Planta de Quioto por [Hayashi Yoshinaga, 1686][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg){#fig:kyoto-1686}
+![Planta de Quioto por [Hayashi Yoshinaga, 1686][]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Large_plan_of_Kyōto_(14062488481).jpg/566px-Large_plan_of_Kyōto_(14062488481).jpg){#fig:kyoto-1686 .slide-bg}
 
 [Hayashi Yoshinaga, 1686]: https://commons.wikimedia.org/wiki/File:Large_plan_of_Kyōto_(14062488481).jpg
 
@@ -783,7 +763,7 @@ gradualmente subdividido. Os lotes estreitos e profundos favorecem a
 construção de casas geminadas, as *machiya*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Parcelamento do solo e formação de cortiços em Nagoya, Edo e Quioto segundo [Shojai, Mori e Nomura, 2016][]](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya .r-stretch}
+![Parcelamento do solo e formação de cortiços em Nagoya, Edo e Quioto segundo [Shojai, Mori e Nomura, 2016][]](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40410-016-0034-0/MediaObjects/40410_2016_34_Fig3_HTML.gif){#fig:nagaya .slide-bg}
 
 [Shojai, Mori e Nomura, 2016]: https://doi.org/10.1186/s40410-016-0034-0
 
@@ -800,7 +780,7 @@ castelo (*jōkamachi*) ([@fig:himeji]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png" data-background-size="contain"}
 
-![Esquema de desenvolvimento urbano de Morioka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png){#fig:morioka}
+![Esquema de desenvolvimento urbano de Morioka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.1.png){#fig:morioka .slide-bg}
 
 [Satoh Shigeru, 2017]: https://books.google.pt/books?id=444-DwAAQBAJ&pg=PT339&sa=X&ved=2ahUKEwiI3LHxs6P1AhVKKBoKHfJ1C3wQuwV6BAgLEAg#v=onepage&f=false
 
@@ -825,19 +805,19 @@ múltiplos do *ken*, o módulo estrutural vigente na região para as casas
 de madeira --- geralmente 6 pés ou 1,95 metro ([@fig:tsuruoka]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema de desenvolvimento urbano de Tsuruoka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.2.png){#fig:tsuruoka}
+![Esquema de desenvolvimento urbano de Tsuruoka, segundo [Satoh Shigeru, 2017][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/satoh-iii.6.2.png){#fig:tsuruoka .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/view_of_edo_tsuyama_city_museum.jpg"}
 
-::: full
-![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Vista de Edo em 1809, biombo pintado no [Museu da Cidade de Tsuyama](https://commons.wikimedia.org/wiki/File:View_of_Edo_(Tsuyama_City_Museum).jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Edo_(Tsuyama_City_Museum).jpg){#fig:edo-tsuyama .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/02/enlarged_plan_of_edo_revised_in_third_month_year_of_the_sheep_and_illustrated_14066153104.jpg"}
 
-![Planta de Edo por [Hayashi Yoshinaga, 1680][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg/923px-Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg){#fig:edo-1680}
+![Planta de Edo por [Hayashi Yoshinaga, 1680][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enlarged_plan_of_Edo\,\_revised_in_Third_Month\,\_Year_of_the_Sheep\,\_and_illustrated_(14066153104).jpg/923px-Enlarged_plan_of_Edo\,\_revised_in_Third_Month\,\_Year_of_the_Sheep\,\_and_illustrated_(14066153104).jpg){#fig:edo-1680 .slide-bg}
 
-[Hayashi Yoshinaga, 1680]: https://commons.wikimedia.org/wiki/File:Enlarged_plan_of_Edo,_revised_in_Third_Month,_Year_of_the_Sheep,_and_illustrated_(14066153104).jpg
+[Hayashi Yoshinaga, 1680]: https://commons.wikimedia.org/wiki/File:Enlarged_plan_of_Edo\,\_revised_in_Third_Month\,\_Year_of_the_Sheep\,\_and_illustrated_(14066153104).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O eventual crescimento da vila (*machi*) leva à formação de uma cidade
@@ -855,7 +835,7 @@ moradias nobres dos *daimyō* e samurais gera demanda por bairros
 comerciais que cercam a cidade administrativa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mapa de Tóquio por [H.M. & Co., 1893][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893}
+![Mapa de Tóquio por [H.M. & Co., 1893][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1893_Tokyo_map.jpg/962px-1893_Tokyo_map.jpg){#fig:tokyo-1893 .slide-bg}
 
 [H.M. & Co., 1893]: https://commons.wikimedia.org/wiki/File:1893_Tokyo_map.jpg
 
@@ -869,7 +849,7 @@ acesso a casas e cortiços alinhados na espessura da quadra
 [@hein:2008machi35].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Adensamento no interior de quarteirões em Edo segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior}
+![Adensamento no interior de quarteirões em Edo segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Japanese-planners-drew-building-lines-to-provide-virtual-access-routes-to-the-interior-of_W640.jpg){#fig:edo-block-interior .slide-bg}
 
 [Carola Hein, 2010]: http://journals.sagepub.com/doi/10.1177/0096144209347737
 
@@ -883,9 +863,9 @@ Essa discrepância é um fator de adaptação importante na emergente
 complexidade social e arquitetônica dos séculos [XVII]{.smallcaps} a [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Discrepância entre lotes registrados e edificações efetivamente construídas segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo}
+![Discrepância entre lotes registrados e edificações efetivamente construídas segundo [Carola Hein, 2010][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/hein2010-Lot-divisions-and-building-outlines-did-not-necessarily-coincide-in-Japan-as-the-example_W640.jpg){#fig:lot-building-edo .slide-bg}
 
-##
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 À medida que o Japão se urbaniza e que um governo central reafirma o seu
@@ -909,7 +889,7 @@ território.
 <!--/Câmera-->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 ::: align-right
 ![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman   .overlay-slide}
@@ -938,11 +918,11 @@ tem a sua própria casa perto desse espaço central ([@fig:boma])
 
 ## {data-background-video="https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm" data-background-video-muted="true"}
 
-::: align-right
-![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA   .nobg .overlay-slide}
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Território Betemmeribe na região fronteiriça entre Togo e Benin](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .nobg .overlay-slide}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba}
+![Construção de uma tata somba, do documentário [*Sur un air de Somba*][], Association des Amis de l'[IFECAM]{.smallcaps}](https://cdn.palazzo.arq.br/humanismo/sur-un-air-de-somba-vimeo-25226651-720p-25fps.webm){#fig:somba .slide-bg}
 
 [*Sur un air de Somba*]: https://vimeo.com/25226651
 
@@ -958,11 +938,11 @@ americana [Suzanne Blier][] no final da década de 1980.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg"}
 
-::: align-right
-![Planta de um Tata somba segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line   .overlay-slide}
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Planta de um Tata somba segundo Suzanne Blier](https://hcommons.org/app/uploads/sites/1002372/2022/01/betemmeribe-james-chakraborty-415-alpha.png){#fig:batammalibaB .line .overlay-slide}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Tata somba em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
+![Tata somba em Koussoukouingou. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .slide-bg}
 
 ## Redes políticas no território: grande Zimbábue ##
 
@@ -990,7 +970,7 @@ na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
+![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .slide-bg}
 
 ## Adensamento do boma e malha viária ##
 
@@ -1005,15 +985,15 @@ densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea de Niamey, Chade. Foto por [Walter Mittelholzer, 1930](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
+![Vista aérea de Niamey, Chade. Foto por [Walter Mittelholzer, 1930](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .slide-bg}
 
 ## Delimitação do traçado urbano em Benim ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png" data-background-size="contain" data-background-position="left"}
 
-::: align-right
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Localização do império do Benim](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Empire_of_Benin_on_the_globe_(Africa_centered).svg/480px-Empire_of_Benin_on_the_globe_(Africa_centered).svg.png){#fig:benin-loc   .overlay-slide .nobg}
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -1034,11 +1014,11 @@ muralha feita de terraplenos. Os mercados se situavam fora dos limites
 da cidade ([@fig:benin-markets]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: align-right
-![Cidade de Benim e seus principais mercados extra-muros. Esquema por C. Punch em [H. Ling Roth, *The Great Benin*](https://archive.org/details/greatbeninitscus00roth/page/134/mode/2up)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets   .line}
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Cidade de Benim e seus principais mercados extra-muros. Esquema por C. Punch em [H. Ling Roth, *The Great Benin*](https://archive.org/details/greatbeninitscus00roth/page/134/mode/2up)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Greatbeninitscus00roth_0151.png/569px-Greatbeninitscus00roth_0151.png){#fig:benin-markets .line .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-\_Benin_City_1897.png/1280px-H._Ling_Roth_-\_Benin_City_1897.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os quarteirões murados se estruturavam em torno de pátios amplos. Esses
@@ -1046,7 +1026,7 @@ pátios eram delimitados por casas de taipa com coberturas muito
 inclinadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cidade de Benin. Desenho de um oficial do exército inglês, 1897, reproduzido por Roth](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-_Benin_City_1897.png/1280px-H._Ling_Roth_-_Benin_City_1897.png){#fig:benin-1897}
+![Cidade de Benin. Desenho de um oficial do exército inglês, 1897, reproduzido por Roth](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/H._Ling_Roth_-\_Benin_City_1897.png/1280px-H._Ling_Roth_-\_Benin_City_1897.png){#fig:benin-1897 .slide-bg}
 
 ## Máxima densidade urbana: Kumasi ##
 
@@ -1061,13 +1041,11 @@ adensada ([@fig:kumasi-plan]) em torno do palácio real
 amuralhado, e um caminho principal estruturante atravessa a cidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta da cidade de Kumasi em 1819, por [T. Edward Bowdich](https://archive.org/details/missionfromcapec00bowd)](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)_p364_PLATE_11_-_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan}
-
-<!--_-->
+![Planta da cidade de Kumasi em 1819, por [T. Edward Bowdich](https://archive.org/details/missionfromcapec00bowd)](https://upload.wikimedia.org/wikipedia/commons/9/9e/BOWDICH(1819)\_p364_PLATE_11_-\_SKETCH_OF_COOMASSIE.jpg){#fig:kumasi-plan .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg"}
 
-![[Palácio real em Kumasi](https://en.wikipedia.org/w/index.php?title=File:King_Koffee_Palace.jpg) em 1874](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace}
+![[Palácio real em Kumasi](https://en.wikipedia.org/w/index.php?title=File:King_Koffee_Palace.jpg) em 1874](https://upload.wikimedia.org/wikipedia/en/9/97/King_Koffee_Palace.jpg){#fig:kumasi-palace .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como em Benim, o palácio fica na área mais central da cidade.
@@ -1084,13 +1062,13 @@ ocupam quase todo o perímetro do complexo, enquadrando um pátio bem
 menor que os de Benim ([@fig:kumasi-shrine]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Vista de uma rua em Kumasi, por T. Edward Bowdich](https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg){#fig:kumasi-frontage  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Vista de uma rua em Kumasi, por T. Edward Bowdich](https://hcommons.org/app/uploads/sites/1002372/2022/01/missionfromcapec00bowd_0341.jpg){#fig:kumasi-frontage .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg"}
 
-![Pátio do santuário Ejisu-Besease em Kumasi. Foto: [L. e K. Bosman, 2006](https://www.flickr.com/photos/lukebosman/220778057/)](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine}
+![Pátio do santuário Ejisu-Besease em Kumasi. Foto: [L. e K. Bosman, 2006](https://www.flickr.com/photos/lukebosman/220778057/)](https://live.staticflickr.com/83/220778057_c2e19eb61d_k_d.jpg){#fig:kumasi-shrine .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
