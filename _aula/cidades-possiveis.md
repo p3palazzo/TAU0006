@@ -39,7 +39,7 @@ regularidade urbana.
 
 # Veneza: campo e canal #
 
-## Parcelamento do solo e paisagem urbana ##
+## Parcelamento do solo e paisagem urbana ## {data-background-video="https://cdn.palazzo.arq.br/humanismo/mixkit-farmlands-and-tiny-houses-27482-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os elementos e objetos da arquitetura têm uma ordem de precedência
@@ -56,11 +56,7 @@ preexistente, tanto no espaço urbano quanto no rural, passa a restringir
 as tipologias edilícias possíveis. Esta é a condição dominante da
 urbanização na bacia do Mediterrâneo e em grande parte da Ásia desde o
 século [XIV]{.smallcaps}.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Europa ocidental e na Ásia oriental, do século [XIV]{.smallcaps} ao
 [XVI]{.smallcaps}, a realidade do território preexistente interferia com
 projetos políticos e ideológicos que visavam a reinstituir princípios
@@ -88,9 +84,9 @@ realizar os projetos ideais que as suas editoras publicam, mas que se
 renova pouco a pouco com esse ideal no horizonte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg){#fig:embaixadores .slide-bg}
+![Anônimo veneziano, discípulo de Gentile Bellini. Audiência dos embaixadores em Damasco, 1511. Museu do Louvre](https://hcommons.org/app/uploads/sites/1002372/2022/01/1280px-anonymous_venetian_orientalist_painting_the_reception_of_the_ambassadors_in_damascus_1511_the_louvre.jpg){#fig:embaixadores .slide-bg .outset}
 
-## Parcelamento urbano europeu ## {data-visbility="hidden"}
+## Parcelamento urbano europeu ##
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/frdafanchat_8447p004r01-p-crop.jpg"}
 
@@ -111,7 +107,7 @@ demandados.
 
 [Estrada real por Monthléry e Linas]: http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=RETROUVER&FIELD_2=Cote&VALUE_2=CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448&NUMBER=4&GRP=0&REQ=%28%28CP%2fF%2f14%2f8449%20ou%20CP%2fF%2f14%2f8443%20ou%20CP%2fF%2f14%2f8444%20ou%20CP%2fF%2f14%2f8445%20ou%20CP%2fF%2f14%2f8446%20ou%20CP%2fF%2f14%2f8447%20%20ou%20CP%2fF%2f14%2f8448%29%20%3aCOTE%20%29&USRNAME=nobody&USRPWD=4%24%2534P&SPEC=9&SYN=1&IMLY=&MAX1=1&MAX2=1&MAX3=100&DOM=All
 
-## Campo como gerador do traçado em Veneza ## {data-visibility="hidden"}
+## Campo como gerador do traçado em Veneza ##
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg"}
 
@@ -124,7 +120,7 @@ Veneza. Observada essa diferença, o processo de crescimento e
 adensamento em Veneza segue o mesmo padrão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Bernardo e Gaetano Combatti, [planta de Veneza, 1847][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg){#fig:combatti .slide-bg}
+![Bernardo e Gaetano Combatti, [planta de Veneza, 1847][]](https://hcommons.org/app/uploads/sites/1002372/2022/01/venezia-combatti-1847.jpg){#fig:combatti .slide-bg .outset}
 
 [planta de Veneza, 1847]: https://gallica.bnf.fr/ark:/12148/btv1b53075148q
 
@@ -140,18 +136,18 @@ refletem, num registro mais modesto, a dignidade cívica das grandes
 praças ([@fig:canaletto1730; @fig:querena1878]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Canaletto, Praça de São Marcos com a Basílica, 1730](https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg){#fig:canaletto1730 .slide-bg}
+![Canaletto, Praça de São Marcos com a Basílica, 1730](https://hcommons.org/app/uploads/sites/1002372/2022/01/piazza_san_marco_with_the_basilica_by_canaletto_1730_fogg_art_museum_cambridge.jpg){#fig:canaletto1730 .slide-bg .outset}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307.jpg" data-transition="fade-in"}
 
-![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg){#fig:querena1878 .slide-bg}
+![Luigi Querena, Campo di San Giovanni e Paolo com a scuola grande di San Marco, 1878](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-the_campo_di_ss_giovanni_e_paolo_venice_f-000307-scaled.jpg){#fig:querena1878 .slide-bg .outset}
 
-## Tipologia e historicidade ## {data-visibility="hidden"}
+## Tipologia e historicidade ##
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia .slide-bg}
+![Evolução dos tipos portantes na Itália segundo Gianfranco Caniggia e Gian Luigi Maffei, 1979](https://hcommons.org/app/uploads/sites/1001018/2022/01/caniggia_cataldi_107-alpha.png){#fig:caniggia .slide-bg .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -194,7 +190,9 @@ dos "problemas da modernidade".
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg" data-background-size="contain"}
 
-![Arnold Hauser. *História social da arte*](https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg){#fig:hauser-social .align-right .slide-bg}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: third
+![Arnold Hauser. *História social da arte*](https://hcommons.org/app/uploads/sites/1002372/2022/01/hauser-social.jpg){#fig:hauser-social .slide-bg .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas décadas de 1950 e 60, o discurso historiográfico em autores como
@@ -208,7 +206,7 @@ as condições sociais ou materiais de uma época e as formas artísticas
 que essa época produz.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+## {data-background-video="https://cdn.palazzo.arq.br/humanismo/mixkit-venice-canal-landscape-10995-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 <!--Câmera-->
@@ -229,15 +227,15 @@ estabelecer o traçado dos canais de Veneza ([@fig:grisostomo1100]). Só a
 igreja ocupa uma posição central na ilha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
-::::::::::::::::::::::::::::::::::::::: {#fig:grisostomo .full .third}
-<div class="r-stack"> ![1100](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg){#fig:grisostomo1100 .fragment .current-visible}
-![1200](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg){#fig:grisostomo1200 .fragment .current-visible}
-![1350](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg){#fig:grisostomo1350 .fragment .current-visible}
-![1450](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg){#fig:grisostomo1450 .fragment .current-visible}
-![1500](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg){#fig:grisostomo1500 .fragment .current-visible}
-![1840](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg){#fig:grisostomo1840 .fragment .current-visible} </div>
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:grisostomo .full}
+<div class="r-stack"> <div class="half">![1100](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1100-200122-pp-0213.jpg){#fig:grisostomo1100 .fragment .current-visible}</div>
+<div class="half">![1200](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1200-200122-pp-0208.jpg){#fig:grisostomo1200 .fragment .current-visible}</div>
+<div class="half">![1350](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1350-200122-pp-0209.jpg){#fig:grisostomo1350 .fragment .current-visible}</div>
+<div class="half">![1450](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1450-200122-pp-0215.jpg){#fig:grisostomo1450 .fragment .current-visible}</div>
+<div class="half">![1500](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1500-200122-pp-0210.jpg){#fig:grisostomo1500 .fragment .current-visible}</div>
+<div class="half">![1840](https://hcommons.org/app/uploads/sites/1002372/2022/01/1080p-it-muratori_archivio-venezia_s_gio_crisostomo_1840-200122-pp-0214.jpg){#fig:grisostomo1840 .fragment .current-visible}</div> </div>
 
 Campo S. Giovanni Grisostomo, Veneza. Reconstituição em diferentes datas
 pelos alunos do ateliê Saverio Muratori no Istituto Universitario di
@@ -274,7 +272,7 @@ Renascimento": cada estágio na consolidação urbana evidencia o
 *conjunto* de períodos históricos acumulados até então.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Urbanismo como palimpsesto ## {data-visibility="hidden"}
+## Urbanismo como palimpsesto ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)\_009.jpg/1280px-Canaletto_(II)\_009.jpg"}
 
@@ -293,7 +291,7 @@ renova aos poucos, confiando na coerência de projetos sucessivos movidos
 por um mesmo propósito.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)\_009.jpg/1280px-Canaletto_(II)\_009.jpg){#fig:canaletto-vigna .slide-bg}
+![Canaletto. Campo e igreja de S. Francesco della Vigna, segundo terço do século [XVIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canaletto_(II)\_009.jpg/1280px-Canaletto_(II)\_009.jpg){#fig:canaletto-vigna .slide-bg .outset}
 
 ## Urbanismo europeu e historicidade ##
 
@@ -320,7 +318,7 @@ conjuntos urbanos eficientes formando redes que controlam rotas
 comerciais ou defensivas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa .overlay-slide}
@@ -368,7 +366,7 @@ Mesmo assim, as cidades portuguesas que existem nesse século
 
 ![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-\_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-\_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-\_Roman_town_over_present_urban_fabric.svg.png){#fig:evora-plan .slide-bg}
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:evora-3d .iframe-wrapper}
 <iframe src="https://player.vimeo.com/video/125300716?h=a01a2912f1&color=fffff5&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -395,7 +393,7 @@ arrabalde de uma cidade existente, como em Florença
 
 ![Formação de tecido urbano por traçado estruturante (ao longo do rio Arno) e traçado de implantação (ruas perpendiculares ao rio) num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line .slide-bg}
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
 ::: third
@@ -450,7 +448,7 @@ blocos" formada pela hierarquia de ruas da frente, ruas de trás e
 travessas [@orr:2018five].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tanto a nomenclatura tradicional portuguesa quanto a terminologia da
@@ -631,9 +629,9 @@ Europa pode ter contribuído para esse objetivo.
 ![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="" data-background-video-muted="true"}
+## {data-background-iframe="https://www.youtube.com/watch?t=47&v=hWRmyqrq2MM"}
 
-![Vista aérea do bairro Alto, Lisboa, por [Drone Snap, 2021](https://youtu.be/hWRmyqrq2MM?t=47)](){#fig:balto-drone .slide-bg}
+![Vista aérea do bairro Alto, Lisboa, por [Drone Snap, 2021](https://www.youtube.com/watch?embed=no&t=47&v=hWRmyqrq2MM)](){#fig:balto-drone .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até agora vimos dois modos de urbanizar: por crescimento e preenchimento
@@ -645,7 +643,7 @@ de loteamento especulativo do século [XVI]{.smallcaps} à margem da
 cidade medieval de Lisboa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-------
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O bairro Alto é representativo do urbanismo renascentista em Portugal.
@@ -680,7 +678,7 @@ pelas curvas de nível, e sim pela orientação da gleba parcelada.
 Planta do parcelamento urbanístico do bairro Alto, Lisboa
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *

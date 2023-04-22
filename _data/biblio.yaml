@@ -3927,7 +3927,7 @@ references:
   license: pdm
   publisher: Aldo Manuzio
   publisher-place: Venezia
-  source: Library Catalog (Visual Library 2021)
+  source: ETH-BIB
   title: L' architettura
   type: book
   URL: http://dx.doi.org/10.3931/e-rara-9238
@@ -8744,6 +8744,28 @@ references:
   URL: >-
     https://www.dezeen.com/2017/03/24/eight-tenths-garden-wutopia-lab-shanghai-china-arts-crafts-museum/
 
+- id: giedion:2004espaco
+  author:
+    - family: Giedion
+      given: Sigfried
+  citation-key: giedion:2004espaco
+  collection-title: Coleção a
+  event-place: São Paulo
+  ISBN: 978-85-336-2020-9
+  issued:
+    - year: 2004
+  language: pt-BR
+  number-of-pages: '949'
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  source: K10plus ISBN
+  title: 'Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição'
+  title-short: Espaço, tempo e arquitetura
+  translator:
+    - family: Lamparelli
+      given: Alvamar
+  type: book
+
 - id: giggette:2010provincias
   accessed:
     - year: 2020
@@ -12662,7 +12684,7 @@ references:
   license: pdm
   publisher: Francesco Rampazetto
   publisher-place: Venetia
-  source: Library Catalog (Visual Library 2021)
+  source: IDS NEBIS ETH-BIB
   title: Le fortificationi
   type: book
   URL: http://dx.doi.org/10.3931/e-rara-46829
@@ -18739,6 +18761,20 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: 'The dancing column: on order in architecture'
   title-short: The dancing column
+  type: book
+
+- id: saarinen:1985search
+  author:
+    - family: Saarinen
+      given: Eliel
+  citation-key: saarinen:1985search
+  event-place: New York
+  issued:
+    - year: 1985
+  language: en
+  publisher: Dover
+  publisher-place: New York
+  title: The search for form in art and architecture
   type: book
 
 - id: said:2007digital

@@ -775,7 +775,7 @@ mesmo boa parte da construção em pedra (lavrada ou cantaria)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Alexander Tzonis, paradigma da eficiência burocrática começava a
-suplantar o da tipologia tradicional [@tzonis:1972non-oppressive;
+suplantar o da tipologia tradicional [@tzonis:1972nonoppressive;
 @tzonis:1975mechanical]. O novo paradigma começou se desdobrando em dois
 aspectos: o racionalismo estrutural de Lodoli e o funcionalismo
 programático. Nenhum dos dois, porém, tinha os meios tecnológicos de
@@ -799,7 +799,7 @@ Segundo Tzonis:
 > menos como um processo que estrutura o ambiente físico em padrões
 > visuais por meio das quais a sociedade se organiza. Ele passa a ser
 > uma atividade que produz *commodities* geradoras de utilidade
-> econômica. [@tzonis:1972non-oppressive, 17]
+> econômica. [@tzonis:1972nonoppressive, 17]
 
 ## Novidade e correção na Itália ##
 
