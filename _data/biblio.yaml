@@ -8641,14 +8641,14 @@ references:
     - year: 2017
       month: 11
       day: 16
-  language: en-GB
+  language: en
   publisher: Penn State University Press
   publisher-place: University Park, Penn.
   source: DOI.org (Crossref)
   title: >-
-    Gardens of Renaissance Europe and the Islamic Empires: Encounters and
-    Confluences
-  title-short: Gardens of Renaissance Europe and the Islamic Empires
+    Gardens of Renaissance Europe and the Islamic empires: encounters and
+    confluences
+  title-short: Gardens of Renaissance Europe and the Islamic empires
   type: book
   URL: http://www.jstor.org/stable/10.5325/j.ctv14gpbt3
 
@@ -11264,6 +11264,29 @@ references:
   title-short: Maquetas de arquitectura
   type: book
 
+- id: koch:1997mughal14
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  author:
+    - family: Koch
+      given: Ebba
+  citation-key: koch:1997mughal14
+  container-title: Muqarnas
+  DOI: 10.2307/1523242
+  ISSN: 0732-2992
+  issued:
+    - year: 1997
+  language: en
+  page: 143-165
+  publisher: Brill
+  source: JSTOR
+  title: Mughal palace gardens from Babur to Shah Jahan (1526-1648)
+  type: article-journal
+  URL: https://www.jstor.org/stable/1523242
+  volume: '14'
+
 - id: koch:1998dicionario
   author:
     - family: Koch
@@ -13581,6 +13604,36 @@ references:
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Matrak%C3%A7%C4%B1_Nasuh_-_%C4%B0stanbul.jpg
+
+- id: matthee:2009safavids13
+  abstract: |-
+    Abstract
+                  This essay takes a fresh look at the voluminous yet understudied Western travel writing about 17th-century Iran. It argues that, after this material is properly subjected to close scrutiny for authorial bias, interest and intertexuality, it remains exceedingly valuable for the information it provides on Safavid Iran. Early modern European travelers to Iran brought remnants of past religious and cultural prejudice with them, yet the best explored the country with an open eye, an appreciation for difference, and even a critical perspective on their own culture. They also provide remarkable, at times unique information about Iran and it inhabitants, opening up aspects of Safavid left uncovered by indigenous sources.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 15
+  author:
+    - family: Matthee
+      given: Rudi
+  citation-key: matthee:2009safavids13
+  container-title: Journal of Early Modern History
+  container-title-short: J Early Mod Hist
+  DOI: 10.1163/138537809X12498721974624
+  ISSN: 1385-3783, 1570-0658
+  issue: '2'
+  issued:
+    - year: 2009
+  language: en
+  page: 137-171
+  source: DOI.org (Crossref)
+  title: >-
+    The Safavids under Western eyes: seventeenth-century European travelers to
+    Iran
+  title-short: The Safavids under Western eyes
+  type: article-journal
+  URL: https://brill.com/view/journals/jemh/13/2/article-p137_3.xml
+  volume: '13'
 
 - id: mawer:2013isfahan
   abstract: >-
@@ -18363,7 +18416,7 @@ references:
   language: en-US
   page: 55-74
   source: Crossref
-  title: The Antecedents of Bramante's Tempietto
+  title: The antecedents of Bramante's Tempietto
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/988161
   volume: '23'
@@ -19255,6 +19308,44 @@ references:
     1756 a 1786
   type: paper-conference
   URL: https://repositorio.iscte-iul.pt/handle/10071/3633
+
+- id: samson:2012introduction
+  call-number: SB466.E92 L63 2012
+  citation-key: samson:2012introduction
+  container-title: 'Locus amoenus: gardens and horticulture in the Renaissance'
+  editor:
+    - family: Samson
+      given: Alexander
+  event-place: Chichester, West Sussex ; Malden, Mass.
+  ISBN: 978-1-4443-6151-3 978-1-4443-9675-1 978-1-4443-9677-5 978-1-4443-9676-8
+  issued:
+    - year: 2012
+  language: en
+  page: 1-23
+  publisher: J. Wiley
+  publisher-place: Chichester, West Sussex ; Malden, Mass.
+  source: Library of Congress ISBN
+  title: Introduction
+  type: chapter
+
+- id: samson:2012locus
+  call-number: SB466.E92 L63 2012
+  citation-key: samson:2012locus
+  editor:
+    - family: Samson
+      given: Alexander
+  event-place: Chichester, West Sussex ; Malden, Mass.
+  ISBN: 978-1-4443-6151-3 978-1-4443-9675-1 978-1-4443-9677-5 978-1-4443-9676-8
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: '200'
+  publisher: J. Wiley
+  publisher-place: Chichester, West Sussex ; Malden, Mass.
+  source: Library of Congress ISBN
+  title: 'Locus amoenus: gardens and horticulture in the Renaissance'
+  title-short: Locus amoenus
+  type: book
 
 - id: san:2014
   abstract: >-
@@ -23170,7 +23261,7 @@ references:
     - family: Walcher
       given: Heidi A.
   citation-key: walcher:1997paradise
-  container-title: Middle Eastern Natural Environments J
+  container-title: Middle Eastern Natural Environments Journal
   issued:
     - year: 1997
   language: en
