@@ -646,6 +646,25 @@ século [XV]{.smallcaps}.
 
 ## Do jardim produtivo ao jardim estético ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O jardim medieval europeu é um horto produtivo, eventualmente concebido
+com um olhar para o equilíbrio formal da composição. O jardim medieval
+paradigmático é o interior de um claustro monástico, chamado de *hortus
+conclusus* ou horto encerrado. Esse conceito de jardim encerrado, por
+sua vez, remete à figura teológica do Paraíso terreno no livro do
+Gênese, que está desde a Queda de Adão e Eva encerrado e proibido à
+humanidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O conceito do jardim como, primeiramente, objeto de fruição estética se
+desenvolve na Itália de finais do século [XV]{.smallcaps} como
+desdobramento do ideal Renascentista de ordenamento universal do espaço
+segundo os princípios da razão e da beleza [@samson:2012introduction].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Parques de caça e o ideal rústico ##
 
 ## Tudo junto e misturado ##
