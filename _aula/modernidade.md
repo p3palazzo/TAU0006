@@ -13,10 +13,10 @@ sidebar:
     - *História global* 476–483
     - Summerson 1–15
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-\_St_Jerome_in_his_study_-\_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-\_St_Jerome_in_his_study_-\_National_Gallery_LondonFXD.jpg
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg
-  caption: "Antonello da Messina, [S. Jerônimo no seu gabinete](https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_LondonFXD.jpg), c. 1474"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonello_da_Messina_-\_St_Jerome_in_his_study_-\_National_Gallery_LondonFXD.jpg/1601px-Antonello_da_Messina_-\_St_Jerome_in_his_study_-\_National_Gallery_LondonFXD.jpg
+  caption: "Antonello da Messina, [S. Jerônimo no seu gabinete](https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-\_St_Jerome_in_his_study_-\_National_Gallery_LondonFXD.jpg), c. 1474"
   overlay_filter: 0.5
 ---
 
@@ -34,29 +34,27 @@ ensino da história da arte nas universidades e escolas de arquitetura no
 mundo ocidental desde o final do século [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=46.5%}
 ![Zhu Bang, retrato de um administrador na frente da cidade proibida de Pequim, entre 1522 e 1566. © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/A_1881-1210-0-87-CH)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Forbidden_City_1881,1210,0.87.CH_no_mount.jpg/522px-Forbidden_City_1881,1210,0.87.CH_no_mount.jpg){#fig:palace-city-scroll .fragment}
 :::
 ::: {.column width=53.5%}
-![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Desenho por [Cigoli, 1613](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559—1613)._Duomo_di_Firenze.png#Licenciamento)](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559—1613)._Duomo_di_Firenze.png){#fig:smfiore .fragment}
+![Filippo Brunelleschi. Cúpula da catedral Santa Maria del Fiore, Florença, iniciada em 1420. Desenho por [Cigoli, 1613](https://commons.wikimedia.org/wiki/File:Lodovico_Cardi_detto_il_Cigoli_(1559—1613).\_Duomo_di_Firenze.png#Licenciamento)](https://upload.wikimedia.org/wikipedia/commons/9/9b/Lodovico_Cardi_detto_il_Cigoli_(1559—1613).\_Duomo_di_Firenze.png){#fig:smfiore .fragment}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 
-O nosso percurso começa em 1420, mais ou menos. Meio século para mais ou
-para menos, mas isso não importa. Exatamente em 1420, termina a
+O percurso desta unidade começa em 1420, mais ou menos. Meio século para
+mais ou para menos, mas isso não importa. Exatamente em 1420, termina a
 reconstrução do palácio imperial em Pequim, conhecido no Ocidente como a
-"Cidade proibida" ([@fig:palace-city-scroll]). No mesmo ano, começa a ser erigida a
-cúpula da catedral Santa Maria del Fiore, em Florença ([@fig:smfiore]). Os
-dois monumentos se apresentam como resgate e renovação de uma
-arquitetura *correta* herdada da Antiguidade.
+"Cidade proibida" ([@fig:palace-city-scroll]). No mesmo ano, começa a
+ser erigida a cúpula da catedral Santa Maria del Fiore, em Florença
+([@fig:smfiore]). Os dois monumentos se apresentam como resgate e
+renovação de uma arquitetura *correta* herdada da Antiguidade.
 
 Esses dois projetos dão o tom para um processo de consolidação das
 tradições arquitetônicas no leste da Ásia e na Europa ocidental. As duas
@@ -80,7 +78,7 @@ autoritárias. Assim se desenvolve o conceito das artes visuais como
 trabalho *intelectual*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-\_Architectural_Veduta_-\_Google_Art_Project.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Europa, a arquitetura já vinha ganhando prestígio cultural com a
@@ -90,11 +88,9 @@ um lugar central na reflexão sobre o trabalho artístico e o lugar da
 criação humana na ordem do mundo ([@fig:veduta1495]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![[Atribuído a Giuliano da Sangallo](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg). Perspectiva arquitetônica com porto, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-_Architectural_Veduta_-_Google_Art_Project.jpg){#fig:veduta1495  }
-:::
-
-<!--_-->
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![[Atribuído a Giuliano da Sangallo](https://commons.wikimedia.org/wiki/File:Francesco_di_Giorgio_Martini_(attributed)_-\_Architectural_Veduta_-\_Google_Art_Project.jpg). Perspectiva arquitetônica com porto, c. 1495](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Francesco_di_Giorgio_Martini_(attributed)_-\_Architectural_Veduta_-\_Google_Art_Project.jpg/1280px-Francesco_di_Giorgio_Martini_(attributed)_-\_Architectural_Veduta_-\_Google_Art_Project.jpg){#fig:veduta1495}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg"}
 
@@ -119,20 +115,20 @@ a esquerda.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:qiu-han .full}
-<div class="h-scroll"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg" /></div>
+<div style="overflow: auto; overflow-y: hidden; overflow-x: auto; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Qiu_Ying_Spring_morning_in_the_Han_palace.jpg" style="max-width: none; width: auto; height: 720px; max-height: 90vh" /></div>
 
 Qiu Ying. [Manhã de primavera no palácio Han][], primeira metade do século [XVI]{.smallcaps}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Manhã de primavera no palácio Han]: https://commons.wikimedia.org/wiki/File:Qiu_Ying_Spring_morning_in_the_Han_palace.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg"}
 
-::: full
-![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg){#fig:buongoverno  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Ambrogio Lorenzetti. Efeitos do bom governo na cidade, 1338--1339. Paço municipal, Siena](https://upload.wikimedia.org/wikipedia/commons/1/11/Ambrogio_Lorenzetti_-\_Effects_of_Good_Government_in_the_city_-\_Google_Art_Project.jpg){#fig:buongoverno  }
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--_,-->
+<!--\_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos dois casos, o desenvolvimento de
@@ -143,7 +139,7 @@ arquiteto numa sociedade letrada e no contexto das chamadas *artes
 liberais*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 . . .
 
@@ -157,7 +153,7 @@ liberais*.
   mundo formulada pelo conhecimento intelectual, mas também pelo poder
   político.
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o Renascimento, a distinção entre *artes liberais* --- os produtos
@@ -178,7 +174,7 @@ visuais em geral e a arquitetura em particular se consolidam como um
 herdada da cultura clássica [@choay:1986regra].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A China sai em vantagem com o [*Yingzao
@@ -211,17 +207,17 @@ gênero: no século [XVIII]{.smallcaps}, a universalidade do conhecimento arquit
 ![Página do *Yingzao Fashi* por Li Jie](https://upload.wikimedia.org/wikipedia/commons/f/fc/Yingzao_Fashi_1_desmear.JPG){#fig:yingzao-fashi}
 :::
 ::: {.column width=47%}
-![Cinco ordens de arquitetura por Claude Perrault](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg/689px-Claude_Perrault,_Ordonnance_des_cinq_espèces_de_colonnes_pl._I.jpg){#fig:perrault-ordonnance} 
+![Cinco ordens de arquitetura por Claude Perrault](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Perrault,\_Ordonnance_des_cinq_espèces_de_colonnes_pl.\_I.jpg/689px-Claude_Perrault,\_Ordonnance_des_cinq_espèces_de_colonnes_pl.\_I.jpg){#fig:perrault-ordonnance} 
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg"}
 
-::: full
-![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:carnevale  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Giuliano da Sangallo (atribuição). *Cidade ideal*, c. 1480--84, dita [Tábua de Baltimore](https://commons.wikimedia.org/wiki/File:Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg/2560px-Florentine_painter_-\_The_Ideal_City_-\_Walters_Art_Museum_-\_Google_Art_Project.jpg){#fig:carnevale  }
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--_-->
+<!--\_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Se o domínio global do espaço é a preocupação dominante das artes
@@ -245,9 +241,9 @@ do território ([@fig:versailles-patel]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg"}
 
-::: full
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Pintor da escola Tosa, talvez Iwasa Katsumochi Matabei. [Vistas de Quioto e arredores](https://commons.wikimedia.org/wiki/File:Scenes_in_and_around_Kyoto_Funaki_2.jpg), do par de biombos ditos Funaki, c. 1615. Aquarela, nanquim e folha de ouro sobre papel](https://upload.wikimedia.org/wikipedia/commons/7/74/Scenes_in_and_around_Kyoto_Funaki_2.jpg){#fig:funaki  }
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Às vezes os panoramas urbanos afirmam a unidade do poder político.
@@ -502,6 +498,13 @@ casas de edição, se torna no final do século [XV]{.smallcaps} um dos principa
 centros de difusão do pensamento arquitetônico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Tipologia e mecenato #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A relação entre os sistemas de mecenato e a tipologia das casas nobres
+do Renascimento [@tafuri:1969committenza].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Saberes corporativos e tratadística na França #
 
 ## Resiliência das tradições construtivas ##
@@ -512,7 +515,7 @@ Os ofícios da construção --- a carpintaria e a alvenaria --- absorvem as
 formas decorativas clássicas importadas da Itália sem alterar
 fundamentalmente o seus processos produtivos. Desse modo, a primeira
 lição do Renascimento fora da Itália diz respeito à fluidez das relações
-entre espaço, construção e decoração.
+entre espaço, construção e decoração [@geymueller:1898baukunst1].
 
 Nesse contexto, o desenvolvimento das soluções construtivas espaciais
 ocorre na forma de aprimoramentos graduais sem contestar os princípios
@@ -521,26 +524,28 @@ contexto da invenção de soluções mais eficientes na carpintaria de pisos
 e telhados e no aprimoramento da estereotomia — a resolução formal e
 estrutural de abóbadas em pedra. Abóbadas falsas em madeira e escadarias
 autoportantes são algumas das principais contribuições do gótico tardio
-na França para a solução de problemas construtivos.
+na França para a solução de problemas construtivos
+[@perouse:2001architecture].
 
 O estudo da arquitetura do Renascimento na França está marcado, desde o
-início do século [XIX]{.smallcaps}, por narrativas que tomam como premissa busca das
-raízes da nacionalidade. A afirmação do estado-nação e o embate político
-e militar com a Alemanha na segunda metade do século [XIX]{.smallcaps} direcionam a
-escrita da história da arte na França para uma exaltação da autonomia,
-unidade continuidade da cultura nacional. Por trás desse chauvinismo
-cultural, há um fundo de verdade na afirmação da continuidade
-construtiva e formal da arquitetura gótica para a versão francesa do
-Renascimento.
+início do século [XIX]{.smallcaps}, por narrativas que tomam como
+premissa busca das raízes da nacionalidade [@talenti:2000lhistoire]. A
+afirmação do estado-nação e o embate político e militar com a Alemanha
+na segunda metade do século [XIX]{.smallcaps} direcionam a escrita da
+história da arte na França para uma exaltação da autonomia, unidade
+continuidade da cultura nacional. Por trás desse chauvinismo cultural,
+há um fundo de verdade na afirmação da continuidade construtiva e formal
+da arquitetura gótica para a versão francesa do Renascimento.
 
-Essa continuidade é mais um argumento contra o determinismo
-historicista, que busca um pretenso “esgotamento“ da arquitetura gótica
-como pré-condição para o florescimento da arte renascentista. Ao mesmo
-tempo que a construção de igrejas góticas mantém toda sua vitalidade, a
-pacificação Militar do território, a centralização política das
-instituições administrativas, e a reconstrução física e econômica das
-cidades após a guerra de Cem anos (1337–1453) permitem, ou mesmo
-demandam, um enriquecimento da arquitetura civil.
+Essa continuidade é mais um argumento contra o determinismo historicista
+de Hauser, que busca um pretenso "esgotamento" da arquitetura gótica
+como pré-condição para o florescimento da arte renascentista
+[@hauser:1995historia]. Ao mesmo tempo que a construção de igrejas
+góticas mantém toda sua vitalidade, a pacificação militar do território,
+a centralização política das instituições administrativas, e a
+reconstrução física e econômica das cidades após a guerra de Cem anos
+(1337–1453) permitem, ou mesmo demandam, um enriquecimento da
+arquitetura civil.
 
 Edifícios administrativos como o erário da Normandia em Ruão ou o Paço
 municipal em Compiègne apresentam uma maior regularidade na articulação
@@ -646,8 +651,9 @@ século [XIX]{.smallcaps}, a arquitetura à maneira francesa ganha definitivamen
 legitimidade enquanto tema historiográfico. Servindo inicialmente para
 exaltar a particularidade e a pretensa excepcionalidade da nação
 francesa na Europa, o tema histórico da arquitetura à francesa se
-reinventa no século [XX]{.smallcaps} para caracterizar o emprego e a valorização
-teórica de certos procedimentos construtivos ao longo do tempo.
+reinventa no século [XX]{.smallcaps} para caracterizar o emprego e a
+valorização teórica de certos procedimentos construtivos ao longo do
+tempo [@perouse:2001architecture].
 
 Essa leitura na longa duração, ao gosto da Nova história francesa da
 primeira metade do século [XX]{.smallcaps}, pode assim ser desvinculada da exaltação
@@ -686,11 +692,9 @@ monumentais.
 ![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg/1024px-ChateauDeCharlevalJacquesAndrouetDuCerceau1579.jpg){#fig:charleval-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-\_Château,\_Charleval_-\_WGA00432.jpg"}
 
-![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-_Château,_Charleval_-_WGA00432.jpg){#fig:charleval-facade}
-
-<!--_,-->
+![Jacques Androuet Du Cerceau, castelo de Charleval, iniciado em 1570, fachada sobre o pátio de serviço](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jacques_Androuet_Du_Cerceau_(I)_-\_Château,\_Charleval_-\_WGA00432.jpg/640px-Jacques_Androuet_Du_Cerceau_(I)_-\_Château,\_Charleval_-\_WGA00432.jpg){#fig:charleval-facade}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1280px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg"}
 
@@ -700,7 +704,7 @@ pátio Quadrado do Louvre,
 1546--1555](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg/1024px-FR-Paris-Louvre-Cour_carree-150726-PP-1080-small-enhanced-3069.jpg){#fig:louvre-lescot-pp}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -717,7 +721,7 @@ pátio Quadrado do Louvre,
 ![Andrea Palladio, palazzo Valmarana, Vicenza, 1560](https://i.pinimg.com/originals/93/e4/7f/93e47f50a395f52cc78699cbc086feb0.gif){#fig:valmarana-all}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -728,7 +732,7 @@ pátio Quadrado do Louvre,
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -745,14 +749,14 @@ pátio Quadrado do Louvre,
 ![Universidade de Paris (Sorbonne), planta](https://i.pinimg.com/originals/94/72/a4/9472a43225a94d778839bea73cbe64f5.png){#fig:sorbonne-plan}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
 ![Jacques Lemercier, capela da Sorbonne, fachada sobre a rua](https://i.pinimg.com/originals/27/6e/a5/276ea55d49946405fadd0b7a65e73009.jpg){#fig:sorbonne-rue width=100%}
 :::
 ::: {.column width=50%}
-![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg){#fig:sorbonne-cour width=100%}
+![Jacques Lemercier, capela da Sorbonne, fachada sobre o pátio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne,\_Paris_001.jpg/523px-Chapelle_Sainte-Ursule_de_la_Sorbonne,\_Paris_001.jpg){#fig:sorbonne-cour width=100%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
