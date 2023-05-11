@@ -72,7 +72,7 @@ var store = [{
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
       },{
         "title": "Jardins",
-        "excerpt":"Jardins na Ásia central Paisagismo(s) do mundo islâmico O mundo islâmico é um conjunto cultural vastíssimo e extremamente diversificado culturalmente. Já tratamos de cidades islâmicas no oceano Índico, na Malásia e na costa Suaíle da África. No entanto, essas duas regiões têm clima muito úmido e, talvez por isso, não...","categories": [],
+        "excerpt":"Princípios do paisagismo persa Paisagismo(s) do mundo islâmico O mundo islâmico é um conjunto cultural vastíssimo e extremamente diversificado culturalmente. Já tratamos de cidades islâmicas no oceano Índico, na Malásia e na costa Suaíle da África. No entanto, essas duas regiões têm clima muito úmido e, talvez por isso, não...","categories": [],
         "tags": [],
         "url": "/TAU0006/aula/jardins/",
         "teaser": "https://hcommons.org/app/uploads/sites/1002372/2023/03/teaser-640px-Giovanni_Paolo_Pannini_-_Picture_Gallery_with_Views_of_Modern_Rome_-_Google_Art_Project.jpg"
