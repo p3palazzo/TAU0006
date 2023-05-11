@@ -94,7 +94,7 @@ unidade2:
       Teoria da arquitetura na Idade Moderna –
       Arquitetura do humanismo –
       Tratadística do Renascimento –
-      Saberes corporativos na França –
+      Saberes corporativos na França
     url       : "/aula/modernidade/"
     btn_label : "4 de maio"
     btn_class : "btn btn--inverse btn--small"
