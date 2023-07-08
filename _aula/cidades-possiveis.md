@@ -478,7 +478,7 @@ são povoar as fronteiras, melhorando a defesa do território, e
 racionalizar o abastecimento de alimentos, criando novas frentes
 agrícolas. O sistema das sesmarias é criado nessa época, muito antes da
 colonização do Brasil, para promover a ocupação de áreas cultiváveis
-[@lemes:2004lei9].
+[@lemes:2004lei].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!--

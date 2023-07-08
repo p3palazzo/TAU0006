@@ -71,7 +71,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Streets_of_Stone_town,_Zanzibar.jpg
 
-- id: abu-lughod:1989european
+- id: abulughod:1989european
   accessed:
     - year: 2020
       month: 8
@@ -79,7 +79,7 @@ references:
   author:
     - family: Abu-Lughod
       given: Janet L.
-  citation-key: abu-lughod:1989european
+  citation-key: abulughod:1989european
   edition: First issued as an Oxford University Press paperback
   event-place: 'New York : Oxford'
   ISBN: 978-0-19-506774-3
@@ -92,7 +92,7 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: >-
     Before European hegemony: the world system <span
-    class="smallcaps">A.D.</span> 1250–1350
+    smallcaps="smallcaps">A.D.</span> 1250–1350
   title-short: Before European hegemony
   type: book
   URL: http://archive.org/details/beforeeuropeanhe00abul_1
@@ -376,7 +376,7 @@ references:
   event-place: New York
   issued:
     - year: 1977
-  language: en-US
+  language: en
   publisher: Oxford University Press
   publisher-place: New York
   title: 'A pattern language: towns, buildings, construction'
@@ -392,7 +392,7 @@ references:
   ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
   issued:
     - year: 2002
-  language: en-US
+  language: en
   number-of-volumes: '4'
   publisher: Center for Environmental Structure
   publisher-place: Berkeley, Calif.
@@ -839,7 +839,7 @@ references:
   ISBN: 978-972-8325-70-1
   issued:
     - year: 1998
-  language: pt-PT
+  language: pt
   number-of-pages: '569'
   publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
   publisher-place: Lisboa
@@ -887,7 +887,7 @@ references:
     - year: 2017
       month: 2
       day: 10
-  language: en-US
+  language: en
   number-of-pages: '460'
   publisher: Routledge
   publisher-place: 'London : New York'
@@ -1208,7 +1208,7 @@ references:
   ISBN: 978-1-4921-5092-3
   issued:
     - year: 2013
-  language: en-US
+  language: en
   publisher: G3B
   source: Open WorldCat
   title: 'Renaissance Revit: creating classical architecture with modern software'
@@ -2250,13 +2250,13 @@ references:
   URL: >-
     https://singapurastories.com/kampung-gelam-rochor-kallang/kampung-rochor-an-overview-photo-from-1964/
 
-- id: 'birds:'
+- id: 'bird''s:'
   accessed:
     - year: 2020
       month: 10
       day: 15
   archive: The Arthur M. Sackler Gallery
-  citation-key: 'birds:'
+  citation-key: 'bird''s:'
   dimensions: 52.8 x 34.4 cm
   license: Public domain
   medium: Opaque watercolor and ink on paper
@@ -2682,11 +2682,11 @@ references:
   publisher-place: Valencia
   source: DOI.org (Crossref)
   title: >-
-    <span class="smallcaps">BIM</span> interoperability: Open <span
-    class="smallcaps">BIM</span>-based workflow for heritage building
-    information modelling <span class="smallcaps">(HBIM)</span>. a
+    <span smallcaps="smallcaps">BIM</span> interoperability: Open <span
+    smallcaps="smallcaps">BIM</span>-based workflow for heritage building
+    information modelling <span smallcaps="smallcaps">(HBIM)</span>. a
     multidisciplinary approach based on advanced 3D tools and exchange formats
-  title-short: Bim interoperability
+  title-short: BIM interoperability
   type: paper-conference
   URL: >-
     http://ocs.editorial.upv.es/index.php/arqueologica20/arqueologica9/paper/view/12104
@@ -3112,7 +3112,7 @@ references:
   event-place: London
   issued:
     - year: 1856
-  language: en-GB
+  language: en
   number-of-pages: '156'
   publisher: Ward and Lock, 158 Fleet Street
   publisher-place: London
@@ -3271,13 +3271,13 @@ references:
   ISBN: 978-972-9483-31-8
   issued:
     - year: 1999
-  language: pt-PT
-  publisher: FAUP
+  language: pt
+  publisher: <span smallcaps="smallcaps">FAUP</span> Publicações
   publisher-place: Porto
   source: Open WorldCat
   title: >-
     A Casa rural dos arredores de Lisboa no século <span
-    class="smallcaps">XVIII</span>
+    smallcaps="smallcaps">XVIII</span>
   type: book
 
 - id: calder:2021architecture
@@ -3289,7 +3289,7 @@ references:
   ISBN: 978-0-241-39673-5
   issued:
     - year: 2021
-  language: en-GB
+  language: en
   publisher: Penguin
   publisher-place: Harmondsworth
   source: Open WorldCat
@@ -3297,7 +3297,7 @@ references:
   title-short: Architecture
   type: book
 
-- id: campbell:1715vitruviusa
+- id: campbell:1715vitruvius
   abstract: >-
     ETH-Bibliothek (NEBIS). Campbell, Colin: Vitruvius Britannicus, or, the
     British architect : containing the plans, elevations, and sections of the
@@ -3311,7 +3311,7 @@ references:
   author:
     - family: Campbell
       given: Colen
-  citation-key: campbell:1715vitruviusa
+  citation-key: campbell:1715vitruvius
   event-place: London
   issued:
     - year: 1715
@@ -3451,30 +3451,6 @@ references:
     https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_Grand_Canal_-_Looking_from_Palazzo_Balbi_-_WGA03875.jpg
 
 - id: canaletto:1730campo
-  accessed:
-    - year: 2020
-      month: 8
-      day: 23
-  archive: Coleção particular
-  author:
-    - family: Canaletto
-      given: Giovanni Antonio Canal
-      dropping-particle: detto il
-  citation-key: canaletto:1730campo
-  dimensions: 'Altura: 46,0 cm; Largura: 77,0 cm'
-  issued:
-    - year: 1730
-      circa: true
-    - year: 1760
-  language: it
-  license: Public domain
-  medium: Óleo sobre tela
-  source: Wikimedia Commons
-  title: Il Campo e la Chiesa di San Francesco della Vigna
-  type: graphic
-  URL: https://commons.wikimedia.org/wiki/File:Canaletto_(II)_009.jpg
-
-- id: canaletto:1730campoa
   abstract: >-
     This square near the Teatro La Fenice is little changed today, except for
     the loss of the campanile and the church of Sant’Angelo Michele, destroyed
@@ -3490,7 +3466,7 @@ references:
     - family: Canaletto
       given: Giovanni Antonio Canal
       dropping-particle: detto il
-  citation-key: canaletto:1730campoa
+  citation-key: canaletto:1730campo
   issued:
     - year: 1730
       circa: true
@@ -3498,6 +3474,30 @@ references:
   title: Campo Sant'Angelo
   type: graphic
   URL: https://www.metmuseum.org/art/collection/search/438103
+
+- id: canaletto:1730campoa
+  accessed:
+    - year: 2020
+      month: 8
+      day: 23
+  archive: Coleção particular
+  author:
+    - family: Canaletto
+      given: Giovanni Antonio Canal
+      dropping-particle: detto il
+  citation-key: canaletto:1730campoa
+  dimensions: 'Altura: 46,0 cm; Largura: 77,0 cm'
+  issued:
+    - year: 1730
+      circa: true
+    - year: 1760
+  language: it
+  license: Public domain
+  medium: Óleo sobre tela
+  source: Wikimedia Commons
+  title: Il Campo e la Chiesa di San Francesco della Vigna
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Canaletto_(II)_009.jpg
 
 - id: canaletto:1730piazza
   accessed:
@@ -3674,17 +3674,17 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:BlankMap-World.svg
 
-- id: cardinal-pett:2016history
+- id: cardinalpett:2016history
   author:
     - family: Cardinal-Pett
       given: Clare
   call-number: NA2543.S6 C349 2016
-  citation-key: cardinal-pett:2016history
+  citation-key: cardinalpett:2016history
   event-place: New York
   ISBN: 978-0-415-53492-5
   issued:
     - year: 2016
-  language: en-US
+  language: en
   number-of-pages: '526'
   publisher: Routledge
   publisher-place: New York
@@ -4038,14 +4038,6 @@ references:
       given: William
   call-number: '39088005973763'
   citation-key: chambers:1757designs
-  contributor:
-    - family: Fourdrinier
-      given: P.
-    - family: Grignion
-      given: Charles
-    - family: Sandby
-      given: Paul
-    - literal: Smithsonian Libraries
   event-place: London
   issued:
     - year: 1757
@@ -4497,7 +4489,7 @@ references:
   ISBN: 978-0-471-75216-5
   issued:
     - year: 2007
-  language: en-US
+  language: en
   number-of-pages: '431'
   publisher: Wiley
   publisher-place: Hoboken, N.J.
@@ -5032,7 +5024,7 @@ references:
   event-place: New York
   issued:
     - year: 1928
-  language: en-US
+  language: en
   number-of-pages: '332'
   publisher: Pencil Points
   publisher-place: New York
@@ -5054,7 +5046,7 @@ references:
   dimensions: "Altura: 1\_347,00 mm; Largura: 2\_136,00 mm"
   issued:
     - year: 1840
-  language: pt
+  language: en
   license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
@@ -5205,7 +5197,7 @@ references:
   ISBN: 978-3-03910-276-1
   issued:
     - year: 2004
-  language: en-GB
+  language: en
   publisher: Peter Lang
   publisher-place: Oxford; New York
   source: Open WorldCat
@@ -5232,7 +5224,7 @@ references:
   ISBN: 978-3-319-76125-1 978-3-319-76126-8
   issued:
     - year: 2018
-  language: en-GB
+  language: en
   page: 123–143
   publisher: Springer
   publisher-place: Cham
@@ -5565,7 +5557,6 @@ references:
   citation-key: daderot:1906tokyo
   issued:
     - year: 1906
-  language: en
   license: Public domain
   source: Wikimedia Commons
   title: Tokyo map
@@ -6032,7 +6023,7 @@ references:
   URL: https://dx.plos.org/10.1371/journal.pone.0001201
   volume: '2'
 
-- id: di:2019low-costxlii-2w17
+- id: di:2019lowcostXLII2W17
   abstract: >-
     Abstract. The paper aims to investigate the potential inherent in a FOSS
     (Free and Open Source Software) approach for the 4D BIM modelling using
@@ -6064,7 +6055,7 @@ references:
       given: D.
     - family: Abita
       given: M.
-  citation-key: di:2019low-costxlii-2w17
+  citation-key: di:2019lowcostXLII2W17
   container-title: >-
     ISPRS - International Archives of the Photogrammetry, Remote Sensing and
     Spatial Information Sciences
@@ -6079,7 +6070,7 @@ references:
   page: 107-114
   source: DOI.org (Crossref)
   title: >-
-    Low-cost <span class="smallcaps">4D BIM</span> modelling: a comparison
+    Low-cost <span smallcaps="smallcaps">4D BIM</span> modelling: a comparison
     between Freecad and commercial software
   title-short: Low-cost 4d bim modelling
   type: article-journal
@@ -6098,7 +6089,7 @@ references:
     Open software, hardware, processes, data and formats in archeological
     research
   event-place: Catania
-  event-title: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
+  event-title: <span smallcaps="smallcaps">ARCHEOFOSS XIV</span> 2020
   ISBN: 978-1-80327-124-8
   issued:
     - year: 2021
@@ -6109,7 +6100,8 @@ references:
   source: Open WorldCat
   title: >-
     Towards FreeCAD experimentation and validation as a <span
-    class="smallcaps">FOS HBIM</span> platform for building archaeology purposes
+    smallcaps="smallcaps">FOS HBIM</span> platform for building archaeology
+    purposes
   title-short: <span class="smallcaps">ARCHEOFOSS XIV</span> 2020
   type: paper-conference
   URL: https://2020.archeofoss.org/proceedings
@@ -6640,7 +6632,7 @@ references:
   URL: http://www.jstor.org/stable/870245
   volume: '92'
 
-- id: emilia:2018
+- id: emilia.:2018
   abstract: >-
     For over 2000 years, it has been connecting Piacenza to Rimini through
     Emilia Romagna. It is the Via Aemilia, the noblest of the ancient streets of
@@ -6649,7 +6641,7 @@ references:
     - year: 2020
       month: 9
       day: 12
-  citation-key: emilia:2018
+  citation-key: emilia.:2018
   container-title: Travel Emilia Romagna
   issued:
     - year: 2018
@@ -7036,7 +7028,7 @@ references:
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
-  language: pt-PT
+  language: pt
   page: 70–93
   publisher: Argumentum
   publisher-place: Lisboa
@@ -7627,16 +7619,6 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1728engenheiro1
-  contributor:
-    - family: Costa
-      given: Manuel Fernandes
-      dropping-particle: da
-    - family: Rochefort
-      given: Pedro
-      dropping-particle: de
-    - family: Quillard
-      given: Pierre Antoine
-    - literal: Clérigos Regulares de São Caetano.
   event-place: Lisboa Occidental
   issued:
     - year: 1728
@@ -7655,16 +7637,6 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1729engenheiro2
-  contributor:
-    - family: Costa
-      given: Manuel Fernandes
-      dropping-particle: da
-    - family: Rochefort
-      given: Pedro
-      dropping-particle: de
-    - family: Quillard
-      given: Pierre Antoine
-    - literal: Clérigos Regulares de São Caetano.
   event-place: Lisboa Occidental
   issued:
     - year: 1729
@@ -7753,7 +7725,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1989
-  language: pt-PT
+  language: pt
   publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
   publisher-place: Lisboa
   source: Open WorldCat
@@ -8455,7 +8427,7 @@ references:
   event-place: Paris
   issued:
     - year: 1697
-  language: fr-FR
+  language: fr
   number-of-pages: '290'
   publisher: Christophe Ballard
   publisher-place: Paris
@@ -9151,7 +9123,7 @@ references:
     - year: 2021
       month: 6
       day: 30
-  language: en-GB
+  language: en
   license: Copyright (c) 2021 Francesca Guadagnoli, Elena Ippoliti, Andrea Casale
   number: '26'
   page: 7-7.12
@@ -10008,24 +9980,6 @@ references:
   title: Islamic art and architecture
   type: book
 
-- id: himejihan:1806himejijoshitaezu
-  accessed:
-    - year: 2020
-      month: 9
-      day: 12
-  archive: 姫路城下絵図
-  author:
-    - literal: 姫路藩
-  citation-key: himejihan:1806himejijoshitaezu
-  issued:
-    - year: 1806
-  license: Public domain
-  source: Wikimedia Commons
-  title: 姫路城下絵図
-  title-short: 日本語
-  type: graphic
-  URL: https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg
-
 - id: history:2018
   abstract: >-
     The history of the Sultanate of Malacca every year (1402-1528). From its
@@ -10606,6 +10560,24 @@ references:
   title: Yingzao Fashi 1
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Yingzao_Fashi_1_desmear.JPG
+
+- id: jilufan:1806Ji
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  archive: 姫路城下絵図
+  author:
+    - literal: 姫路藩
+  citation-key: jilufan:1806Ji
+  issued:
+    - year: 1806
+  license: Public domain
+  source: Wikimedia Commons
+  title: 姫路城下絵図
+  title-short: 日本語
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:Himeji-castletown-plan.jpg
 
 - id: jiroch:2019walk
   abstract: >-
@@ -11704,8 +11676,6 @@ references:
       given: Marc-Antoine
   call-number: '270792'
   citation-key: laugier:1753essai
-  contributor:
-    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1753
@@ -11741,11 +11711,6 @@ references:
       given: Marc-Antoine
   call-number: '9579'
   citation-key: laugier:1755essai
-  contributor:
-    - family: Duchesne
-      given: Nicolas-Bonaventure
-    - family: Fonbonne
-      given: Anne
   edition: 2^e^ éd.
   event-place: Paris
   issued:
@@ -11921,7 +11886,7 @@ references:
   URL: >-
     https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10059299_00007.html
 
-- id: lemes:2004lei9
+- id: lemes:2004lei
   accessed:
     - year: 2018
       month: 11
@@ -11929,7 +11894,7 @@ references:
   author:
     - family: Lemes
       given: Fernando Lobo
-  citation-key: lemes:2004lei9
+  citation-key: lemes:2004lei
   container-title: Revista Jurídica Unievangélica
   issue: '1'
   issued:
@@ -11937,7 +11902,9 @@ references:
   language: pt-BR
   page: 70–89
   source: periodicos.unievangelica.edu.br
-  title: A lei das Sesmarias e Portugal no século <span class="smallcaps">XIV</span>
+  title: >-
+    A lei das Sesmarias e Portugal no século <span
+    smallcaps="smallcaps">XIV</span>
   title-short: A lei das Sesmarias
   type: article-journal
   URL: >-
@@ -12975,7 +12942,7 @@ references:
   source: DOI.org (Crossref)
   title: >-
     Development of a Manueline style object library for heritage <span
-    class="smallcaps">BIM</span>
+    smallcaps="smallcaps">BIM</span>
   type: article-journal
   URL: https://www.tandfonline.com/doi/full/10.1080/15583058.2020.1740825
 
@@ -13721,7 +13688,7 @@ references:
   event-place: Boston
   issued:
     - year: 1904
-  language: en-US
+  language: en
   number-of-pages: '134'
   publisher: Bates & Guild
   publisher-place: Boston
@@ -13738,7 +13705,7 @@ references:
   event-place: Washington, D.C
   issued:
     - year: 1970
-  language: en-US
+  language: en
   publisher: National Park Service
   publisher-place: Washington, D.C
   title: Recording historic buildings
@@ -14015,7 +13982,6 @@ references:
   contributor:
     - family: Antolini
       given: Giovanni Antonio
-    - literal: Getty Research Institute
   event-place: Milano
   issued:
     - year: 1832
@@ -14826,12 +14792,12 @@ references:
   title-short: A cidade na história
   type: book
 
-- id: muratori:1959studiix
+- id: muratori:1959studiIX
   abstract: Quadro generale dalle origini agli sviluppi attuali
   author:
     - family: Muratori
       given: Saverio
-  citation-key: muratori:1959studiix
+  citation-key: muratori:1959studiIX
   container-title: Palladio
   issue: 3–4
   issued:
@@ -14842,7 +14808,7 @@ references:
   title: Studi per una operante storia urbana di Venezia. I
   title-short: Studi per una operante storia urbana di Venezia
   type: article-journal
-  volume: <span class="smallcaps">IX</span>
+  volume: IX
 
 - id: muratori:1967civilta
   accessed:
@@ -15237,6 +15203,46 @@ references:
 
 - id: nalli:2020firenze
   abstract: >-
+    Piazza della Santissima Annunziata si trova nel centro storico a pochi passi
+    dal duomo.  Il monumento più importante della piazza è la basilica della
+    Santissima Annunziata, uno degli edifici sacri più importanti di Firenze.
+
+    Al centro della piazza si trova il monumento equestre a Ferdinando I de'
+    Medici, di Giambologna e Pietro Tacca, mentre più arretrate, in posizione
+    simmetrica, sono collocate le due fontane dei mostri marini, capolavoro del
+    Tacca e della scultura manierista in generale. 
+
+
+    Qui il link del video della Basilica della Santissima Annunziata:
+
+    https://youtu.be/crI3G9qovdI
+
+
+    Fonte Wikipedia: https://it.wikipedia.org/wiki/Piazza_...
+
+
+    Filmato con Sony RX10M3 in 4K.
+
+
+    #firenze #florence #florencia
+  accessed:
+    - year: 2020
+      month: 9
+      day: 28
+  citation-key: nalli:2020firenze
+  dimensions: '5:34'
+  director:
+    - family: Nalli
+      given: Massimo
+  issued:
+    - year: 2020
+  source: YouTube
+  title: FIRENZE - Piazza della Santissima Annunziata
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=WqSDHiRS12E
+
+- id: nalli:2020firenzea
+  abstract: >-
     La basilica è situata nel quartiere dell'Oltrarno, la parte sud del centro
     storico.  La sua facciata è molto semplice,  ma è da ricordare che è stata
     progettata da Filippo Brunelleschi nel 1434.
@@ -15275,7 +15281,7 @@ references:
     - year: 2020
       month: 9
       day: 28
-  citation-key: nalli:2020firenze
+  citation-key: nalli:2020firenzea
   dimensions: '8:43'
   director:
     - family: Nalli
@@ -15286,46 +15292,6 @@ references:
   title: FIRENZE - Basilica di Santo Spirito, opera del Brunelleschi
   type: motion_picture
   URL: https://www.youtube.com/watch?v=OxtnCcjxFoU
-
-- id: nalli:2020firenzea
-  abstract: >-
-    Piazza della Santissima Annunziata si trova nel centro storico a pochi passi
-    dal duomo.  Il monumento più importante della piazza è la basilica della
-    Santissima Annunziata, uno degli edifici sacri più importanti di Firenze.
-
-    Al centro della piazza si trova il monumento equestre a Ferdinando I de'
-    Medici, di Giambologna e Pietro Tacca, mentre più arretrate, in posizione
-    simmetrica, sono collocate le due fontane dei mostri marini, capolavoro del
-    Tacca e della scultura manierista in generale. 
-
-
-    Qui il link del video della Basilica della Santissima Annunziata:
-
-    https://youtu.be/crI3G9qovdI
-
-
-    Fonte Wikipedia: https://it.wikipedia.org/wiki/Piazza_...
-
-
-    Filmato con Sony RX10M3 in 4K.
-
-
-    #firenze #florence #florencia
-  accessed:
-    - year: 2020
-      month: 9
-      day: 28
-  citation-key: nalli:2020firenzea
-  dimensions: '5:34'
-  director:
-    - family: Nalli
-      given: Massimo
-  issued:
-    - year: 2020
-  source: YouTube
-  title: FIRENZE - Piazza della Santissima Annunziata
-  type: motion_picture
-  URL: https://www.youtube.com/watch?v=WqSDHiRS12E
 
 - id: nalli:roma
   abstract: >-
@@ -15635,7 +15601,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Zeffiro-e-clori---pompeii.jpg
 
-- id: obsidian:2019austronesian
+- id: obsidiansoul:2019austronesian
   accessed:
     - year: 2020
       month: 8
@@ -15643,7 +15609,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Obsidian Soul
-  citation-key: obsidian:2019austronesian
+  citation-key: obsidiansoul:2019austronesian
   issued:
     - year: 2019
       month: 7
@@ -15717,8 +15683,8 @@ references:
   publisher: Unesco
   publisher-place: Brasília
   title: >-
-    África do século <span class="smallcaps">XVI</span> ao <span
-    class="smallcaps">XVIII</span>
+    África do século <span smallcaps="smallcaps">XVI</span> ao <span
+    smallcaps="smallcaps">XVIII</span>
   type: book
 
 - id: oliveras:1998nuevas
@@ -15756,12 +15722,12 @@ references:
     - year: 2018
       month: 8
       day: 27
-  language: en-US
+  language: en
   title: Five steps to super blocks
   type: webpage
   URL: https://www.cnu.org/publicsquare/2018/08/27/five-steps-super-blocks
 
-- id: oschirmer:2013deutsch
+- id: 'oschirmer:2013deutsch:'
   accessed:
     - year: 2020
       month: 9
@@ -15769,7 +15735,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Oschirmer
-  citation-key: oschirmer:2013deutsch
+  citation-key: 'oschirmer:2013deutsch:'
   issued:
     - literal: 5 de setembro de 2013, 13:48:11
   source: Wikimedia Commons
@@ -16091,10 +16057,11 @@ references:
   dimensions: "Altura: 1\_280,00 mm; Largura: 990,00 mm"
   issued:
     - literal: cerca de 1734
+  language: pt
   license: Public domain
   medium: Óleo sobre tela
   source: Wikimedia Commons
-  title: Interior of the Pantheon, Rome
+  title: Interior do Pantheon, Roma
   type: graphic
   URL: >-
     https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg
@@ -16193,6 +16160,7 @@ references:
       day: 8
   citation-key: 'pantheon:'
   dimensions: '4:39'
+  language: en
   publisher: Naked Science
   source: YouTube
   title: The Pantheon - Under the Dome
@@ -16562,30 +16530,6 @@ references:
   title: Arquitectura barroca em Portugal
   type: book
 
-- id: perez-gomez:1982architecture36
-  accessed:
-    - year: 2019
-      month: 5
-      day: 15
-  author:
-    - family: Pérez-Gómez
-      given: Alberto
-  citation-key: perez-gomez:1982architecture36
-  container-title: Journal of Architectural Education
-  DOI: 10.2307/1424613
-  ISSN: '01492993'
-  issue: '2'
-  issued:
-    - year: 1982
-      season: 4
-  language: en-US
-  page: '2'
-  source: Crossref
-  title: Architecture as drawing
-  type: article-journal
-  URL: https://www.jstor.org/stable/1424613?origin=crossref
-  volume: '36'
-
 - id: perez-gomez:1983architecture
   author:
     - family: Pérez-Gómez
@@ -16602,6 +16546,30 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Architecture and the crisis of modern science
   type: book
+
+- id: perezgomez:1982architecture36
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Pérez-Gómez
+      given: Alberto
+  citation-key: perezgomez:1982architecture36
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424613
+  ISSN: '01492993'
+  issue: '2'
+  issued:
+    - year: 1982
+      season: 4
+  language: en
+  page: '2'
+  source: Crossref
+  title: Architecture as drawing
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424613?origin=crossref
+  volume: '36'
 
 - id: pergiel:2016medici
   accessed:
@@ -16844,7 +16812,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1998
-  language: en-US
+  language: en
   publisher: >-
     Aga Khan Program for Islamic Architecture at Harvard University :
     Massachusetts Institute of Technology
@@ -17007,7 +16975,7 @@ references:
     http://www.persee.fr/web/revues/home/prescript/article/rbph_0035-0818_1958_num_36_1_2208_t1_0233_0000_2
   volume: '36'
 
-- id: photoglob:189020029
+- id: photoglobzurich:189020029
   accessed:
     - year: 2020
       month: 10
@@ -17015,7 +16983,7 @@ references:
   archive: "Esta imagem está disponível na Divisão de Impressos e Fotografias da Biblioteca do Congresso dos Estados Unidos sob o número de identificação digital cph.3g03582.Esta marcação não indica o status de direito autoral da obra aqui mostrada. Uma marcação normal de direitos autorais ainda é necessária. Veja Commons:Licenciamento para mais informações.  العربية\_| беларуская (тарашкевіца)‎\_| čeština\_| Deutsch\_| English\_| español\_| فارسی\_| suomi\_| français\_| עברית\_| magyar\_| italiano\_| 日本語\_| lietuvių\_| македонски\_| മലയാളം\_| Nederlands\_| polski\_| português\_| português do Brasil\_| русский\_| sicilianu\_| slovenčina\_| slovenščina\_| Türkçe\_| українська\_| 中文\_| 中文（简体）‎\_| 中文（繁體）‎\_| +/− Restoration by trialsanderrors: Taj Mahal, Agra, India, ca. 1900"
   author:
     - literal: Photoglob Zürich
-  citation-key: photoglob:189020029
+  citation-key: photoglobzurich:189020029
   issued:
     - literal: entre 1890 e 1900
   license: Public domain
@@ -17024,7 +16992,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India,_ca._1900.jpg
 
-- id: piero:1444flagellazione
+- id: pierofrancesca:1444flagellazione
   accessed:
     - year: 2020
       month: 9
@@ -17032,7 +17000,7 @@ references:
   archive: Galleria Nazionale delle Marche
   author:
     - literal: Piero della Francesca
-  citation-key: piero:1444flagellazione
+  citation-key: pierofrancesca:1444flagellazione
   dimensions: 58,3 × 81,5 cm
   issued:
     - year: 1444
@@ -17046,7 +17014,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Piero,_flagellazione_11.jpg
 
-- id: piero:1460anunciacao
+- id: pierofrancesca:1460anunciacao
   accessed:
     - year: 2020
       month: 9
@@ -17054,7 +17022,7 @@ references:
   archive: Galeria Nacional da Úmbria
   author:
     - literal: Piero della Francesca
-  citation-key: piero:1460anunciacao
+  citation-key: pierofrancesca:1460anunciacao
   issued:
     - literal: entre 1460 e 1470
   language: Portuguese
@@ -17203,8 +17171,6 @@ references:
     - family: Piranesi
       given: Giovanni Battista
   citation-key: piranesi:1769diverse
-  contributor:
-    - literal: McGill University Library
   event-place: Roma
   issued:
     - year: 1769
@@ -17527,10 +17493,6 @@ references:
   author:
     - family: Price
       given: Francis
-    - family: Toms
-      given: W. H. (William Henry)
-    - family: Ackers
-      given: Charles
   call-number: '9926429080001551'
   citation-key: price:1735british
   event-place: London
@@ -17668,6 +17630,23 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:5a_Qian_Xuan_Consort_Yang_Mounting_a_Horse_(29.5_x_117.0_cm),_section._Freer_Gallery_of_Art_Washington.jpg
 
+- id: Qing:1800
+  accessed:
+    - year: 2020
+      month: 9
+      day: 10
+  archive: 《京师城内首善全图》
+  citation-key: Qing:1800
+  issued:
+    - year: 1800
+  license: Public domain
+  source: Wikimedia Commons
+  title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
+  title-short: 京师城内首善全图
+  type: graphic
+  URL: >-
+    https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E5%B8%88%E5%9F%8E%E5%86%85%E9%A6%96%E5%96%84%E5%85%A8%E5%9B%BE.%E6%B8%85%E4%BB%A3.jpg
+
 - id: qiu:15--manha
   accessed:
     - year: 2020
@@ -17727,9 +17706,6 @@ references:
       non-dropping-particle: d’
   collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
   container-title: Architecture
-  editor:
-    - family: Quatremère de Quincy
-      given: A.C.
   event-place: Paris
   issued:
     - year: 1788
@@ -17785,7 +17761,7 @@ references:
   URL: http://www.persee.fr/doc/bulmo_0007-473x_1972_num_130_4_6982
   volume: '130'
 
-- id: raffaello:1509disputa
+- id: raffaellosanzio:1509disputa
   accessed:
     - year: 2020
       month: 9
@@ -17793,7 +17769,7 @@ references:
   archive: Museus Vaticanos
   author:
     - literal: Raffaello Sanzio
-  citation-key: raffaello:1509disputa
+  citation-key: raffaellosanzio:1509disputa
   dimensions: 500,0 × 770,0 cm
   issued:
     - year: 1509
@@ -17806,7 +17782,7 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:Raphael_-_Disputation_of_the_Holy_Sacrament.jpg
 
-- id: raphael:1511italian
+- id: 'raphael:1511italian:'
   accessed:
     - year: 2020
       month: 10
@@ -17814,7 +17790,7 @@ references:
   archive: Pinacoteca Ambrosiana
   author:
     - literal: Raphael
-  citation-key: raphael:1511italian
+  citation-key: 'raphael:1511italian:'
   dimensions: "Height: 500 cm (16.4 ft)\_; Width: 7.7 m (25.2 ft)\_ dimensions QS:P2048,+500U174728;P2049,+7.7U11573"
   issued:
     - literal: 1511date QS:P571,+1511-00-00T00:00:00Z/9
@@ -17865,7 +17841,7 @@ references:
   ISBN: 978-0-8165-1176-1
   issued:
     - year: 1990
-  language: en-US
+  language: en
   publisher: University of Arizona Press
   publisher-place: Tucson, Ariz.
   source: Open WorldCat
@@ -18667,7 +18643,7 @@ references:
   URL: https://www.jstor.org/stable/3046004?origin=crossref
   volume: '76'
 
-- id: rupnik:2017micmac2
+- id: rupnik:2017micmac
   abstract: >-
     The publication familiarizes the reader with MicMac - a free, open-source
     photogrammetric software for 3D reconstruction. A brief history of the tool,
@@ -18686,7 +18662,7 @@ references:
       given: Mehdi
     - family: Pierrot Deseilligny
       given: Marc
-  citation-key: rupnik:2017micmac2
+  citation-key: rupnik:2017micmac
   container-title: Open Geospatial Data, Software and Standards
   container-title-short: Open Geospatial Data, Software and Standards
   DOI: 10.1186/s40965-017-0027-2
@@ -19047,15 +19023,15 @@ references:
     - literal: Sailko
   citation-key: sailko:2011parco
   issued:
-    - literal: 11 de janeiro de 2011, 23:26:40
+    - literal: 11 de janeiro de 2011, 23:26:53
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
-    con laterizi a spina di pesce 01
+    con laterizi a spina di pesce 02
   title-short: Italiano
   type: graphic
   URL: >-
-    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_01.JPG
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_02.JPG
 
 - id: sailko:2011parcoa
   accessed:
@@ -19067,15 +19043,15 @@ references:
     - literal: Sailko
   citation-key: sailko:2011parcoa
   issued:
-    - literal: 11 de janeiro de 2011, 23:26:53
+    - literal: 11 de janeiro de 2011, 23:26:40
   source: Wikimedia Commons
   title: >-
     Parco dell'anconella, ricostruzione parziale della cupola del brunelleschi,
-    con laterizi a spina di pesce 02
+    con laterizi a spina di pesce 01
   title-short: Italiano
   type: graphic
   URL: >-
-    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_02.JPG
+    https://commons.wikimedia.org/wiki/File:Parco_dell%27anconella,_ricostruzione_parziale_della_cupola_del_brunelleschi,_con_laterizi_a_spina_di_pesce_01.JPG
 
 - id: sailko:2013pianta
   accessed:
@@ -19244,7 +19220,8 @@ references:
   publisher-place: Brasília
   title: >-
     Projetos espaciais na América espanhola no último terço do século <span
-    class="smallcaps">XVIII</span>: economia, política e ordenação territorial
+    smallcaps="smallcaps">XVIII</span>: economia, política e ordenação
+    territorial
   translator:
     - family: Palazzo
       given: Pedro P.
@@ -19298,7 +19275,7 @@ references:
   issued:
     - year: 2012
       month: 7
-  language: pt-PT
+  language: pt
   license: openAccess
   publisher: 'ISCTE : ISUF'
   publisher-place: Lisboa
@@ -19389,6 +19366,7 @@ references:
   issued:
     - year: 1495
       circa: true
+  language: pt
   license: Public domain
   medium: óleo  sobre madeira de álamo
   source: Wikimedia Commons
@@ -19555,6 +19533,7 @@ references:
     - year: 2018
       month: 2
       day: 2
+  language: en
   source: Wikimedia Commons
   title: Fasil Ghebbi fortress in Gondar, Ethiopia
   type: graphic
@@ -19581,21 +19560,7 @@ references:
   URL: >-
     https://www.dreamstime.com/editorial-photo-interior-basilica-di-santa-maria-del-fiore-florence-i-saint-mary-flower-italy-image44519156
 
-- id: schaeffer:1971chinesicesxxii
-  author:
-    - family: Schaeffer
-      given: Enrico
-  citation-key: schaeffer:1971chinesicesxxii
-  container-title: Anais do Museu Histórico Nacional
-  issued:
-    - year: 1971
-  language: pt
-  page: 33–49
-  title: Chinesices no Brasil
-  type: article-journal
-  volume: XXII
-
-- id: schafer:2003plan
+- id: schaefer:2003plan
   accessed:
     - year: 2020
       month: 9
@@ -19604,13 +19569,28 @@ references:
   author:
     - family: Schäfer
       given: Klaus
-  citation-key: schafer:2003plan
+  citation-key: schaefer:2003plan
   issued:
     - literal: março de 2003
+  language: de
   source: Wikimedia Commons
   title: Plan und Bild von Monpazier
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
+
+- id: schaeffer:1971chinesicesXXII
+  author:
+    - family: Schaeffer
+      given: Enrico
+  citation-key: schaeffer:1971chinesicesXXII
+  container-title: Anais do Museu Histórico Nacional
+  issued:
+    - year: 1971
+  language: pt
+  page: 33–49
+  title: Chinesices no Brasil
+  type: article-journal
+  volume: XXII
 
 - id: schapiro:1970criteria1
   accessed:
@@ -19646,14 +19626,14 @@ references:
       given: Alexander
   call-number: NA2790 .S35 2018
   citation-key: schilling:2018architecture
-  event-place: Basel, Switzerland
+  event-place: Basel
   ISBN: 978-3-0356-1479-4
   issued:
     - year: 2018
-  language: en-GB
+  language: en
   number-of-pages: '207'
-  publisher: Birkhauser
-  publisher-place: Basel, Switzerland
+  publisher: Birkhäuser
+  publisher-place: Basel
   source: Library of Congress ISBN
   title: 'Architecture and model building: concepts, methods, materials'
   title-short: Architecture and model building
@@ -20053,23 +20033,6 @@ references:
   URL: >-
     https://commons.wikimedia.org/wiki/File:With_Shelley_in_Italy_-_being_a_selection_of_the_poems_and_letters_of_Percy_Bysshe_Shelley_which_have_to_do_with_his_life_in_Italy_from_1818_to_1822_(1905)_(14782136475).jpg
 
-- id: shindaikyoShi:1800
-  accessed:
-    - year: 2020
-      month: 9
-      day: 10
-  archive: 《京师城内首善全图》
-  citation-key: shindaikyoShi:1800
-  issued:
-    - year: 1800
-  license: Public domain
-  source: Wikimedia Commons
-  title: 清代《京师城内首善全图》。这张“京城内外首善全图”非常祥尽的记载了，元明清三代大都内的城区建筑，以及紫禁城的地物和地理风貌。约刊于1800年后。
-  title-short: 京师城内首善全图
-  type: graphic
-  URL: >-
-    https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E5%B8%88%E5%9F%8E%E5%86%85%E9%A6%96%E5%96%84%E5%85%A8%E5%9B%BE.%E6%B8%85%E4%BB%A3.jpg
-
 - id: shojai:2016developing3
   abstract: >-
     The contribution of front or back yards to sociability has been the subject
@@ -20292,7 +20255,7 @@ references:
   title-short: Lisboa romântica
   type: thesis
 
-- id: simoes:2013permanencias5
+- id: simoes:2013permanencias
   abstract: >-
     A partir da compreensão dos processos de ocupação das áreas de colina em
     cidades brasileiras e portuguesas, associados à tradição urbanística
@@ -20328,7 +20291,7 @@ references:
       given: José Geraldo
     - family: Campos
       given: Candido Malta
-  citation-key: simoes:2013permanencias5
+  citation-key: simoes:2013permanencias
   container-title: urbe. Revista Brasileira de Gestão Urbana
   container-title-short: urbe, Rev. Bras. Gest. Urbana
   DOI: 10.7213/urbe.7785
@@ -20500,7 +20463,7 @@ references:
   event-place: New York ; London
   issued:
     - year: 1888
-  language: en-US
+  language: en
   number-of-pages: '157'
   publisher: Cassell and company
   publisher-place: New York ; London
@@ -21128,7 +21091,55 @@ references:
   URL: >-
     http://singapurastories.com/kampung-gelam-rochor-kallang/kampung-gelam-kampung-rochor/
 
-- id: tang:1124chubunyorozuHe
+- id: talenti:2000lhistoire
+  abstract: >-
+    " De quoi n'a-t-on pas écrit l'histoire ? Il en reste une cependant qui est
+    encore à faire, et qui ne serait pas la moins intéressante. Je parle de
+    l'histoire des histoires " (César Daly, 1849). Si, depuis les années 1970,
+    de nombreux auteurs se sont penchés sur l'historiographie politique,
+    artistique ou scientifique, l'histoire de l'histoire de l'architecture a
+    fait l'objet de peu d'études. Les raisons en sont multiples :
+    l'éparpillement des sources, la crise de l'architecture elle-même, les
+    clivages qui peuvent exister entre architectes et historiens de l'art. Sans
+    doute la " muséalisation " de l'architecture, la définition du patrimoine et
+    la pédagogie, sont aujourd'hui des questions incontournables. Examiner les
+    origines de l'historiographie de l'architecture - qui a connu récemment une
+    émergence remarquable - est une priorité pour nourrir ce débat. La matière
+    est riche. Depuis les publications des antiquaires du XVIIIe siècle, la
+    connaissance des monuments ne cesse de progresser. L'exemple des
+    naturalistes, des grands fondateurs de l'histoire politique et des
+    archéologues suscitent la volonté de concevoir une autre histoire de
+    l'architecture, plus scientifique. En France, les années 1863 à 1914
+    s'avèrent une véritable période charnière caractérisée par d'innombrables
+    histoires, essais, études globales et partielles, par une évolution continue
+    des moyens de représentation de l'architecture, par la multiplication des
+    établissements d'enseignement et des approches pédagogiques. Parmi les
+    grands acteurs de cette période figurent Viollet-le-Duc, Ramée, Dartein,
+    Baudot, ou Ruprich-Robert. A l'issue de leurs travaux analysés ici
+    méthodiquement dans leur contexte, le visage de l'histoire de l'architecture
+    est entièrement transformé. Elle a trouvé sa propre définition, elle a
+    affiné ses moyens de représentation et dispose désormais d'outils
+    méthodologiques efficaces.
+  author:
+    - family: Talenti
+      given: Simona
+  citation-key: talenti:2000lhistoire
+  event-place: Paris
+  ISBN: 978-2-7084-0585-1
+  issued:
+    - year: 2000
+  language: fr
+  number-of-pages: '300'
+  publisher: Picard
+  publisher-place: Paris
+  source: Google Books
+  title: >-
+    L’histoire de l'architecture en France: émergence d'une discipline
+    (1863–1914)
+  title-short: L'histoire de l'architecture en France
+  type: book
+
+- id: tang:1124Zhong
   accessed:
     - year: 2022
       month: 1
@@ -21137,7 +21148,7 @@ references:
   author:
     - family: Tang
       given: Li
-  citation-key: tang:1124chubunyorozuHe
+  citation-key: tang:1124Zhong
   dimensions: >-
     Altura: 188,7 cm; Largura: 139,8 cmdimensions QS:P2048,188.7U174728
     dimensions QS:P2049,139.8U174728
@@ -21696,7 +21707,7 @@ references:
   genre: Tese (doutoramento) em História da Arte
   issued:
     - year: 2009
-  language: pt-PT
+  language: pt
   license: openAccess
   publisher: Faculdade de Letras da Universidade de Coimbra
   source: estudogeral.uc.pt
@@ -22033,7 +22044,7 @@ references:
   issue: '1'
   issued:
     - year: 1975
-  language: en-US
+  language: en
   page: 4-7
   source: JSTOR
   title: 'The mechanical body versus the divine body: the rise of modern design theory'
@@ -22078,7 +22089,7 @@ references:
   title-short: Classical architecture
   type: book
 
-- id: ujjwal:2017taj
+- id: ujjwalgoel2005:2017taj
   accessed:
     - year: 2020
       month: 10
@@ -22086,7 +22097,7 @@ references:
   archive: Trabalho próprio pelo carregador
   author:
     - literal: Ujjwal goel2005
-  citation-key: ujjwal:2017taj
+  citation-key: ujjwalgoel2005:2017taj
   issued:
     - year: 2017
       month: 6
@@ -22193,7 +22204,7 @@ references:
   type: graphic
   URL: https://commons.wikimedia.org/wiki/File:Beijing_1861-1890_Inner_City.jpg
 
-- id: valla:2012engenharia6
+- id: valla:2012engenharia
   abstract: >-
     A prática de intervenção dos portugueses nos diversos territórios como
     África, Oriente levou à consolidação de teorias e de trocas de experiências
@@ -22217,7 +22228,7 @@ references:
     - family: Valla
       given: Margarida
   call-number: 711.034(81)
-  citation-key: valla:2012engenharia6
+  citation-key: valla:2012engenharia
   container-title: 'Anais: Seminário de História da Cidade e do Urbanismo'
   issue: '3'
   issued:
@@ -22556,12 +22567,12 @@ references:
   event-place: Roma
   issued:
     - year: 1602
-  language: Italian
+  language: it
   number-of-pages: '102'
   publisher: Henricus van Schoel
   publisher-place: Roma
   source: Internet Archive
-  title: Regola delli cinqve ordini d'architettura
+  title: Regola delli cinque ordini d'architettura
   type: book
   URL: http://archive.org/details/cinqveordinidarc00vign
 
@@ -22599,13 +22610,15 @@ references:
   citation-key: vignola:1602regolaa
   contributor:
     - literal: Getty Research Institute
+  event-place: Roma
   issued:
     - year: 1602
-  language: ita
+  language: it
   number-of-pages: '102'
-  publisher: 'In Roma : Apresso Henricus van Schoel'
+  publisher: Henricus van Schoel
+  publisher-place: Roma
   source: Internet Archive
-  title: Regola delli cinqve ordini d' architettvra
+  title: Regola delli cinque ordini d'architettura
   type: book
   URL: http://archive.org/details/cinqveordinidarc00vign
 
@@ -22828,6 +22841,7 @@ references:
   citation-key: vinci:1492homem
   issued:
     - literal: cerca de 1492 date QS:P571,+1492-00-00T00:00:00Z/9,P1480,Q5727902
+  language: pt
   license: Public domain
   medium: desenhocaneta, tinta e wash  sobre papel
   source: Wikimedia Commons
@@ -23094,8 +23108,8 @@ references:
   event-place: Lisboa
   issued:
     - year: 2006
-  language: pt-PT
-  publisher: <span class="smallcaps">IST</span> Press
+  language: pt
+  publisher: <span smallcaps="smallcaps">IST</span> Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
   translator:
@@ -23797,7 +23811,7 @@ references:
   event-place: London
   issued:
     - year: 1962
-  language: en-GB
+  language: en
   number-of-pages: '173'
   publisher: Alec Tiranti
   publisher-place: London
@@ -23828,7 +23842,7 @@ references:
   event-place: Harmondsworth, Middlesex
   issued:
     - year: 1973
-  language: en-GB
+  language: en
   publisher: Penguin
   publisher-place: Harmondsworth, Middlesex
   source: Open WorldCat
@@ -23844,7 +23858,7 @@ references:
   ISBN: 978-0-8076-0704-6
   issued:
     - year: 1974
-  language: en-US
+  language: en
   publisher: G. Braziller
   publisher-place: New York
   source: Open WorldCat
@@ -23966,42 +23980,6 @@ references:
   URL: >-
     https://www.metalocus.es/es/noticias/restauracion-del-palacio-del-emperador-susenyos-y-la-catedral-jesuita-de-danqaz
 
-- id: wynne-jones:2007creating81
-  abstract: >-
-    Urban communities on the medieval East African coast have been previously
-    discussed in terms of ethnicity and migration. Here assemblages from coastal
-    towns and from surface survey in the interior are used to paint a different
-    picture of urban (Swahili) origins. The author shows that coast and interior
-    shared a common culture, but that coastal sites grew into ‘stonetowns’
-    thanks to the social impact of imports: the material culture structured the
-    society.
-  accessed:
-    - year: 2020
-      month: 7
-      day: 20
-  author:
-    - family: Wynne-Jones
-      given: Stephanie
-  citation-key: wynne-jones:2007creating81
-  container-title: Antiquity
-  DOI: 10.1017/S0003598X00095247
-  ISSN: 0003-598X, 1745-1744
-  issue: '312'
-  issued:
-    - year: 2007
-      month: 6
-      day: 1
-  language: en
-  page: 368-380
-  source: DOI.org (Crossref)
-  title: >-
-    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
-    class="smallcaps">AD</span> 800-1300
-  type: article-journal
-  URL: >-
-    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
-  volume: '81'
-
 - id: wynne-jones:2014swahili
   accessed:
     - year: 2020
@@ -24050,6 +24028,42 @@ references:
   title: 'Ruins of Songo Mnara: a Swahili Stone Town'
   type: webpage
   URL: https://www.zamaniproject.org/site-tanzania-songo-mnara.html
+
+- id: wynnejones:2007creating81
+  abstract: >-
+    Urban communities on the medieval East African coast have been previously
+    discussed in terms of ethnicity and migration. Here assemblages from coastal
+    towns and from surface survey in the interior are used to paint a different
+    picture of urban (Swahili) origins. The author shows that coast and interior
+    shared a common culture, but that coastal sites grew into ‘stonetowns’
+    thanks to the social impact of imports: the material culture structured the
+    society.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 20
+  author:
+    - family: Wynne-Jones
+      given: Stephanie
+  citation-key: wynnejones:2007creating81
+  container-title: Antiquity
+  DOI: 10.1017/S0003598X00095247
+  ISSN: 0003-598X, 1745-1744
+  issue: '312'
+  issued:
+    - year: 2007
+      month: 6
+      day: 1
+  language: en
+  page: 368-380
+  source: DOI.org (Crossref)
+  title: >-
+    Creating urban communities at Kilwa Kisiwani, Tanzania, <span
+    smallcaps="smallcaps">AD</span> 800-1300
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S0003598X00095247/type/journal_article
+  volume: '81'
 
 - id: wynnejones:2013public32
   abstract: >-
@@ -24159,7 +24173,7 @@ references:
   type: graphic
   URL: https://www.flickr.com/photos/yanbing/354686605/
 
-- id: yingfang:river
+- id: yingfangchouying:river
   accessed:
     - year: 2020
       month: 9
@@ -24168,7 +24182,7 @@ references:
   author:
     - family: Ying倣仇英
       given: Unknown佚名 After Qiu
-  citation-key: yingfang:river
+  citation-key: yingfangchouying:river
   dimensions: 34.8 x 804.2 cm
   license: Public domain
   medium: Handscroll, ink and colors on silk
@@ -24587,7 +24601,7 @@ references:
     - year: 1970
   language: en-US
   number-of-pages: xxiii, 287 p.
-  publisher: <span class="smallcaps">MIT</span> Press
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   title: 'Town and square: from the agora to the village green'
   type: book
