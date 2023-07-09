@@ -44,18 +44,8 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pandoc
         run: >-
-          curl https://github.com/jgm/pandoc/releases/download/3.1.5/pandoc-3.1.5-linux-amd64.tar.gz
-          -o pandoc-3.1.5-linux-amd64.tar.gz
-          && sudo tar -xzf pandoc-3.1.5-linux-amd64.tar.gz
-          --strip-components 1 -C /usr/bin/
-      - name: Setup Pandoc-Crossref
-        run: >-
-          curl https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.16.0c/pandoc-crossref-Linux.tar.xz
-          -o pandoc-crossref-Linux.tar.xz
-          && tar -xf pandoc-crossref-Linux.tar.xz
-          && sudo cp pandoc-crossref /usr/bin/
-      - name: Setup Pandoc-Sidenote
-        run: cabal install pandoc-sidenote
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+          && brew install pandoc pandoc-crossref pandoc-sidenote
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
