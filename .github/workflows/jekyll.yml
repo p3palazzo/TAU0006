@@ -46,7 +46,9 @@ jobs:
         id: set-up-homebrew
         uses: Homebrew/actions/setup-homebrew@master
       - name: Setup Pandoc
-        run: brew install pandoc pandoc-crossref jez/formulae/pandoc-sidenote
+        run: brew install pandoc pandoc-crossref
+      - name: Setup Pandoc-Sidenote
+        run: cabal update && cabal install pandoc-sidenote
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
