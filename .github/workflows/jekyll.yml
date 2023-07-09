@@ -45,7 +45,7 @@ jobs:
       - name: Setup Pandoc
         run: >-
           eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-          && brew install pandoc pandoc-crossref pandoc-sidenote
+          && brew install pandoc pandoc-crossref jez/formulae/pandoc-sidenote
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
