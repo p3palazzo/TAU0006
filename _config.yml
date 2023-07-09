@@ -213,11 +213,7 @@ kramdown:
   enable_coderay: false
 pandoc:
   extensions:
-    - defaults: "_spec/html.yaml"
-    - csl: "assets/styles/chicago-note-bibliography-with-ibid.csl"
-    - section-divs
-    #- toc
-    #- template: "_lib/default.html5"
+    - defaults: "_data/defaults.yaml"
 relative_links:
   enabled: true
   collections: true
@@ -318,9 +314,11 @@ defaults:
       path: ""
       type: aula
     values:
+      author_profile: false
       layout: single
-      show_date: true
       read_time: true
+      show_date: true
+      #toc: true
   # _posts
   - scope:
       path: ""
