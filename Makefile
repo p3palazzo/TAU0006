@@ -4,13 +4,13 @@ VPATH = . assets
 vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
-vpath %.yaml . _spec _data
+vpath %.yaml . _data
 
-PANDOC_VERSION  := 3.1.1
-JEKYLL_VERSION  := 4.2.2
-PANDOC/CORE := docker run --rm -v "`pwd`:/data" \
+PANDOC_V  := 3.1.1
+JEKYLL_V  := 4.2.2
+PANDOC := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/core:3.1.1
-JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
+JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_V)-$(PANDOC_V)
 
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard _aula/*.md)
@@ -30,7 +30,7 @@ slides/%/index.html : _aula/%.md revealjs.yaml \
 	revealjs-crossref.yaml biblio.yaml $(SASS) \
 	assets/css/revealjs-main.scss
 	@-mkdir -p $(@D)
-	@$(PANDOC/CORE) -o $@ -d _spec/revealjs.yaml $<
+	@$(PANDOC) -o $@ -d _data/revealjs.yaml $<
 	@echo $(@D)
 
 .PRECIOUS : assets/css/revealjs-main.scss
@@ -38,10 +38,6 @@ assets/css/%.scss : _sass/%.scss
 	@-mkdir -p assets/css
 	@cp $< $@
 	@echo "$@ atualizado."
-
-%.pdf : %.md latex.yaml biblio.yaml metadata.yaml
-	@pandoc -o $@ -d _spec/latex.yaml $<
-	@echo $@
 
 .PHONY : serve
 serve : $(SLIDES)
