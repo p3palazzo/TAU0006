@@ -45,13 +45,14 @@ jobs:
       - name: Setup Pandoc
         run: >-
           curl https://github.com/jgm/pandoc/releases/download/3.1.5/pandoc-3.1.5-1-amd64.deb
-          -o pandoc-3.1.5-1-amd64.deb && dpkg -i pandoc-3.1.5-1-amd64.deb
+          -o pandoc-3.1.5-1-amd64.deb
+          && sudo dpkg -i pandoc-3.1.5-1-amd64.deb
       - name: Setup Pandoc-Crossref
         run: >-
           curl https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.16.0c/pandoc-crossref-Linux.tar.xz
           -o pandoc-crossref-Linux.tar.xz
           && tar -xf pandoc-crossref-Linux.tar.xz
-          && cp pandoc-crossref /bin/
+          && sudo cp pandoc-crossref /usr/bin/
       - name: Setup Pandoc-Sidenote
         run: cabal install pandoc-sidenote
       - name: Setup Pages
