@@ -2,7 +2,7 @@
 
 ## FAU–UnB
 
-![GitHub Pages](https://github.com/p3palazzo/TAU0006/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+![GitHub Pages](https://github.com/p3palazzo/TAU0006/actions/workflows/jekyll.yml/badge.svg)
 
 > História das cidades, dos edifícios e da edificação na tradição
 > europeia a partir do início do Renascimento na Itália até o século
